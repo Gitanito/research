@@ -11,7 +11,11 @@ ini_set('display_errors', 'On');
         //print_r($keyword);echo "<br><br><br>";
         $fp = $_wordindex[$keyword];
         if (strstr($fp,".md")) {
-            return $fp;
+            if (is_file("wiki/".$fp)) {
+                return str_replace('.md', '.html', $fp);
+            } else {
+                return "";
+            }
         } else {
             return findPage($fp);
         }
@@ -85,10 +89,18 @@ ini_set('display_errors', 'On');
             $match_links[$ml] = findPage($ml);
         }
 
-        foreach($match_links as $kw => $lnk) {
-            $out = preg_replace("/$kw/i", "<a href='" . $lnk . "'>" . $kw . "</a>", $out);
-        }
+        $keys = array_map('strlen', array_keys($match_links));
+        array_multisort($keys, SORT_DESC, $match_links);
 
+        $preout = $out;
+        foreach($match_links as $kw => $lnk) {
+            $preout = preg_replace("/$kw/i", md5($kw), $preout);
+        }
+        foreach($match_links as $kw => $lnk) {
+            $z = md5($kw);
+            $preout = preg_replace("/$z/i", "<a href='" . $lnk . "'>" . $kw . "</a>", $preout);
+        }
+        $out = $preout;
 
         $out .= '<br>'.join("<br>".PHP_EOL, $sources);
 
