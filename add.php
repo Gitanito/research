@@ -8,14 +8,10 @@ ini_set('display_errors', 'On');
 
     function findPage($keyword) {
         global $_wordindex;
-        //print_r($keyword);echo "<br><br><br>";
+
         $fp = $_wordindex[$keyword];
         if (strstr($fp,".md")) {
-            if (is_file("wiki/".$fp)) {
-                return str_replace('.md', '.html', $fp);
-            } else {
-                return "";
-            }
+            return str_replace('.md', '.html', $fp);
         } else {
             return findPage($fp);
         }
@@ -52,12 +48,14 @@ ini_set('display_errors', 'On');
         $outtext = [];
 
         $sources = [];
+        $sourcesl = [];
 
         foreach($intext as $line) {
             if (substr($line,0,1) === "[") { // this a citation-line
                 $l = explode(" ", $line);
                 $index = str_replace(['[',']'], "", $l[0]);
                 $sources[$index] = '<a name="cit'.$index.'">['.$index.']</a> <a target=_blank href="'.trim($l[1]).'">'.trim($l[1]).'</a>';
+                $sourcesl[$index] = '<a target=_blank href="'.trim($l[1]).'">^</a>';
             } else {
                 $outtext[] = $line;
             }
@@ -65,7 +63,7 @@ ini_set('display_errors', 'On');
 
         foreach($outtext as $tkey => $tline) {
             foreach($sources as $k => $s) {
-                $tline = str_replace('['.$k.']', '<sup><a href="#cit'.$k.'">['.$k.']</a></sup>',$tline);
+                $tline = str_replace('['.$k.']', '<sup><a href="#cit'.$k.'">['.$k.']</a> '.$sourcesl[$k].'</sup>',$tline);
             }
             $outtext[$tkey] = $tline;
         }
