@@ -1,4 +1,4 @@
 # research
 Research Database
 
-[Kenneth Albert Arnold.md](sources%2FKenneth%20Albert%20Arnold.md)
+[Kenneth_Albert_Arnold.md](sources/Kenneth_Albert_Arnold.md)
