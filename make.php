@@ -29,7 +29,7 @@ ini_set('display_errors', 'On');
 
 
                 $intitle = explode('.', $entry);
-                $intext = explode(PHP_EOL, file_get_contents($path));
+                $intext = explode("\r", file_get_contents($path));
                 $filename = trim($intitle[0]);
 
 
