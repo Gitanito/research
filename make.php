@@ -12,8 +12,8 @@ ini_set('display_errors', 'On');
         //echo "-".$keyword."-";
         //if ($keyword == "") die;
         $fp = $_wordindex[$keyword];
-        if (strstr($fp, ".md")) {
-            return str_replace('.md', '.html', $fp);
+        if (strstr($fp, ".html")) {
+            return $fp;
         } else {
             return findPage($fp);
         }
@@ -95,7 +95,7 @@ ini_set('display_errors', 'On');
 
                 $out .= '<br>'.join("<br>".PHP_EOL, $sources);
 
-                file_put_contents('wiki/'.$filename . ".md", $out);
+                file_put_contents('wiki/'.$filename . ".html", $out);
 
 
             }

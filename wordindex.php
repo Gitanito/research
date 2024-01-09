@@ -1,1 +1,1 @@
-<?php $_wordindex_ser = 'a:9:{s:21:"Kenneth Albert Arnold";s:24:"Kenneth Albert Arnold.md";s:14:"Kenneth Arnold";s:21:"Kenneth Albert Arnold";s:6:"Arnold";s:21:"Kenneth Albert Arnold";s:13:"List of Names";s:16:"List of Names.md";s:17:"Erasmus Francisci";s:20:"Erasmus Francisci.md";s:9:"Francisci";s:17:"Erasmus Francisci";s:17:"Erasmus Franziski";s:9:"Francisci";s:9:"Franziski";s:9:"Francisci";s:12:"Erasmus Finx";s:17:"Erasmus Francisci";}';
+<?php $_wordindex_ser = 'a:2:{s:17:"Erasmus Francisci";s:22:"Erasmus Francisci.html";s:12:"Erasmus Finx";s:17:"Erasmus Francisci";}';
