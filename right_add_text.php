@@ -1,11 +1,13 @@
 <?php
 include_once "header.php";
+include_once "functions_add.php";
 
 if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['mytext']) && trim($_POST['mytext']) != "" ) {
     $intitle = explode(',', $_POST['mytitle']);
     $intext = explode(PHP_EOL, $_POST['mytext']);
     $inlink = $_POST['mylink'];
-    include_once "functions_add.php";
+    $intype = "text";
+    add($intitle, $intext, $inlink, $intype);
 }
 ?>
 
@@ -23,7 +25,7 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                     <a class="nav-link" href="right_add_video.php">Video</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="right_add_document.php">Dok.</a>
+                    <a class="nav-link" href="right_add_bulk.php">Bulk</a>
                 </li>
             </ul>
         </div>
@@ -33,6 +35,7 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
 
 
             <form method="post">
+                <input type="hidden" name="type" value="text">
                 <div class="form-group">
                     <label for="tit">Titel</label>
                     <input type="text" class="form-control" id="tit" aria-describedby="titleHelp" name="mytitle">

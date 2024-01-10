@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.240" end="00:00:04.040" style="s2">nicht ganz unerwartet ist die Stimmung</p>
+<p begin="00:00:01.760" end="00:00:05.799" style="s2">zur neuen fsteuer alles andere als</p>
+<p begin="00:00:04.040" end="00:00:08.080" style="s2">positiv immer mehr Österreicher</p>
+<p begin="00:00:05.799" end="00:00:09.960" style="s2">schreiben in Dutzenden Kommentaren auf</p>
+<p begin="00:00:08.080" end="00:00:12.440" style="s2">den Social Media Plattformen aber auch</p>
+<p begin="00:00:09.960" end="00:00:15.000" style="s2">im Express Leserforum was sie von dem</p>
+<p begin="00:00:12.440" end="00:00:17.160" style="s2">zwangsinkasso für ideologisch verirrte</p>
+<p begin="00:00:15.000" end="00:00:18.960" style="s2">wettermoderatoren alte hum Simpson</p>
+<p begin="00:00:17.160" end="00:00:21.199" style="s2">Folgen irritierende aus</p>
+<p begin="00:00:18.960" end="00:00:23.640" style="s2">Berichterstattung und oft linkslastig</p>
+<p begin="00:00:21.199" end="00:00:25.760" style="s2">agierende Moderatoren halten nämlich</p>
+<p begin="00:00:23.640" end="00:00:27.560" style="s2">nichts die aufgeheizte Stimmung der</p>
+<p begin="00:00:25.760" end="00:00:30.039" style="s2">Österreicher gegen diese neue Form der</p>
+<p begin="00:00:27.560" end="00:00:32.840" style="s2">Finanzierung eines alten tvunternehmens</p>
+<p begin="00:00:30.039" end="00:00:34.879" style="s2">und seiner 3000 Mitarbeiter von denen</p>
+<p begin="00:00:32.840" end="00:00:37.040" style="s2">viele traumgaren erhalten ist deutlich</p>
+<p begin="00:00:34.879" end="00:00:38.920" style="s2">spürbar auch die Bundesregierung kann</p>
+<p begin="00:00:37.040" end="00:00:40.719" style="s2">diesen Protest diese Verärgerung von</p>
+<p begin="00:00:38.920" end="00:00:42.800" style="s2">hunderttausenden Wählern nicht einfach</p>
+<p begin="00:00:40.719" end="00:00:44.399" style="s2">auf Dauer ignorieren immerhin wird</p>
+<p begin="00:00:42.800" end="00:00:46.960" style="s2">spätestens im Herbst dieses Jahres</p>
+<p begin="00:00:44.399" end="00:00:49.399" style="s2">gewählt nach demem C2 Mitarbeiter Armen</p>
+<p begin="00:00:46.960" end="00:00:51.320" style="s2">Wolf rückt nun auch dessen zip2 Kollege</p>
+<p begin="00:00:49.399" end="00:00:53.320" style="s2">Martin Thür auf X aus um für die</p>
+<p begin="00:00:51.320" end="00:00:55.320" style="s2">umstrittene Steuereintreibung und gegen</p>
+<p begin="00:00:53.320" end="00:00:58.039" style="s2">eine von vielen längst gewünschte</p>
+<p begin="00:00:55.320" end="00:01:00.239" style="s2">Privatisierung des F zu kämpfen eine</p>
+<p begin="00:00:58.039" end="00:01:01.960" style="s2">Privatisierung des F oder ein ab Modell</p>
+<p begin="00:01:00.239" end="00:01:04.439" style="s2">wäre schlicht nichts anderes als sein</p>
+<p begin="00:01:01.960" end="00:01:06.200" style="s2">Ende der Markt ist viel zu klein niemand</p>
+<p begin="00:01:04.439" end="00:01:08.680" style="s2">sollte sich in dieser Diskussion selbst</p>
+<p begin="00:01:06.200" end="00:01:09.520" style="s2">anlügen der cip2 Mitarbeiter der nun</p>
+<p begin="00:01:08.680" end="00:01:10.640" style="s2">offenbar auch noch als</p>
+<p begin="00:01:09.520" end="00:01:12.479" style="s2">Kommunikationschef des</p>
+<p begin="00:01:10.640" end="00:01:15.320" style="s2">milliardenunternehmens nebenberuflich</p>
+<p begin="00:01:12.479" end="00:01:17.080" style="s2">tätig sein darf argumentiert dann privat</p>
+<p begin="00:01:15.320" end="00:01:18.720" style="s2">TV in Österreich rentiert sich nicht</p>
+<p begin="00:01:17.080" end="00:01:20.759" style="s2">noch nie hat ein TV-Sender aus</p>
+<p begin="00:01:18.720" end="00:01:23.560" style="s2">Österreich Geld verdient es gibt zwei</p>
+<p begin="00:01:20.759" end="00:01:25.479" style="s2">Systeme Puls 4 und ATV überleben weil</p>
+<p begin="00:01:23.560" end="00:01:27.920" style="s2">deutsche Fenster das österreichische</p>
+<p begin="00:01:25.479" end="00:01:30.200" style="s2">Programm subventionieren Tür erwähnt</p>
+<p begin="00:01:27.920" end="00:01:31.840" style="s2">dann nur so nebenbei dass die SIT</p>
+<p begin="00:01:30.200" end="00:01:34.000" style="s2">vielleicht auch deshalb so schwierig für</p>
+<p begin="00:01:31.840" end="00:01:36.880" style="s2">private tvunternehmen in Österreich ist</p>
+<p begin="00:01:34.000" end="00:01:39.079" style="s2">ween ein staatlich mit 722</p>
+<p begin="00:01:36.880" end="00:01:41.079" style="s2">Steuermillionen geförderetter platzhirch</p>
+<p begin="00:01:39.079" end="00:01:44.000" style="s2">den Markt blockiert niemand sonst könnte</p>
+<p begin="00:01:41.079" end="00:01:46.200" style="s2">sich 3000 Mitarbeiter mehrere TV-Kanäle</p>
+<p begin="00:01:44.000" end="00:01:48.479" style="s2">und Landesstudios für regionalsendungen</p>
+<p begin="00:01:46.200" end="00:01:50.799" style="s2">leisten und das beeinflusst natürlich</p>
+<p begin="00:01:48.479" end="00:01:53.040" style="s2">die Konkurrenzsituation massiv die</p>
+<p begin="00:01:50.799" end="00:01:54.960" style="s2">schwarzgrüne Bundesregierung wird in den</p>
+<p begin="00:01:53.040" end="00:01:56.560" style="s2">nächsten Wochen und nach dem kommenden</p>
+<p begin="00:01:54.960" end="00:01:58.600" style="s2">Umfrageergebnissen sicher noch</p>
+<p begin="00:01:56.560" end="00:02:01.039" style="s2">intensiver überlegen ob das F</p>
+<p begin="00:01:58.600" end="00:02:02.759" style="s2">zwangsteuermodell so volkssversprechend</p>
+<p begin="00:02:01.039" end="00:02:04.159" style="s2">für die kommende Wahl sein kann</p>
+<p begin="00:02:02.759" end="00:02:06.280" style="s2">alleinerziehenden Müttern</p>
+<p begin="00:02:04.159" end="00:02:08.959" style="s2">hartarbeitenden Pendlern oder den</p>
+<p begin="00:02:06.280" end="00:02:11.080" style="s2">Pensionisten zwangsweise 183 €</p>
+<p begin="00:02:08.959" end="00:02:13.840" style="s2">abzunehmen damit ein Radiomoderator</p>
+<p begin="00:02:11.080" end="00:02:15.959" style="s2">400.000 € kassieren kann das kommt bei</p>
+<p begin="00:02:13.840" end="00:02:18.000" style="s2">den Österreich nicht wirklich gut an von</p>
+<p begin="00:02:15.959" end="00:02:20.560" style="s2">dem Inkrafttreten des inkassogesetzes</p>
+<p begin="00:02:18.000" end="00:02:22.640" style="s2">wäre eine grundsätzliche Reform des</p>
+<p begin="00:02:20.560" end="00:02:23.640" style="s2">F mit einem umfassenden Sparprogramm</p>
+<p begin="00:02:22.640" end="00:02:26.640" style="s2">nötig</p>
+<p begin="00:02:23.640" end="00:02:26.640" style="s2">gewesen</p>
+</div>
+</body>
+</tt>

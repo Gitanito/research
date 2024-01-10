@@ -1,19 +1,29 @@
 <?php
 include_once "header.php";
+include_once "functions_add.php";
 
-if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['mytext']) && trim($_POST['mytext']) != "" ) {
+if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['mylink']) && trim($_POST['mylink']) != "" ) {
 
-    include_once "TranscriptYoutube.php";
-    findCaptions($_POST['mytext']);
-    die;
-    $intext = explode("\n", $source->plaintext."\n\n[1] ".$_POST['mytext']);
+    shell_exec ('./yt-dlp --write-subs --write-auto-subs --sub-langs '.$_POST['mylang'].' --sub-format ttml --no-download "'.$_POST['mylink'].'" --output temp/subtitles.txt');
+    $intext = [];
+    $intext_ = explode("\n", file_get_contents("temp/subtitles.txt.".$_POST['mylang'].".ttml"));
+
+    foreach($intext_ as $intext_line) {
+        if (substr($intext_line,0, 8) == "<p begin") {
+            $o = explode(">", $intext_line);
+            $oo = explode("<", $o[1]);
+            if (substr($oo[0],0, 1) != "[") {
+                $intext[] = $oo[0];
+            }
+        }
+    }
+
     $intitle = explode(',', $_POST['mytitle']);
-
-    include_once "functions_add.php";
+    $inlink = $_POST['mylink'];
+    $intype = "video";
+    add($intitle, $intext, $inlink, $intype, $_POST['mylang']);
 }
 ?>
-
-
     <div class="card">
         <div class="card-header">
             <ul class="nav nav-tabs card-header-tabs">
@@ -27,7 +37,7 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                     <a class="nav-link active" href="#">Video</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="right_add_document.php">Dok.</a>
+                    <a class="nav-link" href="right_add_bulk.php">Bulk</a>
                 </li>
             </ul>
         </div>
@@ -37,6 +47,7 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
 
 
             <form method="post">
+                <input type="hidden" name="type" value="video">
                 <div class="form-group">
                     <label for="tit">Titel</label>
                     <input type="text" class="form-control" id="tit" aria-describedby="titleHelp" name="mytitle">
@@ -44,7 +55,15 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                 </div>
                 <div class="form-group">
                     <label for="tex">URL / Link</label>
-                    <input id="tex" class="form-control" name="mytext">
+                    <input id="tex" class="form-control" name="mylink">
+                </div>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-secondary active">
+                        <input type="radio" name="mylang" id="option1" value="de" checked> DE
+                    </label>
+                    <label class="btn btn-secondary">
+                        <input type="radio" name="mylang" id="option2" value="en"> EN
+                    </label>
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>

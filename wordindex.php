@@ -1,1 +1,1 @@
-<?php $_wordindex_ser = 'a:2:{s:17:"Erasmus Francisci";s:22:"Erasmus Francisci.html";s:12:"Erasmus Finx";s:17:"Erasmus Francisci";}';
+<?php $_wordindex_ser = 'a:0:{}';
