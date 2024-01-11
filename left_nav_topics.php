@@ -35,9 +35,9 @@ include_once "header.php";
             <p class="card-text">
                 <ul>
                 <?php
-                    foreach ($_wordindex as $key => $wi) {
-                        if (substr($key,0, 1) != "_" && strstr($wi, '.html')) {
-                            echo "<li><a href='wiki/" . $wi . "' target=main>" . $key . "</a></li>";
+                    foreach ($_wordindex->findAll() as $obj) {
+                        if (substr($obj['name'],0, 1) != "_" && strstr($obj['value'], '.html')) {
+                            echo "<li><a href=wiki/" . rawurlencode($obj['value']). " target=main>" . $obj['name'] . "</a></li>";
                         }
                     }
                 ?>

@@ -1,6 +1,8 @@
 <?php
 include_once "header.php";
 
+$_additionals = new \SleekDB\Store("additionals", __DIR__ . "/sdb/data");
+
 ?>
 <script>
     $(document).ready(function(){
@@ -35,17 +37,19 @@ include_once "header.php";
             <p class="card-text">
                 <ul>
                 <?php
-                    foreach ($_wordindex as $key => $wi) {
-                        if (substr($key,0, 1) != "_") {
-                            echo "<li><a href='wiki/".findPage($wi)."' target=main>".$key."</a>";
-                            if (strstr($wi, ".html")) {
-                                echo " <a href='wordindex_edit.php?action=add&key=".$key."' target=main title='Ein Synonym hinzufügen'> + </a>";
+                    foreach ($_wordindex->findAll() as $obj) {
+                        // $key => $wi
+                        if (substr($obj['name'],0, 1) != "_") {
+                            echo "<li><a href='wiki/".findPage($obj['value'])."' target=main>".$obj['name']."</a>";
+                            if (strstr($obj['value'], ".html")) {
+                                echo " <a href='wordindex_edit.php?action=add&key=".$obj['name']."' target=main title='Ein Synonym hinzufügen'> + </a>";
                             } else {
-                                echo " <a href='wordindex_edit.php?action=del&key=".$key."' target=main title='Synonym entfernen'> - </a>";
+                                echo " <a href='wordindex_edit.php?action=del&key=".$obj['name']."' target=main title='Synonym entfernen'> - </a>";
                             }
                             echo "</li>";
-                            if (isset($_wordindex['_additionals'][$key])) {
-                                foreach ($_wordindex['_additionals'][$key] as $p) {
+                            $a = $_additionals->findBy(["name", "=", $obj['name']]);
+                            if (isset($a[0]['value'])) {
+                                foreach ($a[0]['value'] as $p) {
                                     echo "<li>&nbsp;&nbsp;&nbsp;<a href='wiki/".$p.".html' target=main>".$p."</a></li>";
                                 }
                             }

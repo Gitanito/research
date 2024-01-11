@@ -1,1 +1,0 @@
-<?php $_wordindex_ser = 'a:0:{}';

@@ -3,13 +3,14 @@ include_once "header.php";
 
 if (isset($_POST['action']) && isset($_POST['oldindex']) && trim($_POST['oldindex']) != "") {
     if ($_POST['action'] === "add" && isset($_POST['newindex']) && trim($_POST['newindex']) != "") {
-        $_wordindex[$_POST['newindex']] = $_POST['oldindex'];
+        $exists = $_wordindex->findBy(["name", "=", $_POST['newindex']]);
+        if (!isset($exists[0])) {
+            $_wordindex->updateOrInsert(["name" => $_POST['newindex'], "value" => $_POST['oldindex']]);
+        }
     }
     if ($_POST['action'] === "del") {
-        unset($_wordindex[$_POST['oldindex']]);
+        $_wordindex->deleteBy(["name", "=", $_POST['oldindex']]);
     }
-    $wc = '<?php $_wordindex_ser = \'' . serialize($_wordindex) . '\';';
-    file_put_contents('wordindex.php', $wc);
     unset($_GET);
     unset($_POST);
 }

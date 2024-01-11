@@ -6,6 +6,7 @@ include_once "simple_html_dom.php";
 
 if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['mylink']) && trim($_POST['mylink']) != "" ) {
 
+
     $source = file_get_html($_POST['mylink']);
     $intext = explode("\n", $source->plaintext."\n\n[1] ".$_POST['mylink']);
     $inlink = $_POST['mylink'];
@@ -13,38 +14,8 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
     $intype = "link";
     add($intitle, $intext, $inlink, $intype);
 
-    if (isset($_POST['mysubs']) && $_POST['mysubs'] === "1") {
-        $baseurl = parse_url($_POST['mylink']);
-        $regexp = "(.*?)<a .*?href=\"(.*?)\".*?>(.*?)<\/a>(.*)";
-        if(preg_match_all("/$regexp/m", file_get_contents($_POST['mylink']), $matches, PREG_SET_ORDER)) {
-
-            foreach($matches as $match) {
-                // $match[2] = link address
-                // $match[3] = link text
-                $link = $match[2];
-                switch (substr($match[2],0,1)) {
-                    case "/":
-                        $link = $baseurl["scheme"].'://'.$baseurl["host"].$match[2];
-                        break;
-                    case "h":
-                        $link = $match[2];
-                        break;
-                    default:
-                        $link = $baseurl["scheme"].'://'.$baseurl["host"].$baseurl["path"].'/'.$match[2];
-                }
-                $source = file_get_html($link);
-                $intext = explode("\n", $source->plaintext."\n\n[1] ".$link);
-                $inlink = $link;
-                $intitle = explode(',', $match[3]);
-                $intype = "link";
-                add($intitle, $intext, $inlink, $intype);
-            }
-        }
-    }
-
 }
 ?>
-
 
     <div class="card">
         <div class="card-header">
@@ -79,12 +50,10 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                     <label for="tex">URL / Link</label>
                     <input id="tex" class="form-control" name="mylink">
                 </div>
-                <div class="form-group form-check">
-                    <input type="checkbox" name="mysubs" value="1" class="form-check-input" id="exampleCheck1">
-                    <label class="form-check-label" for="exampleCheck1">Sub-Links importieren</label>
-                </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
+
+            <a class="btn btn-link" target="main" href="import_sublinks.php">Eine Link-Liste importieren</a>
 
             </p>
         </div>
