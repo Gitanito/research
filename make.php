@@ -53,7 +53,7 @@ while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
             if (strlen($filename) < 6) continue;
 
             if (strlen($entry["content"]) < 200000) {
-                $filecontent = file_get_contents("data/contents/".$entry["id"].".txt");
+                $filecontent = file_get_contents("sources/".$entry["id"].".txt");
                 $intext = explode(PHP_EOL, $filecontent);
                 unset($intext[0]);
 

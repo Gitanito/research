@@ -14,6 +14,8 @@ include_once "simple_html_dom.php";
 
         let mylist = [];
         let running = false;
+        let startcount = 0;
+
         $( function() {
 
             function doit() {
@@ -32,7 +34,7 @@ include_once "simple_html_dom.php";
                     let info = v.split("&");
                     let title = info[0].split("=");
                     $("#progress_info").html("<b>"+decodeURIComponent(title[1].replace(/\+/g, '%20'))+"</b> wurde importiert.");
-                    $("#progress_count").html("<b>"+mylist.length+"</b> weitere in der Warteschlange.");
+                    $("#progress_count").html("<b>"+mylist.length+"</b> Weitere von <b>"+startcount+"</b> in der Warteschlange.<br><b>"+Math.ceil(mylist.length/(startcount/100))+"%</b> verbleibend.");
                     $("#progress_alert").show();
                     //window.parent.frames.left.location.reload();
                     if (mylist.length < 1) {
@@ -45,9 +47,20 @@ include_once "simple_html_dom.php";
 
             $(".import").on( "click", function() {
                mylist.push($(this).data("q"));
+               startcount = mylist.length;
                $(this).prop('disabled', true);
-               $("#progress_count").html("<b>"+mylist.length+"</b> weitere in der Warteschlange.");
+               $("#progress_count").html("<b>"+mylist.length+"</b> Weitere von <b>"+startcount+"</b> in der Warteschlange.<br><b>"+Math.ceil(mylist.length/(startcount/100))+"%</b> verbleibend.");
             });
+
+            $('#allpdf').on( "click", function() {
+                $( ".bulk" ).each(function() {
+                    mylist.push($(this).data("q"));
+                    $(this).prop('disabled', true);
+                });
+                startcount = mylist.length;
+                $("#progress_count").html("<b>"+mylist.length+"</b> Weitere von <b>"+startcount+"</b> in der Warteschlange.<br><b>"+Math.ceil(mylist.length/(startcount/100))+"%</b> verbleibend.");
+            });
+
 
             window.setInterval(function () {
                 if (mylist.length > 0 && !running) {
@@ -78,6 +91,8 @@ include_once "simple_html_dom.php";
             </p>
         </div>
     </div>
+<?php if (isset($_POST['myurl'])) { ?>
+    <a class="btn btn-danger" id="allpdf">Importiere alle PDFs</a><br><br><br>
 
 <table>
     <tr><th>Importieren</th><th>Titel</th><th>Link</th></tr>
@@ -121,7 +136,8 @@ if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
             $intype = "link";
 
             //$imported = $_content->findBy([["type", "=", "link"],["mylink", "=", $inlink]]);
-            echo "<tr><td><button class='import' id='l".$key."' data-q='mytitle=".urlencode($intitle)."&mylink=".urlencode($inlink)."' ".(in_array($inlink, $imported)?"disabled":"").">Import</button></td>";
+            $dis = in_array($inlink, $imported);
+            echo "<tr><td><button class='import ".((!$dis && strstr($inlink, '.pdf'))?"bulk":"")."' id='l".$key."' data-q='mytitle=".urlencode($intitle)."&mylink=".urlencode($inlink)."' ".($dis?"disabled":"").">Import</button></td>";
             echo "<td>".$intitle."</td>";
             echo "<td><a target=_blank href='".$inlink."'>".$inlink."</a></td>";
 
@@ -142,4 +158,5 @@ if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
         <p class="mb-0" id="progress_doing"></p>
     </div>
 <?php
+}
 include_once "footer.php";

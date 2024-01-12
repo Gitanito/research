@@ -62,7 +62,7 @@ while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
         $entries = $db->query("SELECT * FROM content order by id asc LIMIT 999999 OFFSET ".$startid.";");
         $ekey = 0;
         while ($entry = $entries->fetchArray(SQLITE3_ASSOC)) {
-            $filecontent = file_get_contents("data/contents/".$entry["id"].".txt");
+            $filecontent = file_get_contents("sources/".$entry["id"].".txt");
             $intext = explode(PHP_EOL, $filecontent);
             unset($intext[0]);
 

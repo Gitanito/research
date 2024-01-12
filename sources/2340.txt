@@ -1,0 +1,1171 @@
+{"type":"link","mylink":"http:\/\/psypioneer.iapsop.com\/psypioneer_v5_n2_feb_2009.pdf","mytitle":"Psypioneer V5 N2 Feb 2009","mylang":"de"}
+Archived by
+Garth Willey
+Edited by
+Paul J. Gaunt
+PSYPIONEER
+Founded by Leslie Price
+Volume 5, No 2: February 2009
+EST 2004
+Highlights of this issue:
+William Crookes biography - Barry Wiley Comments 39
+Mesmeric Mediumship: The case of Emma - Dr. Carlos S. Alvarado 43
+Autobiographical Sketch – Ernesto Bozzano 52
+1930s Scottish medium photographed in infrared 54
+The origin of Allan Kardec’s “Spirits Book” – Anna Blackwell 55
+What was the first Spiritualist Newspaper? – Leslie Price 58
+Reminiscences of a remarkable medium – H. A. Dallas 59
+Mr. W.H. Terry: - A pioneer Australian Spiritualist – Banner of Light 64
+Books for sale 67
+How to obtain this Journal by email 68
+=========================================
+In the last issue, we changed from Psypioneer Newsletter, to Psypioneer Journal
+and introduced our new logo.
+Unfortunately, some subscribers received their journal with the wrong Psypioneer
+est. date, stating it as 2005; this should have read est. 2004.
+38
+WILLIAM CROOKES – ANNA EVA FAY
+BIOGRAPHIES
+Introductory Note by Psypioneer: -
+We called attention in our July 2008 issue to a new biography of William
+Crookes,1
+which has however no mention of the recent biography of Annie Fay, which
+we had previously noted. 2
+Barry Wiley, author of the Fay study has kindly made the following comments: -
+Given the some twenty years or so of research that went into my biography of
+Anna Eva Fay [The Indescribable Phenomenon: the Life and Mysteries of Anna Eva Fay,
+Hermetic Press, 2005]3
+which included a great deal of research into the life of William
+Crookes, I anticipated that Professor Brock’s new biography of Crookes would include
+substantial new materials, including, perhaps, new insights into the most notorious period
+of Crookes’ long life, the Spiritualistic investigations of 1871-1875.
+Unfortunately, that has not been the case, particularly with the respect to the last
+mediumistic investigation which Crookes undertook in February, 1875, with Anna Eva
+Fay. As Crookes publicly stated that the February 19th
+séance was, in fact, a genuine
+demonstration of a “non-human” force, a statement to which all of the other observers
+that evening, including Francis Galton and William Huggins, agreed, it would seem that
+Professor Brock would have been very careful of his facts and conclusions in Chapter 11.
+But he was not.
+Beginning first in Chapter 10, with the Cromwell Varley investigation of Florence
+Cook using a galvanometer, Brock makes the strange statement: “Florence was placed in
+the circuit by attaching wires to her wrists with blotting paper moistened with a
+conducting solution.” This statement makes no sense as written. In fact, the wires from
+the galvanometer were soldered to platinum wires that were, in turn, soldered to gold
+sovereigns which then were pressed against the moistened blotting paper and held tightly
+against her wrist with elastic bands.
+In his exhaustive recreation of the Varley galvanometer tests, Christopher J.
+Stephenson, a member of the SPR, which he wrote up for the Proc. S.P.R., April, 1966,
+Vol. 54, Part 198, [“Further Comments on Cromwell Varley’s Electrical Test on Florence
+Cook”] determined three things from his work. 1) That all of the reported phenomena
+1
+William Crookes: A Major Reconsideration: - William Crookes and the Commercialization of Science by
+William H. Brock, Ashgate (UK), 2008. See: - http://woodlandway.org/PDF/PP4.7July08..pdf
+2
+Doubts About Control of Mediums by Crookes: -
+http://woodlandway.org/PDF/Leslie_Price_PP14_2005.pdf
+3
+The Indescribable Phenomenon by Barry H. Wiley, Hermetic Press, Inc - http://www.hermeticpress.com
+39
+regarding the apparent materialization of Katie King could be accomplished without
+Cook breaking the electrical circuit; 2) That Varley deceived himself with his untested
+conclusions regarding how the galvanometer would react under various séance conditions
+which reinforced his conclusion that Cook was genuine. (Crookes would later make
+similar confident statements based only on his perceptions, not experimental
+experience.); 3) That, fake or genuine, the Varley arrangement could prove nothing.
+In Chapter 11, p. 195, Brock makes many initial statements that are wrong. He
+says “although the [AEF] act was familiar in music halls and vaudeville”. No, the act was
+not so familiar. Fay did not go into vaudeville until 1894 with the Cotton Bandage Test
+forming one half of her program and mindreading, “Somnolency”, being the other.
+Brock states that Fay had an early interest in Theosophy and sat at the feet of
+HPB. No. She never met HPB as Blavatsky had left New York for India before AEF
+arrived, and AEF did not take up Theosophy until the late 1880’s. AEF focused on
+making her living as a medium doing a dark séance then adding the Cotton Bandage Test
+as her light séance.
+Arriving in Great Britain, AEF and Henry Cummings Fay promoted their
+performances as they had in the U.S., in sharp contrast to the quieter mode of advertising
+customary in the UK which relied more on word of mouth. Compared to America, there
+were far fewer professional public mediums, with British Spiritualism being more
+focused on family circles. Though the press, general and Spiritualist, acknowledged the
+remarkable phenomena that appeared so regularly at AEF’s séances; AEF was roundly
+criticized for her “rogue and vagabond” mode of advertising. But it raised her profile and
+brought in the money.
+P.197. Brock states that the electrical arrangement used with AEF was the same
+as with Cook. No. At a trivial level, Varley used a series resistance while Crookes (who
+had been using galvanometers since 1872, based on a note written to his assistant Charles
+H. Gimingham, November 5, 1872) always used a shunt resistance, a difference that had
+no impact on the tests. But the most critical aspect was the medium’s interface with the
+circuit. Varley used small gold coins held against Cook’s wrists with elastic bands;
+Crookes, however, used brass handles wrapped with brine-soaked linen which, with the
+broader area of contact with the palm, provided a much lower more stable resistance,
+thereby ensuring that AEF’s body resistance would effectively be the only resistance in
+the circuit.
+Also on page 198, Brock postulates, “It seems more likely that by sliding one
+wrist and forearm along the handle keeping the circuit closed by forearm and elbow, and
+other bodily contortions, the galvanometer would not be affected.” No. Various other
+plausible solutions have been offered by Houdini, Maskelyne and many others, all of
+which ignored the conditions of the séance and the phenomena reported, a key condition
+of which was that on the 19th
+Galton and Huggins had nailed the handles down at the
+widest possible positions on the table without having warned either Crookes or Fay that
+they were going to do it. All of the proposed solutions resulted in only one hand being
+40
+freed. Unlike Cook, who did not need to be free of the circuit to produce her
+materialization, AEF had to be completely free of the brass handles to accomplish the
+effects reported on the 19th
+both during and after the séance. She had to be able to walk
+about the darkened library to retrieve books, unlock Crookes’ desk to get a pack of
+cigarettes, play a violin and place a piece of china on a table at the far end of Crookes’
+library. The response time of the galvanometer was slow, but not that slow.
+Brock, also, does not inform the reader that no magician or psychical researcher,
+has ever duplicated the AEF séance under the same conditions as reported. At the time,
+Alfred Russel Wallace insisted that those criticizing Crookes for his public endorsement
+of AEF, should first be required to duplicate her performance under the same conditions,
+and if successful, then criticize Crookes. Certainly a rational attitude, but no one,
+including W. B. Carpenter, paid any attention to it. Or has since.
+Brock also states on p. 198, that AEF was a highly competent illusionist. No. AEF
+did not work with illusions, basically the Asrah floating woman and the rapping hand,
+until well into her vaudeville career in the early 1900’s. She often had a magician in her
+vaudeville troupe. Also, he states that she was voted a member of the Magic Circle in
+1912. No. She was voted the first Honorary Lady Associate of the Magic Circle. There
+were no female members of the Magic Circle until almost eighty years later. The Circle
+Secretary visited AEF at her hotel to inform her of the honor, while stating that she could
+only attend Ladies Night meetings. She was not welcome at the regular meetings. AEF
+sent a polite acceptance offering to be of whatever service she could to the Circle – and
+paid the fee required. She never attended a meeting, nor did any Circle member every call
+on her with questions.
+P.198, note 14. Professor Brock says that AEF sued her son John. No. AEF never
+sued her son. John and his wife, Eva, sued one of their former employees for stealing
+their act – they lost. Brock apparently does not realize the marked difference between
+AEF and her daughter-in-law, Eva Fay. He also tells the reader that AEF retired in 1917
+and moved to a farm in New Hampshire to care for Belgian war orphans. No. The farm
+story came from one small newspaper clipping. There is no record of any farm in NH
+owned by Anna Eva Fay Pingree. She never mentioned the farm again. Milbourne
+Christopher included the farm story in his chapter on AEF in his book Mediums, Mystics
+and the Occult. Eric Dingwall took the story from Christopher and repeated it in his book
+Critic’s Dilemma. Also, AEF retired in 1924, not 1917, and she retired to her palatial
+home, Heathman Manor, in Melrose Highlands, MA. Her Melrose estate included two
+other houses, a forty-foot long log cabin in which she taught courses in Theosophy, and a
+stable which became a garage for her many automobiles. At one time AEF owned eight
+automobiles at a time when few Americans owned even one.
+P.199. Brock states that the Washington Irving Bishop exposure of the AEF
+séances appeared in the Spiritualist journal Banner of Light. No. Luther Colby, editor of
+the Banner, hated Bishop and would have never published anything from the exposer’s
+pen. In fact, Bishop’s Fay exposure appeared Wednesday, April 12, 1876, in the New
+York Daily Graphic, a notorious scandal sheet, under the title “The Greatest Humbug”.
+p41, six lines up, delete words AT A TIME.
+41
+P.199. Brock lists references published by Dingwall and Houdini (Brock omits
+Walter Franklin Prince, to whom AEF spun yet another version just three months before
+her death) regarding admissions by AEF that she had cheated Crookes. No. The AEF
+stories related in A Magician Among the Spirits and in Dingwall’s Critic’s Dilemma
+regarding how she had fooled Crookes are not true, and the conversations quoted, in fact,
+most likely never took place. For example, on July 8, 1924, Houdini visited AEF at
+Heathman Manor for five hours. One of his first questions which he records in the notes
+he made from the visit, was how had she beaten the Crookes galvanometer? Why did he
+ask if he had already published her answer? As it is, the answer that AEF gave him was
+so far-fetched that even Houdini admitted in his notes that he could not believe it. But
+why did he ask if he already knew?
+There are other statements in the book, but the above is sufficient to show that
+Professor Brock is relatively unfamiliar with the history of magic and Spiritualism, and
+apparently feels that AEF is a secondary character in the arc of the Crookes story. If she
+were not the last medium endorsed as genuine by Crookes, I would have some sympathy
+for Professor Brock’s position. But Crookes said she was genuine, on the 19th
+and only on
+the 19th
+. He never issued a blanket endorsement of AEF, regardless of the later
+advertising that AEF used up until 1894. And it is reasonably clear how AEF beat the
+Crookes galvanometer test on the 19th. You’ll find it in Chapter 8 of my book.
+A number of years ago when I first began serious interest in AEF, I kept
+encountering the name, Mostyn Gilbert. And the first time I contacted Dingwall, he
+referred all questions to Mostyn, declining to answer any himself. Mostyn and I finally
+met at Fraser Nichol’s house in Lexington, MA, which was less than a mile from my own
+home in Lexington. We discovered that our interests complemented each other, and we
+were not competitors. From that time on, Mostyn and I traded all the Fay information we
+collected. Mostyn stayed in my house, while I stayed in his. But on his last visit, he was
+obviously becoming quite ill, and his passage home by ship was a difficult crossing.
+When he went to a doctor, it was determined that he had cancer. Shortly before he died,
+Mostyn left a note for me that was forwarded by Inge, Mostyn’s wife. He asked me to
+finish the project, which was the AEF biography. Originally, we had agreed that Mostyn
+would do the biography while I would write the play. At Mostyn’s request, therefore, I
+dropped everything to begin the detailed research necessary to do the biography which on
+publication in 2005 was dedicated to Mostyn. The play remains unfinished.
+That Sir William Crookes is deserving of a new biography is beyond question,
+and Professor Brock is to be complimented for taking on the work. It is to be regretted
+that he did not dig deeper in his research.
+_____________
+42
+Introductory Note by Psypioneer: -
+Dr. Carlos S. Alvarado4
+is affiliated with the Division of Perceptual Studies,
+Department of Psychiatry and Neurobehavioral Sciences, at the University of Virginia.
+4
+See: - An interview with Dr. Carlos S. Alvarado by Michael Tymn -
+http://metgat.gaia.com/blog/2008/12/an_interview_with_dr_carlos_s_alvarado
+43
+Mesmeric Mediumship: The Case of Emma
+Carlos S. Alvarado (1)
+While a good part of the modern historical discussions of mediumship focus on the
+nineteenth-century (e.g., Owen, 1990), it is well known that individuals claiming to
+receive recurrent, and sometimes controlled, communications from the dead existed in
+previous times, coming from antiquity (Ogden, 2001; Paton, 1921). Podmore (1902),
+among others, has reminded us of the activities of Swedenborg and several other
+individuals and movements that presented examples of mediumship before the
+appearance of the Fox sisters and of the development of modern spiritualism. (2) He also
+noticed that mesmerism also presented interesting cases of phenomena said to have been
+produced by spirits of the dead acting through mesmerized individuals (Podmore, 1902,
+Chapter 6, Vol. 1). (3) An example was Cahagnet (1851), who reported that his
+somnambules saw and interacted with presumed spirits of the dead. Another example,
+and the topic of this paper, was an English woman called Emma. The purpose of this
+article is to present excerpts of the “mediumistic” performances of Emma.
+Emma’s Mesmeric Performances
+The performances of Emma are reported in the book of British physician Joseph W.
+Haddock Somnolism & Psycheism (1851). (4) Emma, whose initials were E.L., was
+described by Haddock to be a young woman, 24 years of age by December of 1850, from
+Worcestershire. Of “rather sallow complexion, and of a nervous-bilious temperament,”
+(p. 84) she was said not to be able of much exertion. Emma started working in Haddock’s
+house as a servant in 1846. Her phenomena, similar to those of many other somnambules,
+were quite varied. Haddock presented summaries of her clairvoyance at a distance, in
+some cases of which she was able to find lost money or property. In addition Emma
+showed trances, amnesia of the trance state, and catalepsy. She also presented behaviours
+suggesting she was sensitive to Haddock’s mental suggestions, to his mesmerizing other
+people at a distance, and to magnets located close by.
+Emma and the “Other” World
+In a section of his book Haddock described mediumistic phenomena involving apparent
+contact with spirits. This was chapter nine, entitled “Extasis, or Trance.” Haddock
+referred to extasis as a “sort of swoon” under which “the mind became, as it were,
+loosened from its bodily connection, and could, by this means, obtain a perception of
+objects, and a knowledge of things not cognizable to the ordinary senses” (p. 180). The
+ancients, he wrote, used the word extasis to describe this “because the mind thus stood,
+comparatively, out of the body” (p. 180). Haddock stated that this condition appeared to
+be “a merely partial uncovering of the veil which conceals ‘the things unseen;’ and
+Extatics may be considered as travellers in an unknown country, enabled to see
+something of its nature, and to report, according to the degree of their perception, or
+powers of observation” (p. 180).
+44
+Haddock’s account of the phenomena lack many important details such as information
+about the identity of the “Lady” that Emma was in contact with. Furthermore, with the
+exception of some quotes coming from Emma’s experiences, which most probably are
+reconstructions by the author, the book presents mainly Haddock’s account of the events.
+The material reprinted here presents themes of spirit communications similar to those
+found in the early spiritualistic literature. Some of these includes discussions of death as
+the exit of the spirit from the body (Hare, 1855), the existence of spiritual spheres and
+places where spirits reside (Davis, 1867), and visions of people and places, including
+mentions of gardens (Edmonds & Dexter, 1854).
+The following are long excerpts from Haddock’s book, which I transcribe as a reminder
+of the existence of these mesmeric phenomenon:
+Frequently during the spring and summer of 1848, Emma would, in the
+mesmeric state, speak of the scenery and nature of the spirit-world, in such a way
+as to impress the beholder with a conviction, that the descriptions she gave could
+not be the result of any previously acquired knowledge, or of an active
+imagination. She also, occasionally, spoke of things which had actually occurred,
+but which it was impossible for her to know by any ordinary means . . . . (p. 181)
+In these states of spontaneous extasis she preserved a recollection, at times, of
+the place she was actually in, and of the persons by whom she was surrounded:
+and, at the same time, she had a distinct sensational perception of a higher and
+spiritual state of existence, and of a class of beings living in such a state. She
+would speak of these things while in the trance; and on her return to the normal
+state, she could recollect, and, with a feeling of awe and diffidence, again describe
+what she had seen and heard. During the first trance of four hours’ duration,
+which occurred on the 28th of September, 1848, and was witnessed by several
+highly respectable gentlemen from Manchester, she was so far elevated in her
+perceptions, that she spoke of this world as the other world, just as if she had
+passed from this life by death. She said, also, that the persons in the room with
+her, appeared only like shadows, and a long way from her. Upon examination, she
+was found, in this and other trances, insensible to pain, and her eyes upturned, as
+in the ordinary mesmeric state, and her limbs continued flexible. At times, she
+would seem wholly indrawn; and then she would, as it were, return and speak of
+what was passing before her mental vision. But, in a subsequent trance, of six
+hours’ duration, she became, for a part of it, quite insensible to all outward things,
+and perfectly cataleptic from head to foot. A gentleman, who was with me on this
+occasion, assisted me to raise her body, and we found it as stiff and inflexible as a
+log of wood. (p. 184)
+The subject of these trances would afford matter for many pages; but some
+were of a private character, and, although highly interesting to the parties
+concerned, would not be interesting to others, except as illustrating the nature of
+the spirit’s home, and some of the general laws by which spiritual associations are
+regulated . . . . (p. 184-185)
+45
+A general statement of Emma’s revealments while in the state of extasis, will
+enable the reader more fully to comprehend the particular details of individual
+trances. Man is represented as a spiritual being, rising from what she calls “the
+shell” of the dead material body, immediately after death; or as soon as the
+connection between the soul and its material covering is completely severed,
+which she says, does not sometimes occur, until a day or two after what appears
+as death. The risen and emancipated spirit, is a perfectly organised existence,
+preserving the human form, and having a complete sensational perception of his
+fellow spiritual beings, and of the beautiful scenery of the spiritual spheres; that
+is, provided he possessed during his natural life, a moral state in harmony with
+those spheres. The male and female sex retaining all the characteristics necessary
+to a spiritual state of existence, and living together in a state of angelic union,
+being united as to their minds. Those who have been interiorly united here,
+coming into a state of union hereafter; those who have not been mentally united
+here, seek their true mental counterpart hereafter. She represents male and female
+spiritual beings thus united, appearing at a distance as one, and says they are not
+called two, nor the married, but THE ONE. Infants and young children who have
+passed from this world by death, are stated to grow to a state of adolescence, but
+more speedily than in the natural world. During infancy, and early childhood, they
+are confided to the care of good female spirits, or angels, whose delight it is, to
+instruct them by various methods, especially by representations of things, which
+form a sort of pictorial teaching. These spiritual spheres are not located in the
+distant regions of space, or in the sun, or heavenly bodies; but are connected
+apparently with our own planet, and the spiritual inhabitants are in close
+association with us, and exercise an influence over us, although we are
+unconscious of it . . . . In the highest state of extasis, she appeared to herself to be
+among spiritual beings as one of themselves, at home, and surrounded by objects
+which to her were real, and which appeared more real, than the shadowy beings,
+with whom she was naturally associated. At other times, she said, that she
+appeared to the spiritual beings as shadowy, and her own perceptions were
+proportionably obscure. The first receptacle, or common plane of departed spirits,
+she describes as a sort of middle state or place, from which the good, as they
+become prepared, ascend gradually, to higher and more delightful places; those
+that are the best having higher abodes than the others. All, she says, are welcomed
+by angelic spirits on their arrival in the spirit-world; but the evil will not associate
+with the good, and recede of their own accord, more or less rapidly, to darker
+places below this middle state, and which appeared also to be to the left: but of
+these darker places she had not seen so much, as of the abodes of the good . . . .
+(pp. 185-187)
+I have said, that before Emma became the subject of the extatic state, she had,
+in the ordinary mesmeric state, began to speak frequently of spiritual objects and
+beings. I soon perceived, that one being, under whose influence she seemed to be,
+and of whom she frequently spoke, had been most nearly related to me, while in
+this world, but she had departed this life for about ten years when the first of these
+trances occurred. Emma always says that this “lady,” as I will call her, following
+46
+Emma’s phraseology, “helps her” in all serious cases of illness, and the like, but
+not in mere secular, or trifling cases . . . . She also spoke of a fountain of crystal
+water, in which, she said, the “lady” bathed her, before she could follow her to
+behold the scenery she afterwards described . . . . The following narrative will
+shew that, at least, some of the matters connected with these trances, cannot be
+accounted for by resolving them into mere imaginative action; but that there is a
+reality in her extatic perceptions and that she then possesses a super-sensual gift.
+(pp. 187-188)
+In the month of July, 1848, she told me, on a Saturday evening, while in the
+mesmeric state, that the “lady was coming to her, in the night between Sunday
+and Monday, and that she would show her a book with some writing in, which she
+was to take and shew to me;” and further, that the “lady would come to her again,
+at a quarter past nine on Monday morning when she would know more about it.” I
+found her, as usual, on awaking, ignorant of what had transpired, and carefully
+concealed it from her . . . . From the general drift of her remarks, and her
+connecting the books and the writing with the “lady,” I concluded, that, if there
+was any truth in her statements, one of three books was intended; two of these
+were in the house, the other, a small pocket-bible, was not in the house; but
+experience having convinced me of the correctness of her predictions, I got this
+little bible, unknown to her, and put it, with the other two books, on the shelves
+with many more, taking care not to put them together. In the night she got up in a
+state very similar, if not quite like somnambulism, and descending two flights of
+stairs, unheard by me, she went to the book-shelves, and selected this very pocket-
+bible, and ascending the stairs with it, came to my room, the opening of the door
+of which aroused me. She walked up to me, and addressing me in the peculiar
+way she then used to do, when mesmerised, she said,—“I have brought you a
+book which the ‘lady’ wishes you to read to me.” She was holding the book open
+over the top of her head, with the inside of the book next her. This I could see by
+the twilight; but, as I could not see whereabouts the book was opened, I went to
+get a candle for that purpose, but, in doing so, owing to the darkness, I
+inadvertently knocked the book out of her hand. She picked it up, and speedily
+found the place again, by turning over the pages, right and left, over her head, in
+her usual mesmeric manner, until she said she had found the same place again.
+The passage selected was Joshua, ch. i. vv. 8, 9 . . . . I read the passage to her; she
+said, “Yes! that is it,—‘Be of good courage,’ that is what the lady reads.” When I
+began to read beyond the tenth verse, she stopped me, saying, “the lady did not
+read that.” She appeared quite pleased and relieved by my reading to her, and
+soon spontaneously awoke . . . . She also told me circumstances connected with
+the history of that book [the Bible], which, she said, the lady told her, and in
+which the “lady was concerned; which I am positive she could not know by any
+ordinary means; for some were only known to myself! She was asked to tell by
+what means she found the passage, as she could not read, and was also in the
+dark? She replied, that the “‘lady’ had a similar book, but a larger one, open upon
+the left arm, where it lay without any weight, and that the ‘lady’ pointed, with the
+right hand, to the same pages and text: That her own hands seemed guided in their
+47
+movements by the ‘lady’s’ hand; and that when she had got to the right place, she
+could no longer turn the pages, either to the right or left!” How far this was fancy,
+or some real quasi magnetic drawing, it is impossible rightly to determine; but it
+is certain, that on trying her with the same bible a few months afterwards, when
+she had lost the connecting influence, she could not, after repeated trials, find the
+passage as she previously had done . . . . (p. 188-190)
+On Thursday, September 28th, 1848, Emma went into a trance she had foretold
+nearly two months before: this was the most remarkable she had, and lasted nearly
+four hours . . . . I . . . found her seated in a chair, partially cataleptic, with her eyes
+fixed, wide open, and staring, as it were, into vacuity. I spoke to her; but, at first,
+she did not hear me; I then saw her eyes roll upwards and inwards, as in the
+mesmeric state, and then the eyelids closed. She re quested me “not to take her
+away,” that is, not to interfere with the trance, which I promised, and led her to a
+more convenient place, where she might recline. I found it was with difficulty she
+could stand, and I had to support her to the seat prepared for her. She soon sunk
+into a complete sort of lethargy; occasionally moving her jaws, as if eating; at
+other times, speaking, as if to invisible personages: the principal remarks were
+questions, or such observations as seemed to repeat the answers she had received.
+After speaking, she appeared conscious of our presence, and rationally replied to
+what was said to her, and described what was visible to her perceptions. Then she
+relapsed into a state of unconsciousness to outward things, and, after a time,
+returned to the consciousness of our presence. These alternations continued to the
+close; but some minutes before arousing, her manner indicated that a change was
+passing over her. When she returned to the normal state, she was quite low and
+prostrated, and it was some hours before she could take any food . . . . The
+following paragraphs contain, in nearly her own words, the substance of what she
+saw and heard during this, and another similar trance, as elicited by questions put
+during, and after, the trance, and from her own recollections of what had
+transpired. (pp. 191-193)
+“When sitting in the chair, I felt as if something run up me, and I went mazy,
+and the room seemed as if it opened, and I was in another place, although I had
+some knowledge that I was still in the room; my eyes were open, and I could not
+shut them. Afterwards, when they were shut, it seemed as if they were open. At
+first, many beings came to me, and presently I seemed to be with them as one of
+themselves; this was after I was removed to the other seat; for taking me up stairs,
+seemed to draw me away from them. I did not feel strange, or any alarm, nor did
+they appear to think me strange or different to themselves. I felt with them just as
+I do now with you. There were many: some that I did not know, and some that I
+did know; some had been my companions when a child, and had been dead for
+years, but they knew me, and were glad to see me, and took me about gardens,
+like paradise gardens. The ‘lady’ came first, and many others with her; she was
+with me the whole time. When I took hold of your hand, she looked and smiled,
+and seemed pleased. It appeared to me nearly the same each time I have been. I
+saw each time that, from the place where I entered this spirit-world, there was a
+48
+way leading to the right, upwards, to the good middle place; and away to the left,
+downwards, to the bad middle place, and there was a worse place lower down, but
+I did not see to it. All along the way leading to the good middle place, there were
+trees and flowers of various kinds growing, and writings up (inscriptions) in many
+places. The letters were of different kinds and colours, but I could not tell what
+they meant. It was told me, that they were directions and instructions, and that I
+must learn to read, that I may know what they mean. The good middle place
+seemed very large, and very many were there. Most that were there, staying there,
+were clothed in plain white loose dresses. I saw higher up, to the top of a hill,
+where, it was told me, angels lived. I did not go straight up, but slanting to the
+side; the angels who came to meet me, came a nearer way than I went. After
+going to the right, upwards, for some time, I came to a beautiful fountain, or lake
+(pond, she sometimes called it,) silvery looking. A beautiful brook, or river,
+flowed from the top of the hill, down into the fountain. I never saw such beautiful
+crystal and shining water anywhere else. Round this fountain, or lake, and on each
+side of the river, there grew the most beautiful flowers and trees I ever saw. The
+leaves which fell off these trees sparkled like gold and silver, as they lay along
+upon the ground. If a leaf fell off a tree, another leaf sprang forth directly, and the
+trees did not become bare, as here. The same, if a flower was plucked, another
+immediately sprang forth. No one can go up the hill until they have been bathed in
+that fountain; I had to bathe in it, and drink the water, before I could ascend; then
+you could go up on either side of the river. It was in this fountain I saw the
+beautiful fish I before spoke of, which was given me to eat; and it was in the
+walks about this river that I saw the fruit grow of which I ate. This fruit they eat
+as bread, but it is not bread, but most delicious fruit. It is something like an
+orange, with seeds in it: “—afterwards, she compared it to a pear, sweet, and with
+seeds in it, — possibly something that seemed like a fig, or pomegranate.” After
+bathing in the fountain, and going up the hill, I came down, and we sat down,
+round and near the fountain, and eat of the fruit, and many things were shown and
+told me.” (pp. 193-195)
+I . . . found that matters on which I had enquired in the mesmeric state, were
+sometimes referred to, and she has told me when those states of extasis would
+arise, in which she could learn things that she could not know by ordinary
+mesmerism. These, generally, were cases in which some person involved in the
+enquiry, had departed this life. (p. 201)
+In one case, where, as an experiment, an enquiry was being made relative to a
+missing will, she told me, not only what I asked her, but spoke of other things
+which neither myself nor she knew anything . . . about, nor had I been asked about
+what she said; but I was afterwards informed that what she said was correct. This
+was a description of some old furniture, and some bags with money in, in an Irish
+town, the existence of which things was perfectly unknown to me; but they were
+connected with the missing document, and Emma professed to derive her
+knowledge of the existence of these things, from the spirit of the departed. She
+asked me about the removal of this money, as if I knew of it. My correspondent
+49
+afterwards informed me of the correctness of Emma's statements; but refused to
+continue the inquiry, from a superstitious dread of holding communication with
+the dead. This case, as far as it went, was an excellent one, to prove the continued
+existence of man after death. I was desired by a gentleman to investigate a
+mysterious murder which occurred nearly twenty years ago. No particulars
+whatever were communicated to me, beyond that some bones which were sent
+me, were found in a very peculiar manner, and that there were reasons for
+supposing them to be the bones of a person long missing. I am precluded from
+going into the particulars of this case, further than that I found, from subsequent
+letters, that the skull was fractured in the part she said it was; that the bones were
+in the condition and found in such a place and manner as she described, and that
+her description of the supposed murderer, corresponded exactly with an individual
+suspected! I expended a good deal of time on this case, on account of its interest,
+and as another test of clairvoyance, and for the satisfaction of the gentleman, who
+had himself taken much trouble to procure the bones, and a portion of the clothing
+of the missing man, as a medium of enquiry. Emma several times spoke of this
+affair in the trance state, and, from the general correctness of her statements as far
+as the circumstances are known, it would seem that the whole transaction was
+gradually made known to her, and that she saw in the trances, a representation of
+the occurrence . . . . Another curious feature in enquiries where departed persons
+were involved, was observed. She would sometimes speak of these persons, and
+say she could see them, but that she could not communicate with them, because
+they had not gone away long enough, or had not passed into the proper state; and
+she has fixed the time, when, she said, such communication could be had, in
+conformity with what she represented as the law of the spirit-world. (pp. 201-202)
+Notes:
+1. This paper was written while I enjoyed a grant from the Society for Psychical
+Research.
+2. For a discussion of the Fox sisters as well as other early American mediums see
+Capron (1855).
+3. For a more recent discussion of magnetic phenomena attributed to discarnate agency
+see Crabtree (1993, pp. 196-212).
+4. Beloff (1997, pp. 25-28) discusses selected aspects of Emma’s clairvoyant phenomena.
+References:
+Beloff, J. (1997). Parapsychology: A Concise History. New York: St. Martin's Press.
+Cahagnet, L.A. (1851). The Celestial Telegraph, or, Secrets of the Life to Come,
+Revealed Through Magnetism (1st American ed.) New York: J.S. Redfield.
+50
+Capron, E.W. (1855). Modern Spiritualism: Its Facts and Fanatisms, its Consistencies
+and Contradictions. Boston: Bela Marsh.
+Crabtree, A. (1993). From Mesmer to Freud: Magnetic Sleep and the Roots of
+Psychological Healing. New Haven, CT: Yale University Press.
+Davis, A.J. (1867). A Stellar Key to the Summer Land. Boston: William White.
+Edmonds, J.W., & Dexter, G.T. (1854). Spiritualism (Vol. 1, 9th ed.). New York:
+Partridge & Brittan.
+Haddock, J.W. (1851). Somnolism & Psycheism; or, the Science of the Soul and the
+Phenomena of Nervation (2nd ed.). London: James S. Hodson.
+Hare, R. (1855). Experimental Investigation of the Spirit Manifestations Demonstrating
+the Existence of Spirits and their Communion with Mortals. New York: Partridge &
+Brittan.
+Ogden, D. (2001). Greek and Roman Necromancy. Princeton, NJ: Princeton University
+Press.
+Owen, A. (1990). The Darkened Room: Women, Power and Spiritualism in Late
+Victorian England. Philadelphia: University of Pennsylvania Press.
+Paton, L.B. (1921). Spiritism and the Cult of the Dead in Antiquity. New York:
+Macmillan.
+Podmore, F. (1902). Modern Spiritualism: A History and a Criticism (2 vols.). London:
+Methuen.
+_____________
+51
+Introductory Note by Psypioneer: -
+Dr. Carlos S. Alvarado in numerous articles published by Psypioneer has made
+reference to Professor Ernesto Bozzano 1862 – 1943. The autobiographical sketch of the
+Italian psychical researcher as published below is taken from JASPR5
+Volume XVIII-
+No.8 March, 1924 pages 153 – 155.
+AUTOBIOGRAPHICAL SKETCH
+BY
+ERNESTO BOZZANO
+Translated by Beatrice Hyslop and Gertrude O. Tubby
+Born in Genoa, in 1862, my life is absolutely without biographical incident, for it has
+been the life of a hermit. I have never done anything but study. In my early adolescence,
+all the branches of the knowable exercised an irresistible fascination upon my mind,
+making it very difficult to make a definite resolution to choose the definite path of my
+life. Finally I decided upon scientific philosophy, and Herbert Spencer was my idol. I
+became a positive materialist of the most convinced and most uncompromising type. It
+appeared to me impossible that a cultivated person, possessing common sense, could
+believe in the existence and survival of the soul. I not only thought this, but I wrote
+audacious articles sustaining my convictions.
+In the year 1891, through pure coincidence, I had my initiation into metapsychical
+research, Professor Ribot, director of the Philosophical Review, having sent me the first
+number of "The Annals of Psychical Science," to read and send him my judgment upon. I
+read: therein was talk of telepathy, of clairvoyance, and of telekinesis. I was scientifically
+scandalized! I wrote in this tone to Professor Ribot. He answered, exhorting me to re-read
+and reflect more quietly, for he saw that the existence of the facts could not be denied. In
+deference to the Director of the Revue Philosophique, I re-read, thought it over, and
+deckled to acquire works of this nature. Result: the complete defeat and
+demolition of my- misoneism.
+From that time on, I did nothing but study the new science, at its very sources.
+Following this, gradually my disbelief decreased. I proceeded to collect facts in
+great numbers, with a view to analyzing, classifying and comparing them, with the
+firm resolve to solve the great enigma which lead been unexpectedly presented to
+me in the important form of a scientifically resolvable question.
+When my knowledge of the argument was already firmly established, I had the
+good fortune, and by pure coincidence, too, to make the acquaintance of
+distinguished persons seriously engaged in mediumistic research. Due to this fact,
+I secured entrance to two experimental circles which lead at their service four of
+5
+JASPR: - Journal of the American Society for Psychical Research
+52
+the best private mediums, two women and two men. Through the help of such as
+these. I obtained proofs of the identity of the dead, literally impressed. I will come
+later to the long series of experiments with Eusapia Palladino, which I conducted
+together with Professors Morselli and Porro. In these I had complete
+materialization, speaking by identified phantasms, and once I had the phenomenon
+in full light of a bow from Auer.
+However, my theoretical convictions did not rest basically upon these objective
+phenomena, but assuredly they did rest upon the force of the subjective ones. I
+subdivided the cases belonging to this latter class, and gathered by me to the
+number of a thousand, into forty distinct categories, to the end of classifying and
+investigating these processes by comparative analysis.
+Having,
+completed the analysis, it resulted that all the categories I made were
+susceptible of being placed in an order of ascending classification, ending with a
+group of facts literally inexplicable by quasi-naturalistic theory and, conversely,
+most explicable by spiritistic theory. To these incontestable results there came to
+be added those deduced from objective phenomena or, more precisely, those
+spiritistic phenomena which, in the last analysis, were demonstrated, of
+themselves and in their turn, to be inexplicable by a quasi-naturalistic theory
+which did not recognize the existence of a spirit independent of the body, existing
+before the body, organizer of the body; and that for the reason that, without such a
+fundamental hypothesis, one did not arrive at the explanation of the genesis of
+subconscious powers, the which resulted independently of quasi-biological lazes; as,
+moreover, one did not arrive it an explanation of the genesis of power (force) and
+external biological energy, the which revealed themselves to be directed and governed
+by a subconscious, transcendental will, capable of disintegrating the bodily
+substance to reintegrate it into living organisms and ideoplastic automata.
+Presenting these things in this light, it resulted that the conscious personality
+should be considered a simple transitory manifestation, in a phenomenal
+surrounding atmosphere, of a spiritual subconscious personality much greater.
+This personality reveals itself as furnished with supernormal powers and a
+transcendental will. This conclusion in effect resolved likewise the enigma of the
+existence in the human subconscious of supernormal power (faculty) independent
+of quasi-biological lazes. Taking note that these powers (faculties), in this
+argument, were the spiritual attributes of an integral subconscious personality,
+one understood that they could not result as a product of the "law of natural
+selection," but that they must exist in a latent state in the subconscious, to
+emerge and to exercise in the spiritual atmosphere even as the senses of the
+earthly existence, latent in the spiritual state, emerge and exercise in the
+terrestrial sphere.
+Hence, the conclusion that the spiritistic phenomena are the necessary
+complement of these spirits and I came, in the end, to conclude that, without
+Animism, Spiritism would be basic.
+53
+This is established by the marvelous convergence of all the proofs -animistic
+and spiritistic-towards the demonstration of the existence and survival of the
+spirit (soul) which led me logically, and of necessity, to give full adherence to
+the spiritistic hypothesis.
+The results of my thirty years of research have already been partially
+rendered public in a set of thirty long monographs; but the great demonstrational
+efficacy of such a system of proofs will be evident only when it is condensed in a
+general synthetic volume.
+_____________
+1930s SCOTTISH MEDIUM PHOTOGRAPHED
+IN INFRA RED
+A Scottish ectoplasmic medium was photographed by infra red in the late 1930s. This
+was revealed by Shaw Desmond in an article for the Sunday Graphic March 6 1938.
+“New Life After Death Revelations”.
+“Originally applied to psychical research by that fearless and scrupulous investigator
+Lord Charles Hope, the infra-red ray is now being used by my own International Institute
+for Psychical Research, which has stabilised the technique.”
+It is not clear however which body was involved in the incident below.
+“One of the scientific bodies with which I am connected learned some months ago of a
+remarkable Scottish medium who could produce at will yards upon yards of ectoplasm
+and materialised spirit forms. Ectoplasm, I must explain, is a white, cloudy substance
+which some mediums appear to be able to produce at will from their bodies. It exudes in
+masses from nostril, ear or mouth, and vanished almost instantaneously into the
+medium’s body.
+On many occasions I have watched it being produced quite close to me. I know I have
+even felt it, and in company with others, under strict test conditions, I have seen faces
+form themselves in folds of the ectoplasm, and that in quite strong light.
+Finally the existence of ectoplasm has been demonstrated by scientists, notably by
+Professor Crawford, of Belfast University.
+54
+But to return to the Scottish medium.
+The reports about him were so detailed and interesting that we decided to send an
+experienced researcher to investigate.
+Unfortunately for the reputation of the medium, however, our investigator took with him
+an infra-red camera, and the photographs taken with it showed that the medium had
+secreted some muslin-like stuff about his person, and pretended to produce it from his
+mouth and body.
+We sent him copies of the photographs and demanded an explanation. Curiously enough,
+none was forthcoming.
+That little story will demonstrate to the reader the importance of the infra-red camera in
+psychic research. In my opinion, it is the most valuable protection against fraud which
+has far been applied to investigation.”
+Efforts to identify this medium are continuing.
+_____________
+Hippolyte Léon Denizard Rivail
+Better known under the pseudonym of
+Allan Kardec
+1804-1869
+Introductory Note by Psypioneer: -
+November 2008 we published Alexander Aksakof’s research into the historical
+origin of Kardec’s book, Le Livre des Esprits (The Spirits’ Book)6
+.
+This prompted a positive response from Dr. Moreira-Almeida, M.D., this was
+published in the January issue.7
+Aksakof’s research was first published in The Spiritualist, August 13, 1875, the
+article published in full below promptly followed in The Spiritualist on August 27, by
+Anna Blackwell who had translated Le Livre des Esprits into English - The Spirits’
+Book.
+6
+See Volume 4.11 page 252: - http://woodlandway.org/PDF/PP4.11November08..pdf
+7
+See Volume 5.1 page 29: - http://woodlandway.org/PDF/PP5.1January09..pdf
+55
+THE ORIGIN OF ALLAN KARDEC’S
+“SPIRITS’ BOOK”
+SIR, Busy as I am, I must ask you to allow me to offer a few remarks in reference
+to M. Aksakof's article in the number of The Spiritualist which has just reached me.
+Whatever may be M. Aksakof's opinion to the contrary, most of your readers will
+surely agree with me that “the essential point in the criticism of any book” is to
+ascertain what the book contains, and to examine its views, arguments, and
+conclusions. If M. Aksakof had done this in regard to the works of Allan Kardec, he
+might have spared himself the trouble of writing his article; for he would have seen-
+First, That Allan Kardec invariably defines his work as having been the giving of a
+coherent and systematic form to views which have been held, more or less loosely and
+vaguely, by eminent thinkers of all ages from the remotest antiquity to the present
+day, but which have been set forth more fully, clearly, and consistently through the
+instrumentality of modern mediums. Secondly, That, so far from “presenting
+Reincarnation as a dogma,” he invariably treats it as a question to be decided entirely
+by argument and by reason. Thirdly (and this brings me to the gist of the article
+referred to), That he repeats, over and over again, that all his books were compiled by
+him from the concurrent statements of mediums in every part of the world. Now it is
+evident that, such being the case, it was impossible for Allan Kardec to cite the names
+of all the mediums from whose communications those books were compiled; and he
+accordingly decided (at the request, moreover, of very many among them) not to cite
+the names of any of them. That M. Aksakof has been misinformed in regard to the
+inception and first appearance of The Spirits' Book; will be seen by reference to the
+preface, in which I have embodied the statements made to me on the subject by the
+wife of Allan Kardec, and by his most intimate friends, as well as the results of my
+own personal acquaintance with him. It is possible that some portions of the
+additional matter introduced into the “revised edition” (which has remained as the
+definitive form of The Spirits' Book) may have been furnished by the two mediums
+whose statements M. Aksakof seems to have received as gospel; but they could have
+had nothing like the share in the first production of the work which that gentleman
+attributes to them. And the suggestion that “the Spiritists have buried those two
+mediums alive,” like the fable which would place Allan Kardec on the staff of the
+Univers, is too absurd for serious refutation.
+M. Aksakof's assertion that “physical manifestations are always contrary to
+reincarnation” is contradicted by facts. In my own case, particulars relating to my past
+existences have been given me through several of our best physical mediums; in some
+cases, not understood by them (as once, by Mr. Home, in trance), in others (as in that
+of the younger Mrs. Marshall), to their great surprise; and an immense number of
+other persons could testify to similar experiences. Besides, “John King,” as I have
+pointed out in Spiritualism and Spiritism, has repeatedly asserted that he lived on this
+earth in the reigns of Queen Elizabeth and of Charles II.; and his daughter “Katie”
+56
+made, you will remember, a similar admission, to Prince Emile de Sayn-Wittgenstein,
+of having been connected with him in one of his former incarnations. The last number
+of The Medium, also, contains an extremely,
+interesting account of the assertion of his
+reincarnations by the “materialised” spirit of “Thomas Ronalds;” and this in a group
+of sitters who do not appear to have been favourably disposed towards the doctrine of
+the plurality of our terrestrial existences, of which, however, abundant confirmation
+of a similar character will doubtless be forthcoming as this branch of the art of
+manifestation becomes generalised among the people of the spirit-world.
+As to the complaint that the young French medium, Camille Brédif, now doing
+good service in Russia, was not mentioned in the Revue Spirite, M. Aksakof seems to
+be unaware of the fact that Camille’s present phase of medianimity, like that of poor
+Firman, was only developed last year, and as a direct consequence of the visit of Mr.
+Williams to Paris; previous to that visit the influence which renders “materialisation”
+possible does not appear to have crossed the Channel, and Camille's mediumship
+produced only raps, with the movement of objects at dark seances, which cannot be
+said to have done much towards convincing incredulous inquirers.
+Equally unfortunate is M. Aksakof's assertion that Allan Kardec “ignored” Mr. Home
+and the manifestations obtained through him; had he read The Mediums' Book, he would
+have seen that they are alluded to in that work.
+M. Aksakof says that Pezzani and Cahagnet upheld the doctrine of reincarnation
+before Allan Kardec; but why does he allude only to those two? In The Testimony of the
+Ages I have given a list “as long as my arm” of modern writers who have, as
+“precursors,” prepared the way for the fuller presentation of the law of our successive
+existences which Allan Kardec was employed to elucidate by showing it, no longer as a
+mere isolated philosophic idea, but as part and parcel of the general plan of
+Providential development for all times, worlds, and reigns. The special work of Allan
+Kardec, as he himself defines it, is that of a comparer, collater, compiler; but it
+nevertheless presents, in its entirety, a philosophic whole, which is recognised as new,
+original, unique by all who have taken the trouble to ascertain for themselves what it
+really is.
+M. Aksakof concludes his article by remarking, very truly, that “it is scarcely
+necessary to point out that all he has stated does not affect the question of reincarnation
+considered upon its own merits;” to which admission I add that the momentous issue,
+raised by the books which I am wearing out my eyes in bringing within reach of the
+English-speaking world, will eventually be decided, simply and solely, upon its own
+merits, despite all the efforts of its adversaries to displace the question by ignoring the
+tenor of those books themselves, and substituting for dispassionate examination of their
+argument wholesale disparagement devoid of proof, and the repetition of unfounded or
+distorted statements having nothing to do with the question at issue, originally set afloat
+by envy and jealousy, and which were met by Allan Kardec, during his lifetime, with the
+magnanimity of silent contempt.
+57
+ANNA BLACKWELL.
+Wimille, Pas de Calais, July 15, 1875
+1875 correspondence about Allan Kardec and Spiritism will continue in the March
+issue.
+_____________
+WHAT WAS THE FIRST SPIRITUALIST
+NEWSPAPER?
+Last month I perused in South Kensington a set of what may be the oldest Spiritualist
+journal. This is not a straightforward question. We might exclude Univercoelum,8
+launched in 1847, on the grounds that it preceded Hydesville in 1848.
+This brings us to “Spiritual Philosopher” launched in Boston in July 1850 which after one
+volume became “The Spirit World”. Two volumes as TSW appeared, before the editor
+decided he had subsidised it enough, and it closed.
+The scope was wider than Spiritualism, for the editor Laroy Sunderland (sometimes
+called Leroy) was a noted reformer, with his own take on mesmerism called Pathetism.
+The July 1850 issue included many items relevant to the new movement. The editorial
+invited spirit communications “Welcome, thrice welcome, happy, happy spirits! As you
+attract us from discord, and error, and evil, and death, we call on you to come”.
+There was an update on “The “Spiritual Knockings” which commented on Capron and
+Barron “Singular Revelations” and described a séance at the home of Dr Griswold, an
+Episcopal clergyman, on Broadway, as reported in the New York Tribune. Other sources
+identify Griswold as a former Baptist minister. Under the heading “Conversation with
+Spirits” Sunderland gave a summary of his own experiences, including his meeting with
+the Fox sisters at Barnum’s Hotel.
+Another note “The Magnet” looks back to his editorship of that mesmeric journal, started
+in 1842.
+8
+http://www.answers.com/topic/univercoelum
+58
+Sunderland revealed that he already lecturing on the Spirit World in Philadelphia and
+(three times a week) in Boston in his Hall. Raps were also taking place in Boston and its
+environs.
+We hope to reprint material from this journal.
+L.P.
+_____________
+REMINISCENCES OF A REMARKABLE
+MEDIUM
+Introductory Note by Psypioneer: -
+Psypioneer’s investigation over several issues into the life and experiences of the
+Everitts,9
+which no doubt has only touched the surface of their many years of service to
+the early growth of British Spiritualism, has been added to further by the generous
+donation of numerous issues of ‘Psychic Science’ by Roy Candy to the Psypioneer
+library. Within the pages of the Quarterly Transactions of the ‘British College of
+Psychic Science’, founded by James Hewat McKenzie10
+in 1920, we find the following
+article by H. A. Dallas,11
+‘Reminiscences of a Remarkable Medium’.12
+_____________
+9
+See Volume 3.1 page 3: - Mr. Mrs Thomas Everitt - http://woodlandway.org/PDF/PP3.1January07..pdf
+Also Volume 3.3 page 61: - http://woodlandway.org/PDF/PP3.3March07..pdf
+10
+See Volume 3.8 page 169: - A Knight Errant of Psychic Science James Hewat McKenzie -
+http://woodlandway.org/PDF/PP3.8August07..pdf
+11
+Miss. Helen Alexandria Dallas (1856-1944) was an early British investigator of psychical
+research. As well as authoring numerous books on this subject she wrote many articles for
+British journals such as Light and Psychic Science.
+12
+Taken from Psychic Science Vol VIII, No 1 April 1929, pages 37-40
+59
+By H. A. DALLAS
+During the latter half of the last century Mrs, Everitt was well known to students of
+Modern Spiritualism. But each generation has its own gifted mediums and those who
+were remarkable fifty, or forty, years ago are unknown now to many interested inquirers
+into the mysteries of Mediumship; more particularly if they have not been in the ranks
+of professionals, or subjected to scientific investigation.
+Mrs. Everitt is briefly referred to in Sir Arthur Conan Doyle's recent "History of
+Spiritualism from 1870." He writes: "Mrs. Everitt's wonderful mediumship exercised,
+like that of D. D. Home, without charge, convinced many influential people.”(Volume
+1, p.174)
+She was a friend of Mr. E. Dawson Rogers, who was for many years president of the
+London Spiritualist Alliance. He introduced me to Mrs. Everitt and also related to me
+several experiences he had had with her.
+The phenomena attending her mediumship were raps, apports, trances, very clear
+communications by the Direct Voice, and also direct writing. Her medium faculty came
+unsought, and as a surprise, and was used for the service of others.
+One of the incidents which Mr. Dawson Rogers related to me is as follows:-
+In August 1871, before his acquaintance with Mr. and Mrs. Everitt had developed
+into friendship, it suddenly occurred to him (I think he said soon after he awoke) to invite
+Mrs. Everitt to pay a visit to his family; this he did promptly. The result may be
+recorded in Mr. Everitt’s own works, for it has been printed in a small book, too little
+known: "The Life and experiences of Edmund Dawson Rogers." Mr. Everitt13
+wrote as
+follows:-
+During a conversation with John Watt, a frequent "Control" of Mrs. Everitt, he said:
+"Mr. Everitt you must let your wife go into the country; she requires a thorough change,
+and the society and magnetism of Mr. Rogers' family will do her good." This struck me
+as very curious, for Mr. Rogers' family were comparatively strangers to us, and I
+therefore mentioned some three or four other families where I knew she would receive
+a hearty welcome-all of which John said would not do so well: "But, I said, I cannot
+write to Mr. Rogers and ask him to let my wife come and stay with his family," but
+John replied: "That has all been arranged with Mr. and Mrs. Rogers on our side. They
+are quite willing and will be delighted to receive your wife as their guest." Now
+imagine my astonishment when, on the delivery of the first post the next morning, a
+letter came from Mr. Rogers with a pressing invitation for my wife to go and spend a
+few weeks with them."
+13
+Thomas Everitt was president of the Marylebone Spiritualist Association (MSA) for 16 years. See: - The
+Story of the MSA its Work & Workers 1872 – 1928 - Volume 2.12 -
+http://woodlandway.org/PDF/PP2.12December06..pdf
+60
+Was it during sleep that this matter was "arranged"? It seems not improbable;
+"John Watt," at least, taught Mrs. Everitt to believe that friends on this side and on
+that side of the Veil hold communion during sleep; if this is so we have a clue to
+the experience which many persons have had of awaking with a clearer mind on
+problems that have been perplexing.
+Mr. Morel14
+Theobald gave the following account of his first experience of
+"Direct Writing" in Mrs. Everitt's presence, in a book now out of print, called
+"Spirit Workers in the Home Circle."
+"I was silent; and thinking with some degree of perplexity of what had
+occurred, and how real and near the spirit world is, when we heard rapid but slight
+tapping on paper, similar to the click of an electric needle, or the dropping of
+water. Mr. Everitt said: ` That's some direct Spirit writing'-and counted one, two,
+three, when pencil and paper dropped on the centre of the table. When a light was
+struck, we found the following message, written apparently within five seconds -a
+physical impossibility for us -which we preserve as a precious gift from the Spirit
+World:
+"You seem to be puzzled at our close proximity, but as regards your Spirits you
+are living in our world. You only require your material body to move with in this
+your material world. Remove your atmosphere, you are then present with us; by
+giving us the conditions we are joined with you-in fact we make a part of
+yourselves.
+"We influence you to do and say things that you believe are from your interior
+selves. By-and-by we shall be able to make ourselves visible to you, so that we
+form part of your family. You are now the medium of Earth and Heaven."
+Mr. Theobald's comment on this writing is as follows:
+"We have had many hundreds of direct Spirit Writings since then, and many
+much more remarkable; but the sensation which accompanied this will never be
+forgotten. As regards the paper itself, it had been previously marked and placed in
+the centre of the table, round which we were all sitting, with a pencil on the top of
+it. I saw it there when I turned off the gas. As soon as the paper was whipped up
+(as it seemed) into the air first in front of me, my brain felt for the moment in a
+most extraordinary state of ferment - quite indescribable -which state usually
+accompanies the process of these direct writings, when I am present. This first
+time I was dazed; it was a new sensation; but one I recognise, and which when it
+occurs, induces us to search for some writing." (ibid, pp. 51, 52).
+What was the connexion between Mr. Theobald's mental forces and the
+production of the writing?
+14
+Normally spelt Morell, an excellent reference to the Theobald family is The Darkened Room by Alex
+Owen, Virago Press Limited 1989 Ed.
+61
+This is a problem which cannot at present be solved; but as he was himself
+gifted with the mediumistic faculties it seems as if he contributed to the result,
+unintentionally, and in some way quite inexplicable at present. It would be worth
+while to investigate this aspect of the matter by making careful observations when
+the Direct Writing is produced as to the sensations not only of the medium but of
+the sitters.
+Having heard often of Mrs. Everitt's remarkable mediumship, I was glad to
+have the opportunity of calling upon her in her home. She showed me some sheets
+of direct writing which dealt with early Church History, and she told me that when
+these were produced the "controls" themselves selected their circle of sitters, and
+among them were included some who were students of Church History. Why this
+was so she did not know, she suggested that perhaps this enabled the writers to get
+into rapport with spirits who were acquainted with Church History; this was a
+mere guess. It may be that the minds of the sitters were drawn upon, that also is a
+guess; the problem remains unsolved. The lines of writing were quite straight,
+about a quarter of an inch apart, and the margin on the left side of the paper was as
+exact and even as if it had been done on a typewriter. Mr. Rogers said that in his
+presence as many as nine hundred words were written in six seconds, and that on
+one occasion the writing filled the whole of a quarto sheet which had been
+previously initialled. I saw one sheet of this direct writing had been initialled by
+Mr. Edward Bennett, who was at that time Secretary of the Society for Psychical
+Research. These statements do not of course, carry evidential value for those who
+believe such phenomena to be impossible, but those who, on other grounds are
+convinced that these extraordinary phenomena occur, will be interested in the
+testimony of honest and intelligent witnesses.
+It must be borne in mind that Mrs. Everitt made only one condition when
+giving her services, namely that they should be for the benefit of those who work
+for the cause; she made no charge whatsoever.
+At one time she used to go into trance, but she wished to be conscious of what
+occurred, therefore in her later years she was not entranced; when she was
+entranced she sometimes remembered the environment she had been in during her
+unconsciousness of earthly surroundings; but she told me that this made her feel
+she did not want to come back, and she began to grow discontented with life on
+earth, after this the memory of the other condition was withdrawn from her.
+On one occasion she described the house of a friend in a distant land which she
+had never seen; this was sent to her friend who replied that it was so correct that it
+might have been the description of an eye witness.
+In reply to a question which I put to her, Mrs. Everitt said: "They tell us that
+Truth is light." This should help us to understand what is meant when some
+unhappy communicators tell us that they are "in the dark."
+62
+One of those who spoke by the direct voice in Mrs. Everitt's presence was a
+child spirit, called "Zippy." He said that he was an Indian spirit; when he first tried
+to speak through her, his English was very imperfect. Her usual "control," "John
+Watt," seems to have interested himself in teaching this child spirit of a primitive
+race.
+Mrs. Everitt gave me an account of a curious occurrence which happened when
+Professor Sidgwick paid her a visit.
+Zippy was talking with the "direct voice." Mrs. Everitt was conscious and could hear
+him. Those who have heard Prof. Sidgwick speak will remember that he often had a
+painful stammer. On this occasion Professor Sidgwick spoke to "Zippy" and asked him
+how he was able to make his voice heard, the Voice replied that he used Mrs. Everitt's
+breath. "Can you use other peoples' breath”? asked the Professor, "Could you use mine?"
+Zippy replied that he did not know; but presently he heard Zippy's voice talking and
+stammering. Mrs. Everitt thought the child spirit had done it for fun and she exclaimed:
+"Shame, Zippy!" "He called me to him," said the Voice. "I did not know what would
+occur." Evidently the imitation of Professor Sidgwick's stammer was quite unintentional.
+During my visit, whilst Mr. Everitt was telling me that some of the direct writings they
+had received dealt with the attributes of God, His power and His love, I heard in a corner
+of the room some yards away, some rather heavy thuds on the floor. "Are you there
+friends?" said Mr. Everitt. The knocks continued but no message was given.
+At a later date when I was having tea at Mr. Dawson Rogers' house, Mrs. Everitt being
+also present, I heard raps on the table. I asked that the raps might be made on my side of
+the table under my plate; this was done, at least the sound seemed to me to come from
+that direction, the object of these signals seemed to me merely to indicate the presence of
+unseen visitors.
+The Everitts told me they had met many interesting people who visited them through
+interest in her wonderful gifts, among others, John Ruskin, and the French painter, Tissot.
+Her wonderful powers do not seem to have drained her vitality, for she lived to old
+age. She was not what would be called a very educated woman and the philosophic
+discourses of "John Watt " were, Mr. Rogers said, of a kind she would normally have
+been incapable of producing.
+One piece of writing, produced "direct" was in Latin; the first translation was given by
+automatic writing and the Everitts were told that this was not very exact -another
+translation was then given by the "direct voice," which Mr. Everitt told me he believed
+was correct.
+It is now nearly a quarter of a century since I paid this visit to the Everitts, but I made
+a record of it afterwards and I have had this before me to refresh my memory whilst
+writing these reminiscences.
+_____________
+63
+A PIONEER AUSTRALIAN SPIRITUALIST
+M r . W . H . T e r r y
+[Introductory Note by Psypioneer: -
+William Terry was born in London in 1836, and emigrated to Melbourne,
+Australia in 1857. The biographical article below is taken from the Boston weekly
+Journal, ‘Banner of Light’15
+then, often referred to as simply ‘The Banner’. Psypioneer
+purchased this copy specifically for the front page story of the life of Wm Terry, only to
+find that it was a three part feature in issues dated 2nd
+, 9th
+, and 16th
+Jan 1897 our issue16
+is
+the middle one.
+Nineteenth Century Miracles17
+on page 230 publishes an edited account of the life
+of Terry by his biographer Hudson Tuttle, inevitably some of the Banner article is
+covered by Tuttle, but the important part Mr. Stowe played is not mentioned in the
+quotes.
+15
+Banner of Light. An Exponent of the Spiritual Philosophy of the Nineteenth Century. In the March issue,
+Psypioneer will publish the early story of the Banner of Light.
+16
+Vol. 80 number 19, in 1897 the cost of the paper was $2.00 per Annum postage free, edited by John W.
+Day. The Banner of Light Publishing Company office was also a bookstore, located at 9, Bosworth Street,
+corner of Province Street, Boston, Mass., where a complete assortment of books could be purchased by the
+general public or wholesale.
+17
+Nineteenth Century Miracles by Emma Hardinge Britten, published by William Britten 1883.
+64
+Banner of Light Boston Saturday, January 9, 1897: -
+.....Mr. Terry very soon developed as a writing medium, and many remarkable
+statements and facts unknown to him until afterwards verified, were given. Like
+all who first grasp the great fact of spiritual communication, Mr. Terry was
+enthusiastic in his desire to make known to others the knowledge he had obtained,
+and so, unfortunately, many and various were the people admitted to the sittings of
+the circle. The consequence was that conditions became adverse to orderly control,
+and a very undesirable spirit obtained the mastership of his hand. This spirit gave
+all the details of his life and death, saving be had been hanged, giving his name,
+date, and circumstances. How to get rid of this spirit was the trouble. He would
+not go, and interrupted all efforts of other spirits to control. Mr. Terry had heard
+that if a gross spirit were solemnly commanded in the name of God to depart, that
+he would have to go, so one day he did thus solemnly command the departure of
+his obsessor. Then he took his pencil in hand, confidently expecting a rational
+communication from a higher intelligence, but hardly had his hand touched the
+paper before it was powerfully seized, and in bold letters was written “Go to hell!”
+This was so startling and so shockingly unsatisfactory that he resolved to cease sitting,
+and, for twelve months, made little further effort at mediumistic development by
+writing.
+The above trouble was the last of Mr. Terry's disorderly controls, for, when next he
+sought communication, he was enabled to develop a system of intelligent rapport with
+a medical spirit interested still in healing the diseases of humanity, and this control has
+been his sole and constant guide ever since. The success of his diagnosis and treatment
+of diseases spread from relatives to friends, and then to friends' friends, until all his
+leisure time and many business hours were thus occupied, and he felt he must stop or be
+driven out of business. His spirit-guides advised giving up his business and devoting
+himself entirely to medical-mediumship, promising him their support and God's
+blessing. This was, however, too serious a step to be hastily taken.
+However, in 1870, this step was taken. A shop in Russell street, Melbourne, had
+been rented, stocked with second-hand books, and with all the many books and
+pamphlets on Spiritualism, Mesmerism, and kindred subjects America had already
+produced, under the charge of Mr. Terry, Sr., and over this shop Mr. Terry had a room
+for himself for the reception of patients and inquirers. Thus was founded what has since
+proved to be the central fountain for the dissemination of spiritual truth over the whole
+of Australasia and New Zealand. Mr. Terry, Sr., like his son, had eagerly accepted the.
+new truths first made known to them by Judge Edmonds's work, and delighted in
+disseminating a knowledge of the facts and philosophy of Spiritualism. The
+diagnosing business increased rapidly; letters and locks of hair flowed in from the
+sick and ailing in all parts of the country. So accurate was the diagnosis. and so
+successful the herbal remedies prescribed by the spirit-control, that the good news
+spread with such amazing rapidity that. Mr. Terry found it impossible to deal with
+it, therefore he passed over numbers of cases to his friend, Mr. G. A. Stows, a
+young man who had been employed by him in his previous business, and who had,
+65
+through Mr. Terry been induced to investigate the Spiritual Phenomena, and who
+was developing exceedingly reliable mediumship and clairvoyance. Mr. Stowe was
+placed in charge of the drug department, the business of which increased so
+rapidly and to such an extent that it is now the central d e p o t of Australia for
+obtaining botanic medicines. Thus was the promise of the spirits fulfilled that
+neither regret nor loss would follow Mr. Terry's dedication of himself to the cause
+of Truth. The medical diagnoses attracted, much attention, for such a fact was new
+to the community. Those who were benefited naturally desired to know something
+of the power. Thus Spiritualism was brought under their notice. At the shop below
+books could he bought or loaned, and the demand for the literature of the subject
+became considerable. Inquirers of all degrees of education and standing visited the
+depot and correspondence flowed in from all parts of the world. Not only was the
+daytime of both Mr. Terry and Mr. Stowe thus fully occupied, but the evenings as
+well, when in private homes they initiated beginners in the conduct of circles
+giving them counsel and advice from their own experience.
+It was about this date that the two propagandists called a meeting of inquirers,
+which led to the formation of the Victorian Association of Progressive Spiritualist-
+the first spiritual organization south of the equator. For a few years this society
+was eminently successful, and several popular mediums were introduced to
+Australian audiences under its auspices.
+In 1872 Mr. Terry founded the Melbourne Progressive Lyceum on the lines laid
+down by A. J. Davis. In this institution be held office for fourteen years, and is
+now a Trustee. The Lyceum has been always popular, and, during the twenty-four
+years of its existence, has done much good work. It is still well attended.
+THE HARBINGER OF LIGHT
+On the first day of September, 1870, Mr. Terry issued the initial copy of the
+Harbinger of Light. Ever since, for twenty-six years has this high class paper,
+devoted entirely to the diffusion of spiritual truth, regularly appeared on the first
+day of the month, under his editorship. “It was started,” writes Mr. Terry, in a
+leading article commemorating the twenty fifth year of its issue, “at the instigation
+of the spiritworld, and we believe has been sustained largely from that source; for,
+with the multifarious duties that have occupied our time, we have not been so posi-
+tioned as to carry it forward on ordinary commercial principles. Editing, publishing,
+and offering facilities for those who wanted it to get it, is all we have attempted to do.
+Under these circumstances it is a wonder that it has stood so long; but encouragement
+from the spirit-side, and frequent acknowledgments of benefit derived by readers on the
+mundane plane, have helped to sustain our labors, and induced us to press on. It may be
+interesting to some of our readers to know the circumstances under which the paper was
+started.
+They are as follows: Early in 1870 the writer was visiting a gentleman whose wife
+had, whilst under magnetic treatment for disease, developed clairvoyant powers. At the
+66
+husband's suggestion she was magnetized, and, whilst in the clairvoyant state, described
+a spirit-form of commanding presence, and surrounded by a halo of light, holding in his
+hand a scroll. This he unrolled, and she read on it, “Harbinger of Light,' and,
+underneath, the motto. `Dawn Approaches; Error is passing away; Man, arising, shall
+hail the day!' Under this, again, she saw columns of print, and, turning to the
+magnetizer, she said, ' It is a newspaper, and you are to write it.' He expressed his
+incredulity, as he had no literary experience, nor adequate scholastic education.
+'Nevertheless,' said the seeress, 'you have to write it! '
+We thought the matter over, but could not bring ourselves to take any initiative
+steps, and were quite relieved when a mouth or two later, Mr. B. S. Nayler18
+started
+The. Glow-Worm in the interest of Spiritualism; but when, after five months, that
+journal was discontinued, and the message was reiterated, we began to think seriously
+on the subject-tire result being the starting of The Harbinger in September, 1870. It was
+up hill work in those days."
+_____________
+PLEASE
+SUPPORT PSYPIONEER WITH BUYING YOUR
+BOOKS THROUGH US!
+~~~~~~~~~~~~~~~~~~~
+BOOKS FOR SALE
+Please e-mail psypioneer@aol.com for details
+‘Helen Duncan - The Mystery Show Trial’ By Robert Hartley @ £12.50 + Pp ISBN: 978-
+0-9553420-8-0.
+See Psypioneer 3.11: - http://www.woodlandway.org/PDF/PP3.11November07..pdf
+‘The Cathars and Arthur Guirdham’ Published by Psypioneer @ £4.50 Inc U.K.,
+postage, elsewhere (airmail) £4.95 Inc postage. ISBN: 978 0 9536719 3 9.
+See Psypioneer 4.4: - http://www.woodlandway.org/PDF/PP4.4April08..pdf
+‘Aquarian Evangelist: The Age of Aquarius as It Dawned in the Mind of Levi Dowling’
+By John Benedict Buescher @ £14.50 – incl. U.K. postage.
+See Psypioneer 4.1: - http://www.woodlandway.org/PDF/PP4.1January08..pdf
+18
+See Volume 1. 18 page 225: - http://woodlandway.org/PDF/18.PSYPIONEERFoundedbyLesliePrice.pdf
+67
+‘Mrs Miller’s Gift’ - A Celebration of 75 Years of the Edinburgh College of
+Parapsychology formerly Edinburgh Psychic College & Library’ By Gerald O’Hara &
+Ann Harrison @ £7.50 + Pp ISBN: 978-0-951-4534-9-0.
+See Psypioneer 4.1: - http://www.woodlandway.org/PDF/PP4.1January08..pdf
+‘Dead Men’s Embers’ By Gerald O’Hara @ £14.99 +Pp £2.50 (U.K.) ISBN: 978-0-
+9514534-6-9. See Psypioneer book review: -
+http://www.woodlandway.org/PDF/PP3.1January07..pdf
+‘Six Lectures on Theology and Nature’ By Emma Hardinge first published in 1860. Re-
+Published by Psypioneer @ £14.95 + pp. ISBN: 978-0-9556539-0-2
+See Psypioneer 3.6 issue: - http://www.woodlandway.org/PDF/PP3.6June07..pdf
+‘Magical Spiritualism - a warning address given in 1878 to mark thirty years of Modern
+Spiritualism’, Andrew Jackson Davis. Published May 2000 by Psychic Pioneer
+Publications, this is a small booklet 7pp £2.00 incl. U.K., postage (please add 20% for
+airmail).
+‘The Mystery of Stainton Moses an address given in 1992 on the centenary of his death’
+Leslie Price Published December 1999 by Psychic Pioneer Publications, this is a small
+booklet 8pp £2.50 Inc U.K., postage (please add 20% for airmail).
+‘Occultism and Spiritualism – a book review by, Stainton Moses originally published
+under the pseudonym M.A. (Oxon). Published 1999 by Psychic Pioneer Publications, this
+is a small booklet 10pp £2.50 Inc U.K., postage (please add 20% for airmail).
+All three Psychic Pioneer Publications £6.00 Inc U.K., postage (please add 20% for
+airmail).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How to obtain this Journal
+The Psypioneer journal is at present available, complete with all back issues on the web
+site http://www.woodlandway.org and we are greatly indebted to our Australian friends for
+hosting and posting this Journal. You can obtain it free and direct by sending an e-mail
+entitled “Subscribe” to psypioneersub@aol.com or “Unsubscribe” to discontinue.
+To contact Psypioneer please e-mail psypioneer@aol.com
+Paul J. Gaunt
+68
+69
+

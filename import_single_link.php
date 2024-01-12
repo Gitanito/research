@@ -1,5 +1,4 @@
 <?php
-ini_set('memory_limit', '512M');
 $silent = true;
 include_once "header.php";
 include_once "functions_add.php";
