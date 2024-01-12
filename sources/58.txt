@@ -1,0 +1,82 @@
+{"name":"Richard S Broughton | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/richard-s-broughton","mytitle":"Richard S Broughton | Psi Encyclopedia","mylang":"de"}
+                     Richard S Broughton | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Richard S Broughton                                                                                                                                                                                                                          Richard Broughton is an American parapsychologist&nbsp;who has specialized in cognitive aspects of ESP and its evolutionary development. His 1991 book&nbsp;Parapsychology:&nbsp;The Controversial Science&nbsp;is a classic introduction to the subject.&nbsp;   Contents   	Career 	Brain Hemisphere Specialization and ESP 	Improving Research Methodology 	Spectre of Experimenter Effect 	Making Psi Useful 	Ganzfeld and the Three Factor Model 	Evolutionary Roots of Psi 	Book 	Literature 	Endnotes     Career
+
+Richard Broughton gained his doctorate in psychology at the University of Edinburgh, under the tutorship of John Beloff. After short appointments in the Netherlands and New York, he joined the Institute for Parapsychology (now known as the Rhine Research Center) in Durham, North Carolina, serving as director from 1995 to 2000. He then left to establish his own initiative, Intuition Laboratories.&nbsp; Returning to the UK, he joined the Psychology Division of the University of Northampton in 2004, retiring in 2012.
+
+Broughton is a twice past president of the Parapsychological Association and has served as president of the Society for Psychical Research, where he is currently honorary treasurer.
+
+Broughton’s early research interests included cognitive aspects of ESP and finding improvements in experimental methodology. Latterly, he has been interested in the emotional regulation of psi ability as a consequence of evolutionary development.  Brain Hemisphere Specialization and ESP
+
+Broughton’s earliest psi research involved exploring the relationship between brain hemisphere specialization and ESP performance. In experiments conducted while studying for his PhD at the University of Edinburgh, he adapted research methods used by cognitive scientists investigating hemispheric specialization to explore the possibility that the right hemisphere has an advantage in processing information acquired by ESP. His methods employed explicit ESP tasks (forced choice guessing with the fingertips of each hand) as well as implicit ESP-mediated responses in bi-manual reaction time tasks. Some experiments showed evidence for a right hemisphere advantage in ESP processing,1 which he concluded was suggestive rather than conclusive.2  Improving Research Methodology
+
+In order to facilitate his brain hemisphere experiments Broughton became an early adopter of, and advocate for, the use of computers for experimental control and data collection.3 In the late 1970s the field of parapsychology was in turmoil over issues of reproducibility and publication bias and he realized that computerisation could provide a technical solution for some of the problems. With his Edinburgh colleague Brian Millar he proposed an analytical process that he termed the ‘Edinburgh Split’ in which data from a single experiment is split into parts while keeping the experimenter blind. The first part could be treated as pilot data in which trends are identified and effects discovered, and the second part used to test rigorously which effects are either confirmed or refuted. He argued this technique would obviate appeals to ‘changed conditions’ in explaining failed replications and avoid statistical ‘chimeras’.4  Spectre of Experimenter Effect
+
+The 1970s saw the rise of the Observational Theories (OTs) that attempted to understand the underlying physical principles of psi phenomena. These models highlighted the role of the observer as the source of psi effects, in turn suggesting that&nbsp;the experimenter may be the source of psi effects seen in laboratory experiments rather than the putative subjects,&nbsp;even retrospectively.
+
+To investigate this disturbing possibility, Broughton created an automated experiment that kept the experimenter blind to the experimental conditions and the participants’ results. Participants performed two runs of a guessing task, and upon leaving the laboratory were given the report of their results, which in the introduction contained suggestions that might lead them to expect that their score in&nbsp;one or other run was higher than the other. As Broughton had anticipated, the results significantly reflected these artificially created&nbsp;expectations, leading&nbsp;him to conclude that either the participants could retrospectively influence their results or he, himself, was the source of the psi effect.5 &nbsp;As he later said,6 this realization raised doubts about his ability to find evidence of psi, casting a pall over his research career. He continues to argue that the experimenter effect remains an unresolved problem for parapsychology.7  Making Psi Useful
+
+Following theorizing by Rex Stanford on psi-mediated instrumental response (PMIR), Broughton argued that researchers should look at psi as need-serving and conduct experiments that give participants a real reason to use psi. He saw ‘winning’ as a likely motivator and extended his computer-based psi testing to have the appearance of competitive games,8 a task made easier by the arrival of desktop computers in the early 1980s.
+
+In one example he designed an RNG-based psychokinesis test that appeared to be a competitive dice game and invited local Duke University students to play against students from the neighbouring University of North Carolina (UNC), their sports arch-rivals. The Duke students played a ‘warm-up’ game and then the ‘real game’ but in reality there were no UNC students. The manipulation proved to be effective emotionally, but that was not reflected in any differences in psi performance, although interesting secondary interactions with personality characteristics were seen.9  Ganzfeld and the Three Factor Model
+
+By the late 1980s, two US laboratories had accumulated large databases from ganzfeld telepathy experiments – the Institute for Parapsychology (now the Rhine Research Centre) and the Psycho-Physical Research Laboratories (PRL) directed by Charles Honorton. The PRL labs had amassed personality data from over 300 participants that revealed three factors to be associated with high ESP scoring: previous psychic experiences, meditation practice, and scoring as FP (feeling/perceiving) on the Myers-Briggs Type Indicator (MBTI) personality test. Participants who scored high on all of its measures were accurate upwards of 50% of the time, more than double the chance level of 25%.10 &nbsp;Broughton analyzed the data from the Institute for Parapsychology and found 28 participants who fitted the three-factor model – their scoring rate was 43%, independently confirming the PRL model.11
+
+Broughton’s close working relationship with Honorton led the latter to turn over all the PRL records and research equipment to the Institute for Parapsychology when PRL closed, and this was used in a large-scale effort to replicate PRL’s ‘auto-ganzfeld’ (computerized ganzfeld experiment) findings12 as well as in subsequent fine-grained analyses of ganzfeld performance.13  Evolutionary Roots of Psi
+
+Broughton’s view of psi as need-serving (in Stanford’s terminology) led him to argue in his 1986 presidential address to the Parapsychological Association14 that psi should be understood as an evolved human ability. But 25 years passed before developments in evolutionary psychology offered a framework in which psi ability could fit. In recent papers he has focused on ESP, particularly precognition, arguing that what is known about ESP and the emotional system and memory,15 both from the spontaneous case literature and a wide range of experimental research, fits neatly with our contemporary understanding of the role of the emotional system and memory in decision-making, anticipating the future and planning. In essence, he has proposed that ESP should be seen as an evolutionary enhancement to our ongoing planning and decision-making systems.16  Book
+
+Broughton is the author of Parapsychology: The Controversial Science (Ballantine, 1991), which has been translated into six languages and is often used as textbook for parapsychology courses.
+
+Michael Duggan  Literature
+
+Bem, D., Palmer, J. &amp; Broughton, R.S. (2001). Updating the ganzfeld database: A victim of its own success? Journal of Parapsychology 65, 207-18.
+
+Broughton, R.S. (1975). Psi and the two halves of the brain. Journal of the Society for Psychical Research 47, 133-47.
+
+Broughton, R.S. (1976). Possible brain laterality effects on ESP performance. Journal of the Society for Psychical Research 48, 384-99.
+
+Broughton, R.S. (1977). An exploratory study on psi-based subject and experimenter expectancy effects. In Research in Parapsychology 1976, ed. by J.D. Morris, W.G. Roll &amp; R.L. Morris, 173-77. Scarecrow Press.
+
+Broughton, R.S. (1979). An experiment with the Head of Jut. European Journal of Parapsychology 2, 337-57.
+
+Broughton, R.S. (1982a). Computer methodology. In Parapsychology and the Experimental Method, ed. by B. Shapin &amp; L. Coly, 24-34. Parapsychology Foundation.
+
+Broughton, R.S. (1982b). The use of computers in psychical research. In Psychical Research: A Guide to its History, Principles and Practices, ed. by I.&nbsp;Grattan-Guinness. Aquarian Press.
+
+Broughton, R.S. (1984). Brain Hemisphere Specialization and ESP: What have we learned? In Research in Parapsychology 1983, ed. by R.A. White &amp; R.S. Broughton, 2-4. Scarecrow Press.
+
+Broughton, R.S. (1988). If you want to know how it works, first find out what it’s for. In&nbsp;Research in Parapsychology 1987, ed. by D.H. Weiner &amp; R.L. Morris, 187-202. Scarecrow Press.
+
+Broughton, R.S. (1991). Parapsychology: The Controversial Science. Ballantine.
+
+Broughton, R.S. (2006a). Memory, emotion and the receptive psi process. Journal of Parapsychology 70, 255-74.
+
+Broughton, R.S. (2006b). Why do ghosts wear clothes? Examining the role of memory and emotion in anomalous experiences.&nbsp;European Journal of Parapsychology 21.
+
+Broughton, R.S. (2010). An evolutionary approach to anomalous intuition. 8th Symposium of the Bial Foundation, Behind and Beyond the Brain: Intuition and Decision-Making, 61-74.
+
+Broughton, R.S. (2013, July 18). Reflections. Mindfield&nbsp;5/2, 58-61.
+
+Broughton, R.S. (2015a). Psi and Biology: An evolutionary perspective. In Parapsychology: A Handbook for the 21st Century, ed. by E. Cardeña, J. Palmer &amp; D. Marcusson-Clavertz, 139-48. McFarland &amp; Company.
+
+Broughton, R.S. (2015b). The experimenter effect bombshell (President’s Letter). Paranormal Review 74 (Spring), 4-5.
+
+Broughton, R.S. &amp; Alexander, C.H. (1997). Autoganzfeld II: An attempted replication of the PRL ganzfeld research. Journal of Parapsychology 61/3, 209-26.
+
+Broughton, R.S., Kanthamani, H. &amp; Khilji, A. (1990). Assessing the PRL Success Model on an Independent Ganzfeld Database. In&nbsp;Research in Parapsychology 1989, ed. by&nbsp;L.A. Henkel &amp; J. Palmer, 32-35​​​​. Scarecrow Press.
+
+Broughton, R.S. &amp; Millar, B. (1980). Split analysis techniques for robust effects. In&nbsp;Research in Parapsychology 1979, ed. by W.G. Roll, 154-56. Scarecrow Press.
+
+Broughton, R.S. &amp; Perlstrom, J.R. (1986). PK experiments with a competitive computer game. Journal of Parapsychology 50/3, 193-211.
+
+Broughton, R.S. &amp; Perlstrom, J.R. (1992). PK in a computer game: A replication. Journal of Parapsychology 56/4, 292-305.
+
+Honorton, C., Berger, R.E., Varvoglis, M.P., Quant, M., Derr, P., Schecter, E.I. &amp; Ferrari, D.C. (1990). Psi communication in the ganzfeld: Experiments with an automated testing system and a comparison with a meta-analysis of earlier studies. Journal of Parapsychology 54, 99-139.   Endnotes 1. Broughton (1975; 1976). 2. Broughton (1984). 3. Broughton (1982a; 1982b). 4. Broughton &amp; Millar (1980). 5. Broughton (1977). 6. Broughton (2013). 7. Broughton (2015b). 8. Broughton (1979). 9. Broughton &amp; Perlstrom (1986; 1992). 10. Honorton et al (1990). 11. Broughton, Kanthamani and Khilji (1990). 12. Broughton &amp; Alexander (1997). 13. Bem, Palmer and Broughton (2001). 14. Broughton (1988). 15. Broughton (2006a; 2006b). 16. Broughton (2010; 2015a).           			  			     			This page was last updated on: February 21, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 1,600 Created: 25th May 2020 Last updated: 21st February 2023 May be cited as:Duggan, M. (2020). &lsquo;Richard S Broughton&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/richard-s-broughton&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/ycyze5nn                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/richard-s-broughton

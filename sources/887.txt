@@ -1,0 +1,92 @@
+{"name":"Robert Morris | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/robert-morris","mytitle":"Robert Morris | Psi Encyclopedia","mylang":"de"}
+                     Robert Morris | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Robert Morris                                                                                                                                                                                                                          Robert Morris (1942-2004) was an American parapsychologist who established the Koestler Parapsychology Unit (KPU) at the University of Edinburgh, overseeing a wide range of psi research studies. &nbsp;Many of his doctoral students now teach parapsychology in British universities and elsewhere.
+
+See also Koestler Parapsychology Unit,&nbsp;Experimental Parapsychology.   Contents   	Career 	Experimental Research  	Ganzfeld  	Direct Mental Influence of Living Systems (DMILS) 	Retro-PK 	Striving vs Non-striving 	Visual Imagery 	Perceptual Defence and ESP   	Reviews and Analysis  	Personality-Psi Correlations 	Retro-PK vs Precognition 	Mind-Matter Theory 	Forced-choice Meta-analysis   	SORRAT  	Publications and Awards 	Legacy 	Literature 	Endnotes     Career
+
+Robert Morris received a BSc in comparative psychology and animal social behaviour at the University of Pittsburgh in 1963. He gained a PhD in psychology at Duke University in 1969. This was followed by two years research on avian social development at Duke University. He had been interested in paranormal phenomena from an early age, and during this time he also worked for evenings, weekends and summers at the Rhine Research Center, then known as the Foundation for the Research of the Nature of Man (FRNM). He later worked alongside William Roll at the Psychical Research Foundation (PRF).
+
+From 1974 to 1980 Morris taught psychology at the University of California, including parapsychology courses. From 1980 to 1985, he was senior research scientist at the School of Computer and Information Science, Syracuse University.
+
+In 1985, he was appointed the first Koestler Chair of Parapsychology in the psychology department at the University of Edinburgh. Under his direction this developed into an active research department which made landmark advances in such areas as the ESP ganzfeld technique, distant influence studies and understanding the geomagnetic psi relationship.
+
+By supervising doctoral students at Edinburgh and elsewhere, Morris is credited with having trained a generation of academics in the UK who went on to establish parapsychology programs in the UK and abroad. (See Parapsychology PhDs in the UK)
+
+Morris died in August 2004 aged 62. His successor as Koestler Chair is Caroline Watt, a founding member of the KPU and formerly one of his doctoral students.  Experimental Research  Ganzfeld
+
+In a 1998 paper, Morris and colleagues reviewed the automated ganzfeld research program carried out at the University of Edinburgh’s Koestler Parapsychology Unit (KPU). This work was begun five years earlier with the aim of replicating the success of similar research led by Charles Honorton in the Psychophysical Research Laboratories (PRL) at Durham, North Carolina. The KPU program made improvements to security features, with&nbsp;distant separation of receiver-sender rooms, a sound and electromagnetically insulated receiver room, automated and randomized target selection, and presentation where receiver mentation is automatically recorded, as well as their target choices and resulting hits or misses. High hit rates were often in the 40% range where 25% was expected by chance, and there significant personality and belief correlations with the data were found.1   Direct Mental Influence of Living Systems (DMILS)
+
+In a study conducted by Morris with colleagues at the IGPP in Germany, a sender attempted to influence the electrodermal activity of a receiver remotely located within an electromagnetic and acoustically shielded room. When trainees from the IGPP were used both senders and receivers, the overall results were well with chance levels. In a second experiment that used close friends, there was a marginally trending result (p = 0.07). Investigation found a ‘release-of-effort’ effect – a sudden relaxation after trying in a PK run causing a jump in ability – to be significant for the friends group but not the trainee experimenters group (p = 0.04). Morris also investigated the correlation with local sidereal time, that measures the position of Earth relative to the stars, and found a fourfold increase in effect size, the same magnitude as found by Spottiswoode and May examining free-response data.2   Retro-PK
+
+Morris took part in an innovative retro-PK experiment collaborating with veteran PK researcher Helmut Schmidt. A talented PK subject attempted to bias targets that had already been generated and stored on duplicate tapes given to sceptical observers. When the tapes were analysed a significant PK effect was seen (p = 0.003).3&nbsp; This study was one of five whose collective results were strikingly in favour of the retro-PK hypothesis (p = 0.0001).   Striving vs Non-striving
+
+To investigate whether a psychological approach might encourage success at psychokinesis tasks, Morris encouraged 32 undergraduate subjects to attempt to influence a trail of dots that were gradually moving from top to bottom of a TV screen under the control of a random-number generator. Half the participants were asked to bias the trail to the right, the others to the left. Additionally, half the participants were asked to strive for a result, the others to remain relaxed. Those given ‘striving’ instructions scored significantly below chance, whereas those given non-striving instructions scored significantly above chance; the difference was highly significant. There was no difference in scoring between those who considered themselves to be competitive and those who did not.4   Visual Imagery
+
+In similar work, Morris investigated the effect of using of visual imagery, as described in popular books on how to develop psychic ability. These were of two types: goal-oriented strategies that involve visualizing only the desired outcome, and process-oriented imagery strategies in which a gradual mechanism leading to a desired outcome is visualized. In an initial study, sixteen college-aged subjects were asked to bias the output of a random number generator, using each of the two imagery strategies for eight trials. Overall there was significant evidence for PK influence, mostly driven by the goal oriented condition – the process-oriented condition giving chance results.
+
+In a second study, twenty undergraduate participants attempted the same PK task, using each imagery strategy half the time, half the participants having previously practised mindfulness training. Analysis revealed that goal-oriented imagery scores were significantly greater than process-oriented scores, as in the first study and that prior mindfulness training had no significant effect.5  Perceptual Defence and ESP
+
+In two experiments, Morris and Watt explored the relationship between psi performance and a new personality measure: perceptual defensiveness, which is closely related to neuroticism. From previous research they predicted a negative correlation between psi defensiveness and psi scoring. Perceptually defensive participants exhibited higher neuroticism scores and lower ESP scores than non-defensive participants.6   Reviews and Analysis  Personality-Psi Correlations
+
+Morris and Guissurarson sought a possible connection between performance in five computer-based PK tests and psychological characteristics such as perceived luckiness, strength of visual imagery, and so on. There was no evidence of significant psi scoring, but higher scoring tended to be produced by participants who had previous psychokinetic experiences. In one study, a strong positive correlation was observed between PK scores and the sheep-goat factor, but this was not seen elsewhere.7   Retro-PK vs Precognition
+
+Morris investigated the nature of precognition, comparing it to retro-PK where both involve apparent flow of information backward in time. He considered strategies for obtaining experimental evidence for both phenomena on the assumption that they share a common physical basis, arguing that alternative theories to account for psi effects appear complex and lack parsimony.8   Mind-Matter Theory
+
+In a 1999 paper on research into mind-matter interactions, Morris suggests a conceptual basis for experimental strategies. Twelve different classes of interpretations of evidence are described. The influence of observation on PK outcomes is compared to the observational effect in quantum mechanics. Each model is found to accommodate one or other type of evidence, but none of them is wholly satisfactory, nor can they account for psi-missing.9 &nbsp;A 1986 review gives a comprehensive overview of PK findings.10  Forced-choice Meta-analysis
+
+Morris examined a database of forced-choice precognition and clairvoyance studies published between 1935 and 1997 that were conducted under similar experimental conditions.11 &nbsp;Both the precognition and clairvoyance studies showed highly significant cumulative overall effects. There was no evidence to suggest that clairvoyance worked better than precognition. No relationship was observed between safeguards used and study outcomes, suggesting methodological quality, considered by sceptical critics to be the source of positive results, in fact had limited influence – a feature that any theory of psi would need to account for.   SORRAT
+
+Morris joined with psychologist and psi sceptic Richard Wiseman, Morris to test claims of psi phenomena made by the Society for Research in Rapport and Telekinesis (SORRAT), a physical mediumship group. &nbsp;Two decks of ESP cards were randomized and their resulting order recorded. The cards were then placed in their respective card cases and sealed. One deck was sent to WE Cox, lead researcher of SORRAT; the other was housed at Edinburgh University. Cox was asked to divine the order of the cards with help of his ‘spirit guides’ and return his guesses to Wiseman and Morris. However, the call sheet and deck were not returned within two months of being dispatched as the investigators had stipulated, and only eight hits were produced, which is not statistically significant. These and other features convinced the investigators that the SORRAT group’s work was fraudulent or based on collective delusion.12   Publications and Awards
+
+Morris authored more than 100 publications in mainstream psychology topics and parapsychology. He twice served as president of the Parapsychology Association and received its Outstanding Contribution Award. He was a vice-president of the British Society for Psychical Research and recipient of its Myers Memorial Medal. He was a council member of the American Association for the Advancement of Science and served for two years as president of the Psychology Section of the British Association for the Advancement of Science. In 1999, he was honoured by the British Psychological Society with its Charles Myers Award.  Legacy
+
+Morris is remembered not just for having established the KPU as a premier parapsychology research and educational institute, but also for supervising more than 30 PhD students, many of whom went on to seed other parapsychology units and departments, for instance Chris Roe’s CSAPP at the University of Northampton University. He is credited with having pursued a distinctive style of research, striving to maintain links to mainstream parapsychology and expressing caution about the extent to which psi phenomena had been demonstrated in the laboratory. He also cultivated collaborations with sceptic groups to improve methodology, as is becoming routine.
+
+Michael Duggan  Literature
+
+Dalton K. S., Morris R. L., Delanoy D. L., Radin D.I., Taylor R., Wiseman R. (1998). Security measures in an automated ganzfeld system.&nbsp;Journal of Parapsychology 60, 129-148.&nbsp;&nbsp;
+
+Debes, J. and Morris, R.L. (1982). Comparison of Striving and Non-striving Instructional Sets in a PK Study.&nbsp;Journal of Parapsychology&nbsp;46, 297-312.
+
+Delanoy, D. L., Morris R. L., Watt, C. (1999). A study of free response ESP performance and mental training techniques. In&nbsp;Journal of American Society for Psychical Research 93, 204-221.
+
+Gissurarson, L. R. and Morris, R. L. (1990). Volition and Psychokinesis.&nbsp;Journal of Parapsychology&nbsp;54, 331-370. &nbsp;
+
+Gissurarson, L. R. and Morris, R.L. (1991). Examination of Six Questionnaires as Predictors of Psychokinesis Performance.&nbsp;Journal of Parapsychology&nbsp;55, 119-145.
+
+Gissurarson, L.R. and Morris, R.L. (1995). A Proposed Research Paradigm for the Study of Volitional Mentation. European Journal of Parapsychology&nbsp;11, 35-57.
+
+Morris, R.L. (1982). Assessing Experimental Support for True Precognition.&nbsp;Journal of Parapsychology&nbsp;46, 321-336.
+
+Morris, R.L. (1986). Psi and Human Factors: The Role of Psi in Human-Equipment Interactions. Coly, L. and Shapin, B. (ed.) Current Trends in Psi Research. Parapsychology Foundation, New York.&nbsp;
+
+Morris, R. L. (1997). Parapsychology and Transpersonal Experiences.&nbsp;NDE Territori Oltre la Vita. Atti del 1st Congresso Internazionale di Studi delle Esperienze di Confine La Vita e la Morte Psicologia e Parapsicologia degli Stati Intermedi, San Marino, 7-13.
+
+Morris R. L. (1999/8). A DMILS training study utilising two shielded environments.&nbsp;European Journal of Parapsychology 14, 52-67.&nbsp;
+
+Morris, R. L. (1999a). The Responsibilities of Instructors in Parapsychology. In Zingrone, N. (ed.)&nbsp;Education in Parapsychology. New York: Parapsychology Foundation, 57-72.
+
+Morris R. L. (1999b). Experimental systems in mind-matter research.&nbsp;Journal of Scientific Exploration 13, 561-578.&nbsp;
+
+Morris, R.L., Nanko, M. and Phillips, D. (1982). A Comparison of Two Popularly Advocated Visual Imagery Strategies in a Psychokinesis Task.&nbsp;Journal of Parapsychology&nbsp;46, 1-16.&nbsp;&nbsp;
+
+Schmidt, H., Morris, R.L. and Rudolph, L.R. (1986). Channelling Evidence for a PK Effect to Independent Observers. Journal of Parapsychology&nbsp;50, 1-17.&nbsp; &nbsp;
+
+Steinkamp F., Milton J., Morris R. L. (1998). A meta-analysis of forced-choice experiments comparing clairvoyance and precognition.&nbsp;Journal of Parapsychology 62. 193-218.
+
+Watt, C. and Morris, R.L. (1995). The Relationships Among Performance on a Prototype Indicator of Perceptual Defence/Vigilance, Personality, and Extrasensory Perception.&nbsp;Personality and Individual Differences&nbsp;16, 635-648.&nbsp;
+
+Watt, C. and Morris, R.L. (1996). Research at the Koestler Chair of Parapsychology. Revista Argentina de Psicologia Paranormal.
+
+Wiseman, R., Beloff, J. and Morris, R.L. (1992). Testing the ESP Claims of SORRAT.&nbsp;Journal of the Society for Psychical Research&nbsp;58, 363-377.&nbsp;
+
+Wiseman, R. and Morris, R.L. (1994). Modelling the Stratagems of Psychic Fraud.&nbsp;European Journal of Parapsychology&nbsp;10, 31-44.
+
+Wiseman, R., Beloff, J and Morris, R.L. (1995). Testing the ESP Claims of SORRAT.&nbsp;Skeptical Inquirer&nbsp; 20/5, 45-46.    Endnotes 1. Morris, et al (1998). 2. Morris et al (1998). 3. Morris et al (1986). 4. Debes and Morris (1982). 5. Morris et al (1982). 6. Watt and Morris (1995). 7. Morris and Gissurarson (1991). 8. Morris (1982). 9. Morris (1999b). 10. Morris. (1986). 11. Morris et al (1998). 12. Morris and Wiseman (1992).           			  			     			This page was last updated on: August 16, 2021   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 2,100 Created: 10th February 2020 Last updated: 16th August 2021 May be cited as:Duggan, M. (2020). &lsquo;Robert Morris&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/robert-morris&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/ucex2um                   	                                             See also:      Koestler Parapsychology Unit Experimental Parapsychology                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/robert-morris

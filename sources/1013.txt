@@ -1,0 +1,72 @@
+{"name":"Marc Wittmann | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/marc-wittmann","mytitle":"Marc Wittmann | Psi Encyclopedia","mylang":"de"}
+                     Marc Wittmann | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Marc Wittmann                                                                                                                                                                                                                          Marc Wittmann is a cognitive neuroscientist based in Freiburg, Germany, where he conducts research on time perception and psi phenomena.   Contents   	Career 	Precognition 	Remote Viewing 	Near-death Experiences 	Jung-Bender Dialogue 	Future Work 	Books 	Literature 	Endnotes     Career
+
+Marc Wittmann&nbsp;is a research fellow at the Institut für Grenzgebiete der Psychologie und Psychohygiene - IGPP (Institute for Frontier Areas in Psychology and Mental Health) in Freiburg, Germany.
+
+Wittmann studied psychology and philosophy at the University of Fribourg in Switzerland and received his doctorate at the Institute of Medical Psychology, University of Munich. From 2000 to 2004 he was head of the Generation Research Program, Bad Tölz, University of Munich, and to 2009 he was a research fellow in the department of psychiatry at the University of California, San Diego.
+
+He is the author of the MIT Press books&nbsp;Felt Time: The Psychology of How We Perceive Time&nbsp;published in 2016 and&nbsp;Altered States of Consciousness: Experiences Out of Time and Self&nbsp;published in 2018.
+
+Wittmann&nbsp;considers himself to be an experimental psychologist and cognitive neuroscientist willing to cross conceptual boundaries and test hypotheses that are outside of the mainstream, including parapsychology. His main interest is in time consciousness, which is broad in scope, ranging from basic research in how humans perceive time to investigations of radical changes in time perception occurring in altered states of consciousness. At the extreme end, this includes phenomena in which the usual concepts of time seem not to play a role, such as in precognition.  Precognition
+
+&nbsp;In 2011, Daryl Bem created controversy with his report on psi experiments that reversed the sequence of standard psychological protocols, appearing to show that reaction times can be influenced by information received in the immediate future.1 &nbsp;Among many attempted replications was one by Wittmann and several co-authors on retropriming, in which an image presented to a person in an experiment is more quickly assessed as being either positive or negative in nature if the words presented afterwards are congruent with the image (negative image–negative word, or positive image–positive word) than incongruent.
+
+In study 1 there was no main confirmatory effect. A post-hoc exploratory investigation of gender differences found that males demonstrated a positive retropriming effect (p = 0.017) whilst females produced a negative but non-significant retropriming effect (p = 0.165), a significant gender difference (p = 0.011). These results replicate gender effects found in other precognition studies.2
+
+In study 2, the confirmatory hypothesis of a positive retropriming effect was not supported. On the contrary, overall reaction times were slower for congruent photo-word pairs than incongruent pairs, and this was statistically significant (p = 0.022). Wittmann and coauthors discuss these ambivalent findings in the context of anomalous patterns of evidence that are typically found in parapsychology.3  Remote Viewing
+
+Remote viewing is the practice of seeking impressions of a target or location distant in space and sometimes also in time.&nbsp;
+
+In Wittmann and Müller’s first remote viewing study, 36 subjects were asked to describe one of six photographs in a sealed envelope. Fourteen made direct hits, which is highly significant (p &lt; 0.0009).4
+
+In a second study published in 2019, Wittmann, together with husband and wife team Maximilian and Laura Müller, ran 48 binary associative remote viewing (ARV) trials in which the future direction (up or down) of the German stock market is used as the target. Chance would predict 24 (50%) correct predictions but overall scoring produced 38, a highly significant 79% hit rate (p = 2.3 x 10-5). 5
+
+In a third study published in 2021, Wittmann and Maximilian Müller tested remote viewing ability under two conditions: clairvoyance of binary targets in the present moment and precognition of targets that are determined randomly in the future. Using independent judging of viewers’ reports, present moment remote viewing produced highly significant scoring (p &lt; 0.001). Precognitive remote viewing was less successful but still significant (p = 0.027), the difference between the conditions being significant (p = 0.003). Contrary to previous research,6 this finding points towards a temporal dependency of psi scoring. Wittmann and Müller discuss a probabilistic understanding of the future as an explanation for these findings and other psi effects.7  Near-death Experiences
+
+&nbsp;In a 2017 publication, Wittmann and coauthors draw attention to the widely reported experience of time-distortion during near-death experiences, notably of time slowing down. Among 196 testimonies found in the Near Death Experience Research Foundation (NDERF) database, 127 reported a change in the perception of time and 120 a sense of timelessness.8  Jung-Bender Dialogue
+
+In 2021, Schellinger, Anton and Wittmann presented an English translation of a discussion held in 1960 between Carl Jung and Hans Bender, a German parapsychologist,9 Much of the discussion was of the importance of synchronicities, with Bender describing emotional experiences that coincided with the death of his mother, which unknown to him was occurring at a distant location. &nbsp;  Future Work
+
+A precognition study, funded by Bial, employs EEG recordings to assess which brain regions are related to classic (non-paranormal) forward priming as well as Bem’s retropriming effect. A ganzfeld psi study funded by the Society for Psychical Research seeks to confirm earlier indications10 that a green light field may act as a greater stimulant than the conventional red light.  Books
+
+In Felt Time: The Psychology of How We Perceive Time (2016),&nbsp;Wittmann draws on the latest insights from psychology and neuroscience to examine the question of subjective time.
+
+In Altered States of Consciousness: Experiences Out of Time and Self&nbsp; (2018), Wittmann discusses the relationship between our sense of time and altered states of consciousness such as meditative states, mystical revelations, out-of-body experiences and drug intoxication, in the light of recent neuroscientific findings.
+
+Michael Duggan&nbsp;  Literature
+
+Bem, D. (2011). Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect. Journal of Personality and Social Psychology&nbsp;100, 407-25.
+
+Bem, D., Tressoldi, P., Rabeyron, T., Duggan, M. (2016).&nbsp;Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events.&nbsp;F1000Research&nbsp;4. 10.
+
+Kübel, S., Fiedler, H., Wittmann, M. (2021). Red visual stimulation in the Ganzfeld leads to a relative overestimation of duration compared to green. PsyCh Journal 10/1, 5-19.
+
+Mossbridge, J., Grabowecky, M., Suzuki, S. (2011). Physiological markers of future outcomes: Three experiments on subconscious psi perception during concurrent performance of a guessing task.&nbsp;The Parapsychological Association, 54th Annual Convention Abstracts of Presented Papers&nbsp;17.
+
+Müller, M., Wittmann, M. (2017). Remote Viewing: Eine Proof-of-Principle-Studie. Zeitschrift für Anomalistik 17, 83-104.
+
+Müller, M., Müller, L., Wittmann, M. (2019). Predicting the stock market: An associative remote viewing study. Zeitschrift für Anomalistik 19, 326-46.
+
+Müller, M., Wittmann, M. (2021). Anomalous Cognition in the context of time: Does the viewer describe a deterministic or a probabilistic future? Journal of Scientific Exploration 35, 542-69.
+
+Schellinger, U., Wittmann, M., Anton, A. (2019). “Das ist alles so eigentümlich verschachtelt“ Hans Bender und Carl Gustav Jung im Gespräch über Synchronizität (1960). Zeitschrift für Anomalistik 19, 420-67.
+
+Schellinger, U., Anton, A., Wittmann, M. (2021). “It is all so Strangely Intertwined.” A discussion between Hans Bender and Carl Gustav Jung about synchronicity (1960). Phanês 4, 1-50.
+
+&nbsp;Steinkamp, F., Milton, J., Morris, R. L. (1998). A meta-analysis of forced-choice experiments comparing clairvoyance and precognition.&nbsp;Journal of Parapsychology 62/3, 193-218.
+
+Wittmann, M. (2016). Felt Time: The Psychology of How We Perceive Time. MIT Press. Cambridge, Massachusetts.
+
+Wittmann, M., Hurd, P. (2018). Altered States of Consciousness: Experiences Out of Time. MIT Press. Cambridge, Massachusetts.
+
+Wittmann, M., Neumaier, L., Evrard, R., Weibel, A., Schmied-Knittel, I. (2017). Subjective time distortion during near-death experiences: an analysis of reports. Zeitschrift für Anomalistik 17, 309-20.
+
+&nbsp;Wittmann, M., Scheck, F., Feldmann, J., Glaesman, A., Mossbridge, J., Bem, D. (2021). The German version of a retroactive priming task shows mixed effects. Psychology of Consciousness: Theory, Research, and Practice.   Endnotes 1. Bem et al (2016. 2. Mossbridge et al (2011). 3. Wittmann et al (2021). 4. Müller &amp; Wittmann (2017). 5. Müller et al (2019). 6. Steinkamp et al (1998). 7. Müller &amp; Wittmann (2021). 8. Wittmann et al (2017). 9. Schellinger et al (2019); Schellinger et al (2021). 10. Kübel et al (2021).           			  			     			This page was last updated on: August 01, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 1,300 Created: 31st July 2023 Last updated: 1st August 2023 May be cited as:Duggan, M. (2023). &lsquo;Marc Wittmann&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/marc-wittmann&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/2cwaxz6s                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/marc-wittmann

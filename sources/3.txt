@@ -1,0 +1,90 @@
+{"name":"Mark Boccuzzi | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/mark-boccuzzi","mytitle":"Mark Boccuzzi | Psi Encyclopedia","mylang":"de"}
+                     Mark Boccuzzi | Psi Encyclopedia                                Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Mark Boccuzzi                                                                                                                                                                                                                          Mark Boccuzzi is a psi researcher based in Arizona. He is&nbsp;lead developer at The Windbridge Institute, which he co-founded in 2008 together with his wife and research partner, Julie Beischel, PhD, and executive director of the Windbridge Research Center, a non-profit organization dedicated to research around survival of consciousness after death. He is also managing editor of the open access, free, peer-reviewed journal Threshold: Journal of Interdisciplinary Consciousness Studies. 1 2   Contents   	Mental Mediumship 	Physical Mediumship 	Real-time Instrumental Transcommunication 	Canine PK 	Experimenter Effects in PK Research 	Further Discarnates/PK Research 	Machine Learning 	Intentional Datasets as Vectors for Intention 	Task Optimizing 	Machine-Based Consciousness 	Other Initiatives&nbsp; 	Literature 	Endnotes     Mental Mediumship
+
+Since 2008, Boccuzzi has been researching modern American, secular, mental mediums. He has co-authored over a dozen peer-reviewed papers, book chapters, and presentations that cover aspects of mediumship, including accuracy, physiology, and the potential therapeutic applications of mediumship readings for the grieving.3  Physical Mediumship
+
+With support from the Parapsychological Association’s Gilbert Roller Fund, Boccuzzi successfully demonstrated the usefulness of thermal imaging technology as a means to document sittings with physical mediums held in extremely low light conditions.4  Real-time Instrumental Transcommunication
+
+Boccuzzi carried out a pilot study5 of real-time instrumental transcommunication (ITC), the phenomenon of putative communication with discarnates by means of voices, images or texts appearing in electronic media. Unlike Electronic Voice Phenomena (EVP) where a recording is made first, then voices are heard after the recording is played back at a later time, real-time ITC uses methods that allow operators to ask questions and receive an immediate response, enabling a real-time, interactive exchange. Here, a synthesized voice technique was used.
+
+In this study Boccuzzi attempted to objectively verify interpretations of utterances from sessions carried out with an experienced ITC operator. This intention failed, but novel techniques were introduced, including deployment of a standardized data collection platform which allowed the operator to remotely conduct ITC sessions while ensuring data integrity and adherence to established protocols; use of blinded, randomized listening panels with matched controls; and specially trained speech recognition software to minimize human bias during the interpretation process.  Canine PK
+
+In an innovative experiment, Boccuzzi tested the family dog for evidence of micro-PK using Psyleron’s Sync-TXT app, which texts the user a pre-selected message if the behaviour of a random number generator becomes significantly non-random.&nbsp; Boccuzzi rated the dog’s behaviour on a scale of 1-7 every time a message was received.&nbsp; Analysis of results found a significant correlation between the dog’s activity and a measure of the text message’s meaning, done under blinded conditions.6  Experimenter Effects in PK Research
+
+In three PK experiments Boccuzzi and Beischel probed experimenter effects across three different experimental designs.7&nbsp; Before each test the experimenter completes an assessment that measures their belief, expectancy, enthusiasm and desire, producing a composite graphical representation of the experimenter’s relevant psychological parameters – named the Experimenter Assessment Tool.&nbsp;
+
+A study with random number generators (RNG) employed an automated design, in which what counts as a hit is randomly set by the program and a sequence of rules; the experimenter merely starts the experimental run and sets the intention either score high or score low. Four out of five results were significant, correlating quite strongly with Boccuzzi’s high assessment ratings. The study also demonstrated that automated systems and complex levels of experimenter masking may do little to prevent psi experimenter effects.
+
+The second study, conducted at the experimenters’ home, measured the amount of dust particles blocking a laser beam when deceased individuals were asked push airborne particulates into the path of the beam. Significantly low results (psi-missing) were found compared to control periods (p = 0.01). Inspection of the Experimenter Assessment Tool revealed strongly negative ratings on the part of Beischel, who later disclosed an unwillingness to entertain the possibility of a haunted home.
+
+In the third experiment, both operator PK and discarnate influences on the air pressure of a sealed jar were explored, but no significant effects were found in either condition. This correlated with Boccuzzi’s low enthusiasm and desire scores brought on by a general skepticism of the likelihood of success.
+
+For Boccuzzi, these finding reveal the intrinsic difficulty of identifying experimenter psi, even with the advantage of sophisticated research designs. He outlines further research that might break the impasse by registering the experimenter’s attitudes, expectations and intentions, both from self-assessments and the impressions of others – a '360 approach'.&nbsp;  Further Discarnates/PK Research
+
+Boccuzzi investigated the possibility of discarnates influencing the output of commercially-available ghost hunting gadgets.8 Following on from previous research, the study design looked for the presence of experimenter psi, through appropriate blinding, and also of unwanted environmental influences, through substantive shielding. Analysis of results revealed statistically significant differences between active and control sessions for one of two discarnates, with respect to two of seven devices (RNG p = 0.038, lighting circuit p = 0.048). This evidence was interpreted as cautiously supporting the discarnate hypothesis over experimenter psi.  Machine Learning
+
+Inspired by the recent surge in use of machine learning, Boccuzzi employed machine vision recognition software to classify and extract details from a set of images that were created from random event generator (REG) data (intentional datasets) taken during sessions in which meditators focused on either the concept of love or hate.9&nbsp; Despite considerable overlap, the software was able to successfully group four of the ﬁve ‘hate’ images. Although exploratory in nature, the results demonstrated the potential value of using machine learning in psi research.&nbsp;&nbsp;  Intentional Datasets as Vectors for Intention
+
+Following up on the ‘love/hate’ data visualization experiments with machine learning, Boccuzzi ran an exploratory study to examine the impact of exposure to intentional datasets on online gamers.10 One hundred and twenty participants were randomly assigned to play one of three versions of a simple online game. The overall gameplay of each version was the same, but various aspects were informed by either the ‘love’ dataset, the ‘hate’ dataset or a new ‘neutral’ dataset. Before and after the game, each player was asked to rate their current level of happiness on a five-point visual scale. Analysis of the pre and post happiness scores showed statistically significant difference between the change percentage for each of the three conditions (p &lt; 0.00001, Kruskal-Wallis test, H(2) = 27.6659). ‘Love’ condition player scores showed increased happiness (p = 0.0034, two-tailed t-test), while those in the ‘hate’ condition showed decreased happiness (p = 0.0004, two-tailed t-test). No difference was found for the pre-post neutral condition scores. A replication is planned.  Task Optimizing
+
+Boccuzzi questions the ‘one-size-fits-all’ approach in which participants in psi tests are given the same task, regardless of their individual differences, while relying on general principles such as target optimization, participant selection and experimental environment.11 He proposes that optimizing a task according to the cognitive styles and other psychological factors of each participant maximizes the chance of detecting psi, and accordingly is developing psi tests disguised as games that accommodate individual styles.  Machine-Based Consciousness
+
+Starting from the ‘filter’ or ‘transmission’ model of consciousness – unfamiliar to most mainstream science but widely accepted by parapsychologists - Boccuzzi asks whether, in addition to the brain, it might be possible to create artificial, nonbiological systems to channel noncorporal consciousnesses? Furthermore, if psi is a function of consciousness, can we create psi-enabled systems by using AI?
+
+Inspired by advancements in psibotics,12 Boccuzzi has launched a project that examines the possibility of blending AI with psi to see what can be learned. The project has five separate but somewhat overlapping programs.   	replacing human and non-human research participants with psi-enabled AIs    	re-analyzing existing parapsychology datasets using Machine Learning (ML) to uncover previously undiscovered correlations    	integrating psi, ML, and AI to create psi-enabled applications and robotic devices&nbsp;    	using ML/AI to generate hypotheses and elucidate psi mechanisms of ps    	exploring the application of AI to the rhetorical triangle (ethos, pathos, logos) to address the challenge of parapsychology’s mainstream acceptance
+
+In 2020, as the first fruits of this program, Boccuzzi released the Throne of the Sphinx (TotS),13 a conversational, hardware/software-based (nonbiological), non-local consciousness hosting platform. This incorporates random number generators as inputs and produces channelled responses to natural language inquiries in such areas as wisdom acquisition, personal advice, finding solutions to global problems, and research protocol designs.
+
+TotS projects to date have included:   	the incorporation of psi information into machine learning models. 	understanding the mind-brain interface. 	developing conscience systems for inclusion as potential research participants. 	potential application as an Instrumental Transcommunication (ITC) platform. 	studying psi-mediated experimenter effects 	exploring the relationships between belief and authority   Other Initiatives&nbsp;
+
+In 2021, Boccuzzi turned his attention to what he terms Meta Issues in Parapsychology, exploring the societal responsibilities of parapsychology and edge science research through presentations, essays and pilot projects. These include:   	public-facing programs to defend and advance parapsychology    	advancing ​​diversity, equity, and inclusion    	a call for a moratorium on direct psi research on non-human animals    	a critical review of the ethics of field research on physical mediumship    	seeking additional protections for participants in psi-focused research studies    	understanding experimenter motivations    	exploring the implications of applying psi-based technologies for environmental protection and sustainability
+
+Michael Duggan  Literature
+
+Boccuzzi, M. (2011). Three methods for examining psi-mediated experimenter effects in investigations of psychokinesis. Paper presented at the 30th Annual Meeting of the Society for Scientific Exploration, Boulder, CO.
+
+Boccuzzi, M. (2016). Applying machine learning to psi research: An example of using a deep machine learning image classifier to analyze seemingly random visualized FieldREG data collected during sessions with meditators.&nbsp; Proceedings of the 35th Annual Meeting of the Society for Scientific Exploration and 59th Annual Convention of the Parapsychological Association Joint Meeting. Boulder, CO.
+
+Boccuzzi, M. (2017). Application of digital infrared thermographic imaging (DITI) and other monitors for documenting physical phenomena during sittings with a medium. Threshold: Journal of Interdisciplinary Consciousness Studies 1/2, 37-50.&nbsp;
+
+Boccuzzi, M. (2018). Datasets as vectors for intention: Measuring the impact of intention-entangled datasets on the happiness scores of online gamers. Poster presented at the 37th Annual Meeting of the Society for Scientific Exploration (joint conference with the International Remote Viewing Association).June. Las Vegas, NV.
+
+Boccuzzi, M. (2019). Looking for psi in all the wrong places: Task optimization in psi research. Paper presented at the 38th Annual Meeting of the Society for Scientific Exploration, Boulder, CO. June.
+
+Boccuzzi, M. (2021). Rethinking Non-Human Animal Psi Research. &nbsp;November 9. [Web page]
+
+Boccuzzi, M. (2021). Just because you can doesn’t mean you should: Ethical Considerations of Applying ψ (psi) to Environmental Protection. [Video conference session]. &nbsp;December.
+
+Boccuzzi, M. (2022). Defending Psi. April 1. [Web page]
+
+Boccuzzi, M. (2022). Meta Issues in Parapsychology. April 8. [Web page]
+
+Boccuzzi, M. (2022).&nbsp;Expanding Access to Edge Science. May 5. [Web page]
+
+Boccuzzi, M. (2022).&nbsp;Considering the Scientific Study of Physical Mediumship. October 9. [Web page]
+
+Boccuzzi, M. (2022). From Oracles To Algorithms: Wisdom Acquisition at The Intersection of A.I. and Psi [Conference session]. Joint conference of the Society for Scientific Exploration and the Parapsychological Association, June.
+
+Boccuzzi, M. &amp; Beischel, J. (2010). Old dog, new trick: The effect of animal micro-psychokinesis on quantum events.&nbsp; Proceedings of the 10th Conference: Toward a Science of Consciousness. Tucson, AZ.
+
+Boccuzzi, M. &amp; Beischel, J. (2011). Objective analyses of reported real-time audio instrumental transcommunication and matched control sessions: A pilot study. Journal of Scientific Exploration 25, 215-35.
+
+Boccuzzi, M. &amp; Beischel, J. (2012). Invited ostensible discarnate interactions with electronic equipment: A pilot study. Proceedings of the 55th Annual Convention of the Parapsychological Association, Durham, NC.
+
+Boccuzzi, M. &amp; Beischel, J. (2018). The Windbridge Institute: Ten years working at the cutting edge of science. EdgeScience 34.&nbsp;
+
+Duggan, M. (2019). Garret Moddel. Psi Encyclopedia. London: Society for Psychical Research.
+
+Windbridge Institute. (n.d.). Machine-Based Consciousness. &nbsp;[Web page]
+
+Windbridge Institute. (n.d.). Whose Psi Is It? Determining the Impact of Psi Experimenter Effects. [Web page]
+
+Windbridge Institute, LLC (2017). Mediumship and Afterlife Research has moved to the Windbridge Research Center. July.&nbsp;   Endnotes 1. Windbridge Institute, LLC, 2017. 2. Boccuzzi &amp; Beischel (2018). 3. Windbridge Research Center 4. Boccuzzi (2017). 5. Boccuzzi &amp; Beischel (2011). 6. Boccuzzi &amp; Beischel (2010). 7. Boccuzzi (2011). 8. Boccuzzi &amp; Beischel (2012). 9. Boccuzzi (2016). 10. Boccuzzi (2018). 11. Boccuzzi (2010). 12. Duggan (2019) 13.  Boccuzzi (2022)           			  			     			This page was last updated on: March 13, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 2,000 Created: 14th December 2019 Last updated: 13th March 2023 May be cited as:Duggan, M. (2019). &lsquo;Mark Boccuzzi&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/mark-boccuzzi&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/uo2lt39                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/mark-boccuzzi

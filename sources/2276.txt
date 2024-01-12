@@ -1,0 +1,278 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/witchcraft","mytitle":"Witchcraft | Psi Encyclopedia","mylang":"de"}
+                     Witchcraft | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Witchcraft                                                                                                                                                                                                                          Socially proscribed magical practices existed long before the English language acquired the word ‘witchcraft’. The term has a gendered nuance, evolving from the enchantresses of Greek and Roman literature to the explicit codification of primarily female ‘witches’ as ‘diabolic’ in Christian theology. &nbsp;Magic-users were persecuted in pagan societies; however, the systematic destruction of people for the alleged crime of witchcraft developed fully in the Christian era. In the eighteenth century, growing intellectual freedom challenged the legal and theological basis of witch hunts, leading to the repeal of witchcraft laws. Today, witchcraft has been reimagined as a legitimate religion in its own right, principally in the form of Wicca.
+
+This survey focuses on the European history of witchcraft, although the core meaning of the word finds similarities in other cultures that suggest universal characteristics.   Contents   	Introduction 	Antiquity&nbsp;(800 BCE-600 CE)  	Ancient Greece 	Rome 	Late&nbsp;Antiquity (Early Christianity)   	Middle Ages&nbsp;  	Early&nbsp;Middle Ages (500-1000) 	High Middle Ages (1000-1400) 	Late Middle Ages (1400-1600)   	Early Modern Period  	Torture and Executions 	Sixteenth Century 	Seventeenth Century 	Eighteenth&nbsp;Century   	Modern Period  	Nineteenth Century 	Twentieth and Twenty-First Centuries: Wicca   	Literature 	Endnotes     Introduction
+
+The idea of magic, good and bad, has existed at least since the age of myth. Conceived of as ‘magical thinking’, it has been interpreted as a way in which the mind structures reality and attempts to guide our egos through it. But ‘witchcraft’ per se has become so associated with certain times, places and meanings that we can more accurately chart its course. While it finds its greatest, most complete expression in the Christian period in Europe, its roots lie in antiquity, and its newest branches extend into modern, post-Christian times.
+
+Witchcraft is not just magic; to give it its fullest signification, it is socially proscribed magic, a world outlook in which misfortune is blamed on the anti-social magic of others. This combination of repression and implied rebellion motivates both its persecution and later reconfiguration (or ‘revival’) as a religious practice.
+
+Social and cultural dimensions have always been important in the construction of witchcraft. Magic infused ancient society, but the figure of the magic-using woman that emerged in the literature of this period – from Circe and Medea in Homer’s great epics to Horace’s Canidia, Lucan’s Erictho and Apuleius’s Pamphile – presented a gendered image of dangerous magic that informed Christian demonology from late antiquity onwards and remains the keystone in popular conceptions of witchcraft.
+
+The early developmental stages of Christianity show the conflict with embedded pagan traditions that remained stubbornly resistant – if only in localized geographic and social pockets – well into the modern period, challenging the hegemony of Christianization and providing the impetus for increasing persecution. The period from the late sixteenth century to the seventeenth century was the quintessential historical moment of ‘witchcraft’, less a ‘medieval’ construct – as is often thought – than an early modern phenomenon.
+
+The decline of the European witch trials has occasioned as much scholarly debate as their rise. But a decline in judicial proceedings masked a continued popular and theological struggle with witchcraft and other categories of supernatural evil that has persisted in one form or another into modern times.
+
+At the same time, a re-interpretation of witchcraft emerged, first in scholarly literature, then increasingly in more popular terms, that posited ‘witchcraft’ as the demonized and persecuted form of a Europe-wide pagan religion. This became the theoretical basis for the emergence of Wicca, essentially an invented tradition that re-imagined the past to provide an alternative spirituality for the present.  Antiquity&nbsp;(800 BCE-600 CE)  Ancient Greece
+
+The Western witch first appears the epic poetry attributed to Hesiod and Homer in the Iron Age. Believed to have lived in the second half of the eighth century and first half of the seventh century BCE, Hesiod was the author of several important works, including the Theogeny where we find the quintessential goddess of witchcraft, Hecate (also Hekate), first described. Putting aside the debates surrounding the authorship traditionally ascribed to Homer, it is in the Odyssey, the story of Odysseus’s voyage home after the Trojan War (traditionally dated to the twelfth century BCE) composed in the late eighth century BCE, that we meet the sorceress Circe, here a daughter of the Sun and hence one of the Titans, but later described as a daughter of Hecate by other sources.1 These were foundational texts for the ancient Greeks and continued to have great influence in European culture. Here, it is particularly the depiction of Circe, a manipulative magic-user ensnaring Odysseus’s crew with her magic potion and turning them into swine (and also later instructing Odysseus in necromancy), that typecasts the witch as a woman.
+
+The witch’s lineage continued in the form of Medea, Circe’s sister or niece, and another devotee2 and sometimes daughter of Hecate.3 We first encounter her in Euripides’s Medea in the fifth century BCE, where she is a priestess of Hecate, ‘that dread queen’, to whom she turns to exact her revenge after being spurned by the hero Jason for another woman.
+
+According to Hesiod, Hecate presided over earth, heaven and sea, and sacrifices were made to her for wealth and honour, and much else besides, from victory in battle to fertility on the farm. The earliest archaeological record of the worship of Hecate is an altar inscription dated to the sixth century BCE in the sanctuary of Apollo Delphinios in Miletos on the coast of modern Turkey, some 50 kilometres from Lagina. There is nothing here to suggest witchcraft; that would come later with Sophocles and especially Euripides in the fifth century BCE. So although Hecate is hierarchically superior to Circe, her portrayal as having governance over the realm of witchcraft can only be dated some two or three centuries later. However, Circe remains rooted to only a few mythological moments, whereas the goddess Hecate is free to appear whenever called upon. From Euripides’s Medea to Shakespeare’s Macbeth (published 1623), Hecate is invoked as the mistress of black magic.
+
+Other than these literary examples, what did actual Ancient Greek ‘witches’ do? One known activity was the manufacture of curse tablets. There was no uniform name for these, but katadesmos, ‘binding’ (plural katadesmoi) is the term used in Plato’s Republic in the fourth to fifth centuries BCE. These were usually small sheets of lead (or lead alloy) inscribed with spells, which were then rolled or folded over, sometimes additionally being pierced with nails, and deposited in a ritually significant site. The earliest curse tablets date from the late sixth or early fifth centuries BCE, a group of twenty-two discovered in the Greek colony of Selinus in Sicily. The majority come from Attica, dating across the Classical, Hellenistic and Imperial (Roman) periods.4
+
+More than a thousand curse tablets written in Greek have been documented and they continue to be discovered.5 One such was discovered in a grave in Athens in 2003 dating from the early fourth century BCE6. This prevalence attests to their importance in Greek society over a considerable period of time.  Rome
+
+The use of curse tablets continued into the Roman period: over 500 are known, but undoubtedly more await discovery.7 The term widely used by scholars for these is defixio (plural defixiones), from the verb defigere, ‘to fasten’. Most Roman examples date from the third and fourth centuries CE and constitute ‘prayers for justice’8 A large body of other magical writings preserved on papyrus, the so-called Greek Magical Papyri (Papyri Graecae Magicae) from Graeco-Roman Egypt, illustrates a broad range of spells, many using similar formulae to the defixiones, mostly dating from the second century BCE up to the fifth century CE.9
+
+The existence of these objects points to the necessity of a magically skilled workforce able to produce them. As in Greece, the characterization of the evil magic-user also continued as a female stereotype. The principal characters known to us are Virgil’s Alphoesiboeus and Dido, Horace’s Canidia, Lucan’s Erictho and Apuleius’ Pamphile.
+
+Virgil wrote two accounts of magic-working women: Alphoesiboeus in his Ecologues and Queen Dido in the Aeneid (70-19 BCE). The Ecologues were largely a romanized version of the Greek poet Theocritus’s Idylls of the third century BCE; Alphoesiboeus was Virgil’s version of the earlier character of Simaetha. Where Simaetha called upon Hecate and Artemis, Alphoesiboeus mentions only the example of Circe. Both use herbs and wax dolls to work their spells in an attempt to cause Delphis/Daphnis to fall in love with them. Virgil’s Aeneid is an epic poem about the founding of Latium. Dido is the queen of Carthage and falls in love with the Trojan hero Aeneas. When Aeneas secretly leaves before their appointed marriage, she turns to a Massylian priestess to curse him; but Aeneas survives and it is Dido who dies, killed by her own hand.
+
+Horace (65-8 BCE) was a Roman poet during the reign of Octavian who wrote about the exploits of four witches: Canidia and her assistants Folia, Veia and Sagana. It is believed that Canidia was modelled on a real person, a perfume maker called Gratidia, and that his literary treatment was partially reflective of actual magic in ancient Rome. In the poem, Candidia is an aged prostitute who has turned to magic to maintain her trade.10
+
+Other important Roman writers turned their skill to Medea: Ovid (43-17/18 CE) and Seneca the Younger (c 5 BCE - 65 CE) both wrote plays called Medea, showing the continued popularity of this myth. In one of Seneca’s other plays, Hercules Oetaeus, the character of a nurse tells Deïanira, the wife of Hercules, that wives often use magic to hold on to their husbands and reveals that she herself is skilled in such arts.
+
+Seneca’s nephew, Lucan (39-65 CE), was responsible for another influential depiction of the witch: the figure of Erictho in Book 6 of the Pharsalia (or De Bello Civili). She lives in Thessaly, infamous for witchcraft, where the final battle of 48 BCE between Pompey and Julius Caesar is about to take place. She is consulted by Pompey’s son Sextus to discover the outcome of the civil war and turns to necromancy to find the answer.
+
+Apuleius (c124-c170 CE) is an interesting case: he himself was tried for using magic, to win the favour of a wealthy widow (see De Magia). Despite that, he also depicted black magic as the special practice of women. In his Metamorphoses (or The Golden Ass), the hero falls in love with a young witch, Photis, the servant of Pamphile, who is skilled in ‘evil arts and illicit fascinations’. He observes Pamphile transforming herself into a bird and attempts to do the same, but is turned into a donkey and in this form undergoes various adventures before becoming a devotee of Isis and being restored to his former shape. Within this story he also tells another tale about an old witch called Meroe, who, like Circe before her, has the power of changing men into animals and seems concerned above all else with the seduction of younger men.11
+
+All these literary witches except Erictho involve an erotic element, and this becomes a defining criterion. Magic was widespread in the ancient world and there were plenty of male magicians, but the literary motif of the woman working magic against the good of society (or the social order), especially where love and marriage were concerned, was the dominant imaginative construct, prefiguring the conceptualization of what would come to be known as witchcraft.
+
+Roman law was first articulated in 451 BCE in the so-called Twelve Tables, which remained influential until at least the end of the Roman republic in 27 BCE. One included prohibitions against certain anti-social uses of magic, cursing arable land or the magical theft of crops.12 &nbsp;&nbsp;Cresimus was tried under this article in the second century BCE for allegedly spiriting away another’s crops.13
+
+There were also large-scale persecutions. In the second half of the second century BCE, mass executions took place of people accused of veneficia (poisoning), which may have been connected to the violent suppression of the orgiastic Bachanals in 186 BCE.14 Livy (64 or 59 BCE-17 CE) recounted cases in which 2000 and 3000 were executed.15 This did not stop the practice of magic: later, in 33 BCE, there were again sufficient ‘astrologers and magicians’ to be banished from Rome en masse.16  Late&nbsp;Antiquity (Early Christianity)
+
+With the closure of the pagan temples in 391, Rome entered a new and terminal period of its history. Under Constantine’s earlier law of 321, those who used magic either to harm or inspire lust were subject to legal punishment.17 Christians had been blamed by Nero for the Great Fire of Rome in 64 and suffered persecution, but with Constantine’s conversion Christianity was decriminalized in 313 and by 380 was declared the state religion of the Empire.
+
+In the reign of Constantine’s son Constantius II, the death penalty was extended to those who still worshipped the old gods of Rome. During this period Christian mobs desecrated and pillaged the old temples. Where once a distinction had been made between unlawful magic and lawful (pagan) religion, the two were now thrown together and, despite the brief revival of paganism under Julian (reigned 361-363), the temples were closed for ever under Valentinian II (reigned 375-92). There were further expulsions of magicians from Rome in 409 and 500. The final torch of paganism, the Academy of Athens, was snuffed out by Justinian I in 529, a date that has come to stand for the end of antiquity.18
+
+Despite the great changes, underneath the surface, things stayed the same: Christians practised magic and pagans still worshipped their gods. However, the balance of power had shifted for good: the class of Christian theologians now determined the distinction between legitimate religion and illegitimate superstition or worse.19 In Paul’s First Epistle to the Corinthians of c 53/54 CE, the sacrifices of the pagans are said to be offered to demons20 and so the precedent was set. However, centuries would pass before the Christians imposed their worldview on the rest of the Empire, and the process would have to take account of differing northern beliefs.21
+
+With Christianity came Jewish beliefs concerning magic enshrined in the Old Testament. One of the most influential stories was that of Saul and the Witch of Endor (1 Samuel, 28:3-25): again, a general on the eve of battle seeks knowledge of the future and, again, a female magic-user turns to necromancy to provide it. Although this story recognized the powers of the witch, time and again it was used to highlight the dangers of dabbling with the powers of darkness.22  Middle Ages&nbsp;  Early&nbsp;Middle Ages (500-1000)
+
+Rioting monks destroyed the pagan temples and groves of Gaul in the fourth century, but the Christianization of the northern fringes of the Roman Empire took considerably longer. Missionaries visited the British Isles in the late sixth century; however, England did not accept Christianity until the seventh century. Germany resisted until the ninth century, Scandinavia until the twelfth century. Old Livonia (present-day Estonia and Latvia) only became nominally Christian after conquest by crusade in 1207. Even in cases of apparently early Christianization, the picture was far from uniform: for example, the general ignorance of the English peasant on Christian matters was reported as a cause for concern up until the seventeenth century.23
+
+One of the earliest documents proscribing magic from this period of the Christianization of Europe was the Liber Pænitentialis of St Theodore, c 600 CE. St Theodore (Archbishop of Canterbury, 668-690) went further than the existing laws of the Holy Roman Empire that already proscribed harmful magic to extend punishment to the practice of beneficial magic, specifically particular magical cures involving mothers putting their daughters on roofs or in ovens to cure them of fever. St Theodore also decreed three years penance for those caught being so ‘devilish’ as to disguise themselves with animal skins as stags and bulls during the kalends of January.
+
+In Spain, the Council of Toledo (633) was forced to address the problem of ecclesiastical involvement in magic: those found guilty were stripped of their rank, confined in a monastery and forced to undergo ‘perpetual penitence’.24 These threats failed to eradicate the problem. The Council meeting again in 683 found it necessary to forbid priests from stripping altars and closing churches to punish God (pagan priests had done exactly the same in their temples). When the Council convened in 694 it forbade priests from saying the requiem mass for living persons in order to bring about their untimely end. The involvement of the priestly class is a recurrent theme and it affected all ranks: even a pope could be tried for necromancy, as Gregory VII was in 1080. Demonstrably, black magic was also an internal problem for the Church.
+
+In England, the Confessional of Egbert, circa 750, gives another example of the struggle against popular belief: ‘If a woman works drycraeft (sorcery) and galdor (enchantment) and [uses] magical philters, she shall fast for twelve months.’ The penalty for successful magic was even more severe: ‘If she kills anyone by her philters, she shall fast for seven years’.25 Like St Theodore a hundred years before him, Egbert singles out women as the practitioners of magic. Alfred the Great (849-99) of Wessex pronounced the death penalty for wiccan (witches); and Æthelstan (c 894-939) likewise decreed that murder by wiccecræft was to be punished with death.
+
+Charlemagne (742-814), King of France and Emperor of the Holy Roman Empire (from 800), responded to the continued threat of pagan magic in a series of edicts (the Capitaluria) dating from about 789. Here, Charlemagne singled out the modelling of images in wax, summoning demons, raising storms, cursing and blighting crops, causing milking cows to dry up, reading the stars, and making talismans and love philtres. Those found guilty, their clients included, were to be stripped of all honour and judged like murderers, poisoners and thieves, all crimes punishable with death. Another act of the Frankish kings, Capitula de partibus Saxionae dated 789, condemned both the act of being, and belief in, witches (strigae) as a capital offence26. The Council of Paris (829) cited Exodus 22:18 (‘Thou shalt not suffer a witch to live’) and Leviticus 20:6 (against those who consult wizards and those who have familiar spirits) as their authority to grant the courts the power of judicial execution in cases of witchcraft. Charlemagne’s grandson, Charles the Bald (Charles II), decreed in 873 that all witches and sorcerers were to be purged from his realm.27  High Middle Ages (1000-1400)
+
+At the beginning of the tenth century, a document appeared that was said to date from the fourth century, although modern scholarship has dated it more accurately to 906.28 It is considered to be one of the most important medieval texts on witchcraft. It first appeared when Regino of Prüm, the Abbot of Treves, included it in his collection of instructions for bishops, which came to be known as the Canon Episcopi. It describes how ‘some wicked women’ are ‘perverted by the Devil’ and seduced by his illusions believe themselves to fly through the night with the pagan goddess Diana; the name Herodias was later added to the list. The Canon exhorts ‘bishops and their officials’ to do their utmost to drive sorcerers, whether ‘man or woman’, from their parishes, to ‘eject them foully disgraced’.
+
+Other developments saw witchcraft being linked to Christian heresy. In 1022 in the French town of Orleans, a religious group was accused of worshipping the devil, who appeared to them as a beast, a black man, or – in a form reminiscent of the Canon Episcopi – as an angel of light. They allegedly met underground or in abandoned buildings, chanted demonic names until the devil appeared, renounced Christ and desecrated the cross. The torches were then extinguished and the congregation indiscriminately copulated. Offspring born of these meetings were burnt and their ashes mixed with other ingredients to form wafers eaten at the ceremonies.29
+
+Almost a hundred years later, Guibert of Nogents (circa 1115) described the heretics of Soissons, near Paris, in similar terms to those of Orleans. Walter Mapp gave his own variation on the theme and in the process introduced the word ‘synagogue’ for their assemblies. Writing in 1182, he described how the heretics sat in silence round a rope hanging down from the ceiling until a huge black cat climbed down. As usual, the lights went out and the congregation welcomed the cat with a kiss: ‘some [kissing] the feet, more under the tail, most the private parts’.30
+
+The writings of Thomas Aquinas (1226-1274), notably Summa Contra Gentiles and Summa Theologica, were instrumental in changing the attitudes of the ecclesiastical authorities to sorcery. Aquinas’s greatest impact was in his refutation of the illusory nature of witchcraft espoused in the Canon Episcopi. He asserted that sorcery was real and tangible in its effect: any work of sorcery implied an implicit pact with the devil; thus all sorcerers were diabolists and the satanic witch was born. Contrary to the Canon Episcopi, Aquinas believed that witches flew through the air, changed shape, copulated with evil spirits, raised storms and used magic to produce all kinds of wickedness. His views were supported by the supposed evidence extracted from heretics, especially those of Orleans and Soissons.  Late Middle Ages (1400-1600)
+
+After the high-profile, posthumous trial of Pope Boniface VIII (died 1303) on charges that included making a pact with the devil, the Inquisition was formally empowered to prosecute all acts of sorcery. Pope John XXII issued the bull Super illius specula in 1321, in which he codified the connection between witchcraft and heresy that the inquisitors had earlier exploited, stating that sorcerers worshipped the devil with whom they had made a pact. This inspired a surge in witch-hunting, particularly in southern France.31
+
+During the early fourteenth century, several prominent witchcraft trials involving the aristocracy took place in the British Isles: in 1314-15, John Tannere (also known as John Canne), who claimed to be the rightful heir to the throne, was tried and executed; in 1324, Dame Alice Kyteler and ten accomplices were tried for witchcraft; in 1325, Robert le Mareschal and twenty-seven others were tried on charges of attempted regicide using sorcery; and in 1330, Edmund, Earl of Kent and the brother of Edward II, was tried and condemned for consulting a demon. Trial records from this period demonstrate that all levels of society were affected. For example, a goldsmith brought before the King’s Bench in 1331 was charged with using wax figures to try and kill two people, and in 1385 a clergyman and a tailor were accused of practising magic.32
+
+When a group of heretics were tortured in Italy in 1387-8, they implicated most of the town’s inhabitants as having renounced Christianity, worshipped the devil, and engaged in feasting and orgy. In France in 1398, the University of Paris endorsed the papal position by declaring maleficent sorcery to be punishable as heresy if it was accomplished by a pact with the devil; they also maintained that pacts were implicit in acts of sorcery and required no formal written or verbal agreement.
+
+In 1484, Innocent VIII issued the Papal Bull Summis desiderantes affectibus as a confirmation of papal support for the inquisition against witches: ‘many persons of both sexes, unmindful of their own salvation and straying from the Catholic Faith, have abandoned themselves to devils ...’ Although its affect was seemingly restricted to northern Germany, Innocent VIII extended the power of the Inquisition over districts formerly beyond its jurisdiction, thereby laying the foundation for the extensive Europe-wide persecution of people accused of witchcraft.
+
+Innocent also appointed two men to defend the Faith in these dangerous parts, cementing their reputation and authority, and contributing to the success of their book – a work that was to become the handbook of the persecution of the witches. Around 1485, two doctors of theology, Heinrich Kramer and James Sprenger, published the Malleus Maleficarum (Hammer of the Witches). They also reproduced Innocent VIII’s Bull, thereby attesting to the high origin of the authority invested in them and by implication in their treatise.
+
+The Malleus Maleficarum details every possible type of witchcraft – the forms taken by witches, detection methods, means of judging the accused, suitable punishments – and singled out women as the principal suspects. It supplied everything that an inquisitor would need to know and became hugely popular. Around fourteen editions appeared from 1487 to 1520 and between 1574 and 1669 a further sixteen editions were printed by leading presses in Germany, France and Italy.  Early Modern Period  Torture and Executions
+
+The witch-hunting craze reached its height in the century from around 1560. Estimates vary as to how many were executed. In 1598, Ludovicus á Palermo estimated that thirty thousand had perished in the previous 150 years. Modern estimates range between forty thousand and two hundred thousand33 although some polemical writers have stated that as many as nine million died.34
+
+The use of torture was not unique to the witch trials, although some forms emerged that were particular to witchcraft, such as the swimming or weighing of alleged witches. Like the ancient ordeal by water, the ‘swimming’ process was thought to demonstrate the guilt or innocence of the accused. The bound victim was thrown into water: if she sank she was innocent (and probably drowned); if she floated (and lived), she was guilty. In the case of weighing, the suspected witch was seated upon a large pair of scales with a Bible on the other side: if the Bible rose, she was innocent, if the Bible fell, she was guilty, the idea being that a witch, having no soul, would be lighter.
+
+Methods of torture were various, ranging from thumb-screws and racking to the practices of ‘waking’ and ‘walking’, in which the accused was deprived of sleep or exhausted by continual movement. The so-called Witch-House (Drudenhaus or Malefizhaus) of Bamberg built in 1627 was furnished with iron-spiked whipping stocks, a strappado (a method of hoisting the victim so that his arms would be pulled from their sockets), the rack that dislocated leg as well as arm joints, and lime baths that dissolved the flesh.
+
+Then there was the turcas, a device for tearing-out finger-nails; the spider, a sharp iron fork for prodding and mangling; boots (bootikens, and in Scotland, cashielaws) for crushing the legs; thrawing with ropes bound around the head; the scold’s bridle (sometimes also called the witches’ bridle) that held the mouth open with a spike depressing the tongue; and water tortures involving pumping the victim full of water, or feeding him salty food and brine. Sometimes it was enough for the accused to be shown the instruments of torture, in other cases, such as that of Alison Balfour35 they were forced to watch the torture of loved ones.36  Sixteenth Century
+
+At the beginning of the sixteenth century, the Inquisitor Bernardo Rategno published Tractatus de Strigibus detailing the supposed activities of witches and warning of their spread and increase over the last 150 years.37 In 1508, the inquisitor Bernard of Como (died around 1510) published the oft-reprinted Tractatus de Strigiis (Treatise on Witches): this argued against the idea that witchcraft was a delusion, stating that the witches travelled corporeally to their assemblies and that everything that was said to take place did indeed take place (a supporting argument was that the popes would not have allowed the torture and execution of witches if their activities were mere fantasies.38
+
+In German-speaking regions, the popular preacher Johann Geiler von Kaysersberg (1445-1510) preached against witchcraft in 1508, arguing that the witch was most often a woman and achieved her evil ends through the power of the devil. His sermons were published in 1510 as Die Emeis. Ulrich Tengler’s (1435/45-1511) influential Layenspiegel (Mirror for Layfolk) of 1510 alarmed the public with graphic illustrations of the supernatural forces of evil ranged against them. A full-page woodcut showed witches riding on goats, brewing a hailstorm in a cauldron, stealing milk, invoking spirits with a magic circle and grimoire, and amorously entangled with demons.
+
+The decade to 1500 saw witches executed in droves across the Holy Roman Empire, but the early part of the sixteenth century was relatively quieter. Although more than five hundred people were said to have been executed for witchcraft in the city of Geneva in just three months in 151539 someone like ‘Dr Faust’ (Georgius Sabellicus Faustus Junior, (c 1466-1538) practiced the ‘forbidden arts’ with apparent impunity.40 Article 109 of Holy Roman Emperor Charles V’s law code, the Carolina of 1532, prescribed the death sentence only for those crimes of witchcraft that resulted in the harm of another. Although Article 44 stated that association with anything that implied witchcraft was sufficient justification for the use of torture, Article 21 expressly removed divination from this list.41 It was only later in the century that the practice of witchcraft was viewed as a crime, regardless of whether or not it caused harm. In the Criminal Constitutions of Electoral Saxony for 1572, the pact (or any dealing with the devil) is the crime, not the misuse of magic. The Palatinate under Ludwig V revised its criminal code along similar lines in 1582. In the earlier part of the sixteenth century, the more particular criminalization of witchcraft no doubt explained, in part, the relatively few witch trials leading to execution during this period.42
+
+The first of the English Witchcraft acts of parliament was introduced in 1542 under Henry VIII, making the conjuration of spirits or the practice of witchcraft, enchantment, or sorcery a felony (a capital offence). Edward VI repealed it in 1547. Elizabeth I introduced a new act in 1563 (repealed 1603) after an earlier bill of 1559 failed. This, like its predecessor, emphasized the harmful effect of witchcraft; however, it deemed only those witchcrafts that resulted in the death of the victim to be capital crimes. Her successor James I, an authority on witchcraft, introduced another act in 1604 (repealed 1735).43  Seventeenth Century
+
+On the continent of Europe witchcraft was prosecuted by ecclesiastical authorities, but in Britain it was the domain of the professional witch-finder. The most infamous was Matthew Hopkins, who in 1645 accused several persons of Manningtree in the county of Suffolk of using black magic against him. He then extended his activities, working with John Stearne and styling himself Witch-Finder General.44 Using torture, Hopkins produced the first confessions from ‘witches’ of having signed a pact with the devil. His investigations claimed many victims: thirty-eight in the town of Chelmsford and a hundred-and-twenty-four in Suffolk, for example. By 1646 the authorities had turned against him because of his over-use of torture and over-charging of fees. &nbsp;He described his methods in The Discovery of Witches (1647), dying in August of that year.
+
+The 1692 witch trials in Salem Village, Massachusetts, were not the first cases of witchcraft in the British colonies; nor were they the worst cases or the last. However, they became the test case for the existence of witchcraft in North America. Salem is a complex case about which much has been written,45 neatly expressing the way in which witch hysteria spread and was eventually exposed as fallacious. It began with a group of girls accusing several members of the community of bewitching them. At first these were marginal figures, black slaves and wise women; then socially elite figures fell victim to the accusations, which became increasingly hard to sustain. Eighteen people were hanged as a result.  Eighteenth&nbsp;Century
+
+The changing climate of both learned and ecclesiastical opinion across Europe and the American colonies led to the end of the witch-craze. Where many of the witch trials had been brought by pressure from the bottom up, reaction against them came from the top down: unlike the common people, educated men of the eighteenth-century Enlightenment viewed belief in witches as superstition and their persecution as barbarous.46
+
+The change in the law enforced by the new act of 1735 followed rather than led these changed attitudes. The last judicial execution for witchcraft in England took place in 1682 and in Scotland in 1727. But popular agitation continued. The case of the mob-lynching of the elderly Osbournes in 1751 in the town of Tring, Hertfordshire, demonstrates the point; significantly, it was the mob’s ring-leader, Thomas Colley, who was brought to trial, found guilty and hanged.47 Despite the change in legal attitudes, prosecutions were still brought under the 1735 Witchcraft Act into the twentieth century: notably of the spiritualist mediums Helen Duncan in May 1944 and Jane Rebecca Yorke in September 1944. Yorke was the last person to be tried and convicted under the Act before it was repealed in 1951 and replaced with the Fraudulent Mediums Act.48
+
+Elsewhere in Europe the trend was slower: a hundred years passed between the last judicial execution in England and the last execution in Europe as a whole. Portugal was an odd case, executing its last witch in 1626, but holding a trial for witchcraft as late as 1802. France was closest behind England, executing its last condemned witch in 1683 in Alsace and holding its last trial in 1693. Estonia saw its last trial and execution for witchcraft in 1699. Sweden followed suit in 1710, although it would hold its last trial for witchcraft as late as 1779. Ireland held its last trial and executed its last witch in 1711, although the persistence of witch beliefs re-surfaced in 1895 with the tragic case of Bridget Cleary, the so-called Fairy Witch of Clonmel. Denmark executed its last witch in 1722 and held its last trial in 1762. Austria and Hungary condemned to death their last witches in 1756, although trials continued to be held until 1775 in Austria and 1777 in Hungary. Germany (not yet unified) saw its last judicial execution in 1775 in Kempten and held its last trial in 1792 in Bavaria. Spain burnt its last witch in 1781, but was the last country in Europe to hold a trial for witchcraft, in 1820. Switzerland held its last trial and execution in 1782. Poland executed its last witch in 1775, although during the transitional period of the second partition two witches were tried and executed near Poznan in 1793, the last time a witch would be executed by a European court.49  Modern Period  Nineteenth Century
+
+In the early nineteenth century witchcraft began to be re-appraised as a pagan religion – originally either Germanic50 or Greek51 – that had been persecuted by Christianity. In the second half of the century, an influential thesis was put forward by Jules Michelet in La Sorcière (1862): Michelet’s witch was a revolutionary heroine, fighting for spiritual freedom, women’s rights and the liberation of the working classes. His heady mix of paganism and radical feminism was ignored by contemporary academics but had a strong public impact.
+
+Michelet’s book influenced the nineteenth century American journalist, litterateur and adventurer Charles G Leland. Leland was a prolific author, but his Aradia, or the Gospel of the Witches, a slight book published late in his career in 1899, became his most enduring legacy. Aradia is filled with mythology, spells, invocations and even directions for holding a Sabbat that he claimed to have received from an actual witch. In fragmentary form it purports to detail the theology and magic of La Vecchia Religione, the Old Religion.
+
+Witchcraft cases continued to be presented during this period: for example, several were cited in Germany in the 1870s. Christian groups and even professors of theology preached against witchcraft and cases of witch lynchings – such as a woman burnt in Bambamarca, Peru, in 1888 – were reported from outside Europe.52 Popular magic continued to be practised by ‘cunning-folk’&nbsp; and suspected witches were assaulted and harassed.53  Twentieth and Twenty-First Centuries: Wicca
+
+Margaret Murray (1863-1963) made the single greatest impact on the idea of European witchcraft in the twentieth century. Taking the same premise as Jarke, Mone, Michelet and Leland, Murray deployed the structure of academic argument backed up by examples to demonstrate her thesis, first in The Witch Cult in Western Europe (1921) and then in a populist re-statement The God of the Witches (1933).
+
+In the 1950s her ideas found the audience she sought (she wrote the introduction to Gerald Gardner’s Witchcraft Today (1954)). Critics had challenged Murray’s argument on the grounds of selective use of evidence54 but her ideas formed the basis of Gardner’s new religion, what would come to be known as Wicca. Gardner claimed that this was the ‘old pagan religion of Western Europe, dating back to the Stone Age’.55
+
+Gardner’s Wicca has been called a revival,56 but it is more accurately an invented tradition (in the manner defined by Hobsbawm and Ranger, 1983), that is, a symbolic system of actions and beliefs that both claims to be, and seeks to demonstrate through its practice, that it is part of a continuous historical past, but which is, in fact, not. Leland and especially Murray provided this past, with liturgical and practical elements drawn primarily from SL ‘MacGregor’ Mather’s translation of The Key of Solomon the King (1889) and the works of Aleister Crowley (especially 1912 and 1919).
+
+Gardner’s earliest version of what would later be called Wicca, around 1948-9, consisted of a circle casting ceremony, a ritual called Drawing Down the Moon, another called Lift Up the Veil, three degrees of initiation and four Sabbat rituals (called November Eve, February Eve, May Eve and August Eve). Today, eight Sabbats are celebrated and monthly full-moon meetings called Esbats may also be held. Nudity, scourging (ritual flagellation) and the ‘Great Rite’ (symbolic or actual sexual intercourse) were important parts of Gardner’s religion, but are often downplayed in contemporary practice.57
+
+Today, many different interpretations (usually termed ‘traditions’) of Wicca are practised. Gardner’s original version is now called the Gardnerian Tradition; other major forms are the Alexandrian Tradition (Alex Sanders), the Clan of Tubal Cain (Robert Cochrane), the 1734 Tradition (Joseph Wilson after Robert Cochrane), Seax-Wica (Raymond Buckland), Feri (Victor Anderson) and Dianic Wicca (Zsuzsanna Budapest), amongst many more.58
+
+Survey research shows that today’s witch is predominantly Caucasian, has an average age of 45 years, an income under the national average, is slightly more likely to be a woman than a man and tends to live in an urban area.59 According to the last UK national census, there were a total of 14,072 self-declared Wiccans and ‘witches’.60 The latest survey-based estimate for the USA puts the number at 342,000 Wiccans.61
+
+Gardner insisted that Wicca had nothing to do with satanism, but the press nevertheless represented him as a devil-worshipper – a problem that continues to trouble Wicca. At the same time, the expansion and decline of Satanic Ritual Abuse claims,62 together with the growing awareness of current witchcraft persecution in Africa, India, Saudi Arabia and immigrant communities in the West, for example, highlight the continuing trend of ‘medieval’ thinking or the persistence of paranormal beliefs in regard to witchcraft that has resulted in untold misery, including imprisonment and death.63 The historical focus on the European witch trials of the early modern period has overshadowed the ongoing realities of witchcraft persecution across the world.
+
+Witchcraft was never entirely a female pursuit, but popular literature from antiquity onwards saw it primarily as such; this was codified during the Christian period, with women, excluded from ecclesiastical office, seen as the natural recruiting ground of the devil. Actual magical practice and the Church’s satanic fantasies became confused in a toxic amalgam that destroyed lives and poisoned society. Like any totalitarian regime, the Church turned on its own followers to exterminate deviance, blurring the lines between heresy and witchcraft, until the rule of secular law grew confident enough to reject supernatural evidence. Fear of the supposed crime of ‘witchcraft’, defined as harmful or anti-social magic, has been a constant in human society and culture, shaping worldviews and inspiring widespread persecution. Far from being of only historical interest, it remains a current and continuing problem.
+
+Leo Ruickbie  Literature
+
+Apollonius Rhodius. (1912). Argonautica. Trans. R.C. Seaton. Loeb Classical Library, London: William Heinemann.
+
+Audollent, A. (1904). Defixionum Tabellae. Paris: Fontemoing.
+
+Baluze, E. (1677). Capitularia Regum Francorum. Paris: F. Muguet.
+
+Baroja, J.C. (2001). The World of the Witches. London: Phoenix Press.
+
+Betz, H.D. (ed). (1992). The Greek Magical Papyri in Translation, 2nd edition. Chicago: University of Chicago Press.
+
+Burr, G.L. (1922). A Review of M.A. Murray’s Witch-Cult in Western Europe. American Historical Review 27/4, 780-83.
+
+Crowley, A. (1912). The Book of the Law. The Equinox 1/8.
+
+Crowley, A. (1919). Liber XV. The Equinox 3/1.
+
+Davies, O. (1999). Witchcraft, Magic and Culture: 1736-1951. Manchester: Manchester University Press.
+
+Delrio, M. (1600). Disquisitionum Magicarum Libri Sex. Leuven: Petri Henningii.
+
+Demos, J.P. (1982). Entertaining Satan: Witchcraft and the Culture of Early New England. Oxford: Oxford University Press.
+
+Dio, C. (1914). Dio’s Roman History. Trans. Earnest Cary, 9 vols. London: William Heinemann.
+
+Dickie, M. (2003). Magic and Magicians in the Greco-Roman World. London: Routledge.
+
+Ellis, B. (2000). &nbsp;Raising the Devil: Satanism, New Religions, and the Media. Lexington, KY: University Press of Kentucky.
+
+Frassetto, M. (2005). The Heresy at Orleans in 1022 in the Writings of Contemporary Churchmen. Nottingham Medieval Studies 49, 1-17.
+
+Gage, M.J. (1893). Woman, Church and State: A Historical Account of the Status of Woman Through the Christian Ages. Kerr &amp; Co.
+
+Gardner, G.B. (1949). High Magic’s Aid. London: Michael Houghton.
+
+Gardner, G. B. (1954). Witchcraft Today. London: Rider.
+
+Gardner, G.B. (1959). The Meaning of Witchcraft. London: Aquarian Press.
+
+Gaskill, M. (2001). Hellish Nell: The Last of Britain's Witches. London: Fourth Estate.
+
+Gijswijt-Hofstra, M. (1999). Witchcraft After the Witch-Trials. In Witchcraft and Magic in Europe: The Eighteenth and Nineteenth Centuries, ed. B. Ankarloo and S. Clark. London: The Athlone Press.
+
+Ginzburg, C. (1990). Ecstasies: Deciphering the Witches’ Sabbath. London: Hutchinson.
+
+Gordon, R. (1999). Imagining Greek and Roman Magic. In Witchcraft and Magic in Europe: Ancient Greece and Rome, ed. B. Ankarloo and S. Clark. Philadelphia: University of Pennsylvania Press.
+
+Hobsbawm, E. &amp; Ranger, T. (eds). 1983/1992. &nbsp;The Invention of Tradition. Cambridge: Canto.
+
+Hopkins, M. (1647). The Discovery of Witches. London: R. Royston.
+
+Jarke, K.E. (1828). Ein Hexenprozess. Annalen der Deutschen und Auslandischen Criminal-Rechts-Pflege 1.
+
+Jordan, D.R. (1985). A Survey of Greek Defixiones Not Included in the Special Corpora. Greek, Roman and Byzantine Studies 26, 151-97.
+
+Kaysersberg, J.G. von. (1510). Die Emeis. Strassburg: Grüninger.
+
+Kieckhefer, R. (1976). European Witch Trials: Their Foundations in Popular and Learned Culture, 1300-1500. London: Routledge.
+
+Kors, A.C. &amp; Peters, E. (2001). Witchcraft in Europe: 400-1700, 2nd edition. Philadelphia: University of Pennsylvania Press.
+
+Kosmin, B.A. &amp; Keysar, A. (2009). American Religious Identification Survey (ARIS 2008): Summary Report. Hartford, CT: Institute for the Study of Secularism in Society and Culture.
+
+Kramer, H, and Sprenger, J. (1487). Malleus Maleficarum. Speyer: Drach.
+
+LaFontaine, J.S. (1998). Speak of the Devil: Allegations of Satanic Abuse in Britain. Cambridge: Cambridge University Press.
+
+Lamont, J. (2015). &nbsp;A New Commercial Curse Tablet from Classical Athens. Zeitschrift für Papyrologie und Epigraphik 196, 159-174.
+
+Lea, H.C. (1957). Materials Toward a History of Witchcraft, ed. A.C. Howland, 3 vols. New York: Thomas Yoseloff.
+
+Leinweber, D.W. (1994). Witchcraft and Lamiae in ‘The Golden Ass’.&nbsp;Folklore 105, 77-82.
+
+Leland, C.G. (1899). Aradia: Gospel of the Witches. London: D.&nbsp; Nutt.
+
+Levack, B.P. (1999). The Decline and End of Witchcraft Prosecutions. In Witchcraft and Magic in Europe: The Eighteenth and Nineteenth Centuries, ed. B. Ankarloo and S. Clark. Philadelphia: University of Pennsylvania Press.
+
+Levack, B.P. (1987). The Witch-Hunt in Early Modern Europe. London: Longman.
+
+Luck, G. (1999). Witches and Sorcerers in Classical Literature. In Witchcraft and Magic in Europe: Ancient Greece and Rome, ed. B. Ankarloo and S. Clark. Philadelphia: University of Pennsylvania Press, 91-158.
+
+Macfarlane, A. (1970). Witchcraft in Tudor and Stuart England. London: Routledge.
+
+Manning, C.E. (1970). Canidia in the Epodes of Horace, Mnemosyne, Fourth Series 23/4, 393-401.
+
+Mapp, W. (c.1182/1850). &nbsp;De Nugis Curialium, ed. T. Wright. London: Camden Society.
+
+Mathers, S.L.M. (1889). The Key of Solomon the King. London: G. Redway.
+
+Maxwell-Stuart, P.G. (2000). Witchcraft: A History. Stroud: Tempus.
+
+Michelet, J. (1862). La Sorcière. Paris: E. Dentu.
+
+Midelfort, H.C.E. (2002). Heartland of the Witchcraze. In The Witchcraft Reader, ed. D. Oldridge. London: Routledge, 113-9.
+
+Mone, F.J. &nbsp;(1839). Uber der Hexenwesen. &nbsp;Anzeiger fur Kunde der Teutschen Vorzeit.
+
+Moody, E.J. (971). Urban Witches. In Conformity and Conflict: Readings in Cultural Anthropology, ed. J.P. Spradley and D. McCurdy. London: Little Brown.
+
+Mooney, G.W. (1912). Commentary on Apollonius: Argonautica. London: Longmans, Green.
+
+Morton, J. (2014). Britain’s Last Witch Trial. The Law Society Gazette, September 29.
+
+Murray, M. (1921). The Witch Cult in Western Europe. Oxford: Oxford University Press.
+
+Murray, M. (1933). The God of the Witches. London: Sampson Low, Marston and Co.
+
+National Records of Scotland, Scotland’s Census. (2011). [Web page]
+
+Office for National Statistics, 2011 Census.&nbsp;[Web page]
+
+Ogden, D. (1999). Binding Spells: Curse Tablets and Voodoo Dolls in the Greek and Roman Worlds. In Witchcraft and Magic in Europe: Ancient Greece and Rome, ed. B. Ankarloo and S. Clark. Philadelphia: University of Pennsylvania Press.
+
+Pavanello, M. (ed.). (2016). &nbsp;Perspectives on African Witchcraft. London: Routledge.
+
+Peters, E. (2002). The Medieval Church and State on Superstition, Magic and Witchcraft: From Augustine to the Sixteenth Century. In Witchcraft and Magic in Europe: The Middle Ages, ed. B. Ankarloo and S. Clark. Philadelphia: University of Pennsylvania Press.
+
+Pitcairn, R. (1833). Ancient Criminal Trials in Scotland, vol 1. Edinburgh: William Tait.
+
+Porter, R. (1999). Witchcraft and Magic in Enlightenment, Romantic and Liberal Thought. &nbsp;In Witchcraft and Magic in Europe: The Middle Ages, ed. B. Ankarloo and S. Clark. Philadelphia: University of Pennsylvania Press.
+
+Ruickbie, L. (2009). Faustus: The Life and Times of a Renaissance Magician. Stroud: The History Press.
+
+Ruickbie, L. (2011). Witchcraft Out of the Shadows: A Complete History, 2nd edition. London: Robert Hale.
+
+Ruickbie, L. (2012). Child Witches: Imaginary Cannibalism and Ritual Abuse in London. Paranthropology 3/3 (July), 13-21.
+
+Ruickbie, L. (2019). The Devil’s Livery: The Role of Nudity in the Depiction of Witchcraft, Wicca and Satanism. In Visions of Enchantment: Occultism, Magic and Visual Culture, ed. D. Zamani, J. Noble &amp; M. Cox. Lopen, Somerset: Fulgur.
+
+Russell, J.B. (1980). &nbsp;A History of Witchcraft, Sorcerers, Heretics, and Pagans. London: Thames and Hudson.
+
+Scytobrachion, D. (1982). &nbsp;Dionysius Scytobrachion. Trans. J.S. Rusten. Opladen: Westdeutscher Verlag.
+
+Tengler, U. (1510). &nbsp;Layenspiegel. Strassburg: Johann Knobloch.
+
+Wünsch, R. (1897). Inscriptiones Graecae III, Appendix: defixionum tabellae Atticae. Berlin: Georg Reimer.   Endnotes 1. Schol. ad Apollon. Rhod. 3.200 in Mooney (1912). 2. Apollonius, 3.251ff. 3. Dionysius Scytobrachion, 4.45.3. 4. Ogden (1999), 3-5. 5. Wünsch (1897); Audollent, 1904; Jordan (1985). 6. Lamont (2015). 7. Wünsch (1897); Audollent (1904); Jordan (1985). 8. Ogden (1999), 5. 9. Betz (1992). 10. Manning (1970); Luck (1999); Dickie (2003), 174-45. Candidia appears in Satire 1.8, Epodes 5 and 17, and is mentioned in passing in Satire 2.1.48, Satire 2.2.95 and Epode 3.8; her assistants appear in Epode 5. 11. Leinweber (1994). 12. Gordon (1999), 253. 13. Pliny the Elder, Nat. Hist., 18, 41-43. 14. The association with the Bachanalia would be an import motif in the representation of witchcraft in later ages, see Ruickbie (2017). 15. 39.41.5, 40.43.2f. 16. Dio, Rom. Hist., 49.43.5. 17. CTh 9.16.3. 18. Peters (2002), 178-81; Ruickbie (2011), 56-57. 19. Peters (2002), 178-89. 20. 1 Corinthians 10:20-1. 21. Peters (2002), 187. 22. Ruickbie (2009), 170, and 2019. 23. Russell (1980), 39; Thomas (1997), 165. 24. trans. Maxwell-Stuart (2000), 46. 25. Russell (1980), 45. 26. Baluze (1677). 27. Russell (1980), 53; Baroja (2001), 98-99. 28. e.g., Ginzburg (1990), 89, and Maxwell-Stuart (2000), 51. 29. Frassetto (2005). 30. Wakefield &amp; Evans (1969), 254; Russell (1980), 62. 31. Lea (1957), 220-21, 230-42. 32. A comprehensive listing of trials from 1300 to 1499 can be found in Kieckhefer (1976). 33. Llewellyn-Barstow (1994),179-81; Hutton (1999), 132. 34. Gage (1893); Gardner (1954), 102. 35. Orkney (1594). 36. Pitcairn (1833), 373-77. 37. Ginzburg (1990), 71. 38. Lea (1957), 370-71. 39. Lea (1957), 241, 256-57; Delrio (1600). 40. Ruickbie (2009), 211-15. 41. Robbins (1974), 77. 42. Midelfort (2002), 116-17. 43. Macfarlane (1970), 13-22; Ruickbie (2011), 83. 44. Macfarlane (1970), 135-44. 45. Demos (1982), is a good starting place. 46. Levack (1999). 47. Porter (1999), 195; Gijswijt-Hofstra (1999), 146-47. 48. Gaskill (2001), 323-24; Morton (2014). 49. Levack (1987), 281; Levack (1999), 77-78; Maxwell-Stuart (2000), 110-11; Porter (1999), 195; Gijswijt-Hofstra (1999):151; Russell (1980), 103. 50. Jarke (1828). 51. Mone (1839). 52. Lea, 1957:1525, 1529, 1548. 53. Davies (1999), 193-200, 214-29. 54. e.g., Burr (1922), 780-83. 55. Gardner (1954), 102, and (1959), 9. 56. e.g., Moody (1971), 437; Russell (1980), 148. 57. Ruickbie (2011) and (2019). 58. Ruickbie (2011), 124-51. 59. Ruickbie (2011), 155-77. 60. Office for National Statistics (2011); National Records of Scotland (2011). 61. Kosmin and Keysar (2009). 62. LaFontaine (1998); Ellis (2000). 63. Ruickbie (2012); Pavanello (2016).           			  			     			This page was last updated on: July 05, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Leo Ruickbie Word count: 7,700 Created: 14th May 2019 Last updated: 5th July 2022 May be cited as:Ruickbie, L. (2019). &lsquo;Witchcraft&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/witchcraft&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y3lbb6ba                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/witchcraft

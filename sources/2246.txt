@@ -1,0 +1,126 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/ingo-swann","mytitle":"Ingo Swann | Psi Encyclopedia","mylang":"de"}
+                     Ingo Swann | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Ingo Swann                                                                                                                                                                                                                          Ingo Swann (1933-2013) was an American artist whose psychic ability led him to participate in&nbsp;successful ESP and psychokinesis experiments. Swann made notable contributions to remote viewing research at the Stanford Research Institute, which became the basis for the US military's Star Gate psychic spying program   Contents   	Background and Life 	Psychokinesis Research&nbsp;  	Gertrude Schmeidler 	Cleve Backster 	Edwin May and Charles Honorton 	Elmer Green 	Stanford Research Institute   	ESP Research  	American Society for Psychical Research 	Jacques Vallée 	Carole Silfen 	Charles Tart 	William Roll 	Remote Viewing 	Michael Persinger   	Art 	Publications 	Literature 	Endnotes     Background and Life
+
+Ingo Swann was born 14 September, 1933 in Telluride, Colorado. He earned his baccalaureate in biology at Westminster College, Salt Lake City, Utah, then served for three years in the US Army in the Far East. Swann then settled in New York City where he worked at the Secretariat of the United Nations from 1958 until 1969. At that time, he also wrote erotic fiction and produced paintings (see Art, below).
+
+In July 1971, Swann participated in an experimental photography session at a party, in which the photographers attempted to capture visual traces of subjects’ psychic abilities in a blackened room. It was reported that Swann’s photo showed a ball of light above his head.1&nbsp; This and other social interactions made him aware that he had psychic abilities that had first manifested in childhood and brought him into the world of parapsychological research.
+
+Swann died on 31 January, 2013.  Psychokinesis Research&nbsp;  Gertrude Schmeidler
+
+In the early 1970s, Swann was tested for PK (psychokinetic) abilities by Gertrude Schmeidler at the American Society for Psychical Research. In this experiment, Swann repeatedly produced significant PK changes in continuous, automatic recordings of temperature variations of graphite samples. Extensive controls included insulating the thermistor in a thermos twenty-five feet away and counterbalancing hot-versus-cold instructions in a rigid pre-set manner. Additional analyses indicated that the PK effect operated by changing the temperature in a field around the target while producing opposite changes in some area distant from the target. It also transpired that the size of the effect was determined by psychological variables rather than by physical variables such as distance.2  Cleve Backster
+
+Also in the 1970s, Swann worked with Cleve Backster to attempt to influence the activity of plant leaves attached to a polygraph (lie-detector). The instrument recorded perturbations during trials when he visualized burning the leaf, suggesting a stress response. The effect faded after a few trials, as if the plant was learning that the intention was false. When the method of killing was changed, for example, to acid drops, the effect returned and again gradually faded. Backster and Swann interpreted the results as evidence of plant consciousness.
+
+In other experiments, Swann affected the electrical conductivity of graphite samples in remote and localized tests. Testing also extended to affecting pressurised gas in small canisters. Here, tiny electrodes detected the presence of electrons released from excited gases – similar to a Geiger counter. Swann was successful at causing spikes of activity at the exact moment when he was focusing his attention at the vials, as if he was sending ‘psi probes’ (as he referred to his PK ability) into the gas, in a fashion analogous to gamma rays or radioactive particles. Swann also succeeded in influencing biological targets such as his own blood cells.
+
+The success of these tests encouraged Swann to become more closely involved in psi research.3  Edwin May and Charles Honorton
+
+In an unpublished preliminary study reported in 1976, Honorton and May tested Swann’s ability to influence an electronic noise-based binary random number generator (RNG), at the Maimonides Medical Centre in New York.4 &nbsp;The machine produced 50 random trials per second; feedback was provided in the form of a visual scale that Swann was instructed to influence. Overall scoring across 29,000 trials was comfortably significant (p = 0.01). Over time, there appeared significant trends towards improved scoring and decreased variability of scoring. Swann was most successful when attempting to influence the RNGs at a distance in a separate shielded room. This result conceptually replicated the earlier remote magnetic field experiments described above.  Elmer Green
+
+An investigation of Swann’s PK abilities was conducted in the early 1990s by Elmer Green at the Menninger clinic in Topeka, Kansas (now located in Houston, Texas). Swann, connected to an electro-physiological recording instrument, stood or sat on an electrically insulated framework situated within large copper plates, one each in front, behind, above and below him. Swann was instructed to send psychokinetic energy out towards the four plates, each of which was connected to an electrometer that recorded voltage changes. The PK energy pulse appeared to originate from within Swann’s body, radiating outward. The physiological and electrometer readings occurred simultaneously, suggesting a rapid transfer of energy. It appeared to create a field that reached the plates before reversing and collapsing in on itself.&nbsp;5  Stanford Research Institute
+
+Swann was involved in remote viewing research for an extended period&nbsp;at the Stanford Research Institute (SRI) (see Remote Viewing, below). When he arrived at the SRI&nbsp;he was tested for PK at a nearby laboratory. In this experiment he attempted to influence, by means of mental imagery, the stable magnetic field of a super-cooled Josephson junction within a quark detector, an apparatus designed to detect subatomic particles. This equipment was physically inaccessible, being encased in aluminium and copper enclosures and buried deep in concrete. During Swann’s visualizations, significant variations were recorded in the output of the apparatus that could not be explained by such everyday phenomena as vibrations of passing traffic or Swann making surreptitious movements. Swann was able to stop the output completely for 45 seconds,&nbsp;a feat&nbsp;almost impossible to explain without resorting to collusion involving those controlling the experiment.6  ESP Research  American Society for Psychical Research
+
+In 1971, Swann was tested for ESP ability at the American Society for Psychical Research. He was wired to an EEG while lying down, attempting to induce an out-of-body experience in order to identify objects on a tray suspended out of his vision. Some successes were recorded, more often when he verbalized what he felt about his perceptions instead of trying to describe them directly. Successful trials showed high alpha brain activity, a common finding in psi research.7  Jacques Vallée
+
+Computer scientist Jacques Vallée became interested in remote viewing, a type of clairvoyant ESP, after learning of research being carried out by Russell Targ and Hal Puthoff at the Stanford Research Institute, where he was developing the ARPAnet, a precursor of the Internet. Vallée designed an experiment in which twelve subjects active in psi research as experimenters, writers and psychics, including Swann, were tested for their ability to remote view mineral rock samples. The participants, located in different regions of the US and Canada, typed their descriptions via ARPAnet terminals, making this a notably early example of an online psi experiment.
+
+The geological samples were divided into an open series and a double-blind series. Rating was done by a panel of five independent judges. The correct target sample was identified in 8 out of 33 cases among the entire group, at odds of a hundred to one (p = 0.01). However, only Swann was correct all the time in his portion of the experiment (a few trials) scoring significantly above chance (p = 0.04).
+
+Both the open and blinded series revealed evidence of remote viewing, contradicting the sceptical hypothesis that poor methodology is responsible for positive results.8 Although the experiment succeeded in demonstrating psi, its main experimental manipulation failed.  Carole Silfen
+
+Swann was tested by perceptual psychologist Carole Silfen in ‘flicker-fusion’ experiments. Here, objects were backlit onto the rear of an open black box and the illumination adjusted to provide a soft, medium or sharp focus. Swann was instructed to view the images during an out-of-body state. Early testing produced only chance scoring; however, deeper analysis revealed a displacement effect: Swann was correctly guessing the next target that would be presented to him instead of the current one. When Swann focused his field of view to the immediate vicinity of the targets, scoring rates increased and a markedly reduced displacement effect appeared. Sharp angular objects produced greater hit rates than smooth circular ones, and warm red coloured objects were more likely to be viewed than cold blue coloured ones. No relationship was found between sharpness of focus and scoring rates.9  Charles Tart
+
+In the late 1970s, Swann was invited to take part in innovative psi testing by parapsychologist Charles Tart. Tart had developed a testing protocol aimed at reducing the commonly noted decline effect, in which initially high-level scoring falls to chance as the experiment progresses. Tart reasoned that if most of the guesses were the result of random noise, and genuine psi only operated occasionally at the time of target selection, then perhaps it was distributed in time across preceding and proceeding trials. His experiment used a paired circular light display, one in the sender’s room and another in the receiver’s.&nbsp; A random number generator controlled the light illuminations and the sender tried to telepathically inform the receiver what light on the display was illuminated. The receiver then made a choice on the circular light display. Swann’s performance as receiver with this apparatus was statistically significant for real trials in time (p = 0.009), also +1 (p = 0.05) and the trial after that (p = 0.07). In showing evidence of both telepathy and precognition, the experiment confirmed Tart’s model. Swann’s ability was distributed in tight clumps; when the analysis was confined to pairs of guesses, his success rate rose to a p value of 10-6 (a million to one). Tart noted that Swann demonstrated a deep interest in the technical and scientific aspects of the experiment – an enduring trait that persisted throughout his research career.10  William Roll
+
+Swann’s ability for distant hearing was tested in an experiment conducted by William Roll and Stuart Harary at the Psychical Research Foundation in Raleigh, North Carolina. He was instructed to travel to a distant room during an out-of-body state and identify a particular sound that was playing there. Target sounds included such things as sirens, birdsong, alarms, and babies crying. Simultaneously, he was exposed to decoy sounds in his vicinity. Swann was unsuccessful at first, but after several sessions began to make correct guesses, with odds against chance of 64 to 1 for the formal experiment of 2 trials (both correct). &nbsp;&nbsp;
+
+A second psychic and novice subjects who were also tested but performed at chance levels.11  Remote Viewing
+
+Ingo Swann is best known for his remote viewing work at the Stanford Research Institute, which evolved from his earlier intercontinental out-of-body research at the American Society for Psychical Research. Early remote viewing research involved Swann ‘travelling’ to a randomly chosen location from map coordinates. In an experiment of ten trials with ten possible targets, Swann was correct seven times – a highly significant result. Swann was just as successful when the coordinates were encrypted or when he was viewing secret Chinese or Russian locations that could only be later confirmed by satellite surveillance – confirming genuine psychic ability as opposed to an unusually powerful geographical memory. 12
+
+Over the years Swann made a major contribution as the primary source for the SRI’s exploratory new training method, which was adopted by the intelligence and military community under the name Controlled Remote Viewing (CRV). Swann went on to participate in the creation of six-stage training methodology, which was rigorously scientifically tested and became part of the wider military remote viewing effort (results, testimonies and other documentary material have recently been declassified and published).13
+
+During his career Swann accumulated some striking and notable successes. In one session, he accurately described many of the features of the French-administered island of Kerguelen, including a joint French-Russian meteorological research station. In another session he remote viewed the rings of Jupiter 6 years before they were confirmed by the Voyager probe.14 His remote viewing of crystals in the atmosphere of Jupiter was confirmed by the Galileo mission.15  Michael Persinger
+
+In the late 1990s Swann was extensively tested by a neuroscience research group led by Michael Persinger at Laurentian University. In an initial study, certain neural correlates were found with successful remote viewing performance, notably an unusual 7-Hz spike and slow wave activity over the occipital lobes. A general neuropsychological assessment combined with Magnetic Resonance Imaging (MRI) indicated that Swann possessed a different structural and functional organization within the parieto-occipital region of his right hemisphere. Persinger concluded that Swann’s remote viewing ability could be enhanced by the applied magnetic field and that neural signatures of successful remote viewing performance could be identified.16
+
+In a second study, Swann was instructed to remote view distant images on cards that were repeatedly exposed to patterned magnetic fields generated from either a Windows or DOS format. The DOS-exposed cards allowed for accurate remote viewing, while with Windows-exposed cards accuracy was much reduced. Persinger hypothesized that, unlike the simple DOS-generated field, the more complex Windows-generated magnetic field swamped the target.17  Art
+
+Swann was a successful artist, working in the cosmic art genre concurrently with his psychic work. His paintings are now part of permanent collections at the American Visionary Art Museum in Baltimore, Maryland, Edgar Cayce’s Association for Research and Enlightenment, and ONE National Gay and Lesbian Archives at the University of Southern California Libraries. Fourteen homosexual-themed paintings and hundreds of similarly-themed collages now hang in the Leslie-Lohman Museum of Gay and Lesbian Art in New York. Swann also sold paintings to private collectors, most notably real-estate developer Trammel Crow18, and his work has also been used in many publications.
+
+Swann was a self-taught artist, beginning with still-life works in the late 1950s. He produced mostly oil paintings. His art was inextricably linked with his psychic experiences and was inspired at least in part by the visual images he perceived while remote viewing, seeing auras and experiencing an out-of-body state. Members of his family wrote in 2014: ‘One of the ways Ingo furthered his own understanding of spiritual realities – bridging objective science and inner consciousness -- was through his painting’.&nbsp; They also cited Martin Ebon’s explanation of how Swann discovered a ‘very basic kind of ESP system that lies within us’ when he created drawings based on his psychic visions. 19  Publications
+
+Swann’s three book-length erotic fiction works were published by imprints of Olympia Press under two pen names: Defence Eakens (Bigger than Life, 1971 and Honeymoon Perversion, 1971), and Hero Haubold (Golden Balls, 1971).
+
+Under his own name he published:
+
+To Kiss Earth Good-Bye (Hawthorn, 1975 – autobiography and retrospective on human mental development)
+
+Cosmic Art (ed.) (Hawthorn, 1975 – review of metaphysical artists, 1911-1955)
+
+Star Fire (Dell, 1978 – fiction)
+
+What Will Happen To You When the Soviets Take Over (ed.) (Starform, 1980 – psychic predictions of future world events)
+
+Natural ESP: The ESP Core and Its Raw Characteristics (Bantam, 1987 – instructional)
+
+Everybody’s Guide to Natural ESP: Unlocking the Extrasensory Power of Your Mind (Tarher, 1991 – instructional)
+
+Your Nostradamus Factor: Accessing Your Innate Ability to See into the Future &nbsp;(Simon &amp; Schuster: 1993 – instructional)
+
+Purple Fables: Quartet (Hampton Roads, 1994 – short stories)
+
+The Great Apparitions of Mary: An Examination of Twenty-Two Supranormal Appearances. (Crossroad, 1996 – account of visions of the Virgin Mary since 1531)
+
+Penetration: The Question of Extraterrestrial and Human Telepathy (Ingo Swann Books, 1998 – autobiographical account of Swann’s psychic career)
+
+Psychic Sexuality: The Bio-Psychic "Anatomy" of Sexual Energies (Ingo Swann Books, 1999 – instructional)
+
+Secrets of Power Volume I: The Individual Empowerment vs. The Societal Panorama of Power and Depowerment (Ingo Swann Books, 2000 – instructional)
+
+Secrets of Power, Volume II: The Vitalizing of Individual Powers (Ingo Swann Books, 2002 – instructional)
+
+Reality Boxes: And Other Black Holes in Human Consciousness (Ingo Swann Books, 2003 – study of imposed limitations on human consciousness)
+
+The Wisdom Category: Shedding Light on a Lost Light (Ingo Swann Books, 2003 – commentary on the fuller extent of human consciousness)
+
+A collection of Swann’s papers, comprised of correspondence over 32 years, articles, speeches, experimental transcripts, research notes, art, astrological charts, etc. is held by the Ingram Library of the University of West Georgia.&nbsp; It is catalogued online at http://uwg.galileo.usg.edu/uwg/view?docId=ead/MS-0060-ead.xml&amp;anchor.id=0#scopecontent.
+
+See also Ingo Swann.com
+
+Michael Duggan  Literature
+
+Green, E.E., Parks, P.A., Guyer, P.M., Fahrion, S.L. &amp; Coyne, L. &nbsp;(1993). Anomalous electrostatic phenomena in exceptional subjects. Subtle Energies 2, 69-78.
+
+Harary, S.B &amp; Solfvin, G.F. (1976). A study of out-of-body experiences using auditory targets. In Research in Parapsychology, ed. by J.D. Morris, W.G. Roll &amp; R.L. Morris, 57-59. Metuchen, NJ: Scarecrow Press.
+
+Koren, S.A.,&nbsp;Persinger, M.A. (2002). Possible disruption of remote viewing by complex weak magnetic fields around the stimulus site and the possibility of accessing real phase space: a pilot study. Perceptual and Motor Skills 95/3, 989-98.
+
+May, E. (2017). The Star Gate Archives: Remote Viewing, 1972-1984 Volume 1: Papers of the U.S. Government Sponsored Parapsychological Research Project, 1972-1995. McFarland and Co. Jefferson, North Carolina.&nbsp;
+
+May, E. &amp; Honorton, C., (1976). A Dynamic PK Experiment with Ingo Swann. New York: Maimonides Medical Centre.
+
+Persinger, M.A., Roll, W.G.,&nbsp;Tiller, S.G., Koren, S.A., &amp; Cook, C.M. (2002). Remote viewing with the artist Ingo Swann: Neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI), and possible mechanisms. Perceptual and Motor Skills 94/3, 927-49.
+
+Schmeidler, G.R. (1973) PK effects upon continuously recorded temperature, Journal of the American Society for Psychical Research 76, 325-40. &nbsp;
+
+Swann, I. (1997). Remote Viewing, The Real Story Memoir.
+
+Swann, I. (2005).&nbsp;Superpowers of the Human Biomind.&nbsp;
+
+Tart, C. (2002). Improving Real-Time ESP By Suppresssing the Future: Trans-Temporal Inhibition. In Mind At Large: IEEE Symposia on the Nature of Extrasensory Perception, ed. by C. Tart, H. Puthoff &amp; R. Targ. Newburyport, MA: Hampton Roads.&nbsp;
+
+Targ, R. &amp; Puthoff, H. (1977). Mind-Reach: Scientists Look at Psychic Ability.&nbsp;New York: Dell.
+
+University of West Georgia (2013). Ingo Swann Papers: Biographical/Historical Note. [Web page]
+
+Vallée, J. (1988). Remote viewing and computer communications - An experiment.&nbsp;Journal of Scientific Exploration&nbsp;2/1, 13-27.   Endnotes 1. University of West Georgia (2013). 2. Schmeidler (1973). 3. Swann (1997). 4. Honorton &amp; May (1976). 5. Green et al (1993). 6. Targ &amp; Puthoff (1977). 7. Swann (1997). 8. Vallee (1988). 9. Swann (1997). 10. Tart (2002). 11. Harary &amp; Solfvin (1977). 12. Targ &amp; Puthoff (1977). 13. May (2017). 14. Targ &amp; Puthoff (1977). 15.  16. Cook et al&nbsp; (2002). 17. Koren &amp; Persinger (2002). 18. University of West Georgia (2013). 19. An announcement from the family of Ingo Swann (2014).&nbsp;http://www.remoteviewed.com/wp-content/uploads/2014/03/Announcement_Ingo-Swann.pdf           			  			     			This page was last updated on: April 10, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 3,000 Created: 29th September 2018 Last updated: 10th April 2023 May be cited as:Duggan, M. (2018). &lsquo;Ingo Swann&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/ingo-swann&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y4r8w7le                   	                                             See also:      Remote Viewing Experimental Parapsychology Cleve Backster                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/ingo-swann

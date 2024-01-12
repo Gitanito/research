@@ -1,0 +1,298 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/sense-being-stared-theories-vision","mytitle":"Sense of Being Stared At: Theories of Vision | Psi Encyclopedia","mylang":"de"}
+                     Sense of Being Stared At: Theories of Vision | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Sense of Being Stared At: Theories of Vision                                                                                                                                                                                                                          Experimental research appears to establish the sense of being stared at as a real phenomenon, as described here. This article discusses possible theoretical implications with regard to theories of vision, drawing largely on the ideas of Rupert Sheldrake, a leading researcher in this area. &nbsp;Against currently favoured theories that locate all perceptual activity inside the head, the sense of being stared at seems rather to fit with theories that involve both inward and outward movements of influence.   Contents   	A Brief History of Theories of Vision 	Extramission Theories in Science and Popular Belief 	Modern Theories of Vision  	It’s all in the head 	A grand illusion? 	Two-way theories   	Perceptual Fields 	Interconnections Between the Observer and the Observed in Quantum Physics  	The role of the observer 	Photons moving backwards 	Quantum entanglement 	Quantum Darwinism   	Conclusions 	Literature 	Endnotes     A Brief History of Theories of Vision
+
+In the ancient world there was a long-running discussion about the nature of vision. This debate continued in the Arab world and in Europe in the Middle Ages.1 For over two thousand years there were four main theories: the intromission theory, the extramission theory, theories combining intromission and extramission, and theories about the medium through which vision took place.2
+
+The extramission theory, which literally means ‘sending out’ - proposed by the Pythagorean School, Euclid and Ptolemy - suggested that a visual current was projected outwards from the eye, with sight proceeding from the eyes to the object seen.3 We look at things, and can decide where to direct our attention. This theory argues that vision is not merely passive. Euclid suggested that as a result of an active process of looking and finding there is a change in what is seen, even though the light entering the eye remains the same.4 Euclid recognized that light played a part in vision, but he said very little about the way it was related to the visual rays projecting outwards from the eyes. He also clearly stated the principles of mirror reflection, recognizing the equality of what we now call the angles of incidence and reflection, and he explained virtual images in terms of the movement of visual rays outwards from the eyes.5
+
+The intromission theory, ‘sending in’ – proposed by atomists such as Democritus and Lucretius and the Arab scholar Alhazen – suggested that vision was as a result of various kinds of substances travelling into the eye, with nothing coming out of the eye.6 Intromission alone made vision into a passive process, and ignored the active role of attention. Nevertheless, some atomists admitted that influences could move both ways, not just into the eyes, but also outwards from the looker. One reason for accepting outward-moving influences was the belief in the evil eye, whereby some people could allegedly harm others by looking at them with envy or other negative emotions. Democritus explained the evil eye as mediated by images moving outward from the eyes, charged with hostile mental contents, that ‘remain persistently attached to the person victimized, and thus disturb and injure both body and mind’.7 A belief in the power of envious gazes to bring about negative effects was common in the ancient world, and is still widespread in Greece and many other countries.8
+
+Theories that included both active and passive aspects of vision were proposed by philosophers such as Plato and Aristotle.9 Plato combined intromission and extramission theories with the idea of an intermediate medium between the object and the eye.10
+
+Following these ancient theories, the debate continued within the Arab world, especially between the ninth and thirteenth centuries AD. In Baghdad, the extramission theorist Al-Kindi (c.801–c.866) helped start the debate in a new way. He saw the radiation of power or force as fundamental to all nature: ‘It is manifest that everything in this world ... produces rays in its own manner like a star. ... Everything that has actual existence in the world of the elements emits rays in every direction which fill the whole world.’ In an astonishing vision of interconnectedness, he thought that radiation bound the world into a vast network in which everything acted on everything else. Al-Kindi’s treatise on vision became a popular textbook and influenced the course of thinking for centuries.11
+
+It was mainly through Arabic sources that theories of vision were transmitted to medieval Europe, where astronomy and optics were the most flourishing sciences. Up until the end of the twelfth century the main influences were Platonic, and the extramission theory of vision was predominant.
+
+In the Renaissance there was no radical break with the medieval theories of vision, but in four areas technological advances made major new contributions. First, there was the development of linear perspective in painting; second, an improved understanding of the anatomy of the eye, with a recognition of the actual shape of the lens, which was previously regarded as a sphere; third, the study of the camera obscura, in which inverted images formed on the wall of a darkened room with a small hole in the wall, as in a pinhole camera; fourth, the study of spectacle lenses, which led to the recognition that double convex lenses cause rays of light to converge.12
+
+All these advances provided essential ingredients for Kepler’s theory of retinal images, published in 1604. Although he did not himself provide a diagram of this process, René Descartes published one thirty-three years later and Kepler’s theory has been accepted without serious dispute ever since.
+
+Figure 1. Descartes’s illustration of the theory of the retinal image, first published in 1637
+
+However, the problem remains that the image on the retina was inverted and reversed; in other words, it was upside down, and the left side was right, and the right left. Yet we do not see everything inverted and reversed. This inability to explain perception has haunted science ever since.13  Extramission Theories in Science and Popular Belief
+
+Modern physics textbooks present an account of mirror reflections in which virtual images are produced outside the eye (Figure 2). The arrows on the light rays are of course shown as moving into the eye, but the ‘virtual rays’ that give rise to virtual images go in the opposite direction. This process is described as follows in a typical British textbook for 14-16 year-olds: ‘Rays from a point on the object are reflected at the mirror and appear to come from a point behind the mirror where the eye imagines the rays intersect when produced backwards’.14 There is no discussion of how the eye ‘imagines’ rays intersecting, or how it produces them backwards.
+
+Figure 2. A typical textbook diagram showing how reflection in a plane mirror produces a virtual image (I) of the object (O). The dotted lines indicate virtual rays.15
+
+Isaac Newton in his Opticks, first published in 1704, used the same kind of diagram (Figure 3). His very reasonable explanation was that the reflected rays incident on the spectator’s eyes ‘make the same Picture in the bottom of the Eyes as if they had come from the Object really placed at a [see diagram]&nbsp;without the Interposition of the Looking-glass; and all Vision is made according to the place and shape of that Picture’.16 But he does not discuss how vision is made from the pictures in the eyes, nor why images appear to be outside the eyes.
+
+&nbsp;
+
+Figure 3. Isaac Newton’s diagram of reflection in a plane mirror; ‘If an Object A be seen by Reflexion of a Looking-glass mn, it shall appear, not in its proper place A, but behind the Glass at a.’.17
+
+The theory of virtual images in Newton’s Opticks and in modern textbooks is at least 2,300 years old. Euclid first codified the geometric principles of mirror reflections in his Catoptrics, and his diagrams showing the location of virtual images behind plane mirrors are essentially identical to those in modern textbooks.18
+
+Euclid’s virtual images were formed by visual rays moving outwards in straight lines from the eye to the place where the object appeared to be. This theory of virtual images has survived continuously since the time of Euclid because it works so well in explaining the facts of reflection and refraction. The virtual images are not explicitly ascribed to visual rays, but rather to rays ‘produced backwards’ from the eye.
+
+Of course, supporters of the intromission theory say that diagrams of virtual images outside the eye should not to be taken literally. Contrary to what the textbook diagrams show, all images, real and virtual, are somehow inside the brain. Yet most science students are unaware of the complexities of consciousness studies, and, believing what they are told, are likely to conclude that vision somehow involves both the inward movement of light and the outward projection of images.
+
+Even before they are scientifically educated, most children believe this anyway. In his study of children’s intellectual development, Piaget found that children under the age of 10 or 11 thought vision involved an outward-moving influence from the eyes.19 Gerald Winer and his colleagues have confirmed Piaget’s finding in a recent series of surveys in Ohio. Eighty per cent of the children in Grade 3 (aged 8–9) agreed that vision involved both the inward and outward movement of ‘rays, energy or something else’.20 In the same age group, 75% said they could feel the stares of other people and 38% said they could feel an animal stare. There was a significant correlation between people’s belief in the ability to feel stares and their belief that something goes out of the eyes when people are looking.21
+
+Winer and his colleagues were ‘surprised – indeed shocked’ by these findings.22 They were especially surprised to find that belief in the ability to feel the looks of unseen others increased with age, with 92% of older children and adults answering ‘yes’ to the question ‘Do you ever feel that someone is staring at you without actually seeing them look at you?’.23 They commented, ‘the belief in the ability to feel stares, which occurs at a high level among children as well as adults, seems, if anything, to increase with age, as if irrationality were increasing rather than declining between childhood and adulthood!’.24
+
+In further studies, Winer and his colleagues were yet more surprised to find that there was no decline in extramission beliefs among college students after studying the standard coursework on vision. They modified the teaching material to include explicit statements that in vision nothing leaves the eye, referring to fictional characters like Superman and the X-Men, portrayed with rays coming out of their eyes, stressing that in reality nothing like this happens. These refutational statements resulted in an immediate increase in the proportion of students giving the ‘correct’ answer. But to their disappointment this effect was short-lived, and the students soon reverted to a two-way theory of vision. They concluded, ‘There is no doubt that psychology educators need to counteract a misconception that deals with one of the most fundamental areas of their discipline’.25  Modern Theories of Vision
+
+There is no agreement among philosophers, neuroscientists and psychologists about the nature of visual perception. Most take for granted the intromission theory, but others emphasize the active role of vision and its connection with bodily activity: vision is not confined to the inside of the head, but extends outwards into the world, closely linked to the organism’s movements and actions.  It’s all in the head
+
+If all mental activity and all visual experience are confined to the insides of heads, then the sense of being stared at ought not to occur. And if it does, it is almost impossible to explain. This is probably why the phenomenon has been ignored for so long.
+
+But there is no clear explanation of how vision actually occurs inside heads. The modern popular science approach still relies on the ‘ghost in the machine’ dualism between the conscious decision-maker and the material apparatus by which the decision can be enacted. For example, the viewer chooses what to look at, rather than just passively receiving light rays from a random direction.
+
+As recently as 2005,&nbsp;London’s Natural History Museum had a ghostly display called ‘Controlling Your Actions’. In a three-dimensional model of a man’s head, a see-through plastic window in the forehead reveals the cockpit of a jet plane, with two empty chairs for the pilot and his co-pilot in the other hemisphere. The commentary explains, ‘The cortex is the body’s control room. It receives information, processes it and decides on the best course of action. So the cortex in your brain is rather like the flight deck of an aircraft’. Though carefully worded to avoid mentioning controllers or pilots, few visitors would expect a control room or a cockpit to make decisions without someone there to make them, even if the decider is invisible.
+
+Decision-making is of course only one ‘active’ aspect of visual perception; other ‘active’ aspects are how attention is drawn reflexively to an object by events such as a flash of light or a sudden sound, or how a specific intention such as an attempt to find food affects what will be seen. However, in this article we are primarily concerned with how the image is projected out, whatever the intention.
+
+Since the 1980s, the predominant academic approach has been to suppose that vision depends on computational processing and on the formation of representations of ‘what is where’ in the visual environment inside the brain. Most of the metaphors of cognitive science are derived from computers, and the internal representation is now commonly conceived of as a ‘virtual reality’ display. As Jeffrey Gray put it succinctly, ‘The ‘out there’ of conscious experience isn’t really out there at all; it’s inside the head.’ Our visual perceptions are a ‘simulation’ of the real world, a simulation that is ‘made by, and exists within, the brain’.26
+
+The idea that our visual experiences are simulations inside our heads is often taken for granted. But it leads to strange consequences, as Stephen Lehar has pointed out.27 The simulation theory says that when I look at the sky, the sky I see is inside my head. This means that my skull must be beyond the sky! Lehar supposes that skulls are indeed beyond the sky:  
+
+I propose that out beyond the farthest things you can perceive in all directions, i.e. above the dome of the sky, and below the solid earth under your feet, or beyond the walls and ceiling of the room you see around you, is located the inner surface of your true physical skull, beyond which is an unimaginably immense external world of which the world you see around you is merely a miniature internal replica. In other words, the head you have come to know as your own is not your true physical head, but only a miniature perceptual copy of your head in a perceptual copy of the world, all of which is contained within your real head.28
+
+If all perceptual experience is indeed a miniature representation inside the brain, then looking at somebody from behind could not give rise to a sense of being stared at. This sense implies an ability to detect the focusing of attention by the person or animal that senses it. If attention is confined to the inside of the brain, it cannot act at a distance.
+
+From this point of view, there are two ways to deal with the evidence for the sense of being stared at. The first is to deny or ignore it. The second is to accept it but to postulate a non-local mental effect whereby attention to someone’s representation inside my brain influences that person at a distance by an unknown mechanism, perhaps akin to telepathy.  A grand illusion?
+
+The theory that there is a detailed representation of the external world within the brain is by no means universally believed within academic circles. It is under attack by sceptical neuroscientists and philosophers.
+
+The more that is known about the eyes and the brain, the less likely the internal representation theory seems. The resolving power of the eyes is limited, especially outside the foveal region; each eye has a blind spot of which we remain unaware; the eyes are in frequent motion, saccading from point to point in the visual field three to four times a second; and recent work on ‘change blindness’ and ‘inattentional blindness’ shows that we often remain unaware of large changes in the visual field. As Alva Noë has summarized the problem, ‘How, on the basis of the fragmented and discontinuous information, are we able to enjoy the impression of seamless consciousness of an environment that is detailed, continuous, complex and high resolution?’.29 Is the visual world a grand illusion?
+
+The most radical solution to this problem is to suppose that the visual world is not an illusion, and is not inside the brain at all. The visual world is where it seems to be, in the external world. The leading proponent of this view was JJ Gibson in his ‘ecological’ approach to perception.30 Rather than the brain building up an internal model of the environment, vision involves the whole animal and is concerned with the guidance of action.
+
+For Gibson, perception is active and direct. The animal moves its eyes, head and body, and it moves through the environment. Gibson’s approach was of course much criticized, not least because it appears to contradict every aspect of the representational-computational orthodoxy.31 Nevertheless, the problems posed by the internal representation theory have not gone away. Some researchers disagree with Gibson’s theory of direct perception, but agree with him about the importance of movement and activity in perception.
+
+In the ‘enactive’ or ‘embodied’ approach developed by Francisco Varela and his colleagues, perceptions are not represented in a world-model inside the head, but are enacted or ‘brought forth’ as a result of the interaction of the organism and its environment. ‘[P]erception and action have evolved together ... perception is always perceptually guided activity’.32 O’Regan likewise rejects the need for internal representations of the world; the world can be used as an external memory, or as its own model.33 We can look again if we need to; we do not need a detailed model of the environment inside our brains.
+
+It is not clear how these various approaches might relate to the sense of being stared at. Gibson’s ecological theory places perceptual activity outside the brain, and hence leaves open the possibility of an interaction between the perceiver and the perceived. The same might be true of the enactive and sensorimotor accounts in that they are interactive by nature, and do not treat vision only as an internal process within the brain.34  Two-way theories
+
+In two-way theories of vision, images are projected out beyond the brain to the places where they appear to be. Thus if I look at a tree, light from the tree enters my eyes, inverted images form on my retinas, and changes occur in my eyes and in various regions of the brain. These give rise to a perceptual image of the tree, which is situated where the tree actually is. The tree that I am seeing is in my mind, but not inside my brain.
+
+This theory of vision resembles the combined intromission-extramission theory widespread in ancient Greece, the Arab world and medieval Europe.35 Several philosophers since the early twentieth century also advocated versions of a two-way theory, including Henri Bergson, William James, Alfred North Whitehead and Bertrand Russell.36
+
+Bergson anticipated the enactive and sensorimotor approaches in emphasizing that perception is directed towards action. Through perception, ‘The objects which surround my body reflect its possible action upon them’.37 He rejected the idea that images were formed inside the brain:  
+
+The truth is that the point P, the rays which it emits, the retina and the nervous elements affected, form a single whole; that the luminous point P is a part of this whole; and that it is really in P, and not elsewhere, that the image of P is formed and perceived.38
+
+William James likewise rejected the idea of images inside the brain. He took as an example the reader sitting in a room, reading a book:  
+
+[T]he whole philosophy of perception from Democritus’ time downwards has been just one long wrangle over the paradox that what is evidently one reality should be in two places at once, both in outer space and in a person’s mind. ‘Representative’ theories of perception avoid the logical paradox, but on the other had they violate the reader’s sense of life which knows no intervening mental image but seems to see the room and the book immediately as they physically exist.39
+
+As Whitehead expressed it, ‘sensations are projected by the mind so as to clothe appropriate bodies in external nature’.40
+
+Max Velmans currently argues in favour of a theory of this kind as part of his ‘reflexive’ model of consciousness.41 He discusses the example of a subject S looking at a cat as follows:  
+
+According to reductionists there seems to be a phenomenal cat ‘in S’s mind’, but this is really nothing more than a state of her brain. According to the reflexive model, while S is gazing at the cat, her only visual experience of the cat is the cat she sees out in the world. If she is asked to point to this phenomenal cat (her ‘cat experience’), she should point not to her brain but to the cat as perceived, out in space beyond the body surface.42
+
+How could this projection possibly work? He discusses the process as follows:  
+
+I assume that the brain constructs a ‘representation’ or ‘mental model’ of what is happening, based on the input from the initiating stimulus, expectations, traces of prior, related stimuli stored in long-term memory, and so on.... Visual representations of a cat, for example, include encoding for shape, location and extension, movement, surface texture, colour, and so on.... Let me illustrate with a simple analogy. Let us suppose that the information encoded in the subject’s brain is formed into a kind of neural ‘projection hologram’. A projection hologram has the interesting quality that the three-dimensional image it encodes is perceived to be out in space, in front of its two-dimensional surface.43
+
+Velmans makes it clear that the idea of holographic projection is only an analogy, and stresses that he thinks perceptual projection is subjective and nonphysical, occurring only in phenomenal as opposed to physical space. Nevertheless, these projections extend beyond the skull and generally coincide with physical space.
+
+If these projections are entirely non-physical, it is hard to conceive how they could influence people or animals at a distance, or have any other measurable effects. Velmans’s hypothesis does not seem to make any testable predictions, and in its present form would not provide a basis for the sense of being stared at. However, if one person’s perceptual projections interacted with another’s then the sense of being stared at would be consistent with this projection theory.  Perceptual Fields
+
+Rupert Sheldrake argues that projection takes place through perceptual fields, extending out beyond the brain, connecting the seeing animal with that which is seen. His hypothesis contends that vision is rooted in the activity of the brain but is not confined to the inside of the head.44 Like Velmans, Sheldrake argues that the formation of these fields depends on changes occurring in various regions of the brain as vision takes place, influenced by expectations, intentions and memories. Velmans suggests that this projection takes place in a way that is analogous to a field phenomenon, as in a hologram. Sheldrake goes further in suggesting that the perceptual projection is not just analogous to but actually is a field phenomenon.
+
+Fields are known to project beyond material bodies, as in the case of magnetic fields around magnets, the earth’s gravitational field around the earth, and the electromagnetic fields of mobile phones around the phones themselves. Sheldrake suggests that minds likewise extend beyond brains through fields,  
+
+When someone stares at another person from behind, the projection of the starer’s attention means that his field of vision extends out to touch the person he is staring at. His image of that person is projected onto that person through his perceptual field. Meanwhile, the person stared at also has a field all around herself. I suggest that the starer’s field of vision interacts with the field surrounding the person stared at. One field is influenced by another. This field interaction is detected through a change or difference in the field around the body. Just as the field around a magnet is changed when another magnet is placed nearby, this field interaction is directional. The interaction may be weak, and need not be experienced consciously by the person stared at. But, if the interaction is strong enough, the person stared at may respond by turning around, without thinking and without knowing why.45
+
+Perceptual fields are related to a broader class of biological fields involved in the organization of developing organisms and in the activity of the nervous system. The idea of biological fields has been an important aspect of developmental biology since the 1920s, when the hypothesis of morphogenetic fields was first proposed.46 These fields underlie processes of biological morphogenesis. (Morphogenesis means the coming-into-being of form.) They organize and shape biological development.47 Morphogenetic fields are also active at the molecular level, for example in helping guide the folding of proteins towards their characteristic three-dimensional form, ‘choosing’ among many possible minimum-energy structures.48
+
+The concept of morphogenetic fields is widely accepted within developmental biology. The way in which a given cell develops within, say, a developing limb, depends on what Lewis Wolpert has called ‘positional information’. This information depends on the cell’s position and is specified by a positional or morphogenetic field.49
+
+Most biologists assume that morphogenetic fields will eventually be explained in terms of the known fields of physics, or in terms of patterns of diffusion of chemicals, or by other known kinds of physico-chemical mechanism.50 These explanations would only be sufficient for one level of understanding, however, whereas morphogenetic fields are part of a larger class of fields called morphic fields, which includes behavioural, social and perceptual fields, and thus function on a higher level of organisation than physics or chemistry.51
+
+According to Sheldrake’s hypothesis, it is in the nature of morphic fields to bind together and coordinate patterns of activity into a larger whole. The fields themselves are fields of probability, and they influence probabilistic processes; in this sense they resemble the fields of quantum field theory. Morphic fields guide systems under their influence towards attractors, and they stabilize systems through time by means of self-resonance. They are also influenced by a resonance across time and space from previous similar systems, by a process that Sheldrake has termed morphic resonance. Thus they contain an inherent memory, both of a system’s own past, and a kind of collective or pooled memory from previous similar systems elsewhere.52
+
+Sheldrake’s morphic field hypothesis originally grew out of research in developmental and molecular biology. But morphic fields have properties relevant to three aspects of the mind/brain problem. First, by their nature they could connect together patterns of activity in different regions of the brain, and thus help provide a solution to the so-called binding problem. Second, they contain attractors, which organize and give meaning to the entire system, and thus help explain the intentionality of perception; it is about something; it is meaningful.53 Third, they link into a single system the subject and the object, the observer and the observed, and extend out beyond the brain to include or enclose the object of perception.54
+
+To understand the sense of being stared at, Sheldrake argues that we need a further postulate, namely that these perceptual fields interact with the fields of the person or animal on which attention is focused. Ex hypothesi, all people and animals have their own morphic fields, so this interaction would require an action of like upon like, a field-field interaction, as described in the previous example of someone staring from behind.55 Physics already provides many examples of field-field interactions, as in gravitational, electrical, magnetic, electromagnetic and quantum matter fields.
+
+Perceptual fields are real (rather than virtual) in the sense that they are localized in space and time, they resonate with and have effects on the systems under their influence. They also impose patterns on the probabilistic activity of nerves and networks of nerves, and interact with other morphic fields, such as those of a person or animal being stared at. But they are virtual in the sense that they are fields of probability or potentiality. They can be modelled mathematically in multidimensional spaces, as in René Thom’s models of dynamical attractors within morphogenetic fields. In this sense morphic fields resemble quantum fields, rather than classical electromagnetic or gravitational fields.
+
+Sheldrake’s hypothesis might also help to explain the sense of being stared at when the looking is direct that has been observed in various studies. &nbsp;
+
+But the observation of staring through closed circuit television is harder to explain, given that it is difficult to imagine that perceptual fields first link the observer to the TV screen then extend backwards through the circuitry of the monitor, out through the input wires, out through the camera, and then project through the camera lens to touch the person being observed. Sheldrake argues that in this instance seeing the image on the screen somehow sets up a resonant connection with the person whose image is being seen. This explanation may also work for the scenario when someone&nbsp;looks&nbsp;at another person's&nbsp;reflection in a mirror, causing the observed person&nbsp;to turn and look directly back at the 'looker' in the mirror.&nbsp;Both CCTV and mirror-based&nbsp;observation&nbsp;could be&nbsp;instances of morphic resonance, the influence of like upon like across space and time.56
+
+Sheldrake admits that the details of how perceptual fields work and how they interact are still unclear, and that the way in which they can help explain the effects of staring through CCTV and via mirrors is obscure. But it would seem that even in this vague form, the perceptual field hypothesis has the advantage of making better sense of vision and of the sense of being stared at than the mind-in-the-brain theory and the non-physical projection theory. It also ties in with a wide range of other biological phenomena, including morphogenesis and instinctive behaviour.  Interconnections Between the Observer and the Observed in Quantum Physics
+
+There are at least four ways in which quantum physics might be relevant to the sense of being stared at.  The role of the observer
+
+First, the observer and the observed are interconnected:  
+
+‘[Q]uantum physics presents a picture of reality in which observer and observed are inextricably interwoven in an intimate way’.57 Or as the quantum physicist Bernard D’Espagnat expressed it, ‘The doctrine that the world is made up of objects whose existence is independent of human consciousness turns out to be in conflict with quantum mechanics and with facts established by experiment’.58
+
+The most famous thought experiment on this subject, Schrödinger’s cat paradox, implies a spectacular macroscopic effect of observation: staring at a cat can cause it to live or die. A hypothetical cat is confined inside a box containing a glass phial of cyanide; poised above it is a hammer whose fall is triggered when a Geiger counter detects the emission of an alpha particle from a radioactive atom. There is an equal probability that a particle is emitted or not in a given time. The quantum wave of the whole system thus involves a superposition of both possibilities, in one of which the cat is alive and in the other dead. The situation is resolved one way or the other when someone looks into the box and observes the cat, at which stage the wave function ‘collapses’.
+
+This thought experiment has generated a long-lasting debate, still unresolved, in theoretical quantum physics. Perhaps the strangest of all interpretations is the many-universe hypothesis. At the moment of observation, the entire universe splits into two coexisting parallel realities, one with a live cat in the box, the other with a dead cat.59
+
+The quantum physicist David Deutsch, a leading proponent of this extravagant hypothesis, postulates that there is ‘a huge number of parallel universes, each similar in composition to the tangible one, and each obeying the same laws of physics, but differing in that the particles are in different positions in each universe’.60
+
+Compared with an observer splitting the universe by looking at a cat, the proposal that a person or animal can sense when they are being stared at seems conservative.  Photons moving backwards
+
+Second, an interpretation of quantum physics promoted by Richard Feynman emphasizes that there is no difference in nature between a photon moving forwards or backwards in time, from the point of view of electrodynamics. Feynman started from the classical electromagnetic equations of Maxwell, which are symmetrical in relation to time. These equations always give two solutions to describe the propagation of electromagnetic waves, one corresponding to a wave moving forwards in time, and the other to a wave moving backwards in time. Backward moving waves were simply ignored as non-physical until Feynman began to take them seriously. Waves moving outwards from an electron or radio mast are called ‘retarded’ waves, because they arrive somewhere else after they have been emitted; waves traveling backwards in time are called ‘advanced’ waves because they arrive somewhere before they have been emitted.
+
+In what is called the ‘Wheeler-Feynman absorber theory’, when an electron is agitated, it sends out a retarded wave into the future and an advanced wave into the past. Wherever this wave meets another electron, it excites that electron, which in turn sends out a retarded and advanced wave. The result is an overlapping sea of interacting electromagnetic waves. As science writer John Gribbin describes it,  
+
+‘your eyes do emit photons, as part of an exchange with the photons radiated by a source of light ... [T]he old picture of a photon moving from a source of light to our eyes (or to anywhere else) is incomplete; time has no meaning for a photon, and all we can say is that photons have been exchanged between the source of light and our eyes.61
+
+Physicist John Cramer has developed this approach further in the ‘transactional interpretation’ of quantum mechanics. He summarizes it as follows:  
+
+‘The emitter produces a retarded offer wave which travels to the absorber, causing the absorber to produce an advanced confirmation wave which travels back down the track of the offer wave to the emitter ... An observer would perceive only the completed transaction which he could interpret as the passage of a single retarded (i.e. positive energy) photon traveling at the speed of light from emitter to absorber’.62
+
+This transactional interpretation of quantum mechanics would be relevant to the sense of being stared at if the advanced wave, emitted from the eye, was coupled to the vision of the perceiver.  Quantum entanglement
+
+The third relevant aspect of quantum mechanics is quantum non-locality or entanglement. It is well established that when pairs of particles such as photons are produced from a common source, correlations appear in their behaviour over large distances that are inexplicable on the basis of classical physics. There has been much debate about the significance of this process for macroscopic systems such as humans, owing to the ‘decoherence’ of quantum states in large systems such as brains. Yet some physicists believe that quantum entanglement may be an essential aspect of the way minds work.
+
+Christopher Clarke argues that quantum entanglement may not only play an important part in vision, but is also is an essential aspect of conscious perception.63 Consciousness itself somehow arises from entangled systems:  
+
+‘If the qualitative aspect of perception (the so-called qualia) are produced by quantum entanglement between the states of the brain and the states of perceived objects, then the supports of conscious loci are not just the brain, but the whole of perceived space. In other words ‘I’ am spread out over the universe by virtue of my connectivity with other beings’.64
+
+Clarke further suggests that in living organisms quantum entanglement may help account for their holistic properties.  
+
+If we consider a living, and hence coherent, entity, then the entanglement will take over the individual states of the parts, which will no longer be definable, and replace them with the quantum state of the entangled whole.65
+
+Psychologist Dean Radin points out that growing pressure to develop workable quantum computers is rapidly expanding our ability to produce ever more robust forms of entanglement in increasingly complex systems. He predicts that our understanding of what entanglement means will also expand rapidly. He paints a future scenario in which researchers will discover that living cells exhibit properties associated with quantum entanglement, giving rise to the idea of bioentanglement, and then to the idea that ‘minds and brains are complementary, like particles and waves ... there are interpenetrating mind fields’.66 He predicts that sooner or later it will be discovered that mind fields are entangled with the rest of the universe. In this scenario, the sense of being stared at would seem relatively straightforward.  Quantum Darwinism
+
+A team of physicists at Los Alamos has proposed a form of preferential perception of quantum states that becomes habitual, in a way that sounds not unlike the activity of habitual perceptual fields discussed above.67 A Nature news report in 2004 explained how this new hypothesis arose from the question,  If, as quantum mechanics says, observing the world tends to change it, how is it that we can agree on anything at all? Why doesn’t each person leave a slightly different version of the world for the next person to find? The answer is called quantum Darwinism:
+
+[C]ertain special states of a system are promoted above others by a quantum form of natural selection... Information about these states proliferates and gets imprinted on the environment. So observers coming along and looking at the environment in order to get a picture of the world tend to see the same ‘preferred’ states.
+
+Rather than decoherence being a problem for this view, it is an essential feature. As Ollivier’s co-author Zurek put it, ‘Decoherence selects out of the quantum ‘mush’ those states that are stable.’ These stable states are called ‘pointer’ states. Through a ‘Darwin-like selection process’ these states proliferate as many observers see the same thing. In Zurek’s words, ‘One might say that pointer states are most ‘fit’. They survive monitoring by the environment to leave ‘descendents’ that inherit their properties’.68
+
+If a pointer state links an observer to someone she is looking at, such preferred states of quantum decoherence might underlie the sense of being stared at. Indeed a preferred habitual quantum state may be another way of talking about a perceptual field.  Conclusions
+
+Speculations about quantum interconnectedness and about perceptual fields are still vague. But at the same time the conventional idea of a representation or virtual reality display inside the brain is also very vague; it gives no details of the way in which the simulation is produced, the medium in which it occurs, or the means by which it is experienced subjectively. Nevertheless, the internal representation theory does make at least one testable prediction: the sense of being stared at should not exist. If vision is confined to the brain, the concentration of attention on a person or an animal should have no effects at a distance, other than those mediated by sound, vision or other recognized senses. The evidence goes against this prediction.
+
+If further research supports the reality of the sense of being stared at, then the existence of this sense will favour theories of vision that involve an interaction between the perceiver and the perceived, and go against theories that confine vision to the inside of the head.
+
+Rupert Sheldrake  Literature
+
+Ball, P. (2004), ‘Natural selection acts on the quantum world’, [email&#160;protected]  December 23.
+
+Bergson, H. ([1896] English translation 1911), Matter and Memory (London: Allen and Unwin).
+
+Clarke, C. (2002), Living in Connection: Theory and Practice of the New World-View (Warminster: Creation Spirituality Books). 
+
+Clarke, C. (2004), ‘Quantum mechanics, consciousness and the self’, in Science, Consciousness and Ultimate Reality, ed. D. Lorimer (Exeter: Imprint Academic). 
+
+Cottrell, J.E. and Winer, G.A. (1974), ‘Development on the understanding of perception: The decline of extramission beliefs’, Developmental Psychology, 30, pp. 218–28.
+
+Cottrell, J.E., Winer, G.A. &amp; Smith, M.C. (1996), ‘Beliefs of children and adults about feeling stares of unseen others’, Developmental Psychology, 3 (2), pp. 50–61.
+
+Cramer, J. (1986), ‘The transactional interpretation of quantum mechanics’, Reviews of Modern Physics, 58, pp. 647–88. 
+
+Davies, P. and Gribbin, J. (1991), The Matter Myth (London: Viking).
+
+D’Espagnat, B. (1979), ‘The quantum theory and reality’, Scientific American, November, pp. 158–81. 
+
+Dodds, E.R. (1971), ‘Supernormal phenomena in classical antiquity’, Proceedings of the Society for Psychical Research, 55, pp. 185–237. 
+
+Deutsch, D. (1997), The Fabric of Reality (London: Allen Lane). 
+
+Duncan, T. and Kennett, H. (2001), GCSE Physics (London: Murray). 
+
+Dundes, A. ed. (1992), The Evil Eye: A Casebook (Madison, WI: University of Wisconsin Press).
+
+Fodor, J.A. and Pylyshyn, Z.W. (1981), ‘How direct is visual perception? Some reflections on Gibson’s ‘ecological approach’’, Cognition, 9, pp. 139–56.
+
+Gibson, J.J. (1979), The Ecological Approach to Visual Perception (Boston, MA: Houghton Mifflin). 
+
+Goodwin, B. (1982), ‘Development and evolution’, Journal of Theoretical Biology, 97, pp. 43–55.
+
+Goodwin, B. (1994), How the Leopard Changed its Spots (London: Weidenfeld and Nicholson).
+
+Gray, J. (2004), Consciousness: Creeping Up on the Hard Problem (Oxford: Oxford University Press). 
+
+Gribbin, J. (1995), Schrödinger’s Kittens (London: Weidenfeld and Nicholson).
+
+Gurwitsch, A. (1922), ‘Über den Begriff des embryonales Feldes’, Archiv für Entwicklungsmechanik, 51, pp. 383–415.
+
+James, W. ([1904] 1970), ‘Does ‘consciousness’ exist?’ Reprinted in Body and Mind: Readings in Philosophy, ed. G.N.A. Vesey (London: Allen and Unwin).
+
+Kahn, F. (1949), The Secret of Life: The Human Machine and How It Works (London: Odhams).
+
+Lehar, S. (1999), ‘Gestalt isomorphism and the quantification of spatial perception’, Gestalt Theory, 21, pp. 122–39. 
+
+Lehar, S. (2004), ‘Gestalt isomorphism and the primacy of subjective conscious experience’, Behavioral and Brain Sciences, 26, pp. 375–444. 
+
+Lindberg, D.C. (1981), Theories of Vision from Al-Kindi to Kepler (Chicago, IL: University of Chicago Press).
+
+Marr, D. (1982), Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (New York: W.H. Freeman).
+
+Meinhardt, H. (1982), Models of Biological Pattern Formation (London: Academic Press).
+
+Newton, I. (1730), Opticks, 4th edition, reprinted 1952 (New York: Dover).
+
+Noë, A. (2002), ‘Is the visual world a grand illusion?’, Journal of Consciousness Studies, 9 (5–6), pp. 1–12. 
+
+Ollivier, H., Poulin, D. and Zurek, W. (2004), ‘Objective properties from subjective quantum states: Environment as witness’, Physical Review Letters, 93, p. 220.
+
+O’Regan, J.K. (1992), ‘Solving the ‘real’ mysteries of visual perception: The world as an outside memory’, Canadian Journal of Psychology, 46, pp. 461–88.
+
+Piaget, J. (1973), The Child’s Conception of the World (London: Granada). 
+
+Radin, D. (2004), ‘Entangled minds’, Shift, 5, pp. 10–14. 
+
+Russell, B. (1948), Human Knowledge: Its Scope and Its Limits (London: Allen and Unwin).
+
+Sheldrake, R. (1981), A New Science of Life: The Hypothesis of Formative Causation (London: Blond and Briggs). 
+
+Sheldrake, R. (1988), The Presence of the Past: Morphic Resonance and the Habits of Nature (London: Collins). 
+
+Sheldrake, R. (1994), Seven Experiments that Could Change the World (London: Fourth Estate).
+
+Sheldrake, R. (1999), Dogs that Know When Their Owners Are Coming Home, and Other Unexplained Powers of Animals (London: Hutchinson).
+
+Sheldrake, R. (2003/2013), The Sense of Being Stared At, And Other Aspects of the Extended Mind.&nbsp;(London: Hutchinson/Rochester: Park Street Press). 
+
+Sheldrake, R. (2005), ‘The Sense of Being Stared At - Part 2: Its Implications for Theories of Vision’, Journal of Consciousness Studies, 12, No. 6, pp. 32–49.
+
+Slack, J.M. and Tannahill, D. (1992), ‘Mechanism of anteroposterior axis specification in vertebrates: Lessons from the amphibians’, Development, 114, pp. 285–302.
+
+Takahashi, K. (1992), The Medieval Latin Traditions of Euclid’s Catoptrica (Kyusu: Kyusu University Press). 
+
+Thom, R. (1975), Structural Stability and Morphogenesis (Reading, MA: Benjamin).
+
+Thom, R. (1983), Mathematical Models of Morphogenesis (Chichester: Horwood). 
+
+Thompson, E., Palacios, A. and Varela, F.J. (1992), ‘Ways of coloring: Comparative color vision as a case study for cognitive science’, Behavioral and Brain Sciences, 15, pp. 1–26. 
+
+Velmans, M. (2000), Understanding Consciousness (London: Routledge). 
+
+Von Bertalanffy, L. (1933), Modern Theories of Development (London: Oxford University Press).
+
+Waddington, C.H. (1957), The Strategy of the Genes (London: Allen and Unwin). 
+
+Weiss, P. (1939), Principles of Development (New York: Holt). 
+
+Whitehead, A.N. (1925), Science and the Modern World (New York: Macmillan). 
+
+Winer, G.A. and Cottrell, J.E. (1996a), ‘Does anything leave the eye when we see?’, Current Directions in Psychological Science, 5, pp. 137–42.
+
+Winer, G.A., Cottrell, J.E., Gregg, V.A., Fournier, J.S., and Bica, L.A. (2002), ‘Fundamentally misunderstanding visual perception: Adults’ beliefs in visual emissions’, American Psychologist, 57, pp. 417–24.
+
+Wolpert, L. (1978), ‘Pattern formation in biological development’, Scientific American, 239 (October), pp. 154–64. 
+
+Wolpert, L. (1980), ‘Positional information, pattern formation and morphogenesis’, in Morphogenesis and Pattern Formation, ed. Connelly, T.G., Brinkley, L.L. and Carlson, B.M. (New York: Raven Press). 
+
+Zajonc, A. (1993), Catching the Light: The Entwined History of Light and Mind (New York: Bantam Books).   Endnotes 1. The section entitled ‘A Brief History of Theories of Vision’ is a shortened version of the discussion found in Sheldrake, 2005 2. Lindberg, 1981 3. Zajonc, 1993 4. Zajonc, 1993 5. Takahashi, 1992 6. Lindberg, 1981 7. Dodds, 1971 8. Dundes, 1982 9. For more detail on the theories of vision that involve a ‘medium”, see Sheldrake, 2005. 10. Lindberg, 1981 11. Lindberg, 1981 12. Lindberg, 1981 13. For a more detailed discussion of the reversal of retinal image, including Leonardo da Vinci’s and Galileo Galilei’s contributions to the debate, see Sheldrake, 2003/2013 14. Duncan and Kennett, 2001, p. 8 15. Duncan and Kennett, 2001 16. Newton, Book I, Axiom VIII 17. Newton, 1730, Figure 9 18. Takahashi, 1992 19. Piaget, 1973 20. Cottrell and Winer, 1994 21. Cottrell et al., 1996 22. Winer and Cottrell, 1996, p. 138 23. Cottrell et al., 1996 24. Winer and Cottrell, 1996, p. 139 25. Winer et al., 2002 26. Gray, 2004, pp. 10, 25 27. Lehar, 2004 28. Lehar, 1999 29. Noë, 2002 30. Gibson, 1979 31. Fodor and Pylyshyn, 1981 32. Thompson et al., 1992 33. O’Regan, 1992 34. For more detail on these various theoretical approaches that incorporate the body’s environment, see Sheldrake, 2005. 35. Lindberg, 1981 36. Bergson, 1896; James, 1904; Whitehead, 1925; Russell, 1948 37. Bergson, 1911, p. 7 38. Bergson, 1911, pp. 37–8 39. James, 1904; quoted in Velmans 2000 40. Whitehead, 1925, p. 54 41. Velmans, 2000 42. Velmans, 2000, p. 109 43. Velmans, 2000, pp. 113-4 44. Sheldrake, 1994; 2003 45. Sheldrake, 2003/2013. 46. Gurwitsch, 1922 47. von Bertalanffy, 1933; Weiss, 1939; Waddington, 1957; Thom, 1975; 1983; Goodwin, 1982; Sheldrake, 1981; 1988 48. Sheldrake, 1981 49. Wolpert, 1978; 1980 50. e.g Meinhardt, 1982; Goodwin, 1994 51. For more detail on biological morphogenesis and morphic fields in collective animal behaviour, see Sheldrake, 2005. 52. Sheldrake, 1981 53. Gray, 2004 54. Sheldrake, 2003a 55. Sheldrake, 2003 56. Sheldrake, 2005 57. Davies and Gribben, 1991, p. 208 58. D’Espagnat, 1979 59. Davies and Gribbin, 1991 60. Deutsch, 1997, p. 45 61. Gribbin, 1995, pp. 106–7 62. Cramer, 1986 63. Clarke, 2004 64. Clarke, 2002; p. 177 65. Clarke, 2002, p. 266 66. Radin, 2004, p.12 67. Ollivier et al., 2004 68. Ball, 2004           			  			     			This page was last updated on: October 12, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Rupert Sheldrake Additional material: Guy Hayward Word count: 7,500 Created: 31st December 2016 Last updated: 12th October 2022 May be cited as:Sheldrake, R. (2016). &lsquo;Sense of Being Stared At: Theories of Vision&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/sense-being-stared-theories-vision&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y6rh9tts                   	                                             See also:      Sense of Being Stared At: Experimental Evidence                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/sense-being-stared-theories-vision

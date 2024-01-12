@@ -1,0 +1,66 @@
+{"name":"Hoyt Edge | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/hoyt-edge","mytitle":"Hoyt Edge | Psi Encyclopedia","mylang":"de"}
+                     Hoyt Edge | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Hoyt Edge                                                                                                                                                                                                                          Hoyt Edge, professor of philosophy at Rollins College, Orlando, Florida, has carried out psi research, principally in the area of psychokinesis.   Contents   	Plant PK 	PK and Enzymes 	Runner’s High 	Feedback 	Pendulum 	Circadian and Biorhythms 	Ganzfeld Survey 	Distant Influence in Bali 	Literature 	Endnotes     Plant PK
+
+Edge tested psychokinesis (PK) in plants that were arranged near a lamp connected to a random number generator. He hypothesized that the plant would use PK to cause the lamp to come on more frequently than would be predicted by chance in order to receive warmth and light. In three out of five experiments there was significant evidence that this was the case and in one experiment, highly significant evidence (p = 0.0001). Control tests in which no plants were present were non-significant, suggesting that experimenter psi was not the cause (although this could still have operated at a deeper level order to create an apparent plant-PK effect).1 When Edge tried to replicate these findings there was no evidence of any plant PK effect, which he speculated might be due either to a decline effect or to differences in the quality of RNG devices used in the experiments (although robust checks confirmed the randomness of their output).2  PK and Enzymes
+
+Edge tested Anne Gehman, a well-known healer, for her ability to affect the activity of the enzyme trypsin. Activity was measured every thirty seconds for six minutes by placing samples in a UV spectrophotometer. The results only marginally supported a healing effect (p = 0.01) and proved less robust than her previous work with other parapsychologists. However, Edge found that placing the test samples near magnetic fields produced effects comparable to Gehman’s healing actions.3  Runner’s High
+
+Edge tested whether the euphoric high some runners experience at the end of a training session is associated with above chance scoring in an ESP test. Ten volunteers from a running group were asked each to focus on a target picture and draw and record their impressions after a run. Results were at chance.4  Feedback
+
+Edge tested whether feedback was a necessary condition for PK production. Thirty-two volunteers attempted to bias the output of a random number generator. In between runs, some were encouraged to relax during which time they were (unknowingly) tested for unconscious PK effects. For both the former (intentional) and latter (non-intentional) runs, feedback was provided or no feedback was given. Across these four conditions (intentional runs with and without feedback, non-intentional runs with and without feedback) only one condition (intentional runs with no feedback) returned significant results (p = 0.026).5  Pendulum
+
+In a test of traditional uses of divining tools to enhance psychic ability, Edge arranged for ten volunteers to hold a pendulum over sealed envelopes containing one of two potential targets. The nature of the pendulum movement was used to determine the identity of the hidden target. Blind matching revealed no evidence of psi from 1125 trials. Because fatigue might have been a factor, Edge ran a second study with five volunteers who gave no indications of fatigue during the first study. This also failed to produce an evidence for ESP.6  Circadian and Biorhythms
+
+Edge tested previous findings that suggested that daily circadian rhythms might influence psi ability. He arranged for an unselected female volunteer to record her body temperature at two-hour intervals each day and carry out 200 forced-choice ESP trials, for 1,000 trials a day. There was no relationship between time of day or body temperature and psi scoring. Overall scoring was at chance therefore preventing strong conclusions from being drawn. More interesting results came from examining biorhythm theory – the idea that physical and mental rhythms exist over a 33-day period – arranging for volunteers to test their ESP on days that were predicted to maximize their scoring. Significant correlations were found for the group as a whole (p = 0.01) but when the data from one high scoring subject (p = 0.00001) was removed, the group correlations became non-significant.7  Ganzfeld Survey
+
+Edge and veteran researcher Gertrude Schmeidler questioned other parapsychologists regarding the future of the ganzfeld experiment. This call was motivated by the negative findings of the Milton and Wiseman meta-analysis published in 1999. A common response was that meta-analyses should not be used to deliver proof of a finding but rather to reveal the processes underlining the effect. The methodology and interpretations of the Milton and Wiseman meta-analysis were criticized.8 &nbsp;  Distant Influence in Bali
+
+Edge conducted a series of distant influence studies in Bali. The psi task consisted of a person in one room, termed the ‘helper’, facilitating attention-focused meditation of a person in another room (‘helpee’). A computer randomly determined the designation sequence resulting in eight ‘help’ and eight control periods presented randomly. During help periods, the helper focused attention on a lighted candle with the intention of helping the helpee in the other room to focus on her candle. When the helpee felt her distraction wandering she rang a bell, which was recorded by an experimenter blind to the nature of the session period (control or experimental). Among forty Balinese participants Edge found fairly strong evidence in favour of the distant influence hypothesis. (p = 0.01).9  Literature
+
+Edge, H. (1978). Plant PK and the experimenter effect. In Research in Parapsychology, ed. by R.L. Morris &amp; W.G. Roll. Metuchen, New Jersey, USA: Scarecrow, 169-174.&nbsp;
+
+Edge, H. (1978). A philosophical justification for the Conformance Behaviour Model. Journal of the American Society for Psychical Research 72, 215-231.
+
+Edge, H., &amp; Wright, A. (1978). A possible case of the displacement effect in a token object test. New England Journal of Parapsychology 1, 28-34.
+
+Edge, H. (1980). Correlations of ESP success and biorhythms. Research Letter 10, Parapsychology Lab, University of Utrecht, 29-41.
+
+Edge, H. (1981). The effect of the laying on of hands on an enzyme: An attempted replication. In Research in Parapsychology, Metuchen, New Jersey, USA: Scarecrow, 137-139.
+
+Edge, H., &amp; Burke, K. (1981). The effect of feedback and awareness on a PK task. Research in Parapsychology, Metuchen, New Jersey, USA: Scarecrow, 158-159.
+
+Edge, H., &amp; Wright, W. (1979). Test of runner’s euphoria as a psi-conducive state. Research in Parapsychology, Metuchen, New Jersey, USA: Scarecrow, 157-158.
+
+Edge, H., &amp; Farkash, M.&nbsp; (1981). Further support for the psi-distributed hypothesis. Research in Parapsychology, Metuchen, New Jersey, USA: Scarecrow, 171-172.
+
+Edge, H. (1982). Plant PK: A failure to replicate. Research in Parapsychology Metuchen, New Jersey, USA: Scarecrow, 143-44.
+
+Edge, H. (1982). The use of the pendulum as an automatism. Research in Parapsychology. Metuchen, New Jersey, USA: Scarecrow, 193-95.
+
+Edge, H. (1982). Some suggestions for methodology derived from an activity metaphysics. In Parapsychology and the Experimental Method. New York: Parapsychology Foundation, 43-64.
+
+Edge, H. (1985). Parapsychology and atomism. Journal of the Society for Psychical Research 53, 78-86.
+
+Edge, H. (1993). The medium as healer and clown: An interpretation of mediumship in Bali. Journal of the American Society for Psychical Research 87, 171-83.
+
+Edge, H. (1996). Possession in two Balinese trance ceremonies. Anthropology of Consciousness 7/4, 1-8.
+
+Edge, H., &amp; Schmeidler, G. (1999). Should ganzfeld research continue to be crucial in the search for a replicable psi effect? Part II. edited ganzfeld debate. Journal of Parapsychology 63, 335-88.
+
+Edge, H. (2000). Extraordinary claims in a cross-cultural context, Proceedings of Aquem e Alem do Cerebro (Behind and Beyond the Brain). Porto, Portugal: Bial Foundation, 159-180.
+
+Edge, H., Tiliopoulos, N., Morris, R., &amp; Ketut, S. (2002). Two cognitive DMILS studies in Bali. Journal of Parapsychology 68/2, 289-321.
+
+Edge, H., &amp; Rammohan, G.V. (2002). Philosophy of mind and parapsychology. Frontiers of Human Science, Jefferson, North Carolina, USA: McFarland, 30-45.
+
+&nbsp;
+
+&nbsp;   Endnotes 1. Edge (1978). 2. Edge (1982). 3. Edge (1981). 4. Edge &amp; Wright (1979). 5. Edge &amp; &nbsp;Burke (1981). 6. Edge (1982). 7. Edge (1980). 8. Edge &amp; Schmeidler (1999). 9. Edge (2002).           			  			     			This page was last updated on: May 31, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 1,300 Created: 22nd October 2019 Last updated: 31st May 2023 May be cited as:Duggan, M. (2019). &lsquo;Hoyt Edge&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/hoyt-edge&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y4kjmmug                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/hoyt-edge

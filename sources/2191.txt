@@ -1,0 +1,480 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/psychology-and-parapsychology","mytitle":"Psychology and Parapsychology | Psi Encyclopedia","mylang":"de"}
+                     Psychology and Parapsychology | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Psychology and Parapsychology                                                                                                                                                                                                                          This article explores the overlap between parapsychology and psychology. It includes discussions of psychological variables related to psychic phenomena, for instance with regard to personality, and of psychological concepts that are used to make sense of ESP and other phenomena. The implications of parapsychology for psychology are also considered, including the variety of human experience, clinical issues and the idea of nonphysicality.   Contents   	Psychological Aspects of Psi Phenomena 	Laboratory Work 	Studies of Cases (Mainly Surveys) 	The Psychology of Psychics and Mediums 	Theoretical Discussions 	Contributions of Parapsychology Relevant to Psychology  	Variety of Human Experiences 	Conventional Explanations 	Clinical Issues 	Personal Transformation 	Social Issues 	Expanding Human Potential 	Nonphysicality   	Bibliographical Note 	Acknowledgements 	Literature 	Endnotes     Psychological Aspects of Psi Phenomena
+
+Psychic phenomena manifest dynamic aspects, and personality and cognitive variables, suggesting they are part of normal psychological processes. A good example is ESP, which the earliest psi researchers recognized is expressed through various psychological means. The SPR’s first major work, Phantasms of the Living, describes telepathy as being conveyed to consciousness through hallucinations, dreams, impressions, ideas, emotions, impulses to take action, and sensations such as pain and discomfort. In the years following its publication in 1886, the topic was discussed by Frederic Myers,1 GNM Tyrrell,2 and Louisa E Rhine,3 among others.
+
+A case of this sort was reported by Stevenson, concerning a woman who was washing her dishes when ‘an awesome feeling came over me’:  
+
+I dropped the plate, turned my eyes toward heaven and prayed aloud, ‘Oh God, don’t let her get killed!’ For some unexplained reason I knew Joicey [her five-year-old daughter] had been hit by a car or was going to be.4
+
+She quickly telephoned, and confirmed that the child had indeed been in an accident moments before, but was unharmed.
+
+ESP messages are believed to have dynamic aspects, such as elements of personal significance to the experiencers, and symbolism, as seen for example in dreams. Studies by Ehrenwald,5 Eisenbud,6 and Stevenson7 show that they employ the same symbols as those that appear in non-ESP dreams, and are motivated by human needs similar to those involved in other psychological processes.  Laboratory Work
+
+JB Rhine and his associates explored the relationship between psychological issues and both ESP and psychokinesis (PK). Summarizing this work, Rhine and Pratt8 argued that psi was completely normal, that it involved a degree of conscious use (but with little control), and that it was affected by motivation. Psi, they stated, was an unconscious function of the mind.
+
+A particular phenomenon that Rhine and Pratt associated with the unconscious is the tendency of certain subjects in ESP tests to obtain results that are significantly below chance, that is, to score lower than the average in a way that is just as anomalous as if they had scored above it. This characteristic, named ‘psi-missing’, is seen as people using ESP to avoid getting information about a target, perhaps because of boredom with the guessing task or lack of motivation to succeed.9&nbsp;
+
+Another common feature in ESP research is when subjects paranormally obtain information about something other than the intended target – a process Rhine and Pratt called ‘displacement’.&nbsp; This too may have a psychological basis, although that is a matter of speculation. Parapsychologists today largely echo the views of Rhine and Pratt.10
+
+A variable explored in many ESP experiments is the effect of belief in ESP on test scores. Classic ESP guessing studies carried out by psychologist Gertrude Schmeidler11 show that subjects who believed in the reality of ESP (whom she called ‘sheep’), obtained better results than those who did not believe (‘goats’). Moreover, sometimes the goats showed psi-missing, scoring below what chance would predict. &nbsp;A meta-analytic review of 73 studies reported between 1947 and 1993 found that the combined result was highly significant, with sheep scoring higher that goats, although the strength of the effect was low.12
+
+The results are less clear if, instead of being asked about belief in ESP in general, the participant is asked whether she believes in the possibility that she might have ESP or might show ESP in the experiment. But even then, the studies suggest that ESP in the laboratory is affected by beliefs in the existence of the phenomenon. This makes sense if we accept that positive attitudes improve our productivity and our interactions with others. A later analysis supports this finding.13
+
+Other studies have looked at ESP and personality variables such as introversion and extroversion. Several researchers have found that extroverts do better in ESP tests.14 There is also evidence that ESP is related to creativity.15
+
+Neuroticism has been explored in the laboratory in relation to ESP, with ambiguous results that apparently depend on the context in which participants are tested. An analysis by Palmer16 found that out of 26 experiments in which participants were tested individually, 20 (77%) showed significant results with participants who scored low on neuroticism measures, while only in six (23%) experiments were there significant results between neuroticism and ESP.
+
+The nature of the relationship between mental imagery and ESP is ambiguous.17 But that has not been the case with perceptual defenses, as measured by the Defense Mechanism Test: people with low defenses consistently obtain better ESP results than those with high defenses.18
+
+Research has also been carried out with ESP and altered states of consciousness (ASC). Hypnotic suggestion seems to be favorable to ESP. However, Stanford and Stein19 presented a model in which hypnosis is just one of several variables that still need to be identified. The complexity of this areahas been outlined recently by Parker.20
+
+Experimental studies suggest that ESP is associated with relaxed states.21 Laboratory dream studies and ganzfeld experiments have also shown evidence for ESP.22 23 &nbsp;Some believe that the partial sensory deprivation produced by ganzfeld conditions favors ESP. &nbsp;Others are less convinced of this, arguing that factors other than ASCs are involved24 - something that must be generally considered in research with psychological variables.
+
+The following summarizes successful ganzfeld ESP performance, in which the ‘receiver’ – in a relaxed stated induced by the ganzfeld procedure – visualized video scenes being viewed by a ‘sender’ at a remote location:
+
+One participant in the receiver role … described the full sequence of the helicopter attack against a native village as shown in the film-clip, including its focus on a courtyard scene and soldiers running back and forth. One of the most successful participants … gave a real-time description of the sequence of events in a rare film. This depicted a woman running through a forest, and the description included the occasion when she fell down, correctly adding that she hit her face on stony ground. Many further correct and specific details were given in real time, including the threat and presence of other women, and the mention of a boomerang object at the point when the woman picked up a crooked stick to defend herself against the women attacking her.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Several authors have stressed the importance of focusing on many variables as opposed to single ones.26 An example is Honorton’s27 exploration of ESP in the ganzfeld that took into account the practice of meditation, spontaneous psychic experiences, previous experience as an ESP participant in experiments, and the personality factor associated with the Myers-Briggs Type Indicator.28
+
+Non-psi laboratory research has produced evidence of an ‘experimenter effect’, when study participants show different levels of performance in relation to a particular experimenter. This suggests that the experimenter may either inhibit or enhance subjects’ performance in some socio-psychological way. The situation is complicated when the idea of psi experimenter effects is considered.29 In addition, many experiments present evidence that ESP can be used unconsciously to accomplish certain tasks, a phenomenon referred to as ‘implicit psi’ (Palmer 2015). Some of these studies support the idea that ESP serves particular needs. There is also evidence that ESP responses do not need to be verbal or behavioral, but occur also through physiological body changes that can be detected by measuring electrodermal activity (changes in the electrical activity of the skin).30  Studies of Cases (Mainly Surveys)
+
+Survey studies of psychic experiences have been conducted with college students and other groups. (Most provided no follow-up about the experience beyond an answer to a question, so it is not certain if replies referred to the type of experience in question – for instance ESP or apparitions – or if they were veridical in the sense of providing evidence for non-sensory or non-motor processes.) One widely reported finding is that experiences such as ESP, OBEs, and seeing apparitions and auras are interrelated. That is, there is a tendency for persons who have had one type of experience to have had other types as well,31 although this is not by any means universal. The same may be said of positive relationships between psychic experiences and lucid dreams, and dream recall frequency.
+
+ESP experiences, and sometimes other phenomena such as seeing apparitions and auras, have been reported to be related to fantasy proneness, as seen in the studies of Alvarado and Zingrone,32 and Myers, Austrin, Grisso, and Nickeson.33 The same may be said of other psychological constructs: absorption;34 boundary thinness; an openness to experiences such as emotions, intimacy and daydreaming;35 dissociation;36 emotional empathy;37 hypnotic susceptibility;38 transliminality; and a predisposition for experiencing emotions, imagery, thoughts or other psychological material from the unconscious regions of the mind.39 Extroversion was related in one study to reports of precognitive experiences, but not to dissociation or to belief in the paranormal.40
+
+OBEs have been found to be related to several of the above-mentioned psychological variables, such as absorption, dissociation, fantasy and hallucinations.41 Some studies have also examined aspects of the psychology of mediumship,42 seeing auras,43 and having recollections of previous lives.44  The Psychology of Psychics and Mediums
+
+Apart from early observations of mediums such as Hélène Smith,45 Eusapia Palladino,46 and psychic Pascal Forthuny,47 there have been few studies of the psychology of psi-gifted persons. WHC Tenhaeff48 called for a life-history study of psychics, arguing that some of them focused their ESP in matters of personal relevance, sometimes in their childhood. Tenhaeff also applied psychological projective tests (such as Rorschach and TAT) to groups of psychics. According to a conference abstract:  
+
+The most characteristic tendency shown by the subjects on the basis of these tests was their ‘sensitivity’ to everything coming from the outside world. Will and action were manifested sporadically and hence inadequately. Also, these subjects endeavored to identify and feel themselves in union with persons and objects near them … Also, disintegration of the personality was one of the characteristics of these subjects.49
+
+In a paper about medium Caroline Chapman, Schmeidler reported that ‘the medium's successes corresponded to the areas of her normal interests and to her most effective modes of perception’.50 Another medium, Eileen J Garrett, was studied by Ira Progoff 51 from the point of view of Jungian concepts, with the conclusion that her ‘spirit controls’ represented aspects of the medium’s unconscious and were part of her usual (non-mediumistic) life.
+
+A survey of self-styled psychics and mediums showed tendencies indicating self-sufficiency, lack of discipline, and openness to feelings.52 There are other interesting studies of psychodynamic aspects of gifted subjects,53 and similar work has been conducted with poltergeist agents.54  Theoretical Discussions
+
+The idea that ESP is processed unconsciously has a long history. As mentioned above, Myers55 thought that telepathy was handled by the subliminal regions of the mind, and this idea can be seen in different ways in the writings of researchers to the present day, for instance Rhine and Pratt56and Carpenter.57 From the results of card-guessing experiments, it has been stated that:  
+
+The fact that psi is unconscious will explain many odd things about it. Some of these curious effects are among the most interesting features in the data of parapsychology … &nbsp;Some have almost come to be considered as earmarks of psi, so that the investigator may rightly treat them as valid evidence; for example, the significant decline in scoring rate within the test unit (the run, column, set, page, etc.) or the tendency of the subject to score reliably below the chance average under certain conditions, or the consistent way in which some subjects miss a specified symbol by calling it, more often than chance would average, by some other symbol name, or their occasional tendency to displace and hit the target next to the one intended and to hold consistently to this oblique way of responding … The psi process does not give the basis for learning by which introspection can associate error with the awareness of what was done wrong … As one can readily see, this unconsciousness of psi has made its investigation extremely difficult. It would help to explain why the many efforts to train subjects to better performance have not been successful.58
+
+This view is consistent with other findings. One is the tendency of specific experiences to be associated with other experiences in surveys, such as ESP with OBEs. Reports of psychic experiences are generally associated with non-psi experiences thought also to be intimately related to unconscious processes, such as dissociative experiences. Furthermore, studies suggest that low defenses allow us to better process ESP, possibly through a more direct communication with the unconscious. The same may be said about cognitive concepts such as transliminality and boundary thinness.
+
+Other researchers have speculated on other aspects favoring ESP such as the reduction of internal cognitive activity,59 information-processing concepts (such as imagery and memory).60 and ideas involving needs and dispositions.61
+
+James Carpenter62 has proposed the most detailed psychological model to date, which he calls First Sight. The model assumes that psi is working continuously, but unconsciously, and that it is the initial contact our minds have with the world: first sight, so to speak. Such psi processes, like sensory and motor ones, are part of our usual cognitive processes, directed by unconscious intentions and mediated by goals, needs and dispositions. They interact with and make use of psychological resources such as memory, creativity, and conscious and unconscious perception. They are expressed primarily by inadvertent but potentially accessible experiences and behaviors. All behavior and experience are thought to begin at the psi level of transaction, even if we are not aware of it. The process is not seen as a special ability, but rather as a basic aspect of human beings, and perhaps of all sentient creatures.
+
+Regarding the positive relationship between extroversion and ESP, Eysenck63 has suggested that this may reflect the existence of cortical differences between extroverts and introverts. In his view, high cortical activation (found in introverts) is not conducive to ESP, unlike lower cortical activity (found in extroverts). A different theoretical explanation by John Palmer64 focuses on the possibility that extroversion is related to better social adjustment in experimental participants that facilitates their adaptation in situations such as experimental testing.
+
+The parapsychological literature presents many other theoretical speculations and models to explain various phenomena. Several ideas involving a variety of psychodynamic ideas have been presented to explain poltergeists65 and apparitions.66 There is also a long history of speculations involving imagery, memory, and other cognitive processes to account for OBEs.67  Contributions of Parapsychology Relevant to Psychology
+
+Whatever the final explanation of psychic phenomena, they are psychological phenomena (at least in part), being human experiences and being related to other psychological variables that make up human functioning. What follows is a discussion of some topics of psychological interest to which psi research has contributed.  Variety of Human Experiences
+
+Parapsychology represents potential expansion for psychology because it brings information about the commonality and characteristics of &nbsp;neglected phenomena such as ESP, apparitions, OBEs, and auras. &nbsp;Surveys in the US and Europe show high endorsement rates. In 1991, Haraldsson and Houtkooper68 summarized responses to questions about clairvoyance, telepathy and contact with the dead, with samples representative of national populations, concluding as follows:  
+
+Sixty percent of the American sample reported one or more of the psychic experiences … For Europeans the figure was 46% ... [The percentages may be interpreted] to infer that perhaps as many as 145 million Americans and over 100 million Western Europeans report at least one of the three kinds of psychic experiences as defined in the survey.69
+
+The results of other surveys, particularly those with randomly selected samples of the general population70 show that psychic experiences are far from rare. Surveys with college students, while not representative of the general population, also include many &nbsp;reports of ESP, apparitions, auras and other experiences.71 It has been stated that ‘Paranormal experiences are so common in the general population … that no theory of normal psychology or psychopathology which does not take them into account can be comprehensive’.72
+
+Knowledge of the true incidence of these phenomena may help psychologists decide what is normal from the statistical point of view. Furthermore, studies can teach much about the features of psychic experiences, showing&nbsp; differences as well as patterns. Much of this is summarized by Irwin and Watt,73 and specific examples can be found in modern studies of phenomena such as OBEs74 and precognitive experiences.75
+
+A study of ESP in the US found that they were reported in various forms, as seen in the table:
+
+&nbsp;
+
+Form&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Percent
+
+Dreams &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4599&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 65%
+
+Intuitions&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1839&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26%
+
+Hallucinations&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 681&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 9%
+
+Forms of ESP Manifestation (N = 7119)&nbsp;76
+
+&nbsp;
+
+The 4,599 dreams were further divided into those that were realistic (68%) and unrealistic (symbolic) (32%), showing the complexity with which they manifested. Some experiences in other studies seem to be somatic, emotional reactions, and there are also cases of motor automatisms, such as writing.
+
+Other patterns are discerned in the seriousness of events related to ESP experiences, of which the main one is death: 35% in cases from the UK77 and 41% in cases from the United States.78
+
+OBEs show many interesting features, as revealed in a study by Alvarado and Zingrone,79 notably floating sensations (71%), staying in the usual surroundings (69%), seeing the physical body (65%), and seeing the surroundings from above (63%). Less common were references to oscillations of consciousness between the out-of-body location and the physical body (1%), seeing a ray of light, cord, or similar connection between out-of-body location and the physical body (2%), hearing clicking or snapping sounds (3%), and being seen or perceived at a distance (3%).  Conventional Explanations
+
+Skeptical psychologists have speculated about conventional explanations for psychic phenomena,80 but few have bothered to discuss the subject in detail, even less to conduct empirical research. By contrast, students of psychic phenomena have a good track record of considering and developing conventional explanations. A notable early example is the analysis by Gurney, Myers and Podmore &nbsp;81of testimony regarding ESP cases. Some of the problems they identified were as follows:  
+
+Error of observation may result in a mistake of identity&nbsp;… &nbsp;Of more importance are errors of narration, due to the tendency to make an account edifying, or graphic, or startling … Errors of memory are more insidious. If the witness regards the facts in a particular speculative or emotional light, facts will be apt, in memory, to accommodate themselves to this view, and details will get introduced or dropped out in such a manner as to aid the harmonious effect. Even apart from any special bias, the mere effort to make definite what has become dim may fill in the picture with wrong detail or the tendency to lighten the burden of retention may invest the whole occurrence with a spurious trenchancy and simplicity of form.82
+
+Other notable contributions to the psychology of testimony include Davey’s83 and Besterman’s84 papers about mediumistic seances, and discussions of testimony related to spontaneous phenomena.85
+
+Psychical researchers have also put forward explanations of mediumship based on subconscious elaboration and creativity. A case in point is Flournoy’s famous case of Hélène Smith, whose subconscious seemingly created complex mediumistic communications. The idea of the medium using her psychological resources to create artificial communicators was popularized by psychical researchers such as Joseph Maxwell 86 and René Sudre,87 also Charles Richet who argued that the talents of the unconscious showed even more variety than those of the conscious mind.88
+
+Certain influential psychological explanations of OBEs have been developed in the context of parapsychology, notably by Blackmore,89 Irwin,90 and Palmer,91 contributing to the orthodox view of mind’s potential to generate hallucinatory experiences.
+
+Some parapsychologists have challenged &nbsp;conventional explanations of specific phenomena through empirical tests, for instance failing to find evidence that the passage of time leads to accounts of near-death experiences being embellished,92 or that ESP tests necessarily suffer from sensory contamination.93&nbsp;
+
+Parapsychologists have also actively contributed to uncovering fraud. Examples include Eugène Osty’s94 photograph of a medium escaping control, Deborah Delanoy’s95 report of a case of a metal bender, and Stevenson, Pasricha and Samararatne’s96 discussion of reincarnation-type cases.  Clinical Issues
+
+As mentioned above, a psychotherapeutic literature exists in which ESP is considered in the context of dreams and other experiences. For example, Freud was initially uncommitted about the reality of telepathy, but later argued that there was nothing contradictory in the idea of telepathically communicated material being modified and transformed in a dream like any other material.97
+
+Twentieth century psychotherapists such as Ehrenwald98 and Eisenbud99 stated that taking seriously the possibility of ESP in therapy enabled them to make sense of certain clinical cases. Attention to ESP, a psychotherapist has recently argued, will bring more knowledge about the unconscious: ‘Psi is another royal road, perhaps an expressway, to the unconscious’.100
+
+Clinical psychologists, psychiatrists and counselors need to know this literature in order to be informed about the potential relationship of psychic phenomena with psychopathology, a subject that has&nbsp;received some recent attention.101 Otherwise they may conclude erroneously that a specific set of phenomena is unique to their patient’s experience, or misdiagnose it.
+
+This leads to the difficult problem of differential diagnosis between psychopathology and psychic phenomena. Renaud Evrard concludes from a review of the literature that this issue is far from simple:  
+
+There is no psychopathological category that can be applied uniformly because of the diversity of exceptional experiences and the situations in which they occur. Thus, the categories associated with dissociation and trauma have ambivalent links with exceptional experiences …102
+
+Evrard goes on to contest the idea that psychological models can encompass the dimensionality of exceptional experiences and their occasional pathological pathways, maintaining that trying to analyze the issue has not led to a solution.103
+
+Cardeña, Lynn and Krippner have stated:  
+
+Although AEs [anomalous experiences] and psychopathology may overlap in some cases, AEs are neither necessary nor sufficient causes for psychopathology. When researchers have identified an apparent link, it might have been mediated by the direct or interactive effect of other variables …104
+
+An obvious difference is the veridical aspect of an experience. A visual or auditory hallucination that contains information that can later be corroborated as true may represent a case of ESP. However, not all cases are clear cut. Evidence for ESP does not necessarily discount pathology without more general psychological information, such as evidence of various forms of adjustment. If a person who claims to experience psychic phenomena is well adjusted, this suggests that it is not necessarily born out of pathology.
+
+As yet we lack systematic studies contrasting pathological conditions with apparent non-pathological phenomena, for example psychotic hallucinations versus ESP hallucinations. We need to investigate other criteria, such as situational and childhood antecedents, cognitive and personality variables, and the specific features of the experiences (such as sensory modalities). Fortunately this work is beginning, however.105
+
+Some research may be interpreted to support the idea that parapsychological phenomena relate to pathological manifestations, for instance studies that show relationships between some forms of dissociation106 and temporal lobe problems.107 But this is not necessarily the case. Instead of there being a direct causal relationship it may be that certain variables can be seen in both psychic phenomena and pathology. Some processes may relate to a mental lability, or openness to many experiences, that is potentially pathological in specific contexts.
+
+Schizotypy – or perceptual and cognitive experiences that some consider to be associated to schizophrenia – has been found to be related to reports of psychic experiences.108 This was reported by Parra, although he pointed out that the former were less disorganized cognitively, while people who reported paranormal experiences that were subjectively more pleasant, tended to be less impulsive and more sociable, and to exhibit fewer eccentric behaviors, suggesting a high degree of self-control.109 In sum, psi experiences were related to positive schizotypy, and where they related to negative schizotypy the correlations were lower.
+
+Psychic experiences have also been found to relate to trauma,110 a topic that deserves more study. Investigating the relationship between paranormal, traumatic and dissociative experiences, Ross and Joshi &nbsp;111found psychic experiences to be a normal dissociative phenomenon. ‘Like dissociation in general … paranormal experiences can be activated by trauma, especially chronic childhood abuse. This is why paranormal experiences are more common among individuals who have been abused as children.’112
+
+In general, there is little evidence that psychic phenomena are pathological. This has been the conclusion in studies of OBEs,113 mediumship,114 and of children claiming to remember previous lives.115 Similarly, and against the beliefs of some, ESP has not been found to relate to schizophrenia.116
+
+However, it is possible that some psychic phenomena generate negative responses such as fear and even post-traumatic stress, described by one American transpersonal psychologist as follows: ‘One is fear; a second one is ‘I'm going crazy’ …; a third one is confusion – their reality is suddenly fractured’.117
+
+A therapist needs to have knowledge of various psychological conditions in order to help the patient. The same holds true here: to help a person cope with a psychic experience (assuming help is needed), it is necessary to know something about psychic phenomena. Hastings118 has suggested that such counseling may include:   	providing a sympathetic and empathic initial listening to the experiences and the concerns 	assuring the person that those experiences have happened to others and that they do not necessarily mean anything is wrong 	identifying the experience, providing a name for it to make it more normal (e.g., OBE) 	presenting information about what is known about the experience &nbsp;   Personal Transformation
+
+A psychic experience may lead to personal transformation, as indicated by respondents in various questionnaire studies.119 In one study, such changes included belief in life after death (68%), interest in spiritual and religious matters (66%), ability to express love (45%), and tolerance for others (46%).120
+
+Much research with NDEs has focused on after-effects, mainly claimed changes in attitudes and values.121 The authors of one study concluded that NDEs are ‘associated with an increased sense of spiritual well-being, and that the “deeper” the NDE, the more profound this effect’.122
+
+In one OBE study, people who have had the experience said it led to a change of perception of ‘yourself, who you are’ (61%), life, its meaning and purpose (51%), death, its meaning and purpose (51%), and the nature of human beings (42%).123
+
+It is important also to realize that such experiences can be disturbing and lead to negative after-effects.124 125&nbsp; This may arise from a sense of losing control, and the difficulty of dealing with the experience emotionally and intellectually.
+
+Some NDEs have had negative impacts on the experiencers to the point of requiring clinical help: inverse NDEs, with features that are perceived as threatening; void NDEs, that engender a sense of emptiness; and hellish NDEs, in which the experiencers perceives themselves to be in a highly negative hell-like region.126
+
+Perhaps it is to be expected that certain inherently threatening experiences such as possession and poltergeists may cause more anxiety than others, becoming a clinical problem,.  Social Issues
+
+Social and community psychologists may find it necessary to know something about&nbsp; the customs, beliefs, and practices of specific groups in order to solve problems and better understand their dynamics. This is certainly the case with regard to spiritualist séances with mediums. The social and therapeutic function of these practices is related, to some extent, to the beliefs of the practitioners in the powers of mediums.127 But they also depend on personal experiences with phenomena such as diagnosis and healing of medical conditions, trance, possession, and information about deceased persons and about previous lives. Psychologists can learn much about the social dynamics of these groups without needing to know the true explanations for the phenomena. The existence of real parapsychological phenomena can also help make sense of the situation, perhaps as a factor involved in the maintenance of beliefs.
+
+Similarly, certain beliefs and practices center around individuals outside the séance environment, as in the case of healers and religious-type phenomena.128 Many such occurrences prevail because the continuous manifestation of specific phenomena reinforce beliefs and associated practices.
+
+Italian physician and parapsychologist Piero Cassoli129 analyzed the case of a young woman in whose proximity a crucifix appeared to ‘cry’, and who saw visions of the virgin. He found the phenomena took place in a favorable psychosocial environment: the woman’s family were devoutly religious, believed strongly in the virgin, and had some contact with a well-known previous case. The point here is that culture and a specific social environment of a group may affect, shape, and maintain unexplained phenomena.  Expanding Human Potential
+
+To accept some of the phenomena of parapsychology would have clear implications for human potential, greatly expanding our ideas about our capabilities. ESP implies that we can perceive future events, information hidden at a distance, and the thoughts or intentions of a distant person. Furthermore, to accept that such phenomena have no conventional explanation carries conceptual implications about the nature of consciousness.
+
+The same may be said about affecting the environment physically, or causing healing or physiological changes in others at a distance,130 with implications extending to practical applications in the case of the latter particularly.  Nonphysicality
+
+The view of psychic phenomena as evidence of non-physical and non-biological interactions has led many to defend the concept of the mind being independent from the body.131 Much early parapsychological literature concerns spiritual ideas, for instance works such as Crowe’s The Night-Side of Nature132 and Myers’s Human Personality and Its Survival of Bodily Death.133 Myers argued that telepathy ‘is exercised by somewhat within us which is not generated from material elements, nor confined by mechanical limitations, but which may survive and operate uninjured in a spiritual world’.134
+
+For his part, American psychologist and philosopher William James discussed consciousness in terms of assumptions of ‘transmission’ (the mind is independent and acts via the nervous system) and ‘production’ (the mind is produced by the nervous system). In his view:  
+
+A medium … will show knowledge of his sitter’s private affairs which it seems impossible he should have acquired through sight or hearing, or inference therefrom. Or you will have an apparition of someone who is now dying hundreds of miles away. On the production-theory one does not see from what sensations such odd bits of knowledge are produced. On the transmission-theory, they don’t have to be ‘produced,’ – they exist ready-made in the transcendental world, and all that is needed is an abnormal lowering of the brain-threshold to let them through.135
+
+Later authors refer frequently to the nonphysical and nonlocal. The assumption that ESP and PK are nonphysical processes was popularized by JB Rhine in books such as The Reach of the Mind136 and New World of the Mind.137 &nbsp;His card-guessing and dice-throwing tests, he argued, showed that psi was independent of space (distance, obstacles) and time. He later wrote (with JG Pratt):  
+
+It is … the manifestly nonphysical character of parapsychical phenomena that for the present constitutes their only general identifying feature and marks them off from the rest of general psychology … The distinction … from physics is not, however, an absolute one. Rather they usually involve physical events or objects, either as stimuli or as effects. But there is always some distinct point at which a completely physical interpretation is manifestly inadequate.138
+
+But Rhine did not want to separate parapsychology from psychology. In fact he argued that, ‘What seems likely to have the greatest long-term consequence for psychology is the fact that parapsychology gives a degree of causal potentiality to the mental system to which psi belongs’.139
+
+In recent decades others have defended versions of this idea.140 For instance, psychologist Charles T Tart141 argues that psychic phenomena are incompatible with physicalist approaches. In his view, the findings of scientific parapsychology ‘force us to pragmatically accept that minds can do things… that cannot be reduced to physical explanations, given current scientific knowledge or reasonable extensions of it’.142 A particularly important contribution is the 2007 book Irreducible Mind by Edward Kelly and others, a thorough review of psychological, psychophysiological, and parapsychological research that defends the independent (nonlocal) status of mind.143
+
+Work on near-death experiences, reincarnation cases, mediumship and related topics has tended to promote ideas of transcendence. The consideration of NDEs, in particular, challenges materialist science to explain ‘how complex consciousness, including mentation, sensory perception, and memory, can occur under conditions in which current physiological models of mind deem impossible’.144
+
+It should be pointed out that parapsychology embraces diverse views, and the ideas summarized here are not necessarily all shared by its practitioners.145 But they have in common a tendency towards the view that mind is more than the physical body – a classic problem of psychology.  Bibliographical Note
+
+Much relevant material about the relationships between parapsychology and psychology appears in the writings of Beloff,146 Burt,147 Child,148 and Van Over.149 For reviews of the literature of psychological correlates of ESP and PK see Cardeña, Lynn &amp; Krippner,150 Cardeña, Palmer &amp; Marcusson-Clavertz,151 Carpenter,152 Irwin,153 and Schmeidler.154
+
+Other publications deal with important specific areas. The anthology compiled by George Devereux155 continues to be an excellent source for psychoanalytic writings related to ESP up to the 1950s. Also useful are publications on the use of psychic phenomena to support the idea of mind-body separation,156 clinical aspects of psychic phenomena,157 its relationship to humanistic psychology,158 speculations about mediumship and psychopathology,159 and aspects of the impact of parapsychology on psychology.160  Acknowledgements
+
+I wish to thank Nancy L Zingrone for useful editorial suggestions to improve this paper. James Carpenter helped me to improve my summary of his model of psi. I am also grateful to Renaud Evrard and Caroline Watt for references used in the article.  Literature
+
+Alvarado, C.S. (2009). Early and modern developments in the psychological approach to out-of-body experiences. In Psychological Scientific Perspectives on Out-of-body and Near-death Experiences, ed. by C.D. Murray, 1-22. New York: Nova Science.
+
+Alvarado, C.S. (2012). Psychic phenomena and the mind-body problem: Historical notes on a neglected conceptual tradition. In Exploring Frontiers of the Mind-Brain Relationship, ed. by A. Moreira-Almeida &amp; F.S. Santos, 35-51. New York: Springer Science+Business Media.
+
+Alvarado, C.S. &amp; Zingrone, N.L. (1994). Individual differences in aura vision: Relationship to visual imagery and imaginative-fantasy experiences.&nbsp; European Journal of Parapsychology 10, 1-30.
+
+Alvarado, C.S. &amp; Zingrone, N.L. (1997–98).&nbsp; Factors related to the depth of near-death experiences: Testing the “embellishment over time” hypothesis.&nbsp; Imagination, Cognition and Personality&nbsp;17, 339–44.
+
+Alvarado, C. S. &amp; Zingrone, N. L. (2003). Exploring the factors related to the aftereffects of out-of-body experiences. Journal of the Society for Psychical Research&nbsp;67, 161-83.
+
+Alvarado, C. S. &amp; Zingrone, N. L. (2007-8). Interrelationships of psychic experiences, dream recall and lucid dreams in a survey with Spanish participants. Imagination, Cognition and Personality&nbsp;27, 63-69.
+
+Alvarado, C.S. &amp; Zingrone, N.L. (2015). Features of out-of-body experiences: Relationships to frequency, wilfulness and previous knowledge about the experience. Journal of the Society for Psychical Research 79, 98-111.
+
+Barušs, I. (2003). Alterations of Consciousness: An Empirical Analysis for Social Scientists. Washington, DC: American Psychological Association.
+
+Barušs, I. &amp; Mossbridge, J. (2016). Transcendent Mind: Rethinking the Science of Consciousness. Washington, DC: American Psychological Association.
+
+Beloff, J. (1982). Psychical Research and Psychology. In Psychical Research: A Guide to its History, Principles and Practice, ed. by I. Grattan-Guinness, 303-15. Wellinborough, Northamptonshire: Aquarian Press.
+
+Beloff, J. (1990). The Relentless Question: Reflections on the Paranormal. Jefferson: McFarland.
+
+Besterman, T. (1931). The psychology of testimony in relation to paraphysical phenomena: Report of an experiment. Proceedings of the Society for Psychical Research 40, 363-87.
+
+Bierman, D.J., Spottiswoode, J. P. &amp; Bijl, A. (2016). Testing for questionable research practices in a meta-analysis: An example from experimental parapsychology. PloS one&nbsp;11/5, e0153049.&nbsp;
+
+Blackmore, S.J. (1984). A psychological theory of the out-of-body experience.&nbsp; Journal of Parapsychology&nbsp;48, 201-18.
+
+Burt, C. (1975). ESP and Psychology (compiled by A. Gregory). New York: Wiley.
+
+Bush, N.E., &amp; Greyson, B. (2003). Distressing near-death experiences: The basics. Missouri Medicine 111, 372-76.
+
+Cardeña, E., Lynn, S.J. &amp; Krippner, S. (eds.) (2014). Varieties of Anomalous Experiences (2nd ed.). Washington, DC: American Psychological Association.
+
+Cardeña, E., Lynn, S.J. &amp; Krippner, S. (2017). The psychology of anomalous experiences: A rediscovery. Psychology of Consciousness: Theory, Research and Practice&nbsp;4, 4-22.
+
+Cardeña, E., Palmer, J. &amp; Marcusson-Clavertz, D. (2015). Parapsychology: A Handbook for the 21st Century. Jefferson, NC: McFarland.
+
+Carpenter, J.C. (2012). First Sight: ESP and Parapsychology in Everyday Life. Lanham, MD: Rowman &amp; Littlefield.
+
+Cassoli, P. (1955). Di un caso di medianita a estrisecasione religiosa: Il "contagio psichico" in metapsichica e Angelina Ronza da Frignano D'Aversa. Luce e Ombra 55, 129-59.
+
+Child, I.L. (1982). Parapsychology and psychology. In Research in Parapsychology 1981, ed. by W.G. Roll, R.L. Morris &amp; R.A. White, 202-21. Metuchen, NJ: Scarecrow Press.
+
+Child, I. (1984). Implications of parapsychology for psychology. In&nbsp;Advances in Parapsychological Research, ed. by S. Krippner, M.L. Carlson, M. Ullman &amp; R.O. Becker,&nbsp;4, 165–82. Jefferson, NC: McFarland.
+
+Cornell, A.D. (1959). An experiment in apparitional observations and findings. Journal of the Society for Psychical Research 40, 120-24.
+
+Crowe, C. (1848). The Night-Side of Nature; Or, Ghosts and Ghost Seers (2 vols.). London: T.C. Newby.
+
+Dalton, K. (1997a). Exploring the links: Creativity and psi in the ganzfeld. Proceedings of Presented Papers: The 40th Annual Convention of the Parapsychological Association, 119-34.
+
+Dalton, K. (1997b). Is there a formula to success in the ganzfeld? Observations on predictors of psi-ganzfeld performance. European Journal of Parasychology 13, 71-82.
+
+Davey, S.J. (1887). The possibilities of malobservation and lapse of memory from a practical point of view: Experimental investigation. Proceedings of the Society for Psychical Research&nbsp;4, 405-95.
+
+Delanoy, D.L. (1987). Work with a fraudulent PK metal-bending subject. Journal of the Society for Psychical Research 54, 247-56.
+
+Devereux, G. (ed.). (1953). Psychoanalysis and the Occult. New York: International University Press.
+
+Ehrenwald, J. (1955). New Dimensions of Deep Analysis. London: George Allen &amp; Unwin.
+
+Eisenbud, J. (1970). Psi and Psychoanalysis. New York: Grune and Stratton.
+
+Evrard, R. (2013). Psychopathologie et expériences exceptionnelles: Une revue de la littérature. L’évolution Psychiatrique 78, 155–76.
+
+Eysenck, H.J. (1967). Personality and extra-sensory perception.&nbsp;Journal of the Society for Psychical Research 44, 55-70.
+
+Fach, W., Atmanspacher, H., Landolt, K., Wyss, T. &amp; Rossler, W. (2013). A comparative study of exceptional experiences of clients seeking advice and of subjects in an ordinary population.&nbsp;Frontiers of Psychology&nbsp;4, 65.
+
+Flournoy, T. (1900). From India to the Planet Mars. New York: Harper &amp; Brothers.
+
+Freud, S. (1953). The occult significance of dreams. In&nbsp;Psychoanalysis and the Occult, ed. by G. Devereux, 87-90. New York: International University Press. (First published in German in 1925)
+
+Gabbard, G.O., &amp; Twemlow, S.W. (1984). With the Eyes of the Mind: An Empirical Analysis of Out-of-body States. New York: Praeger Scientific.
+
+George, L. (1981). A survey of research into the relationships between imagery and psi. Journal of Parapsychology 45, 121-46.
+
+Gomez Montanelli, D. &amp; Parra, A. (2005). ¿Las experiencias paranormales son psicológicamente perturbadoras? Una encuesta comparando estudiantes universitarios y aficionados a temas paranormales. Revista Interamericana de Psicología/Interamerican Journal of Psychology&nbsp;39, 285-94.
+
+Greyson, B. (2010). Implications of near-death experiences for a postmaterialist psychology. Psychology of Religion and Spirituality 2, 37-45.
+
+Gurney, E., Myers, F.W.H. &amp; Podmore, F. (1886). Phantasms of the Living (2 vols.). London: Trubner.
+
+Haraldsson, E. (2003). Children who speak of past-life experiences: Is there a psychological explanation? Psychology and Psychotherapy: Theory Research and Practice&nbsp;76/1, 55-67.
+
+Haraldsson, E. &amp; Houtkooper, J.M. (1991). Psychic experiences in the Multinational Human Values Study: Who reports them? Journal of the American Society for Psychical Research 85, 145-65.
+
+Haraldsson, E. &amp; Houtkooper, J.M. (1992). Effects of perceptual defensiveness, personality and belief on extrasensory perception tasks. Personality and individual Differences 13, 1085-96.
+
+Hastings, A. (1983). A counseling approach to parapsychological experience. Journal of Transpersonal Psychology 15, 143-67.
+
+Healy, J. (1984).&nbsp; The happy princess: Psychological profile of a psychic. Journal of the Society for Psychical Research&nbsp;52, 289-96.
+
+Hearne, K.M.T. (1989). A questionnaire and personality study of self-styled psychics and mediums. Journal of the Society for Psychical Research 55, 404-11.
+
+Honorton, C. (1977). Psi and internal attention states. In&nbsp;Handbook of Parapsychology, ed. by B.B. Wolman, 435-72. New York: Van Nostrand Reinhold.
+
+Honorton, C. (1997). The ganzfeld novice: Four predictors of initial ESP performance. Journal of Parapsychology 61, 143–58.
+
+Irwin, H.J. (1979). Psi and the Mind: An Information-processing Approach. Metuchen, NJ: Scarecrow Press.
+
+Irwin, H.J. (1985). Parapsychological phenomena and the absorption domain. Journal ofthe American Society for Psychical Research 79, 1-11.
+
+Irwin, H.J. (2000). The disembodied self: An empirical study of dissociation and the out-of-body experience. Journal of Parapsychology 64, 261-77.
+
+Irwin, H.J. &amp; Watt, C. (2007). An Introduction to Parapsychology (5th ed.). Jefferson, NC: McFarland.
+
+James, W. (1898). Human Immortality. Boston: Houghton Mifflin.
+
+Kelly, E. F., Kelly, E. W., Crabtree, A., Gauld, A., Grosso, M. &amp; Greyson, B. (2007). Irreducible Mind: Toward a Psychology for the 21st Century. Lanham: Rowman &amp; Littlefield.
+
+Kennedy, J.E. &amp; Kanthamani, H. (1995). An exploratory study of the effects of paranormal and spiritual experiences on peoples’ lives and well-being. Journal of the American Society for Psychical Research&nbsp;89, 249-65.
+
+Khanna, S. &amp; Greyson, B. (2013). Near-death experiences and spiritual well-being. Journal of Religion and Health&nbsp;53, 1605-15.
+
+Kramer, W., Bauer, E. &amp; Hövelmann, G. (2012). Perspectives of Clinical Parapsychology&nbsp;: An Introductory Reader. Bunnik: Stichting HJBF.
+
+Krippner, S. (1978). The interface between parapsychology and humanistic psychology. In&nbsp;The Signet Handbook of Parapsychology, ed. by M. Ebon, 79-87. New York: New American Library.
+
+Lawrence, T. (1993). Gathering in the sheep and the goats... : A meta-analysis of forced-choice sheep-goat ESP studies, 1947-1993. &nbsp;Paper presented at the 1993 Convention of the Parapsychological Association, Toronto, Canada, August.
+
+Le Malefan, P. (1999). Folie et Spiritisme: Histoire du Discourse Psychopathologique sur la Pratique du Spiritisme, ses Abords et ses Avatars (1850–1950). Paris: L’Hartmattan.
+
+Marcusson-Clavertz, D. &amp; Cardeña, E., (2011). Hypnotizability, alterations in consciousness, and other variables as predictors of performance in a gan­zfeld psi task. Journal of Parapsychology 75, 235–59.
+
+Maxwell, J. (1905). Metapsychical Phenomena: Methods and observations. London: Duckworth. (First published in French in 1903).
+
+May, E.C. (2017). Defending physicalism [video interview] New Thinking Allowed.
+
+Moreira-Almeida, A., Lotufo Neto, F. &amp; Greyson, B. (2007). Dissociative and psychotic experiences in Brazilian Spiritist mediums. Psychotherapy and&nbsp; Psychosomatics 76, 57-58.
+
+Morselli, E. (1908). Psicologia e “Spiritismo” (2 vols.). Turin: Fratelli Bocca.
+
+Mossbridge, J., Tressoldi, P. &amp; Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: A meta-analysis. Frontiers in Psychology 3, 1-18.&nbsp;
+
+Myers, F.W.H. (1903). Human Personality and its Survival of Bodily Death (2 vols.). London: Longmans, Green.
+
+Myers, S.A., Austrin, H.R., Grisso, J.T. &amp; Nickesson, R.C. (1983). Personality characteristics as related to the out-of-body experience. Journal of Parapsychology 47, 131-44.
+
+Osty, E. (1926). Pascal Forthuny: Une faculte de connaissance supra-normale. Paris: Félix Alcan.
+
+Osty, E. (1930). Le médium Stanislawa P. à l’Institut Métapsychique de Paris: Comédie médiumnique. Revue Métapsychique&nbsp;6, 515-28.
+
+Palmer, J. (1978a). Extrasensory perception: Research findings. In&nbsp;Advances in Parapsychological Research: Vol. 2: Extrasensory Perception, ed. by&nbsp;S. Krippner, 59-243. New York: Plenum Press.
+
+Palmer, J. (1978b). The out-of-the body experience: A psychological theory. Parapsychology Review 9/5,&nbsp;19-22.
+
+Palmer, J. (1979). A community mail survey of psychic experiences. Journal of the American Society for Psychical Research 73,&nbsp;221-51.
+
+Palmer, J. (1983). Sensory contamination of free-response ESP targets: The greasy fingers hypothesis. Journal of the American Society for Psychical Research 77, 101-13.
+
+Palmer, J. (2015). Implicit anomalous cognition. In Parapsychology: A Handbook for the 21st Century, ed. by E. Cardeña, J. Palmer, &amp; D. Marcusson-Clavertz, 215-29. Jefferson, NC: McFarland.
+
+Palmer, J. &amp; Millar, B. (2015). Experimenter effects in parapsychology research. In Parapsychology: A Handbook for the 21st Century, ed. by E. Cardeña, J. Palmer &amp; D. Marcusson-Clavertz, 293-300. Jefferson, NC: McFarland.
+
+Parker, A. (2000). A review of the ganzfeld work at Gothenberg University. Journal of the Society for Psychical Research 64, 1-15.
+
+Parker, A. (2015). The jungle of hypnotic psi: Part 2. Research on relationships between psi and hypnosis. Journal of Parapsychology 79, 37-52.
+
+Parker, A. (2017). Ganzfeld ESP. Psi Encyclopedia. London: Society for Psychical Research.
+
+Parra, A. (2009-2010). Out-of-body experiences and hallucinatory experiences: A psychological approach. Imagination, Cognition and Personality&nbsp;29, 211-24.
+
+Parra, A. (2012). Relación entre las experiencias paranormales y esquizotipia positiva/negativa. Acta Psiquiátrica y Psicológica de América Latina 58, 246-55.
+
+Parra, A. (2013a). Cognitive and emotional empathy in relation to five paranormal/anomalous experiences. North American Journal of Psychology&nbsp;15, 405-12.
+
+Parra, A. (2013b). A phenomenological examination of premonition experiences in dreams and waking states: A survey study. Australian Journal of Parapsychology 13, 187-212.
+
+Parra, A. &amp; Argibay, J.C. (2016). The boundary construct and anomalous experiences in psychics. Journal of the Society for Psychical Research 80, 13-23.
+
+Parra, A. &amp; Corbetta, J.M. (2014). Changes resulting from paranormal/spiritual experiences and their effects on people’s wellbeing: An exploratory examination. Journal for the Study of Spirituality 4, 71-80.
+
+Parra, A. &amp; Villanueva, J. (2003). Personality factors and ESP during ganzfeld session. Journal of the Society for Psychical Research 67, 870, 26-36.
+
+Pekala, R.J., Kumar, V.K. &amp; Cummings, J. (1992). Types of high hypnotically-susceptible individuals and reported attitudes and experiences of the paranormal and the anomalous. Journal of the American Society for Psychical Research 86, 135-50.
+
+Persinger, M.A. (1984). Propensity to report paranormal experiences is correlated with temporal lobe signs. Perceptual and Motor Skills 59, 583-86.
+
+Progoff, I. (1964). The Image of an Oracle: A Report on Research into the Mediumship of Eileen J. Garrett. New York: Garrett Publications.
+
+Rabeyron, T. &amp; Watt, C. (2010). Paranormal experiences, mental health and mental boundaries, and psi. Personality and Individual Differences 48, 487-92.
+
+Rattet, S.L. &amp; Bursik, K. (2001). Investigating the personality correlates of paranormal belief and precognitive experience. Personality and Individual Differences 31, 433-44.
+
+Rhine, J.B. (1947). The Reach of the Mind. New York: William Sloane.
+
+Rhine, J.B. (1953). New World of the Mind. New York: William Sloane.
+
+Rhine, J.B. (1969). Psi-missing re-examined. Journal of Parapsychology 33, 1-38.
+
+Rhine, J.B. (1972). Parapsychology and man. Journal of Parapsychology 36, 101-21.
+
+Rhine, J.B. &amp; Pratt, J.G. (1957). Parapsychology: Frontier Science of the Mind. Springfield, IL: Charles C Thomas.
+
+Rhine, L.E. (1953). Subjective forms of spontaneous psi experiences. Journal of Parapsychology 17, 77-114.
+
+Rhine, L.E. (1962). Psychological processes in ESP experiences. Part I. Waking experiences. &nbsp;Journal of Parapsychology 26, 88-111.
+
+Richards, D. (1991). A study of the correlations between subjective psychic experiences and dissociative experiences. Dissociation 4, 83-91.
+
+Richet, C. (1922). Traité de Métapsychique. Paris: Félix Alcan.
+
+Roe, C.A., Sonnex, C. &amp; Roxburgh, E.C. (2015). Two meta-analyses of noncontact healing studies. Explore&nbsp;11, 11-23.
+
+Rogo, D.S. (1986). ESP and schizophrenia: An analysis from two perspectives. Journal of the Society for Psychical Research 51, 329-42.
+
+Roll, W.G. (1972). The Poltergeist. Garden City, NY: Doubleday.
+
+Rommer, B. (2000). Blessing in Disguise: Another Side of the Near-Death Experience. St. Paul, MN: Llewellyn.
+
+Rosenbaum, R. (2011). Exploring the other dark continent: Parallels between psi phenomena and the psychotherapeutic process. Psychoanalytic Review&nbsp;98, 57-90.
+
+Ross, C.A. &amp; Joshi, S. (1992). Paranormal experiences in the general population. Journal of Nervous and Mental Disease&nbsp;180, 357-61.
+
+Roxburgh, E.C. &amp; Roe, C, (2011). A survey of dissociation, boundary thinness, and psychological wellbeing in spiritualist mental mediumship.&nbsp;Journal of Parapsychology 75, 279-99.
+
+Saltmarsh, H.F. (1934). Report on cases of apparent precognition. Proceedings of the Society for Psychical Research&nbsp;42, 49-103.
+
+Schmeidler, G.R. (1958). Analysis and evaluation of proxy sittings with Mrs. Caroline Chapman. Journal of Parapsychology&nbsp;22, 137-55.
+
+Schmeidler, G.R. (1988). Parapsychology and Psychology: Matches and Mismatches. Jefferson, NC: McFarland.
+
+Schmeidler, G.R. &amp; McConnell, R.A. (1958). ESP and Personality Patterns. New Haven, CT: Yale University Press.
+
+Schwartz, S.A. &amp; Dossey, L. (2010). Nonlocality, intention, and observer effects in healing studies: Laying a foundation for the future. Explore&nbsp;6, 295-307.
+
+Schwebel, L.J. (2004). Apparitions, Healings, and Weeping Madonnas: Christianity and the Paranormal. New York: Paulist Press.
+
+Scimeca, G., Bruno, A., Pandolfo, G, La Ciura, G, Zoccali, R.A. &amp; Muscatello, M.R. (2015). Extrasensory perception experiences and childhood trauma: A Rorschach investigation. Journal of Nervous and Mental Disease 203, 856-63.
+
+Sherwood, S.J. &amp; Roe, C. A. (2013). An updated review of dream ESP studies conducted since the Maimonides dream ESP program. In&nbsp;Advances in Parapsychological Research 9, ed. by S. Krippner, A.J. Rock, J. Beischel &amp; H. Friedman, 38-81). Jefferson, NC: McFarland.
+
+Simmonds-Moore, C. (2009-2010). Sleep patterns, personality, and subjective anomalous experiences. Imagination, Cognition, and Personality&nbsp;29, 71-86.
+
+Soto Espinosa, J. &amp; Koss-Chioino, J.D. (2014). Puerto Rican Spiritism (Espiritismo): Social context, heling process, mental health. In&nbsp;Caribbean Healing Traditions: Implications for Health and Mental Health, ed. by P. Sutherland, R. Moodley &amp; B. Chevannes, 114-25. New York: Routledge.
+
+Stanford, R.G. &amp; Stein, A.G. (1994) A meta-analysis of ESP studies contrasting hypnosis and a comparison condition. Journal of Parapsychology 58, 235-70
+
+Stevenson, I. (1970). Telepathic Impressions: A Review and Report of 35 New Cases. Charlottesville, VA: University Press of Virginia
+
+Stevenson, I. (1992). A series of possibly paranormal recurrent dreams. Journal of Scientific Exploration 6, 282-90.
+
+Stevenson, I., Pasricha, S. &amp; Samararatne, G. (1988). Deception and self-deception in cases of the reincarnation type: Seven illustrative cases in Asia. Journal of the American Society for Psychical Research 82, 1-31.
+
+Storm, L. &amp; Tressoldi, P.E. (2017). Gathering in more sheep and goats: A meta-analysis of forced-hoice sheep-goat ESP studies, 1994–2015.&nbsp; Journal of the Society for Psychical Research 81, 79-107.
+
+Sudre, R. (1926). Introduction à la Métapsychique Humaine. Paris: Payot.
+
+Sutherland, C. (1995). Reborn in the Light: Life after Near-Death Experiences. New York: Bantam Books.
+
+Tart, C.T. (2009). The End of Materialism: How Evidence of the Paranormal is bringing Science and Spirit together. Oakland: New Harbinger.
+
+Tenhaeff, W.H.C. (1958). Uber die Anwendung paranormaler Fahhigkeiten. Zeitschrift fur Parapsychologie und Grenzgebiete der Psychologie 2, 10-20.
+
+Tenhaeff, W.H.C. (1964). A contribution to the understanding of the personality structure of paragnosts. Journal of Parapsychology 28, 292 (abstract).
+
+Thalbourne, M.A. (2004). The Common Thread Between ESP and PK (Parapsychological Monograph No. 19). New York: Parapsychology Foundation.
+
+Tucker, J.B. &amp; Nidiffer, F.D. (2014). Psychological evaluation of American children who report memories of previous lives. Journal of Scientific Exploration 28, 583-94.
+
+Tyrrell, G.N.M. (1946). The modus operandi of paranormal cognition. Proceedings of the Society for Psychical Research 48, 65-120.
+
+Tyrrell, G.N.M. (1953). Apparitions. London: Gerald Duckworth.
+
+Usha, S. &amp; Pasricha, S. (1989). Claims of paranormal experiences – I. &nbsp;A survey of psi and psi-related experiences. NIMHANS Journal 7, 143-50.
+
+Van Over, R. (Ed.). (1972). Psychology and Rxtrasensory Perception. New York: New American Library.
+
+Watt, C. (2005). Parapsychology’s contribution to psychology: A view from the front line. Journal of Parapsychology 69, 215-32.
+
+West, D.J. (1948). The investigation of spontaneous cases.&nbsp;Proceedings of the Society for Psychical Research&nbsp;48, 264-300.
+
+West, D.J. (1960). Visionary and hallucinatory experiences: A comparative appraisal. International Journal of Parapsychology 2, 89-100.
+
+Zingrone, N. L., Alvarado, C. S. &amp; Agee, N. (2009). Psychological correlates of aura vision: Psychic experiences, dissociation, absorption, and synaesthesia-like experiences. Australian Journal of Clinical and Experimental Hypnosis&nbsp;37, 131-68.
+
+Zusne, L. &amp; Jones, W.H. (1982). Anomalistic Psychology: A Study of Extraordinary Phenomena of Behavior and Experience. Hillsdale, NJ: Erlhaum.   Endnotes 1. Myers (1903). 2. Tyrrell (1946). 3. L. Rhine (1953). 4. Stevenson (1970), 61-62. 5. Ehrenwald (1955). 6. Eisenbud (1970). 7. Stevenson (1992). 8. Rhine and Pratt (1957). 9. Rhine (1969). 10. Carpenter (2012). 11. Schmeidler &amp; McConnell (1958). 12. Lawrence (1993). 13. Storm &amp; Tressoldi (2017). 14. e.g., Parra &amp; Villanueva (2003). 15. Dalton (1997a). 16. Palmer (1978a). 17. George (1981). 18. Haraldsson &amp; Houtkooper (1992). 19. Stanford and Stein (1994). 20. Parker (2015). 21. Barušs (2003). 22. Sherwood &amp; Roe (2013). 23. Bierman et al (2016); Parker (2017) 24. Dalton (1997b); Parker (2000). 25. Parker (2000), 68. 26. e.g., Dalton (1997b); Parker (2017). 27. Honorton (1997). 28. Marcusson-Clavertz &amp; Cardeña (2011). 29. Palmer &amp; Millar (2015). 30. Mossbridge, Tressoldi &amp; Utts (2012). 31. e.g., Alvarado &amp; Zingrone (2007-2008); Palmer (1979). 32. Alvarado and Zingrone (1994). 33. Myers et al (1983). 34. Irwin (1985). 35. Parra &amp; Argibay (2016). 36. Richards (1991). 37. Parra (2013a). 38. Pekala et al (1992). 39. Simmonds-Moore (2009-10). 40. Rattet, &amp; Bursik, (2001). 41. Parra (2009-10). 42. Roxburgh &amp; Roe (2011). 43. Zingrone et al (2009). 44. Haraldsson (2003). 45. Flournoy (1900). 46. Morselli (1908). 47. Osty (1926). 48. Tenhaeff (1958). 49. Tenhaeff (1964), 292. 50. Schmeidler (1958), 155. 51. Progoff (1964). 52. Hearne (1989). 53. e.g., Healy (1984). 54. e.g., Roll (1972). 55. Myers (1903). 56. Rhine and Pratt (1957). 57. Carpenter (2012). 58. Rhine &amp; Pratt (1957), 88-89. 59. Honorton (1977). 60. Irwin (1979). 61. Thalbourne (2004). 62. Carpenter (2012). 63. Eysenck (1967). 64. Palmer (1978a). 65. Roll (1972). 66. Tyrrell (1953). 67. Alvarado (2009). 68. Haraldsson and Houtkooper (1991). 69. Haraldsson and Houtkooper (1991), 157. 70. Palmer (1979); Zingrone, Alvarado &amp; Agee (2009). 71. e.g., Parra (2013a); Usha &amp; Pasricha (1989). 72. Ross &amp; Joshi (1992), 360. 73. Irwin &amp; Watt (2007). 74. Alvarado &amp; Zingrone (2015). 75. Parra (2013b). 76. L.E. Rhine (1962). 77. Saltmarsh (1934). 78. Stevenson (1970). 79. Alvarado &amp; Zingrone (2015). 80. e.g., Zusne &amp; Jones (1982). 81. Gurney et al (1886). 82. Gurney, Myers &amp; Podmore (1886) Vol. 1, xviii. 83. Davey (1887). 84. Besterman (1931). 85. Cornell (1959); West (1948). 86. Maxwell (1903/5). 87. Sudre (1926). 88. Richet (1922), 50. 89. Blackmore (1984). 90. Irwin (2000). 91. Palmer (1978b). 92. Alvarado &amp; Zingrone (1997–98). 93. Palmer (1983). 94. Osty (1930). 95. Delanoy (1987). 96. Stevenson et al (1988). 97. Freud (1925/1953a), 90. 98. Ehrenwald (1955). 99. Eisenbud (1970). 100. Rosenbaum (2011), 84. 101. Evrard,(2013); Kramer et al (2012). 102. Evrard (2013), 171. 103. e.g., West (1960). 104. Cardeña et al (2017), 10. 105. Fach et al (2013). 106. Ross &amp; Joshi (1992). 107. Persinger (1984). 108. Parra (2012); Simmonds-Moore (2009-10). 109. Parra (2012), 252. 110. e.g., Rabeyron &amp; Watt (2010); Scimeca et al (2015). 111. Ross &amp; Joshi (1992). 112. Ross &amp; Joshi (1992), 360. 113. Gabbard &amp; Twemlow (1984). 114. Moreira-Almeida et al (2007). 115. Tucker &amp; Nidiffer (2014). 116. Rogo (1986). 117. Hastings (1983), 147-48. 118. Hastings (1983). 119. e.g., Kennedy &amp; Kanthamani (1995); Parra &amp; Corbetta (2014). 120. Kennedy &amp; Kanthamani (1995). 121. e.g., Khanna &amp; Greyson (2013); Sutherland (1995). 122. Khanna &amp; Greyson (2013), 1611-12. 123. Alvarado &amp; Zingrone (2003). 124. e.g., Rommer (2000). 125. Gomez Montanelli &amp; Parra (2005). 126. Bush &amp; Greyson (2003). 127. Soto Espinosa &amp; Koss-Chioino (2014). 128. Schwebel (2004). 129. Cassoli (1955). 130. Roe, Sonnex &amp; Roxburgh (2015). 131. Alvarado (2012). 132. Crowe (1848). 133. Myers (1903). 134. Myers (1903) Vol. 1, 24. 135. James (1898), 26. 136. Rhine (1947). 137. Rhine (1953). 138. Rhine &amp; Pratt (1957), 6, italics in the original. 139. Rhine (1972), 114. 140. Barušs &amp; Mossbridge (2016); Beloff (1990); Schwartz &amp; Dossey (2010). 141. Tart (2009). 142. Tart (2009), 241. 143. Kelly et al (2007). 144. Greyson (2010), 43. 145. e.g., May (2017). 146. Beloff (1982). 147. Burt (1975). 148. Child (1982; 1984). 149. Van Over (1972). 150. Cardeña, Lynn &amp; Krippner (2014). 151. Cardeña et al (2015). 152. Carpenter (2012). 153. Irwin (1979). 154. Schmeidler (1988). 155. Devereux (1953). 156. Alvarado (2012). 157. Kramer et al (2012). 158. Krippner (1978). 159. Le Maléfan (1999). 160. Watt (2005).           			  			     			This page was last updated on: October 31, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Carlos S. Alvarado Word count: 8,600 Created: 31st October 2017 Last updated: 31st October 2023 May be cited as:Alvarado, C. S. (2017). &lsquo;Psychology and Parapsychology&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yyov3gx6                   	                                                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology

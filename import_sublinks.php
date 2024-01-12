@@ -2,14 +2,12 @@
 
 error_reporting(E_ALL);
 ini_set('display_errors', 'On');
-
-
 ini_set('memory_limit', '512M');
 ini_set('max_execution_time', '300');
 include_once "header.php";
 include_once "functions_add.php";
 include_once "simple_html_dom.php";
-$_content = new \SleekDB\Store("content", __DIR__ . "/sdb/data");
+
 
 ?>
     <script>
@@ -91,11 +89,14 @@ if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
     $regexp = "(.*?)<a .*?href=\"(.*?)\".*?>(.*?)<\/a>(.*)";
     if(preg_match_all("/$regexp/m", file_get_contents($_POST['myurl']), $matches, PREG_SET_ORDER)) {
         $displayed = [];
-        $imported_ = $_content->findBy(["type", "=", "link"]);
+
+
         $imported = [];
-        foreach($imported_ as $i) {
-            $imported[] = $i['mylink'];
+        $imported_ = $db->query("SELECT * FROM content WHERE type='link';");
+        while ($a = $imported_->fetchArray(SQLITE3_ASSOC)) {
+            $imported[] = $a['mylink'];
         }
+
         foreach($matches as $key => $match) {
             // $match[2] = link address
             // $match[3] = link text
@@ -126,7 +127,6 @@ if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
 
             echo "</tr>";
             $displayed[] = $inlink;
-            //add($intitle, $intext, $inlink, $intype);
         }
     }
 }

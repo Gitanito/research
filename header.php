@@ -1,49 +1,14 @@
 <?php
 
+
+ini_set('memory_limit', '512M');
+ini_set('max_execution_time', '300');
 error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 
-require_once "sdb/Store.php";
-$_wordindex = new \SleekDB\Store("wordindex", __DIR__ . "/sdb/data");
-
-/*
-$_wordindex_ser = [];
-include_once ("wordindex.php");
-$_wordindex = unserialize($_wordindex_ser);
+$db = new SQLite3('data/sqlite3database.db');
 
 
-$indexStore = new \SleekDB\Store("myindex", __DIR__ . "/sdb/data");
-
-$article = [
-    "title" => "Google Pixel XL",
-    "about" => "Google announced a new Pixel!",
-    "author" => [
-        "avatar" => "profile-12.jpg",
-        "name" => "Foo Bar"
-    ]
-];
-$results = $indexStore->insert($article);
-$allNews = $indexStore->findAll();
-
-print_r($allNews);
-$indexStore->deleteStore();
-*/
-
-function findPage($keyword) {
-    global $_wordindex;
-
-    if (strstr($keyword, '.html')) return $keyword;
-    if (trim($keyword) != "") {
-        $k = $_wordindex->findBy(["name", "=", $keyword]);
-        if (isset($k[0]['value'])) {
-            if (strstr($k[0]['value'], ".html")) {
-                return $k[0]['value'];
-            } else {
-                return findPage($k[0]['value']);
-            }
-        }
-    }
-}
 if (!isset($silent) || !$silent) {
 ?>
 <!doctype html>

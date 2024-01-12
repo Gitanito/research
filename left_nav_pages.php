@@ -1,8 +1,6 @@
 <?php
 include_once "header.php";
 
-$_additionals = new \SleekDB\Store("additionals", __DIR__ . "/sdb/data");
-
 ?>
 <script>
     $(document).ready(function(){
@@ -37,7 +35,8 @@ $_additionals = new \SleekDB\Store("additionals", __DIR__ . "/sdb/data");
             <p class="card-text">
                 <ul>
                 <?php
-                    foreach ($_wordindex->findAll() as $obj) {
+                    $entries = $db->query("SELECT * FROM wordindex LIMIT 20;");
+                    while ($obj = $entries->fetchArray(SQLITE3_ASSOC)) {
                         // $key => $wi
                         if (substr($obj['name'],0, 1) != "_") {
                             echo "<li><a href='wiki/".findPage($obj['value'])."' target=main>".$obj['name']."</a>";
@@ -47,12 +46,6 @@ $_additionals = new \SleekDB\Store("additionals", __DIR__ . "/sdb/data");
                                 echo " <a href='wordindex_edit.php?action=del&key=".$obj['name']."' target=main title='Synonym entfernen'> - </a>";
                             }
                             echo "</li>";
-                            $a = $_additionals->findBy(["name", "=", $obj['name']]);
-                            if (isset($a[0]['value'])) {
-                                foreach ($a[0]['value'] as $p) {
-                                    echo "<li>&nbsp;&nbsp;&nbsp;<a href='wiki/".$p.".html' target=main>".$p."</a></li>";
-                                }
-                            }
                         }
                     }
                 ?>

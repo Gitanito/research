@@ -1,0 +1,519 @@
+{"name":"William Crookes | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/william-crookes","mytitle":"William Crookes | Psi Encyclopedia","mylang":"de"}
+                     William Crookes | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           William Crookes                                                                                                                                                                                                                          William Crookes was the first British scientist of note to engage in psychical research, conducting experiments with Daniel Home and other mediums in the 1870s. His claim to have discovered a new ‘psychic force’ was strongly contested by other scientists, but his reports continue to be widely cited and discussed today.   Contents   	Brief Biography 	Interest in Spiritualism 	Attitudes to Psychic Claims 	DD Home 	Materializations with Florence Cook 	Other Investigations  	Kate Fox 	Charles Williams 	Fraudulent Mediums   	Telepathy 	Statements About Survival 	Influence and Criticism  	Scientific Critiques 	William Carpenter 	Responses to Criticism 	Spiritualist Critiques 	Other Critiques 	Trevor Hall   	Scholarship 	Acknowledgements 	Literature 	Endnotes     Brief Biography
+
+William Crookes was born on June 17, 1832, to tailor Joseph Crookes and Mary Scott. His early instruction came from private tutors and a boarding school, and from a brief stay at Prospect House, a college. He lacked formal university education, but in 1848 attended the Royal College of Chemistry in London, and soon afterwards was engaged as an assistant by German chemist August Wilhelm Hofmann. In 1856 Crookes married Ellen Humphrey, who shared his later interest in spiritualism.1
+
+Crookes went on to hold various positions, including superintendent of the Meteorological Department of the Radcliffe Astronomical Observatory at Oxford (1854), teacher of chemistry at the College of Science in Chester (1855), and secretary of the London Photographic Society (1857). He was president of the Institution of Electrical Engineers (1890) and of the Royal Society (1913-1915).
+
+Over the years Crookes became well-known for pioneering researches in chemistry and physics: among other things, he discovered the element thallium, invented the radiometer and studied cathode rays. He was named a fellow of the Royal Society in 1863, was knighted in 1897, and in 1910 received the Order of Merit, among many other awards and honours.
+
+Crookes profited from his scientific work by engaging in business enterprises that ranged from ‘water analyses, sewerage schemes, and gold mining to the design of electric bulbs’.2 He accumulated 17 patents for inventions such as the radiometer, improvements in a spectrum camera, incandescent lamps, and the treatment of water gas.3&nbsp;
+
+He also worked as a science journalist and editor, founding in 1859 the journal Chemical News and in 1864 the Quarterly Journal of Science, which later carried reports of some of his work with mediums. He contributed to the production of other journals, editing a new edition of Michael Faraday’s On the Various Forces of Nature and Their Relations to Each Other and Rudolf von Wagner’s Manual of Chemical Technology, which he also translated. Among his many published papers are to be found discussions of methods of chemical analysis,4 the atomic weight of thallium,5&nbsp; attraction and retraction from radiation,6 &nbsp;trajectory of molecules,7 and viscosity of gases.8 &nbsp;He also published on topics other than chemistry and physics, among them beetroot sugar,9 dyeing and calico-printing,10&nbsp; and diamonds.11  Interest in Spiritualism
+
+When Crookes started his psychical researches, spiritualism was already well-established in the UK. Published accounts of the feats of Daniel Dunglas Home were bringing the subject to a wide public,12 and mediums were holding seances, both for the public and in private circles.13&nbsp; The movement variously featured the appearance of new periodicals such as the Spiritual Magazine and The Spiritualist, the involvement of Alfred Russel Wallace (biologist and co-discoverer of the theory of evolution by natural selection),14 sceptical reports by Michael Faraday15 and William B Carpenter,16 and investigations by the London Dialectical Society, a rationalists club.17 &nbsp;Debate raged about the genuineness of the phenomena, leading to a clash between materialistic and spiritual views and to competing ideas about science, nature and knowledge.18  Attitudes to Psychic Claims
+
+Crookes claimed later that he started to investigate mediumship with no preconceptions. However, there are indications that early on he was inclined towards a belief in survival of death, having been moved to hold séances by the death of his brother Philip, who succumbed to yellow fever in 1867 aged 21 while working in the Caribbean. During a sitting the following year the medium Frank Hearne ‘began to be controlled by Philip who seemingly spoke so effectively to Crookes that Crookes was moved to tears and [reached the] conviction that he really was receiving a message from his deceased brother’.19
+
+In a diary entry for December 31, 1870, Crookes reminisced about how he and his wife had spent the previous New Years Eve ‘sitting together in communion with dear departed friends, and as 12 o’clock struck they wished us many happy New Years. I feel they are looking on now’.20 The following year he remarked that he had ‘been working at the subject for two years, and have found nine or ten different persons who possess psychic power in more or less degree’.21
+
+Crookes read at an early stage the book Planchette, or the Despair of Science by Epes Sargent,22 an American popularizer of spiritualism. He was initiated into Eliphas Lévi French occultist group in the 1870s, and in 1883 joined a London theosophical group.
+
+However, his approach to claims of séance phenomena was also that of the scientist. In 1869, he told physicist John Tyndall that he had sometimes witnessed phenomena that ‘appeared beyond the domain of any known physical force’,23 and that this had roused his curiosity to investigate, but under his control, and away from enthusiasts, since spiritualists could be ‘the most credulous of mortals’.24 He preferred to work alone, and told Tyndall he had declined to join a committee investigating spiritualism convened by the London Dialectical Society,25 attending only as a visitor.
+
+In an initial article Crookes defended himself against the suggestion that the results of his psychical researches had been ‘unsatisfactory’. It was commented in&nbsp;The Athenaeum&nbsp;that&nbsp;'Mr. Crookes, editor of the Chemical News, is engaged in an investigation on spiritualism, but, it is said, with far from satisfactory results’26 &nbsp;On the contrary:  
+
+That certain physical phenomena, such as the movement of material substances, and the production of sounds resembling electric discharges, occur under circumstances in which they cannot be explained by any physical law at present known, is a fact of which I am as certain as I am of the most elementary fact in chemistry.27
+
+However inexplicable they might be the &nbsp;phenomena deserved investigation, Crookes insisted. But he also deplored the general indifference on the part of many spiritualists to the provision of adequate evidence and their tendency to generalize beyond facts, and beyond their knowledge: a scientist was concerned with low level and precise measurements in order to say something about physical effects, rather than in spectacular phenomena of high magnitude.  The spiritualist tells of bodies weighing 50 or 100 lbs. being lifted up into the air without the intervention of any known force; but the scientific chemist is accustomed to use a balance which will render sensible a weight so small that it would take ten thousand of them to weigh one grain; he is, therefore, justified in asking that a power, professing to be guided by intelligence, which will toss a heavy body up to the ceiling, shall also cause his delicately-poised balance to move under test conditions.
+
+The spiritualist tells of tapping sounds which are produced in different parts of a room when two or more persons sit quietly round a table. The scientific experimenter is entitled to ask that these taps shall be produced on the stretched membrane of his phonautograph [a sound recording device] …
+
+The spiritualist tells of heavy articles of furniture moving from one room to another without human agency. But the man of science has made instruments which will divide an inch into a million parts; and he is justified in doubting the accuracy of the former observations, if the same force is powerless to move the index of his instrument one poor degree …
+
+The spiritualist tells of manifestations of power, which would be equivalent to many thousands of ‘foot-pounds,’ taking place without known agency. The man of science, believing firmly in the conservation of force, and that it is never produced without a corresponding exhaustion of something to replace it, asks for some such exhibitions of power to be manifested in his laboratory, where he can weigh, measure, and submit it to proper tests.28
+
+Crookes also asserted that results supporting the existence of the phenomena would not conflict with science, because anything found to be true via research would have been true as well beforehand.29
+
+Crookes always emphasized his wish to discover the physical laws that governed the appearance of the phenomena. He said he could see no reason to deny, a priori, the phenomena of mediumship: it could not be assumed that we have anything like a complete knowledge of the forces at work in nature; indeed, such an assumption presented ‘a limitation of conception which ought to be impossible in an age when the widening of the circle of our definite knowledge does but reveal the proportionately widening circle of our blank, absolute, indubitable ignorance’.30&nbsp;
+
+Nonetheless, sometimes he had doubts. Even after witnessing events repeatedly, he stated ‘there is an antagonism in my mind between reason, which pronounces it to be scientifically impossible, and the consciousness that my senses … are not lying witnesses when they testify against my preconceptions’.31
+
+In 1897, he was elected president of the Society for Psychical Research, and stated in his presidential address, ‘Psychical science, as we here try to pursue it, is the embryo of something which in time may dominate the whole world of thought’.32&nbsp; Much in psychical research, he continued, ‘is tentative, much that may turn out erroneous’. But he believed the field would eventually ‘form no unworthy preface to a profounder science both of Man, of Nature, and of ‘Worlds not realised’ than this planet has yet known’.33
+
+He returned to the theme the following year when addressing the British Association for the Advancement of Science Convention,&nbsp;  
+
+To stop short in any research that bids fair to widen the gates of knowledge, to recoil from fear of difficulty or adverse criticism, is to bring reproach on Science. There is nothing for the investigator to do but to go straight on, ‘to explore up and down, inch by inch, with the taper his reason’; to follow the light wherever it may lead, even should it at times resemble a will-o’-the-wisp. I have nothing to retract.34   DD Home
+
+Crookes’s initial investigations appeared in two papers entitled ‘Experimental Investigation of a New Force,’.35 and ‘Some Further Experiments on Psychic Force’.36 These contain the now classic accounts of his instrumental studies of physical phenomena presented by the medium Daniel Dunglas Home, describing experiments that he believed provided evidence for the existence of a psychic force.
+
+One test consisted of holding an accordion partly under a table. As can be seen in the illustrations below, the accordion was held by Home with one hand inside a barrel-like structure that had no top or end, and consisted of wooden hoops with twelve wooden strips, all surrounded by copper wire capable of being electrified with a battery.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+Crookes described the test as follows:  Mr. Home sat in a low easy chair at the side of the table. In front of him under the table was the aforesaid cage, one of his legs being on each side of it. I sat close to him on his left, and another observer sat close to him on his right, the rest of the party being seated at convenient distances round the table.
+
+For the greater part of the evening, particularly when anything of importance was proceeding, the observers on each side of Mr. Home kept their feet respectively on his feet, so as to be able to detect his slightest movement …
+
+Mr. Home took the accordion between the thumb and middle finger of one hand at the opposite end to the keys ... Having previously opened the bass key myself, and the cage being drawn from under the table so as just to allow the accordion to be passed in with its keys downwards, it was pushed back as close as Mr. Home's arm would permit, but without hiding his hand from those next to him … Very soon the accordion was seen by those on each side to be waving about in a somewhat curious manner; then sounds came from it, and finally several notes were played in succession. Whilst this was going on, my assistant went under the table, and reported that the accordion was expanding and contracting; at the same time it was seen that the hand of Mr. Home by which it was held was quite still, his other hand resting on the table.37
+
+The accordion moved around the inside of the cage and played even though the keyboard was on the opposite side from where Home was holding it. When Home removed his hand from the cage and placed it in the hand of the person next to him, the instrument continued to play whilst no one was touching it.38
+
+In a further extension of the experimental control, the wire cage was electrified while Home held the accordion inside it. It continued to move and to emit sounds as before, the current producing no noticeable change.  
+
+The accordion was now again taken without any visible touch from Mr. Home’s hand, which he removed from it entirely; I and two of the others present not only seeing his released hand, but the accordion also floating about with no visible support inside the cage. This was repeated a second time, after a short interval. Mr. Home presently re-inserted his hand in the cage and again took hold of the accordion. It then commenced to play, at first chords and runs, and afterwards a well-known sweet and plaintive melody, which it executed perfectly in a very beautiful manner. Whilst this tune was being played, I took hold of Mr. Home’s arm, below the elbow, and gently slid my hand down it until I touched the top of the accordion. He was not moving a muscle. His other hand was on the table, visible to all, and his feet were under the feet of those next to him.39
+
+A second test employed a 36-inch mahogany board, one end supported on a table, the other by a spring balance held by a tripod. The aim was to see whether Home, seated by the table and merely by placing his fingers on the board, could cause it to oscillate at the other end.&nbsp;
+
+Crookes writes:  
+
+Almost immediately the pointer of the balance was seen to descend. After a few seconds it rose again. This movement was repeated several times, as if by successive waves of the Psychic Force. The end of the board was observed to oscillate slowly up and down during the time.40
+
+Home then placed a card matchbook and a small bell between his fingers and the board to confirm that he was not exerting any downward pressure on the board. The oscillation became stronger, and eventually an additional pull of three and a half pounds was registered by the instrument. Neither Crookes nor his assistants were able to produce such effects by touching the board; Crookes went so far as to stand on it but even by jumping up and down he could not move the index by more than two pounds. Throughout this experiment, Crookes writes, Home had been sitting in an easy chair, his hands and feet closely guarded.
+
+In a similar test, a container filled with water was placed on top of the part of the board resting on the table. Home put his fingers on the water, and as Crookes wrote:  
+
+When he said he felt a power, force, or influence, proceeding from his hand, I set the clock going, and almost immediately the end B of the board [opposite the water container] was seen to descend slowly and remain down for about 10 seconds; it then descended a little further, and afterwards rose to its normal height. It then descended again, rose suddenly, gradually sunk for 17 seconds, and finally rose to its normal height, where it remained till the experiment was concluded.41
+
+In other experiments Crookes obtained tracings on paper corresponding to the movements of the table. The effects were seen also when Home was three feet away from the board.
+
+Crookes commented on the ‘painful state of&nbsp;nervous and bodily prostration’ that some of these experiments appeared to cause Home. &nbsp;&nbsp;  
+
+[A]fter seeing him lying in an almost fainting condition on the floor, pale and speechless—I could scarcely doubt that the evolution of psychic force is accompanied by a corresponding drain on vital force.42
+
+In 1889, Crookes published further séance records that supported his earlier claims.43 For example, he was able to measure with a scale upwards and downward pressure exerted on the séance table when the sitters requested the table to go up or down. Regarding a materialized hand:  Mrs. Wm. Crookes saw a hand and fingers touching the flower in Mr. Home’s button-hole. The flower was then taken by the hand and given to Mrs. I. and the green leaf was in a similar manner given to Mr. T.
+
+Mrs. Wm. Crookes and Mr. Home saw the hand doing this, the others only saw the flower and leaf moving through the air.44
+
+These phenomena were seen in his residence and were observed by several persons, some of them sceptics, in fairly good light.
+
+In common with other investigators Crookes struggled to reconcile himself to what he witnessed. He said he felt that he experienced a mental contradiction ‘between reason, which pronounces it to be scientifically impossible, and the consciousness that my senses ... and these corroborated, as they were, by the senses of all who were present,— are not lying witnesses when they testify against my preconceptions’.45
+
+Crookes went on to classify the phenomena from simple to complex, as follows:   	movement of heavy bodies with contact, but without mechanical exertion 	percussive and other allied sounds 	alteration of weight of bodies 	movements of heavy substances when at a distance from
+ 		the medium 	rising of tables and chairs off the ground, without
+ 		contact with any person 	levitation of human beings 	movement of various small articles, without contact with
+ 		any person 	luminous appearances 	the appearance of hands, either self-luminous or visible
+ 		by ordinary light 	direct writing 	phantom forms and faces 	special Instances which seem to point to the Agency of an
+ 		exterior Intelligence 	miscellaneous occurrences of a complex character   Materializations with Florence Cook
+
+Crookes is especially remembered for his sensational claims regarding a teenaged medium named Florence Cook, notably the full form materialization of a figure who appeared human in every respect, and who identified herself as ‘Katie King’.46 (The appearance of Katie King has always been considered of great importance to support the reality of the phenomena of full materialization, and consequently has been repeatedly examined from different points of view.47)&nbsp; Crookes describes his work with Cook in various short articles by him48&nbsp; and in Researches, including the following well-known account in which he confirms that the figure is not being impersonated by the medium herself.  Katie never appeared to greater perfection, and for nearly two hours she walked about the room, conversing familiarly with those present. On several occasions she took my arm when walking, and the impression conveyed to my mind that it was a living woman by my side, instead of a visitor from the other world, was so strong that the temptation to repeat a recent celebrated experiment became almost irresistible.
+
+Feeling, however, that if I had not a spirit, I had at all events a lady close to me, I asked her permission to clasp her in my arms ... Permission was graciously given, and I accordingly did—well, as any gentleman would do under the circumstances ...
+
+Katie now said she thought she should be able this time to show herself and Miss Cook together. I was to turn the gas out and then come with my phosphorus lamp into the room now used as a cabinet. This I did, having previously asked a friend who was skillful at shorthand, to take down any statement I might make when in the cabinet, knowing the importance attaching to first impressions, and not wishing to leave more to memory than necessary. His notes are now before me.
+
+I went cautiously into the room, it being dark, and felt about for Miss Cook. I found her crouching on the floor. Kneeling down, I let air enter the lamp, and by its light I saw the young lady, dressed in black velvet, as she had been in the early part of the evening, and to all appearance perfectly senseless. She did not move when I took her hand and held the light quite close to her face, but continued quietly breathing.
+
+Raising the lamp, I looked around and saw Katie standing close behind Miss Cook. She was robed in flowing white drapery, as we had seen her previously during the seance. Holding one of Miss Cook’s hands in mine, and still kneeling, I passed the lamp up and down so as to illuminate Katie’s whole figure and satisfy myself thoroughly that I was really looking at the veritable Katie whom I had clasped in my arms a few minutes before, and not at the phantasm of a disordered brain. She did not speak, but moved her head and smiled in recognition. Three separate times did I carefully examine Miss Cook crouching before me, to be sure that the hand I held was that of a living woman, and three separate times did I turn the lamp to Katie and examine her with steadfast scrutiny until I had no doubt whatever of her objective reality. At last Miss Cook moved slightly, and Katie instantly motioned me to go away. I went to another part of the cabinet and then ceased to see Katie, but did not leave the room till Miss Cook woke up, and two of the visitors came in with a light.49
+
+Crookes took photographs of Katie King, which reinforced his conviction that she and the medium were separate physical entities. Comparisons of photos of the medium and the phantom showed the latter to be taller. Crookes wrote:  
+
+Several little marks on Miss Cook’s face are absent on Katie’s. Miss Cook’s hair is so dark a brown as almost to appear black; a lock of Katie’s which is now before me, and which she allowed me to cut from her luxuriant tresses, having first traced it up to the scalp and satisfied myself that it actually grew there, is a rich golden auburn.50
+
+As Crookes describes it, during Katie King’s last appearance she took her leave, waking Cook from her trance to tell her that her job was done, at which Cook wept. &nbsp;
+
+As a means to demonstrate the impossibility of fraudulent impersonation, Crookes participated in unique tests conducted by Cromwell Varley,51 an expert in electricity, in which the chair in which Cook sat was connected to a weak electrical current that would break if she left it at any time.
+
+Following Katie’s departure, other figures were said to materialize. One, called Leila, appeared many times at Crookes’s home, as stated by his wife Ellen. She wrote in a letter she sent to the medium:  
+
+On several occasions we have all seen you and Leila at the same time. Once Leila and my husband were standing in the room with us talking, when you suddenly rushed out of the cabinet, pushed past them, and fell insensible on the floor.52   Other Investigations  Kate Fox
+
+Crookes also held sittings with Kate Fox, who together with her sister Margaret had been the centre of a highly-publicized poltergeist incident in Hydesville near Rochester in 1848, the episode that launched the spiritualist movement. These sittings were notable for the abundant production of the ‘rapping’ phenomena with which the pair were associated. &nbsp;Crookes wrote:  
+
+With mediums, generally, it is necessary to sit for a formal séance before anything is heard; but in the case of Miss Fox it seems only necessary for her to place her hand on any substance for loud thuds to be heard in it, like a triple pulsation, sometimes loud enough to be heard several rooms off. In this manner I have heard them in a living tree—on a sheet of glass—on a stretched iron wire—on a stretched membrane—a tambourine—on the roof of a cab—and on the floor of a theatre. Moreover, actual contact is not always necessary; I have had these sounds proceeding from the floor, walls, &amp;c, when the medium’s hands and feet were held—when she was standing on a chair—when she was suspended in a swing from the ceiling—when she was enclosed in a wire cage—and when she had fallen fainting on a sofa. I have heard them on a glass harmonicon—I have felt them on my own shoulder and under my own hands. I have heard them on a sheet of paper, held between the fingers by a piece of thread passed through one corner.53
+
+On another occasion, a sitting held in darkness, Crookes held Fox’s hands with one of his, and had her place her feet on top of his. In his other hand he held a pencil over a piece of paper that had been placed on the table. Crookes wrote: ‘A luminous hand came down from the upper part of the room, and after hovering near me for a few seconds, took the pencil from my hand, rapidly wrote on a sheet of paper, threw the pencil down, and then rose up over our heads, gradually fading into darkness’.54  Charles Williams
+
+Crookes held séances with Charles Williams. In an 1874 séance held at Crookes’s home, Crookes controlled the medium on one side while Cox, the only other person present, controlled her on the other side. Cox stated:  
+
+An arm chair and a heavy oak dining-room chair were brought from the other side of the room, a distance of seven feet from us, and placed upon the table at which we were seated. A large china jug, nearly two feet high, and weighty, was brought from the sideboard and placed before us. A heavy musical box was wound up, lifted from the table, and carried round the room, playing the whole time. A handbell was repeatedly taken from the table and rung violently at each corner of the room and up at the ceiling. Asked that it might be brought nearer to me, it was immediately brought from a distant corner of the room, then circled round my head for several minutes, ringing furiously, until I was almost deafened by the noise and begged that it would cease the din; a request refused for some time. My watch was taken from my pocket, wound up, and returned to me. Many lights, like small shooting stars, or tiny rockets, continually descended from the ceiling to the table, and ascended from the table to the ceiling. All the customary sounds and motions attended this experiment, with other phenomena similar to those already reported.55   Fraudulent Mediums
+
+Crookes also experimented with mediums who were subsequently discovered to be fraudulent. He reported holding séances with Rosina Showers, during which he witnessed a supposedly materialized figure in her presence, although he could not see Showers in the dark.56 &nbsp;He later stated in a letter to Home that she had confessed to him in writing that the phenomena were faked.57&nbsp; He was more certain about physical phenomena he witnessed58 &nbsp;in 1875 with Anna Eva Fay, an American public psychic performer, at a time when she was controlled by Varley’s electrical system.59 However, Fay was exposed as a cheat by a former associate the following year; she was also later tested by investigators of the Society for Psychical Research, when under controlled conditions no phenomena occurred.60
+
+Crookes told Oliver Lodge in 1916 that he had obtained what he considered to be a genuine psychic photograph of his deceased wife with the spirit photographer William Hope,61 who in the following years was the subject of frequent exposure.  Telepathy
+
+In his Presidential Address to the Society for Psychical Research Crookes broached the subject of telepathy in relation to physical forces, a much-discussed topic at the time.62 He referred to the recent discovery of Röntgen radiations (X-rays) and speculated on rays capable of accomplishing ‘the transmission of intelligence from one sensitive to another through long distances’,63 without violating physical laws. For this to happen, he wrote,  
+
+… transmission of thought must be easier or more certain the nearer the agent and recipient are to each other, and should die out altogether before great distances are reached. Also it can be urged that if brain waves diffuse in all directions they should affect all sensitives within their radius of action instead of impressing only one brain.64
+
+He returned to the subject in his 1898 presidential address to the British Association to the Advancement of Science, affirming that he if he were starting out as a psychical researcher now he would choose to focus his efforts on telepathy, a topic he considered had ‘not yet reached a scientific stage of certainty.65
+
+Here too he speculated on telepathy in physical terms. Assuming it occurred, he wrote, ‘we have two physical facts—the physical change in the brain of A, the suggester, and the analogous physical change in the brain of B, the recipient of the suggestion. Between these two physical events there must exist a train of physical causes …’66 &nbsp;This assumed the existence of an intermediate connecting principle and the possible relevance of ‘ether vibrations’. Crookes went on to speculate about the presence of ‘masses of such nerve coherers in the brain whose special function it may be to receive impulses brought from without through the connecting sequence of ether waves of appropriate order of magnitude’.67
+
+Further work on telepathy, he continued ‘needs a rigorous employment of the method of exclusion—a constant setting aside of irrelevant phenomena that could be explained by known causes, including those far too familiar causes, conscious and unconscious fraud’.68  Statements About Survival
+
+Crookes’s ideas about survival of death, and of &nbsp;discarnate agency as an explanation for séance phenomena, appeared to fluctuate, at least in his statements. In an 1861 article for a popular monthly, defending the principle of conservation of energy, an important aspect of nineteenth-century physics.69 &nbsp;Here he seemed open not only to conservation of energy, but of the soul. He wrote:  When the ﬂame is naturally extinguished these living forces do not die, but become absorbed into that vast reservoir of energy which is the source of all life and light upon this globe.
+
+And shall we then suppose that the soul of man is of less&nbsp;account than the ﬂame of a candle? If philosophy can thus prove that the latter never dies, shall not faith accept the same proof that our own spiritual life is continued after the vital spark is extinguished?70
+
+In 1869, he told physicist John Tyndall that he found ‘nothing unphilosophical in the idea that there exist in nature unseen entities of a higher order’71 but added that he had obtained no evidence that such agency accounted for the phenomena observed.
+
+In an 1870 diary entry he seemed to have been convinced that he had been in contact with the departed. But later writings contradicted this. Writing to a lady on May 10th, 1871, Crookes exhibited no belief in discarnate agency, stating that he preferred to investigate the properties of the phenomena:  
+
+Assuming that there are invisible intelligent beings trying to communicate with us, it is reasonable to suppose that improvements can be made in their mode of telegraphy; and whilst others are obtaining copiously worded communications, I prefer to devote myself to the humbler but not less useful work of acting as telegraphic engineer, endeavouring to improve the instrumental means at this end of the line, to ascer­tain conditions which will render intercourse more cer­tain, and generally to get the line in a good state of in­sulation.72
+
+In a letter in 1874, Crookes referred to a ‘fiend’, presumably a spirit, that was bothering Florence Cook. He said he was able to get rid of it.73 However, that same year, asked whether he was a spiritualist, he responded that although he had many experiences with mediums, and had attempted to gain evidence that would convince him of the existence of discarnate agency, he had never obtained any.74
+
+Crookes recognized that there was some intelligence behind physical phenomena such as raps. Although it seemed to him that sometimes this came from the medium, on other occasions he ‘observed some circumstances which seem conclusively to point to the agency of an outside intelligence, not belonging to any human being in the room’.75 In an instance with Kate Fox, the medium was writing a message while at the same time ‘a message to another person on another subject was being given alphabetically by means of “raps”, and the whole time she was conversing freely with a third person on a subject totally different from either’.76
+
+Another example occurred with Home. Crookes saw a small lathe on the séance table come to him and tap his hand, delivering a message by tapping when he recited the alphabet. Crookes then asked for a message to be delivered by Morse code through taps on his hands, a code he did not know well, and that he doubted anyone present knew:  
+
+Immediately I said this, the character of the taps changed, and the message was continued in the way I had requested. The letters were given too rapidly for me to do more than catch a word here and there, and consequently I lost the message; but I heard sufficient to convince me that there was a good Morse operator at the other end of the line, wherever that might be.77
+
+In later correspondence Crookes is more positive, for instance in letters in 1910 and 1916 concerning books about survival of death by Oliver Lodge.78 He was more clear in 1916 when he stated that his previous work  
+
+[s]ubstantiate[s] the claims which have been made for them by several of my colleagues and friends in the Society for Psychical Research, viz., that they point to the existence of another order of human life continuous with this, and demonstrate the possibility in certain circumstances of communication between this world and the next.79
+
+Drawing on ideas of Michael Faraday, Crookes speculated on the constitution of spiritual beings, which he saw as  
+
+[c]entres of intellect, will, energy, and power, each mutually&nbsp;penetrable, whilst at the same time permeating what we call space; but each centre retaining its own individuality, persistence of self, and memory. Whether these intelligent centres of the various spiritual forces which in their aggregate go to make up Man’s character or Karma, are also associated in any way with the forms of energy which, centred, form the material atom,—whether these spiritual entities are material, not in the crude, gross sense of Lucretius, but material as sublimated through the piercing intellect of Faraday,—is one of those mysteries which to us mortals will perhaps ever remain an unsolved problem.80   Influence and Criticism
+
+During the early 1870s, Crookes’s psychical researches were widely discussed in Britain,81 also in France,82 Italy,83 Germany,84 Spain85 and elsewhere. He became well known as a defender of the physical phenomena of spiritualism; his name was mentioned in many contemporary writings on the subject,86 including magazines and newspapers,87 also scientific publications such as Scientific American, Lancet, English Mechanic and World of Science, and Nature.88 Crookes’s articles were sometimes reprinted89 and many were translated into other languages.90
+
+Commentators, both for and against, were aware of the prestige factor Crookes’s name gave to studies of mediumship. One wrote in The Spiritualist about the announcement of a new force ‘in a high scientific quarter … one which, in the eyes of future generations, may perhaps appear of far higher moment than any of those which, within the past twelvemonth, have riveted the attention of the world’.91
+
+Conversely, another regretted that Crookes’s name, ‘with the three letters behind it [FRS], has drawn considerable attention to Spiritualism, and his adherence to the cause has been a prop to the crumbling fabric of the Pantheon’.92  Scientific Critiques
+
+Crookes’s claims aroused opposition and hostility within the scientific community. His initial two reports on Home, submitted to the Royal Society in 1871, were rejected.93 Neither of that organization’s two secretaries, William Sharpey and George Stokes, accepted an invitation to his house to meet Home and observe his feats; Stokes merely opined that there must have been problems with Crookes’s instruments (Crookes denied this.)94
+
+The British Association for the Advancement of Science also refused to publish the reports. 95 &nbsp;The person responsible, Allen Thomson, publicly complained of certain ‘men of reputation’ trying to show the reality of ‘the delusive dreams of the practitioners of spiritualism’.96
+
+Writing in Nature, physicist Balfour Stewart97 praised Crookes’s empirical work but argued that the phenomena could be merely ‘imagined’ by the witnesses.98 Crookes refuted this by pointing out that his instruments had recorded objective physical movements.99
+
+An American critic asserted that a wooden board used in an experiment with Home could not have weighed what he claimed, and that Home himself might have provided it.100 Crookes replied that the board belonged to him and had been in his possession for years, and that he was certain about its weight.101)
+
+There were other critiques of Crookes’s work with Home.102&nbsp; With regard to the researches with Florence Cook, it was suggested that Crookes’s ability to observe events during sittings might have been compromised by his use of phosphoric oil for illumination, since this light was known to be ‘exceedingly doubtful and deceptive’ so that ‘nothing would be more easy and probable than to mistake features seen by it’.103
+
+Edward Clodd wrote that he had been told by the chemist William Ramsay that Crookes was shortsighted and that therefore it was not possible to trust what he said he saw.104 But this does not seem to be corroborated by other contemporary critics.  William Carpenter
+
+The most virulent criticisms were published in 1871 in the prestigious magazine Quarterly Review, in an anonymous article entitled ‘Spiritualism and its Recent Converts.105 The writer complained that Crookes was ignorant of previous researches that had disproved paranormal claims, such as Michael Faraday’s demonstration of the natural forces involved in table-turning, also the work of William B Carpenter, a noted physiologist who had shown that the phenomena were caused by expectant attention, unconscious cerebration and ideo-motor action. This was obvious to the educated class, the anonymous writer continued, but not to people predisposed to believe, who were ‘no more to be argued with than insane patients’.
+
+The writer’s frequent allusion to Carpenter throughout the article betrayed his identity as Carpenter himself. &nbsp;In a notorious passage he questioned Crookes’s competence and scientific credentials:  
+
+Mr. Crookes acquired his place in Science by the application of Spectrum-analysis to the detection of the new metal Thallium, the properties and chemical relations of which he studied with care and accuracy. For this discovery he was rewarded by the Fellowship of the Royal Society; but we speak advisedly when we say that this distinction was conferred on him with considerable hesitation, the ability he displayed in the investigation being purely technical. We are assured, on the highest authority, that he is regarded among chemists as a specialist of specialists, being totally destitute of any knowledge of Chemical Philosophy, and utterly untrustworthy as to any inquiry which requires more than technical knowledge for its successful conduct.106
+
+Carpenter made a similar ad hominem attack against Crookes’s associate in his experiments, Cromwell Varley, whose ‘scientific attainments are so cheaply estimated … he has never been admitted to the Royal Society. He further suggested that Crookes had botched the fulcrum experiment with Home, failing to make appropriate measurements of the pressure medium had exerted on the board, and that Home had achieved the effect fraudulently while distracting the experiments’ attention elsewhere, like a common conjuror. (Crookes reiterated that he had eliminated this possibility by standing on the board without managing to produce the force created by Home.)
+
+There were relatively few critiques during Crookes’s lifetime about his work with Cook, since this was disseminated mainly in spiritualist publications and was little known among scientists.&nbsp; Carpenter107 published a short communication in the journal Nature complaining that Crookes had publicly endorsed the medium. In the same journal he stated he did not believe that the electrical control used by Crookes was adequate,108 but did not say why.  Responses to Criticism
+
+Crookes’s reaction to the scientific criticisms was generally one of exasperation. He found it incomprehensible that his testimony as a scientific observer should be doubted: everything he reported took place as stated, and ‘the experiments were honestly performed, with the single object of eliciting the truth’.109 110&nbsp;  
+
+Will not my critics give me credit for the possession of some amount of common sense? And can they not imagine that obvious precautions, which occur to them as soon as they sit down to pick holes in my experiments, are not unlikely to have also occurred to me in the course of prolonged and patient investigation?111
+
+He expressed indignation, for example, at the suggestion that he might have been so unserious as to allow Home to furnish his own materials for experiments.112 He further wrote  
+
+The answer to this as to all other like objections is, Prove it to be an error by showing where the error lies, or, if a trick, by showing how the trick is performed. Try the experiment fully and fairly. If then fraud be found, expose it; if it be a truth, proclaim it. This is the only scientific procedure, and this it is that I purpose steadily to pursue.113
+
+Crookes was particularly incensed by Carpenter’s attack in the Quarterly Review, which he answered in detail, but complained was ‘so full of perverse, prejudiced, or unwanted misstatements, that it is impossible to take note of them all’.114
+
+Crookes also had defenders. An obituary published by the Royal Society stated:  
+
+It is perhaps not surprising that Crookes was publicly attacked in a violent manner, but he was able to show that many misrepresentations and misstatements were made which everyone must now perceive were wholly unjustifiable. The story of his experiences as told by him is supported by evidence, which would be accepted as conclusive if these statements related to any scientific work or to any ordinary occurrence.115
+
+There was also sympathetic commentary in the contemporary media.&nbsp;An article in the Spectator stated, ‘it seems to us almost impossible to account by any known natural causes for the physical disturbances produced’.116  Spiritualist Critiques
+
+Most spiritualists welcomed Crookes’s studies, but some resented his patronizing tone in talking about spiritualism as if he represented science.117 A critic in the spiritualist newspaper Medium and Daybreak complained that it was not Crookes who had ‘discovered’ spiritualism, but spiritualists at the first appearance of the Fox sisters decades earlier.118 Investigators did better, he went on, ‘by steering clear of puerile theories and professional conceits, and stating the facts in their entirety, in a full, manly, and honest manner’.119&nbsp;
+
+Another critic wrote: ‘Many Spiritualists do not like Mr. Crookes, because he stops short at ‘Psychic Force,’ and utters no opinion as to who wields the force’.120 Others felt that Crookes made spiritualists feel that their tests ‘are nothing worth’121 and represented them incorrectly as credulous believers in the miraculous or the supernatural.122  Other Critiques
+
+Crookes’s psychical researches were the first to be carried out by a scientist of reputation in Britain, and the powerful impression they made on intellectuals during the 1870s helped to create a climate receptive to the founding of the Society for Psychical Research in the following decade.123 The society published notes of his researches with Home in its Proceedings in 1889.
+
+Frank Podmore, a leading SPR researcher who in later years adopted a trenchantly sceptical view of most paranormal phenomena, discussed Home in his 1902 book Modern Spiritualism, speculating on ways in which the medium might have deceived Crookes and his associates by conjuring methods.
+
+More recently, Crookes’s failure to adequately document the precautions he took against fraud has been acknowledged as a major drawback.124 &nbsp;In a detailed examination published in the SPR in 1964, Medhurst and Goldney complained of his belief that his testimony as a scientist was above question:  
+
+The unfortunate consequence i s... that his reports, by modern standards, are woefully inadequate and give insufficient basis for forming a judgment on his experimental competence ... We are left to infer the adequacy of the search and the fastening [of the medium in some cases] …&nbsp; [O]ne cannot but feel that some description of the pedestrian details of securing and searching would have been reassuring!125   Trevor Hall
+
+In a 1962 debunking book The Spiritualists: The Story of Florence Cook and William Crookes, British historian Trevor Hall argued that Cook’s phenomena were fraudulent, drawing on a ‘confession’ said to have been made by her in later life, and passed on by a third party, according to which the seances with Crookes were a front for a sexual relationship between them.126 This largely speculative construction has been influential among skeptics of the paranormal, cited by writers such as Ruth Brandon.127 However, it has been criticized as unproven by other scholars and historians. SPR investigators Medhurst and Goldney, for example, considered that the evidence for the affair rested ‘on grounds far from conclusive,’ and Oppenheim, who takes a sceptical view of paranormal claims, has stated that the ‘evidence ... does not fall preponderantly on the side of Mr. Hall’.128 129
+
+Crookes’s work is still widely referenced in historical overviews of parapsychology130 and in historical studies.131&nbsp; Although his reputation suffered at the hand of Hall and others, there have also been positive discussions of his writings in recent times,132 particularly his work with Home. Two of his publications133 were still considered sufficiently relevant to be included in a recent compilation of evidential sources for psychic phenomena.134  Scholarship
+
+The most complete general source about Crookes’s life and work (including his studies of mediums) is William H Brock’s William Crookes (1832–1919) and the Commercialization of Science135 which shows the diversity of his interests and his efforts to develop money-producing projects. Brock suggests that certain aspects of Crookes’s mainstream researches may have been inspired by his researches in physical mediumship.136 He writes: ‘While Crookes, arguably, would still have developed the radiometer without the influence of spiritualism, it provided him the personal spur to enter the new world of microphysics’.137 However, as&nbsp; is usually the case in biographies of scientists who ventured into psi research, Brock takes the view that the physical phenomena observed by Crookes were fraudulently produced.
+
+Fournier d’Albe’s earlier biography138 gives a broad view of Crookes and includes details about mediumistic phenomena. Some of Crookes’s writings about mediums are included in the anthology Crookes and the Spirit World139 by Medhurst, Goldney and Barrington, along with selected correspondence on about survival. Some have been translated into other languages.140
+
+Medhurst and Goldney’s journal article ‘William Crookes and the Physical Phenomena of Mediumship’141 is an invaluable study of his work with mediums, exploring with the social complexity of their interactions with sitters – a subject also addressed by Trevor Hall.142
+
+Other authors have presented overviews about Crookes’s séance work from different points of view.143 Noakes placed Crookes in the context of late nineteenth-century ideas144 about forces and radiations, among them X rays, discussed by physicists and those interested in psychic phenomena.
+
+Historian of science Juliana Mesquita Hidalgo Ferreira has published a unique study entitled Estudando o Invisível: William Crookes e a Nova Força (Studying the Invisible: William Crookes and the New Force),145 an analysis of the methods and ideas employed by Crookes in his study of the psychic force. Ferreira discusses similarities with non-mediumistic studies conducted with the radiometer, agreeing that Crookes’s reports lacked details, but considering that such problems do not present an ‘insurmountable gap between studies we accept as scientific and Crookes’s study of spiritual forces’. According to her, ‘normal’ science studies also include subjective aspects, and sometimes scientists cannot control for all the necessary aspects to prevent error.146
+
+Also of interest are the accounts of Crookes’s work in histories of spiritualism by Podmore147 and Arthur Conan Doyle,148 both of whom gave prominence to Crookes’s (Doyle called it ‘one of the outstanding incidents in the history of the movement’)149.
+
+Modern analyses of the studies with Home from the evidential point of view include those of Braude,150 Ishida151 and Lamont.152 A common complaint, as mentioned above, is the lack of sufficient detail in Crookes’s reports compared with later studies, which are often more satisfactory in terms of completeness of documentation and methodological quality.153 &nbsp;However, some commentators maintain the reports are sufficient to rule out conventional explanations such as fraud, particularly those concerning Home.154  Acknowledgements
+
+I wish to thank Massimo Biondi for assistance with Italian references, and Nancy L Zingrone for editorial suggestions to improve this paper.
+
+Carlos S Alvarado  Literature
+
+Alvarado, C.S. (2006). Human radiations: Concepts of force in mesmerism, spiritualism and psychical research. Journal of the Society for Psychical Research 70, 138–62.
+
+Alvarado, C.S. (2015). Telepathic emissions: Edwin J. Houston on “Cerebral Radiation.” Journal of Scientific Exploration 29, 467–90.
+
+Anonymous (1870). Science gossip. The Athenaeum: Journal of Literature, Science, the Fine Arts, Music, and the Drama&nbsp;2217,&nbsp; 552.
+
+Anonymous (1871a). Further experiments by Mr. Crookes. The Spiritualist, July 15, 177.
+
+Anonymous (1871b). Dr. Crookes on psychic force. Scientific American 25, 103.
+
+Anonymous (1871c). Medical annotations: Psychic force. Lancet 2, 552–53.
+
+Anonymous (1871d). More experiments by Mr. Crookes. The Spiritualist, October 15, 205.
+
+Anonymous (1871e). Mr. Crookes on the “psychic force.” English Mechanic and World of science 12, 482.
+
+Anonymous (1871f). News of the week. The Spectator, October 7, 1193–95.
+
+Anonymous (1872a). Miss Florence Cook’s mediumship. The Spiritualist, May 15, 36.
+
+Anonymous (1872b). Mr. Crookes and the Royal Society. The Spiritualist, May 15, 39.
+
+Anonymous (1872c). New books. The Spiritualist, January 15, 5.
+
+Anonymous (1872d). Scientistic spiritualism. Medium and Daybreak, February 2, 37–38.
+
+Anonymous (1872e). Spiritualism at the Royal Society. The Spiritualist, February 15, 9.
+
+Anonymous (1874). Mr. Crookes on spiritual phenomena. Spiritualist Newspaper, January 2, 1–3.
+
+Anonymous (1875). A great scientific discovery by Mr. Crookes. Spiritualist Newspaper, April 30, 205–6.
+
+Anonymous (1884). List of members and associates. (December, 1884.). Proceedings of the Society for Psychical Research 2, 317–31.
+
+Anonymous (1891). Annual Business Meeting. Journal of the Society for Psychical Research 5, 18–19.
+
+Anonymous (1894). List of Members and Associates. (August, 1894.). Proceedings of the Society for Psychical Research 10, 431– 53.
+
+Anonymous (1919). Sir William Crookes, O.M., 1832-1919. Proceedings of the Royal Society of London, 96(s. A), i–viii.
+
+Baggally, W.W. (1910). Some sittings with Carancini. Journal of the Society for Psychical Research 14, 193–211.
+
+Barnard, G.C. (1963). Correspondence. Journal of the Society for Psychical Research 42, 144– 47.
+
+Barrett, W.F. (1920). In memory of Sir William Crookes, O.M., F.R.S. Proceedings of the Society for Psychical Research 31, 12–29.
+
+[Bell, R.]. (1860). Stranger than fiction. Cornhill Magazine&nbsp;2, 211–24.
+
+Brandon, R. (1983). The Spiritualists: The Passion for the Occult in the Nineteenth and Twentieth Centuries. London: Weidenfeld and Nicolson.
+
+Braude, S.E. (1997). The limits of Influence: Psychokinesis and the philosophy of science. Lanham, MD: University Press of America.
+
+Braude, S.E. (2007). The Gold Leaf Lady and Other Parapsychological Investigations. Chicago: University of Chicago Press.
+
+Brevior, T. (1871). The new force. Spiritual Magazine, 6(n.s.), 337–48.
+
+Brock, W.H. (2008). William Crookes (1832–1919) and the Commercialization of Science. Burlington, VT.: Ashgate.
+
+Brofferio, A. (1893). Per lo Spiritismo (2nd rev. ed.). Domenico Briola.
+
+[Carpenter, W. B.] (1871). Spiritualism and its recent converts. Quarterly Review 131, 301–53.
+
+Carpenter, W. (1877a). Mesmerism, Spiritualism, &amp;c. New York: D. Appleton.
+
+Carpenter, W. (1877b). Mr. Crookes and Eva Fay. Nature 17, 81.
+
+Carpenter, W. (1877c). Mr. Crookes and Eva Fay. Nature 17, 122–23.
+
+Carpenter, W. (1877d). The radiometer and its lessons. Nineteenth Century 1, 242–56.
+
+Clodd, E. (1917). The Question: "If a man die, shall he live again?" London: Grant Richards.
+
+Cox, E.W. (1871). Spiritualism Answered by Science. London: Longmans.
+
+Cox, E.W. (1874). Mr. Serjeant Cox on “incarnation.” The Spiritualist, June 5, 272–73.
+
+Cox, E.W. (1879). The Mechanism of Man: An answer to the question what I am (Vol. 2). London: Longman.
+
+Crabtree, A. (Compiler) (1988). Animal Magnetism, Early Hypnotism, and Psychical Research, 1766–1925: An annotated bibliography. White Plains, NY: Kraus International.
+
+Crookes, E. (1875). Materialisation of spirits at the house of Mr. Crookes. Spiritualist Newspaper, June 25, 312.
+
+Crookes, W. (1861). The breath of life. Popular Science Review, 91–99.
+
+Crookes, W. (1863). On Thallium. Proceedings of the Royal Society of London&nbsp;12, 438–40.
+
+Crookes, W. (1870a). On Spiritualism. The Spiritualist, August 15, 92.
+
+Crookes, W. (1870b). On the Manufacture of Beet-root Sugar in England and Ireland. London: Longmans, Green.
+
+Crookes, W. (1870c). Spiritualism viewed by the light of modern science. Quarterly Journal of Science&nbsp;7, 316–21.
+
+Crookes, W. (1871a). An experimental investigation of a new force. Spiritual Magazine&nbsp;6(n.s.), 337–48.
+
+Crookes, W. (1871b). Experimental investigation of a new force. Quarterly Journal of Science 1(n.s.), 339–49.
+
+Crookes, W. (1871c). Experimental investigation of a new force. English Mechanic and World of Science 13, 403–5.
+
+Crookes, W. (1871d). Experimental investigation of a new force. Scientific American 25, 99–100.
+
+Crookes, W. (1871e). Psychic force and Modern Spiritualism: A reply to the “Quarterly Review” and other critics. London: Longmans, Green.
+
+Crookes, W. (1871f). Select Methods in Chemical Analysis (chiefly inorganic). London: Longmans, Green.
+
+Crookes, W. (1871g). Some further experiments on psychic force. Quarterly Journal of Science 1(n.s.), 471–93.
+
+Crookes, W. (1872a). Psychic force. Quarterly Journal of Science 2(n.s.), 136.
+
+Crookes, W. (1872b). Der Spiritualismus und die Wissenschaft: Experimentelle Untersuchungen&nbsp;über die psychische Kraft. Leipzig: Oswald Mutze.
+
+Crookes, W. (1874a). On attraction and repulsion resulting from radiation. Philosophical Transactions of the Royal Society of London&nbsp;164, 501–27.
+
+Crookes, W. (1874b). The last of “Katie King:” The photographing of “Katie King” by the aid of the electric light. Spiritualist Newspaper, June 5, 270–71.
+
+Crookes, W. (1874c). The last of Katie King: The photographing of “Katie King” by the aid of the electric light. Banner of Light, June 27, 6.
+
+Crookes, W. (1874d). Miss Showers’s mediumship. Spiritualist Newspaper, June 19, 296.
+
+Crookes, W. (1874e). Notes of an inquiry into the phenomena called spiritual, during the years 1870-73. Quarterly Journal of Science&nbsp;4(n.s.), 77–97.
+
+Crookes, W. (1874f). The outrage at a spiritualist circle. The Spiritualist, February 6, 71.
+
+Crookes, W. (1874g). A Practical Handbook of Dyeing and Calico-printing. London: Longmans, Green.
+
+Crookes, W. (1874h). Researches in the Phenomena of Spiritualism. London: J. Burns.
+
+Crookes, W. (1874i). Researches on the Atomic Weight of Thallium. London: Chemical News Office
+
+Crookes, W. (1874j). Spirit forms. Spiritualist Newspaper, April 3, 157–58.
+
+Crookes, W. (1874k). Der Spiritualismus im Lichte der modernen Wissenschaft betracht. Psychische Studien 1, 12–19.
+
+Crookes, W. (1875a). Mr. Crookes noch kein Spiritualist: Auszug aus seinem Briefe an eine russische Dame. Psychische Studien&nbsp;2, 218–19.
+
+Crookes, W. (1875b). A scientific examination of Mrs. Fay’s mediumship. Spiritualist Newspaper, March 12, 126–28.
+
+Crookes, W. (1877). Another lesson from the radiometer. Nineteenth Century 1, 879–87.
+
+Crookes, W. (1878a). On the illumination of lines of molecular pressure, and the trajectory of molecules. Philosophical Transactions of the Royal Society of London&nbsp;170, 135–64.
+
+Crookes, W. (1878b). Recherches sur les Phénomènes du Spiritualisme. Paris: Librairie des Sciences Psychologiques.
+
+Crookes, W. (1881). On the viscosity of gases at high exhaustions. Philosophical Transactions of the Royal Society of London 172, 387–434.
+
+Crookes, W. (1889). Notes on séances with D.D. Home. Proceedings of the Society for Psychical Research 6, 98–127.
+
+Crookes, W. (1894). General meeting. Journal of the Society for Psychical Research 6, 274–80.
+
+Crookes, W. (1894). [Comments about Eusapia Palladino and D.D. Home]. Journal of the Society for Psychical Research 6, 341–45.
+
+Crookes, W. (1897). Address by the President. Proceedings of the Society for Psychical Research 12, 338–55.
+
+Crookes, W. (1898). [Telepathy case reported by Crookes]. Journal of the Society for Psychical Research 8, 193–94.
+
+Crookes, W. (1899). Address by Sir William Crookes, F.R.S., V.P.C.S. President. In Report of the sixty-eighth meeting of the British Association for the Advancement of Science held at Bristol in September 1898 (29–33). London: John Murray.
+
+Crookes, W. (1909). Diamonds. London: Harper and Brothers.
+
+Crookes, W. (1916). Sir William Crookes and psychical research. Light&nbsp;36, 397.
+
+Crookes, W., Horsley, V., Bull, W.C., &amp; Myers, A.T. (1885). Report on an alleged physical phenomenon. Proceedings of the Society for Psychical Research 3, 460–63.
+
+D., J.H. (1871). Spiritualism and science. The Spiritualist, September 15, 197.
+
+Damiani, G. (1870). William Crookes, Esq., F.R.S., v. Spiritualism. Medium and Daybreak, August 5, 137.
+
+Dingwall, E.J. (1966). The Critic’s Dilemma. Crowhurst, Sussex: Privately printed.
+
+Doyle, A.C. (1926). The History of Spiritualism (2 vols.). London: Cassell.
+
+Earwaker, J.P. (1871). Mr. Crookes’s new psychic force. Popular Science Review&nbsp;10, 356–65.
+
+Faraday, M. (1853). Professor Faraday on table-moving. The Athenaeum&nbsp;1340, 801–3.
+
+Faraday, M. (n.d., ca 1894). On the Various Forces of Nature and their Relations to Each Other (edited by W. Crookes). London: Chatto and Windus.
+
+Ferreira, J.M.H. (2004). Estudando lo Invisível: William Crookes e a Nova Força. Sao Paulo: EDUC.
+
+Fournier d’Albe, E.E. (1923). The Life of Sir William Crookes. London: T. Fisher Unwin.
+
+Gibier, P. (1887). Le spiritisme (fakirisme occidental): Étude historique, critique et expérimentale. Paris: Octave Doin.
+
+Gully, J.M. (1874). Correspondence: Dr. Gully on spirit forms. Spiritualist Newspaper, February 20, 95–96.
+
+Hall, T.H. (1962). The Spiritualists: The story of Florence Cook and William Crookes. London: Gerald Duckworth.
+
+Irwin, H.J., &amp; Watt, C. (2007). An Introduction to Parapsychology (5th ed.). McFarland.
+
+Ishida, M. (2012). A review of Sir William Crookes’s papers on psychic force with some additional remarks on psychic phenomena. Journal of Scientific Exploration&nbsp;26, 9–42.
+
+Kidd, I.J. (2014). Was Sir William Crookes epistemically virtuous? Studies in History and Philosophy of Biological and Biomedical Sciences December, 67-74.
+
+Lamont, P. (2005). The First Psychic: The peculiar mystery of a notorious Victorian wizard. London: Little, Brown.
+
+London Dialectical Society. (1871). Report on Spiritualism of the Committee of the London Dialectical Society, together with evidence oral and written, and a selection from the correspondence. London: Longmans, Green, Reader, &amp; Dyer.
+
+Maskelyne, J.N. (n.d., ca 1876). Modern Spiritualism. London: Frederick Warne.
+
+Medhurst, R.G., &amp; Goldney, K.M. (1964). William Crookes and the physical phenomena of mediumship. Proceedings of the Society for Psychical Research 54, 25–157.
+
+Medhurst, R.G., Goldney, K.M., &amp; Barrington, M. R. (Eds.). (1972). Crookes and the Spirit World. London: Souvenir.
+
+Myers, F. W. H. (1894). The experiences of W. Stainton Moses. Proceedings of the Society for Psychical Research&nbsp;9, 245–53.
+
+Noakes, R. (2002). “Instruments to lay hold of spirits”: Technologising the bodies of Victorian spiritualism. In&nbsp;Bodies/Machines, ed. by&nbsp;I.R. Morus, 125–63. Oxford: BERG.
+
+Noakes, R. (2004). Spiritualism, Science and the Supernatural in Mid-Victorian England. In&nbsp;The Victorian Supernatural, ed. by&nbsp;N. Bown, C. Burdett, &amp; P. Thurschwell, 23–43. Cambridge: Cambridge University Press.
+
+Noakes, R. (2008). The ‘world of the infinitely little’: Connecting physical and psychical realities circa 1900. Studies in History and Philosophy of Science 39. 323–34.
+
+Oppenheim, J. (1985). The Other World: Spiritualism and psychical research in England, 1850–1914. Cambridge: Cambridge University Press.
+
+Owen, R.D. (1875). Touching visitants from a higher life: A chapter of autobiography. Atlantic Monthly&nbsp;35, 57–69.
+
+Palfreman, J. (1976). William Crookes: Spiritualism and science. Ethics in Science &amp; Medicine&nbsp;3, 211–27.
+
+Perty, M. (1877). Der jetzige Spiritualismus und verwandte Erfahrungen der Vergangenheit und Gegenwart. Leipzig: C.F. Winter.
+
+Pioda, A. (1891). Memorabilia. Bellinzona: Eredi C. Colombi.
+
+Podmore, F. (1897). Studies in Psychical Research. London: G.P. Putnam’s Sons.
+
+Podmore, F. (1902). Modern Spiritualism: A history and a criticism (Vol. 2). London: Methuen.
+
+Purrington, R.D. (1997). Physics in the Nineteenth Century. New Brunswick, NJ: Rutgers University Press.
+
+Radin, D. (2016). Selected psi research publications. Online: http://deanradin.com/evidence/evidence.htm
+
+Sargent, E. (1869). Planchette; or the despair of science. Boston: Roberts Brothers.
+
+Sellers, C. (1871). Some remarks on “Experimental Investigations of a New Force, by William Crookes, F.R.S.” Journal of the Franklin Institute 62(s.3), 211–14.
+
+Sidgwick, E. (1886). Results of a Personal Investigation in the ‘Physical Phenomena of Spiritualism, With Some Critical Remarks on the Evidence for the Genuineness of Such Phenomena, Proceedings of the Society for Psychical Research 4, 45-74.
+
+Sommer, A. (2010). Review of William Crookes (1832–1919) and the commercialization of science, by W.H. Brock. Journal of the Society for Psychical Research&nbsp;74, 45–52.
+
+Stein, G. (1993). The Sorcerer of Kings: The case of Daniel Dunglas Home and William Crookes. Buffalo, NY: Prometheus Books.
+
+Stewart, B. (1871). Mr. Crookes on the “psychic” force. Nature 4, 237.
+
+Thomson, A. (1872). Biology. In Report of the Forty-First Meeting of the British Association for the Advancement of Science,&nbsp;114–22. London: John Murray.
+
+Torres-Solanot, Viscount [A.]. (1875). Controversia espiritista á propósito de los hermanos Davenport. Madrid: Estab. Tip. de los Sres. Viuda e Hijos de Alcántara.
+
+Tuckett, I.L. (1911). The Evidence for the Supernatural: A critical study made with "uncommon sense."&nbsp; London: K. Paul, Trench, Trübner.
+
+Varley, C. (1874). Electrical experiments with Miss Cook when entranced. Spiritualist Newspaper, March 20, 134–35.
+
+von Wagner, R. (1892).&nbsp; Manual of Chemical technology. London: J. &amp; A. Churchill.
+
+Wallace, A.R. (1866). The Scientific Aspect of the Supernatural. London: F. Farrah.
+
+Wallace, A.R. (1874). A defence of modern spiritualism. Fortnightly Review 15(n.s.), 630–57, 785–807.
+
+Weyde, P.V.H. (1871). On the psychic force. Scientific American 25, 197.
+
+Wiley, B.H. (2005). The Indescribable Phenomenon: The Life and Mysteries of Anna Eva Fay. Seattle, WA: Hermetic Press.
+
+Zeeman, P. (1907). Scientific worthies; XXXVI: Sir William Crookes, F.R.S. Nature 77, 1–3
+
+Zingrone, N.L., &amp; Alvarado, C.S. (2015). A Brief History of Psi Research. In E.C May &amp; S.B. Marwaha (Eds.), Extrasensory Perception: Support, skepticism, and science: Vol. 1: History, Controversy, and Research,&nbsp;35–79. Santa Barbara, CA: Praeger.
+
+Zorab, G. (1974). Correspondence. Journal of the Society for Psychical Research&nbsp;47, 466–69.   Endnotes 1. For information about Crookes’s life and work see Anonymous (1919); Barrett (1920); Brock (2008); Fournier d’Albe (1923); Zeeman (1907). 2. Brock (2008), xiv. 3. Brock (2008), 489-90. 4. Crookes (1871 f). 5. Crookes (1874 i). 6. Crookes (1874 a). 7. Crookes (1878 a). 8. Crookes (1881). 9. Crookes (1870 b). 10. Crookes (1874 g). 11. Crookes (1909). 12. Bell (1860). 13. Oppenheim (1985); Podmore (1902). 14. Wallace (1866, 1874). 15. Faraday (1853). 16. Carpenter (1871). 17. London Dialectical Society (1871). 18. Noakes (2004). 19. Brock (2008), 124. 20. Oppenheim (1985), 343. 21. Crookes (1871 g), 473-74. 22. Sargent (1869). 23. Medhurst et al (1972), 233. 24. Medhurst et al (1972), 233. 25. London Dialectical Society (1871). 26. Anonymous (1870). 27. Crookes (1870 c), 317. 28. Crookes (1870 c), 319-20. 29. Crookes (1870 a), 92. 30. Crookes (1889), 100. 31. Crookes (1874 e), 78. 32. Crookes (1897), 338. 33. Crookes (1897), 355. 34. Crookes (1899), 30. 35. Crookes (1871 b). 36. Crookes (1871 g). 37. Crookes (1871 b), 341-43. 38. Crookes (1871 b), 343-44. 39. Crookes (1871 b), 344. 40. Crookes (1871 b), 344. 41. Crookes (1871 g), 486. 42. Crookes (1871 g), 491. 43. Crookes (1889). 44. Crookes (1889), 120. 45. Crookes (1874 e), 78. 46. Note: Katie King is here referred to in relation to Florence Cook, and not to her supposed appearances via other mediums, e.g. Owen (1875). 47. e.g.Hall (1962); Medhurst &amp; Goldney (1964). 48. (1874 b, f, j). 49. Crookes (1874 j), 158. 50. Crookes (1874 b), 270-71 51. Varley (1874). 52. E. Crookes (1875), 312. 53. Crookes (1874 e), 83. 54. Crookes (1874 e), 89. 55. Cox (1879), 444. 56. Crookes (1874 d). 57. Medhurst &amp; Goldney (1964), 113. 58. Crookes (1875 b). 59. Crookes (1875 b), 128. 60. Sidgwick (1886). On Fay see Wiley (2005). 61. Medhurst et al (1972), 243. 62. Alvarado, 2015. 63. Crookes (1897), 352. 64. Crookes ( 1897), 352. 65. Crookes (1899), 30. 66. Crookes (1899), 30–31. 67. Crookes (1899), 31. 68. Crookes (1899), 32. 69. Purrington (1997). 70. Crookes (1861), 99. 71. Medhurst et al (1972), 233, 72. Medhurst et al (1972), 236. 73. Medhurst et al (1972), 236. 74. Crookes (1875 a). 75. Crookes (1874 e), 90–91. 76. Crookes (1874 e), 91. 77. Crookes (1874 e), 92. 78. Medhurst et al (1972), 240-41. 79. Crookes (1916), 397. 80. Crookes (1897), 343. 81. e.g., Wallace (1874); Podmore (1897). 82. Gibier (1887). 83. Brofferio (1893). 84. Perty (1877). 85. Torres-Solanot (1878). 86. e.g., Maskelyne (n.d.), Wallace (1874). 87. Anonymous (1871 a, d), Brevior (1871). 88. see, respectively, Anonymous (1871 b, c, e); Stewart (1871). 89. Crookes (1871 a, c, d); (1874 c). 90. Crookes (1872 b); (1874 k); Pioda (1891); Torres-Solanot (1875). 91. D. (1871). 92. Maskelyne (n.d.), 171. 93. Anonymous (1872 b, e). 94. Crookes (1871 g). 95. Crookes (1871 g). 96. Thomson (1872), 121. 97. Stewart (1871 b). 98. Stewart (1871), 237. 99. Crookes (1871 g). 100. Sellers (1871). 101. Crookes (1871 g). 102. e.g., Earwaker (1871); Weyde (1871). 103. Cox (1874), 273. 104. Clodd (1917), 100. 105. [Carpenter] (1871). 106. [Carpenter] (1871), 342–3. 107. Carpenter (1877 b). 108. Carpenter (1877 c). 109. Crookes (1871 g), 472. 110. Crookes (1871 g); for more details about critiques discussed by Crookes see S. Braude’s article about Daniel Dunglas Home in this encyclopedia. 111. Medhurst &amp; Goldney (1964), 142. 112. Crookes (1871 g). 113. Crookes (1871 f), 493. 114. Crookes (1871 e), 9; for a further encounter see Carpenter (1877 d) and Crookes (1877). 115. Anonymous (1919), viii. 116. Anonymous (1871 f), 1195. 117. Giovanni Damiani, 1870. 118. Anonymous (1872 d), 37. Many writers used concepts of vital and nervous forces to explain physical phenomena before Crookes, and many were not spiritualists, see Alvarado (2006). 119. Anonymous (1872 e), 37. 120. Anonymous (1872 c), 5. 121. Gully (1874), 96, 122. Anonymous (1874). 123. Crabtree (1988), 232. 124. Brock (2008); Medhurst &amp; Goldney (1964). See also Wiley (2005). 125. Medhurst &amp; Goldney (1964), 141–42. 126. Hall (1962). 127. Brandon (1983). 128. Oppenheim (1985), 341. 129. See also Barnard (1963); and Zorab (1974). 130. e.g., Irwin &amp; Watt (2007); Zingrone &amp; Alvarado (2015), 131. e.g., Kidd (2014); Noakes (2002). 132. e.g., Braude (1997; 2007). 133. Crookes (1874 h and 1889. 134. Radin (2016). 135. Brock (2008). 136. On this see a similar point made earlier by a spiritualist, Anonymous (1875); and Ferreira (2004). 137. Brock (2008), 209. 138. Fournier d’Albe (1923). 139. Medhurst, Goldney and Barrington (1972). 140. e.g., Crookes (1872 b; and (1878 b); Pioda (1891). 141. Medhurst &amp; Goldney (1974). 142. Hall (1962). 143. Kidd (2014); Noakes (2002); Oppenheim (1985); Palfreman (1976). 144. Noakes (2008). 145. Ferreira (2004). 146. Ferreira (2004), 553. 147. Podmore (1902). 148. Doyle (1926). 149. Doyle (1926 vol. 1, 236. 150. Braude (1997 and 2007. 151. Ishida (2012). 152. Lamont (2005). 153. e.g., Brock (2008); Oppenheim (1985). 154. Braude (1997 and 2007).           			  			     			This page was last updated on: April 19, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Carlos S. Alvarado Word count: 10,500 Created: 8th April 2018 Last updated: 19th April 2023 May be cited as:Alvarado, C. S. (2018). &lsquo;William Crookes&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/william-crookes&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y23tc3am                   	                                                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/william-crookes

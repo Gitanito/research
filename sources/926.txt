@@ -1,0 +1,228 @@
+{"name":"Psi Research in North America | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/psi-research-north-america","mytitle":"Psi Research in North America | Psi Encyclopedia","mylang":"de"}
+                     Psi Research in North America | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Psi Research in North America                                                                                                                                                                                                                          This article describes key organizations and individuals involved in psi research in the US and Canada, from the field’s beginnings in the 1930s to the present day.   Contents   	Beginnings at Duke University  	'Forced Choice' Card Guessing 	Shift to 'Free Response'   	Other Research Organizations  	Division of Perceptual Studies, University of Virginia 	Institute of Noetic Sciences 	Laboratory for Advances in Consciousness 	Laboratories for Fundamental Research 	PEAR 	Psychical Research Foundation 	Psychophysical Research Laboratory (PRL) 	Star Gate Program at SRI/SAIC 	Theoretical and Applied Neurocausality Laboratory. U.C. Santa Barbara 	Windbridge Research Center   	Individual Researchers  	Daryl Bem 	William Braud and Marilyn Schlitz 	James Carpenter 	Edwin May 	Julia Mossbridge 	John Palmer 	Michael Persinger&nbsp; 	Dean Radin   	Future Directions  	Unconscious Psi Testing 	Psi and AI   	Table 	Literature 	Endnotes     Beginnings at Duke University  'Forced Choice' Card Guessing
+
+Experimental parapsychology in North America began with the&nbsp;work of Joseph Banks Rhine in the early 1930s at the psychology department of Duke University, Durham, North Carolina.1 ESP research had been carried out sporadically since the 1880s, notably card-guessing experiments by the French physiologist and psychical research Charles Richet.2 Rhine’s standardized approach placed psi research on the academic map for the first time.
+
+Early studies at Duke employed regular playing cards, where subjects attempted to guess a suit (probability 1 in 4) or colour (probability 1 in 2). Rhine found this unsatisfactory, as extraneous details such as the value of the suit could be a distraction, preferring instead a bespoke set of targets with equal visual ‘weight’ and sufficiently high probability to maintain interest. Together with his colleague Karl Zener, a perceptual psychologist, he created what became known as Zener cards, consisting of five designs: wavy lines, circle, square, star and cross.
+
+Rhine published positive findings in his book Extrasensory Perception in 1934, and this encouraged other open-minded, even sceptical scientists to try similar experiments. Between the early 1930s and the outbreak of World War II, Rhine’s work was replicated by several dozen investigators, often with significant results. But Rhine’s prescriptions often failed as well, and some experimenters remained sceptical of psi’s existence. (See Experimental Parapsychology/The Rhine Era)
+
+In 1940, Rhine published ESP Research After 60 years (commonly referred to as ESP-60, a comprehensive survey of card guessing research carried out since the 1880s. This found that around 60% of the experiments had returned significant results – far above the 5% expected by chance, and vastly significant overall.3 The data encouraged several well-regarded psychologists to publicly endorse the reality of ESP. &nbsp;One was Professor Hans Eysenck, chairman of the psychology department at the University of London, who in 1957 wrote:  
+
+Unless there is a gigantic conspiracy involving some thirty University departments all over the world, and several hundred highly respected scientists in various fields, many of them originally hostile to the claims of the psychical researchers, the only conclusion the unbiased observer can come to must be that there does exist a small number of people who obtain knowledge existing either in other people's minds, or in the outer world, by means as yet unknown to science. This should not be interpreted as giving any support to such notions as survival after death, philosophical idealism, or anything else...4
+
+A 1997 survey5 of 186 publications and 4 million trials found the overall odds against chance to be around 10102 &nbsp;to 1, in excess of a million billion to one. Since extreme odds only provide assurances regarding statistical certainty, the study focused attention on a high quality subset of 34 studies carried out between 1934 and 1939, comprising some 907,000 trials: here, the statistics also yielded astronomical results, many trillions to one against chance. Against allegations of a ‘file-drawer’ effect caused by unsuccessful studies being excluded from such surveys, the data showed that more than 29,000 studies would be required to nullify the extant database, that is, 820 times the actual number of reported studies, effectively ruling it out as an explanation.
+
+Rhine continued these tests &nbsp;until he retired from Duke in 1965, at which time he moved the lab off-campus and renamed it the Foundation for the Research on the Nature of Man (FRNM). In 1995 the centre was renamed the Rhine Research Centre (RRC) and in 2002 it moved to its current home in a larger building nearby, managed by&nbsp; executive director John Kruth.  Shift to 'Free Response'
+
+The Rhinean school of parapsychology, with its emphasis on forced choice guessing, was dominant from its inception in the 1930s through to the 1970s. At this time a new wave of ESP research took hold, that of free-response testing. Here, instead of being asked to identify the correct target from a group of images, the subject is encouraged to vocalize any impressions about it, and then asked to score these against each of the possible targets. If the mentation most closely matches the actual target, this is deemed a hit. In a commonly-used variation, the scoring is carried out by an independent judge not involved in the experiment.
+
+With this fresh perspective the late 1960s and early 1970s birthed promising new research paradigms, notably ‘ganzfeld’ and ‘remote viewing’, William Braud’s progressive relaxation studies,6 and dream telepathy research by Stanley Krippner at the Maimonides Dream laboratory.7 The Rhine Research Centre has furnished the accumulating free-response evidence base, especially with regard to ganzfeld experiments,8&nbsp; and has contributed largely to understanding the processes that underlie these phenomena.
+
+The centre became important in fostering the free-response revolution of the 1970s, which was characterized in particular by the Ganzfeld method. It also nurtured parapsychologists who went on to develop other free response methods, such as the progressive relaxation research of William Braud,9 assisted by RRC alumnus Marilyn Schlitz (see below).
+
+In addition to its ESP research the Rhine Research Centre has been at the forefront of psychokinesis work, especially in the realm of biophoton detection.  Other Research Organizations  Division of Perceptual Studies, University of Virginia
+
+The School of Medicine at the University of Virginia has been home to laboratory-based psi and field research since 1967, when psychiatrist Ian Stevenson founded the Division of Personality Studies (now the Division of Perceptual Studies, DOPS) &nbsp;Much of its research is focused on the area of post-mortem survival, in particular cases of the reincarnation type (CORT). Stevenson amassed more than two thousand cases of young children, principally in third-world countries, who at an early age spoke of people and circumstances that on investigation were found to match closely with the lives of recently deceased individuals.10 Work on this database continues, with sophisticated correlational research aimed at unlocking relationships.
+
+The centre also investigates near-death experiences (NDEs), out-of-body experiences (OBEs) and deathbed visions, and carries out psi and altered states research (see below).
+
+In the last decade the centre has become active in research with specially gifted subjects. Since 2009 its Ray Westphal Laboratory has probed putative PK abilities using state-of-the-art detectors to detect changes in the local magnetic or electrical field, for instance the amount of solar radiation impinging on a remote sensor. These appear to show anomalous perturbations when certain subjects such as healer Edd Edwards are instructed to try to influence them (Edwards has also been successfully tested at the Rhine Research Centre’s biophoton lab).  Institute of Noetic Sciences
+
+The Institute of Noetic Sciences (IONS) was founded in 1973 in Petaluma, California by astronaut Edgar Mitchell, and is arguably the most active psi research centre in the US. &nbsp;It hosts seven researchers active in aspects of frontier consciousness research: Cassandra Vieten, Garret Yount, Loren Carpenter, Arnaud Delorme, Helene Wahbeh, Julia Mossbridge and Dean Radin. Their work covers key areas of frontier consciousness research, including   	mindfulness approaches for healing 	distant intention on gene expression 	virtual reality for inducing transformative experiences 	advanced EEG research of mediums 	channelling 	presentiment, precognition 	optical physics   Laboratory for Advances in Consciousness
+
+The Laboratory for Advances in Consciousness (LACH) was first established in 1990 as the Human Energy Systems Laboratory (HESL) at the University of Arizona, to explore the role of energy in medicine (healing) and psychology. Allied to this research initiative, Harvard-trained professor Gary Schwartz started the VERITAS Research Program in the Department of Psychology, primarily concerned with mediumship and survival. HESL was renamed The Laboratory for Advances in Consciousness in 2003. The VERITAS program ended in 2008, though Schwartz continues the research with the SOPHIA Research Program.  Laboratories for Fundamental Research
+
+The Laboratories for Fundamental Research (LFR) was founded by Edwin May in 1996 after the remote viewing program at Science Applications International (SAIC) was closed. The LFR program is multidisciplinary and motivated by a reductionist exploration of psi phenomena. See also Edwin May, below.  PEAR
+
+The program of the Princeton Engineering Anomalies Research (PEAR) Laboratory ran under the auspice of the late Robert Jahn, rocket propulsion engineer at Princeton, from 1979 to 2007. It closed when the PEAR researchers felt that the lab had fulfilled its aim of providing irrefutable evidence of psychokinesis effects. Lab manager Brenda Dunne observed:  
+
+We have accomplished what we originally set out to do 28 years ago, namely to determine whether these effects are real and to identify their major correlates. There are still many important&nbsp;questions to be addressed that will require a coordinated interdisciplinary approach to the topic, but it is time for the next generation of scholars to take over.11
+
+Today, the PEAR legacy continues in the work of the International Consciousness Research Laboratories (ICRL)&nbsp;  Psychical Research Foundation
+
+The Psychical Research Foundation (PRF) was established in 1961 in North Carolina, conducting psi research related to survival. William G Roll served as its first research director and primary researcher. In later years Roll moved to West Georgia College, now the University of West Georgia, maintaining his connection with the PRF. &nbsp;The PRF is managed by Bryan Williams, who is active in field-PK research and carries on Roll’s legacy by maintaining the website. (See Psychokinesis Research).  Psychophysical Research Laboratory (PRL)
+
+The Psychophysical Research Laboratory in Princeton, New Jersey (PRL) was established in the late 1970s by Charles Honorton, another alumnus of the Rhine Research Centre. PRL pioneered the use of automated ganzfeld testing, and eventually furnished highly significant and good quality evidence, paving the way for automated testing more generally.12  Star Gate Program at SRI/SAIC
+
+Another major line of research was remote viewing research sponsored by the US military, named the Star Gate Program. This was begun in the early 1970s at Stanford Research Institute (SRI), and included both operational and lab-based testing of remote viewing ability. In the early 1990s it moved to Science Applications International Corporation (SAIC), an independent testing laboratory used extensively by government agencies. It ended in late 1995. Edwin May, the principle scientist throughout this period transferred his research to the Laboratories for Fundamental Research (LFR) the following year (see below).  Theoretical and Applied Neurocausality Laboratory. U.C. Santa Barbara
+
+Established very recently, the Theoretical and Applied Neurocausality (TANC) Laboratory&nbsp;focuses on the phenomenon of presentiment in the brain. Founded by Stephen Baumgart, Michael Franklin, and Jonathan Schooler, it existed as an independent non-profit until September 2017, at which point it became a University of California, Santa Barbara research center. TANC Lab’s research builds on previous pilot experiments by the founders into presentiment. The laboratory is intended as an interdisciplinary effort by physicist Stephen Baumgart and research psychologists Michael Franklin and Jonathan Schooler but also includes undergraduate research assistants and outside volunteers. TANC Lab is almost entirely funded via private sources. In recent commentaries published in Frontiers in Psychology and Psychology of Consciousness: Theory, Research, and Practice&nbsp;the leaders of TANC Lab have taken a generally agnostic approach on the existence of psi but strongly advocate research in an academic research environment.  Windbridge Research Center
+
+The Windbridge Research Center&nbsp;was founded as The Windbridge Institute in Tucson, Arizona 2008 by husband and wife team Mark Boccuzzi and Julie Beischel to conduct evidence-based research of mediums. Under quintuple-blinded conditions, with several layers of control to guard against bias,13 mediums have produced statistically significant and replicable evidence of psychic functioning. &nbsp;The Windbridge team has collaborated with the Institute of Noetic Sciences mediumship program. The centre also acts as a quality control and training hub for upcoming mediums, who must pass stringent tests of evidentiality to become certified, providing a pool of talent for other researchers. A current project is the BAM (Bereavement and Mediumship) study, a clinical trial looking at the therapeutic effects of mediumship readings that use bereavement counselling as a control.  Individual Researchers
+
+Significant contributions have been made by individual researchers not connected to a larger research program, some of whom are described below.  Daryl Bem
+
+Notable recent work has been published by Daryl Bem, a psychologist based at Cornell University. Starting in the early 2000s Bem devised a way to test precognitive influences by reversing the temporal sequence in standard psychological experiments. He reasoned that if precognitive influences from the future exist they might manifest by unconsciously affecting human behaviour in the present. Accordingly, behavioural measures that would ordinarily be taken at the end of a study to measure the impact of experimental manipulations are instead taken at the beginning. In 11 studies Bem found a consistent, highly replicable effect at the level of 6 sigma (billions to one against chance), and across several different types of experiment, from recalling words to the effect of erotic stimuli.
+
+When Bem published his results in a high-profile journal14 he was attacked by the scientific community, some claiming that if he followed the usual rules of science something must be wrong with the scientific process itself.15 The debate over his findings helped ignite the recent controversy concerning replicability of findings in science, especially the social sciences, a process which has led to improved practices such as pre-registration and open access to research data.16 There followed many attempts to replicate Bem’s results, with several highly-publicized failures, but also strong support from a 2015 meta-analysis of 90 such experiments.17  William Braud and Marilyn Schlitz
+
+Marilyn Schlitz and William Braud ran a successful program at the Mind Science Foundation in Austin, Texas during the 1980s, before it turned its attention to more mainstream research in consciousness. They amassed a database cataloguing the effects of distant psychokinesis on living systems, including human electrodermal activity,18 the behaviour of fish,19 and subjects’ own red blood cells.20&nbsp; These experiments were characterized by strict methodologies: randomized, counter-balanced blinded protocols, where any possibility of any artifactual influence was kept to a minimum. A summary of their work with human subjects21 found overall significance at the 6 sigma level (billions to one against chance).
+
+This created a new paradigm in research parapsychology, that of Distant Mental Interactions with Living Systems (DMILS). A 2004 meta-analysis found consistent effects over several decades and by many investigators, supporting the positive findings of this earlier work.22  James Carpenter
+
+James Carpenter is a psychologist and registered psychotherapist active in free response research at the Rhine Research Centre. In a landmark study, Carpenter analyzed transcripts from hundreds of ganzfeld sessions to try to identify variables associated with high scoring. He then tested this in a further large sample, confirming their predictive value. He found that successful hitting was predicted primarily by positive or neutral experiences on the part of the subject in an experimental session, with imagery suggestive of a capacity for self-transcendence, emotional closeness and deep trust. Failure or ‘missing’ is predicted by excessive verbosity, along with an overly cognitive, intellectualized approach, anxiety and attendant defences.23
+
+Carpenter has also been active in developing his First Sight theory, according to which psi is not an aberration, but rather is always and continuously active as part of humans’ engagement with ‘extended reality’.24 (Article in preparation)  Edwin May
+
+Following the closure of the Star Gate program, its director Edwin May founded the Laboratories for Fundamental Research (LFR), following a multidisciplinary motivated by a reductionist exploration of psi phenomena. Untypically for a parapsychologist, May believes a revolution in the scientific worldview is not necessary to accommodate psi phenomena, but rather that a physicalist explanation for consciousness, one that includes psi, will eventually be reached.
+
+Recent research programs at LFR bear out this approach, for example, a remote viewing study in which the subject is asked to view a distant site in which half the sessions have an added twist: an assistant releases liquid nitrogen in the vicinity of the area. May’s hypothesis is that the increased randomness (increased entropy) in the area will facilitate remote viewing success, compared to control areas where no liquid nitrogen is released.
+
+May is also developing a materialist theory of precognition, which has recently been published in a prestigious journal.25 This compartmentalizes precognition into a physics domain, asking how the signal actually reaches through time to the brain, and also a psychological domain, asking how the brain then processes the signal to arrive at a precognitive insight.&nbsp;  Julia Mossbridge
+
+Julia Mossbridge is a former neuroscientist at Northwestern University, where her research found evidence for presentiment in subjects’ EEG responses in competitive games of chance, before they were exposed to rewarding material; this occurred even in experiments that controlled for potential expectation effects.26 Mossbridge took her research to IONS where she founded the Innovation lab, a bespoke research space aimed at providing novel avenues in psi experimentation. The latest of these has been the development of a mobile app, named PsiQ, which is designed to test for psi ability in the general population. Uptake has been promising, and early results reveal interesting effects in relation to age and gender.27  John Palmer
+
+John Palmer, director of research at the Rhine Research Centre, has studied the role played by motor automatisms (unconscious hand movements) in the manifestation of psi, for which he has received significant funding. A recent study involved an individual at a distance mentally ‘sending’ targets, in the form of English words, to a ‘receiver’ manipulating a Ouija board. The receiver is asked to rate a set of possible targets, based on letters chosen earlier, along with any mental impressions. Subjects who reported being guided by an outside force scored significantly higher than those who did not, supporting the hypothesis of distant influence on these idiopathic hand movements.28 Such phenomena are used to explain away claims of psi with regard to Ouija boards and dowsing, but this research indicates motor automatisms may actually provide opportunities for psi to manifest. Palmer’s findings are confirmed by conceptually similar experiments funded by the Bial foundation.29  Michael Persinger&nbsp;
+
+The most notable Canadian researcher is neuroscientist Michael Persinger, a professor at Laurentian University, Sudbury, Ontario. &nbsp;Like Edwin May, Persinger regards psi as having a physical etiology. He is known for his ‘God helmet’, a cap fitted with magnets that produces a patterned magnetic field focused on the temporal lobes,30 the seat of mystical religious experiences, often causing strange experiences. The replication record of this work is mixed,31 and recently, Christine Simmonds-Moore failed to replicate the main findings.32
+
+Persinger has also worked with psychics such as Ingo Swann33 and Sean Michael Harribance.34 In these, as in other studies, he typically finds strong effects, but explains them within a strictly materialist framework. In his most recent work, pairs of individuals separated by up to several thousand miles in some cases, wear a band around their head that produces a patterned magnetic field. In carefully controlled research, Persinger and his colleagues have shown correlations between subjects, as if they are entangled with each other (more can be learned here).  Dean Radin
+
+Dean Radin started professional psi research as a PhD graduate at Bell labs in the early 1980s. He found evidence for psychokinesis in early experiments35 and pursued these endeavours, first at Bell and later at other institutions including the PEAR lab in Princeton, Stanford Research Institute International, and the universities of Edinburgh and Las Vegas. In 2001 he joined IONS as chief research scientist. Radin has conducted research on many aspects of psi, notably presentiment, distant healing and mind-matter interactions
+
+Christine Simmonds-Moore
+
+Christine Simmonds-Moore is key investigator&nbsp;at the University of West Georgia&nbsp;which she joined in 2011 from the UK’s Liverpool John Moores University. She has researched psychological states associated with anomalous experiences and has found correlations between anomaly-prone personality types and schizotypy, that is, low level characteristics of schizophrenia such as dissociation and enduring imaginative states. Simmonds-Moore does not regard these states as necessarily pathological but rather falling on a continuum, with schizophrenic psychoses on the extreme end. Those who expressed healthier versions of schizotypy performed better on psi tasks than individuals whose lives were blighted by the condition.36
+
+Simmonds-Moore has also found a relationship between psi scoring and transliminality, or hypersensitivity to psychological material.33 Her approach is to bridge both parapsychology (investigating the psi question) and anomalistic psychology (investigating the psychological correlates of strange experiences).  Future Directions  Unconscious Psi Testing
+
+Just as the advent of free response testing in the 1960s displaced the earlier forced choice approaches, interest has shifted to a new paradigm in ESP testing, that of its non-conscious manifestation, as demonstrated,&nbsp;for instance, by Dean Radin’s presentiment research &nbsp;and conceptually similar experiments by Daryl Bem that measure subjects’ unconscious behavioural&nbsp;responses, rather than their conscious manifestation.
+
+This is also the case in psychokinesis research where a currently promising approach is the Correlational Matrix Method (CMM).&nbsp;Here, an excess of correlations during subjects’ intention periods can be found in comparison to control periods, even when subjects are unaware of the true purpose of the experiment.
+
+This approach is also found in the Global Consciousness Project (GCP) and field-PK research in general, which registers the influence that in some circumstances may be exerted unconsciously on random number generators. It is likely that unconscious psi testing will remain the dominant research paradigm in the foreseeable future. A potentially promising avenue is the adaptation of this research for mobile app testing, which will enable millions of people to participate in experiments and fuel future research advances.37  Psi and AI
+
+The possibility of psi carries implications in the emerging AI debate, and alliances between technology and psi researchers are starting to appear. The Innovation Lab at IONS recently convened meetings with AI experts helping to develop the PsiQ app (Julia Mossbridge, above).
+
+Independently, Mossbridge has been working with AI entrepreneur Ben Goertzel on their ‘Loving A.I Project’, aimed at developing the benevolent artificial intelligence of the future. In 2014, Goertzel published a book that details thirteen empirical research reports offering evidence of psi, which he co-edited with science fiction author Damien Broderick.38
+
+Michael Duggan  Table
+
+Major contributions from research centres in the US and Canada   	 		 			
+
+Research Centre 			 			
+
+Years active 			 			
+
+Type of research 			 		 		 			
+
+Institute of Noetic Sciences (IONS) 			 			
+
+1973 to present 			 			
+
+Presentiment, psychophysical interactions with light, mediumship EEG. 			 		 		 			
+
+Division of Perceptual Studies (DOPS) 			 			
+
+1967 to present 			 			
+
+Reincarnation, NDEs, altered states, PK testing of special subjects 			 		 		 			
+
+Psychical Research Foundation (PRF) 			 			
+
+1961 to present 			 			
+
+Poltergeists (historically), mediumship, field-PK, literary overviews of previous research. 			 		 		 			
+
+Psychophysical research labs (PRL) 			 			
+
+1982-1989 			 			
+
+Automated ganzfeld research 			 		 		 			
+
+Theoretical and Applied Neurocausality Laboratory (TANC) 			 			
+
+2015 to present 			 			
+
+Presentiment in the brain. 			 		 		 			
+
+Rhine Research Centre (FRNM, Duke parapsychology lab) 			 			
+
+Early 1930s to present 			 			
+
+Forced choice testing (historically), ganzfeld, motor automatisms, biophotons. 			 		 		 			
+
+Windbridge Centre for Research 			 			
+
+2008 to present 			 			
+
+Mediumship&nbsp; research. Psi and artificial intelligence 			 		 		 			
+
+Laurentian Neuroscience Research Group (NRG) 			 			
+
+1970s to present 			 			
+
+More materialist-oriented investigations of remote viewing, telepathy. 			 		 		 			
+
+Laboratories for Fundamental Research (LFR) Formerly SRI, SAIC – Ed May 			 			
+
+1970s to present 			 			
+
+More materialist-oriented investigations of precognition, remote viewing. 			 		 	   Literature
+
+Bem, D.J., Honorton, C. (1994). Does Psi Exist? Replicable Evidence of an Anomalous Process of Information Transfer, Psychological Bulletin 115/1, 4-18.
+
+Bem, D. J. (2011). Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect. Journal of Personality and Social Psychology, January 31, 407-25.
+
+Bem, D, Tressoldi, P.E., Rabeyron, T., and Duggan, M. (2015). Feeling the Future: A meta-analysis of 90 experiments on&nbsp;the anomalous anticipation of random future events. F1000 Research, January.
+
+Braud, W.G. (1974). Relaxation as a Psi Conducive State. Bulletin of the Psychonomic Society, February, 3/2, 115-18.
+
+Braud, W.G, &amp;&nbsp;Schlitz, M.J. (1983). Psychokinetic Influence on&nbsp;Electrodermal&nbsp;Activity. Journal of &nbsp;Parapsychology 47, 95-119.
+
+Braud, W.G, &amp;&nbsp;Schlitz, M.J. (1989) Distant mental influence of rate of&nbsp;hemolysis&nbsp;of human red blood cells.&nbsp;Journal of the American Society for Psychical&nbsp;Research 84, 1-24.&nbsp;
+
+Braud, W.G, &amp;&nbsp;Schlitz, M.J. (1991). Consciousness Interactions with Remote Biological Systems: Anomalous Intentionality Effects. Subtle Energies 2/1, 1-43.
+
+Carpenter, J.C. (2005). Implicit measures of participants experience in the ganzfeld: Confirmation of previous relationships in a new sample. The Parapsychological Association 48th Annual Convention Proceedings of Presented Papers, 36-45.
+
+Carpenter, J.C. (2012). First Sight, ESP and Parapsychology in Everyday Life. Lanham, MD: Rowman &amp; Littlefield.
+
+Eysenck, H.J. (1957). Sense and Nonsense in Psychology. London: Pelican.
+
+Goertzel, B., Broderick, D.. eds. (2014). Evidence for Psi: Thirteen Empirical Research Reports. Jefferson, NC: McFarland.
+
+Krippner, S. Ullman, M. (1973). Dream Telepathy: Experiments in Nocturnal ESP. Jefferson, NC: McFarland.
+
+Leininger, B. (2010) &nbsp;Soul Survivor: The Reincarnation of a World War II Fighter Pilot. New York: Grand Central Publishing.
+
+May, E. Marwaha, S.B., (2015). Rethinking Extrasensory Perception: Toward a Multiphasic Model of Precognition. Sage Open 24th March.
+
+Mossbridge,J., Grabowecky,M., &amp; Suzuki,S. (2011). Physiological markers of future outcomes: Three experiments on subconscious psi perception during concurrent performance of a guessing task. The Parapsychological Association, 54th Annual Convention Abstracts of Presented Papers.
+
+Palmer ,J. (2011). Motor automatisms as a vehicle of ESP expression. Journal of Parapsychology 75(1), 45–60.
+
+Palmer, J. (2013). Extrasensory perception, dissociation, and motor automatisms. Abstracts of Presented Papers: 56th Annual Convention of the Parapsychological Association.
+
+Persinger&nbsp;M.A., Roll, W.G., Tiller, S.G., Koren S.A., Cook C.M.&nbsp;(2002). Remote Viewing with the Artist&nbsp;Ingo Swann: Neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI), and possible mechanisms.&nbsp;Perceptual and Motor Skills June 94/3, 927-49.
+
+Radin, D.I.&nbsp;(1981).Mental influence on machine-generated random events: Six experiments.&nbsp;Research in Parapsychology, 141-42.
+
+Radin, D. (1997). The Conscious Universe. New York: HarperCollins.
+
+Richet, C. (1884). La suggestion mentale et le calcul des probabilités.&nbsp;Revue Philosophique de la France et de l’Étranger, 18,&nbsp;609–74.
+
+Rouleau, N. and Persinger, M. (2015). Enhancement of Theta and Gamma Activity Power Within Fixed Sections of Human Brains Stimulated by Sean Harribance’s Electroencephalographic Configuration: Is he Equivalent to a ‘Universal Donor’ for Entanglement. Neuroquantology 13/4, 384-398.
+
+Rhine, J.B. (1934). Extrasensory Perception. Boston: Boston Society for Psychical Research.
+
+Rhine, J.B. Pratt, G. (1940). Extrasensory Perception after 60 Years. New York: Holt.
+
+Schlitz, M. J. &amp; Braud, W.G. (1997). Distant Intentionality and Healing: Assessing the Evidence. Alternative Therapies&nbsp;in Health and Medicine,&nbsp;3/6, 62-73.
+
+Schmidt, S., Schneider, R., Utts, J. and Walach, H. (2004). Distant intentionality and the feeling of being stared at: Two meta-analyses. British Journal of Psychology 95, 235–247.
+
+Simmonds-Moore, C. (2012). Exploring the Perceptual Biases associated With Paranormal Belief and Disbelief. Parapsychological Association 52nd Annual Convention Abstracts of Presented Papers, 20.
+
+Simmonds-Moore, C., Rice, D., O’Gwin. (2017). Exceptional Experiences Under Placebo God Helmet Conditions. Proceedings of the 55th Parapsychological Association.
+
+Stevenson, I. (1966). Twenty Cases Suggestive of Reincarnation. Charlottesville, VA: University of Virginia.   Endnotes 1. Rhine, 1934. 2. Richet, 1884. 3. Rhine &amp; Pratt, 1940. 4. Eysenck,1957. 5. Radin, 1997. 6. See https://psi-encyclopedia.spr.ac.uk/articles/william-braud#Selected_Liter... 7. Krippner &amp; Ullman, 1973. 8. https://jeksite.org/others/hk_1994_pa.pdf 9. Braud, 1974. 10. Stevenson, 1966. 11. http://www.princeton.edu/~pear/press-statement.html 12. Bem &amp; Honorton, 1994. 13. http://www.windbridge.org/papers/ResearchBrief_Proof.pdf 14. Bem, 2011. 15. https://slate.com/health-and-science/2017/06/daryl-bem-proved-esp-is-real-showed-science-is-broken.html 16. https://slate.com/health-and-science/2017/06/daryl-bem-proved-esp-is-real-showed-science-is-broken.html 17. Bem et al, 2015. 18. Braud &amp; Schlitz, 1983. 19. Braud &amp; Schlitz, 1991. 20. Braud &amp; Schlitz, 1989. 21. Braud and Schlitz, 1997. 22. Schmidt et al, 1974. 23. Carpenter, 2005. 24. Carpenter, 2012. 25. May et al, 2015. 26. Mossbridge et al, 2011. 27. Personal communication, December 2017. 28. Palmer, 2011. 29. Palmer, 2013. 30. https://www.youtube.com/watch?v=8YPOTaUyvA0 31. https://w3.psychology.su.se/staff/pgran/Granqvistetal2006.pdf 32. Simmonds-Moore, 2017. 33. Persinger et al, 2002. 34. Rouleau &amp; Persinger, 2015. 35. Radin, 1981. 36. Simmonds-Moore, 2012. 37. http://consciousness-app.com/ 38. Goertzel &amp; Broderick, 2014.           			  			     			This page was last updated on: April 10, 2021   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 4,400 Created: 12th February 2018 Last updated: 10th April 2021 May be cited as:Duggan, M. (2018). &lsquo;Psi Research in North America&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/psi-research-north-america&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y4qdobmd                   	                                             See also:      Experimental Parapsychology Experimental Parapsychology in Europe Experimental Parapsychology in the UK Ganzfeld ESP Remote Viewing Princeton Engineering Anomalies Research (PEAR) Dean Radin Psychokinesis Research                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/psi-research-north-america

@@ -1,0 +1,212 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/brain-and-psi","mytitle":"The Brain and Psi | Psi Encyclopedia","mylang":"de"}
+                     The Brain and Psi | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           The Brain and Psi                                                                                                                                                                                                                          Electroencephalography (EEG) – a non-invasive technique for measuring brain activity – has been used in experimental psi research since the 1960s. More recently, investigators have also benefited from advancements in brain imaging technology. This article gives examples of the approaches that are being used both to demonstrate psychic functioning and to understand its neural correlates.
+
+Note: In psi experiments, the term ‘sender’ denotes a person attempting in controlled conditions to interact telepathically with a second person at a distance, who is termed the ‘receiver’.   Contents   	Telepathic Interaction Studies  	Duane and Behrendt, 1965 	Targ and Puthoff, 1976 	Kittenis, Caryl and Stevens, 2004 	Standish, 2004-5 	Moulton and Kosslyn, 2008 	Hinterberger, 2009 	Tressoldi, 2015   	Clairvoyance Studies  	Gerard Senehi 	Ingo Swann   	Precognition Studies  	Bierman and Scholte, 2002 	Lobach, 2006 	Kittenis, 2011 	Tressoldi, 2015 	Jolij and Bierman, 2017   	Alpha Waves Studies  	Honorton, Davidson and Bindler, 1971 	Stanford and Stevenson, 1972 	Ramakrishna Rao, 1973 	Stanford and Palmer, 1975 	Maher, 1986 	Sean Harribance   	RNG Psychokinesis (PK) Studies  	Schmidt, 1977 	Heseltine, 1977 	Honorton and Tremmel, 1979 	Giroldini, 1991 	Morris Freedman   	Neuroimaging Review 	Literature 	Endnotes     Telepathic Interaction Studies
+
+One line of parapsychological research uses brain monitoring to demonstrate telepathic interactions, typically between emotionally bonded individuals such as twins, couples and friends.  Duane and Behrendt, 1965
+
+Ophthalmologists Duane and Behrendt at the University of Philadelphia used EEG to monitor pairs of identical twins, each separated from the other in separate rooms at a distance of six metres.1 When one member of each pair obeyed an instruction to relax and close their eyes in order to facilitate alpha wave expression, the resulting change in the EEG recording was found to be mirrored in that of the other twin. The experimenters tentatively termed the phenomenon ‘extrasensory induction’. &nbsp;This was the first experiment of its kind, but scepticism of the findings prevented follow-up replications being carried out.  Targ and Puthoff, 1976
+
+Russell Targ and Hal Puthoff at the Stanford Research Institute worked with pairs of volunteers, finding that when one of the pair was exposed to stroboscopic light flashes, synchronous changes were sometimes found in the other.2 With one couple, the EEG changes in the second invidual were so pronounced, the experimenters said they resembled those of someone who had been directly exposed to the light flashes.&nbsp;The results indicated that the EEG voltage in the alpha band varied as a function of light flash rate, such that faster rates (16 flashes per second) produced lower voltages as compared to slower rates&nbsp;(for example&nbsp; 0-6 flashes).  Kittenis, Caryl and Stevens, 2004
+
+Marios Kittenis and colleagues at Edinburgh University’s Koestler Parapsychology Unit investigated the extent to which the degree of emotional connection between two people might influence the degree of ‘telepathic bonding’ detected in their EEGs.3 &nbsp;Forty-one participants were assigned to one of three groups: emotionally close individuals (related); pairs of recent strangers (unrelated); and single individuals who remained unpaired. To induce a shared state of consciousness, related pairs spent some time alone before&nbsp;simultaneously listening&nbsp;to a recording of a relaxation procedure, followed by fifteen minutes of continuous drumming. In this group, statistically significant correlations were found between light flashes experienced by one individual and the corresponding brain activity in the distantly located partner (p = 0.023). The unrelated pairs showed a positive but smaller effect. Overall, the results were significant (p = 0.007).&nbsp;&nbsp;As expected, unpaired individuals showed no brain correlations with light flashes triggered in an empty room at a distance.  Standish, 2004-5
+
+Leanna Standish at Bastyr University conducted experiments with couples and twins. In her first experiment, spikes in neural activity in one individual were found to synchronize with those of another remotely located person when that person was exposed to a flashing light or loud noise.4&nbsp;
+
+These findings were replicated using Functional Magnetic Resonance Imaging (fMRI).5 One member of a couple, having been electrically and magnetically shielded, was exposed to a flickering checkerboard pattern. The other, having been placed in a scanner wearing sensory isolating goggles, was monitored for changes in brain activity. Correlations between the two were found at a statistically significant level (p = 0.001), in the form of notable changes in neurometabolic activity within the visual cortex of the person in the scanner, occurring roughly at the same time.  Moulton and Kosslyn, 2008
+
+Samuel Moulton, a Harvard psychology graduate student, and Stephen Kosslyn, a Harvard psychology professor, published a high-profile study investigating telepathy.6 They recruited 16 pairs of individuals sharing an emotional bond, with one acting as the ‘receiver’ monitored by fMRI, the other acting as ‘sender’ at a distance. Each receiver was shown two images and asked to identify which of the two was being ‘sent’ telepathically by the other person. Guessing accuracy was almost exactly at chance (49.9%), and no significant differences in brain activity between hits and misses were found. Pronounced brain differences in one subject (p = 0.001) were dismissed as artifactual.  Hinterberger, 2009
+
+Thilo Hinterberger at the University of Regensburg conducted research in which pairs of emotionally bonded participants were separated by a large distance – one situated in Freiburg, Germany, the other in Northampton, England.7 When one member was exposed to highly emotional stimuli (violent disturbing images), the ‘receiver’ twin displayed significant correlations (p = 0.01) in their alpha EEG spectrum.  Tressoldi, 2015
+
+Patrizio Tressoldi at the University of Padua experimented with twenty pairs of subjects, in which one individual received both visual and auditory stimulation while the other’s EEG was being monitored for synchronous signals indicating telepathic transfer of information.8 Analysis revealed an overall increase in the correlation among the EEG channels of the isolated distant partners to a statistically significant degree. Additionally, Tressoldi found a correlation in the strength of EEG signals between sender and receiver participants.  Clairvoyance Studies  Gerard Senehi
+
+In 2008 a group of Indian researchers used fMRI to examine the brain activity of Gerard Senehi,&nbsp;a 46-year-old nationally known psychic, while he was attempting to describe a picture being drawn by an experimenter in a different room.9 The results were significantly more accurate than those obtained by a control person. The fMRI scan revealed an abnormal level of activity in the right para hippocampal gyrus, an area associated with spatial awareness and memory.&nbsp; However, the subject of the drawing was based on experimenter choice instead of being randomly selected, a flaw that potentially enabled the psychic to identify it by non-paranormal means.  Ingo Swann
+
+In the late 1990s, Ingo Swann was tested by Michael Persinger, probing for neural correlates of successful remote viewing performance.10&nbsp; EEG recorded a spike in the 7-Hz range measured from the occipital lobes, while a structural MRI scan revealed unusual activity within the parieto-occipital region of the right hemisphere. Further testing showed that Swann’s remote viewing ability could be enhanced by applying a magnetic field. However, the experiment was marred by a failure to control for selection bias or to evaluate using blinded independent judging.  Precognition Studies  Bierman and Scholte, 2002
+
+Dick Bierman and Steven Scholte probed presentiment effects using fMRI. &nbsp;Ten subjects viewed randomly ordered sequences of emotional and neutral images.11 Female subjects exhibited significant differences in their visual cortex before being exposed to either an erotic or a frightening image, compared to neutral images (p = 0.05). Males showed increased brain activity before erotic images (p = 0.05). Independently, Bierman demonstrated presentiment of erotic images (p = 0.01).12  Lobach, 2006
+
+Dean Radin at the Institute for Noetic Sciences, together with Dutch parapsychologist Eva Lobach, investigated presentiment responses to an impending light flash.13 Recordings of EEG data were made for 20 subjects, each of whom was visually stimulated at random. Female participants demonstrated significant evidence of presentiment (p = 0.007); male participants did not.  Kittenis, 2011
+
+Marios Kittenis, while working as a researcher at Edinburgh’s Koestler Parapsychology Unit, looked for evidence of presentiment in conventional psychology EEG baseline data.14 These experiments involved registering differences in subjects’ EEG between familiar and unfamiliar faces. Kittenis found significant differences in voltage between familiar and unfamiliar faces in the baseline data before the faces were shown (p = 0.01) which he argued is evidence of presentiment and supports the approach of using mainstream data in psi research. Signal analysis further seemed to indicate that these changes in voltage were in the range of the theta: 3-7 Hz, alpha: 8-12 Hz, and low beta: 13-22 Hz, brain wave frequencies.  Tressoldi, 2015
+
+Patrizio Tressoldi and colleagues at the University of Padua probed subjects’ EEG for presentiment effects, using a simplified driving simulation that randomly presented either a car crash or no car crash at the end of each trial.15 Forty participants wired to EEG monitors were asked, first to passively watch the driving simulation, as the baseline condition, then to try to exert control over the car’s speed by using the computer keyboard spacebar to avoid crashing. Tressoldi found statistically significant differences in EEG readings in car crash trials compared to those in no-car crash trials a second before the car crash, providing evidence of an ‘anticipation effect’.
+
+Tressoldi speculates on mechanisms involving quantum mechanics, citing the theoretical proposal by Hameroff and Penrose based on brain microtubules. A fuller understanding might eventually offer the potential for ‘smart cars’ to be fitted with machine-integrated EEG software that alerts drivers to the presence of forthcoming dangers, he suggests.16  Jolij and Bierman, 2017
+
+Jacob Jolij and Dick Bierman, at the University of Groningen in the Netherlands, have looked for precognition effects in subjects’ EEG recordings.17 &nbsp;The subjects are presented in quick succession with ten static images, each lasting 100 ms (a tenth of a second). In the middle of the series the subject is exposed to a screen flash which is either blank or shows a schematic face (drawn in outline). Any prediction of the upcoming stimulus (face or no face) is identified by differences in voltage between the two categories in the pre-stimulus baseline region of the EEG. Jolij’s group has consistently found a prediction accuracy in the 53%-55% range, which is hugely significant statistically given the large number of trials.
+
+The authors note that these studies can be used in mainstream psychology work (for example, the effect of coffee on perceptual accuracy), offering an opportunity for psychology researchers to include psi research in their programs without too much controversy.  Alpha Waves Studies
+
+Psi functioning is thought to be facilitated by the state of wakeful relaxation in which the brain produces alpha waves, neural oscillations in the 8-12 Hz frequency range.&nbsp; This has been investigated in a number of ways.  Honorton, Davidson and Bindler, 1971
+
+Charles Honorton and colleagues selected subjects on the basis of their ability to produce alpha activity and had them participate in a short (20 minute) period of alpha neurofeedback training.18 &nbsp;The experiment was divided into alpha production and suppression trials, and although no significant difference in ESP scoring was found across these two types, scores were slightly higher in the alpha production trials than in the alpha suppression trials.  Stanford and Stevenson, 1972
+
+Rex Stanford at St John’s University in New York examined the alpha measures of subjects carrying out a psi task.19 &nbsp;In two studies the task was forced choice and involved precognition; a third study, in which Stanford was the sole subject, used a free-response method to look at telepathy/clairvoyance. All three showed a significant association between success at the task and shifts toward higher frequency within the alpha band. &nbsp;Stanford considered that this consistency suggests a genuine and robust effect, but to date no direct independent replication has been attempted.  Ramakrishna Rao, 1973
+
+Ramakrishna Rao, then at India’s Andhra University, ran a telepathy study using a selected individual who could control alpha production at will.20 &nbsp;For each trial the subject was asked to either increase or decrease his alpha production before attempting to ‘receive’ the contents of a picture being sent telepathically by a remotely located experimenter. His ESP scores were significantly higher during the alpha-production trials than on the alpha suppression trials (p = 0.05).  Stanford and Palmer, 1975
+
+A free-response EEG-ESP study was conducted by Stanford and John Palmer&nbsp;that used photos as targets. A pre-test exercise was given to subjects to help stimulate a flow of imagery.21 Those who scored above mean chance expectation demonstrated significantly greater alpha density during the image-reception period than those whose scores were at or below mean chance expectation.&nbsp; But no reliable prediction of ESP scoring was found when participants were divided according to whether they exhibited alpha density levels above or below the median density value of the whole participant group. This indicates that psi-task success requires more than alpha rhythm, and that as well as being relaxed the subject must be in an effectively attentional state, the authors reasoned.  Maher, 1986
+
+Michaeleen Maher at City University in New York asked 20 participants to perform two tasks while recording their EEG data.22 In the first, subjects attempted to use psi to perceive target films being played on a television monitor placed in a distant room. The second involved viewing the films directly. EEG patterns revealed significantly more alpha rhythms during the clairvoyance task than during the direct viewing task (p = 0.01).  Sean Harribance
+
+Trinidadian psychic Sean Harribance was extensively tested during the 1960s and 1970s in Western psi laboratories.23&nbsp; In early brain studies, his alpha wave expression during high scoring runs in gender-guessing experiments was frequently found to be eight to nine per cent higher than when he was scoring at chance level.
+
+In a 1997 study, Cheryl Alexander at the Rhine Research Center found concentrations of alpha activity in the occipital and parietal cortex that was not present when Harribance was relaxed during rest periods, an indication that his psi ability is related both to a relaxed state (high alpha activity) and to specialized brain regions.24
+
+Michael Persinger at Laurentian University carried out experiments with Harribance in the late 1990s.25 &nbsp;Photographs of individuals were enclosed in envelopes that remained open at one end, enabling Harribance to slip his hand inside and touch the back, the means by which he seemed to receive his psychic impressions. With each one he gave a reading about the individual’s character and circumstances, which was recorded and later transcribed. Persinger found that accurate descriptions were correlated with high alpha expression in the occipital region (located at the rear of the brain), while inaccurate readings were associated with the lowest alpha activities.
+
+Normative database comparison of Harribance’s EEG spectra to those of the general population revealed possible signs of decreased functioning across some of his brain regions, in particular the occipital, frontal, and temporal lobes.26 &nbsp;This was confirmed by single photon emission computed tomography (SPECT), which provides higher resolution of brain activity.27  RNG Psychokinesis (PK) Studies
+
+The use of quantum-based random generators in parapsychology was pioneered by Helmut Schmidt, a physicist who developed the technology at Boeing in the 1960s.&nbsp; In extensive experiments, Schmidt demonstrated that a motivated subject could marginally influence the machine’s output by mental influence alone. The random number generator (RNG) is now a standard tool for psychokinesis experiments.  Schmidt, 1977
+
+In a study reported by Schmidt, participants connected to an EEG recorder listened to the output of a RNG and were asked to aim for low tones, influencing the machine to produce more 1s than 0s.&nbsp;The output played only when the EEG suggested the subjects were in a relaxed and focused state of mind, as indicated by high alpha expression. PK scoring was very significant (p = 0.001). &nbsp;In the second part of the experiment the RNG was triggered whenever the EEG monitoring device detected beta wave activity. This condition was also significantly correlated with successful PK performance, to roughly the same degree as the alpha condition.28  Heseltine, 1977
+
+In an experiment reported in 1978 by Gary Heseltine, subjects had their EEGs connected to a RNG adapted to randomly stop on either a 1 or a 0 each time the polarity of the subject’s EEG changed from negative to positive or positive to negative.29 &nbsp;Exploiting the subject’s EEG in this fashion caused a significant shift in RNG output from 50.0% to 50.8% (p = 0.014).
+
+A larger replication produced highly significant biasing (p = 0.0004) that was associated with alpha expression (p = 0.0005) and to a lesser degree with beta expression (p &lt; .04).
+
+Heseltine, collaborating with Mayer-Oakes, replicated the earlier findings (p = 0.002), finding a striking association with alpha activity within the right brain hemisphere.30  Honorton and Tremmel, 1979
+
+In a study using biofeedback, Honorton and Tremmel sampled the RNG while participants were engaged in an EEG-alpha biofeedback task, unaware of the machine’s presence.31 (This study can be seen as the earliest version of the implicit field-PK work carried out by Roger Nelson and others, eventually leading to the Global Consciousness Project). RNG data were automatically sampled whenever the participant met pre-established alpha (8-13 Hz) brainwave criteria.
+
+In an initial study with ten participants, these sampled RNG samples revealed significant departures from expected levels of variance at times when the participants were successful at the alpha biofeedback task. In a second experiment with seven participants, the experimenters again found significant results in the alpha-EEG samples during the feedback periods, but chance results during non-alpha EEG sampled RNG periods.  Giroldini, 1991
+
+William Giroldini at the University of Padova tested the ability of 27 volunteers to bias random oscillating circuits, whose output was rendered as a vertical line on a screen.32 Scoring was very significant (p = 0.00001) and was associated with alpha EEG expression.  Morris Freedman
+
+Morris Freedman has conducted research that has shown a strong association between PK influence and frontal lobe damage. He speculates that the reduced self-awareness created by frontal lobe lesions is psi conducive.
+
+Freedman and colleagues carried out a pilot study in six healthy subjects&nbsp;(hospital staff) and six neurological patients who had suffered frontal lobe damage while trying to influence the output of a random event generator. 33&nbsp;No EEG measurements were taken. Significant PK scores (p = .01) were consistently obtained with only one of the neurological patients, who had suffered damage to the left frontal lobe.&nbsp;
+
+In a second major study more than a decade later, Freedman and colleagues attempted to identify specific frontal brain regions that may inhibit psi expression.34 &nbsp;Like the previous research, the experimental task was to influence the output of a random event generator translated into movement of an arrow on a computer screen, either to the right or left. In two participants who showed a significant PK effect in moving the arrow to the right, frontal volume loss was determined using brain MRI (magnetic resonance imaging). &nbsp;The primary area of lesion overlap in both patients was in the left medial middle frontal region, which corresponds closely to frontal lobe brain regions associated with self-awareness.&nbsp; The significant PK effect in moving the arrow to the right was contralateral to the side of the primary lesion overlap. Effect sizes were found to be much larger in participants with frontal lobe damage compared to normal participants.
+
+The experimenters concluded that the medial frontal lobes may act as a biological filter to inhibit psi through mechanisms related to self-awareness. A caveat is that fewer RNG test samples were collected from neurological patients than from other participants, potentially inflating their scores.
+
+To further explore the role of frontal lobe activity in modulating PK expression, Freedman and his mainstream colleagues carried out a pilot study to examine EEG activity in six healthy volunteers as they tried to influence the output of a random event generator.35 As in the previous studies (described above), the machine’s output was translated into the movement of an arrow on a computer screen to the right or left. Because it was assumed the vast majority of arrow movements would be the result of pure chance, only bunches of three or more consecutive arrow movements in the same direction were considered as potentially related to PK ability. Using this rationale as a foundation, Freedman and his colleagues confirmed the existence of a difference in EEG activity in the right frontotemporal region during the one-second interval before the target runs, with a significant effect for right intention (p = 0.0469) and a borderline effect for left intention (p = 0.078). Pending replication, these pilot data suggest that the right frontotemporal region may be part of a network that facilitates PK effects.  Neuroimaging Review
+
+In a 2013 review of functional neuroimaging psi data, Acunzo, Evrard and Rabeyron considered a precognition study and six studies of distant intentionality/telepathy, where a remotely located individual attempts to send information to, or simply focus on, a receiver.36 They found the overall evidential base to be quite high, with only one negative study. However, they concluded that the methodological quality is low and make suggestions for improving experimental rigor: counter-balancing trials, proper randomization, adequate shielding between receiver and outside environment, and higher levels of subject participation in order to achieve sufficient statistical power.
+
+Michael Duggan  Literature
+
+Acunzo, D., Evrard, R., &amp; Rabeyron, T. (2013). Anomalous Experiences, Psi and Functional Neuroimaging. Frontiers in Human Neuroscience&nbsp;7, 893.
+
+Alexander, C.H., Persinger, M.A., Roll, W.G., &amp; Webster, D.L. (1998). EEG and SPECT data of a selected subject during psi tasks: The discovery of a neurophysiological correlate. Proceedings of the 41st Annual Convention of the Parapsychological Association. Durham, NC.
+
+Alexander, C.H. (2000a). Neurophysiological research on an individual experiencing anomalous mental phenomena: A case study. International Journal of Psychophysiology 35, 42-43.
+
+Bierman, D.J. &amp; Scholte, H.S. (2002). Anomalous anticipatory brain activation preceding exposure of emotional and neutral pictures. &nbsp;Proceedings of the 43rd Annual Convention of the Parapsychological Association. Raleigh, NC.
+
+Broderick, D. &amp; Goertzel, B. (eds.) (2015). Evidence for psi: Thirteen empirical research reports. Jefferson, NC: McFarland &amp; Company, Inc.
+
+Broughton, R.S. (1975). Psi and the two halves of the brain. Journal of the Society for Psychical Research 48, 133-47.
+
+Charman, R.A. (2006). Direct brain to brain communication: Further evidence from EEG and fMRI studies. Paranormal Review 40, 3-9.
+
+Charman, R.A. (2009). Identical twins, telepathy, and an experiment to ‘resolve the psi debate’ once and for all. The Paranormal Review 51, 25-31.
+
+Duane, T. D. &amp; Behrendt, T. (1965). Extrasensory electroencephalographic induction between identical twins. Science 150, 367.
+
+Duma, G. M., Mento, G., Manari, T., Martinelli, M. &amp; Tressoldi, P. E. (2017). Driving with Intuition: A Preregistered Study About the EEG Anticipation of Simulated Random Car Accidents. PLoS ONE 12(1)
+
+Freedman, M., Jeffers, S., Saeger, K., Binns, M., Black, S. (2003). Effects of Frontal Lobe Lesions on Intentionality and Random Physical Phenomena. Journal of Scientific Exploration&nbsp;17, 651-68.
+
+Freedman, M., Binns, M., Gao, F., Holmes, M., Roseborough, A., Strother, S., Vallesi, A., Jeffers, S., Alain, C.,&nbsp;Whitehouse, P., Ryan, J. D, Chen, R., Cusimano, M. D., Black, S. E. (2018a). Mind-Matter Interactions and the Frontal Lobes of the Brain: A Novel Neurobiological Model of Psi Inhibition.&nbsp;Explore: The Journal of Science and Healing&nbsp;14. 10.1016/j.explore.2017.08.003.
+
+Freedman, M., Binns, M., Comishen, M., Strother, S., Chen, R., Cusimano, M. D., Black, S. E., Alain, C.&nbsp;(2018b). Mind-Matter Interactions and the Brain: A Pilot EEG Study. Proceedings of the 37th&nbsp;Annual meeting of the Society for Scientific Exploration. Broomfield, CO.
+
+Giroldini, W. (1991). Eccles model of mind-brain interaction and psychokinesis: a preliminary study. Journal of Scientific Exploration 5, 145-61.
+
+Granqvist et al. (2005). Sensed presence and mystical experiences are predicted by suggestibility, not by the application of transcranial weak complex magnetic fields. Neuroscience Letters 379, 1-6.
+
+Heseltine, G. L. (1977). Electronic random number generator operation associated with EEG activity. Journal of Parapsychology 41, 103-18.
+
+Heseltine, G. L. &amp; Mayer-Oakes, S. A. (1978). Electronic random number generator operation and EEG activity: Further studies. Journal of Parapsychology 42, 123-36.
+
+Hinterberger, T. (2009). Searching for neuronal markers of psi: A summary of three studies measuring electrophysiology in distant participants. In C. A. Roe, W. Kramer, &amp; L. Coly (eds.)
+
+Proceedings of an international conference-Utrecht II: Charting the future of parapsychology (46-62). New York: Parapsychology Foundation, Inc. &nbsp;
+
+Honorton, C., Davidson, R. &amp; Bindler, P. (1971). Feedback-augmented EEG alpha, shifts in subjective state, and ESP card-guessing References 115 performance. Journal of the American Society for Psychical Research 65, 308-23.
+
+Honorton, C. &amp; Tremmel, L. (1979). Psi correlates of volition: A preliminary test of Eccles’ “neurophysiological hypothesis” of mindbrain interaction. In W. G. Roll (ed.), Research in parapsychology 1978 (36-38).
+
+Jolij, J.&nbsp;&amp; Bierman, D.&nbsp;(2017).&nbsp;Quantum Retrocausation III.&nbsp;AIP Conference Proceedings 1841.
+
+Kittenis, M., Caryl, P. G. &amp; Stevens, P. (2004). Distant psychophysiological interaction effects between related and unrelated participants. Proceedings of the 47th Annual Convention of the Parapsychological Association (67-76). Raleigh, NC: Parapsychological Association.
+
+Kitennis, M. (2011).&nbsp; Anomalous anticipatory event-related EEG activity in a face recognition task. Proceedings of the 54th&nbsp;conference of the Parapsychological Association.
+
+Kittenis, M., Caryl, P. G. &amp; Stevens, P. (2004). Distant psychophysiological interaction effects between related and unrelated participants. Proceedings of the 47th Annual Convention of the Parapsychological Association. Raleigh, NC: Parapsychological Association.
+
+Maher, M. (1986). Correlated hemispheric asymmetry in the sensory and ESP processing of ‘emotional’ and ‘nonemotional’ stimuli. European Journal of Parapsychology 6, 217-57.
+
+Morris, R. L., Roll, W. G., Klein, J. &amp; Wheeler, G. (1972). EEG patterns and ESP results in forced-choice experiments with Lalsingh Harribance. Journal of the American Society for Psychical Research 66, 253-67.
+
+Maij, D. L. R., &amp; van Elk, M. (2018). Getting absorbed in experimentally induced extraordinary experiences: Effects of placebo brain stimulation on agency detection. Consciousness &amp; Cognition 66, 1-16.
+
+Moulton, S. T. &amp; Kosslyn, S. M. (2008). Using neuroimaging to resolve the psi debate. Journal of Cognitive Neuroscience 20, 182-92.
+
+Persinger, M. A., Roll, W.G.,&nbsp;Tiller, S.G., Koren, S.A., Cook, C.M. (2002). Remote viewing with the artist Ingo Swann: neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI), and possible mechanisms.&nbsp;Perceptual and Motor Skills&nbsp;94/3, 927-49.
+
+Puthoff, H. E., &amp; Targ, R. (1976). A perceptual channel for information transfer over kilometer distances: Historical perspective and recent research. Proceedings of the IEEE 64, 329-54.
+
+Radin, D. &amp; Lobach, E. (2006). Presentiment in the brain. In Proceedings of the 49th Annual Convention of the Parapsychological Association (164-75). Petaluma, CA: Parapsychological Association.
+
+Rao, K. R. &amp; Feola, J. (1973). Alpha rhythm and ESP in a free-response situation. In W.G. Roll, R.L. Morris, &amp; J.D. Morris (eds.) Research in Parapsychology (141-44). Metuchen, NJ: Scarecrow Press.
+
+Richards, T., Kozak, L., Johnson, C., Standish, L. (2005). Replicable Functional Magnetic Resonance Imaging Evidence of Correlated Brain Signals Between Physically and Sensory Isolated Subjects.&nbsp;Journal of Alternative and Complementary Medicine&nbsp;11, 955-63.
+
+Roll, W. G., Persinger, M. A., Webster, D. L., Tiller, S. G., Cook, C. M. (2002). Neurobehavioural and neurometabolic (SPECT) correlates of paranormal information: Involvement of the right hemisphere and its sensitivity to weak complex magnetic fields. International Journal of Neuroscience 112, 197-224.
+
+Schmidt, H. &amp; Terry, J. C. (1977). Search for a relationship between brainwaves and PK performance. In J.D. Morris, W.G. Roll, &amp; R.L. Morris (ed.), Research in Parapsychology 1976 (30-32). Metuchen, NJ: Scarecrow Press.
+
+Standish, L.J., Johnson, L.C., Kozak, L. &amp; Richards, T. (2003). Evidence of correlated functional magnetic resonance imaging signals between distant human brains. Alternative Therapies in Health and Medicine 9, 122-28.
+
+Standish, L., Kozak, L., Johnson, C., Richards, T. (2004). Electroencephalographic Evidence of Correlated Event-Related Signals Between the Brains of Spatially and Sensory Isolated Human Subjects.&nbsp;Journal of Alternative and Complementary Medicine&nbsp;10, 307-14.
+
+Standish, L.J., Johnson, L.C., Kozak, L., &amp; Richards, T. (2003). Evidence of correlated functional magnetic resonance imaging signals between distant human brains. Alternative Therapies in Health and Medicine 9, 122-28.
+
+Stanford, R.G. (1971). EEG alpha activity and ESP performance: A replicative study. Journal of the American Society for Psychical Research 65, 144-54.
+
+Stanford, R. (2006). Making sense of the extrasensory-Modeling receptive psi using memory-related concepts. European Journal of Parapsychology 21, 122-47.
+
+Stanford, R.G. &amp; Lovin, C. (1970). EEG alpha activity and ESP performance. Journal of the American Society for Psychical Research 64, 375-84.
+
+Stanford, R.G. &amp; Palmer, J. (1975). Free-response ESP performance and occipital alpha rhythms. Journal of the American Society for Psychical Research 69, 235-43.
+
+Stanford, R.G. &amp; Stanford, B.E. (1969). Shifts in EEG alpha rhythm as related to calling patterns and ESP run-score variance. Journal of Parapsychology 33, 39-47.
+
+Stanford, R.G. &amp; Stevenson, I. (1972). EEG correlates of free response GESP in an individual subject. Journal of the American Society for Psychical Research 66, 357-68.
+
+Stanford, R.G. (1971). EEG alpha activity and ESP performance: A replicative study. Journal of the American Society for Psychical Research 65, 144-54.
+
+Stanford, R. (2006). Making sense of the extrasensory-Modeling receptive psi using memory-related concepts. European Journal of Parapsychology 21, 122-47.
+
+Targ, R. &amp; Puthoff, H. (1976). A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research. Proceedings of the IEEE 64, 3.
+
+Torkelson, C., Sweet, E., Martzen, M., Sasagawa, M., Wenner, C.,&nbsp;Gay, J., Standish, L. (2012). Phase 1 Clinical Trial of Trametes versicolor in Women with Breast Cancer.&nbsp;ISRN Oncology&nbsp;12, 1-7.
+
+Tressoldi, P., Pederzoli, L., Bilucaglia, M., Caini, P., Fedele, P., Ferrini, A., Melloni, S., Richeldi, D., Richeldi, F., Accardo, A. (2014). Brain-to-Brain (mind-to-mind) interaction at distance: a confirmatory study. F1000Research. 10.12688
+
+Wackermann, J., Seiter, C., Keibel, H. &amp; Walach, H. (2003). Correlations between brain electrical activities of two spatially separated human subjects. Neuroscience Letters 336, 60-64.
+
+Warren, C. A., McDonough, B.E. &amp; Don, N.S. (1992a). Event-related brain potential changes in a psi task. Journal of Parapsychology 56, 1-30.
+
+Warren, C.A., McDonough, B.E. &amp; Don, N.S. (1992b). Partial replication of single subject event-related potential effects in a psi task. Proceedings of the 35th Annual Convention of the Parapsychological Association. Durham, NC.
+
+Williams, B.J. &nbsp;(2015). Psychic Phenomena and the Brain: Exploring the Neuropsychology of Psi Gladesville, NSW, Australia: Australian Institute of Parapsychological Research.
+
+Varvoglis, M.P. &amp; McCarthy, D. (1986). Conscious-purposive focus and PK: RNG activity in relation to awareness, task-orientation, and feedback. Journal of the American Society for Psychical Research 80, 1-29.
+
+Venkatasubramanian, G., Jayakumar, P.N., Nagendra, H.R., Nagaraja, D.D.R., &amp; Gangadhar, B.N. (2008). Investigating paranormal phenomena: Functional brain imaging of telepathy. International Journal of Yoga 1, 66-71.
+
+White, R. A. (1964). A comparison of old and new methods of response to targets in ESP experiments. Journal of the American Society for Psychical Research 58, 21-56.   Endnotes 1. Duane &amp; Behrendt (1965). 2. Targ &amp; Puthoff (1976). 3. Kittenis et al (2004). 4. Standish et al (2004). 5. Standish et al (2005). 6. Moulton &amp; Kosslyn (2008). 7. Hinterberger (2009). 8. Tressoldi et al (2015). 9. Venkatasubramanian et al (2008). 10. Persinger et al (2002). 11. Bierman &amp; Scholte (2002). 12. Bierman &amp; Scholte, (2002). 13. Radin &amp; Lobach (2006). 14. Kittenis (2011). 15. Tressoldi et al (2014). 16. Tressoldi (personal communication, September 2018). 17. Jolij &amp; Bierman (2017). 18. Honorton et al (1971). 19. Stanford &amp; Stevenson (1972). 20. Rao &amp; Feola (1973). 21. Stanford &amp; Palmer (1975). 22. Maher (1986). 23. Morris et al (1972). 24. Alexander (2000). 25. Persinger et al (2002). 26. Alexander (2000). 27. Persinger et al (2002). 28. Schmidt &amp; Terry (1977). 29. Heseltine (1977). 30. Heseltine &amp; Mayer-Oakes (1978). 31. Honorton &amp; Tremmel (1979). 32. Giroldini (1991). 33. Freedman (2003). 34. Freedman et al (2018a). 35. Freedman et al (2018b). 36. Acunzo et al (2013).           			  			     			This page was last updated on: March 15, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 4,900 Created: 14th March 2022 Last updated: 15th March 2022 May be cited as:Duggan, M. (2022). &lsquo;The Brain and Psi&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/brain-and-psi&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yclylmre                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/brain-and-psi

@@ -1,0 +1,604 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/journal-parapsychology","mytitle":"Journal of Parapsychology | Psi Encyclopedia","mylang":"de"}
+                     Journal of Parapsychology | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Journal of Parapsychology                                                                                                                                                                                                                          The Journal of Parapsychology is one of the most important parapsychology journals of the modern era. It was founded in 1937 by JB Rhine’s research group at Duke University, and has continued to be published to the present day by the group’s descendants. The journal has been mainly identified with experimental reports, but its content also includes research of spontaneous psychic cases, historical papers, critiques and literature reviews. &nbsp;   Contents   	Beginnings 	Experimental Research  	ESP 	Psychokinesis 	Spontaneous Cases   	Vehicle for JB Rhine 	Concepts and Theories 	Survival 	Other Topics  	Special Issues 	Critiques 	Literature Reviews 	History Articles   	Novel and Creative Approaches 	Editors 	Perspective 	Writings About the JP 	Acknowledgements 	Literature 	Endnotes     Beginnings
+
+The Journal of Parapsychology (JP) started publication in 1937 as a vehicle to disseminate Joseph Banks Rhine’s experimental ESP research program at Duke University.1 Rhine several times mentioned the idea of a journal in private correspondence during 1936 and 1937.2 He wrote to Gardner Murphy:  
+
+A regular periodical would do a great deal, I believe, to standardize the work in the field, on the principle that nothing succeeds like success; that is, in the aspect of recognition. It would considerably stabilize and command respect for parapsychology to have a scientific journal in the hands of academic people in line with the best scientific publication and publishing only first quality experimental material.3
+
+Later, Rhine alluded to other advantages:  
+
+There had been rejections of research reports of ESP by the psychological periodicals, and this created a need for a new outlet. The new journal had another, still more positive, purpose. It seemed important to the editorial staff … to keep the literature of experimental parapsychology as far as possible assembled in one central location.4
+
+The first issue contained an editorial (unsigned but attributed to McDougall) explaining the purpose of the publication and assigning a new meaning to the term ‘parapsychology’. 5  
+
+Parapsychology is a word that comes to us from Germany. We think it may well be adopted into the English language to designate the more strictly experimental part of the whole field implied by psychical research as now pretty generally understood … We do not claim that any sharp line can be drawn marking off the field of parapsychology within the larger vaguer province of psychical research. Rather, we anticipate that the stricter experimental methods will gradually invade other parts of the province annexing them to their own more special field, until possibly the two shall coincide. But we regard the differentiation of the two terms as useful at the present time; and it is our intention to admit to this journal only contributions that properly fall within the narrower sphere implied by its title; that is to say, reports of experimental studies in the stricter sense and discussions of methods and interpretations of such work.6
+
+The appearance of the JP was mentioned in non-parapsychological publications. Comments were printed in the New York Times and in Science.7 In the French parapsychology journal Revue Métapsychique the JP was referred to as a university parapsychology publication.8 Years later, on the occasion of its fiftieth anniversary, it was noted that the new journal ‘had the twin purposes of improving communication among scientists interested in the emerging field of parapsychology and of defining the boundaries and setting the reporting standards for this field’.9
+
+Since those days the journal content has been dominated by reports of experiments. An analysis of papers published between 1937 and 1946, showed this to be the topic of 52% of the articles, compared with 11% in the Journal of the American Society for Psychical Research for the same period.10  Experimental Research  ESP
+
+From the start the JP was a publication of record for ESP research. In its first issue Rhine summarized some of his early studies and those of colleagues that appeared in his original monograph. He concluded that, if the results of the early work are sound, ‘they open up such large possibilities for the study of mind and its place in nature that we need to go all the more slowly to determine the evidential grounds upon which they rest’.11
+
+Following Rhine’s initial monograph the early research reports were about ESP experiments, most of them conducted with Zener ESP cards. Most of the early work explored aspects related to ESP scores and ESP functioning. Among these were experiments using variations of the usual ESP cards,12 comparison of testing techniques,13 and variations in the distance of the participant from the cards.14 The latter, a review of work conducted at Duke and elsewhere, concluded:  
+
+The work already reported seems to show that distance does not limit ESP as it does sensory perception. Particularly those Duke experiments known as the Pearce-Pratt and the Turner-Ownbey series demonstrate this by reason of the control series needed for comparison. In a total of 101,450 trials in which distance was a condition and which gave as a whole a significant deviation, there was shown in the two series in which there were score averages at different distances that there was no proportionate falling off of average with distance, such as a mechanical analogy would require. In fact, it would appear that no falling off whatever directly occurs with spatial separation.15
+
+There were also papers about the type of person who might be especially open to ESP, such as children16 – including retarded children,17 twins,18 and American Indian children19 – and blind persons20 and psychotics.21 This was novel work at the time and represented a new attempt to study ESP systematically, although related conceptually to previous work.
+
+Psychological variables related to performance in ESP testing has been a consistent interest throughout the history of the Journal. Examples appear in Table 1.
+
+&nbsp;
+
+Table 1:&nbsp;Sample of experiments exploring psychological variables published in the JP
+
+Reference&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topic
+
+Pratt and Price (1938)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject and experimenter relationship
+
+Humphrey (1945)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligence
+
+Bevan (1947)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Attitude towards ESP
+
+Humphrey (1951)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introversion-Extraversion
+
+Kanthamani and Rao (1971)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Factors of Cattell's High School Personality Questionnaire
+
+Price (1973)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Imagery and mood
+
+Rao, Kanthamani, and Palmer (1990)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Memory
+
+Honorton (1997) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spontaneous psi experiences, Myers-Briggs
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feeling/Perception, prior (non-ganzfeld) psi testing,
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and practice of mental disciplines.
+
+Haraldsson et al&nbsp;(2002)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Perceptual defensiveness&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+Cardeña et al&nbsp;(2009)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hypnotizability and dissociation
+
+&nbsp;
+
+Initially the journal emphasized American research, in particular the work done at Duke University. Reports from other countries were also published, for instance about GNM Tyrrell’s research,22 and experiments by Hans Bender,23 Whately Carington24 and John Hettinger.25 In later years the number of papers by researchers at Duke was exceeded by those submitted by other laboratories and universities around the world, and this remains the case.  Psychokinesis
+
+In a retrospective article, Rhine wrote:  
+
+The Journal’s greatest test in these forty years of its history was of course caused by the war … Within a short time I had only one research assistant and an editorial assistant left and no certainty that they would remain. Fortunately however, even in spite of the perennial need of good material, we had been hoarding unpublished reports of the PK research for many years (since 1934) awaiting the stage at which the slowly developing scientific rationale in parapsychology could be prepared to receive these further new findings. Largely because of this accumulated material we did not … have to cease publication after all, although from there on (1943 and after) the pages of the Journal were dominated by the reports of experimental studies of PK.26
+
+This referred to studies of psychokinesis (PK) in which study participants were asked to influence the fall of dice. JB Rhine and Louisa Rhine authored the first experimental report about this topic.&nbsp; They wrote:  
+
+The test procedure consisted of dice-throwing, in which a pair of common dice was thrown either by hand or by a semi-mechanical method. The objective was to cause them to come up as "high dice," i.e., with faces totaling 8 or above. A "run" consisted of 12 throws of the pair and the expectation for each run was 5 successes (8 or above); the average score obtained for the 562 runs that were made was actually 5.53. This represents a total score that is 300 hits above the total expectation from chance … which represents extremely high odds against the likelihood of such results occurring by chance.27
+
+Reports of experiments were published soon afterwards.28 Researchers explored variables such as the effect of alcohol29 and caffeine,30 the relationship between experimenter and study participant,31 and the size of the dice used.32
+
+Also important in the PK work was the discovery of the Quarter Distribution Effect.33 These were score declines related to the four sections of scoring sheet where the results were recorded. A common finding was a cluster of PK hits on the first section (or quarter), and less on the fourth one, with scores in the second and third quarters showing ranges in scores between those of sections one and four.
+
+The dice work was followed by studies with various devices, such as those invented by Edward Cox.34 Later experiments with random number generators were published, among them those of Schmidt35 and others.36 While most of the PK research was carried out with dice, with instruments of various types and with random event generators, in a few experiments the PK task was to affect biological targets: electrodermal activity,37 fungus cultures,38 and waking anesthetized mice.39
+
+The work with mice was summarized as follows:  
+
+Twelve subjects (nine of them professed “psychics” or known to be exceptional performers on PK or ESP tests) were tested for their ability to cause mice to arouse more quickly from ether anesthesia than normally would be expected. Pairs of mice (Swiss-Webster) were simultaneously rendered unconscious … with … ether. The pairs were of the same sex, comparable size, and were litter mates. After both mice were unconscious … the subject was told to attempt to awaken his or her mouse. The other mouse was used as a control. Tests were conducted: (1) with the subject and experimental mouse in one room and the control mouse in another; (2) with the subject and both mice in the same room; and (3) with both mice in the same room and the subject viewing them through a one-way glass from an outside room. The results were highly significant overall … the experimental animal requiring 87% as much time to awaken as the control.40   Spontaneous Cases
+
+The best-known articles in the JP about spontaneous ESP experiences were studies by Louisa E Rhine of cases reported to the Duke Parapsychology Laboratory. Rhine did not consider that the cases provided evidence for the actual occurrence of ESP; she made her analyses on the basis of information given in the letters, without further investigation. In an analysis of around a thousand cases Rhine identified four main forms:   	intuitive, in which the subject’s experience s a simple, unreasoned impression or hunch 	hallucinatory, in which the experience is projected as if it were a sensation 	unrealistic dreaming, in which the experience is characterized by fantasy 	realistic dreaming, in which the imagery is almost photographically realistic.41
+
+In other papers Rhine explored aspects such as feelings of conviction, types of precognitive experiences, intervention in precognitive experiences, aspects of hallucinatory experiences, and the relationship between agents and percipients.42 In later studies she assessed to what extent ESP information was conveyed by waking and dream experiences.43 The abstract of an analysis of non-recurrent physical phenomena read as follows:  
+
+The reports selected for this study are those which suggest psychokinesis. They involve such occurrences as the stopping of clocks, the falling of pictures, etc., without any apparent physical cause. The author finds that in most of the occurrences two people were involved. One of them, the “target person,” was usually experiencing a crisis of some sort (an accident, for instance). The other, the “experiencing person,” was the one for whom the physical occurrence seemed to be especially significant—as though he were receiving news of the other's crisis in this way … The main purpose of the study was to discover—if these were instances of PK—which person produced the effect; in other words, which one was analogous to the subject in a PK test. The analysis indicates that the experiencing person fits the role of “subject” (albeit quite unconsciously) much more consistently than does the target person, and that therefore the experiencing person may well be considered as the “subject.” Such physical happenings, then, would become a fifth form by which psi may be manifested, the other four being the familiar ESP forms: intuition, hallucinations, realistic and unrealistic dreams. As such, the PK form would arise in the psi process at the same deeply unconscious level as the ESP forms.44
+
+A report of a poltergeist case at Seaford, Long Island was published in 1958;45 it was the first on the topic up until that time, and represented an important development in the modern study of the phenomenon. There followed further reports of hauntings,46 poltergeists47 and apparitions.48&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Some articles reported surveys of uninvestigated psychic experiences in relation to personality variables and experimental ESP testing,49 sleep walking,50 and psychoactive drugs.51 Myers and colleagues investigated the out-of-body experience (OBE) in relation to psychological variables, a paper cited frequently in the OBE literature.52
+
+Discussions about the value of spontaneous cases were published over the years. JB Rhine argued that cases should not be used to provide evidence of the existence of psychic phenomena,53 but rather be analyzed to generate ideas that could be explored experimentally, and this was echoed by LE Rhine.54 This and similar issues occasioned debates, for instance between Ian Stevenson55 and LE Rhine.56
+
+Other writers were more positive about the value of spontaneous cases.57 Gertrude Schmeidler argued:  
+
+To understand psi, we must study it at multiple levels of analysis. We need a sociology of psi, examining its patterns in different cultures and social groups; life history data so that we can find causes for changes in an individual’s psi ability; research on the conditions which affect ESP and PK in short periods like a single experimental session; and we also need careful examination of the individual psi experience.58   Vehicle for JB Rhine
+
+A characteristic of the early JP was that it acted as a vehicle for JB Rhine, who ‘tried to chart the course of the field by dispensing his advice, his approval and disapproval, as he sought to shape parapsychology according to his views and priorities’.59 Data compiled by Zingrone60 shows that, of 181 papers published during the first ten years, 52 (29%) were authored by Rhine, who was the only author 20 times (39%), the first author 10 times (19%), and the second or the third author 22 times (42%).
+
+Rhine maintained forcefully that ESP and PK are nonphysical phenomena.61 He wrote: ‘The body-mind problem may be regarded as partly solved by the fact of the nonphysical nature of psi’.62
+
+Articles and editorials in which Rhine offered opinions are listed in Table 2.
+
+&nbsp;
+
+Table 2:&nbsp;Examples of editorials authored by JB Rhine in the JP
+
+Reference&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Topic
+
+Rhine (1942)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hypnotism and parapsychology
+
+Rhine (1943b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical phenomena in parapsychology
+
+Rhine (1945b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coining of terms in parapsychology
+
+Rhine (1945a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practical applications of psychic abilities
+
+Rhine (1947, 1954)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application of scientific methods in parapsychology
+
+Rhine (1948b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of spontaneous cases in parapsychology
+
+Rhine (1951)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Parapsychology and physics
+
+Rhine (1953a)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The personnel of parapsychology
+
+Rhine (1974a)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Experimenter fraud in parapsychology
+
+&nbsp;
+
+Rhine also offered prescriptions on other topics. One was the boundaries of the field and ‘confusion about the scope and territory of psi research’.63 He also objected to the interest in topics such as Kirlian photography: ‘The fact is that no matter how interesting this Kirlian photo effect may be (or what may be conjectured about it), it has not been reliably reported to have anything to do with psi. Like a hundred other things it may one day be found to have some technical application to psi research, but as of now it is nothing on which to get sidetracked’.64
+
+Rhine was also concerned about the interest of parapsychologists in what he believed were basically untestable problems, that is, issues that could not be dealt with using current scientific methodology, including survival of death and the idea that in OBEs the person is ‘really’ separated from the physical body in some sense.65  Concepts and Theories
+
+Relatively little was published about theory in the JP, with some exceptions. Thouless and Wiesner postulated that ESP and PK are ‘unusual forms of processes which are themselves usual and commonplace, and that in their usual and common place form, they are to be found as elements in the normal processes of perception and motor activity’.66
+
+Blackmore67 proposed a cognitive theory of out-of-body experiences in the Journal, and others have focused on ESP.68&nbsp;More recent efforts include James Carpenter’s descriptions of his First Sight model.69 This assumes that psi functions all the time at an unconscious level, the way the human mind first contacts the material world; it is part of our cognitive system and is affected by our dispositions, needs and other psychological aspects, employing aspects of our psychology to manifest, among them perceptions, creativity, memory, and automatic processes. Consequently, psi interactions affect our behavior at a non-conscious level. Such processes, Carpenter believes, are not the particular gift of a few human beings, but a general and basic part of human functioning.  Survival
+
+Survival of bodily death has received some discussion in the JP but is not a main issue. &nbsp;JB Rhine frequently commented that it was an insoluble problem,70 although he also suggested that a reliable inventory of the characteristics of psi functioning might eventually serve as a tracer, a means to identify whether the source of information offered by an ostensible discarnate agent is living or deceased.71
+
+A 1959 conference on survival at the Parapsychology Laboratory entitled ‘Symposium on Incorporeal Personal Agency’ led to the publication of papers on apparitions,72 non-recurrent spontaneous experiences,73 and mediumship.74
+
+Survival has been a topic of debate in the Journal, for instance between Hornell Hart and Louisa E Rhine,75 and more recently between Keith Augstine and James Matlock.76  Other Topics  Special Issues
+
+Special issues have been given over to specific topics. For instance most of the March and June issues in 1948 included short papers presented at a symposium on future research, including contributions from Jan Ehrenwald, Jule Eisenbud, HH Price, Gertrude Schmeidler, Robert Thouless, GNM Tyrrell, René Warcollier, and DJ West.
+
+Other issues included the program of ‘The 1948 Symposium of the Society for Parapsychology’ (March 1949), and were dedicated to discussions about the contributions of JB Rhine (March 1981), and LE Rhine (December 1983), and to ‘ESP in the Ganzfeld’ (December 1986), ‘The ESP Ganzfeld Controversy’ (December 1999), Charles Honorton (March and June 1993), and ideas about the future of parapsychology (December 2012).  Critiques
+
+The journal has has frequently published critiques on topics such as statistical issues,77 optional stopping (the distorting effects of ending experiments prematurely),78 the possible lack of randomness of targets in experiments,79 and psychological models to explain OBEs.80 Particular experiments have also been critiqued.81
+
+George R Price’s 1955 critique of ESP research, which first appeared in Science, was reprinted in the JP,82 together with other comments. The pages of the JP were also open to the critiques by CEM Hansel83 and Wiseman and Milton.84
+
+In 1985, the journal included a critique and a defense of the ESP ganzfeld research.85 A rare paper in the history of the field and of the Journal, and one representing constructive communication between a critic and a parapsychologist, was a joint article by Hyman and Honorton summarizing their agreements and disagreements about the experiments of ESP in the ganzfeld, and suggesting future directions of research.86 The abstract summarized:  
+
+We agree that there is an overall significant effect in this data base that cannot reasonably be explained by selective reporting or multiple analysis. We continue to differ over the degree to which the effect constitutes evidence for psi, but we agree that the final verdict awaits the outcome of future experiments conducted by a broader range of investigators and according to more stringent standards … Specific recommendations are about randomization, judging and feedback procedures, multiple analysis and statistics, documentation, and the growing role we believe meta-analysis will play in the evaluation of research quality and the assessment of moderating variables.87
+
+The Journal has also given space to parapsychologists to criticize the critics,88 for instance Rex Stanford’s89 critique of James Alcock’s Parapsychology: Science or Magic.90 A frequently cited article is Charles Honorton’s critique of skepticism, in which he rebuts the arguments of three prominent critics. In his view:  
+
+there is a danger for science in encouraging self-appointed protectors who engage in polemical campaigns that distort and misrepresent serious research efforts. Such campaigns are not only counterproductive, they threaten to corrupt the spirit and function of science and raise doubts about its credibility. The distorted history, logical contradictions, and factual omissions exhibited in the arguments of the three critics represent neither scholarly criticism nor skepticism, but rather counter-advocacy masquerading as skepticism.91
+
+Also of interest is John Palmer’s proposal for what he called progressive skepticism,92 criticizing writers who offer conventional (non-psychic) explanations for psychic phenomena without the necessary empirical evidence to support their points, and who refer to debunking exercises without scientifically testing their viability. Palmer argues for skepticism of all explanations of psychic phenomena, both conventional and paranormal.  
+
+It is skepticism because it requires a critical attitude toward all hypothesized explanations of OPEs, and it concludes that at present there are no scientifically adequate explanations for the critical mass of these events. It is progressive because it has faith that scientific method, broadly interpreted, can ultimately provide or at least contribute to satisfactory explanations for these events, and it encourages research toward that end.93   Literature Reviews
+
+&nbsp;Literature reviews have appeared in the Journal over the years, and these have been useful in summarizing progress, or at least the research record. They cover the PK dice work,94 dowsing,95 veridical perception during OBEs,96 psi in animals,97 and research relating ESP to experimenter effects,98 information processing&nbsp; ideas99 and hypnosis.100 Other papers have been more general. For instance, CD Broad wrote about fifty years of psychical research, expressing pessimism about the prospect of young people securing academic positions in the field.101
+
+An overview illustrating the efforts of the Duke researchers to understand ESP is an article by Burke M Smith and Edmond P Gibson that summarizes speculations about favorable conditions for ESP made since the nineteenth-century.102 Topics discussed include 1) freedom, pleasure, excitement and interest; 2) disposition, mood, personality (including health); 3) variation and decline of ESP; 4) abstraction, relaxation and concentration; and 5) distraction.
+
+The Journal has also published meta-analytical reviews about such areas as ESP in the ganzfeld,103 precognition,104 and similar issues.105 Overviews of other topics include the language barrier in the field,106 art and psi,107 psychiatric contributions to parapsychology,108 parapsychology in introductory psychology textbooks,109 parapsychology in the Ibero-American world,110 research in wartime Great Britain,111 and controversy in parapsychology from the point of view of the sociology of science.112  History Articles
+
+Papers about historical topics published in the Journal offer a wider perspective of selected aspects of parapsychology, but constitute a minor part of the overall content. Some are listed in Table 3.
+
+&nbsp;
+
+Table 3:&nbsp;Examples of articles about historical topics published in the JP
+
+Reference&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topic
+
+Dodds (1946)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Telepathy and clairvoyance in ancient times
+
+Bruce (1956)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work of James H Hyslop
+
+LE Rhine (1967)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comparison of old and recent trends in parapsychology
+
+JB Rhine (1968)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relationships between psychology and parapsychology
+
+Dommeyer (1975)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parapsychology at Stanford University
+
+Mackenzie (1981)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JB Rhine and the history of parapsychology
+
+Matlock (1987)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Medium Margery Crandon and the Rhines.
+
+Zingrone and Alvarado (1987)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parapsychological terminology
+
+Cook (1994)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FWH Myers and survival of death
+
+Alvarado (2014)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mediumship, dissociation and the subconscious mind
+
+&nbsp;  Novel and Creative Approaches
+
+Over the years several papers were published that were particularly novel and creative in their approach. An example was Elizabeth McMahan’s experiment in pure telepathy, in which a new procedure was described as follows:  
+
+An ESP experiment was conducted in such a way as to allow telepathy to function, but not clairvoyance or precognition. The sender thought of one of the ESP symbols without making any objective record of it except through a code number, while the receiver in another room tried to identify the symbol. The code was communicated to an assistant experimenter by means of reference to common memories which had no objective basis and hence were inaccessible to clairvoyance. Significant results were obtained.113
+
+Studies with animals were also innovative, as seen in experiments with cats by Karlis Osis,114 and with mice by Duval and Montredon.115 Similarly groundbreaking was a study of ‘psi trailing’, the phenomenon of animals separated from their human companions finding their way to the person’s locations in unknown areas.116
+
+Methodological innovations were introduced in later years, among them those related to the effect of the person checking the records,117 the use of random event generators,118 the resuscitation of anesthetized mice,119 the testing of shamanic cultists,120 and ESP testing in a semi-psychotherapeutic context.121 In the latter:  
+
+The spontaneous behavior and themes that emerge in the course of an unstructured, quasi-psychotherapeutic group session were treated as the medium of psi response in three series of sessions in which randomly selected pictures served as targets. When the members’ ratings of the target pictures were contrasted with their ratings of the control pictures, there was psi-hitting in a pilot series. In two confirmatory series, overall hitting was not significant but the hitting rate showed a predicted relationship with ratings of session quality.122   Editors
+
+The Journal of Parapsychology has had many editors since its founding.123
+
+William McDougall and JB Rhine (1937-1938)
+
+Gardner Murphy and Bernard Reiss (1939-1941)
+
+JB Rhine, Charles Stuart and JG Pratt (1942)
+
+JB Rhine and Pratt (1943-1944)
+
+JB Rhine, Pratt, and Stuart (1945-1946)
+
+JB Rhine, Pratt, and Betty Humphrey (1947-1951)
+
+JB Rhine and Pratt (1952-1955)
+
+JB Rhine, Pratt, and Louisa E Rhine (1956-1957)
+
+Pratt, LE Rhine, and William G Roll (1958-1960)
+
+Pratt and LE Rhine (1961-1963)
+
+LE Rhine and Dorothy H Pope (1964-1976)
+
+Pope and K Ramakrishna Rao (1977-1982)
+
+Rao (1982-1993)
+
+John Palmer (1994-2017)
+
+Etzel Cardeña (2017-2020)  Perspective
+
+Founded to articulate the experimental research program of JB Rhine and his associates, the Journal of Parapsychology has been an important factor in the growth of modern parapsychology. It has fulfilled many functions: a repository and communicator of research and ideas; a forum for authors to contribute to the standardization of research and statistical techniques; and a source of overviews and perspectives needed for synthesis of knowledge and ideas of what remains to be done. The Journal has also provided opportunities for reflection and discussion of important theoretical and professional issues, all of which have nurtured the field of parapsychology.  Writings About the JP
+
+The most scholarly discussion of the beginnings of the JP is found in Mauskopf and McVaugh’s The Elusive Science: Origins of Experimental Psychical Research (1980), based in part on unpublished correspondence. Mauskopf also revisited its beginnings in an article published in the JP.124
+
+General views about particular periods of the JP can be found in anniversary editorial articles.125 More scholarly contributions appear in a brief discussion about parapsychology journals.126 John Palmer127 has discussed controversies, publication policy, and the editorship of the journal, some of which can be found in these two articles as well.128 Carlos S Alvarado has discussed some of JB Rhine’s articles offering prescriptions for parapsychology,129 and Nancy L Zingrone has compiled statistics about the number and sex of authors in specific periods of publication of the JP.130  Acknowledgements
+
+I wish to thank&nbsp;Nancy L Zingrone for useful editorial suggestions. Research for this article was made possible due to the JP holdings of Lexscien (http://www.lexscien.org/).
+
+Carlos S Alvarado  Literature
+
+Alcock, J.E. (1981). Parapsychology: Science or Magic? Oxford: Pergamon Press.
+
+Alvarado, C.S. (1982). ESP during out‑of‑body experiences: A review of experimental studies. Journal of Parapsychology&nbsp;46, 209–30.
+
+Alvarado, C.S. (1987). Comments on Case Studies in Parapsychology and on the value of research in this area. Journal of Parapsychology&nbsp;51, 337–52.
+
+Alvarado, C.S. (1989). The language barrier in parapsychology. Journal of Parapsychology&nbsp;53, 125–39.
+
+Alvarado, C.S. (1998). Sleepwalking and spontaneous parapsychological experiences: A research note. Journal of Parapsychology&nbsp;62, 349–51.
+
+Alvarado, C.S. (2011). Prescribing for parapsychology: Note on J.B. Rhine’s writings in the Journal of Parapsychology. Australian Journal of Parapsychology 11, 89–99.
+
+Alvarado, C.S. (2014). Mediumship, psychical research, dissociation, and the powers of the subconscious mind. Journal of Parapsychology 78, 98–114.
+
+Alvarado, C.S., Biondi, M., &amp; Kramer, W. (2006). Historical notes on psychic phenomena in specialised journals. European Journal of Parapsychology&nbsp;21, 58–87.
+
+Anon. (1937a). Chronique: Une revue universitaire de parapsychologie. Revue Métapsychique&nbsp;No. 3, 220.
+
+Anon. (1937b). Parapsychology. (1937) April 12.&nbsp;New York Times,&nbsp;16.
+
+Anon. (1937c). Scientific events: A journal of &nbsp;“Parapsychology.” Science 85, 171–72.
+
+Augustine, K. (2016). Evidence or&nbsp; prejudice: A reply to Matlock. Journal of Parapsychology 80, 203–31.
+
+Averill, R.L. &amp; Rhine, J.B. (1945). The effect of alcohol upon performance in PK tests. Journal of &nbsp;Parapsychology&nbsp;9, 32–41.
+
+Barry, J. (1968). General and comparative study of the psychokinetic effect on a fungus culture. &nbsp;Journal of Parapsychology 32, 237–43.
+
+Bender, H. (1938). The case of Ilga K.: Report of a phenomenon of unusual perception. Journal of Parapsychology 2, 5–22.
+
+Bevan, J.M. (1947). The relation of attitude to success in ESP scoring. Journal of Parapsychology 11, 296–309.
+
+Blackmore, S.J. (1984). A psychological theory of the out‑of‑body experience. Journal of Parapsychology&nbsp;48, 201–18.
+
+Bond, E.M. (1937). General extra-sensory perception with a group of fourth and fifth grade retarded children. Journal of Parapsychology 1, 114–22.
+
+Braud, W. &amp; Schlitz, M. (1983). Psychokinetic influence on electrodermal activity. Journal of Parapsychology 47, 95–119.
+
+Broad, C.D. (1956). A half-century of psychical research. Journal of Parapsychology 20, 209–28.
+
+Broughton, R.S. (1987). Publication policy and the Journal of Parapsychology. Journal of Parapsychology&nbsp;51, 21–32.
+
+Broughton, R.S. (2006). Memory, emotion, and the receptive psi process. Journal of Parapsychology&nbsp;70, 255–74.
+
+Bruce, H.A. (1956). James Hervey Hyslop. Journal of Parapsychology&nbsp;20, 44–52.
+
+Cardeña, E. (2017). Editorial: Whither parapsychology? Journal of Parapsychology&nbsp;81, 6–8.
+
+Cardeña, E., Iribas, A.E., &amp; Reijman, S. (2012). Art and psi. Journal of Parapsychology&nbsp;76, 3–25.
+
+Cardeña, E., Marcusson-Clavertz, D., &amp; Wasmuth, J. (2009).&nbsp;Hypnotizability and dissociation as predictors of&nbsp; performance in a precognition task: A pilot study. Journal of Parapsychology 73,&nbsp; 137–58.
+
+Carington, W.W. (1940). Experiments on the paranormal cognition of drawings. Journal of Parapsychology&nbsp;4, 1–129.
+
+Carpenter, C.R. &amp; Phalen, H.R. (1937). An experiment in card guessing. Journal of Parapsychology&nbsp;1, 31–43.
+
+Carpenter, J.C. (1988). Quasi-therapeutic group process and ESP. Journal of Parapsychology&nbsp;52, 279–304.
+
+Carpenter, J.C. (2004). First Sight: Part one: A model of psi and the mind. Journal of Parapsychology&nbsp;68, 217–54.
+
+Carpenter, J.C. (2005). First Sight: Part two: Elaboration of a model of psi and the mind. Journal of Parapsychology&nbsp;69, 63–112.
+
+Cook, E.W. (1994). The subliminal consciousness: F.W.H. Myers’s approach&nbsp; to the problem of survival. Journal of Parapsychology&nbsp;58, 39–58.
+
+Cox, W.E. (1965). The effect of PK on electromechanical systems. Journal of Parapsychology&nbsp;29, 165–75.
+
+Dodds, E.R. (1946). Telepathy and clairvoyance in&nbsp; Classical Antiquity. Journal of Parapsychology&nbsp;10, 290–309.
+
+Dommeyer, F.C.&nbsp; (1975). Psychical research at Stanford University. Journal of Parapsychology&nbsp;39, 173–205.
+
+Dutton, D. &amp; Williams, C.&nbsp; (2009). Clever beasts and faithful pets: A critical review of animal psi research. Journal of Parapsychology&nbsp;73, 43–70.
+
+Duval, P. &amp; Montredon, E. (1968). ESP experiments with mice. Journal of Parapsychology 32, 153–66.
+
+Eisenbud, J. (1949). Psychiatric contributions to parapsychology: A review. Journal of Parapsychology 13, 247–62.
+
+Feather, S.R. &amp; Brier, R. (1968). The possible effect of the checker in precognition tests. Journal of Parapsychology&nbsp;32, 167–75.
+
+Feller, W.K. (1940). Statistical aspects of ESP. Journal of Parapsychology&nbsp;4, 271–98.
+
+Foster, A.A. (1943). ESP tests with American Indian children: A comparison of methods. Journal of Parapsychology&nbsp;7, 94–103.
+
+Gibson, E.P. (1937). A study of comparative performance in several ESP procedures. Journal of Parapsychology&nbsp;1, 264–75.
+
+Gibson, E.P., Gibson, L.H., &amp; Rhine, J.(1943). A large series of PK tests. Journal of Parapsychology&nbsp;7, 228–37.
+
+Giesler, P.V. (1986). GESP testing of shamanic cultists: Three studies and an evaluation of dramatic upsets during testing. Journal of Parapsychology&nbsp;50, 123–53.
+
+Gilmore, J. B. (1989). Randomness and the search for psi. Journal of Parapsychology 53, 309–40.
+
+Gissurarson, L.G. &amp; Morris, R.L. (1991). Examination of six questionnaires as predictors of psychokinesis performance. Journal of Parapsychology 55, 119–45.
+
+Haight, J.M. (1979). Spontaneous psi cases: A survey and preliminary study of ESP, attitudes, and personality relationships. Journal of Parapsychology 43, 179–204.
+
+Hansel, C.E.M. (1961a). A critical analysis of the Pearce-Pratt experiment. Journal of Parapsychology 25, 87–91.
+
+Hansel, C. E. M. (1961b). A critical analysis of the Pratt-Woodruff experiment.&nbsp; Journal of Parapsychology 25, 99–113.
+
+Haraldsson, E. (2009). &nbsp;Alleged encounters with the dead: The importance of violent death. &nbsp;Journal of Parapsychology 73,&nbsp;91–118.
+
+Haraldsson, E., Houtkooper, J.M., Schneider, R., &amp; Backstrom, M. (2002). Perceptual defensiveness and ESP performance: Reconstructed DMT-ratings and psychological correlates in the first German DMT-ESP experiment Journal of Parapsychology&nbsp;66, 249–70.
+
+Hart, H. (1957). Mrs. Rhine's conclusions about survival: A critique. Journal of Parapsychology&nbsp;21, 227–37.
+
+Hettinger, J. (1941). The ultra-perceptive faculty. Journal of Parapsychology&nbsp;5, 138–80.
+
+Hilton, H., JR., Baer, G., and Rhine, J.B. (1943). A comparison of three sizes of dice in PK tests. Journal of Parapsychology&nbsp;7, 172–90.
+
+Honorton, C. (1985). Meta-analysis of psi ganzfeld research: A Response to Hyman. Journal of Parapsychology&nbsp;49, 51–91.
+
+Honorton, C. (1993). Rhetoric over substance: The impoverished state of skepticism. Journal of Parapsychology 57, 191–214.
+
+Honorton, C. (1997). The ganzfeld novice: Four predictors of initial ESP performance. Journal of Parapsychology 61, 143–58.
+
+Honorton, C. &amp; Ferrari, D.C. (1989). “Future telling”: A meta-analysis of forced-choice precognition experiments, 1935–1987. Journal of Parapsychology&nbsp;53, 281–308.
+
+Humphrey, B.M. (1945). ESP and intelligence. Journal of Parapsychology 9, 7–16.
+
+Humphrey, B.M. (1951). Introversion-extraversion ratings in relation to scores in ESP tests. Journal of Parapsychology 15, 252–62.
+
+Hyman, R. (1985). The ganzfeld psi experiment: A critical appraisal. Journal of Parapsychology&nbsp;49, 3–49.
+
+Hyman, R. &amp; Honorton, C. (1986). A joint communique: The psi Ganzfeld controversy. Journal of Parapsychology 50, 351–64.
+
+Kanthamani, B.K. &amp; Rao, K.R. (1971). Personality characteristics of ESP subjects. I. Primary personality characteristics and ESP. Journal of Parapsychology&nbsp;35, 189–207.
+
+Kennedy, J.E. (1980). Information processing in ESP: A survey of forced-choice experiments using multiple-aspect targets. Journal of Parapsychology 44, 9–35.
+
+Kennedy, J.E. &amp; Taddonio, J.L. (1976). Experimenter effects in parapsychological research. Journal of Parapsychology 40, 1–33. &nbsp;
+
+Kruth, J.G. &amp; Joines, W.T. (2016). Taming the host within: An approach toward addressing apparent electronic poltergeist activity. Journal of Parapsychology 80, 70–86.
+
+Kubis, J.F. &amp; Rouke, F.L. (1937). An experimental investigation of telepathic phenomena in twins. Journal of Parapsychology&nbsp;1, 163–71.
+
+Lemmon, V.W. (1939). The role of selection in ESP data. &nbsp;Journal of Parapsychology 3, 104–6.
+
+Luke, D.P. &amp; Kittenis, M. (2005). A preliminary survey of paranormal experiences with psychoactive drugs. Journal of Parapsychology 69, 305–27.
+
+Maher, M.C. (1999). Riding the waves in search of the particles. A modern study of ghosts and apparitions. Journal of Parapsychology 63, 47–80.
+
+Maher, M.C. (2000). Quantitative Investigation of the General Wayne Inn.&nbsp;Journal of Parapsychology 64, &nbsp;365–90.
+
+Marwaha, S.B. &amp; May, E. C. (2015). The multiphasic model of precognition: The rationale. Journal of Parapsychology&nbsp;79, 5–19.
+
+Matlock, J.G. (1987). Cat’s paw: Margery and the Rhines, 1926.&nbsp;Journal of Parapsychology&nbsp;51, 229–47.
+
+Matlock, J.G. (2016). The myth of mortality: Comments on Martin and Augustine’s The Myth of an Afterlife. Journal of Parapsychology 80, 190–203.
+
+Mauskopf, S.H. (1987). The origin of the Journal of Parapsychology. Journal of Parapsychology 51, 9–19.
+
+Mauskopf, S.H. &amp; McVaugh, M.R. (1980). The Elusive Science: Origins of Experimental&nbsp;Psychical Research. Baltimore: John Hopkins University Press.
+
+May, E.C., Utts, J.M., &amp; Spottiswoode, S.J.P. (1995). Decision augmentation theory: Toward a model of anomalous mental phenomena. Journal of Parapsychology&nbsp;59, 195–220.
+
+Mackenzie, B. (1981). The place of J.B. Rhine in the history of parapsychology. Journal of Parapsychology 45, 65–84.
+
+McClenon, J., Roig, M., Smith, M.D., &amp; Ferrier, G. (2003). The coverage of parapsychology in introductory psychology textbooks: 1990-2002. Journal of Parapsychology&nbsp;67, 167–79.
+
+[McDougall, W.]. (1937). Editorial introduction. Journal of Parapsychology 1, 1–9.
+
+McMahan, E. (1946). An experiment in pure telepathy. Journal of Parapsychology&nbsp;10, 224–42.
+
+McMahan, E. (1947). A review of the evidence for dowsing. Journal of Parapsychology 11, 175–90.
+
+Medhurst, R.G. &amp; Scott, C. (1974). A re-examination of C. E. M. Hanse’s criticism of the Pratt-Woodruff experiment. Journal of Parapsychology 38, 163–84.
+
+Morris, R.L., Nanko, M., &amp; Phillips, D. (1982). A comparison of two popularly advocated visual imagery strategies in a psychokinesis task. Journal of Parapsychology&nbsp;46, 1–16.
+
+Murphy, G. &amp; Riess, B.F. (1939). Editorial. Journal of Parapsychology 3, 1–2.
+
+Myers, S.A., Austrin, H.R., Grisso, J.T., &amp; Nickesson, R.C. (1983). Personality characteristics as related to the out-of-body experience. Journal of Parapsychology 47, 131–44.
+
+Osis, K. (1952). A test of the occurrence of a psi effect between man and the cat. Journal of Parapsychology 16,&nbsp; 233–56.
+
+Palmer, J. (1986). Progressive skepticism: A critical approach to the psi controversy. Journal of Parapsychology 50, 29–42.
+
+Palmer, J. (1987). Controversy and the JP. Journal of Parapsychology 51, 33–48.
+
+Palmer, J. (2019). 80 years of the JP: An historical overview of the &nbsp;Journal of Parapsychology 82/2, 9-23.
+
+Pope, D.H. &amp; Pratt, J.G. (1942). Five Years of the Journal of Parapsychology. Journal of Parapsychology 6, &nbsp;5–19.
+
+Pratt, J.G. (1944). A reinvestigation of the quarter distribution of the (PK) page. Journal of Parapsychology 8, 61–63.
+
+Pratt, J.G. &amp; Price, M.M. (1938). The experimenter-subject relationship in tests for ESP. &nbsp;Journal of Parapsychology 2, 84–94.
+
+Pratt, J.G. &amp; Roll, W.G. (1958). The Seaford disturbances. Journal of Parapsychology 22, 79–124.
+
+Price, A.D. (1973). Subject’s control of imagery, “Agent’s” mood, and position effect in a dual-target ESP experiment. Journal of Parapsychology 37, 298–322.
+
+Price, G.R. (1955). “Science and the supernatural.” Journal of Parapsychology 19, 238–41.
+
+Price, H.H. (1960). Apparitions; two theories. Journal of Parapsychology 60, 110–28.
+
+Price, M.M. &amp; Pegram, M.H. (1937). Extra-sensory perception among the blind. Journal of Parapsychology&nbsp;1, 143–55.
+
+Price, M.M. &amp; Rhine, J.B. (1944). The subject-experimenter relation in the PK test. Journal of Parapsychology 8, 177–86.
+
+Rao, K.R. (1987). Editorial: The Journal of Parapsychology: The first and the next fifty years. Journal of Parapsychology 51, 1–8.
+
+Rao, K.R., Kanthamani, H., &amp; Palmer, J. (1990). Exploring normal-paranormal interaction within a memory-ESP testing paradigm. Journal of Parapsychology 54, 245–59.
+
+Reiser, O.L. (1939). A theory of extra-sensory perception. Journal of Parapsychology 3, 167–93.
+
+Rhine, J.B. (1934). Extra-sensory Perception. Boston: Boston Society for Psychic Research.
+
+Rhine, J.B. (1937a). The effect of distance in ESP tests. Journal of Parapsychology 1, 171–84.
+
+Rhine, J.B. (1937b). Some basic experiments in extra-sensory perception: A background. Journal of Parapsychology&nbsp;1, 70–80.
+
+Rhine, J.B. (1942). Editorial: Hypnotism “graduate” of parapsychology. Journal of Parapsychology 6, 159–63.
+
+Rhine, J.B. (1943a). Dice thrown by cup and machine in PK tests. Journal of Parapsychology 7, 207–17.
+
+Rhine, J.B. (1943b). Editorial: “Physical phenomena” in parapsychology. Journal of Parapsychology 7, 1–4.
+
+Rhine, J.B. (1945a). Editorial: The question of practical application of parapsychical abilities. Journal of Parapsychology&nbsp;9, 77–79.
+
+Rhine, J.B. (1945b). Editorial: A proposed basis for choosing terms in parapsychology. Journal of Parapsychology&nbsp;9, 147–49.
+
+Rhine, J.B. (1946a). Editorial: The first ten years of the journal. Journal of Parapsychology&nbsp;10, 221–23.
+
+Rhine, J.B. (1946b). The psychokinetic effect: A review. Journal of Parapsychology 10, 5–20.
+
+Rhine, J.B. (1947). Impatience with scientific method in parapsychology. Journal of Parapsychology&nbsp;11, 283–95.
+
+Rhine, J.B. (1948a). Announcement of the new advisory board. Journal of Parapsychology 12, 81–82.
+
+Rhine, J.B. (1948b). Editorial: The value of reports of spontaneous psi experiences. Journal of Parapsychology&nbsp;12, 231–35.
+
+Rhine, J.B. (1951). Editorial: Parapsychology and physics. Journal of Parapsychology 15, 81–88.
+
+Rhine, J.B. (1953a). Editorial: Parapsychology and its personnel. Journal of Parapsychology 17, 1–5.
+
+Rhine, J.B. (1953b). New World of the Mind. New York: William Sloane.
+
+Rhine, J.B. (1954). Editorial: Some considerations of methods in parapsychology. Journal of Parapsychology&nbsp;18, 69–81.
+
+Rhine, J.B. (1956a). Editorial: The Journal’s first twenty years. Journal of Parapsychology 20, 263–66.
+
+Rhine, J.B. (1956b). Research on&nbsp; spirit survival re-examined. Journal of Parapsychology 20, 121–31.
+
+Rhine, J.B. (1961). A quarter century of the Journal of Parapsychology: A brief review. Journal of Parapsychology 25, 237–46.
+
+Rhine, J.B. (1968). Psi and psychology: Conflict and solution. Journal of Parapsychology&nbsp;32, 101–28.
+
+Rhine, J.B. (1972a). News and comments: Is parapsychology loosing its way? Journal of Parapsychology&nbsp;36, 170–76.
+
+Rhine, J.B. (1972b). Parapsychology and man. Journal of Parapsychology&nbsp;36, 101–21.
+
+Rhine, J.B. (1974a). Comments: A new case of experimenter unreliability. Journal of Parapsychology 38, 215–25.
+
+Rhine, J.B. (1974b). Telepathy and other untestable hypotheses. Journal of Parapsychology&nbsp;38, 137–53.
+
+Rhine, J.B. (1975). Comments: Psi methods reexamined. Journal of Parapsychology 39, 38–58.
+
+Rhine, J.B. (1977). A backward look on leaving the JP. Journal of Parapsychology 41, 89–102.
+
+Rhine, J.B. &amp; Feather, S.R. (1962). The study of cases of “psi-trailing” in animals. Journal of Parapsychology 26, 1–22.
+
+Rhine, J.B. &amp; Humphrey, B.M. (1944). The PK effect: Special evidence from hit patterns. I. Quarter distributions of the page. Journal of Parapsychology 8, 18–60.
+
+Rhine, J.B. Humphrey, B.M., &amp; Pratt, J.G. (1945). The PK effect: Special evidence from hit patterns. III. Quarter distributions of the half-set. Journal of Parapsychology 9, 150–68.
+
+Rhine, J.B. &amp; Pratt, J.G. (1961). A reply to Hansel's critique of the Pearce-Pratt series. Journal of Parapsychology&nbsp;25, 92–98.
+
+Rhine, J.B. &amp; Rhine, L.E. (1943). The psychokinetic effect: I. The first experiment. Journal of Parapsychology 7, 20–43.
+
+Rhine, L.E. (1937). Some stimulus variations in extra-sensory perception with child&nbsp;subjects. Journal of Parapsychology 1, 102–13.
+
+Rhine, L.E. (1951). Conviction and associated conditions in spontaneous cases. Journal of Parapsychology 15, 164–91.
+
+Rhine, L.E. (1953). Subjective forms of spontaneous psi experiences. Journal of Parapsychology 17, 77–114.
+
+Rhine, L.E. (1954). Frequency and types of experience in spontaneous precognition. Journal of Parapsychology&nbsp;18, 93–123.
+
+Rhine, L.E. (1955). Precognition and intervention. Journal of Parapsychology&nbsp;19, 1–34.
+
+Rhine, L.E. (1956a). Hallucinatory psi experiences: II The initiative of the percipient in hallucinations of the living, the dying, and the dead. Journal of Parapsychology 21, 13–46.&nbsp;
+
+Rhine, L.E. (1956b). The relationship of agent and percipient in spontaneous telepathy. Journal of Parapsychology&nbsp;20, 1–32.
+
+Rhine, L.E. (1957) [Reply to H. Hart]. Journal of Parapsychology 22, 237.
+
+Rhine, L.E. (1960). The evaluation of non-recurrent psi experiences bearing on post-mortem survival. Journal of Parapsychology 24, 8–25.
+
+Rhine, L.E. (1962a). Psychological processes in ESP experiences: Part I. Waking experiences. Journal of Parapsychology&nbsp;26, 88–111.
+
+Rhine, L.E. (1962b). Psychological processes in ESP experiences: Part II. Dreams. Journal of Parapsychology&nbsp;26, 172–99.
+
+Rhine, L.E. (1963). Spontaneous physical effects and the psi process. Journal of Parapsychology&nbsp;27, 84–122.
+
+Rhine, L.E. (1967). Parapsychology, then and now. Journal of Parapsychology 37, 231–48.
+
+Rhine, L.E. (1970). Letters and notes; Dr. L.E. Rhine’s reply to Dr. Stevenson. Journal of Parapsychology 34, 149–63.
+
+Roe, C.A. &amp; Holt, N.J. (2006). The effects of strategy (“willing” versus absorption) and feedback (immediate versus delayed) on performance at a PK task. Journal of Parapsychology&nbsp;70, 69–90.
+
+Rogo, D.S. (1982). Psychological models of the out-of-body experience: A review and critical evaluation. Journal of Parapsychology 46, 20–45.
+
+Roll, W.G. (1960). The contribution of studies of “mediumship” to research on survival after death. Journal of Parapsychology 24, 258–78.
+
+Rueda, S.A. (1991). Parapsychology in the Ibero American world: Past and present developments. Journal of Parapsychology 55, 175–207.
+
+Saltmarsh, H.F. (1942). The nature of extra-sensory perception. Journal of Parapsychology&nbsp;6, 101–10.
+
+Schmeidler, G.R. (1970). Studying individual psi experiences. Journal of Parapsychology 34, 197–209.
+
+Schmidt, H. (1969). Precognition of a quantum process. Journal of Parapsychology 33, 99–108.
+
+Schmidt, H. (1970). A PK test with electronic equipment. Journal of Parapsychology 34, 175–82.
+
+Shulman, R. (1938). A study of card guessing in psychotic subjects. Journal of Parapsychology 2, 95–106.
+
+Smith, B.M. (1937). The Tyrrell experiments. Journal of Parapsychology 1, 63–69.
+
+Smith, B.M. &amp; Gibson, E.P. (1941). Conditions affecting ESP performance. Journal of Parapsychology 5, 58–86.
+
+Stanford, R.G. (1982). Is scientific parapsychology possible? Some thoughts on James E. Alcock’s Parapsychology: Science or Magic?. &nbsp;Journal of Parapsychology 46, 231–71.
+
+Stanford, R.G.&nbsp; (1992). The experimental hypnosis-ESP literature: A review from the hypothesis-testing perspective. Journal of Parapsychology 56, 39–56.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Steinkamp, F., Milton, J., &amp; Morris, R.L. (1998). A meta-analysis of forced-choice experiments comparing clairvoyance and precognition. Journal of Parapsychology&nbsp;62, 193–218.
+
+Stevenson, I. (1970). Letters and notes. Journal of Parapsychology 34, 144–49.
+
+Storm, L., Tressoldi, P., &amp; Di Risio, L. (2012). Meta-analysis of ESP studies, 1987–2010: Assessing the success of the forced-choice design in parapsychology. Journal of Parapsychology 76,&nbsp;243–73.
+
+Stuart, C.&nbsp; (1938). A review of recent criticisms of ESP research. Journal of Parapsychology 2, 308–21.
+
+Thouless, R.H. &amp; Wiesner, B.P. (1948). The psi process in normal and “paranormal” psychology. Journal of Parapsychology&nbsp;12, 192–212.
+
+Watkins, G.K. &amp; Watkins, A.M. (1971). Possible PK influence on the resuscitation of anesthetized mice. Journal of Parapsychology 35, 257–72.
+
+West, D.J. (1945). Experimental parapsychology in wartime Britain: A review. Journal of Parapsychology 9, 230–48.
+
+Wiseman, R. &amp; Milton, J. (1998). Experiment one of the SAIC remote viewing program: A critical re-evaluation. Journal of Parapsychology&nbsp;62, 297–308.
+
+Wiseman, R., Watt, C., Greening, E., Stevens, P., &amp; O'Keeffe, C.&nbsp; (2002). An investigation into the alleged haunting of Hampton Court Palace: Psychological variables and magnetic fields Journal of Parapsychology&nbsp;66, 387–408.
+
+Zingrone, N.L. (1988). Authorship and gender in American parapsychology journals. Journal of Parapsychology 52, 321–43.
+
+Zingrone, N.L. (2002). Controversy and the problems of parapsychology. Journal of Parapsychology&nbsp;66, 3–30.
+
+Zingrone, N.L. &amp; Alvarado, C.S. (1987). Historical aspects of parapsychological terminology. Journal of Parapsychology&nbsp;51, 49–74.   Endnotes 1. For the early history see Mauskopf (1987) and Mauskopf &amp; McVaugh (1980). 2. Mauskopf (1987). 3. Mauskopf (1987), 18. 4. Rhine (1956b), 260. 5. Mauskopf &amp; McVaugh (1980), 147. 6. McDougall (1937), 7. 7. Anon. (1937b, 1937c). 8. Anon. (1937a). 9. Broughton (1987), 23. 10. Zingrone (1988), 332. 11. Rhine (1937b), 80. 12. Carpenter &amp; Phalen (1937). 13. Gibson (1937). 14. Rhine (1937a). 15. Rhine (1937a), 184. 16. L. Rhine (1937). 17. Bond (1937). 18. Kubis &amp; Rouke (1937). 19. Foster (1943). 20. Price &amp; Pegram (1937). 21. Shulman (1938). 22. Smith (1937). 23. Bender (1938). 24. Carington (1940). 25. Hettinger (1941). 26. Rhine (1977), 98. 27. Rhine &amp; Rhine (1943), 20, abstract. 28. For example Gibson et al. (1943a); Rhine (1943a). 29. Averrill &amp; Rhine (1945). 30. Rhine et al. (1945). 31. Price &amp; Rhine (1944). 32. Hilton et al. (1943). 33. For example Rhine &amp; Humphrey (1944); Rhine, Humphrey, &amp; Pratt (1945); Pratt (1944). 34. Cox (1965). 35. Schmidt (1970). 36. Gissurarson &amp; Morris (1991); Morris et al (1982); Roe &amp; Holt (2006). 37. Braud &amp; Schlitz (1983). 38. Barry (1968). 39. Watkins &amp; Watkins (1971). 40. Watkins &amp; Watkins (1971), 257. 41. L.E. Rhine&nbsp;(1953),&nbsp;77, abstract. 42. respectively, L.E. Rhine (1951; 1954; 1955; 1956a; 1956b). 43. L.E.&nbsp;Rhine (1962a; 1962b). 44. L.E. Rhine (1963), 84. 45. Pratt &amp; Roll (1958). 46. Maher (1999, 2000); Wiseman et al. (2002). 47. Kruth &amp; Joines (2016). 48. Haraldsson (2009). 49. Haight (1979). 50. Alvarado (1998). 51. Luke &amp; Kittenis (2005). 52. Myers et al (1983). 53. Rhine (1948b). 54. L.E Rhine (1951). 55. Stevenson (1970). 56. L.E Rhine (1970). 57. For example Alvarado (1987); Schmeidler (1970). 58. Schmeidler (1970), 197, abstract. 59. Alvarado (2011), 95. 60. Zingrone (1988). 61. For example, Rhine (1953b). 62. Rhine (1972b), 114. 63. Rhine (1972a), 171. 64. Rhine (1972a), 171. 65. Rhine (1974b). 66. Thouless and Wiesner (1948), 195–96. 67. Blackmore (1984). 68. For example Reiser (1939); Saltmarsh (1942); Broughton (2006); Marwaha &amp; May (2015); May et al. (1995). 69. Carpenter (2004, 2005). 70. For example Rhine (1956b, 1974b). 71. Rhine (1975). 72. Price (1960). 73. L.E. Rhine (1960). 74. Roll (1960). 75. Hart (1957); L.E. Rhine (1957). 76. Augustine (2016); Matlock (2016). 77. Feller (1940). 78. Lemmon (1939). 79. Gilmore (1989). 80. Rogo (1982). 81. Medhurst &amp; Scott (1974). 82. Price (1955). 83. Hansel (1961a; 1961b). 84. Wiseman and Milton (1998). 85. Honorton (1985); Hyman (1985). 86. Hyman and Honorton (1986). 87. Hyman &amp; Honorton (1986), 351. 88. For example Honorton (1985); Rhine, &amp; Pratt (1961); Stuart (1938). 89. Stanford (1982). 90. Alcock (1981). 91. Honorton (1993), 211. 92. Palmer (1986). 93. Palmer (1986), 39. 94. Rhine (1946b). 95. McMahan (1947). 96. Alvarado (1982). 97. Dutton &amp; Williams (2009). 98. Kennedy &amp; Taddonio (1976). 99. Kennedy (1980). 100. Stanford (1992). 101. Broad (1956). 102. Smitdh &amp; Gibson (1941). 103. Honorton (1985). 104. Honorton &amp; Ferrari (1989). 105. For example Steinkamp et al. (1998); Storm et al. (2012). 106. Alvarado (1989). 107. Cardeña et al. (2012). 108. Eisenbud (1949). 109. McClenon et al. (2003). 110. Rueda (1991). 111. West (1945). 112. Zingrone (2002). 113. McMahan (1946), 224, abstract. 114. Osis (1952). 115. Montredon (1968). 116. Rhine &amp; Feather (1962). 117. Feather &amp; Brier (1968). 118. Schmidt (1969). 119. Watkins &amp; Watkins (1971). 120. Giesler (1986). 121. Carpenter (1988). 122. Carpenter (1988), 279, abstract. 123. Rao (1987). 124. Mauskopf (1987). 125. For instance, Pope &amp; Pratt (1942); Rao (1987); Rhine (1946a; 1956a; 1961; 1977). 126. Alvarado et al. (2006). 127. Palmer (2019). 128. Broughton (1987); Palmer (1987). 129. Alvarado (2011). 130. Zingrone (1988).           			  			     			This page was last updated on: August 22, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Carlos S. Alvarado Word count: 7,800 Created: 16th August 2019 Last updated: 22nd August 2022 May be cited as:Alvarado, C. S. (2019). &lsquo;Journal of Parapsychology&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/journal-parapsychology&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y5zplzu4                   	                                                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/journal-parapsychology

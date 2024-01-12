@@ -35,7 +35,8 @@ include_once "header.php";
             <p class="card-text">
                 <ul>
                 <?php
-                    foreach ($_wordindex->findAll() as $obj) {
+                    $entries = $db->query("SELECT * FROM wordindex WHERE ishead=1 order by id asc LIMIT 20;");
+                    while ($obj = $entries->fetchArray(SQLITE3_ASSOC)) {
                         if (substr($obj['name'],0, 1) != "_" && strstr($obj['value'], '.html')) {
                             echo "<li><a href=wiki/" . rawurlencode($obj['value']). " target=main>" . $obj['name'] . "</a></li>";
                         }

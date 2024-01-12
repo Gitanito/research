@@ -1,0 +1,44 @@
+{"name":"Moritz Dechamps | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/moritz-dechamps","mytitle":"Moritz Dechamps | Psi Encyclopedia","mylang":"de"}
+                     Moritz Dechamps | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Moritz Dechamps                                                                                                                                                                                                                          Moritz Dechamps is a German researcher investigating quantum effects in the context of micro-psychokinesis experiments. &nbsp;   Contents   	Career 	Smoker Study 	Online Study 	Other PK Research 	Literature 	Endnotes     Career
+
+Moritz Dechamps is a post-doctoral researcher based at the Emotion and Motivation research unit at Munich’s Ludwig-Maximilians University, headed by professor Markus Maier. Together with Maier, Dechamps is investigating quantum-based models of consciousness and the relationship between mind, time and matter, which broadly overlaps with the micro-psychokinesis (PK) paradigm in parapsychology.&nbsp;
+
+Examples of work by Dechamps and Maier follow.  Smoker Study
+
+Parapsychological research, notably with regard to micro-PK research, exhibits mysterious decline effects. Generalized Quantum Theory (GQT)1&nbsp;explains psi effects as generalized acausal entanglement correlations, which – because of the ‘no-signal’ axiom, that information cannot be sent via entangled systems – causes initially robust psi effects to decline during replications.
+
+Dechamps and Markus Maier (his PhD supervisor) carried out studies2&nbsp;which used smoking-related stimuli to elicit psychokinetic responses among 500 smokers and non-smokers. With 297 participants they found a strong initial PK effect followed by a strong decline, as predicted by GQT and the Model of Pragmatic Information. A recovery in PK performance subsequently occurred during the third study, giving an oscillatory effect across all three studies and all 500 participants. Significantly, Maier’s team predicted this oscillatory pattern from previous experimental results and theoretical development.
+
+Dechamps and Maier explain the pattern in entropic terms: PK ordering results in a loss of entropy which must be balanced later by a fall in PK performance. A recovery in PK scoring then occurs as the system allows for order to be injected again. This approach expands the theoretical work on GQT by Walter von Lucadou, Harald Walach and Hartmann Römer.
+
+Dechamps and Maier pre-registered a third study with 203 participants that predicted not only the continuation of the oscillatory pattern, as described above, but also an approximate PK scoring value based on the oscillation curve. Both predictions were confirmed; however, a comparison with ten thousand simulated random data sets for three measures – an area-under-the-curve analysis, a local maximum fit test, and an endpoint fit test – showed non-significant results.
+
+Further exploratory analyses – including analysis of the highest-reached Bayes Factor (BF) over the course of the experiments, the overall orientation of the BF curve, and its transformation into oscillatory components via a Fourier analysis – showed significant differences between experimental and simulated data. This supports the approach of analyzing the temporal development of the PK effect rather than just the terminal value – an approach which, Dechamps argues, more parapsychology programs should adopt.3  Online Study
+
+Dechamps and Maier carried out an online experiment with 12,571 participants, seeking clear-cut evidence for or against the existence of micro-PK. Bayesian analysis (a statistical method that takes prior probabilities into account) revealed strong evidence for the null hypothesis H0 (BF01 = 10.07). Dechamps and Maier concluded that micro-PK did not exist in these data. However, closer inspection of the temporal change of the effect (how the effect modulated over time) suggested a non-random oscillative structure similar to that seen in the smoker study. Comparison with simulated random data revealed a marginally higher frequency in the experimental portion.4 Criticisms on statistical grounds by astrophysicist Hartmut Grote, have recently been answered.5  Other PK Research
+
+Dechamps continues to probe the theoretical basis for PK. A recent mini-review found interesting patterns of evidence across 32 experiments including clear differences in the temporal evolution of the effects compared to simulated control data.6
+
+Dechamps and his colleagues conduct regular exchanges with leading German theoreticians.
+
+Michael Duggan  Literature
+
+Dechamps, M., &amp; Maier, M. (2019). How smokers change their world and how the world responds: Testing the oscillatory nature of micro-psychokinetic observer effects on addiction-related stimuli. Journal of Scientific Exploration&nbsp;33/3, 406-34.
+
+Maier, M.A., Dechamps, M C., &amp; Plitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis.&nbsp;Frontiers in Psychology 9, 379-92.
+
+Maier, M.A., &amp; Dechamps, M.C. (2018). Observer effects on quantum randomness: Testing micro-psychokinetic effects of smokers on addiction-related stimuli.&nbsp;Journal of Scientific Exploration&nbsp;32/2, 265-97.
+
+Maier, M.A., Dechamps, M.C., &amp; Schiepek, G. (2021). Reply to Grote H. (2018). Commentary: Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. Frontiers in Psychology 9:1350. Journal of Scientific Exploration 35/2, 383-8.
+
+Von Lucadou, W., Römer, H., &amp; Walach, H. (2007). Synchronistics phenomena as entanglement correlations in generalized quantum theory.&nbsp;Journal of Consciousness Studies&nbsp;14/4, 50-74.
+
+&nbsp;   Endnotes 1. Lucadou et al (2007). 2. Maier and Dechamps (2018). 3. Maier and Dechamps (2019). 4. Maier et al (2018). 5. Maier et al (2021). 6. Dechamps (April 2020), personal communication.           			  			     			This page was last updated on: April 29, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 700 Created: 19th May 2020 Last updated: 29th April 2023 May be cited as:Duggan, M. (2020). &lsquo;Moritz Dechamps&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/moritz-dechamps&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y8dfegr3                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/moritz-dechamps

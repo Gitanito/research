@@ -1,0 +1,178 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/experimental-parapsychology-uk","mytitle":"Experimental Parapsychology in the UK | Psi Encyclopedia","mylang":"de"}
+                     Experimental Parapsychology in the UK | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Experimental Parapsychology in the UK                                                                                                                                                                                                                          The UK arguably leads psi research in Europe, having active centres in at least eight universities. Three of these, based at Edinburgh, Northampton and Greenwich, assume that phenomena termed ‘psychical’ have a core psi dimension. Others, notably Goldsmiths, University of London, adopt a more sceptical stance, seeking to understand psi phenomena in psychological terms under the heading ‘anomalistic psychology’. This dual approach reflects broader cultural attitudes in Britain, where there is a relatively high acceptance of a ‘sixth sense’ but also a healthy disregard for New Age propagandizing.
+
+This brief overview surveys the experimental work being carried out in the three main centres.   Contents   	Background 	The Koestler Chair, Edinburgh University  	Ganzfeld 	Experimenter Effects 	Registry for Parapsychological Experiments   	EECS (CSAPP), University of Northampton  	Random Number Generators (RNG) 	Remote Viewing and Precognition 	Dream Research   	University of Greenwich 	Other UK Research 	Teaching in the UK 	Literature 	Endnotes     Background
+
+Collective psi research in the UK began with the founding of the Society for Psychical Research in London in 1882, by a group of prominent scientists and academics, among them physicist William Barrett, and Henry Sidgwick, professor of moral philosophy at Cambridge University. In its early decades the SPR carried out a variety of in-depth investigations of mediumship, spontaneous experiences (apparitions, telepathy and the like), and related phenomena, both as field surveys and controlled experiments. By the mid-twentieth century its focus had shifted to educational activities, but it continues to sponsor experimental research, and leading parapsychologists in Britain such as Chris Roe and Richard Broughton are members of its governing Council. (See Society for Psychical Research)  The Koestler Chair, Edinburgh University
+
+The catalyst for the exponential growth of parapsychology in the UK was the endowment in 1985 of the Koestler Chair for Parapsychology, funded by a bequest from author Arthur Koestler. Situated in the psychology department of Edinburgh University, the Koestler Parapsychology Unit (KPU) nurtured a number of British parapsychologists, who now hold research positions in universities around the country. This considerable achievement is largely thanks to the first KPU professor Robert Morris, an American psychologist and parapsychologist. Having once served as president of the psychology section of the British Association for the Advancement of Science, Morris was much respected, and he was instrumental in establishing the KPU as a major centre for psi research. During his professorship he supervised 120 undergraduates and 30 postgraduate students, many of whom went on to seed other parapsychology units in the UK, fostering further PhDs.
+
+As well as supervising controlled psi experiments, Morris emphasized the importance of understanding ‘pseudo-psi’ – or as he termed it, ‘what looks like psi but isn’t’ –focusing on deception, belief formation and maintenance, and cross cultural aspects of psi experience and research. This helped to counteract concerns among sceptical mainstream colleagues.
+
+Morris died in 2004 aged 62, and the chair remained unoccupied until the appointment of Caroline Watt in 2017. During this period its research output declined, but it continued to carry out some work, for instance a study of dream precognition funded by a Perrott-Warrick grant.
+
+The KPU’s most notable activities have been in the fields of ganzfeld telepathy research and experimenter effects.&nbsp;(See also&nbsp;Koestler Parapsychology Unit;&nbsp;Koestler Parapsychology Unit website)  Ganzfeld
+
+The ganzfeld technique, introduced to parapsychology in the early 1970’s, is a mild form of sensory deprivation that aims to create the receptive state thought to aid telepathic transfer of information: typically the subject tries to identify which of four images he or she is being ‘sent’, with a probability of success by chance alone being one in four, or 25%.
+
+This line of proof-oriented research has been conducted for 40 years. The KPU has contributed to the global database of over 100 experiments and more than 4,000 sessions, which collectively show an overall hit rate of 32%. Of six meta-analyses, five have yielded positive conclusions regarding the existence of a telepathic effect in the ganzfeld. (See also&nbsp;Ganzfeld).  Experimenter Effects
+
+It is well known that some experimenters are more likely to find psi in their experiments than others (although such differences are often exaggerated by sceptics, and should not be overstated). This is an important line of investigation, as the outcome could help discover the source of psi effects – a hot topic at the present time.
+
+At the KPU, Caroline Watt has investigated experimenter belief as a variable in outcomes.1 That could occur in the way they interact with subjects, sceptical experimenters giving off a negative ‘vibe’ while experimenters who take psi to be a genuine entity engage more positively. Or it could be an inherent feature of psi itself, sceptics inhibiting the expression of psi in their experiments, and believers conversely facilitating it.&nbsp;
+
+To investigate this, Watt and Ramakers selected individuals who scored extremely high or low on a paranormal belief questionnaire, and trained them to administer a psi test.2 They found that sceptic experimenters obtained chance results whilst those experimenters who scored high on the paranormal belief scale achieved highly significant results. This is clear and strong evidence for the role of experimenter belief in manifesting psi and confirms similar findings by other groups.  Registry for Parapsychological Experiments
+
+A KPU innovation is the activation in 2012 of the Registry for Parapsychological Experiments, part of &nbsp;an ongoing international drive to reduce reporting biases and enhance methodological quality. Registration increases confidence in published outcomes by providing clear evidence that the key hypotheses and analyses were planned prior to conducting the experiment.  EECS (CSAPP), University of Northampton
+
+Deborah Delanoy obtained her PhD under John Belofff at Edinburgh; in 1999 she was appointed professor of psychology at Northampton University, later dean of social sciences, and is&nbsp;now retired. In 2001 Delanoy, along with Simon Sherwood and Chris Roe, was instrumental in setting up the Centre for the Study of Anomalous Psychological Processes (CSAPP), now renamed Exceptional Experiences and Consciousness Studies (EECS),&nbsp;at the University of Northampton. Located within the psychology division, the CSAPP is the largest centre for parapsychological research in the world and has a reputation for research excellence. &nbsp;Following on from the Koestler Unit, CSAPP seeks a better understanding of exceptional human experiences by treating the phenomena as genuine and investigating psi ability through laboratory testing.
+
+The centre is led by Chris Roe, professor of psychology, and a growing number of PhD students supported by research assistants.
+
+Current research activities listed on the CSAPP website include:   	The role of the emotional systems in mediating intuition and anomalous experiences 	Intuition in business decision making 	Lability and PK performance: Identifying the optimal conditions for PK-RNG effects in laboratory using an I Ching task 	Testing the psi-mediated instrumental response theory using an implicit psi task 	Comparing remote viewing and ganzfeld conditions in a precognition task 	Mapping experiences of telephone telepathy 	An investigation into the prevalence and phenomenology of synchronicity experiences in the clinical setting 	An investigation of ghostly phenomena and the characteristics of people who have and have not experienced it 	Independent replication of two of Daryl Bem’s experiments on retroactive priming and retroactive facilitation of recall, incorporating individual difference measures3
+
+Two of the main activities at Northampton, also being pursued extensively elsewhere, are psi testing with random number generators (RNG) and ‘remote viewing’ to gain information paranormally.  Random Number Generators (RNG)
+
+Random number generators have been used principally to investigate psychokinesis (PK), the purported ability to affect matter through the action of mind, and precognition, the ability to predict outcomes. PK was first tested with RNGs in the early 1970’s by Helmut Schmidt, a German-born physicist and parapsychologist who reported highly significant effects. Researchers have continued to use these electronic ‘coin-flippers’ in PK experiments ever since, and the accumulated effect size from over 500 experiments, although small in magnitude, is significant to the level of 16.1 sigma.4 Both quality and selective reporting cannot explain these effects. Moreover, the results are not due to a few successful experimenters but are broadly distributed.5 A recent, determinedly conservative meta-analysis found a highly significant effect size (0.500035) across 380 studies, one of the strongest results to date.6
+
+Besides demonstrating the existence of psi, parapsychologists are also concerned with the processes involved, and this is a strong focus of activity at CSAPP. Since 2009, Chris Roe and colleagues have been trying to unravel the conditions most suitable to eliciting precognition. They use a method in which the task is implicit: subjects are not told they are being tested for precognition, and instead are asked to indicate a preference for a particular picture in a set of four, of which one is the precognitive ‘target’. This approach has been found to yield a greater effect size (0.03)7 than studies in the earlier precognition meta-analysis, in which subjects understood the true nature of the task (0.01). In some of these studies, personality variables such as openness to experience were found to correlate with precognition performance.  Remote Viewing and Precognition
+
+Remote viewing (RV) is a methodological procedure for precognition, where the percipient is required to view distant objects, geographical locations and events across a distant spacetime point. Chris Roe and Stuart Flint performed a remote viewing experiment using a ganzfeld induction procedure on 14 novice sender-receiver pairs, and reported an astonishing hit rate of 12 hits from 14 sessions. 8 &nbsp;To discover the role of the ganzfeld in this success, Cal Cooper,9 then a PhD student, devised a controlled experiment in which remote viewing was carried out with and without a ganzfeld induction. The ganzfeld group scored significantly above chance with a 35% hit rate while the other performed at 30%. This result was later replicated,10 although it will take further testing to determine for certain whether ganzfeld induction does indeed help facilitate remote viewing. (See also&nbsp;Remote Viewing)  Dream Research
+
+Dream research has found a fresh impetus at CSAPP. &nbsp;Highly significant data in controlled experiments carried out from the mid-1960s at New York’s Maimonides Medical Centre appeared to confirm that dreams facilitate psychic functioning.11&nbsp; Since then there have been replications, mostly in European labs, although without the benefit of the sophisticated equipment available to the Maimonides experimenters. &nbsp;Chris Roe performed a meta-analysis of dream ESP experiments and found highly significant effects (Maimonides, ESr = 0.33), including the post-Maimonides work (ESr =0.14).12 &nbsp;This meta-analysis has been updated13 and the results have again been found to be highly significant (ESr = 0.11). (See also&nbsp;Dreams and ESP)  University of Greenwich
+
+David Luke, a graduate of Northampton’s CSAPP, now senior lecturer in psychology at the University of Greenwich, and fellow Northampton alumnus José Pérez Navarro (now no longer at Greenwich), have done extensive ganzfeld research, and are also at the forefront of examining psi and psychedelics. (Parapsychologists have sporadically investigated the possibility that psychedelic substances such as LSD and psilocybin can stimulate psi abilities, although under methodologically weak conditions.)
+
+Luke has conducted two experiments, one with the plant ayahuasca on indigenous Amazonian tribes, and another on himself using San Pedro cactus, a source of mescaline.14 Both experiments employed a RNG based precognition task. In this work, some significant data was achieved. Although very early days, Luke is continuing with this paradigm. By developing links with psychedelic researchers at other universities, he is helping to foster inter-disciplinary growth of parapsychology and psychedelic research.
+
+Recently, Luke has engaged in a line of research developed in recent years by Rupert Sheldrake and others, the sense of being stared at, investigating the effects of being watched from a distance on a variety of measures. (See Sense of Being Stared At)
+
+Luke has also contributed a study in the area of ‘implicit precognition’ discussed above,15 &nbsp;and this was later replicated by Roe.16 The total of eight experiments from both institutions gave odds against chance of nearly a hundred thousand to one. (See also&nbsp;Psychedelics and Psi)
+
+In 2012 and 2013, Luke led research in dream precognition investigating a possible relationship between psi and the supply of pineal chemicals, in this case melatonin. This was the largest scale dream ESP study to date, with 600 trials from 40 participants in two separate experiments. Scores were above chance, but the overall findings were non-significant, although there was some support for the hypothesis that psi may correlate with pineal gland activity.17 18  Other UK Research
+
+Most other UK centres are geared towards the ‘shadow’ side of parapsychology, termed ‘anomalistic psychology’: tracing normal or mundane causes of what only appears to be psi phenomena. Although largely sceptical in orientation, this activity is essential for gaining a holistic understanding of psi. It is also responsible for introducing up to six thousand students a year to psi research, since anomalistic psychology is now a module in the pre-university A-level psychology course in the UK.
+
+A growing number of mainstream psychologists are becoming involved in parapsychology. Eugene Subbotsky at Lancaster University has recently achieved interesting data replicating implicit precognition work carried out by Daryl Bem in the US,19 and Dein and Puri at University College London and Hammersmith Hospital have investigated telepathy using fMRI.20
+
+Some parapsychologists work alone in mainstream university departments, incorporating their work into the regular research of their colleagues. For example, Marios Kittenis,21 a KPU graduate, has been looking for evidence of presentiment (a type of precognition) in the baseline data of his mainstream colleagues, and has uncovered some intriguing effects.
+
+In this work, the EEG patterns of bipolar participants were compared across familiar and unfamiliar faces during periods of neutral or sad moods, as elicited by auto-biographical recall of specific sad or neutral life events. In addition to the expected effect of mood induction on face recognition, there were clear indications of a pre-stimulus effect, in that the EEG patterns were different before the presentation of familiar and unfamiliar faces. After examining potential confounds and correcting for some, the effect persisted. Kittenis is now conducting these investigations under more rigorous conditions, and continues to see pre-stimulus effects, although definitive analyses have yet to be carried out.22 (See also Presentiment).  Teaching in the UK
+
+In 2014, David Luke conducted a survey to try to quantify the current level of parapsychology and anomalistic psychology teaching with in the UK. Respondents supplied data from six universities: Central Lancashire, Derby, Edinburgh, Goldsmiths, Greenwich and Northampton. All six teach some combination of parapsychology and anomalistic psychology as an option at undergraduate level, to a total of around 450 students, the majority in the final year of study. This sample suggests that around 1000 students may study the subject in some form at British universities in the course of a year.
+
+In 2010, the Higher Education Academy (HEA) helped to establish a psychology specialist group, Teaching Anomalistic Psychology and Parapsychology (TAPP), and although it was shortlived due to lack of funding, it is&nbsp;a further sign of growing mainstream academic acceptance.
+
+There is also now some teaching activity in the subject at pre-university level. In 2008, the leading psychology examining board AQA&nbsp; introduced an anomalistic psychology option to its syllabus. In 2014, around 15% of the 376,000 psychology students took this option. This is expected to raise interest in the subject at university level.
+
+This situation compares well with the US, where there appears now to be little or no pre-doctorate level teaching of the subject in any form.
+
+Luke comments:  
+
+I am optimistic that the field will continue to grow healthily here, as ever growing generations of young psychologists encounter the subject in a rational, balanced, legitimate and erudite manner at various levels of study.23
+
+Michael Duggan
+
+A list of British institutions, and their main research activities, is given in the table below.   	 		 			
+
+Institution 			 			
+
+Leading researcher(s) 			 			
+
+Current or usual research activities 			 		 		 			
+
+Koestler Parapsychology Unit, University of Edinburgh 			 			
+
+Caroline Watt, Peter Lamont 			 			
+
+Dream precognition, anomalistic psychology 			 		 		 			
+
+Greenwich University Psychology Department 			 			
+
+David Luke, Ross Friday 			 			
+
+Altered states, Implicit precognition, Ganzfeld, Remote observation 			 		 		 			
+
+University of Hertfordshire 			 			
+
+Richard Wiseman 			 			
+
+Anomalistic psychology 			 		 		 			
+
+University of Lancaster 			 			
+
+Craig Murray 			 			
+
+Anomalous experience research: OBE’s, NDE’s End-of-life 			 		 		 			
+
+Goldsmiths, University of London 			 			
+
+Chris French 			 			
+
+Anomalistic psychology, and occasional psi research. 			 		 		 			
+
+CSAPP, University of Northampton 			 			
+
+Chris Roe, Richard Broughton, Deborah Delanoy 			 			
+
+Implicit precognition, mediumship research, transpersonal psychology 			 		 		 			
+
+University of York 			 			
+
+Robin Wooffitt 			 			
+
+Anomalous phenomena, exceptional states of consciousness 			 		 		 			
+
+University of Derby 			 			
+
+Ian Baker 			 			
+
+Remote staring effects. Extensive research supervision and teaching. 			 		 	   Literature
+
+Bem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. Journal of Personality and Social Psychology, 100, 407–425.
+
+Bӧsch, H., Steinkamp, F., Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. Psychological Bulletin, 132, 497–523.
+
+Dein, S. and Puri, B. (2012). Retrieved from: (www.bial.com/en/bial_foundation.11/grants.18/previous_editions.74/fellows_and_research_projects_supported_in_2012.a243.html)
+
+Kitennis, M. Anomalous anticipatory event-related EEG activity in a face recognition task. Proceedings of the 54th conference of the Parapsychological Association.
+
+Luke, D. P. (2008). Psychedelic Substances and Paranormal Phenomena: A Review of the Research. Journal of Parapsychology, 72(1),77-107.
+
+Luke, D. P., Delanoy, D. &amp; Sherwood, S. J. (2008). Psi may look like luck: Perceived luckiness and beliefs about luck in relation to precognition. Journal of Society for Psychical Research, 72, 193–207.
+
+Luke, D. (2012). Parapsychology and anomalistic psychology in the UK: A brief review. Mindfield: The Bulletin of the Parapsychological Association, 4 (2), 27-31.
+
+Luke, D., &amp; Zychowicz, K. (2014). Working the graveyard shift at the witching hour: Further exploration of dreams, psi and circadian rhythms. International Journal of Dream Research,&nbsp;7(2), 105-112.
+
+Radin, D. I., &amp; Ferrari, D. C. (1991). Effects of consciousness on the fall of dice:&nbsp;&nbsp; A&nbsp;&nbsp; meta-analysis. Journal of Scientific Exploration, 5(1), 61-83.
+
+Radin, D. I., &amp; Nelson, R. D. (2003). Meta-analysis of mind-matter interaction experiments: 1959-2000. Healing, Intention and Energy Medicine. London: Harcourt Health Sciences, 39-48.
+
+Roe, C. A., &amp; Flint, S. (2007). A remote viewing pilot study using a ganzfeld induction procedure. Journal of the Society for Psychical Research, 71,4, 230-234.
+
+Roe, CA, Cooper, C., and Martin, H.(2010). Testing or precognition using remote viewing and Ganzfeld methods: A comparison. Paper presented at the 34th International Conference of the Society for Psychical Research, Sheffield, UK.
+
+Roe, C. A., Hodrien, A. and Kirkwood, L. (2012). Comparing remote viewing and ganzfeld conditions in a precognition task. In: Abstracts of presented papers:
+
+Roe, C., Grierson, S. and Lomas, A. (2012). Feeling the future: two independent replication attempts. Parapsychological Association 55th Annual Convention, Durham, North Carolina, 09-12 August 2012. Durham, North Carolina, USA: Parapsychological Association.
+
+Roe, C. A., Martin, H., &amp; Drennan, S. (2014). Effects of participant and target system lability upon PK performance using an I Ching task. Journal of the Society for Psychical Research, 78, 219-239.
+
+Sherwood, S. J. &amp; Roe, C. A. (2003). Review of dream ESP studies conducted since the Maimonides Dream ESP Programme. Journal of Consciousness Studies, 10(6–7), 85–109.
+
+Sherwood, S. J., &amp; Roe, C. A. (2013). An updated review of dream ESP studies conducted since the Maimonides Dream ESP Program. In S. Krippner, A.J. Rock, J. Beishel, H.L. Friedman and C.L. Fracasso (Eds). Advances in Parapsychological Research 9, 38-81.
+
+Subbotsky, E. (2013). Sensing&nbsp; the&nbsp; Future:&nbsp; Reversed&nbsp; Causality or&nbsp; a&nbsp; Non-standard&nbsp; Observer&nbsp; Effect? The Open Psychology Journal, 6, 81-93.
+
+Ullman, M., &amp; Krippner, S. (1970). Dream studies and telepathy: An experimental &nbsp;&nbsp;approach (No. 12). New York: Parapsychology Foundation.
+
+Watt CA, Ramakers P. (2003). Experimenter effects with a remote facilitation of attention focusing task: A study with multiple believer and disbeliever experimenters. Journal of Parapsychology, 67:99–116. 21.   Endnotes 1. Watt &amp; Ramakers, 2003. 2. Watt &amp; Ramakers, 2003. 3. Bem, 2011. 4. Radin &amp; Nelson, 2003. 5. Radin &amp; Ferrari, 1991. 6. Bosch, Steinkamp &amp; Boller, 2006. 7. Roe, Martin &amp; Drennan, 2014. 8. Roe &amp; Flint, 2007. 9. Roe, Cooper &amp; Martin, 2010. 10. Roe, Hodrien &amp; Kirkwood, 2012. 11. Ullman and Krippner, 1970. 12. Sherwood &amp; Roe, 2003. 13. Sherwood &amp; Roe, 2013. 14. Luke, 2008. 15. Luke, Delanoy &amp; Sherwood, 2008. 16. Roe, Grierson &amp; Lomas, 2012. 17. Luke et al., 2012. 18. Luke &amp; Zychowicz, 2014. 19. Subbotsky, 2013. 20. Dein &amp; Puri, 2012. 21. Kitennis, M. 22. Personal communication. 23. Luke, 2012.           			  			     			This page was last updated on: February 13, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 3,200 Created: 17th June 2017 Last updated: 13th February 2023 May be cited as:Duggan, M. (2017). &lsquo;Experimental Parapsychology in the UK&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/experimental-parapsychology-uk&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yyzaqckq                   	                                             See also:      Experimental Parapsychology Koestler Parapsychology Unit Parapsychology PhDs in the UK (list)                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/experimental-parapsychology-uk

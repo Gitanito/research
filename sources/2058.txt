@@ -1,0 +1,126 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/electromagnetism-and-paranormal-phenomena","mytitle":"Electromagnetism and Paranormal Phenomena | Psi Encyclopedia","mylang":"de"}
+                     Electromagnetism and Paranormal Phenomena | Psi Encyclopedia                                Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Electromagnetism and Paranormal Phenomena                                                                                                                                                                                                                          Electromagnetism may be implicated in reports of seemingly paranormal phenomena, some researchers believe. &nbsp;It is also thought by some to play a role in the appearance of ghosts and spirits, and electromagnetism detection devices are popular among ghost hunters.   Contents   	Background 	Electromagnetism and Electromagnetic Fields 	Early Considerations 	Experiments and Field Investigations  	Michael Persinger 	Other Studies   	EMF and Ghost Hunting 	Recent Developments 	Conclusion 	Literature 	Endnotes     Background
+
+Exposure to certain electromagnetic frequencies has been proposed as a factor in paranormal experiences with a sensory component, such as seeing apparitions, hearing sounds or being touched. It has also been suggested that electromagnetic fields that interact with structures, appliances or naturally occurring magnetic fields may produce seemingly paranormal phenomena, including object movement, light anomalies, temperature changes and psychokinetic ‘poltergeist’ effects. Studies have been made to explore these possibilities.
+
+Many popular associations of electromagnetism with the paranormal are based on ideas that ghosts and spirits may be detected by their electromagnetic emissions, or that they use electromagnetic energy to manifest. Some paranormal researchers have even proposed that ghosts and spirits use electromagnetic fields to manifest or to interact with witnesses. There is little substance to either notion, but commercial devices based on such claims are popular with ghost investigators.  Electromagnetism and Electromagnetic Fields
+
+All electromagnetic fields are comprised of an electric field and a magnetic field.1&nbsp; These are intrinsically linked, so that any change in one must always cause a change to take place within the other. The relationship between the two was described by physicist James Clarke Maxwell in 1861 (the Maxwell Equations).2
+
+Electromagnetic radiation is normally described in terms of frequency (expressed in units of Hertz (Hz)), wavelength (expressed in metres), or by reference to its properties (radio, light, visible etc).3
+
+Fig.1: Electromagnetic Spectrum
+
+The electromagnetic spectrum extends from frequencies below 1Hz, with corresponding wavelengths of thousands of kilometres, to frequencies in excess of 1020 Hz, with wavelengths in the subatomic range. It includes radio waves which have the lowest frequencies and longest wavelength, through microwaves and the various light spectra in the middle regions, to x-rays, gamma rays and cosmic radiation at the highest frequencies and shortest wavelengths. Electromagnetic radiation at frequencies above the light spectra (&gt; 1015Hz) has sufficient energy to cause ionization of atoms. This is referred to as ionising radiation or nuclear radiation. Conversely, electromagnetic radiation at lower frequencies, which lack sufficient energy to cause ionization, is referred as non-ionizing radiation.
+
+Electromagnetic fields may be man-made or they may occur naturally. Man-made sources of electromagnetic fields include almost all electrically operated technology (vehicles, radio transmitters, and the electrical wiring in buildings or overhead cables).
+
+Natural sources of electromagnetic fields include the Earth’s magnetic field, the Sun, seismic activity, lightning and the movement of air and water within the atmosphere. Humans and other living organisms also have a surrounding electromagnetic field as a result of the electrical activity which occurs within their cells.  Early Considerations
+
+Attempting to explain the effects caused by séance mediums, some nineteenth century researchers proposed a connection with new discoveries in electromagnetism.4 In 1875, physicists Balfour Stewart and PG Tait proposed that electromagnetic forces provide a physical continuity between this world and the next.5&nbsp; In 1894 sittings with the medium Eusapia Palladino, Oliver Lodge, Charles Richet and Frederic Myers used a wire apparatus to detect electromagnetic surges emanating from her body.6
+
+Other mediums also appeared to manifest unusual electromagnetic effects from time to time, for example Florence Cook and DD Home. Additionally, so-called ‘electric girls’ manifested unusual electromagnetic effects &nbsp;(see for instance Angelique Cottin).7 However, it is probable that reported effects such as light flashes and shocks were a result of static electricity charges, which may also have given rise to observations of electromagnetism.
+
+Researchers theorized that radio and other electromagnetic forms may offer a means for communicating with spirits or other dimensions. For example, the Spirit Electronic Communication Society, founded in Manchester in 1949, developed devices which it claimed could be used for this purpose. The group also used devices – called Zwann Rays after their inventor, Dutch spiritualist N Zwann8 – to create an energy field that it was thought might assist spirit communications by stimulating the psychic sense. This area of research became known as Electronic Voice Phenomena (EVP). Konstantin Raudive, a Latvian, was one of many researchers who experimented with electronic communication methods based upon radio waves, testing methods such as shielding from unwanted electromagnetism by means of a Faraday cage.9
+
+Fig 2: Raudive Diode
+
+The Spiricom, a spirit communication device based on radio waves but also requiring mediumistic ability, was developed by industrialist George Meek and medium William O’Neill in the 1980s.10
+
+As the twentieth century progressed, researchers developed ideas based on energy fields to try to explain a range of paranormal phenomena, many based upon principles of electromagnetism. Most were without substance, such as the claimed discovery of a pure magnetic current by Viennese physicist Felix Ehrenhaft, which paranormal investigator Harry Price speculated might be involved in poltergeist-type activity,11 but which was later proved not to exist.  Experiments and Field Investigations  Michael Persinger
+
+Growing interest in electromagnetism on the part of paranormal researchers in the 1980s stemmed largely from studies carried by Michael Persinger at the Laurentian University in Ontario, Canada. Persinger considered that electromagnetism might provide sufficient energy to cause experiences such as apparitions, poltergeists, precognition and UFO encounters. He thought that extremely low frequency (&lt;60Hz) electromagnetic fields from both natural and man-made sources might be a likely cause,12 further suggesting the study of high voltage static electric fields and geo-magnetic fields.13
+
+Persinger’s most notable experiments involved the use of a helmet which he developed together with Stanley Koren. The device, nicknamed the ‘God Helmet’, exposed portions of the brain to complex magnetic signals of varying intensity. Exposure caused some individuals to experience physical and psychological sensations, including religious visions (some participants claimed to have seen apparitions of Christ within the experimental chamber).14
+
+Persinger’s claims regarding the God Helmet have been frequently challenged, most notably by researchers at Upsala University, Sweden, who claimed that the reported effects could not be reproduced and attributing the effect largely to suggestibility.15
+
+Perhaps Persinger’s most influential work in this area was his examination with Koren of an allegedly haunted property in 1996. The reported phenomena included sensed presences, intense feelings of fear, flashes of light and sensations of being touched. &nbsp;The pair observed that spikes in electromagnetism appeared to coincide with increased episodes of the disturbances and traced the cause to a faulty earth in electrical wiring circuits.16  Other Studies
+
+Markedly similar observations were made during an investigation at a reportedly haunted farmhouse in Cheshire, England in 2003-4. The occupants reported paranormal experiences and unusual physiological sensations, as also did investigators from Para.Science. Extremely high electromagnetic fields found in the same rooms as the reported experiences were traced to a faulty electrical supply cable, and the phenomena faded after it had been repaired.17
+
+The Association for the Scientific Study of Anomalous Phenomena (ASSAP) carried out a study in 2004 examining links between localized electromagnetism and haunting reports at Muncaster Castle, Cumbria, UK. Using a pair of magnetometers, the team led by Jason Braithwaite and Maurice Townsend measured magnetic fields in the region of 0.1 to 30 Hz in the castle’s Tapestry Room. They concluded that ghostly occurrences reported by individuals lying on the bed were caused by interactions between the ambient electromagnetic fields and the iron bedframe.18
+
+Parapsychologists from the University of Hertfordshire and the University of Edinburgh, led by Richard Wiseman, made electromagnetic field measurements while searching for explanations of reported hauntings at Hampton Court Palace and Edinburgh’s Vaults. The team used magnetometers to survey the ambient magnetic fields, but found only modest evidence for a magnetic field causation.19
+
+Other researchers carried out experiments recording the effects on participants of electromagnetic fields. A team from London’s Goldsmith’s College led by Chris French used electromagnetic coils to subject participants to controlled levels of low frequency electromagnetism within a specially constructed chamber. Although inconclusive, the team considered the case for electromagnetic involvement worthy of further investigation.20
+
+These limited studies only appear to suggest that further, more detailed work may be productive. They have focused on the very low frequency portion of the electromagnetic spectrum, typically around or below the frequencies of the electrical supply: 60Hz in the USA and 50Hz in the UK. To date no studies have examined the involvement of higher frequencies, for example in the 2GHz-5GHz regions used by mobile communications and Wi-Fi devices, a dominant cause of most localized electromagnetism. Exposure to electromagnetic fields within these frequency ranges has been blamed by some campaigners as a cause of physiological and health problems, although this remains to be proven.21  EMF and Ghost Hunting
+
+Many investigators now routinely measure electromagnetic fields in their studies, benefiting from inexpensive EMF (Electromagnetic Field) meters that have been developed to monitor the possible health implications of exposure to mobile phone masts and other appliances22 (not be confused with ‘emf’, a physics abbreviation for electromotive force.23) Their widespread adoption has been boosted by popular television shows such as Ghost Hunters,24 each new model quickly being marketed as ghost detectors by commercial companies.25 Numerous ‘ghost meters’ are now being advertised, many of them ordinary commercial meters that have been re-branded for ghost hunting applications, such as the popular Safe Range K-II meter.26 Other devices claiming to generate a localized electromagnetic field are promoted as stimulating spiritual activity within a location.27 &nbsp;But there is little evidence to support these claims, and descriptions tend to lack detail, as for instance in this blurb by a group that offers courses in ghost investigation:  
+
+The EMF detector is an essential part of a ghost hunter’s toolkit. The EMF detector detects and monitors the electro-magnetic field around the device. All consumer electronics and even some battery-operated items e.g. mobile phones and walkie talkies can set off EMF detectors. It has been found that high levels of EMF or EMF spikes tend to occur at the same time and in the same location as paranormal activity.28
+
+Ideas regarding the use of EMF devices may have arisen from misunderstandings of the studies by Persinger, Koren and other researchers, amplified by the mainstream media and ghost hunting online forums.29 &nbsp;Despite the extravagant claims made for them, these are mostly simple devices that provide only a basic indication of electromagnetic amplitude.30 But they remain extremely popular with ghost investigators, many of whom insist they are useful.31
+
+A few investigators use Geiger counters to detect ionizing electromagnetic radiation,32 but to date there is no evidence to suggest that these frequencies are involved in reported paranormal experiences.  Recent Developments
+
+A recent idea is that a ghost or spirit may directly influence the device by increasing the surrounding electromagnetic field and using the energy thus created to convey information, by means of flashing lights, changing the tone of a speaker or moving of a meter needle. One commercially available device, the Ghost Meter Pro, has additional modes which it is claimed facilitate such communication.33
+
+The ghost hunting community has also begun to use mobile phone apps which use built-in sensors, often including a magnetometer able to measure surrounding electromagnetic fields.34 35  Conclusion
+
+It remains to be conclusively demonstrated that electromagnetism plays a role in the production of reported paranormal experiences. No study carried out to date has ever produced any evidence that ghosts or spirits can emit or manipulate electromagnetism. However, the current popularity of electromagnetic field measuring device and EMF meters among ghost hunters shows little signs of waning. A stream of new devices comes onto the market annually, each backed by unsupported claims and insubstantial evidence.
+
+Steven Parsons  Literature
+
+Anon. (2003). Health Effects of Radiofrequency Electromagnetic Fields. Report of an independent Advisory Group on Non-ionising Radiation. National Radiological Protection Board 14/2.
+
+Biddle, K. (2014). Testing the K-II EMF Meter: Does it communicate with spirits? No. James Randi Education Foundation. [Web page]
+
+Biography.com (n.d.). &nbsp;James C. Maxwell Biography. [Web page]
+
+Dyne, M. (1954). Electronic Communication for the Spiritual Emancipation of the People. Manchester: The Spirit Electronic Communication Society.
+
+Electromagnetic Spectrum. (n.d.). Electromagnetism. [Web page]
+
+Electromagnetic Fields and Cancer (n.d.). National Cancer Institute.[Web page]
+
+Fodor, N. (1933). Electric Phenomena. In Encyclopaedia of Psychic Science. Stroud, UK: Arthurs Press, 122.
+
+French, C., Haque, U., Bunton-Stasyshyn &amp; Davis, R. (2009). The “Haunt” project: An attempt to build a “haunted” room by manipulating complex electromagnetic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fields and infrasound. Cortex 45, 619-29.
+
+Kashy, E., Bertsch McGrayne, S., Robinson, Frank N. H. (n.d.) Electromagnetism. Encyclopaedia Britannica Online.&nbsp;
+
+Khamsi, R. (2004). Electrical Brainstorms busted as source of ghosts. Nature, 9 December.
+
+Lodge, O. (1894). ‘Experience of unusual physical phenomena occurring in the presence of an entranced person’. Proceedings of the Society for Psychical Research 2, 300-60.
+
+Masters, D. (2017). Your best chance of seeing an ACTUAL ghost this Halloween…according to paranormal experts. Daily Mirror, 31 October.
+
+Meek, G. W. (1987). After We Die, What Then? Columbus: Ariel Press. Meek also made the technical manuals for the various Spiricom devices freely available, some online: Spiricom, Technical Manual 4
+
+Murphy, T. (2019). The God Helmet Experiments: The Science that Found God in the Human Brain. Independently published.
+
+Persinger, M.A. (1974). The Paranormal Part II. Mechanisms and Models. MSS Information Corp. USA.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Persinger, M.A. &amp; Koren, S. (2001). Predicting the Characteristics of Haunt Phenomena from Geomagnetic Factors and Brain Sensitivity: Evidence from Field and Experimental Studies. In Hauntings and Poltergeists, ed. by J. Houran &amp; R. Lange. Jefferson, NC: McFarland, 184-87.
+
+Price, H. (1945). Poltergeist Over England. London: Country Life &nbsp;382.
+
+Raudive, K. (1971). Breakthrough. An Amazing Experiment in Electronic Communication with the Dead. Gerrards Cross, UK: Colin Smythe.
+
+Smith K.M., Holroyd, P. (1968). Introduction to Electrical Units and Circuits. In Engineering Principles for Electrical Technicians. Pergamon. Oxford.
+
+Stewart, B. &amp; Tait, P.G. (1875). The Unseen Universe, or Physical Speculations on a Future State. New York: MacMillan.
+
+Swain, B. (1982). Electronic Breakthrough with “Dead”&nbsp; &nbsp;New Realities 4.
+
+Townsend, M. (2004). The Haunted Bed. Association for the Scientific Study of Anomalous Phenomena.
+
+Winsper, A. &amp; Parsons, S. (2004). Preliminary Report for O.H. Farm, Cheshire. [Web page]
+
+Wiseman, R., Watt, C., Greening, E., Stevens, P., O’Keeffe, C. (2002). An Investigation into the alleged haunting of Hampton Court Palace: Psychological variables and magnetic fields. Journal of Parapsychology 66/4, 387-408.
+
+World Health Organisation (2002). Electromagnetic Fields. [Web page]
+
+Woodford, Chris. (2008). Magnetism. [Web page]
+
+Wynarczyk, N. (2018). App-Aritions My horror of hearing a missing man banging on a wall when I went ghost hunting in a haunted train station – and you can do it too. The Sun Online, 31 October.   Endnotes 1. World Health Organisation (2002). 2. James C. Maxwell Biography. Biography.com; Woodford (2008). 3. Electromagnetic Spectrum. Electromagnetism. MathsisFun.com 4. Kashy et al. (2020). 5. Stewart &amp; Tait (1875). 6. Lodge (1894), 300-360 7. Fodor (1933), 122. 8. Dyne (1954). 9. Raudive (1971), 349. 10. Swain (1982); Meek (1987). 11. Price (1945). 12. Persinger (1974). 13. Persinger (1974). 14. Todd (2018). 15. Khamsi (2004). 16. Persinger &amp; Koren (2001). 17. Winsper &amp; Parsons (2004). 18. Townsend (2004). 19. Wiseman et al (2002). 20. French et al (2009). 21. Anon. (2003). 22. Electromagnetic Fields and Cancer. National Cancer Institute. 23. Smith &amp; Holroyd (1968). 24. Ghost Hunters. IMDb website. 25. E.g., K-II EMF Meter in Action @ Local Haunt! Ghost Augustine. 26. Biddle (2014). 27. EM Pump For Ghost Hunting and Paranormal Investigation. Infraready Ghost Hunting Equipment &amp; Digital Infrared Cameras. Infraready.co.uk 28. Admin. (2018). The Best Ghost Hunting EMF Detectors and K-II meters Available in the UK. Paranormal Academy. 29. Wynarczyk (2018); Masters (2017). 30. Digital EMF Meter with Temperature. GhostStop. 31. EM Pump – Ghost Magnet – Sales and Reviews. GhostWarePro. 32. What Is A Geiger Counter? Advanced Ghost Hunters of Seattle-Tacoma. 33. Ghosthuntevents.co.uk 34. PC Apps. 35. Best Ghost Hunting Apps 2020 For Android &amp; iPhone.           			  			     			This page was last updated on: April 05, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Steven Parsons Word count: 2,500 Created: 5th April 2022 Last updated: 5th April 2022 May be cited as:Parsons, S. (2022). &lsquo;Electromagnetism and Paranormal Phenomena&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/electromagnetism-and-paranormal-phenomena&gt;. Retrieved 11 January 2024. Short URL:www.tinyurl.com/y8xorlka                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/electromagnetism-and-paranormal-phenomena

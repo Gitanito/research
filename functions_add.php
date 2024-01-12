@@ -1,148 +1,93 @@
 <?php
-$_additionals = new \SleekDB\Store("additionals", __DIR__ . "/sdb/data");
-$_content = new \SleekDB\Store("content", __DIR__ . "/sdb/data");
+
+$all = [];
+$all_ = $db->query("SELECT * FROM wordindex;");
+while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
+    $all[$a['name']] = $a['value'];
+}
+
+function findPage($keyword) {
+    global $all;
+
+    if (strstr($keyword, '.html')) return $keyword;
+    if (trim($keyword) != "") {
+        if (isset($all[$keyword])) {
+            if (strstr($all[$keyword], ".html")) {
+                return $all[$keyword];
+            } else {
+                return findPage($all[$keyword]);
+            }
+        }
+    }
+}
+
 
 function add($intitle, $intext, $inlink = "", $intype = "text", $inlang = "de")
     {
-        global $_wordindex, $_additionals, $_content;
+        global $db, $all;
 
         try {
 
 
             $filename = trim($intitle[0]);
 
-            $local_wordindex = [];
-
             foreach ($intitle as $title) {
                 $title = str_replace("\u{00a0}", ' ', trim($title));
-/*
-                // Replaces all spaces with hyphens.
-                $title = str_replace(' ', '-', $title);
 
-                // Removes special chars.
-                $title = preg_replace('/[^A-Za-z0-9\-]/', '', $title);
-                // Replaces multiple hyphens with single one.
-                $title = preg_replace('/-+/', ' ', $title);
-*/
-
-                if (isset($_wordindex->findBy(["name", "=", $title])[0]['value'])) { // Titel existiert - eine Verknüpfung wird erstellt
-                    $local_wordindex[$title] = $_wordindex->findBy(["name", "=", $title])[0]['value'];
-                    $new_file = rand(1000, 9999);
-                    $last_title = $filename . " " . $new_file;
-
-                     //$_wordindex["_additionals"][$title][] = $last_title;
-                    $a = $_additionals->findBy(["name", "=", $title]);
-                    if (isset($a[0]['value'])) {
-                        $a[0]['value'][] = $last_title;
-                        $_additionals->updateOrInsert(["name" => $title, "value" => $a[0]['value']]);
-                    } else {
-                        $_additionals->updateOrInsert(["name" => $title, "value" => [$last_title]]);
-                    }
+                if (isset($all[$title])) { // Titel existiert - eine Verknüpfung wird erstellt
+                    $orgcontent = file_get_contents("data/contents/".$x[0].".txt");
+                    $orgcontent = $orgcontent.PHP_EOL.PHP_EOL.PHP_EOL.PHP_EOL.PHP_EOL.$intext;
+                    file_put_contents("data/contents/".$x[0].".txt", $orgcontent);
                 } else { // Titel existiert nicht - wird neu angelegt und mit dieser Seite verknüpft
-                    if (!isset($last_title)) {
-                        $_wordindex->updateOrInsert(["name" => $title, "value" => $title . ".html"]);
-                        $_wordindex->updateOrInsert(["name" => strtolower($title), "value" => $title]);
+                    if (!isset($last_title) || $last_title == "") {
+
+                        $stmt  = $db->prepare ("INSERT INTO wordindex (name,value,ishead) values (:name,:value,:ishead);");
+                        $stmt->bindValue(':name', $title, SQLITE3_TEXT);
+                        $stmt->bindValue(':value', preg_replace("/[[\-]+/i", '-', preg_replace("/[^a-z0-9\_\-\.]/i", '-', basename(trim($title)))) . ".html", SQLITE3_TEXT);
+                        $stmt->bindValue(':ishead', 1, SQLITE3_TEXT);
+                        $stmt->execute();
+
+                        $stmt  = $db->prepare ("INSERT INTO wordindex (name,value) values (:name,:value);");
+                        $stmt->bindValue(':name', strtolower($title), SQLITE3_TEXT);
+                        $stmt->bindValue(':value', $title, SQLITE3_TEXT);
+                        $stmt->execute();
+
+                        $all[$title] = preg_replace("/[[\-]+/i", '-', preg_replace("/[^a-z0-9\_\-\.]/i", '-', basename(trim($title)))) . ".html";
+                        $all[strtolower($title)] = $title;
+
                         $last_title = $title;
                     } else {
-                        $_wordindex->updateOrInsert(["name" => $title, "value" => $last_title]);
-                        $_wordindex->updateOrInsert(["name" => strtolower($title), "value" => $last_title]);
+                        $stmt  = $db->prepare ("INSERT INTO wordindex (name,value) values (:name,:value);");
+                        $stmt->bindValue(':name', $title, SQLITE3_TEXT);
+                        $stmt->bindValue(':value', $last_title, SQLITE3_TEXT);
+                        $stmt->execute();
+
+                        $stmt  = $db->prepare ("INSERT INTO wordindex (name,value) values (:name,:value);");
+                        $stmt->bindValue(':name', strtolower($title), SQLITE3_TEXT);
+                        $stmt->bindValue(':value', $last_title, SQLITE3_TEXT);
+                        $stmt->execute();
+
+                        $all[$title] = $last_title;
+                        $all[strtolower($title)] = $last_title;
                     }
                 }
                 $filename = $last_title;
             }
 
-            $outtext = [];
+            $stmt  = $db->prepare ("INSERT INTO content (name,type,mylink,mytitle,mylang,content) values (:name,:type,:mylink,:mytitle,:mylang,'');");
+            $stmt->bindValue(':name', $filename, SQLITE3_TEXT);
+            $stmt->bindValue(':type', $intype, SQLITE3_TEXT);
+            $stmt->bindValue(':mylink', $inlink, SQLITE3_TEXT);
+            $stmt->bindValue(':mytitle', join(',',$intitle), SQLITE3_TEXT);
+            $stmt->bindValue(':mylang', $inlang, SQLITE3_TEXT);
+            $stmt->execute();
 
-            $sources = [];
-            $sourcesl = [];
+            $result = $db->query("SELECT last_insert_rowid();");
+            $exists  = $result->fetchArray();
 
-            foreach ($intext as $line) {
-                if (trim(substr($line, 0, 1)) === "[") { // this a citation-line
-                    $l = explode(" ", $line);
-                    $index = str_replace(['[', ']'], "", $l[0]);
-                    $sources[$index] = '<a name="cit' . $index . '">[' . $index . ']</a> <a target=_blank href="' . trim($l[1]) . '">' . trim($l[1]) . '</a>';
-                    $sourcesl[$index] = '<a target=_blank href="' . trim($l[1]) . '">^</a>';
-                } else {
-                    $outtext[] = $line;
-                }
-            }
-
-            foreach ($outtext as $tkey => $tline) {
-                foreach ($sources as $k => $s) {
-                    $tline = str_replace('[' . $k . ']', '<sup><a href="#cit' . $k . '">[' . $k . ']</a> ' . $sourcesl[$k] . '</sup>', $tline);
-                }
-                $outtext[$tkey] = $tline;
-            }
-
-            $out = join("<br>" . PHP_EOL, $outtext);
-
-
-            /* GANZ WICHTIG! Automatisches Tagging kann wieder aktiviert werden
-                $matches = [];
-                $matchlist = [];
-                foreach ($_wordindex->findAll() as $obj) {
-                    //$searchwords => $outurl
-                    $v = $obj['name'];
-                    if (substr($v, 0, 1) != "_") {
-                        preg_match_all("/$v/i", $out, $matches);
-                        foreach ($matches[0] as $m) {
-                            $matchlist[] = $m;
-                        }
-                    }
-                }
-                $matchlist = array_values(array_filter($matchlist));
-
-                $match_links = [];
-                foreach ($matchlist as $ml) {
-                    if (trim($ml) != "") {
-                        $match_links[$ml] = findPage(strtolower($ml));
-                    }
-                }
-
-                $keys = array_map('strlen', array_keys($match_links));
-                array_multisort($keys, SORT_DESC, $match_links);
-
-                $preout = $out;
-                foreach ($match_links as $kw => $lnk) {
-                    $preout = preg_replace("/$kw/i", md5($kw), $preout);
-                }
-                foreach ($match_links as $kw => $lnk) {
-                    $z = md5($kw);
-                    $preout = preg_replace("/$z/i", "<a href='" . $lnk . "'>" . $kw . "</a>", $preout);
-                }
-                $out = $preout;
-            */
-            $out .= '<br>' . join("<br>" . PHP_EOL, $sources);
-
-
-            $out =
-                '<!doctype html>
-<html lang="en">
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../bootstrap.min.css">
-
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script>document.addEventListener("DOMContentLoaded", function(){window.addEventListener("scroll", function() {if (window.scrollY > 50) {document.getElementById("navbar_top").classList.add("fixed-top"); navbar_height = document.querySelector(".navbar").offsetHeight;document.body.style.paddingTop = navbar_height + "px";} else {document.getElementById("navbar_top").classList.remove("fixed-top");document.body.style.paddingTop = "0";}});});</script>
-    <script src="../frontend.js"></script>
-</head>
-<body><div class="container">'
-                . '<div class="card w-90"><div class="card-header" id="navbar_top"><h1>' . $filename . '</h1>'
-                . (isset($inlink) ? "Link: <a target=_blank href='" . $inlink . "'>" . $inlink . "</a><br><br>" : "")
-                . '</div><div class="card-body">'
-                . $out
-                . '</div></div></div></body></html>';
-
-
-            file_put_contents('wiki/' . $filename . ".html", $out);
-
-            //file_put_contents('sources/' . $filename . ".txt", ":" . serialize(['type' => $intype, 'mylink' => $inlink, 'mytitle' => join(',',$intitle), 'mylang' => $inlang]) . PHP_EOL . join(PHP_EOL, $intext));
-            $_content->updateOrInsert(["name" => $filename, "type" => $intype, "mylink" => $inlink, "mytitle" => join(',',$intitle), "mylang" => $inlang, "content" => join(PHP_EOL, $intext)]);
+            $firstline = json_encode(['type' => $intype, 'mylink' => $inlink, 'mytitle' => join(',',$intitle), 'mylang' => $inlang]);
+            $filecontent = $firstline. PHP_EOL . join(PHP_EOL, $intext);
+            file_put_contents("sources/".$exists[0].".txt", $filecontent);
 
         } catch (Exception $e) {
             die;

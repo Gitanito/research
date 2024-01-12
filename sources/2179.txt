@@ -1,0 +1,544 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/postmortem-survival","mytitle":"Postmortem Survival | Psi Encyclopedia","mylang":"de"}
+                     Postmortem Survival | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Postmortem Survival                                                                                                                                                                                                                          A significant branch of psychical research is the study of evidence that human mind and personality survive the death of the body. Apparently strong cases of ‘spirit’ communication, past life memories and the like, are analysed to determine whether they can logically be accounted for only in terms of survival, or whether they may in fact be explained by other factors.&nbsp;   Contents   	Introduction 	History 	Explanatory Options 	Mediumship Data  	Cross-Correspondences 	Drop-Ins   	Reincarnation and Possession  	Children Who Remember a Past Life 	Behaviours 	Hypnotic Regression 	Possession   	Near Death Experiences 	Transplant Cases 	Haunting Cases and Apparitions 	Electronic Voice Phenomena (EVP)/Instrumental Transcommunication (ITC) 	Literature 	Endnotes     Introduction
+
+While one can have various personally-compelling reasons for believing in postmortem survival –&nbsp;say, based on religious faith or an impressive mediumistic sitting – psychical researchers have from the outset focused on a rather specific question: ‘Is there, or can there be, rationally or scientifically compelling evidence of survival of bodily death?’ From that standpoint, a case typically suggests survival when: (a) some living person shows knowledge or abilities closely (or uniquely) associated with a deceased person, and (b) we have good reason to believe that this knowledge wasn’t obtained, or the abilities developed, through ordinary means.
+
+It should be noted that the type of postmortem survival at issue is more interesting and personal than the scenario envisioned by some Eastern religions: a kind of merging with the infinite or being-in-general. That might count as a kind of life after death, but that form of continuance would obliterate whatever is distinctive about us. By contrast, survival of death is typically considered to preserve some kind of identity between an antemortem individual and a postmortem individual. That is why those who wonder about survival also wonder whether after death they will be able to meet up with or communicate with their still-living friends and relatives. And it is why those who consult mediums or study reincarnation cases look for evidence that some deceased person’s knowledge, traits, or skills continue to manifest.
+
+The primary sources of evidence suggesting survival are: (1) cases of mediumship, (2) cases of the reincarnation type and similar examples of ostensible spirit-possession, and (3) cases of near-death experiences (NDEs). Another intriguing&nbsp;but quite recent and considerably smaller body of evidence comes from heart-lung transplant cases. Moreover, some claim that activity of deceased individuals can be manifested and captured without the mediation of a living subject. The primary examples are cases of haunting and apparitions of the dead and also cases of instrumental transcommunication (ITC) or electronic voice phenomena (EVP).  History
+
+The founding of the British Society for Psychical Research (SPR) in 1882 (and the American Society for Psychical Research two years later) marks the beginning of the first sustained and large-scale effort to gather and evaluate apparent evidence for survival. The SPR’s goal was to conduct this investigation in a careful, open-minded, and critical scientific spirit, putting aside (as much as possible) personal biases and religious training. It was also a component of an even more wide-ranging effort to study other phenomena that likewise seemed to promise new and distinctive insights into the nature of mind – for example, hypnotic phenomena, dual or multiple personality, and of course various forms of apparent ESP and psychokinesis.
+
+These complementary lines of research attracted some of the sharpest and most distinguished minds of the period. That group included Henry Sidgwick (1838-1900), professor of moral philosophy at Cambridge, and the SPR’s first president; his wife Eleanor (1845-1936), second principal of Newnham College, Cambridge, classical scholar and poet FWH Myers (1843-1901), author of the monumental and still highly esteemed Human Personality and its Survival of Bodily Death; Edmund Gurney (1847-1888), pioneering hypnosis researcher and author of the massive two-volume study of apparitions, Phantasms of the Living; noted physicist Sir Oliver Lodge (1851-1940); William James (1842-1910), Professor of Psychology at Harvard, one of the founders of the American SPR and also president of the SPR; James Hyslop (1854-1920), Professor of Logic and Ethics at Columbia University; Henri Bergson (1859-1941), philosopher and one-time SPR president; Charles Richet (1850-1935), Nobel-winning physiologist and SPR president; and many others, including, JJ Thomson, Sir William Crookes, and Alfred Russell Wallace. An outstanding survey of the early days of the SPR is a book by Alan Gauld.1
+
+Over the years, survival research attracted many other distinguished researchers. In the mid-twentieth century this group included noted philosophers CD Broad, CJ Ducasse, and HH Price and psychologists William McDougall, Gardner Murphy, and Hans Bender. The reader will find references to some of these and to more contemporary researchers throughout this article.  Explanatory Options
+
+For simplicity in what follows, the term ‘survivalist’ will refer to someone who, in one way or another, accepts or argues for the belief in survival of death. The terms ‘anti-survivalist’ and ‘non-survivalist’ will be used in connection with people who do not accept the hypothesis of survival, and also to positions or claims opposed to those of the survivalist. Thus, anti-survivalists will include both sceptics and agnostics with respect to postmortem survival, including some who accept the existence of antemortem psi.
+
+There is undoubtedly no shortage of cases at least superficially suggesting postmortem survival. But for all of these there are non-survivalist explanatory options which any clear-headed appraisal of the evidence must consider seriously and which those favoring survivalist explanations must strive to rule out.
+
+The first wave of non-survivalist explanations would be in terms of what Braude2 has called the ‘Usual Suspects’ – namely, malobservation, misreporting, hidden memories (cryptomnesia), and fraud. These can be easily ruled out in the most interesting survival cases. So the debate over the evidence turns to what Braude called the ‘Unusual Suspects’ – namely, rare or abnormal processes, such as a combination of dissociation and latent creative capacities, or exceptional (eg&nbsp;‘photographic’) memory, or something analogous to extreme or rare forms of savantism. Although these at least seem to be ruled out fairly easily in the strongest cases, some argue that they are more difficult to reject than many writers on survival have appreciated. Moreover, as will be noted below, there are purely logical reasons why these Unusual Suspects may be difficult to dismiss.
+
+But even when the Unusual Suspects seem unable to account normally for the evidence, a more intractable non-survivalist explanation remains – what most misleadingly call ‘super psi’ but which Sudduth more accurately calls ‘living-agent psi’.3 The reason why survivalists must take this seriously is easily illustrated in terms of a typical good case of mediumship. No matter how obscure the information provided by a medium, if that information can subsequently be verified by normal means, then in principle it can also be explained in terms of the medium’s ESP. One of the earliest and most significant writers to take this issue seriously was ER Dodds.4&nbsp; Similarly, in reincarnation cases one can appeal to ESP on the part of either the subject or relevant interested parties (such as family members), or to the paranormal influence they exert (presumably telepathic or psychokinetic).
+
+Some survivalists reject these explanatory strategies because (they say) the living-agent psi hypothesis posits psychic functioning of an implausible degree, and more than that for which we have evidence outside of survival cases.5
+
+However, others counter that survivalist line of argument by claiming that it is confused on two grounds: first, because there is no clear standard for evaluating the magnitude of psychic functioning, and second (and most important), because the argument overlooks a crucial (and ironic) logical entailment of the survivalist position – namely, that survivalists are committed to positing comparably impressive psi on the part of the deceased or the living, simply in order to explain how evidence suggesting survival was manifested in the first place.6 For example, suppose a medium channels, without prompting and without normal access to the information, the message ‘Aunt Harriet knows you’re eager to quit your job’. Even for survivalists, some kind of ESP must be posited merely to explain how the medium knows what deceased Aunt Harriet is thinking, and how deceased Aunt Harriet knows what the sitter is thinking. In each case, that would be direct mind-to-mind interaction – or, in other words, telepathy. Or suppose the medium reports, ‘Aunt Harriet says she’s glad you’re wearing the necktie she gave you’. In this case, if the medium does not know normally who gifted the necktie, survivalists must posit psi involving deceased Aunt Harriet to explain how she can be aware clairvoyantly of what the sitter is wearing, and how that information was exchanged telepathically between the medium and Aunt Harriet.
+
+Before considering the different bodies of evidence suggesting survival, we must note one additional, and very important, introductory point concerning the logic of explanation. Survivalists often maintain that the living-agent psi explanation of cases compares unfavorably to that of the survivalist. They usually support that claim by arguing that the survivalist explanation is simpler, or that it has greater explanatory power, or does a better job of predicting the data, than the living-agent psi alternative, or else that the living-agent psi explanation of the data is indefensibly ad hoc. But it has been noted that this type of comparison of the living-agent psi and survivalist hypotheses seems plausible only in virtue of a kind of logical sleight of hand.7 As noted above, survivalists typically claim that the survival hypothesis explains (or predicts) various strands of evidence. But such explanation or prediction is possible only if one makes a number of auxiliary assumptions about the nature and character of the afterlife. For example, in cases of mediumship we find that communications are often trite, confused, or have a dreamy quality, and that at other times they seem quite clear and coherent. We also find that only some deceased people seem to communicate, and then only for a short time. Why is that, and how do survivalists account for it (and the many other observed features of mediumship)?
+
+The problem, then, is this. In order to explain why the evidence from mediumship has the features we find, and why it lacks certain others, is to make numerous, independently unverified assumptions about (say) whether deceased persons would want to, or be able to, communicate with the living, the means by which that communication is achieved, and whether that communication is difficult or easy (eg, whether there is ‘noise’ in the ‘channel’).
+
+By contrast, a simple survival hypothesis – for instance, a mere assertion that consciousness or personality can survive, in the absence of further assumptions specifying conditions necessary for the evidence to take the forms noted in the literature – can make no specific (much less fine-grained) predictions at all about what the data of survival should actually look like. The same is true, obviously, about the living-agent psi hypothesis, which, in its more robust and sophisticated forms, makes numerous assumptions about (say) dissociative creativity, and the needs and interests of the living, in order to explain why the data take the forms that they do
+
+However, when survivalists try to claim that the survival hypothesis explains (or predicts) the evidence better than the living-agent psi hypothesis, they usually compare robust versions of living-agent psi (allegedly laden with implausible assumptions) only to a simple survival hypothesis – minus the sorts of assumptions required to for that hypothesis to do any explanatory work at all. The proper comparison, however, must be between robust survival and robust living-agent psi hypotheses, where each is bulked up by assumptions that permit the prediction of the observed, fine-grained features of the data. But in that case, the empirical argument for survival may amount merely to a comparison of the auxiliary assumptions attaching to both the living-agent psi and survivalist hypotheses. And that debate is too complex to be surveyed here. However, a consideration of the various strands of evidence will indicate what sorts of assumptions might be required from either standpoint.  Mediumship Data
+
+Mediumship takes a variety of forms, many of which we can distinguish with respect to the medium’s degree of altered state or ‘trance’. Some mediums relay messages from (or describe) communicators without significantly modifying their normal waking state. They claim that their mediumistic activities are as routine, clear, and natural as reporting statements of (or describing) people standing next to them. Other mediums experience a light trance, in which they are somewhat ‘spacy’ or distracted but are nevertheless able to go about their usual business. Still other mediums experience a much deeper alteration of consciousness, similar (at least on the surface) to what occurs in cases of multiple personality (or dissociative identity) disorder (MPD/DID). Like multiples, these mediums ‘lose time’, and their normal waking state is replaced by another state of consciousness (apparently, that of the ostensible communicator). Typically, the heavy-trance medium has no knowledge of what transpired during the communication and apparent possession of her body.
+
+In addition to these variations in the mediumistic state, mediumship varies with respect to its underlying process. Some mediums act as if they were listening to someone and then simply repeating or interpreting what they were told. For example, the medium might say, ‘Your Aunt Harriet is speaking to me now, and she wants you to know that ....’ Other mediums, rather than ‘hearing’ communicators, experience mental images which they then describe or interpret. For example, the medium might say, ‘I see an older, bearded man, quite tall and dressed in typical Victorian attire. His suit is torn, and the man is pointing to cuts on his face and hands. I feel as if he has been attacked with a knife.’
+
+By far, the most dramatic cases are those in which mediums seem to be physically controlled by a communicator. Sometimes, only parts of mediums’ bodies seem to be controlled, as in cases of automatic writing or drawing. But in the most dramatic cases, mediums apparently have their entire body possessed or controlled by a so-called trance-personality (or persona), who speaks in a different voice from that of the medium and whose behaviour (in the best cases) resembles that of a formerly living person. In the most evidential of these cases, those similarities extend to subtle verbal mannerisms, voice quality, and characteristic facial expressions. However, not all heavy-trance mediums deliver their messages through full-blown trance-person­alities. For example, the Boston medium Leonora Piper would sometimes swoon and drop her head onto pillows arranged in front of her on the table, after which she would produce automatic writing. The sitters then had to move the pa­per to prevent her words from running off or piling up.
+
+Mediumship can also be a group experience, for example when sit­ters gather around a ouija or planchette board, or when they assemble around a séance table for table-tilting. Generally speaking, par­ticipants in these forms of group mediumship feel that some power other than their own moves the objects beneath their fingers. And as with other forms of mediumship, the most interesting cases are when the received messages convey information known normally to no one present at the séance.
+
+There is broad consensus that the most impressive medium studied since the establishment of the SPR is Leonora Piper. Researchers took unprecedented and very thorough precautions to ensure that she could not obtain information about her sitters through normal means. It was Piper who convinced two of her investigators, the formerly recalcitrant Richard Hodgson and Oliver Lodge (among others), of the reality of postmortem survival. And it was Piper who William James declared to be the ‘white crow’ in his search for evidence of genuinely paranormal phenomena (although he did not consider her to have provided sufficient evidence of an afterlife).8 Other mediums worth investigating are Gladys Osborne Leonard (considered by many to be the British Piper),9 ‘Mrs. Willett’ (Winifred Coombe-Tennant), and Eileen Garrett.10  Cross-Correspondences
+
+One substantial body of mediumistic material, culled from several mediums – sometimes living at great distances from one another and who were unknown to one another – comprises the so-called ‘cross correspondences’. These communications, mainly in the form of automatic writing, appeared to come from deceased colleagues of SPR researchers such as Frederic Myers and Richard Hodgson, and were liberally sprinkled with classical and literary allusions, many of them in Greek and Latin, of the kind that had been very familiar to these men but were of little or no significance to the mediums themselves. The communications directed the researchers to match one medium’s script to another’s, at which point apparently fragmentary and meaningless references that occurred in each one appeared to hang together in a meaningful whole. It appeared to the researchers as if their former colleagues were attempting to provide proof of their continued existence in a form that could not easily be explained in terms of living-agent psi, since the organizing intelligence behind it could hardly be attributed to the mediums, either individually or acting in concert.
+
+Naturally some wondered whether the links between scripts could be due merely to chance, along with a reader’s ability to find connections between concepts, terms and symbols. If so, then perhaps the alleged coherence of the fragmentary scripts reveals little more than the imagination and educational breadth of the observer. Moreover, the correspondences could reflect the fact that similarly educated mediums – and telepathically active or accessible sitters – are likely to share a broad background of knowledge and reservoir of allusions.
+
+However, adherents of the cross-correspondences maintain steadfastly that the connections between the scripts are precisely the sorts of things that the ostensible communicators enjoyed during their lives, and that the correspondences are too rich in detail to be dismissed in the ways noted above. And whichever way one decides, it seems clear that the best examples of cross-correspondences resist explanations in terms of normal or abnormal processes and at the very least demonstrate some ESP.11  Drop-Ins
+
+Another interesting body of mediumistic material comes from so-called drop-in cases. In these, communicators arrive uninvited, and often neither medium nor sitters know who they are. Of course, in the most intriguing cases, drop-ins make statements about themselves which are later verified and which nobody present at the séance knew to be true. And occasionally, the drop-in’s behaviour (as expressed through the medium) resembles that of the communicator when alive. Drop-in cases are not uncommon, but only a few have been verified, probably because in most of those cases sitters are more interested in apparent personal communications from deceased friends and relatives.
+
+Survivalists sometimes contend that drop-in cases may be particularly difficult to explain neatly along anti-survivalist lines. For one thing, we need to explain why the medium (or someone else present at the sitting) would use ESP to obtain information about an individual who was unknown to those present at the séance. Generally speaking, those attending séances are interested primarily in ‘contacting’ individuals they knew. Why, then, would a medium apparently waste time providing information about a total stranger, one whose story cannot be verified without further (and probably tedious) investigation? If the medium is using psi or normal sleuthing to obtain information about purported communicators, why not just gather information about those likely to be targeted by the sitters? We also need to explain why the communicator supplies information of no apparent interest to the sitters but of understandably serious concern to the communicator. By contrast, the survival hypothesis seems appealingly straightforward, and seems to make particularly good sense from what is arguably the deceased’s point of view. To put it simply, the séance provides a forum for communication which the drop-in exploits for urgent personal reasons (eg,&nbsp;to console a grieving relative or to take care of important unfinished business).12 A good example is the case of Runki’s leg, in which a drop-in revealed information contained in several different, obscure sources, and helped locate a femur plausibly linked to the deceased Runki.13
+
+In recent years, mediumship has been brought into the laboratory, as researchers have sought to obtain more systematic and quantifiable measures of mediumistic success. While the degree of mediumistic prowess studied in these cases falls well below the level demonstrated by Piper and other great mediums, these studies often employ novel double or triple-blind protocols which offer a viable and valuable way of testing mediums of more modest ability. 14  Reincarnation and Possession
+
+Reincarnation cases fall into three principal subsets: (a) evidence from hypnotized subjects ‘regressed’ to a past life, (b) cases in which unhypnotized adults seem to recollect previous lives, and (c) evidence of children apparently recalling earlier lives. Although spontaneous (ie, non-hypnotic) displays of apparent reincarnation aren’t common anywhere, they seem to occur most often in parts of the world where belief in the phenomenon is widespread –&nbsp;notably, in south and southeast Asia, western Asia, west Africa, Brazil, and Alaska. And although the cases differ somewhat from one culture to the next, certain features recur with great regularity.  Children Who Remember a Past Life
+
+Typically, the subject in a reincarnation case is a child, and the phenomena begin between the ages of two and four. During that time, the child either begins speaking about a previous life or else behaves in unusual ways later found to correspond to that life. However, as time goes on, those behaviours tend to diminish or disappear.&nbsp;In many (and certainly the best) cases, investigators identify a person who (almost always) died before the child’s birth and the details of whose history corresponds to the child’s statements. Moreover, the child subjects often report that they died a violent death in their previous life, and they tend to offer details, later verified, about the mode of death. In many cases, the families of the subject and the previous personality live in widely separated communities (geographically, socially, and sometimes temporally), so that it is reasonable to conclude that the families had no contact before the child’s unusual behaviour began.  Behaviours
+
+Furthermore, that behaviour is not limited merely to reports about a former life. Subjects also exhibit traits, beliefs, and behaviours similar to those of the previous personality, many of them unusual for that family or community, or for the child’s age. For example, subjects often exhibit phobias appropriate to the previous personality’s mode of death –&nbsp;for example, a fear of snakes in a case where the previous personality died of a snakebite. And in some of those cases, the children’s phobias manifested even before they began speaking of a previous life. Along the same lines, some children display interests or cravings inappropriate for them but characteristic of the previous personality (eg, sex, intoxicants, or certain foods). Some have tried or pretended to smoke cigarettes. Others, apparently remembering the lives of heavy drinkers, have either requested or surreptitiously imbibed alcohol. In a sizeable portion of cases, children seem to remember lives of people of the opposite sex, and they behave accordingly (eg, by cross-dressing or showing an interest in play characteristic of the opposite sex).
+
+Some of the most intriguing behaviours occur when subjects are introduced to family, friends, or acquaintances of the previous personality, or when they visit the previous personality’s village or home, or when someone shows them photographs pertaining to the previous personality’s life. At those times, subjects identify people, places, or objects they have never seen before, and often they exhibit the sorts of emotions we might expect of a previous personality. For example, subjects reportedly weep bitterly or display great joy at being reunited with loved ones of the deceased, or they might exhibit antipathy toward the previous personality’s enemies, or they might display reticence about discussing matters that the previous personality would have considered sensitive. Moreover, when they encounter the previous personality’s friends, relatives, or spouse for the first time, subjects may use locutions (eg, nicknames) which had special or intimate significance to the previous personality and the other person, but which (presumably) they had not learned normally.
+
+For many, the most puzzling aspects of reincarnation cases concern anomalous physical characteristics of the subject. In about one-third of cases, the children have physical features (eg, birthmarks or deformities) corresponding to birth defects, wounds, or other notable physical features of the previous personality. Notably, in some cases where the previous personality died of a gunshot wound, the subject had two birthmarks roughly corresponding to the deceased’s original entry and exit wounds, with the latter birthmark being appropriately larger and less regular.
+
+A common belief about reincarnation cases is that subjects usually display abilities characteristic of the previous personality. Nevertheless, and despite the interest many researchers have shown in ostensible xenoglossy (speaking an unlearned language), that belief is highly controversial. In order to defend it properly, one must first examine and be clear about the relevance of the remarkable abilities of savants, prodigies and dissociative virtuosi (eg, in cases of multiple personality), all of whom can display abilities (sometimes quite astonishing abilities) in the absence of any practice or training beforehand, and sometimes despite physical or mental handicaps which we would ordinarily expect to rule out any possibility of developing the ability in question. Similarly, one could argue that discussions of evidence for genuine xenoglossy rest on superficial treatments of the specific notion of linguistic competence and also the more general notion of a human ability. Thus, critics could argue that the evidence can more plausibly be construed as manifestations of abnormal but well-documented forms of living human creativity.15
+
+One famous case, albeit of mediumship, but reinforcing that concern, is that of Helene Smith, who ostensibly channeled messages from inhabitants of Mars, and who did so by means of a subconsciously created, elaborately detailed, and thoroughly consistent, written and spoken Martian language. Similarly, the American medium Pearl Curran, ostensibly channeling messages from a seventeenth-century Englishwoman named Patience Worth, wrote many novels, poems, and other works, all of which displayed abilities and knowledge well beyond any training she had received and well beyond any abilities she had displayed beforehand. That case, too, provided nothing even close to verifiable information about a person answering to the few details given about ‘Patience’.16  Hypnotic Regression
+
+Cases suggesting reincarnation based on testimony following hypnotic regression are likewise controversial, although again, some (such as the case of ‘Antonia’,17 are quite impressive. In the good cases, as one would expect, hypnotically regressed subjects report verifiable information, delivered in the first person (ie, speaking as the previous personality), of which neither they nor the hypnotist have normal knowledge. The Antonia case is remarkable for the quantity and obscurity of the information revealed. Although the subject never provided information sufficient to identify her ostensible sixteenth-century Spanish incarnation, Antonia, she provided an astonishing amount of detailed and exceptionally obscure information about the appropriate period and locale of Antonia’s alleged life.
+
+Critics, however, point to well-known facts about hypnosis –&nbsp;in particular, the ease with which good dissociative subjects respond to subtle suggestion, or are able to unleash previously hidden reservoirs of dramatic creativity, and perhaps most important –&nbsp;a phenomenon noted since the time of Mesmer –&nbsp;the emergence under hypnosis of ESP.18
+
+Despite these various complications and disputes, the best reincarnation cases are among the most intractable cases for those wanting to explain them in terms of the Usual Suspects or Unusual Suspects (including living-agent psi).19  Possession
+
+Cases of ostensible possession differ in some respects from reincarnation cases. For example, subjects in possession cases are usually older than in reincarnation cases (often teens or adults), and the previous personality tends to be someone who died after the subject’s birth. Moreover, although displacement of the host personality is usually temporary in both possession and reincarnation cases, in possession cases it is frequently sporadic, as if the possessing personality periodically retreats or loses control of the body. Also, personality displacement in possession cases may be voluntary. That is why mediumship (and shamanism) can be classified as types of possession.
+
+But perhaps the main difference between reincarnation and possession cases is that in the former (but not in the latter), the subject tends to identify strongly with the previous personality. So in reincarnation, there seems to be a blending of the host and previous personality, which we do not see (at least to the same degree) in possession cases. However, because cases of multiple personality disorder or dissociative identity disorder, where there is no indication of postmortem survival, also exhibit varying degrees of personality or identity blending, some question the significance of this feature of reincarnation cases.20  Near Death Experiences
+
+Strictly speaking, NDEs do not –&nbsp;at least usually –&nbsp;provide evidence of survival: that is, by providing information about some deceased person of which the NDEr had no normally-acquired knowledge. The reason many consider NDEs relevant to the study of survival is that the data suggest that consciousness can persist even under physiological conditions thought necessary for the occurrence of mental activity. NDErs often have out-of-body experiences (OBEs) in which they accurately report events or describe locations which they could not have perceived normally at the time. For some, it’s only a small step from that to conclude, further, that consciousness can persist independently of any bodily substrate –&nbsp;hence, even after bodily dissolution.
+
+Predictably, then, the debate between survivalists and anti-survivalists on the subject of NDEs concerns the issue of whether survivalists are justified in making that inference to the genuine autonomy of the mental. Although NDEs are undoubtedly impressive and psychologically transforming to those who experience them, and although the veridical reports of information well beyond the NDEr’s perceptual field seem clearly to provide evidence of ESP, the debate over the relevance of these cases to survival centers around two main problems.21
+
+The first problem is the issue of time-stamping&nbsp;–&nbsp;that is,&nbsp;determining precisely when the NDE occurred. NDEs are, at best, only roughly contemporaneous with the cessation of vital signs. But then it is difficult to say whether those experiences occurred after the vital signs disappeared, and not (say) during the process of resuscitation, when there was certainly more brain activity. Our ability to date the time of mental activity precisely in NDEs depends to a great extent on the subject’s retrospective testimony, and that measure is simply too crude for us to know when, exactly, the near-death OBE occurred. Even if the events reported from the NDE can be accurately dated, it is very difficult to rule out the possibility of retrocognitive or precognitive access to that information.
+
+The second, and related, problem is that our criteria for determining clinical death are also not as precise as many believe—in fact, they are debated within the medical community&nbsp;–&nbsp;and, moreover, there may be no justification for declaring a person dead at all if the person subsequently can be resuscitated. Perhaps death can only be an irreversible loss of vital functions. Thus, there are two related problems here –&nbsp;one concerning the clinical criteria of death and which physiological measures should be considered the relevant vital signs, and the other concerning the very meaning of the crucial term ‘death’.
+
+Those sceptical about the ontological significance of NDEs often raise two additional concerns. First, many reported NDEs happen when subjects are neither seriously ill nor in any life-threatening situation, and often those experiences differ little from those that take place under genuinely life-threatening conditions, much less conditions thought to be incompatible with the persistence of conscious states. In these cases, experiencers were not really about to die; they simply thought they were. Accordingly, some argue that the fear of death produces an unusual psychological state that helps reduce the fear. That conjecture would take NDEs to be continuous with many other altered states (eg, trauma-induced dissociation) that also have the function of alleviating pain or fear.
+
+Furthermore, many features of NDEs are culturally specific, and some argue that they likewise discourage survivalist explanations of the phenomena. The most striking differences tend to emerge from the oldest cases, where we find (among many other things) graphic accounts of Hell.22 But contemporary NDEs from our own culture seem no less culture-bound. For example, some subjects report encounters with the grim reaper.23
+
+As noted earlier, survivalists sometimes maintain that NDEs occur under physiological conditions widely believed necessary for the occurrence of any conscious states at all. A variant of that claim should also be mentioned. One reason many consider NDEs relevant to the issue of survival is that NDErs report how dramatically lucid their experiences are. And that matters, they claim, because those experiences occur under physiological conditions in which one might expect cognitive functioning to be, at the very least, diminished rather than enhanced. And while that would not by itself establish that cognitive functioning can occur following bodily death and dissolution, to many it suggests a degree of independence of cognition from bodily functioning that one might expect if postmortem survival occurs.
+
+But even here, there is considerable room for debate. Anti-survivalists wonder: Why should cognitive functioning diminish under physically traumatic conditions? Some commentators on NDEs have argued that during oxygen deprivation and certain other physiologically stressful states, one might actually expect subjective experiences to take on a kind of hallucinatory clarity and brilliance. Others reply, with justification, that many of these attempted physiological or chemical explanations are clearly inadequate to explain away NDEs generally, especially those in which subjects accurately report locations or events from which they were sensorily isolated.24 Nevertheless, as Cook&nbsp;et al., concede, ‘we do not even know what physiological conditions are minimally required for organized, vivid cognition’.25 But that would seem to be a very important admission of ignorance. If we do not know what the physical or physiological correlates are to ordinary (much less optimal) cognitive functioning, then presumably one should be wary of drawing major metaphysical inferences from these cases. Critics can plausibly maintain that we simply do not know what to expect about cognitive functioning in the case of NDEs, any more than we know what to expect of savants, who display enhanced cognitive functioning despite their physiological impairments and even despite cognitive deficits believed to ordinarily rule out the savant’s abilities.  Transplant Cases
+
+In these cases, recipients of heart or lung transplants exhibit novel behaviors and attitudes quite foreign to them but characteristic of the donor, of whom they know nothing (at least normally). Such cases are noteworthy for several reasons. First, they constitute a significant body of new evidence. Although reincarnation and possession cases continue to appear, cases of mediumship declined considerably in the last half of the twentieth century along with interest in Spiritualism. Second, transplant cases reinforce the impression, created by other types of cases, that the form of survival evidence is influenced by surrounding cultural and social forces. For example, mediumship is tied to spiritistic beliefs of some sort, and reincarnation and possession cases occur primarily in communities where belief in reincarnation is widespread. That does not show that the phenomena are nothing but social constructs. But it suggests that survival evidence varies in its symptom language, like the varying and culturally specific forms of dissociative disorders. Not surprisingly, the evidence from transplant cases seems inevitably restricted to more technologically developed and affluent parts of the world, where transplant operations are accessible and affordable. By contrast, of course, reincarnation and possession cases cluster in less-industrialized societies.
+
+Third, transplant cases introduce evidence of a new and seemingly important type. They expand the empirical horizon in the search for evidence of survival, and they present us with a distinctive network of needs and interests to which one can apply and compare both the living-agent psi and survival hypotheses. When we think along survivalist lines, it is easy to imagine why, after their tragic and premature deaths, organ donors might cling to their vital earthly organic connections, rather than in familiar locations, as in apparent haunting cases.
+
+Of course, advocates of living-agent psi would emphasize a different set of causally relevant motives. From their perspective, donors would not be the only individuals with apparently burning and persisting needs. Organ recipients and the families of both donor and recipient will also have deep concerns. For example, it’s reasonable to consider not simply how much the recipient and recipient’s family knew about the donor, but how much they wanted to know. Similarly, one can consider whether members of the donor’s family urgently seek evidence of the donor’s survival. And of course, organ recipients tend to feel a deep bond with their donor, and that bond may be expressed in a variety of ways, both flagrant and subtle. That is why proponents of the living-agent psi interpretation of transplant cases argue that the psychodynamics of such cases provide fertile soil for living-agent simulations of survival.
+
+Some try explaining transplant cases in terms of cellular memory. But strictly speaking that would not be a survivalist explanation, if it is a coherent explanation at all.26 Rather, it tries to explain evidence suggesting survival in terms of still-living bodily parts. So that strategy would not apply to types of survival evidence in which an identifiable personality’s actions and plausible postmortem agendas seem to persist even after all parts of the body cease functioning or decompose. Thus, explanations in terms of cellular memory treat transplant cases as limiting cases (given today’s technology) of antemortem survival. So long as the transplanted organs continue to function, there is a sense in which bodily death has not occurred, although of course bodily integrity has been seriously compromised.
+
+So if appeals to cellular memory fail, how would survivalists account for them? As mentioned earlier, one survivalist suggestion is to treat them as a subset of possession cases in which the deceased linger or hover&nbsp;–&nbsp;not&nbsp; around familiar locations as in (evidentially much less impressive) haunting cases –&nbsp;but around their still-living vital organs.27 In fact, one might interpret transplant cases as a culturally specific manifestation of possession, appropriate to societies that are technologically advanced and in which more classic manifestations of possession are not accepted (or expected) as a matter of course.
+
+The cases most strongly suggesting that view would probably be those in which young children receive new organs and thereafter experience themselves as sharing their body with the donor. Consider, for example, the case of Carter.28 The young recipient described himself both as co-existing with his donor&nbsp;and as occasionally yielding his body to the deceased donor’s control (for instance, when interacting with the deceased’s parents). Some are tempted to take this kind of testimony more or less at face value, because in such a case it seems difficult to argue that the conceptually innocent organ recipient was predisposed to describe his/her experiences in any way at all, much less as a kind of possession.
+
+The main problem with evidence from transplant cases is that there is so little of it,29 and there is no sign that researchers are actively looking for more. But as this body of evidence grows (as it presumably will, spontaneously), it will be interesting to see which patterns emerge clearly and whether young recipients like Carter continue to suggest possession as a viable explanation.  Haunting Cases and Apparitions
+
+Haunting phenomena resist neat classification. In one direction they shade off by degrees into poltergeist phenomena, and in another direction they morph gradually into cases of haunting ghosts or recurrent localized apparitions. Haunting phenomena center around a place rather than a person (as in poltergeist cases),30 and the phenomena often consist of noises resembling those that living persons would make by, for instance, walking on stairs, dropping objects, and opening or closing doors (even though there are no actual corresponding physical events), or by speaking, whispering, or groaning. However, sometimes physical phenomena do seem to occur, such as the tugging of blankets, bedsheets and clothes, and the opening or shutting of doors or drawers. For obvious reasons, cases like these usually contain little or no verifiable information about the deceased, and as a result they do little to advance the case for survival.
+
+However, in the most compelling haunting cases, subjects repeatedly (and sometimes collectively) see human (and occasionally animal) figures. Moreover, these apparitions of the dead often seem purposive, even if they don’t attempt to identify themselves. For example, percipients frequently identify apparitional figures as relatives, and sometimes the apparitions apparently manage (or at least try) to deliver crucial information to the percipient, such as the existence of a hidden will or a piece of timely advice. But unlike the best cases of mediumship, recurrent haunting apparitions don’t provide a regular (much less long-term) stream of verified material. So however intriguing the best of them might be, they are still less rich evidentially than the best cases from some of the categories discussed above.31  Electronic Voice Phenomena (EVP)/Instrumental Transcommunication (ITC)
+
+EVP phenomena are manifestations (sometimes only ostensible manifestations) of anomalous voices on electronic media, such as magnetic tape, apparently resembling those of the deceased. Similarly, ITC phenomena concern (sometimes only ostensibly) anomalous electronically mediated manifestations (eg, by telephone, television or computer) of voices, images, or texts, allegedly pointing to discarnate origins.32
+
+Criticisms made of this work are what one would expect:&nbsp;primarily, (1) that the studies are like Rorschach tests in which people hear what they expect or simply impose patterns that tell us more about them than about the target –&nbsp;in short, that there is too much scope for imagination, and (2) that the experiments do not successfully block stray signals from normal forms of transmission. Moreover, attempts to conduct control studies of EVP/ITC have failed to support survivalist conjectures.33 Although this body of material continues to have its adherents, the prevailing view among survivalists and anti-survivalists alike is that if one is looking for compelling evidence of postmortem survival, cases of mediumship, reincarnation, and transplants are more promising domains of inquiry.
+
+Stephen E&nbsp;Braude  Literature
+
+Allison, L.W. (1934). Proxy sittings with Mrs. Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;42, 104-46.
+
+Allison, L.W. (1941). Further proxy sittings with Mrs. Leonard.&nbsp;Journal of the American Society for Psychical Research&nbsp;35, 196-225.
+
+Almeder, R. (1992). Death and Personal Survival. Lanham, Maryland, USA: Rowman &amp; Littlefield.
+
+Anderson, R.I. (1981). The therapist as exorcist: James H. Hyslop and the possession theory of osychotherapy.&nbsp;Journal of Religion and Psychical Research&nbsp;4, 96-112.
+
+Bacci, M. (1991). Il Mistero delle Voci dall’ Aldillà&nbsp;(2nd ed.). Rome: Edizioni Mediterranee.
+
+Baker, R.A. (1982). The effect of suggestion on past-lives regression.&nbsp;American Journal of Clinical Hypnosis&nbsp;25, 71-76.
+
+Balfour, G.W. (1935). A study of the psychological aspects of Mrs. Willett's mediumship, and of the statements of the communicators concerning process.&nbsp;Proceedings of the Society for Psychical Research, 43/139, 41-318.
+
+Balfour, J. (1960). The 'Palm Sunday' case: New light on an old love story.&nbsp;Proceedings of the Society for Psychical Research&nbsp;42, 79-267.
+
+Barrington, M.R. (2002). The case of Jenny Cockell: Towards a verification of an unusual 'past life' report.&nbsp;Journal of the Society for Psychical Research&nbsp;66, 106-12.
+
+Barrington, M.R., Mulacz, P., &amp; Rivas, T. (2005). The case of Iris Farczády –&nbsp;A stolen life.&nbsp;Journal of the Society for Psychical Research&nbsp;69, 49-77.
+
+Barušs, I. (2001). Failure to replicate electronic voice phenomena.&nbsp;Journal of Scientific Exploration&nbsp;15, 355-67.
+
+Bayless, R. (1976). Voices From Beyond. Secaucus, New Jersey, USA:&nbsp;University Books.
+
+Beischel, J., Boccuzzi, M., Biuso, M., &amp; Rock, A.J.. (2015). Anomalous information reception by research mediums under blinded conditions II: Replication and extension.&nbsp;Explore: The Journal of Science and Healing&nbsp;11/2, 136-42.
+
+Beischel, J., &amp; Rock, A.J. (2009). Addressing the survival versus psi debate through process-focused mediumship research.&nbsp;Journal of Parapsychology&nbsp;73, 71-88.
+
+Bender, H. (1972). The phenomena of Friedrich Jurgenson.&nbsp;Journal of Paraphysics&nbsp;6, 65-75.
+
+Bernstein, M. (1965). The Search for Bridey Murphy. New York: Lancer Books.
+
+Besterman, T. (1931). A notable booktest obtained at a stting with Mrs. Leonard.&nbsp;Journal of the Society for Psychical Research&nbsp;27, 59-69.
+
+Bishai, D. (2000). Can population growth rule out reincarnation? A model of circular migration.&nbsp;Journal of Scientific Exploration&nbsp;14, 411-20.
+
+Boccuzzi, M., &amp; Beischel, J. (2011). Objective analyses of reported real-time audio instrumental transcommunication and matched control sessions: A pilot study.&nbsp;Journal of Scientific Exploration&nbsp;25/2,: 215–35.
+
+Braude, S.E. (1980). Selected poems of Patience Worth.&nbsp;In New Directions in Prose and Poetry 40, ed. by&nbsp;J. Laughlin,&nbsp;155-66. New York: New Directions Press.
+
+Braude, S.E. (2000). Dissociation and latent abilities: The strange case of Patience Worth.&nbsp;Journal of Trauma and Dissociation&nbsp;1/2, 13-48.
+
+Braude, S.E. (2003). Immortal Remains: The Evidence for Life after Death.Lanham, Maryland, USA: Rowman &amp; Littlefield.
+
+Braude, S.E. (2006). Memory without a trace.&nbsp;European Journal of Parapsychology&nbsp;21 (Special Issue), 182-202. [Reprinted online at AntiMatters, vol. 1 no. 1 (2007), 91-106.]
+
+Braude, S.E. (2014a). Crimes of Reason: On Mind, Nature &amp; the Paranormal. Lanham, Maryland, USA:&nbsp;Rowman &amp; Littlefield.
+
+Braude, S.E. (2014b). The possibility of mediumship: Philosophical considerations.&nbsp;In The Survival Hypothesis: Essays on Mediumship, ed. by&nbsp;A.J. Rock, 21-39. Jefferson, North Carolina, USA: McFarland.
+
+Broad, C.D. (1962). Lectures on Psychical Research. London: Routledge &amp; Kegan Paul.
+
+Bursen, H.A. (1978). Dismantling the Memory Machine. Dordrecht, the Netherlands:&nbsp;Reidel.
+
+Cardeña, E. (1992). Trance and possession as dissociative disorders.&nbsp;Transcultural Psychiatric Research Review&nbsp;29,&nbsp;287-300.
+
+Cardoso, A. (2010). Electronic Voices: Contact with Another Dimension? Hampshire, UK: O-Books/John Hunt Publishing, Ltd.
+
+Castillo, R.J. (1994). Spirit possession in South Asia, dissociation or hysteria? Part 2: Case histories.&nbsp;Culture, Medicine and Psychiatry&nbsp;18, 141-62.
+
+Cockell, J. (1993). Across Time and Death: A Mother's Search for her Past Life Children. New York: Fireside.
+
+Cockell, J. (1996). Past Lives, Future Lives. New York: Fireside.
+
+Cook, E.W., Greyson, B., &amp; Stevenson, I. (1998). Do any near-death experiences provide evidence for the survival of human personality after death? Relevant features and illustrative case reports.&nbsp;Journal of Scientific Exploration&nbsp;12, 377-406.
+
+Crabtree, A. (1985). Multiple Man: Explorations in Possession &amp; Multiple Personality. London &amp; New York: Holt, Reinhart &amp; Winston.
+
+Crapanzano, V., &amp; Garrison, V. (eds.)&nbsp;(1977). Case Studies in Spirit Possession. New York: John Wiley &amp; Sons.
+
+Dickinson, G.L. (1911). A case of emergence of a latent memory under hypnosis.&nbsp;Proceedings of the Society for Psychical Research&nbsp;25,&nbsp;455-67.
+
+Dodds, E.R. (1934). Why I do not believe in survival.&nbsp;Proceedings of the Society for Psychical Research&nbsp;42, 147-72.
+
+Ducasse, C.J. (1960). How the case of The Search for Bridey Murphy stands today.&nbsp;Journal of the American Society for Psychical Research&nbsp;54, 3-22.
+
+Eisenbud, J. (1992). Parapsychology and the Unconscious. Berkeley, California: North Atlantic Books.
+
+Ellis, D.J. (1975). Listening to the 'Raudive voices'.&nbsp;Journal of the American Society for Psychical Research&nbsp;48, 31-42.
+
+Fenwick, P., &amp; Fenwick, E. (1999). Past Lives: An Investigation into Reincarnation Memories. London: Headline.
+
+Fenwick, P., &amp; Fenwick, E. (2012). The Truth in the Light. Guildford, UK: White Crow Books.
+
+Flournoy, T. (1900). From India to the Planet Mars: A Case of Multple Personality with Imaginary Languages. Princeton, NJ: Princeton University Press.
+
+Flournoy, T. (1902). Nouvelles observations sur un Cas de Somnambullisme avec Glossolalie.&nbsp;Archives de Psychologie&nbsp;1, 101-255.
+
+Fontana, D. (2005). Is There an Afterlife? Hampshire: O Books.
+
+Gauld, A. (1968). The Founders of Psychical Research. London: Routledge &amp; Kegan Paul.
+
+Gauld, A. (1971). A series of 'drop-in' communicators.&nbsp;Proceedings of the Society for Psychical Research&nbsp;55, 273-340.
+
+Gauld, A. (1982). Mediumship and Survival. London: Heinemann.
+
+Gauld, A. (1993). A series of 'drop-in' communicators: Supplementary information.&nbsp;Proceedings of the Society for Psychical Research&nbsp;57, 311-16.
+
+Gauld, A. (2014). Two cases from the lost years of Mrs Piper.&nbsp;Journal of the Society for Psychical Research&nbsp;78/2,&nbsp;65-84.
+
+Gauld, A., &amp; Cornell, A.D. (1979). Poltergeists. London, Boston &amp; Henley: Routledge &amp; Kegan Paul.
+
+Goldney, K.M., &amp; Soal, S.G. (1938). Report on a series of experiments with Mrs Eileen Garrett.&nbsp;Proceedings of the Society for Psychical Research&nbsp;45, 43-87.
+
+Golub, D. (1995). Cultural variations in multiple personality disorder.&nbsp;In Dissociative Identity Disorder, ed. by&nbsp;L. Cohen, J. Berzoff, &amp; M. Elin,&nbsp;285-326. Northvale, New Jersey, USA: Jason Aronson.
+
+Haraldsson, E. (1991). Children claiming past-life memories: Four cases in Sri Lanka.&nbsp;Journal of Scientific Exploration&nbsp;5, 233-61.
+
+Haraldsson, E. (1995). Personality and abilities of children claiming previous-life memories.&nbsp;Journal of Nervous and Mental Disease&nbsp;183, 445-51.
+
+Haraldsson, E. (1997). A psychological comparison between ordinary children and those who claim previous-life memories.&nbsp;Journal of Scientific Exploration&nbsp;11, 323-35.
+
+Haraldsson, E. (2000a). Birthmarks and claims of previous-life memories. I. The case of Purnima Ekanayake.&nbsp;Journal of the Society for Psychical Research&nbsp;64, 16-25.
+
+Haraldsson, E. (2000b). Birthmarks and claims of previous-life memories. II. The case of Chatura Karunaratne.&nbsp;Journal of the Society for Psychical Research&nbsp;64, 82-92.
+
+Haraldsson, E. (2003). Children who speak of past-life experiences: Is there a psychological explanation?&nbsp;Psychology and Psychotherapy: Theory, Research and Practice&nbsp;76, 55-67.
+
+Haraldsson, E., &amp; Abu-Izzedin, M. (2002). Development of certainty about the correct deceased person in a case of the reincarnation type in Lebanon: The case of Nazih Al-Danaf.&nbsp;Journal of Scientific Exploration&nbsp;16, 363-80.
+
+Haraldsson, E., &amp; Samararatne, G. (1999). Children who speak of memories of a previous life as a Buddhist monk: Three new cases.&nbsp;Journal of the Society for Psychical Research&nbsp;63, 268–91.
+
+Haraldsson, E., &amp; Stevenson, I. (1975a). A communicator of the 'drop in' type in Iceland: The case of Gudni Magnusson.&nbsp;Journal of the American Society for Psychical Research&nbsp;69, 245-61
+
+Haraldsson, E., &amp; Stevenson, I. (1975b). A communicator of the 'drop in' type in Iceland: The case of Runolfur Runolfsson.&nbsp;Journal of the American Society for Psychical Research&nbsp;69, 33-59.&nbsp;
+
+Hassler, D. (2013). A new European case of the reincarnation type.&nbsp;Journal of the Society for Psychical Research&nbsp;77/1, 19-31.
+
+Hastings, A. (2001). The many voices of Eileen J. Garrett.&nbsp;International Journal of Parapsychology&nbsp;12/2, 95-120.
+
+Heil, J. (1978). Traces of things past.&nbsp;Philosophy of Science&nbsp;45, 60-72.
+
+Hodgson, R. (1892). A record of observations of certain phenomena of trance.&nbsp;Proceedings of the Society for Psychical Research&nbsp;8, 1-167.
+
+Hodgson, R. (1898). A further record of observations of certain phenomena of trance.&nbsp;Proceedings of the Society for Psychical Research&nbsp;13, 284-582.
+
+Holden, J.M., Greyson, B., &amp; James, D. (eds.)&nbsp;(2009). The Handbook of Near-Death Experiences:Thirty Years of Investigation. Santa Barbara, California, USA: Praeger.
+
+Irving, R.W.S., &amp; Besterman, T. (1931). Evidential extracts from sittings with Mrs. Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;40, 129-59.
+
+James, W. (1896). A case of psychic automatism, including ‘speaking with tongues,’ by Albert Le Baron.&nbsp;Proceedings of the Society for Psychical Research&nbsp;12, 277-97.
+
+James, W. (1909). Report on Mrs. Piper's Hodgson-control.&nbsp;In The Works of William James, Vol. 16: Essays in Psychical Research, ed. by&nbsp;F. Burkhardt &amp; F. Bowers, 253-360. Cambridge, Massachusettes, USA: Harvard University Press.
+
+Johnson, A. (1908-9). On the automatic writing of Mrs Holland.&nbsp;Proceedings of the Society for Psychical Research 21, 166-391.
+
+Johnson, A. (1910). Second report on Mrs Holland's script.&nbsp;Proceedings of the Society for Psychical Research 24, 201-63.
+
+Johnson, A. (1911). Third report on Mrs Holland's Script.&nbsp;Proceedings of the Society for Psychical Research 25, 218-303.
+
+Johnson, A. (1914-15). A reconstruction of some 'concordant automatisms'.&nbsp;Proceedings of the Society for Psychical Research 27, 1-156.
+
+Keil, H.H.J. (1980). The voice on tape phenomena: Limitations and possibilities.&nbsp;European Journal of Parapsychology&nbsp;3, 287-96.
+
+Keil, H.H.J. (1991). New cases in Burma, Thailand, and Turkey: A limited field study replication of some aspects of Ian Stevenson's Research.&nbsp;Journal of Scientific Exploration&nbsp;5, 27-59.
+
+Keil, H.H.J. (1996). Cases of the reincarnation type: An evaluation of some indirect evidence with examples of 'silent' cases.&nbsp;Journal of Scientific Exploration&nbsp;10, 467-85.
+
+Keil, H.H.J., &amp; Stevenson, I. (1999). Do cases of the reincarnation type show similar features over many years? A study of Turkish cases a generation apart.&nbsp;Journal of Scientific Exploration&nbsp;13, 189–98.
+
+Keil, H.H.J., &amp; Tucker, J.B. (2005). Children who claim to remember previous lives: Cases with written records made before the previous personality was identified.&nbsp;Journal of Scientific Exploration&nbsp;19, 91-101.
+
+Kellehear, A. (1995). Experiences Near Death: Beyond Medicine and Religion. Oxford: Oxford University Press.
+
+Kelly, E.F., Kelly,&nbsp;E.W.,&nbsp;Crabtree, A., Gauld, A., Grosso, M., &amp; Greyson, B. (eds.)&nbsp;(2006). Irreducible Mind: Toward a Psychology for the 21st Century. Lanham, Maryland, USA:Rowman &amp; Littlefield.
+
+Kelly, E.W., Greyson, B., &amp; Kelly, E.F. (2007). Unusual experiences near death and related phenomena.&nbsp;In Irreducible Miind: Toward a Psychology for the 21st Century, ed. by&nbsp;E.F. Kelly, E.W. Kelly, A. Crabtree, A. Gauld, M. Grosso, &amp; B. Greyson. Lanham, Maryland, USA: Rowman &amp; Littlefield.
+
+Lawrence, M.M. (1993). Paranormal experiences of previously unconscious patients.&nbsp;In Parapsychology and Thanatology, ed. by&nbsp; L. Coly &amp; J.D.S. McMahon,&nbsp;122-48. New York: Parapsychology Foundation.
+
+Lewis-Fernández, R. (1994). Culture and dissociation: A comparison of Ataque de Nervios among Puerto Ricans and possession syndrome in India.&nbsp;In Dissociation: Culture, Mind, and Body, ed. by D. Spiegel. Washington, DC: American Psychiatric Press.
+
+Litvag, I. (1972). Singer in the Shadows. New York: Macmillan.
+
+Lodge, O. (1909). Report on some trance communications received chiefly through Mrs. Piper.&nbsp;Proceedings of the Society for Psychical Research&nbsp;23, 127-285.
+
+Lund, D.H. (2009). Persons, Souls, and Death: A Philosophical Investigation of an Afterlife. Jefferson, North Carolina, USA:&nbsp;McFarland.
+
+MacKenzie, A. (1982). Hauntings and Apparitions. London: Heinemann.
+
+MacRae, A. (2004). A means of producing the electronic voice phenomenon based on electro-dermal activity.&nbsp;Journal of the Society for Psychical Research&nbsp;68/1, 35-50.
+
+Maher, M.C. (2000). Quantitative investigation of the General Wayne Inn.&nbsp;Journal of Parapsychology&nbsp;64, 365-90.
+
+Malcolm, N. (1977). Memory and Mind. Ithaca, New York, USA: Cornell University Press.
+
+Mills, A. (1989). A replication study: Three cases of children in northern India who are said to remember a previous life.&nbsp;Journal of Scientific Exploration&nbsp;3, 133-84.
+
+Mills, A. (1990a). Moslem cases of the reincarnation type in northern India: A test of the hypothesis of imposed identification. Part I: Analysis of 26 cases.&nbsp;Journal of Scientific Exploration&nbsp;4, 171–88.
+
+Mills, A. (1990b). Moslem cases of the reincarnation type in northern India: A test of the hypothesis of imposed identification. Part II: Reports of three cases.&nbsp;Journal of Scientific Exploration&nbsp;4, 189–202.
+
+Mills, A. (1994). Nightmares in Western children: An alternative interpretation suggested by data in three cases.&nbsp;Journal of the American Society for Psychical Research&nbsp;88, 309-25.
+
+Mills, A. (2004). Inferences from the case of Ajendra Singh Chauhan: The effect of parental questioning, of meeting the ‘previous life’ family, an aborted attempt to quantify probabilities, and the impact on his life as a young adult.&nbsp;Journal of Scientific Exploration&nbsp;18, 609-41.
+
+Mills, A., Haraldsson, E., &amp; Keil, H.H.J. (1994). Replication studies of cases suggestive of reincarnation by three independent investigators.&nbsp;Journal of the American Society for Psychical Research&nbsp;88, 207-19.
+
+Moody, R.A. (1976). Life After Life. Harrisburg, Pennsylvania, USA: Stackpole Books.
+
+Moody, R.A., &amp; Perry, P. (1988). The Light Beyond. New York: Bantam Books.
+
+Moreman, C.M. (2003). A re-examination of the possibility of chance coincidence as an alternative explanation for mediumistic communication in the cross-correspondences.&nbsp;Journal of the Society for Psychical Research&nbsp;67, 225-42.
+
+Munves, J. (1997). Richard Hodgson, Mrs Piper and 'George Pelham': A centennial reassessment.&nbsp;Journal of the Society for Psychical Research&nbsp;62, 138-54.
+
+Myers, F.W.H. (1889). On recognized apparitions occurring more than a year after death.&nbsp;Proceedings of the Society for Psychical Research&nbsp;6, 13-65.
+
+Myers, F.W.H. (1900). Pseudo-possession.&nbsp;Proceedings of the Society for Psychical Research&nbsp;15, 384-415.
+
+Myers, F.W.H. (1903). Human Personality and its Survival of Bodily Death. London: Longmans, Green, &amp; Co.
+
+O'Connell, D.N., Shor, R.E., &amp; Orne, M.T. (1970). Hypnotic age regression: An empirical and methodological analysis.&nbsp;Journal of Abnormal Psychology, 76 (Monograph Supplement No. 3), 1-32.
+
+Oesterreich, T.K. (1921). Possession: Demoniacal and Other (trans. by D. Ibberson). New Hyde Park, N.Y.: University Books.
+
+Ohkado, M., Inagaki, K., Suetake, N., &amp; Okamoto, S.&nbsp;(2009). A study of a case supporting the "reincarnation hypothesis" with special reference to xenoglossy.&nbsp;Journal of International Society of Life Information Science&nbsp;27/2, 183-88.
+
+Orne, M.T. (1951). The mechanisms of hypnotic age regression: An experimental study.&nbsp;Journal of Abnormal and Social Psychology&nbsp;46, 213-25.
+
+Parnia, S. (2006). What Happens When We Die: A Ground Breaking Study Into the Nature of Life and Death. Carlsbad, California, USA: Hay House.
+
+Parnia, S., &amp; Young, J. (2013). Erasing Death: The Science that is Rewriting the Boundaries Between Life and Death. New York: HarperOne.
+
+Pasricha, S.[K.]&nbsp;(1990a). Claims of Reincarnation: An Empirical Study of Cases in India. New Delhi: Harman.
+
+Pasricha, S.[K.] (1990b). Three conjectured features of reincarnation-type cases in northern India.&nbsp;Journal of the American Society for Psychical Research&nbsp;84, 227-33.
+
+Pasricha, S.[K.] (1992). Are reincarnation type cases shaped by parental guidance? An empirical study concerning the limits of parents' influence on children.&nbsp;Journal of Scientific Exploration&nbsp;6: 167-80.
+
+Pasricha, S.[K.] (1998). Cases of the reincarnation type in northern India With birthmarks and birth defects.&nbsp;Journal of Scientific Exploration&nbsp;12, 259-93.
+
+Pasricha, S.K. (2001). Cases of the reincarnation type in South India: Why so few reports?&nbsp;Journal of Scientific Exploration&nbsp;15, 211-21.
+
+Pasricha, S.K., Keil, J., Tucker, J.B., &amp; Stevenson, I.&nbsp;(2005). Some bodily malformations attributed to previous lives.&nbsp;Journal of Scientific Exploration&nbsp;19, 359–83.
+
+Pearsall, P. (1998). The Heart's Code: Tapping the Wisdom and Power of Our Heart Energy. New York: Broadway Books.
+
+Pearsall, P., Schwartz, G.E.R., &amp; Russek, L.G.S. (1999). Changes in heart transplant recipients that parallel the personalities of their donors.&nbsp;Integrative Medicine&nbsp;2/2-3, 65-72.
+
+Piddington, J.G. (1908). A series of concordant automatisms.&nbsp;Proceedings of the Society for Psychical Research&nbsp;22, 19-440.
+
+Piper, A.L. (1929). The Life and Work of Mrs. Piper. London: Kegan Paul, Trench, Trubner &amp; Co.
+
+Playfair, G.L. (2005). The return of Katharine Bates: Evaluation of a claimed autobiography.&nbsp;Journal of the Society for Psychical Research&nbsp;69, 121-27.
+
+Podmore, F. (1890). Phantasms of the dead from another point of view.&nbsp;Proceedings of the Society for Psychical Research&nbsp;6, 229-313.
+
+Podmore, F. (1897). Studies in Psychical Research. New York: Arno Press.
+
+Podmore, F. (1898). Discussion of the trance-phenomena of Mrs. Piper.&nbsp;Proceedings of the Society for Psychical Research&nbsp;14, 50-78.
+
+Podmore, F. (1910). The Newer Spiritualism. New York: Arno Press.
+
+Prince, W.F. (1927). The Case of Patience Worth. New Hyde Park, New York, USA: University Books.
+
+Prince, W.F. (1929). A Note on "Patience Worth".&nbsp;Bulletin of the Boston Society for Psychic&nbsp;Research&nbsp;10, 16-19.
+
+Radclyffe-Hall, M., &amp; Troubridge, U.&nbsp;(1919). On a series of sittings with Mrs. Osborne Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;30, 339-554.
+
+Raudive, K. (1971). Breakthrough: An Amazing Experiment in Electronic Communication with the Dead&nbsp;(trans. by N. Fowler). Gerrards Cross: Colin Smythe.
+
+Ravaldini, S., Biondi, M., &amp; Stevenson, I. (1990). The case of Giuseppe Riccardi: An unusual drop-in communicator in Italy.&nbsp;Journal of the Society for Psychical Research&nbsp;56, 257-65.&nbsp;
+
+Richmond, K. (1936). Preliminary studies of the recorded Leonard material.&nbsp;Proceedings of the Society for Psychical Research&nbsp;44, 17-52.
+
+Ring, K. (2006). Lessons from the Light. Needham, Massachusetts, USA: Moment Point Press.
+
+Robertson, T.J., &amp; Roy, A.E. (2001). A preliminary study of the acceptance by non-recipients of mediums' statements to recipients.&nbsp;Journal of the Society for Psychical Research&nbsp;65, 91-106.
+
+Robertson, T.J., &amp; Roy, A.E. (2004). Results of the application of the Robertson-Roy Protocol to a series of experiments with mediums and participants.&nbsp;Journal of the Society for Psychical Research, 68/1, 18-34.
+
+Rock, A., Beischel, J., Boccuzzi, M., et al. (2014). Discarnate readings by claimant mediums: Assessing phenomenology and accuracy under beyond double-blind cionditions.&nbsp;Journal of Parapsychology&nbsp;78/2, 183-94.
+
+Ross, C.A. (2011). Possession experiences in dissociative identity disorder: A preliminary study.&nbsp;Journal of Trauma &amp; Dissociation&nbsp;12/4, 393-400.
+
+Roy, A.E., &amp; Robertson, T.J. (2001). A double-blind procedure for assessing the relevance of a medium's statements to a recipient.&nbsp;Journal of the Society for Psychical Research 65, 161-74.
+
+Sabom, M. (1982). Recollections of Death: A Medical Investigation. New York: Harper &amp; Row.
+
+Sabom, M. (1998). Light &amp; Death. Grand Rapids: Zondervan.
+
+Salter, M.W.H. (1921). A further report on sittings with Mrs. Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;32, 1-143.
+
+Salter, M.W.H. (1926). A report on some recent sittings with Mrs. Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;36, 187-332.
+
+Salter, M.W.H. (1930). Some incidents occurring at sittings with Mrs. Leonard which may throw light on their modus operandi.&nbsp;Proceedings of the Society for Psychical Research&nbsp;39, 306-32.
+
+Saltmarsh, H.F. (1938). Evidence of Personal Survival from Cross Correspondences. New York: Arno Press.
+
+Sar, V., Alioğlu, F., &amp; Akyüz, G. (2014). Experiences of possession and paranormal phenomena among women in the general population: Are they related to traumatic stress and dissociation?&nbsp;Journal of Trauma &amp; Dissociation&nbsp;15/3, 303-18.
+
+Schiller, F.C.S. (1902). Professor Flournoy's 'Nouvelles observations sur un Cas de Somnambullisme avec Glossolalie'.&nbsp;Proceedings of the Society for Psychical Research&nbsp;17, 245-51.
+
+Schiller, F.C.S. (1928). The Case of Patience Worth: A Critical Study of Certain Unusual Phenomena, by Walter Franklin Prince.&nbsp;Proceedings of the Society for Psychical Research&nbsp;36, 573-76.
+
+Schouten, S., &amp; Stevenson, I. (1998). Does the socio-psychological hypothesis explain cases of the reincarnation type?&nbsp;Journal of Nervous and Mental Disease&nbsp;186, 504-6.
+
+Sidgwick, E.M. (1885). Notes on the evidence, collected by the Society, for phantasms of the dead.&nbsp;Proceedings of the Society for Psychical Research&nbsp;3, 69-150.
+
+Sidgwick, E.M. (1915). A contribution to the study of the psychology of Mrs. Piper's trance phenomena.&nbsp;Proceedings of the Society for Psychical Research&nbsp;28, 1-657.
+
+Sidgwick, E.M. (1921). An examination of book-tests obtained in sittings with Mrs. Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;31, 241-400.
+
+Sidgwick, E.M., &amp; Piddington, J.G. (1909). Note on Mrs. Piper's Hodgson-control in England in 1906-7.&nbsp;Proceedings of the Society for Psychical Research&nbsp;23, 122-26.
+
+Sidgwick, E.M., Verrall, A.W., &amp; Piddington, J.G. (1910). Further experiments with Mrs. Piper in 1908.&nbsp;Proceedings of the Society for Psychical Research&nbsp;24, 31-200.
+
+Silvia, C. (1997). A Change of Heart: A Memoir. New York: Warner Books.
+
+Smith, E.L. (1974). The Raudive voices, objective or subjective? A discussion.&nbsp;Journal of the American Society for Psychical Research&nbsp;68, 91-100.
+
+Spanos, N.P., Menary, E., Gabora, N.J., DeBreuil, S.C., &amp; Dewhirst, B.&nbsp;(1991). Secondary identity enactments during hypnotic past-life regression: A sociocognitive perspective.&nbsp;Journal of Personality and Social Psychology&nbsp;61, 308-20.
+
+Spanos, N.P., Weekes, J.R., Menary, E., &amp; Bertrand, L.D. (1986). Hypnotic interview and age regression procedures in the elicitation of multiple personality symptoms: A simulation study.&nbsp;Psychiatry&nbsp;49, 298-311.
+
+Stevens, E.W. (1887). The Watseka Wonder: A Narrative of Startling Phenomena Occurring in the Case of Mary Lurancy Vennum. Chicago: Religio-Philosophical Publishing House.
+
+Stevenson, I. (1966). Cultural patterns in cases suggestive of reincarnation among the Tlingit Indians of southeastern Alaska.&nbsp;Journal of the American Society for Psychical Research&nbsp;60, 229-43.
+
+Stevenson, I. (1972). Some new cases suggestive of reincarnation,&nbsp;II:&nbsp;The case of Bishen Chand.&nbsp;Journal of the American Society for Psychical Research&nbsp;66, 375-400.
+
+Stevenson, I. (1973). A communicator of the "drop in" type in France: The case of Robert Marie.&nbsp;Journal of the American Society for Psychical Research&nbsp;67, 47-76.&nbsp;
+
+Stevenson, I. (1974a). Some questions related to cases of the reincarnation type.&nbsp;Journal of the American Society for Psychical Research&nbsp;68, 395-416.
+
+Stevenson, I. (1974b). Twenty Cases Suggestive of Reincarnation (2nd ed., rev.). Charlottesville, Virginia, USA: University Press of Virginia.
+
+Stevenson, I. (1974c). Xenoglossy: A Review and Report of a Case. Charlottesville, Virginia, USA: University Press of Virginia.
+
+Stevenson, I. (1975). Cases of the Reincarnation Type. Volume I: Ten Cases in India. Charlottesville, Virginia, USA: University Press of Virginia.
+
+Stevenson, I. (1976). A preliminary report of a new case of responsive xenoglossy: The case of Gretchen.&nbsp;Journal of the American Society for Psychical Research&nbsp;70, 65-77.
+
+Stevenson, I. (1977). Cases of the Reincarnation Type. Volume II: Ten Cases in Sri Lanka. Charlottesville, Virginia, USA: University Press of Virginia.
+
+Stevenson, I. (1980). Cases of the Reincarnation Type. Volume III: Twelve Cases in Lebanon and Turkey. Charlottesville, Virginia, USA: University Press of Virginia.
+
+Stevenson, I. (1982). The contribution of apparitions to the evidence for survival.&nbsp;Journal of the American Society for Psychical Research&nbsp;76, 341-58.
+
+Stevenson, I. (1983). Cases of the Reincarnation Type. Volume IV Twelve Cases in Thailand and Burma. Charlottesville, Virginia, USA:: University Press of Virginia.
+
+Stevenson, I. (1984). Unlearned Language: New Studies in Xenoglossy. Charlottesville, Virginia, USA: University Press of Virginia.
+
+Stevenson, I. (1990). Phobias in children who claim to remember previous lives.&nbsp;Journal of Scientific Exploration&nbsp;4, 243-54.
+
+Stevenson, I. (1993). Birthmarks and birth defects corresponding to wounds on deceased persons.&nbsp;Journal of Scientific Exploration&nbsp;7, 403-16.
+
+Stevenson, I. (1994). A case of the psychotherapist's fallacy: Hypnotic regression to "previous lives".&nbsp;American Journal of Clinical Hypnosis&nbsp;36, 188-93.
+
+Stevenson, I. (1995). Possession and Exorcism: An essay review.&nbsp;Journal of Parapsychology&nbsp;59, 69-76.
+
+Stevenson, I. (1997a). Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects. Westport, Connecticut, USA: Praeger.
+
+Stevenson, I. (1997b). Where Reincarnation and Biology Intersect. Westport, Connecticut, USA:&nbsp;Praeger.
+
+Stevenson, I. (2000a). The phenomenon of claimed memories of previous lives: Possible interpretations and importance.&nbsp;Medical Hypotheses&nbsp;54, 652-59.
+
+Stevenson, I. (2000b). Unusual play in young children who claim to remember previous lives.&nbsp;Journal of Scientific Exploration&nbsp;14, 557-70.
+
+Stevenson, I., &amp; Beloff, J. (1980). An analysis of some suspect drop-in communications.&nbsp;Journal of the Society for Psychical Research&nbsp;50, 427-47.&nbsp;
+
+Stevenson, I., &amp; Chadha, N.K. (1990). Can children be stopped from speaking about previous lives?&nbsp;Journal of the Society for Psychical Research&nbsp;56,&nbsp;82–90.
+
+Stevenson, I., &amp; Haraldsson, E. (2003). The similarity of features of reincarnation type cases over many years: A third study.&nbsp;Journal of Scientific Exploration&nbsp;17, 283-89.
+
+Stevenson, I., &amp; Keil, J. (2000). The stability of assessments of paranormal connections in reincarnation-type cases.&nbsp;Journal of Scientific Exploration&nbsp;14, 365-82.
+
+Stevenson, I., &amp; Keil, J. (2005). Children of Myanmar who behave like Japanese soldiers: A possible third element in personality.&nbsp;Journal of Scientific Exploration&nbsp;19, 171-83.
+
+Stevenson, I., &amp; Pasricha, S. (1979). A case of secondary personality with xenoglossy. American Journal of Psychiatry&nbsp;136, 1591-92.
+
+Stevenson, I., &amp; Pasricha, S. (1980). A preliminary report on an unusual case of the reincarnation type with xenoglossy.&nbsp;Journal of the American Society for Psychical Research&nbsp;74, 331-48.
+
+Stevenson, I., Pasricha, S., &amp; McLean-Rice, N. (1989). A case of the possession type in India with evidence of paranormal knowledge.&nbsp;Journal of Scientific Exploration&nbsp;3, 81-101.
+
+Stevenson, I., &amp; Samararatne, G. (1988). Three new cases of the reincarnation type in Sri Lanka with written records made before verifications.&nbsp;Journal of Scientific Exploration&nbsp;2, 217-38.
+
+Sudduth, M. (2009). Super-psi and the survivalist interpretation of mediumship.&nbsp;Journal of Scientific Exploration&nbsp;23/2, 167-93.
+
+Sudduth, M. (2014). Is postmortem survival the best explanation of the data of mediumship? In The Survival Hypothesis: Essays on Mediumship, ed. by A.J. Rock, &nbsp;40-64. Jefferson, North Carolina, USA: McFarland.
+
+Sudduth, M. (2016). A Philosophical Critique of Empirical Arguments for Postmortem Survival. New York and London: Palgrave Macmillan.
+
+Suryani, L.K., &amp; Jensen, G.D. (1993). Trance and Possession in Bali. Oxford: Oxford University Press.
+
+Thomas, C.D. (1928). The modus operandi of trance-communication according to descriptions received through Mrs. Osborne Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;38, 49–100.
+
+Thomas, C.D. (1935). A proxy case extending over eleven sittings with Mrs. Osborne Leonard.&nbsp;Proceedings of the Society for Psychical Research&nbsp;43, 439-519.
+
+Troubridge, U. (1922). The modus operandi in so-called mediumistic trance.&nbsp;Proceedings of the Society for Psychical Research&nbsp;32, 344-78.
+
+Tucker, J.B. (2013). Return to Life: Extraordinary Cases of Children Who Remember Past Lives. New York: St. Martin's Press.
+
+Tucker, J.B., &amp; Keil, H.H.J. (2013). Experimental birthmarks: New cases of an Asian practice.&nbsp;Journal of Scientific Exploration, 27/2, 269-82.
+
+Tyrrell, G.N.M. (1939). A communicator introduced in automatic script.&nbsp;Journal of the Society for Psychical Research&nbsp;31,&nbsp;91-95.
+
+Tyrrell, G.N.M. (1942). Apparitions. New Hyde Park, NY: University Books. ([Published with Tyrrell, 1938/1961.]
+
+Van Lommel, P. (2010). Consciousness Beyond Life: The Science of the Near-Death Experience. New York: HarperOne.
+
+Verrall, H.d.G.M.W.H.S. (1910). Report on the Junot sittings with Mrs. Piper. Proceedings of the Society for Psychical Research&nbsp;24, 351-664.
+
+Verrall, H.d.G.M.W.H.S. (1911). The element of chance in cross-correspondences.&nbsp;Journal of the Society for Psychical Research&nbsp;15, 153-72.
+
+West, D. (2000). The AVB communications via Mrs. Leonard: Looking back at a historic case record.&nbsp;Journal of the Society for Psychical Research&nbsp;64, 233-41.
+
+Zaleski, C.G. (1988). Otherworld Journeys: Accounts of Near-Death Experience in Medieval and Modern Times. Oxford: Oxford University Press.
+
+Zolik, E.S. (1958). An experimental investigation of the psychodynamic implications of the hypnotic "previous existence" fantasy.&nbsp;Journal of Clinical Psychology&nbsp;14, 179-83.
+
+Zolik, E.S. (1962). "Reincarnation" phenomena in hypnotic states.&nbsp;International Journal of Parapsychology&nbsp;4, 66-78.
+
+Zorab, G. (1940). A case for survival.&nbsp;Journal of the Society for Psychical Research&nbsp;31, 142-52.   Endnotes 1. Gauld (1968). 2. Braude (2003, 2014b). 3. Sudduth (2009, 2014, 2016). 4. Dodds (1934). 5. See, e.g., Almeder (1992), Fontana (2005), Lund (2009). 6. See Braude (2003, 2014b); Sudduth (2009, 2014, 2016). 7. Sudduth (2016). 8. For accounts and discussions of Mrs. Piper’s mediumship, see, e.g., Broad (1962),&nbsp; Gauld (1982, 2014), Hodgson (1892, 1898), James (1909), Lodge (1909), Munves (1997), Piper (1929), Podmore (1898), Sidgwick (1915), Sidgwick &amp; Piddington (1909), Sidgwick, Verrall, &amp; Piddington (1910), and Verrall (1910). 9. See, e.g., Allison (1934, 1941), Besterman (1931), Broad (1962), Irving &amp; Besterman (1931); Radclyffe-Hall &amp; Troubridge (1919), Richmond (1936), Salter (1921, 1926, 1930), Sidgwick (1921), Thomas (1928, 1935), Troubridge (1922), and West (2000). 10. See, e.g., W.G. Balfour (1935), J. Balfour (1960), Broad (1962), Goldney &amp; Soal (1938), and Hastings (2001). 11. See, e.g., Broad, 1962; Gauld, 1982; Johnson, 1908-9, 1910, 1911, 1914-15; Moreman, 2003; Piddington, 1908; Podmore, 1910; Saltmarsh, 1938; Verrall, 1911. 12. For details and assessments pro and con, see Braude (&nbsp;2003), Eisenbud (1992), Gauld (1971, 1993), Haraldsson &amp; Stevenson (1975a, 1975b), Ravaldini, Biondi, &amp; Stevenson (1990), Stevenson (1973), Stevenson &amp; Beloff (1980), Tyrrell (1939), and Zorab (1940). 13. Haraldsson &amp; Stevenson (1975b). 14. See, e.g., Beischel, Boccuzzi, Biuso, &amp; Rock (&nbsp;2015), Beischel &amp; Rock (2009). Robertson &amp; Roy (2001, 2004), Rock, Beischel, Boccuzzi, &amp; Biuso (2014), and Roy &amp; Robertson (2001). 15. For sympathetic treatments of the evidence for xenoglossy, see Almeder (1992), Ohkado, Inagaki, Suetake, &amp; Okamoto (2009), Stevenson (1974c, 1976, 1984), Stevenson &amp; Pasricha (1979, 1980). For criticisms and evidence supporting the counter-hypothesis of living human creativity, see Braude (2003, 2014a), Flournoy (1900, 1902), James (1896), Myers (1900), and Schiller (1902). 16. Braude (1980, 2000); Litvag (1972); Prince (1927, 1929); Schiller (1928). 17. See Tarazi (1997) and Braude (&nbsp;2003). 18. For other cases, and discussions of the pitfalls of regression, see&nbsp;Baker (1982), Bernstein (1965), Ducasse (1960), O'Connell, Shor, &amp; Orne (1970), Orne (1951), Playfair (2005), Spanos, Menary, Gabora, DuBreuil, &amp; Dewhirst (1991) Spanos, Weekes, Menary, &amp; Bertrand (1986) Stevenson (1994) and Zolik (1958, 1962). 19. For surveys and discussions pro and con, see Baker (1982), Barrington (2002),&nbsp;Barrington, Mulacz, &amp; Rivas (2005), Bernstein (1965), Bishai (2000); Cockell (1993, 1996); Dickinson (1911), Ducasse (1960), Fenwick &amp; Fenwick (1999), Flournoy (1900), Haraldsson (1991, 1995, 1997, 2000a, 2000b, 2003); Haraldsson &amp; Abu-Izzedin (2002), Haraldsson &amp; Samararatne (1999), Hassler (&nbsp;2013),&nbsp;Keil (1991, 1996); Keil &amp; Stevenson (1999), Keil &amp; Tucker (2005), Mills (1989, 1990a, 1990b, 1994, 2004),&nbsp;Mills, Haraldsson, &amp; Keil (1994), Ohkado et al. (2009); Pasricha (1990a, 1990b, 1992, 1998, 2001; Pasricha, Keil, Tucker&nbsp;&amp; Stevenson (2005); Pasricha, Keil, Tucker, Stevenson (2005); Schouten &amp; Stevenson (1998); Stevenson (1966, 1972, 1974a, 1974b, 1974c, 1975, 1977, 1980, 1982, 1983, 1990, 1993, 1997a, 1997b, 2000a, 2000b); Stevenson &amp; Chadha (1990); Stevenson &amp; Haraldsson (2003); Stevenson &amp; Keil (2000, 2005); Stevenson &amp; Pasricha (1979, 1980); Stevenson, Pasricha, &amp; McLean-Rice (1989); Stevenson &amp; Samararatne (1988); Tucker (2013); and Tucker &amp; Keil (2013). 20. For information on possession, see, e.g., Anderson (1981); Cardeña (1992); Castillo (1994); Crabtree (1985); Crapanzano &amp; Garrison (1977); Golub (1995); Lewis-Fernández (1994); Oesterreich (1921); Podmore (1897); Ross (2011); Sar, Alioğlu, &amp; Akyüz (2014); Stevens (1887); Stevenson (1995); Stevenson et al. (1989); Suryani &amp; Jensen (1993), and the entire issue of the journal Dissociation, vol. 4, no. 4&nbsp;(1993). 21. Fenwick &amp; Fenwick (2012); Holden, Greyson, &amp; James (2009); E. F. Kelly et al. (2006); Moody (1976); Moody &amp; Perry (1988); Parnia (2006); Parnia &amp; Young (2013); Ring (2006); Sabom (1982, 1998); Van Lommel (2010). 22. Kellehear (1995);&nbsp;Zaleski&nbsp; (1988). 23. Lawrence (1993). 24. For a thorough survey of the issues and relevant references, see E. W. Kelly, Greyson, &amp; Kelly (2007). 25. Cook, Greyson, &amp; Stevenson (1998), 404. 26. Arguably, it is not coherent if the very notion of a structural memory trace makes no sense. See, e.g., Braude (2006;&nbsp;2014a, Chapter 1); Bursen (1978); Heil (1978); Malcolm (1977). 27. See Braude (2003). 28. Described in Pearsall (1998). 29. Primarily Pearsall (1998); Pearsall, Schwartz, &amp; Russek (1999); Silvia (1997). 30. For a discussion of the subtleties and difficulties with the haunting/poltergeist distinction, see Gauld &amp; Cornell (1979); Maher (2000). 31. Good sources for the most intriguing cases and substantive discussions are Gauld (1982); MacKenzie (1982); Myers (1889, 1903); Podmore (1890, 1910); Sidgwick (1885); Tyrrell (1942). 32. See, e.g., Bacci (1991); Bayless (1976); Bender (1972); Cardoso (2010); MacRae (2004); and Raudive (1971). 33. For critical commentary on this work, see Barušs (2001); Boccuzzi &amp; Beischel (2011); Ellis (1975);&nbsp;Keil (1980); Raudive (1971); Smith (1974).           			  			     			This page was last updated on: December 31, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Stephen E Braude Word count: 11,400 Created: 29th February 2016 Last updated: 31st December 2023 May be cited as:Braude, S. E (2016). &lsquo;Postmortem Survival&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/postmortem-survival&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y3sch2tm                   	                                             See also:      Mediumship and Spirit Possession in a Cross-Cultural Context Leonora Piper Near-Death Experience Past-Life Memories Research                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/postmortem-survival

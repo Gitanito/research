@@ -1,0 +1,116 @@
+{"name":"John Palmer | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/john-palmer","mytitle":"John Palmer | Psi Encyclopedia","mylang":"de"}
+                     John Palmer | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           John Palmer                                                                                                                                                                                                                          John Palmer is an American psychologist and parapsychologist who has carried out psi research using a variety of experimental approaches. In recent years he has drawn attention to the challenge of 'experimenter effects' in psi research.   Contents   	Career  	Experimental Research  	Motor Automatisms 	Distant Influence on Red Blood Cells 	EEG-Correlations 	Out-of-Body Experiences 	Ganzfeld 	Subliminal Perception and ESP 	Matthew Manning 	Recent Research   	Experimenter Psi 	Spontaneous Experiences 	Challenging Skeptic Claims 	Literature 	Endnotes     Career
+
+John Palmer held a student internship at JB Rhine’s psychology laboratory at Duke University. He gained a PhD at the University of Texas and taught in mainstream psychology, returning to parapsychology in the early 1970s with a permanent position at Rhine's Foundation for Research on the Nature of Man (now the Rhine Research Centre). He served as president of the Parapsychological Association in 1979 and again in 1992. He is former director of research at the Rhine Research Center and editor of the Journal of Parapsychology.   Experimental Research  Motor Automatisms
+
+Palmer investigated the possibility that unconscious body movements might transmit psi information, exploring hand movements. &nbsp;Eighty participants were asked to move a pen around a 4x4 grid of numbers and stop when they felt it hovering over the correct target for that particular trial. There were four conditions; left hand, right hand, reading quotations, eyes closed. Scoring was at chance overall, but significantly below chance in the left hand/reading condition and above chance in the other conditions combined. There was also a large dissociation effect on scoring rates, as measured by a questionnaire (p = 0.0002), supporting the hypothesis.1&nbsp;
+
+In a follow-up study using an Ouija board and letters, participants who said they felt an outside force moving their hands over the board scored significantly above chance. &nbsp;The statistically significant correlation of dissociation with psi scoring was repeated.2   Distant Influence on Red Blood Cells
+
+Palmer and colleagues tested the possibility that the destruction of red blood cells might be psychokinetically inhibited at a distance. Twenty spiritual healers completed two sessions each, while 40 non-healers completed a single session. Overall the results were not significant and there was no difference between healers and non-healers. There was a correlation with geomagnetic activity measured a day before the test sessions (p = 0.081). Non-healers under the age 31 tended to slow down hemolysis while those over 34 tended to accelerate it. The effect of geomagnetic fields was significantly stronger for volunteers with ‘thin’ boundaries (a measure of the separation of different aspects of mental life, such as dreaming and waking), showing an interaction effect between physical and psychological variables on a psi-task.3  EEG-Correlations
+
+Palmer ran an ESP-EEG correlation study in which participants attempted to perceive a target picture following a relaxation exercise (listening to Indian flute music). An EEG recording was made using an alpha filter and manually scored. Subjects who scored above chance showed significantly greater alpha activity (associated with a relaxed state) during ESP testing than those who scored at or below chance (p = 0.021).4   Out-of-Body Experiences
+
+In the first of a series of studies, Palmer recruited 60 volunteers to test a technique aimed at eliciting an out-of-body experience on demand, using a clairvoyance test to probe the veracity of the experience. Overall, 42% of the volunteers experienced apparent separation but unexpectedly scored significantly below chance on the ESP test. There was a significant positive association between ESP scoring and ratings on the Imagery Scale and a significant negative relationship between expectations of success and psi-scoring.5&nbsp; From this and other similar studies, Palmer concluded that&nbsp;people often demonstrate psi when having an OBE not becuase they are out of the body but because they are in a psi-conducive, hypnagogic-like state of consciounsess before and/or during the experience.6  Ganzfeld
+
+Palmer continued the OBE research with several studies using a different induction procedure and psychological set.&nbsp;In the first, he ran twenty experienced meditators through a ganzfeld session. There was a statistically significant (p = 0.02) correlation between psi scoring (as determined by independent judges) and the degree of hypnogogia (a state of relaxation between wakefulness and sleep). This supports subsequent findings that the most extreme ESP scoring occurs with subjects who report the most profound alterations of consciousness.7
+
+The main conclusion from these studies collectively is a positive correlation between ESP scores and the altered state measure, when the ESP mean is above MCE, and a negative correlation when the ESP mean is below MCE.8
+
+In a frequently cited 2003 paper Palmer reviews the debate over the evidence for psi in the ganzfeld-telepathy database. He asks two questions: has the data established that ESP in the ganzfeld is replicable, and if the effect is real, whether it be explained in terms of methodological flaws such as sensory leakage, inadequate randomization, or participant and experimenter fraud. Palmer concludes that the complete database does provide evidence for a genuine psi effect, although wide variation in psi outcomes achieved by different experimenters indicates that the phenomenon is not easily replicable.9  Subliminal Perception and ESP
+
+Palmer investigated the effect on ESP performance of flashing subliminal images, collaborating with Swedish parapsychologist Martin Johnson in Utrecht. In one experiment subjects were asked to view four squares, lettered A, B, C and D, for 150 milliseconds, &nbsp;and register the letter that appeared most prominent. Meanwhile, a distant agent viewed the randomly selected target and tried to transmit it to the recipient. Just prior to the trial an image – either neutral or emotionally negative – was flashed to the subject, on the theory that the negative images would drive down ESP scoring. This was not confirmed, although the normal variance in scoring usually found in psi testing was absent: the subjects’ performances were bunched together to an unlikely degree (p = 0.005).10
+
+In a follow-up study forty participants were asked to view a matrix of 28 typewriter carets (^) pointing in four directions, where some of the targets were superimposed with the image of a monster. Palmer found a positive correlation between anxiety and ESP-scoring among high-dissociation volunteers.11 In another experiment using positive subliminal messages, Palmer again found a significant positive correlation of psi-scoring with dissociation. When both receiver and sender received ganzfeld stimulation – the &nbsp;target being presented either subliminally for 1ms or shown ten minutes prior to the ganzfeld session – the results revealed above chance scoring, although statistically significant only in the subliminal (1ms) condition. These experiments suggest that subliminal presentation of targets might enhance ESP expression among certain groups.12
+
+Palmer conducted two experiments using the computer game Solitaire, in which participants competed to win a $100 prize.&nbsp;The true purpose was concealed from them, namely whether they could unconsciously use psychokinesis to achieve high scores, by influencing the randomized process that determined whether or not they could continue playing. In the first experiment, where the process was governed by a pseudo-random number generator based on an algorithm, there was no evidence of psi-functioning. However, the second experiment used genuine random number generator based on a quantum process susceptible to psychokinetic influence, and here more games were played than would be expected by chance. The experiments confirmed the hypothesis that the most highly motivated subjects should demonstrate the most psi.13&nbsp;  Matthew Manning
+
+In the early 1970s Palmer collaborated with Matthew Manning, a young British psychic, to investigate psychokinetic ability. In a test with an automated spinning coin tosser, Manning shifted the machine’s inherent 55% bias in favour of tails to a 54% bias in favour of heads (p = 0.001). Research with a random number generator was plagued with machine malfunctions and other anomalous physical events not evident at other times.14  Recent Research
+
+In a study published in 2016, Palmer investigated the relationship between psi (an ability) and synchronicity (a principle of nature).15 He is also continuing to explore the subliminal connection with ESP, finding that dissociation is a psi conducive state and that motor automatisms are a sensitive vehicle for psi expression.16  Experimenter Psi
+
+Palmer has written extensively on the problem of experimenter psi, in which high scoring is attributed less to&nbsp;any ability on the part of subjects of the experiment than to the (unconsciously expressed) needs of the person who runs it. To control for this, Palmer recommends manipulating the cognitive state of the principal investigator to accord with psi hitting, also directly comparing psi-conducive with psi-inhibitory investigators.17
+
+Palmer devotes a chapter to experimenter effects, co-written with Brian Millar, in Parapsychology, A Handbook for the 21st Century (2015). Two&nbsp;hypotheses are discussed: the ‘experimenter psi effect’, in which the psychic ability of the experimenter is the principal force behind the results of an experiment; and the ‘experimenter behaviour hypothesis’, in which the personality, approach and inter-personnel skills of the experimenter create the right (or wrong) atmosphere for participants to manifest their psi ability. Palmer and Miller conclude that the evidence supports both hypotheses, and in any event, because of the nature of psi, it is difficult to test one hypothesis independently of the other. 18&nbsp;Palmer writes:&nbsp;  
+
+Participants and investigators both contribute to significance in most successful psi experiments, their contributions depending upon their respective operative psi ability times their motivation to obtain good (or bad) results in the experiment.19
+
+(See also Experimenter Effects)  Spontaneous Experiences
+
+In addition to experimental research Palmer has investigated spontaneous psychic experiences.&nbsp;His most frequently cited study&nbsp;is a random mail survey of psychic experiences he&nbsp;conducted in the late&nbsp;1970s.20
+
+In later work with Vernon Neppe, Palmer sought to understand the relationship between temporal lobe epilepsy and ESP experiences among 100 neuropsychiatric patients of Neppe (the temporal lobe is associated with memory and language comprehension). Variables of interest from previous research included gender, age, unusual EEG measures, measures of handedness and the use of specific recreational drugs, and brain injuries. The strongest predictors for ESP experiences were female gender (p = 0.0008) and visual/auditory hallucinations (p = 0.011). Females with unusual temporal lobe EEG patterns were especially likely to report ESP experiences whilst the opposite was the case for males. 21  Challenging Skeptic Claims
+
+James Alcock, a psychologist and skeptic of parapsychology, claimed that apparently successful precognition experiments carried out by Helmut Schmidt could be explained by subjects capitalizing on non-random target sequences. Palmer investigated this claim by analyzing the results of two high-scoring subjects, comparing the target sequence before, during and immediately after the experimental runs. He found evidence to support the claim, but only for runs in which the aim was to score high rather than low. When Palmer ran a series of sophisticated control tests, there was no evidence of any such bias from target sequences from the experiment or long range control runs. He hypothesized that the subjects were indeed capitalizing on short-term target biases, but by using their psi ability.22
+
+Palmer also examined the claim that the ‘receiver’ in a ganzfeld telepathy experiment may be able to identify a target picture from three decoys if it had been previously handled by the ‘sender’, by means of subtle cues such as fingerprints, smudges or creases. He ran an experiment in which half the target pictures were handled by the sender and the other half were fresh, unhandled duplicate pictures. There was no difference in scoring rates between the two, suggesting that participants are generally oblivious to any such cues.23 &nbsp;
+
+Palmer considers his most important contribution to the debate with psi skeptics to be an argument on the status of the evidence for psi:&nbsp;that psi should be identified as an 'anomaly' because neither psi proponents,&nbsp;who claim that psi (as a descriptive) term requires a paranormal explanation,&nbsp;nor psi skeptics, who claim it requires a conventional explanation, have empirically confirmed their hypotheses by conventional standards of scientific evidence.24
+
+Palmer also challenged the conclusion, widely accepted by both sides of the debate, that 'extraordinary claims require extraordinary proof'.25&nbsp;Against the ‘parsimony’ argument adopted by skeptics, that where there are two competing explanations the one most consistent with long established principles is to be preferred (which he calls the ‘coherence principle’, Palmer objects that this is ‘patently circular’:  
+
+How do we know that conventional scientific theory explains psychic experiences? By applying the coherence principle. Why are we justified in applying the coherence principle? Because conventional science explains all of nature (which includes psychic experiences).26
+
+Michael Duggan  Literature
+
+Palmer, J., &amp; Vassar, C. (1974). ESP and out-of-body experiences: An exploratory study. Journal of the American Society for Psychical Research 68, 257-280.
+
+Stanford, R.G., &amp; Palmer, J. (1975). Free-response ESP performance and occipital alpha rhythms. Journal of the American Society for Psychical Research 69, 235-243.
+
+Palmer, J., Bogart, D. N., Jones, S. M., &amp; Tart, C. T. (1977). Scoring patterns in an ESP ganzfeld experiment. Journal of the American Society for Psychical Research 71, 122-145.
+
+Palmer, J. (1978). ESP and out-of-body experience: An experimental approach. In D. S. Rogo (Ed.), Mind Beyond the Body: The mystery of ESP projection (193-217). New York: Penguin Books.
+
+Palmer, J. (1979). A community mail survey of psychic experiences. Journal of the American Society for Psychical Research&nbsp;73, 221-251.
+
+Palmer, J., Khamashta, K., &amp; Israelson, K. (1979). An ESP ganzfeld experiment with Transcendental Meditators. Journal of the American Society for Psychical Research 73, 333-348. &nbsp;
+
+Palmer, J., Tart, C. T., &amp; Redington, D. (1979). Delayed PK with Matthew Manning: Preliminary indications and failure to confirm. European Journal of Parapsychology 4, 413-434.
+
+Palmer, J. (1983). Sensory contamination of free-response ESP targets: The greasy fingers hypothesis. Journal of the American Society for Psychical Research 77, 101-113.
+
+Palmer, J. (1987). Dulling Occam's Razor: The role of coherence in assessing scientific knowledge claims. European Journal of Parapsychology, 7, 73-82.
+
+Palmer, J. (1988). Conceptualizing the psi controversy. Parapsychology Review&nbsp;19, 1-5.
+
+Palmer, J., &amp; Johnson, M. (1991). Defensiveness and brain-hemisphere stimulation in a perceptually mediated ESP task. Journal of Parapsychology 55, 329-348. &nbsp;&nbsp;
+
+Palmer, J. (1992). Effect of a threatening stimulus on the Perceptual ESP Test: A partial replication. Journal of Parapsychology 56, 189-204.
+
+Kanthamani, H., &amp; Palmer, J. (1993). A ganzfeld experiment with “subliminal sending”. Journal of Parapsychology, 57, 241-257. &nbsp;
+
+Palmer, J. (1994). Explorations with the Perceptual ESP Test. Journal of Parapsychology 58, 115-147.
+
+Palmer, J. (1996). Evaluation of a conventional interpretation of Helmut Schmidt’s automated precognition experiments. Journal of Parapsychology 60, 149-170. &nbsp;
+
+Palmer, J. (1996). External psi influence on ESP task performance. Journal of Parapsychology 60, 193-210.
+
+Palmer, J. (1997). The challenge of experimenter psi. European Journal of Parapsychology 13, 110-122. &nbsp;
+
+Palmer, J. (1997). Hit-contingent response biases in Helmut Schmidt’s automated precognition experiments. Journal of Parapsychology 61, 135-141.
+
+Palmer, J. (2000). Covert psi in computer solitaire. Journal of Parapsychology 64, 195-211.
+
+Palmer, J. (2003). ESP in the ganzfeld: Analysis of a debate. Journal of Consciousness Studies 10, 51-68.
+
+Palmer, J., &amp; Neppe, V. M. (2004). Exploratory analyses of refined predictors of subjective ESP experiences and temporal lobe dysfunction in a neuropsychiatric population. European Journal of Parapsychology 19, 44-65.
+
+Palmer, J., Simmonds-Moore, C. A., &amp; Baumann, S. (2006). Geomagnetic fields and the relationship between human intentionality and the hemolysis of red blood cells. Journal of Parapsychology 70, 275-301. &nbsp;
+
+Palmer, J. (2011). Motor automatisms as a vehicle of ESP expression. Journal of Parapsychology 75, 45-60.
+
+Palmer, J. (2009). Decision augmentation in a computer guessing task. Journal of Parapsychology 73, 119-135.
+
+Millar, B., Palmer, J. (2015). In Cardena, E., Palmer, J., Clavertz, D. M. (eds.) Parapsychology, A Handbook for the 21st Century. &nbsp;Jefferson, North Carolina: McFarland.
+
+Palmer, J. (2016). Psi and synchronicity: A controlled comparison. Journal of the Society for Psychical Research 80, 193-213.&nbsp;
+
+Palmer, J. (2018). Training anomalous cognition in a motor task with subliminal auditory feedback. Journal of Parapsychology 82, 132-147.   Endnotes 1. Palmer, 2011. 2. Palmer, 2011. 3. Palmer et al, 2006. 4. Stanford &amp; Palmer, 1975. 5. Palmer &amp; 1974. 6. Palmer, 1978. 7. Palmer et al, 1979. 8. Palmer et al,&nbsp;1977. 9. Palmer, 2003. 10. Palmer &amp; Johnson, 1991. 11. Palmer, 1992. 12. Kanthamani &amp; Palmer, 1993. 13. Palmer, 2000. 14. Palmer et al, 1979. 15. Palmer, 2016. 16. Palmer, 2018. 17. Palmer, 1997. 18. Millar &amp; Palmer, 2015. 19. Millar &amp; Palmer, 2015, 297. 20. Palmer, 1979. 21. Palmer &amp; Neppe, 2004. 22. Palmer, 1996. 23. Palmer, 1983. 24. Palmer, 1988. 25. Palmer, 1987. 26. Palmer, 1987, 75.           			  			     			This page was last updated on: July 22, 2019   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 2,600 Created: 25th June 2019 Last updated: 22nd July 2019 May be cited as:Duggan, M. (2019). &lsquo;John Palmer&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/john-palmer&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/yxncawtf                   	                                             See also:      Experimenter Effects                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/john-palmer

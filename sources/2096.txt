@@ -1,0 +1,92 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/sean-harribance","mytitle":"Sean Harribance | Psi Encyclopedia","mylang":"de"}
+                     Sean Harribance | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Sean Harribance                                                                                                                                                                                                                          Sean&nbsp;Harribance is a Trinidadian psychic of Indian descent, who participated in ESP and PK experiments with American researchers from the 1970s.    Contents   	Background 	Zener Cards  	Trinidad and the FRNM 	Psychic Shuffling Tests 	Psychical Research Foundation (PRF)   	Gender Guessing  	Free Response  	Psychokinesis   	Dice 	Random Number Generators 	Biological Targets   	Harribance’s Brain 	Literature 	Endnotes     Background
+
+Sean Lalsingh Harribance&nbsp;was born in Trinidad in November 1939, of Indian parents, and raised in the Hindu tradition. During his late childhood he discovered he could ‘learn’ the contents of books by touching them. Later, he gave readings by holding a photograph of the person, and by the end of the 1960s had gained a local reputation for predictions and psychic readings.
+
+This led to a collaboration with psychologist Hamlyn Dukhan, who conducted successful tests under close supervision.1 Dukhan then contacted Joseph Banks Rhine at the Foundation for Research on the Nature of Man (FRNM), now the Rhine Research Centre; Harribance was invited for testing in January 1969. Further testing was carried out the following month at the Psychical Research Foundation (PRF). Most of the research with Harribance was conducted in the early 1970s at these institutions and is the focus of this article.
+
+In later life Harribance established a psychic consultancy business. In 1995, he founded the Sean Harribance Institute for Parapsychology (SHIPR) to promote psi research and act as a repository for his own predictions.2  Zener Cards  Trinidad and the FRNM
+
+In early tests with Dukhan, Harribance guessed the sequence of pre-shuffled packs of 25 Zener cards (star, square, cross, wavy lines and circle). There were 112 hits from 450 trials, where 90 hits (5 possible targets) would be expected by chance.3 This result has associated odds against chance of 1 in a 100, or a p-value (probability) of 0.01. &nbsp;
+
+The early testing at FRNM was not significant. In later experiments there, Harribance was tested with unbalanced packs of cards – for example 7 squares or 3 circles instead of the usual 5 – to see if his guesses would be affected; effectively, a double-test of ESP. In 9,000 trials (360 runs of 25) Harribance scored 1,902 hits giving a p-value of 0.007 (about 1 in 140 against chance). Harribance called out the more &nbsp;numerous symbols more than the less numerous to a significant degree (p-value 0.003), although he had no way of knowing how the targets had been distributed.4  Psychic Shuffling Tests
+
+Harribance continued at FRNM, using the psychic shuffle protocol established by Rhine. In this test, Harribance recorded his prediction for a set of 50 ESP Zener cards, which were then continually shuffled by the experimenter until Harribance intuited that the sequence of cards closely matched the prediction, at which point he called out to stop the shuffling. The card sequence was then recorded and compared with the guesses. Chance dictates a 10% hit rate. In 7 experiments and 28,500 trials, Harribance obtained a hit rate of 12.02%, apparently small but astronomically significant, with odds against chance of 1028 to 1 (a 10 followed by 28 zeros). Care was taken to ensure that the experimenter did not know the sequence of guesses until the shuffling had ended; to guard against the possibility of sensory leakage they were in separate rooms. The protocols varied as the methodology was refined, but the scoring rates remained comfortably significant.5
+
+Similar experiments were carried out at the Psychical Research Foundation with aim of better understanding the effect. Klein and Morris found a strong positive relationship between the number of times the cards were shuffled and improving psi score. They speculated that psychokinesis rather than precognition might be involved, with an influence on the shuffling occurring in order to match the prediction &nbsp;  Psychical Research Foundation (PRF)
+
+Five experiments were performed. In the first, Harribance guessed the sequence of cards that had been thoroughly randomized by means of random number tables rather &nbsp;shuffling. In a total of 25,000 guesses, Harribance’s ESP performance was associated with odds of a trillion to one against chance as an explanation (p-value 1012 to 1).6 &nbsp;The score in second test, in which two symbols rather than five were used, was marginally significantly (p-value 0.05); the third gave chance results. Tests 4 and 5 tested precognition rather than clairvoyance, offering the advantage of ruling out sensory leakage as an explanation (targets are chosen after the guesses have been made). In the fourth test scoring was marginally significant and at chance level in the fifth.7   Gender Guessing
+
+Durkhan designed a test of Harribance’s apparent ability to pick up information from his proximity to people, in which he tried to guess the sex of individuals pictured in concealed photographs.&nbsp; In each run, pictures of six males and six females were laid out in randomized order and covered with an opaque cloth. Over 480 trials Harribance obtained 285 hits, a success rate of 59.38%, with associated odds against chance of 100,000 to 1.8 The FRNM team replicated the experiment several times when Harribance visited the US: in a total of 1,239 trials he scored at 59.64%, with associated odds against chance of a trillion to one.
+
+At the Psychical Research Foundation (PRF) in Georgia, Harribance participated in 10 gender guessing experiments under stricter controls. In six of these he achieved hit rates of around 60%, with odds around 108 to 1 per experiment. Over the ten studies the hit rate reached odds of 1050 to 1 against chance.9   Free Response
+
+Harribance was also tested using ‘free response’ methods, in which information about a person was derived by holding a thick opaque envelope containing a lock of hair and a written statement (such personal effects were considered important in building a connection between Harribance and the person being read; in that respect, the experiments resembled real life readings). The transcripts from 20 readings were rated blindly by the participants resulting in 6 &nbsp;matches, with odds against chance of 50 to 1.10   Psychokinesis
+
+Harribance participated in psychokinesis investigations, to a somewhat lesser degree.   Dice
+
+In the early 1970s, Harribance was tested for his ability to affect the fall of dice in a series of four experiments conducted at the Psychical Research Foundation (PRF) in Georgia. A cylindrical tumbler was used to toss the dice to eliminate handling biases. Additional controls included blind recording, so that the experimenter was unaware what die face Harribance was aiming for. Also, the die faces were called an equal number of times to ensure any physical biases cancelled out. Harribance scored significantly in the first two experiments: around 20% where 16.7% is expected by chance. The scores in the last two experiments were at chance, indicating the decline effect commonly seen in psi studies. Despite the fall off, the composite result across four studies averaged 19.24% (2,701 hits from 14,040 trials) with odds against chance of 1015 to 1.11  Random Number Generators
+
+Harribance was a prominent subject in early PK studies carried out at FRNM by Helmut Schmidt, using random number generators. &nbsp;These experiments tested for retro-PK, in which Harribance was instructed to influence random processes that occurred in the past (see Psychokinesis for background.) The use of pre-recorded targets offers the advantage of eliminating subject fraud as a possible explanation for positive results (Schmidt’s later experiments with external observers eliminated the possibility of experimenter fraud also). &nbsp;In the Harribance experiments, 236 out of 425 blocks of data conformed to his intention – a hit rate of 55.5% where 50% is expected, yielding odds just over 100 to 1 against chance. In a second experiment he was less successful, achieving odds of 12 to 1. The combined hit rate was 54.6% over 832 data blocks, with odds of over 300 to 1 against chance.12  Biological Targets
+
+Harribance was unsuccessful in FRNM experiments aimed at influencing the performance of a person engaged in a computerized ESP test.13 &nbsp;However, he succeeded in experiments, designed by Anita and Graham Watkins at the FRNM, to wake anaesthetized mice. Here, Harribance focused on one mouse of a pair, randomly-chosen, influencing it wake before the other control mouse. In three experiments involving several psychics the results supported the PK hypothesis, with odds of 500 million to 1 against chance.14 In the Harribance trials the success rate was 10,000 to 1 against chance. In a close replication by Wells and Klein, the combined results were only marginally significant across eight experiments, although Harribance performed significantly in conjunction with another psychic claimant.15   Harribance’s Brain
+
+A finding from several research groups is a marked correlation between alpha waves in the EEG (8-12 Hertz), which are associated with a relaxed state, and superior psi scoring. In early brain studies of Harribance, alpha wave expression during high scoring runs in gender-guessing experiments was frequently found to be twice the rate than when he was scoring at chance level.16
+
+Later work by Cheryl Alexander with Harribance at the Rhine Research Centre in 1997 confirmed the importance of alpha waves during ESP tasks. Using the latest quantitative EEG system, Alexander found concentrations of alpha activity in the occipital and parietal cortex. Such activity was not present when Harribance was relaxed during rest periods, an indication that his psi ability is related both to a relaxed state (high alpha activity) and to specialized brain regions.17&nbsp;
+
+Further confirmation of the importance of alpha expression in ESP functioning came with experiments carried out in the late 1990s by Michael Persinger at Laurentian University. Here, Harribance handled sealed envelopes of photographed individuals while giving readings that were recorded and later transcribed. Persinger found that accurate descriptions were correlated with high alpha expression in the occipital region (located at the rear of the brain), while inaccurate readings were associated with the lowest alpha activities.18
+
+Comparison of Harribance’s EEG spectra to those of the general population revealed decreased functioning across most of the brain regions, in particular the frontal and temporal lobes. This was confirmed by Single Photon Emission Computed Tomography (SPECT), which provides higher resolution of brain activity.19
+
+Michael Duggan  Literature
+
+Alexander, C H. (2000). Neurophysiological research on an individual experiencing anomalous metal phenomena: A case study. International Journal of Psychophysiology, 35, 42-43.
+
+Beloff, J. (1993). Parapsychology: A concise history. London: Athlone.
+
+Broderick, D., Goertzel, B. (2014). Evidence for Psi: Thirteen Empirical Research Reports. MacFarland and Company, Inc. Jefferson, North Carolina.
+
+Child, I. L., Kelly, E.F. (1973). ESP with unbalanced decks: A study of the process in an exceptional subject. Journal of Parapsychology, 37, 278-297.
+
+Dukhan, H. (1968). ESP tests with a high-scoring subject. Journal of Parapsychology, 32, 259-60.
+
+Ehrenwald, J. (1975). Psi phenomena and brain research. In B. B.Wolman (Ed.), Handbook of Parapsychology, 716-729. New York: Van Nostrand Reinhold.
+
+Kanthamani, H. (1974). Psi in relation to task complexity. Journal of Parapsychology, 38, 154-162.
+
+Kelly, E. F., Hartwell, J. W., Artley, J. L. (1978). A second two-choice clairvoyance EEG study with Lalsingh Harribance. Journal of Parapsychology, 42, 54-55.
+
+Klein, J. (1971).Recent research with Lalsingh Harribance: A comparison of clairvoyance and telepathy. In W. G. Roll, R.L. Morris, Proceedings of the Parapsychological Association No. 8, 71-72. Durham, NC: Parapsychological Association.
+
+Palmer, J. (1996). External psi influence on ESP task performance. Journal of Parapsychology, 60, 193-210.
+
+Persinger, M. A., Roll, W. G., Tiller, S., Koren, S. A., Cook, C. M. (2002). Remote viewing with the artist Ingo Swann.
+
+Neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI) and possible mechanisms. Perceptual and Motor Skills, 94, 927-949.
+
+Pratt, J. G. (1974). In search of the consistent scorer. New directions in parapsychology, 95 – 121. Metuchen, NJ: Scarecrow
+
+Roll, M. (1971). Some recent dice throwing studies with Lalsingh Harribance. Proceedings of the Parapsychological Association. No.8, 19-20.
+
+Roll, W, G., Klein, J. (1972). Further forced-choice ESP experiments with Lalsingh Harribance. Journal of the American Society for Psychical Research, 66, 103-112.
+
+Roll, W. G., Morris, R. L., Damgaard, J. A., Klein, J. (1973). Free verbal response experiments with Lalsingh Harribance. Journal of the American Society for Psychical Research, 67, 197-207.
+
+Roll, W. G., Persinger, M. A., Webster, D. L., Tiller, S. G., Cook, C. M. (2002). Neurobehavioural and neurometabolic (SPECT) correlates of paranormal information: Involvement of the right hemisphere and its sensitivity to weak complex magnetic fields. International Journal of Neuroscience, 112, 197-224.
+
+Schmidt, H. (1976). PK effect on pre-recorded targets. Journal of the American Society for Psychical Research, 70, 267-291.
+
+Watkins, A. M., Watkins, G. K. (1971). Possible PK influence on the resuscitation of anaesthetized mice. Journal of Parapsychology. 35, 257-272.
+
+Wells, R., J. Klein. (1972). A replication of a “psychic healing” paradigm. Journal of Parapsychology, 36, 144-149.   Endnotes 1. Dukhan, H. (1968) 2. Harribance. S. (2018) http://www.seanharribance.com/about-shipr/the-psychic/ 3. Dukhan, H. (1969) 4. Klein, J (1971) 5. Kanthamani, H. (1974) 6. Klein, J., Roll, W. G., (1972) 7. Roll, W.G. (1971) 8. Dukhan, H. (1968) 9. Klein, J., Roll, W. G. (1972) 10. Morris, R. L., Roll, W. G. (1973) 11. Roll, W. G. (1971) 12. Schmidt, H. (1976) 13. Palmer, J. (1996) 14. Watkins, A., Watkins, G. (1971) 15. Klein, J., Wells, R. (1972) 16. Klein, J., Roll, W. G. (1972) 17. Alexander, C.H. (2000) 18. Persinger, M.L. (2002) 19. Persinger, M.L. (2002)</p>
+
+           			  			     			This page was last updated on: April 06, 2019   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 2,100 Created: 3rd July 2018 Last updated: 6th April 2019 May be cited as:Duggan, M. (2018). &lsquo;Sean Harribance&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/sean-harribance&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y39qsqj2                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/sean-harribance

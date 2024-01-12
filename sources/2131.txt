@@ -1,0 +1,882 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/meditation-and-psi","mytitle":"Meditation and Psi | Psi Encyclopedia","mylang":"de"}
+                     Meditation and Psi | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Meditation and Psi                                                                                                                                                                                                                          Traditional Yogic and Buddhist teachings state that a person who attains a higher state of consciousness will manifest psychic powers (siddhis). Psi awareness is said to occur at a certain stage in meditation attainment, as an aspect of the greater sensitivity and awareness that follows from removing the noise of the internal dialogue. All meditation traditions state that advanced meditators will exhibit reliable and strong psychic phenomena. This idea has been explored experimentally by Western parapsychologists, in the main with relatively untrained people and with weak and unreliable results. However, the research suggest that individuals who practice meditation continuously are more likely to achieve significant psi scoring than those who do not.   Contents   	Introduction 	Meditation Types 	Early Psi Research 	1980s and 1990s 	Meditation and Psychokinesis (PK) 	From the 1990s to the Present 	Effects of Meditation on Physiology 	Process-Oriented Research 	Summary of Experimental Results 	Still To Be Done 	Subliminal Processing 	Increased Attention: Concentration and Focus 	State and Trait 	Culture and Belief 	Setting 	Literature 	Endnotes     Introduction
+
+In the classic yoga text known as Patanjali’s Yoga Sutras,1 it is stated that when one attains the state of consciousness known as Samadhi, the siddhis (psychic powers) manifest. Traditional Buddhist texts also state that on attaining to a certain level of enlightenment, that the superknowledges manifest.2 Fuller discussions of Patanjali’s Yoga Sutras in relation to psi research have been given by Braud3 and Radin.4
+
+Altered states of consciousness has been a central topic of research in parapsychology for the past forty years. Much of this research has been driven by a the concept of the psi-conducive state, introduced by William Braud In the 1970s. This states that psi functioning is enhanced when there is a combination of:   	cortical arousal sufficient to maintain conscious awareness 	muscular relaxation 	&nbsp;reduction of sensory input 	internal attention
+
+This model was specifically linked with Patanjali’s Yoga Sutras by Honorton.5 In short, meditation techniques induce a state that is considered to be a heightened state of consciousness.  Meditation Types
+
+Meditation can be divided into two main types. One is concentration, or one-pointed awareness (Sanskrit: shamatta or dharana; Tibetan: shinay). The other is bare awareness (Sanskrit: vipassana or dhyana; Tibetan: lahtong), where one is merely aware of whatever occurs. In preliminary stages, bare awareness can be combined with awareness of something, for instance the body, breath or mind. Typically, one learns shamatta techniques first and the resultant calming of the mind then enables the vipassana practices.
+
+Breath awareness is a classic Yogic and Buddhist meditation practice. Transcendental meditation (TM) is a concentration meditation technique in which one chants a particular sound or mantra. Mantra meditation, often combined with visualization, is used extensively in both Yogic and Tibetan Buddhist traditions.
+
+Mindfulness is one of the methods used in shamatta practice to enable one to hold the focus by being vigilant to the wandering of the mind and bringing it back to awareness of the practice,6 which may be watching the mind itself, as in mahamudra or dzogchen.  Early Psi Research
+
+Experiments in ‘thought-reading’ were first undertaken by the Society for Psychical Research in the 1880s, with participants attempting tasks such as guessing cards selected by another person or making drawings of objects. In the 1930s these were formalised by JB Rhine at Duke University, with statistical laboratory experiments in what he termed extra-sensory perception (ESP), consisting of telepathy, clairvoyance and precognition, also psychokinesis (PK) – the four are now known collectively as psi.&nbsp;Some experiments produced statistically significant results, a few by a large margin. Others showed no statistical significance, with subjects scoring at chance levels.&nbsp;
+
+A key element of psi research has been to try to understand the variables that make for success or failure. One key variable is the personality of the subject, the person trying to guess target objects. Another is the subject’s state of mind. The hypothesis that psi is facilated if the subject is in a relaxed and attentive state of mind gave rise to the ganzfeld protocol, in which the subject is immersed in a diffuse pink light and white noise. Parapsychologists consider this to be a productive – though far from foolproof – way to elicit psi in controlled conditions.
+
+Could the practice of meditation similarly help to create high-scoring in psi experiments? This hypothesis was first tested by Gertrude Schmeidler in 1970 and others followed. However most of the research in the 1970s used subjects who were beginners in meditation, some of whom had done only a week of practice. The results in most cases were that participants scored at chance or below-chance levels before mediating, and above chance after they had meditated for a period.
+
+A meta-analysis of all the meditation-psi experiments carried out by 1976 found that nine out of a total of sixteen were significant, giving an overall p = 6×10-12&nbsp;(See Table 1 for details).7  1980s and 1990s
+
+Rao and Puri8 and Rao and Rao9 tested participants for both subliminal perception and ESP before and after they had practiced Transcendental Meditation (TM) for a week. The latter study suggests that in meditation one learns to become more aware of the contents of one’s mind at a subtle level – this awareness and openness being a generalized form of sensitivity to incoming information, whether of the subliminal or psychic form. This would confirm the assertion in Yogic teachings about the effect of removing the noise of the internal dialogue.
+
+Roll and Zill10 obtained a significant difference (p&nbsp;&lt; .005), with the participants once again scoring non-significantly below chance before the meditation and significantly positively (p&nbsp;&lt; .02) after it. However the positive results were primarily due to decreased scoring before the meditation, which raised the possibility that the subject’s desire to comply with the experimenter’s wishes, and not meditation, might have been the real cause.
+
+Harding and Thalbourne11 tested the possible effects of TM by comparing three groups: non-meditators, ordinary TM meditators, and advanced TM meditators (siddhas). They obtained null results. However they considered that this was because the meditators were unmotivated, as considerable persuasion had been needed to obtain participants for the study.
+
+Schmeidler summarized the ESP research carried out in the period 1978-1992 and found significantly positive results in four of six studies.12 She concluded that meditation may be psi-conducive when the meditators accept the testing procedure. See&nbsp;Table 2a.  Meditation and Psychokinesis (PK)
+
+A handful of experiments looked at meditation and psychokinesis. Typically they had the meditators attempt to influence a random event generator, to push the number of events either above or below the mean.
+
+Braud’s 1990 analysis of all such studies reported between 1971 and 1988 (Table 2b) found that in seven out of eight, meditation practitioners at some point showed a stronger PK effect.13
+
+On the other hand Braud noted that none of this research identifies the psi-conducive factor: whether prior meditation history, the immediate effects of the meditation session, the meditator’s personality and reasons for meditating, or a combination of these.14 He further cautions that advanced meditators may not be positively disposed to being involved in psi research since, although both Yogic and Buddhist traditions acknowledge that psi occurs as part of one’s progress along the spiritual path, they also caution that such experiences must not be cultivated for their own sake. For both researcher and practitioner, motivations of self-aggrandizement can produce conflicts that are detrimental to research.
+
+Between 1976 and 1992 there was a total of fourteen meditation-psi studies, of which nine tested ESP and five tested PK (one tested both). Five of the nine ESP studies gave significantly positive results, as did three of the five PK studies, clearly confirming, meditation to be a psi-conducive state of consciousness.  From the 1990s to the Present
+
+Interest in meditation psi research revived in the new millennium, with experimenters tending to prefer advanced meditators to less psi-conducive beginners. In this period the emphasis switched from ESP to PK.
+
+In an unpublished pilot study, Bancel worked for two months with eighteen Western practitioners of Tibetan Buddhist meditation who had meditated for at least fifteen years.15 Various factors indicated that meditators influenced the random event generator more than non-meditators.
+
+Several experimenters have worked with groups. For example, Nelson, Jahn, Dunne, and Dobyns carried out a series of experiments in different locations using a portable random event generator.16 In one study the team obtained obtained very significant results (p = .0004) with a group of practitioners who meditated and chanted at various temples and within the pyramid chambers in Egypt.
+
+On another occasion the portable device was used in a spiritual training course. Data from several other such devices around the world were also gathered during the Gaia Mind Meditation event, when people all around the globe were meditating for world health and peace.
+
+As part of the Global Consciousness Project (GCP), Nelson ascertained the effect of groups of people all concentrating at the same time.17 Between 1999 and 2013 there were twenty occasions when the GCP was alerted while groups of people meditated together. There was no clear overall outcome. In four events there were significant deviations from chance, three of which were in the positive (high) direction. In five events the results were in the high direction but non-significant, with one giving positive significance during the peak period when 1,800 meditators were present. Five events produced chance data, and six produced non-significant results in the low direction.
+
+An experiment on distant intention effects used the Tibetan bodhicitta (compassion) practice of tonglen, in which one consciously attempts to take on the suffering of another and then send out positive energy to that person.18 In this study, partners of cancer patients practiced tonglen for three months before the experimental session. The effects of the distant healing intention were recorded using skin conductance response (SCR) of the receivers, which increased during the healing epochs by a highly significant factor (p = .00009).
+
+Beginners in meditation are sometimes given an exercise that involves concentrating on a candle flame. This formed the basis of a new PK methodology, termed attention focusing facilitation effect (AFFE), which was used in a series of twelve studies with non-meditators between 1993 and 2006.19 The participants were required to press a button every time they noticed that their mind had wandered. On some occasions they benefited from a helper at a distance concentrating on assisting them to maintain focus. As hypothesized, the participants were able to hold their focus longer when the helper was concentrating on them, revealing a small but highly significant distant facilitation effect (p = .009).20
+
+Some of this research was conducted in Britain,21 some in the USA,22 and some in Bali.23
+
+A clear cultural difference emerged between the Balinese and Western studies. With the exception of the distant helper the participants in both were non-meditators.&nbsp;However the Westerners pressed the button almost five times more often than the Balinese.&nbsp;This indicated a clear difference in their thresholds for judging mind wandering, or else in their willingness to admit to mind wandering, or in their ability to maintain focus. One speculation is that since meditative prayer is a part of daily life in Balinese Hinduism, the Balinese are naturally more adept when engaging in focus meditation, even without formal training.24
+
+It has been noted that many meditators report having more stable attention when meditating in a group compared to practising alone (also called Sangha effect). This might be explained by a conventional psychological mechanism. However it has been speculated that there might also be an additional component through some type of distant intention effect.25
+
+In experiments aimed at influencing quantum processes, Dean Radin asked participants to imagine that they could intuitively perceive a low-intensity laser beam in a distant Michelson interferometer (an optical device that creates light patterns).26 If such observation were possible, it would theoretically change the light pattern produced by the interferometer. Perturbation would produce a lower overall level of illumination, predicted to occur during the blocking condition. The outcome was in accordance with the prediction (p = .002). This result was primarily due to nine sessions with experienced meditators (p&nbsp;= 9.4×10-6); the sessions with non-meditators were not significant.
+
+In an experiment of similar design, Radin and colleagues used a double-slit optical system to test the possible role of consciousness in the collapse of the quantum wave-function. The ratio of the interference pattern’s double-slit spectral power to its single-slit spectral power was predicted to decrease when attention was focused toward the double-slit as compared to away from it. Nine experiments testing this hypothesis led to a highly significant effect in the predicted direction (p &lt; 6 × 10-6).27  Effects of Meditation on Physiology
+
+Much recent research in parapsychology has focused on subconscious processes, in particular physiological responses to stimuli. Here the possible role of meditatation has been examined. For instance, an unpublished EEG study of visual evoked potential looked to see whether brain activation in the receiver was higher when the sender was visually stimulated by a flickering black and white checkerboard pattern. Fifteen participants were trained for a month in Primordial Sound Meditation, a meditative technique developed by Deepak Chopra, with both sender and receiver practising meditation for half an hour prior to the session. EEG data were collected simultaneously from both sender and receiver. Overall, 31% of the receivers indicated an influence of the flicker condition, resulting in p = 4 × 10-7. 28
+
+In another methodology to test for subconscious psi effects – the presentiment effect - researchers make physiological measurements prior to the participant being given a consciously-felt stimulus. It has been found that the measurements vary from one person to another, depending on whether the stimulus that they receive later is of an emotional character (one that evokes a response such as enjoyment or disgust), or is neutral, evoking no particular response.&nbsp;In an experiment of this type, experimenters worked both with experienced meditators – who averaged 20.8 years of active Zen-type meditation practice – and non-meditators, exposing them unexpectedly to bright lights and noises. They measured the participants’ EEG before, during, and after the events. Comparisons between the two groups showed significant pre-stimulus differences prior to audio stimuli in 14 of 32 channels (p &lt; .05), of which eight channels were significant (p &lt; .005).29
+
+In an unpublished pilot study, Bierman used skin conductance (SCR) as a measure of the participant’s presentiment to auditory stimuli consisting of pleasant and unpleasant sounds.30 There was no overall presentiment effect, but in a measure of habituation, in the control non-meditation condition there was a significant difference in habituation between meditators and non-meditators, the habituation being much less for the meditators. There was a strong interaction between state of consciousness and stimulus type; pleasant sounds habituated faster during meditation, and unpleasant sounds habituated faster in the normal waking condition (p = .002).
+
+In a follow-up study, measurements were made by fMRI scans. Eight participants prepared for the experiment by meditating while listening to a recording of the noise made by the scanner. Based on a qualitative analysis only, there was a presentiment effect, with twice as many responses prior to the violent targets in the resting and control conditions. In the meditation condition there was stronger presentiment prior to the erotic stimuli.  Process-Oriented Research
+
+There have been studies in India to investigate the assertion by Yogic and Buddhist teaching that more-advanced meditators are more consistently psychic than beginners. The aim was to discover whether the difference was evident with meditators who have achieved a certain level of skill, or rather if changes in psi awareness would gradually become apparent as the person continued to practice. Four studies were carried out, initially at an Indian ashram with Yogis31 and then with Tibetan Buddhist monks in Indian monasteries.32&nbsp;
+
+Each participant completed six sessions in the Yogic studies and eight sessions in the Tibetan studies, in order to ascertain as clearly as possible their level of psi proficiency. At the conclusion each participant completed a yogic or meditation attainment questionnaire (MAQ), which detailed the types of practices they did, how often and for how long. The questionnaire measured practices such as asana, pranayama, as well as various types of meditation, such as mantra, visualisation, mahamudra, bodhicitta, and factors such as years spent in retreat and number of hours of practice.
+
+All the studies showed a positive correlation between years of practice and psi-scoring. The correlation between Yogic attainment and psi was r = .57, p = .02 in Study 1 and non-significantly in the same direction (r = .15) in Study 2. In a similar fashion, the significant correlation of psi score with years of meditation found in Tibetan Study 1 (rho = .80, p = .003), was non-significant but in the same direction (rho = .28) in Study 2, which gives an overall finding for both Tibetan studies of rho = .74, p = .0005. These results support the interpretation that changes in consciousness occur little by little as a person practises meditation.
+
+Using a different method of analysis to ascertain level of meditation attainment, the participants were separated into three different groups representing level of initiation.&nbsp;In the 2003 study, the advanced group of Yogic monks and nuns (swamis) scored significantly better than both those initiated into a yogic lifestyle (sannyasins)&nbsp;(p = .05) and the students who had only just started yoga and meditation practice (p = .04). In the 2004 study these differences were in a similar direction but non-significant. In the Tibetan studies, the most advanced group, the lamas, who had all completed at least three years of retreat, were the only group to have independently significant psi-hitting (p = .04) and significantly higher scoring that the other two groups of monks (p = .002).
+
+Thus it was found that the meditators with more than fiteen to twenty years of practice showed the most consistent psi-hitting, averaging 33% direct hits, where chance is 25%, and in some cases reaching 50%. For those who had practiced meditation for less than fifteen years, the psi scoring was variable in a similar manner to that found with non-meditators. But in those with more than twenty years of practice, the results were all in the psi-hitting direction, with stronger and stronger psi scoring as the years of practice increased.
+
+The Tibetan research also started to explore which types of meditation practice were most psi-conducive by comparing sessions where the participant used a mantra meditation with sessions where they used a visualization practice. Years of practice of visualization, as measured by the MAQ, showed a small positive correlation with psi scoring (rho = .49). However, no difference between the two techniques was apparent during the actual sessions. It appears that the most important thing is to practice every day for years rather than to use a particular technique. However this still does not reveal what it is about meditation practice that is psi-conducive, merely that years of continuous practice are required to make the change.
+
+More recent research, using a similar design over a four-year period with long term meditators at the Samye Ling Tibetan Center in Scotland, did not corroborate the Indian results, showing no correlation between years of practice and psi score.33 Cultural issues may have been at play here (see below).  Summary of Experimental Results
+
+Forty-three meditation-psi experimental studies have been reported since 1992 (see Table 3). Some of these involved more than one experiment, as many as twenty&nbsp;in one case. Twenty seven of the studies gave significant positive results.
+
+In 38 studies the participants had practiced some form of meditation, sometimes over a number of years, and had been chosen to participate on the hypothesis that meditators are more psi-conducive than non-meditators. In 22 studies in which meditators were compared with non-meditators or beginners, thirteen found that the meditators exhibited enhanced positive psi scoring.
+
+In 25 studies participants were asked to meditate as part of the procedure, on the hypothesis that a meditative state of consciousness would be psi-conducive. In eleven cases, these experiments gave significant positive results. There were fourteen studies where both trait and state conditions applied. Of these six gave significant positive results for at least some of the analyses.
+
+However, there is so far no way of knowing the degree to which the participant has attained a meditative state of consciousness during any particular session. Nor is there any clear measure of what trait changes have occurred from practicing meditation over a number of years. As Cardeña also points out, personality traits, or in this case trait changes that have occurred over the years of meditation practice, and state of consciousness attained during a particular practice session are interactive processes.34&nbsp;  Still To Be Done
+
+Early research was primarily concerned to establish that meditation is conducive to the appearance of psychic effects. Parapsychologists believe that this has been achieved, with multiple studies showing highly significant results.&nbsp;Accordingly meditators are now used in experiments less to demonstrate psi than to investigate other questions in parapsychology.
+
+However this leaves unexamined such questions as what the actual effect of meditation is, and what characteristic makes it psi-conducive. Researchers in transpersonal psychology have started to look at the effect of aspects such as mindfulness, but without as yet finding clear defining factors.
+
+Parapsychologists have been criticized for assuming that all meditation techniques are the same.35 Research that compared the EEGs of meditators practicing a variety of techniques has found that they result in quite distinct brain patterns and rhythms.36 Thus, Transcendental Meditation produces alpha brain waves, while concentration techniques produce beta/gamma, and open awareness produces theta.37
+
+Meditation seems to differ from other altered states of consciousness that have been found to be psi-conducive, being one of focused attention and stillness rather than that of active imagination typical of psychedelics or dreaming.  Subliminal Processing
+
+One theoretical model of psi suggests that psi information is continuously present at a subliminal level and that various methods of accessing this information are similar to those used in accessing other subliminal processes.38 This approach was studied intensively in the 1970s and 1980s.39
+
+Comparison with subliminal perception research carried out within conventional psychology suggested that the methods used by the mind to access subliminal material are similar to those that enable it to access to psi material. This research also found that participants who can successfully bring subliminal material into consciousness are best able to access psi material.40
+
+In Yoga psychology the practice of meditation is considered to enhance one’s awareness of subliminal states of consciousness. This has been confirmed by recent research by psychologists, and is perhaps one reason why meditation enhances psi.41  Increased Attention: Concentration and Focus
+
+Another potential avenue to explore is that meditation increases the ability to concentrate. An increase in temporal attention means that the meditator has more stable attention overall.42 This opens the possibility that it is increased focus and concentration, together with increased awareness, that enhances psi scoring. In the Shamatta project Wallace showed that intensive meditation training resulted in improvements in perceptual discrimination and sustained attention.43  State and Trait
+
+Schmidt separated meditation-psi studies into two types. One, termed ‘state’ experiments, uses meditation to help the participant attain a psi-conducive state of consciousness in the moment.44 The other, termed ‘trait’, uses participants who are meditation practitioners but are not asked to meditate during the session.
+
+Of central importance in all the research studies mentioned here is that participants were considered as having ‘meditated’ merely because they were given instructions to do so, or because they stated that they practiced meditation, without their proficiency being assessed.45 This is a potentially major problem. Most Westerners use techniques regarded by traditional teachings as those of concentration pre-meditation (dharana) rather than those of meditation proper (dhyana). Also, no clear method of measuring meditation attainment has yet been devised. As seen in the section above, most types of measurement assess dharana rather than dhyana.
+
+An attempt was made in the Yogic and Tibetan research to measure the participant’s level of meditation attainment.46&nbsp; A self-report questionnaire, the Freiburg Mindfulness Inventory, also shows some promise.47 However, a complicating factor with self-reporting is that, in the East, a good meditator is expected to show humility, which can cause them to understate their actual level of attainment.
+
+Doubts have been expressed that the meditators whom parapsychologists rely on for their experiments have attained the level of skill needed to make reliable demonstrations of psi effects.48 Tibetan Buddhists consider it necessary to first attain the highest level of concentration before one possesses sufficient mindful awareness to enter the meditation state proper, which they insist is beyond the thinking mind. Even then, they say, one must attain the highest meditative state and overcome the obstacles in the realm of desires before psychic effects can become reliable.49
+
+In order to progress, meditation-psi research needs to be able to reliably measure the participant’s level of meditation, and the degree to which a session affects the mind.  Culture and Belief
+
+Some of the research reported above has highlighted cultural differences in the relationship between meditation and psi. It is uncertain whether this is an effect of belief on psi experiments, of the kind demonstrated by classic ‘sheep-goat’ research, or some other characteristic of meditation.
+
+In the Bali research (see above), the helpees were as much part of the psi process as the helpers, in that their minds were involved, not merely their physiology, as in the classic DMILS (direct mental influence on living systems) protocol. The Bali participants showed a different level of response to the practice from the Westerners who participated in the USA and Edinburgh trials. This suggests that their ability to focus, or to notice that the mind had wandered, or to admit noticing that the mind had wandered - as measured by the number of button presses - differed from the Westerners.
+
+Beginners tend not to notice the degree to which their mind is distracted; practice increases awareness of the subtler levels of distraction. The Balinese by contrast had taken part in daily pujas (prayer) since childhood - pujas being considered by Tibetans be a preliminary to meditation.50 Thus it is possible that the Balinese had more focused minds than the Westerners, who most probably neither prayed, memorized scriptures, nor performed any other task that trains mental control.51
+
+It is also possible that the Balinese participants were conforming to the experimenter’s wishes and, believing that fewer button presses were considered better, performed accordingly. In the East conformance to authority is far stronger than in the West. Conformance may also explain much of the early meditation-psi research where there was psi-missing prior to the meditation and psi-hitting after.
+
+Karma Yoga has a number of attributes that may be found to be psi-conducive. Equanimity is one very important attribute, in which one is disturbed by neither success nor failure; absence of expectation and right motivation are considered vital for the correct attitude towards the tasks one is undertaking; and of course there must be egolessness, an essential humility, so that one is not affected emotionally by the outcome of the session. These are basic attitudes to life in both Buddhist and Yogic cultures and may facilitate psi experience. The Tibetan monks agreed to participate in our studies on condition that their purpose would be for general benefit, and insisted on remaining anonymous.
+
+Further, in the East there is a different approach and attitude to experimental testing. The Yogis and Tibetans were comfortable about demonstrating psychic effects, but less so with regard to the science.52
+
+Psi was used extensively for practical purposes in traditional Tibetan culture before the Chinese invasion. Most villages had a diviner. The monasteries had an oracle, a monk who went into an altered state of consciousness for the purpose of divination, while monks also practiced other forms of divination.53 These people were highly respected members of their communities.54&nbsp;
+
+By contrast, the science was no problem for the Western Buddhist meditators who participated in experiments in Scotland,55 but the psi created considerable internal conflict for them. It is probable that this cultural attitude depressed psi scoring in this study.  Setting
+
+When working with participants as meditators it is important to create a setting that accords with their personal experience.56 Many researchers take steps to make their participants as comfortable as possible, but meditators require a more specific arrangement. Some find their practice enhanced by meditating in a favourite place, and this may also help enhance psi-scoring.
+
+Serena Roney-Dougal  Literature
+
+Bancel, P. (1999). Report on ICRL Internship at PEAR: REG Experiments with meditation practitioners. [Unpublished manuscript.]
+
+Bierman, D. (2007). fMRI and photoemission study of presentiment: The role of&nbsp;"coherence”&nbsp;in retrocausal processes. [Final report for Bial Grant 34/04. Unpublished manuscript.]
+
+Bierman, D. (2010). The potential anomalous component of intuition: Empirical evidence and an integrated theoretical approach. In&nbsp;Behind and Beyond the Brain, ed by&nbsp;F. Lopes da Silva, A. Castro-Caldas, C. Watt, D. Bierman, M. Cardoso, &amp; R.M.&nbsp;Cardoso,&nbsp;95-109. (8th Bial&nbsp;Symposium). Porto, Portugal: Fundação Bial.
+
+Brady, C., &amp; Morris, R.L. (1997). Attention focusing facilitated through remote mental interaction: A replication and exploration of parameters. The Parapsychological Association 40th Annual Convention proceedings of presented papers, 73–91. Durham, North Carolina, USA: Parapsychological Association.
+
+Braud, L.W., &amp; Boston, D.A. (1986). Target preference and clairvoyance in selected subjects following relaxation induction. In&nbsp;&nbsp;Research in Parapsychology 1985, ed. by&nbsp;D.H. Weiner &amp; D.I. Radin,&nbsp;25-28. Metuchen, New Jersey, USA: Scarecrow Press.
+
+Braud, W.G. (1974). Relaxation as a psi-conducive state. Bulletin of the the Psychonomic Society&nbsp;3, 115-18.
+
+Braud W.G. (1975). Psi-conducive States. Journal of Communication&nbsp;25, 142-52.
+
+Braud, W.G. (1978). Psi-conducive conditions: Explorations and interpretations. In Psi and States of Awareness, ed. by&nbsp;B. Shapin &amp; L. Coly,&nbsp;1-41. New York: Parapsychology&nbsp;Foundation.
+
+Braud, W.G. (1990). Meditation and psychokinesis. Parapsychology Review&nbsp;21, 9-11.
+
+Braud, W.G. (2002). Psi-favourable conditions. In&nbsp;New Frontiers of Human Science, ed. by&nbsp;V.G. Ramohan,&nbsp;95-118.&nbsp;Jefferson, North Carolina: McFarland.
+
+Braud, W. G. (2006). Patanjali yoga and siddhis: Their relevance to parapsychological theory and research. In Handbook of Indian Psychology, ed. by&nbsp;K. R. Rao, M. Cornelissen, &amp; J. Dalal . Delhi: Motilal Banarsidass.
+
+Braud, W.G., &amp; Hartgrove, J. (1976). Clairvoyance and psychokinesis in transcendental meditators and matched control subjects: A preliminary study. European Journal of Parapsychology, 1, 6–16.
+
+Braud, W.G., Shafer, D., McNeill, K., &amp; Guerra, V. (1995). Attention focusing facilitated through remote mental interaction. Journal of the the American Society for Psychical Research&nbsp;89, 103-15.
+
+Cahn, B.R., &amp; Polich, J. (2006). Meditation states and traits: EEG, ERP, and neuroimaging studies. Psychological Bulletin&nbsp;132, 180-211.
+
+Cardeña, E. (2009). Beyond Plato? Toward a science of alterations of consciousness. In Utrecht II: Charting the future of parapsychology, ed. by&nbsp;C. A. Roe, W. Kramer, &amp; L. Coly, 305-22. New York: Parapsychology Foundation.
+
+Carpenter, J. (2012). First Sght: ESP and Parapsychology in Everyday Life. Lanham, Maryland, USA: Rowman &amp; Littlefield.
+
+Carpenter, J., &amp; Simmonds-Moore, C. (2009). ESP contribution to the unconscious formation of a preference. Paper presented at the 52nd Convention of the Parapsychological Association, Seattle, USA.
+
+Conze, E. (trans. &amp; ed.) (1995). The Large Sutra on Perfect Wisdom.&nbsp;New Delhi: Motilal Banarsidas
+
+Dalai Lama, H.H. (2002). Freedom in Exile. London: Abacus.
+
+Dukhan, H. &amp; Rao, K.R. (1973). Meditation and ESP scoring. In Research in Parapsychology 1972, ed. by&nbsp;W.G. Roll, R.L. Morris, &amp; J.D. Morris,&nbsp;148-51. Metuchen, New Jersey: Scarecrow Press.
+
+Edge, H, Suryani, L.K. &amp; Morris, R.L. (2007). Pursuing psi in a non-Euro American culture: Behavioural DMILS in Bali. Final report for Bial Grant 127/02. [Unpublished ms.].
+
+Edge, H, Suryani, L.K., Tiliopoulos, N., Bikker, A., &amp; James, R. (2008). Comparing conscious and physiological measurements in a cognitive DMILS study in Bali. Final report for Bial Grant 116/04. [Unpublished ms.].
+
+Edge, H, Suryani, L.K, Tiliopoulos, N., &amp; Morris, R.L. (2004). Two cognitive DMILS studies in Bali. Journal of Parapsychology&nbsp;68, 289-321.
+
+Haraldsson, E. (2013). Modern Miracles: Sathya Sai Baba, the Story of a Modern Day Prophet. Guildford, UK: White Crow Books.
+
+Harding, S.E., &amp; Thalbourne, M.A. (1981). Transcendental meditation, clairvoyant ability and psychological adjustment. In Research in Parapsychology 1980, ed. by&nbsp;W.G.Roll &amp; J. Beloff,&nbsp;71-73. Metuchen, New Jersey, USA: Scarecrow Press.
+
+Honorton, C. (1977a). Psi and internal attention states. In Handbook of Parapsychology, ed. by B.B. Wolman,&nbsp;435-72, New York: Van Nostrand Rheinhold.
+
+Honorton, C. (1977b). Effects of meditation and feedback on psychokinetic performance: A pilot study with an instructor of Transcendental Meditation. In Research in Parapsychology 1976, ed. by&nbsp;J.D. Morris, W.G. Roll, &amp; R.L. Morris, 95-97. Metuchen, NJ: Scarecrow Press.
+
+Honorton, C. (1981). Psi, internal attention states and the Yoga Sutras of Patanjali. In&nbsp;Concepts and Theories of Parapsychology, ed. by&nbsp;B. Shapin &amp; L. Coly, 55-68. New York:&nbsp;Parapsychology Foundation.
+
+Honorton, C., &amp; May, E. (1976). Volitional control in a psychokinetic task with auditory and visual feedback. In Research in Parapsychology 1975, ed. by&nbsp;J.D. Morris, W.G. Roll, &amp; R.L. Morris, 90–91. Metuchen, New Jersey, USA: Scarecrow Press.
+
+Ivtzan, I. (2008). Meditation on consciousness. Journal of Scientific Exploration&nbsp;22, 147-60.
+
+Kozak, L., Johnson, L.C., Richards, T., King, H., Standish, L.J., Schlitz, M.J., Simon, D., &amp; Chopra, D. (2003). EEG evidence of correlated neural signals between physically and sensory isolated subjects who have undergone Primordial Sound Meditation (PSM) training. [Unpublished manuscript.]
+
+Kubose, S.K. (1976). An experimental investigation of psychological aspects of meditation. Psychologia&nbsp;19, 1-10.
+
+Lamrimpa, G.&nbsp;(1995). Calming The Mind: Tibetan Buddhist Teachings on Cultivating Meditative Quiescence. Ithaca, New York, USA: Snow Lion.
+
+Lobach, E. (2010). Somatic component of intuition and psi. In Behind and Beyond the Brain, ed. by F. Lopes da Silva, A. Castro-Caldas, C. Watt, D. Bierman, M. Cardoso, &amp; R.M. Cardoso, 75-85. 8th Bial&nbsp;Symposium. Porto, Portugal: Fundação Bial.
+
+MacLean, K.A., Ferrer, E., Aichele, S.R., Bridwell, D.A., Zanesco, A.P., Jacobs, T.L., &amp; Saron, C.D. (2010). Intensive meditation training leads to improvements in perceptual discrimination and sustained attention. Psychological Science&nbsp;21, 829-39.
+
+Mason, L.I., Patterson, R.P., &amp; Radin, D.I. (2007).&nbsp;Exploratory study: The random number generator and group meditation. Journal of Scientific Exploration&nbsp;21, 295-317.
+
+Matas, F., &amp; Pantas, L. (1971). A PK experiment comparing meditating versus non-meditating subjects. Proceedings of the the Parapsychological Association&nbsp;8, 12-13.
+
+Nash, C.B. (1982). Hypnosis and transcendental meditation as inducers of ESP. Parapsychology Review&nbsp;13, 19-20.
+
+Nelson, R.D. (1999-2013). Global Consciousness Project.&nbsp;Peace meditations. [Available at: noosphere.princeton.edu]
+
+Nelson, R.D., Jahn, R.G., Dunne, B.J., &amp; Dobynes, Y.H. (1998). Field REG II: Consciousness field effect: Replication and explorations.&nbsp;Journal of Scientific Exploration&nbsp;22, 425-54.
+
+Osis, K., &amp; Bokert, E. (1971). ESP and changed states of consciousness induced by&nbsp;meditation. Journal of the American Society for Psychical Research&nbsp;65, 245-88.
+
+Palmer, J., Khamashta, K., &amp; Israelson, K. (1979). An ESP ganzfeld experiment with Transcendental Meditators. Journal of the American Society for Psychical Research&nbsp;73, 333-48.
+
+Radin, D. (2008). Testing nonlocal observation as a source of intuitive knowledge.&nbsp;Explore&nbsp;4, 25-35.
+
+Radin, D. (2013). Supernormal: Science, Yoga and the Evidence for Psychic Abilities. New York, NY: Deepak Chopra Books.
+
+Radin, D., Michel, L., Galdamez, K., Wendland, P., Rickenbach, R., &amp; Delorme, A. (2012). Consciousness and the double-slit interference pattern: Six experiments, Physics Essays&nbsp;25, 157-71.
+
+Radin, D., Michel, L., Johnston, J., &amp; Delorme, A. (2013). Psychophysical interactions with a double-slit interference pattern.&nbsp;Physics Essays&nbsp;26, 553-66.
+
+Radin, D., Stone, J. Levine, E., Eskandarnejad, S., Schlitz, M., Kozak, L., Mandel, D., &amp; Hayssen, G. (2008). Compassionate intention as a therapeutic intervention by partners of cancer patients: Effects of&nbsp;distant intention on the patients’ autonomic nervous system. Explore&nbsp;4, 235-43.
+
+Radin, D., Vieten, C., Michel, L., &amp; Delorme, A. (2011). Electrocortical activity prior to unpredictable stimuli in meditators and nonmeditators. Explore&nbsp;7, 286-99.
+
+Rao, K.R., Duckan, H., &amp; Rao, P.V.K. (1978). Yogic meditation and psi scoring in forced-choice and free-response tests. Journal of Indian Psychology&nbsp;1, 160-75.
+
+Rao, K.R., &amp; Puri, I. (1978). Subsensory perception (SSP), Extrasensory perception (ESP) and transcendental meditation (TM). Journal of Indian Psychology&nbsp;1, 69-74.
+
+Rao, P.V.K., &amp;&nbsp;Rao, K.R. (1982). Two studies of ESP and subliminal perception.&nbsp;Journal of Parapsychology&nbsp;46, 185-207.
+
+Roe, C.A. (2010). The role of altered states of consciousness in extrasensory experiences. In Anomalous Experiences: Essays from Parapsychological and Psychological Perspectives, ed. by&nbsp;M. Smith,&nbsp;25-49. Jefferson, North Carolina, USA:&nbsp;McFarland.
+
+Roll, W.G., Solfvin, G.F., Krieger, J., Ray, D., &amp; Younts, L (1980). Psi scoring on individual and group targets before and after meditation. In&nbsp;Research in Parapsychology 1979, ed by W.G. Roll, 172-74.&nbsp;Metuchen, New Jersey, USA: Scarecrow Press.
+
+Roll, W.G., &amp; Zill, R. (1981). Psi scoring on individual and group targets before and after meditation. In Research in Parapsychology 1980, ed. by&nbsp;W.G Roll &amp; J. Beloff, 73–75. Metuchen, New Jersey: Scarecrow Press.
+
+Roney-Dougal, S.M. (1986). Subliminal and psi perception: A review of the literature. Journal of the Society for Psychical Research&nbsp;53, 405-34.
+
+Roney-Dougal, S.M. (1987). A comparison of subliminal and psi perception: exploratory and follow-up studies. Journal of the American Society for Psychical Research&nbsp;81, 141-82.
+
+Roney-Dougal, S.M. (2006). Taboo and belief in Tibetan psychic tradition. Journal of the Society of Psychical Research&nbsp;70,&nbsp;193-210.
+
+Roney-Dougal, S.M., Ryan, A., &amp; Luke, D. (2011). Preliminary study of the relationship between local geomagnetic activity, Tibetan Buddhist meditation and psychic awareness. Paper presented at the 54th Parapsychological Association Convention, Curitiba, Brazil.
+
+Roney-Dougal, S.M., Ryan, A., &amp; Luke, D (2013). Follow-up study of the relationship between local geomagnetic activity and psychic awareness. Paper presented at the 56th Parapsychological Association Convention, Viterbo, Italy.
+
+Roney-Dougal, S.M., &amp; Solfvin, J. (2006).Yogic attainment in relation to awareness of precognitive targets. Journal of Parapsychology&nbsp;70, 91-120.
+
+Roney-Dougal, S.M., &amp; Solfvin, J. (2011). Exploring the relationship between Tibetan meditation attainment and precognition. Journal of Scientific Exploration 24, 29-46.
+
+Roney-Dougal, S.M., Solfvin, J., &amp; Fox, J. (2008). An exploration of degree of meditation attainment in relation to psychic awareness with Tibetan Buddhists. Journal of Scientific Exploration&nbsp;22, 161-78.
+
+Satyananda Saraswati, Sw. (1976/2000). Four Chapters on Freedom. Munger, India: Yoga Publications Trust.
+
+Schmeidler, G. (1970). High ESP scores after a swami’s brief instruction in meditation and breathing. Journal of the American Society for Psychical Research&nbsp;64, 100-3.
+
+Schmeidler, G. (1973). PK effects upon continuously recorded temperature. Journal of the American Society for Psychical Research&nbsp;67, 325-40.
+
+Schmeidler, G. (1986). Subliminal perception and ESP: Order in diversity? Journal of the American Society for Psychical Research&nbsp;80, 241-64.
+
+Schmeidler, G. (1994). ESP experiments 1978 – 1992. In Advances in Parapsychological Research&nbsp;7, ed. by&nbsp;S. Krippner,104-97). Jefferson, North Carolina, USA: McFarland.
+
+Schmidt, H., &amp; Pantas, L. (1972). Psi tests with internally different machines. Journal of Parapsychology&nbsp;36, 222-32.
+
+Schmidt, H., &amp; Schlitz, M. (1989). A large-scale pilot PK experiment with pre-recorded random events. In Research in Parapsychology 1988, ed. by&nbsp;L.A. Henkel &amp; R.E. Berger,&nbsp;6-10. Metuchen, New Jersey, USA: Scarecrow Press.
+
+Schmidt, S. (2008). Aristotle’s fly – Remarks on anomaly research and&nbsp;a review on the relationship between meditation and psi. In&nbsp;Behind and Beyond the Brain, ed. by&nbsp;F. Lopes da Silva, A. Castro-Caldas, C. Watt, D. Bierman, &amp; M. Cardoso,&nbsp;73–96. 7th Bial&nbsp;Symposium. Porto, Portugal: Fundação Bial.
+
+Schmidt, S. (2012). Can we help just by good intentions? A meta-analysis of experiments on distant intention effects. Journal of Alternative and Complementary Medicine&nbsp;18, 529-33.
+
+Slagter, H.A., Lutz, A., Greischar, L.L., Nieuwenhuis, S., &amp; Davidson, R.J. (2009). Theta phase synchrony and conscious target perception: Impact of intensive mental training. Journal of Cognitive Neuroscience&nbsp;21, 1536-69.
+
+Stanford, R.G., &amp; Palmer, J. (1973). Meditation prior to the ESP task: An EEG study with an outstanding ESP subject. In Research in Parapsychology 1972, ed. by&nbsp;W.G. Roll, R.L. Morris, &amp; J.D. Morris, 34-36. Metuchen, New Jersey, USA: Scarecrow Press.
+
+Stanford, R.G., &amp; Stevenson, I. (1972). EEG correlates of free-response GESP in an individual subject. Journal of the American Society for Psychical Research&nbsp;66, 357-68.
+
+Strick, M., van Noorden, T.H.J., Ritskes, R.R., de Ruiter, J.R., &amp; Dijksterhuis, A. (2012). Zen meditation and access to information in the unconscious, Consciousness and Cognition 21, 1476-81.
+
+Travis, F., &amp; Shear, J. (2010). Focused attention, open monitoring and automatic self-transcending: Categories to organize meditations from Vedic, Buddhist and Chinese traditions.&nbsp;Consciousness and Cognition 19, 1110-18.
+
+Walach, H., Buchheld, N., Buttenmuller, V., Kleinknecht, N., &amp; Schmidt, S. (2006). Measuring mindfulness—the Freiburg Mindfulness Inventory (FMI). Personality and Individual Differences&nbsp;40, 1543-55.
+
+Wallace, B.A. (2006). The Attention Revolution. Boston, Massachusetts, USA: Wisdom Publications.
+
+Wallace, B.A., &amp; Shapiro, S.L. (2006). Mental balance and well-being: Building bridges between Buddhism and Western psychology. American Psychologist&nbsp;61, 690-701.
+
+Watt, C.A., &amp; Baker, I.S. (2002). Remote facilitation of attention focusing with psi-supportive versus psi-unsupportive experimenter suggestions. Journal of Parapsychology&nbsp;66, 151-68.
+
+Watt, C.A., &amp; Brady, C. (2002). Experimenter effects and the remote facilitation of attention focusing: Two studies and the discovery of an artifact. Journal of Parapsychology&nbsp;66, 49-71.
+
+Watt, C.A., &amp; Ramakers, P. (2003). Experimenter effects with a remote facilitation of attention focusing task: A study with multiple believer and disbeliever experimenters. Journal of Parapsychology&nbsp;67, 99-116.
+
+Winnett, R., &amp; Honorton, C. (1977). Effects of meditation and feedback on psychokinetic performance: Results with practitioners of Japa yoga. In Research in Parapsychology 1976, ed. by&nbsp;J.D. Morris, W.G. Roll, &amp; R.L. Morris,&nbsp;97-98. Metuchen, New Jersey: Scarecrow Press.
+
+Yogananda, P. (1996). Autobiography of a Yogi (new ed.). London: Rider.
+
+&nbsp;
+
+Table 1: Honorton’s data base as reported in the 1977 Handbook    	 		 			
+
+Year of report 			 			
+
+Author/s 			 			
+
+Receptive/PK 			 			
+
+Trait/state 			 			
+
+Significance of psi score 			 			
+
+Comparison with control 			 		 		 			
+
+1970 			 			
+
+Schmeidler 			 			
+
+receptive 			 			
+
+state 			 			
+
+.01 			 			
+
+Pre vs post-meditation 			 		 		 			
+
+1971 			 			
+
+Osis &amp; Bokert – 3 studies 			 			
+
+receptive 			 			
+
+state 			 			
+
+No analysis of psi score 			 			
+
+&nbsp; 			 		 		 			
+
+1971 			 			
+
+Matas &amp; Pantas 			 			
+
+PK 			 			
+
+State and trait 			 			
+
+.014 			 			
+
+Sig. better than control .003 			 		 		 			
+
+1972 			 			
+
+Stanford &amp; Stevenson 			 			
+
+receptive 			 			
+
+state 			 			
+
+ns 			 			
+
+none 			 		 		 			
+
+1972 			 			
+
+Schmidt &amp; Pantas – 3 studies 			 			
+
+PK 			 			
+
+state 			 			.012;
+
+6.3 x 10-5;
+
+.009 			 			
+
+none 			 		 		 			
+
+1973 			 			
+
+Dukhan &amp; Rao – 3 studies 			 			
+
+receptive 			 			
+
+state and trait 			 			
+
+Combined p &lt;10-4 			 			
+
+Pre vs post-meditation 			 		 		 			
+
+1973 			 			
+
+Stanford &amp; Palmer 			 			
+
+receptive 			 			
+
+state 			 			
+
+ns 			 			
+
+none 			 		 		 			
+
+1976 			 			
+
+Honorton &amp; May 			 			
+
+PK 			 			
+
+trait 			 			
+
+.035 			 			
+
+none
+
+&nbsp;
+
+Table 2a: Schmeidler’s data base as reported in Advances vol.7 (1992) + 3 studies   	 		 			
+
+Year of report 			 			
+
+Author/s 			 			
+
+Receptive/PK 			 			
+
+Trait/state 			 			
+
+Significance of psi score 			 			
+
+Comparison with control 			 		 		 			
+
+1978 			 			
+
+Rao &amp; Puri 			 			
+
+receptive 			 			
+
+trait 			 			
+
+No analysis of psi score 			 			
+
+Subliminal vs. psi &lt;.05 			 		 		 			
+
+1978 			 			
+
+Rao, Dukhan &amp; Rao 			 			
+
+receptive 			 			
+
+state and trait 			 			
+
+.001 			 			
+
+Pre vs post meditation .001 			 		 		 			
+
+1979 			 			
+
+Palmer, Khamashta &amp; Israelson 			 			
+
+receptive 			 			
+
+trait 			 			
+
+ns/.075 			 			
+
+none 			 		 		 			
+
+1979 			 			
+
+Roll et al 			 			
+
+receptive 			 			
+
+state 			 			
+
+.05 			 			
+
+Pre vs. post meditation &lt;.03 			 		 		 			
+
+1981 			 			
+
+Roll &amp; Zill 			 			
+
+receptive 			 			
+
+state 			 			
+
+.02 			 			
+
+Pre vs post meditation &lt;.005 			 		 		 			
+
+1981 			 			
+
+Harding &amp; Thalbourne 			 			
+
+receptive 			 			
+
+state and trait 			 			
+
+ns 			 			
+
+Beginners vs advanced 			 		 		 			
+
+1982 			 			
+
+Nash 			 			
+
+receptive 			 			
+
+state 			 			
+
+ns 			 			
+
+Hypnosis psi comparison 			 		 		 			
+
+1982 			 			
+
+Rao &amp; Rao 			 			
+
+receptive 			 			
+
+trait 			 			
+
+ns 			 			
+
+Subliminal vs psi &lt;.05 			 		 		 			
+
+1986 			 			
+
+Braud &amp; Boston 			 			
+
+receptive 			 			
+
+state &amp; trait 			 			
+
+.025 			 			
+
+none
+
+&nbsp;
+
+Table 2b: Braud’s PK review (1990) (+ Honorton PK studies above)   	 		 			
+
+Year of report 			 			
+
+Author/s 			 			
+
+Receptive/PK 			 			
+
+Trait/state 			 			
+
+Significance of psi score 			 			
+
+Comparison with control 			 		 		 			
+
+1973 			 			
+
+Schmeidler 			 			
+
+PK 			 			
+
+trait 			 			
+
+sig 			 			
+
+&nbsp; 			 		 		 			
+
+1976 			 			
+
+Braud &amp; Hartgrove 			 			PK
+
+receptive 			 			
+
+trait 			 			ns
+
+.02 			 			
+
+ns from control 			 		 		 			
+
+1977 			 			
+
+Winnett &amp; Honorton 			 			
+
+PK 			 			
+
+state 			 			
+
+ns 			 			
+
+Pre vs post meditation 			 		 		 			
+
+1977 			 			
+
+Honorton 			 			
+
+PK 			 			
+
+state &amp; trait 			 			
+
+sig 			 			
+
+Pre vs post meditation 			 		 		 			
+
+1989 			 			
+
+Schmidt &amp; Schlitz 			 			
+
+PK 			 			
+
+trait 			 			
+
+.0005 			 			
+
+Sig better than control
+
+&nbsp;
+
+Table 3: Through to this millennium   	 		 			
+
+Year of report 			 			
+
+Author/s 			 			
+
+Receptive/PK 			 			
+
+Trait/state 			 			
+
+Significance of psi score 			 			
+
+Comparison with control 			 		 		 			
+
+1994 (2013) 			 			
+
+Bem 			 			
+
+receptive 			 			
+
+trait 			 			
+
+sig 			 			
+
+Sig better than control 			 		 		 			1998
+
+&nbsp; 			 			
+
+Nelson, Jahn, Dunne &amp; Dobyns&nbsp;- 3 studies 			 			PK
+
+&nbsp; 			 			
+
+trait 			 			.0004;
+
+ns;
+
+sig 			 			
+
+none 			 		 		 			
+
+1999 			 			
+
+Bancel 			 			
+
+PK 			 			
+
+trait 			 			
+
+ns 			 			
+
+Sig better than PEAR database &lt;.05 			 		 		 			
+
+1999 - 2013 			 			
+
+Nelson et al GCP (20 studies) 			 			
+
+PK 			 			
+
+trait 			 			
+
+Overall ns 			 			
+
+none 			 		 		 			
+
+2003 			 			
+
+Kozak et al 			 			
+
+Receptive/PK 			 			
+
+state 			 			
+
+4 x 10-7 			 			
+
+none 			 		 		 			
+
+2006 			 			
+
+Roney-Dougal &amp; Solfvin – 2 studies 			 			
+
+receptive 			 			
+
+state and trait 			 			.02;
+
+ns 			 			
+
+Beginner vs advanced 			 		 		 			
+
+2007 			 			
+
+Mason, Patterson &amp; Radin – 2 studies 			 			
+
+PK 			 			
+
+state and trait 			 			.00001;
+
+.01 			 			
+
+none 			 		 		 			
+
+2007 			 			
+
+Bierman – 2 studies 			 			
+
+receptive 			 			
+
+state and trait 			 			ns;
+
+ns 			 			
+
+Ns diff from control 			 		 		 			
+
+2008 			 			
+
+Ivtzan 			 			
+
+PK 			 			
+
+state and trait 			 			
+
+.006 			 			
+
+Pre and during meditation 			 		 		 			
+
+2008 			 			
+
+Radin et al. 			 			
+
+PK 			 			
+
+state and trait 			 			
+
+.00009 			 			
+
+2 control groups - ns diff. 			 		 		 			
+
+2008/2012 			 			
+
+Schmidt review of 12 AFFE studies (1995 – 2006) 			 			
+
+PK 			 			
+
+8 trait (and all sort of state!) 			 			4 sig;
+
+8 ns;
+
+overall: .009 			 			
+
+none 			 		 		 			
+
+2008 			 			
+
+Radin 			 			
+
+PK 			 			
+
+trait 			 			
+
+.002 			 			
+
+Sig better than controls 			 		 		 			
+
+2008 			 			
+
+Roney-Dougal, Solfvin &amp; Fox 			 			
+
+receptive 			 			
+
+state and trait 			 			
+
+.05 			 			
+
+Beginners vs advanced 			 		 		 			
+
+2010 			 			
+
+Lobach 			 			
+
+receptive 			 			
+
+Trait 			 			
+
+ns 			 			
+
+Ns diff from control 			 		 		 			
+
+2011 			 			
+
+Radin, Vieten, Michel &amp; Delorme 			 			
+
+receptive 			 			
+
+trait 			 			
+
+.05 			 			Sig diff from control
+
+&lt; .05 			 		 		 			
+
+2011 			 			
+
+Roney-Dougal &amp; Solfvin 			 			
+
+receptive 			 			
+
+state and trait 			 			
+
+ns 			 			
+
+Beginners vs advanced 			 		 		 			
+
+2012 			 			
+
+Radin et al – 6 studies 			 			
+
+PK 			 			
+
+trait 			 			overall:
+
+6 x 10-6 			 			
+
+Sig better than controls 			 		 		 			
+
+2013 			 			
+
+Radin, Michel, Johnston &amp; Delorme – 3 studies 			 			
+
+PK 			 			
+
+trait 			 			2.4 x 10-7;
+
+2.6 x 10-6;
+
+.006 			 			None;
+
+Ns diff than control;
+
+none 			 		 		 			
+
+2013 			 			
+
+Roney-Dougal, Ryan &amp; Luke – 2 studies 			 			
+
+receptive 			 			
+
+state and trait 			 			ns;
+
+ns 			 			
+
+none
+
+&nbsp;   Endnotes 1. Satyananda Saraswati (1976/2000). 2. Conze (1995). 3. Braud (2002, 2006). 4. Radin&nbsp;(2013). 5. Honorton (1981). 6. Lamrimpa (1995). 7. Honorton (1977a). 8. Rao&nbsp;&amp; Puri&nbsp;(1978). 9. Rao &amp;&nbsp;Rao&nbsp;(1982). 10. Roll &amp; Zill (1981). 11. Harding&nbsp;&amp; Thalbourne (1981). 12. Schmeidler&nbsp;(1994). 13. Braud (1990). 14. Braud&nbsp;(1990). 15. Bancel (1999). 16. Nelson, Jahn, Dunne,&nbsp;&amp; Dobyns&nbsp;(1998). 17. Nelson&nbsp;(1999-2013). Global Consciousness Project.&nbsp;Peace meditations. Available at: noosphere.princeton.edu. 18. Radin et.al.&nbsp;(2008). 19. Schmidt (2012). 20. Schmidt (2012). 21. Brady &amp; Morris (1997);&nbsp;Watt &amp; Baker (2002);&nbsp;Watt &amp; Brady (2002);&nbsp;Watt &amp; Ramakers&nbsp;(2003). 22. Braud,&nbsp;Shafer,&nbsp; McNeill, &amp; Guerra&nbsp;(1995). 23. Edge, Suryani, &amp; Morris&nbsp;(2007);&nbsp;Edge, Suryani, Tiliopoulos, Bikker,&nbsp;&amp; James (2008);&nbsp;Edge, Suryani, Tiliopoulos, &amp; Morris (2004). 24. Edge, Suryani, Tiliopoulos,&nbsp;Bikker,&nbsp;&amp; James (2008). 25. Schmidt (2012). 26. Radin (2008). 27. Radin et al. (2012);&nbsp;Radin, Michel, Johnston,&nbsp;&amp; Delorme (2013). 28. Kozak, et al.&nbsp;(2003). 29. Radin, Vieten, Michel, &amp; Delorme (2011). 30. Bierman (2007, 2010). 31. Roney-Dougal &amp; Solfvin&nbsp;(2006). 32. Roney-Dougal &amp; Solfvin (2011);&nbsp;Roney-Dougal,&nbsp;Solfvin, &amp; Fox (2008). 33. Roney-Dougal, Ryan, &amp; Luke (2011, 2013). 34. Cardeña&nbsp;(2009). 35. Roe&nbsp;(2010). 36. Roe (2010);&nbsp;Schmidt (2012). 37. Travis &amp; Shear (2010);&nbsp;Cahn &amp; Polich (2006). 38. Carpenter (2012). 39. Roney-Dougal (1986);&nbsp;Schmeidler (1986). 40. Roney-Dougal (1987);&nbsp;Carpenter &amp; Simmonds-Moore (2009). 41. Strick et. al. (2012). 42. Kubose. (1976);&nbsp;Slagter et al. (2009). 43. Wallace (2006);&nbsp;Wallace, &amp; Shapiro&nbsp;(2006);&nbsp;MacLean et al. (2010). 44. Schmidt (2008). 45. Personal communication from Charles Tart, 2013. 46. Roney-Dougal &amp; Solfvin (2011);&nbsp;Roney-Dougal,&nbsp;Ryan, &amp; Luke (2013). 47. Walach et al.&nbsp;(2006). 48. Roney-Dougal &amp; Solfvin (2011). 49. Roney-Dougal&nbsp;&amp; Solfvin (2011). 50. Roney-Dougal &amp; Solfvin (2011). 51. Edge, Suryani, Tiliopoulos,&nbsp;&amp; Morris (2004). 52. Roney-Dougal&amp; Solfvin (2011). 53. Roney-Dougal&nbsp;(2006). 54. Dalai Lama&nbsp;(2002). 55. Roney-Dougal, Ryan, &amp; Luke&nbsp;(2013). 56. Personal communication from P. Bancel, 2013.           			  			     			This page was last updated on: January 26, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Serena Roney-Dougal Word count: 7,500 Created: 10th March 2015 Last updated: 26th January 2023 May be cited as:Roney-Dougal, S. (2015). &lsquo;Meditation and Psi&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/meditation-and-psi&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y387un55                   	                                             See also:      Altered States of Consciousness and Psi Experimental Parapsychology                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/meditation-and-psi

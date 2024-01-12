@@ -3,13 +3,21 @@ include_once "header.php";
 
 if (isset($_POST['action']) && isset($_POST['oldindex']) && trim($_POST['oldindex']) != "") {
     if ($_POST['action'] === "add" && isset($_POST['newindex']) && trim($_POST['newindex']) != "") {
-        $exists = $_wordindex->findBy(["name", "=", $_POST['newindex']]);
+        $stmt = $db->query("SELECT value FROM wordindex WHERE name=:name");
+        $stmt->bindValue(':name', $_POST['newindex'], SQLITE3_TEXT);
+        $exists = ($stmt->execute())->fetchArray()[0];
         if (!isset($exists[0])) {
-            $_wordindex->updateOrInsert(["name" => $_POST['newindex'], "value" => $_POST['oldindex']]);
+            $stmt  = $db->prepare ("INSERT INTO wordindex (name,value) values (:name,:value);");
+            $stmt->bindValue(':name', $_POST['newindex'], SQLITE3_TEXT);
+            $stmt->bindValue(':value', $_POST['oldindex'], SQLITE3_TEXT);
+            $stmt->execute();
+
         }
     }
     if ($_POST['action'] === "del") {
-        $_wordindex->deleteBy(["name", "=", $_POST['oldindex']]);
+        $stmt  = $db->prepare ("IDELETE FROM wordindex WHERE name=:name;");
+        $stmt->bindValue(':name', $_POST['oldindex'], SQLITE3_TEXT);
+        $stmt->execute();
     }
     unset($_GET);
     unset($_POST);

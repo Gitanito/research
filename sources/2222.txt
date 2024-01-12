@@ -1,0 +1,64 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/rudi-schneider-investigated-eugene-osty","mytitle":"Rudi Schneider Investigated by Eugene Osty | Psi Encyclopedia","mylang":"de"}
+                     Rudi Schneider Investigated by Eugene Osty | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Rudi Schneider Investigated by Eugene Osty                                                                                                                                                                                                                          This case study describes experiments undertaken in Paris&nbsp;by French researcher Eugene Osty working with the Austrian physical medium Rudi Schneider. The experiments were notable for the use of instruments that picked up a psychokinetic force and established beyond doubt that the phenomenon was genuine.&nbsp;   Contents   	Introduction 	Details 	Counter-Explanations and Rebuttals 	Literature 	Endnotes     Introduction
+
+The Austrian Rudi Schneider (1909-1957) is a transitional figure in parapsychology. His career as a physical medium helped mark the end of spiritualism’s heyday, and his case occupies an intermediate position between traditional studies of séance-room physical phenomena and modern quantitative experiments in psychokinesis. Although ingenious mechanical devices had been used before to study the phenomena of mediumship,1 Rudi’s case was the first in which state-of-the-art electrical equipment played a central role. The phenomena studied by means of this equipment were much less dramatic than those of previous physical mediums. But because the experiments seem exceptionally clean methodologically, many regard them as especially important.  Details
+
+The experiments were carried out in 1930 by psychical researcher Eugene Osty at the Institut Métapsychique International in Paris;2 the results were later replicated in England.3 Rudi produced his phenomena – chiefly the movement of objects at a distance – in darkness or in low light. So Osty devised an innovative technique for experimenting under those conditions. His method was to use a variant of the photoelectric cell to detect surreptitious movement of the medium. An infrared beam directed over the séance table guarded the object to be displaced (e.g., a handkerchief or flower). At first, Osty connected the infrared apparatus to four cameras, so that when the beam was interrupted, photos were taken. But although the cameras were triggered during the initial tests, the photos showed nothing unusual; Rudi had not been caught in the act of manually moving the test objects. Osty then replaced the cameras with a bell. If the medium escaped from the controller and tried normally to move the object, the beam would be intercepted and the alarm would ring.
+
+It so happened that the bell did ring, even though the medium seemed to be entranced and controlled. In fact, sometimes the bell rang for intervals of between 30 to 100 seconds. Photos taken during these extended periods of bell ringing again failed to reveal Rudi cheating. The photos showed him hunched over as usual, with his head sunk forward, his hands held, and his knees between those of the controllers. Nothing was photographed as being in the path of the infrared beam. And when the beam was illuminated to see more clearly what, if anything, triggered the alarm, the bell stopped, as if normal light inhibited the phenomena.
+
+The experimenters also noted that on many of the occasions when the alarm was triggered, the test object had not been moved. So they decided to concentrate simply on the phenomenon of the interception of the infrared beam. In place of the bell they connected a galvanometer to a photographic recording drum designed to produce a continuous graph of the intensity and duration of the beam’s deflection. To their surprise, they found that the interference was never as complete as it would have been had a solid object deflected the beam. Absorption of the beam ranged from 1% to 75%, with the majority between 5% and 35%. Moreover, some of the largest deflections occurred while the area occupied by the beam was illuminated in red light, visible to the sitters.
+
+Eventually, the experimenters decided they wanted finer-grained evidence of the nature of the deflections. So they replaced the galvanometer with a newer, faster-acting model. With this device, the experimenters observed that the infrared absorptions corresponded to Rudi’s loud and rapid breathing. During trance, Rudi’s rate and volume of respiration increased dramatically, and it turned out that each inhalation and exhalation corresponded to a deflection. The experimenters described the phenomenon in terms of the deflection of the beam by an ‘invisible substance’ whose rate of vibration was double that of Rudi’s respiration (e.g., at 5 vibrations per second, Rudi breathed 2.5 times). This result seemed to show that the absorptions were somehow produced by him and were correlated with his breathing.
+
+Once the experimenters discovered the correlation, they arranged to record the movements of Rudi’s chest and the infrared absorptions together on the same chart. The results verified their earlier observations. It was conclusive that Rudi was not using a confederate, while the number of absorptions/breaths varied in such a way as to rule out the hypothesis that he was producing them himself mechanically and by stealth.4  Counter-Explanations and Rebuttals
+
+Counter-explanations offered by skeptics were answered by the physicist Lord Rayleigh (Robert Strutt):5  
+
+[I]t is suggested that Schneider had a confederate in the room, or that he succeeded in evading control. In some investigations, for example, those concerned with Eusapia Paladino, such questions were fundamental. I do not think they are so here. It is useless to suggest that Schneider might have evaded control unless that will help us to explain how he could have produced the periodic absorption at this very high frequency, in exact time with his breathings. Again, as regards the hypothesis of confederacy … the connexion with his breathings indicate that&nbsp;he,&nbsp;and not a confederate, is producing the effects.&nbsp;
+
+Rayleigh also points out the implausibility of supposing that Rudi cunningly prepared a trick to produce the phenomena. For one thing, the correlations between absorptions and breaths was not discovered until the experiment was well under way and only after Osty introduced the use of the fast-acting galvanometer, an instrument unfamiliar to most physicists of the time. It is highly unlikely that Rudi knew about it either, and even less likely that he planned a &nbsp;‘performance’ on the assumption that the experimenters would eventually have recourse to that device.6  Literature
+
+Besterman, T. (1932). "The Mediumship of Rudi Schneider." Proceedings of the Society for Psychical Research, 40: 428-436.
+
+Braude, S.E. (1997). The Limits of Influence: Psychokinesis and the Philosophy of Science, Revised Edition. Lanham, MD: University Press of America.
+
+Crookes, W. (1874). Researches in the Phenomena of Spiritualism. London: J. Burns.
+
+Dingwall, E.J. (1922). "Physical Phenomena Recently Observed with the Medium Willy Schneider at Munich." Journal of the American Society for Psychical Research, 16: 687-698.
+
+Dingwall, E.J. (1926). "A Report on a Series of Sittings with the Medium Willy Schneider." Proceedings of the Society for Psychical Research, 36: 1-33.
+
+Gauld, A. (1978). "Review of A. Gregory’s “Anatomy of a Fraud” [Gregory, 1977]." Journal of the Society for Psychical Research, 49: 828-835.
+
+Gauld, A. (1979). "Letter to the Journal." Journal of the Society for Psychical Research, 50: 46-47.
+
+Gregory, A. (1977). "Anatomy of a Fraud." Annals of Science, 34: 449-549.
+
+Gregory, A. (1979). "Letter to the Journal." Journal of the Society for Psychical Research, 50: 40-42. Comment on Gauld, 1978.
+
+Gregory, A. (1985). The Strange Case of Rudi Schneider. Metuchen, NJ &amp; London: Scarecrow Press.
+
+Hope, L.C. (1934). "A Note on the Recent Experiments with Rudi Schneider." Proceedings of the Society for Psychical Research, 42: 310-315.
+
+Hope, L.C., Herbert, C.V.C., Rayleigh, L., et al. (1933). "Report on a Series of Sittings with Rudi Schneider." Proceedings of the Society for Psychical Research, 41: 255-330.
+
+Inglis, B. (1984). Science and Parascience: A History of the Paranormal 1914-1939. London: Hodder &amp; Stoughton.
+
+Medhurst, R.G., Goldney, K.M., &amp; Barrington, M.R. (Eds.). (1972). Crookes and the Spirit World. New York: Taplinger.
+
+Osty, E. (1933). Supernormal Aspects of Energy and Matter. London: Society for Psychical Research.
+
+Osty, E., &amp; Osty, M. (1931/32). "Les Pourvoirs Inconnus de L’Espirit sur la Matire." Revue Métapsychique, 11: 393-427; 12: 1-59, 81-122.
+
+Rayleigh, Lord (Robert Strutt). (1938). "The Problem of Physical Phenomena in Connection with Psychical Research." Proceedings of the Society for Psychical Research, 45: 1-18.
+
+Schrenck Notzing, B.v. (1923). Phenomena of Materialisation (E.E. Fournier d'Albe, Trans.). New York: Dutton. (Reprinted: New York: Arno Press, 1975; Mokelumne Hill, CA: Health Research, 1970).   Endnotes 1. See, e.g., some of Crookes’s experiments with D.D. Home in Crookes, 1874; Medhurst, Goldney, &amp; Barrington, 1972. 2. see Osty, 1933; Osty &amp; Osty, 1931/32; also, Besterman, 1932. 3. Hope et al., 1933; also Hope, 1934. 4. See Rayleigh, 1938, pp. 14-15. 5. Rayleigh, 1938, pp. 13ff. 6. This essay has been adapted from the discussion of Rudi in Braude, 1997.           			  			     			This page was last updated on: September 28, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Stephen E Braude Word count: 1,300 Created: 8th May 2016 Last updated: 28th September 2022 May be cited as:Braude, S. E (2016). &lsquo;Rudi Schneider Investigated by Eugene Osty&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/rudi-schneider-investigated-eugene-osty&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y5pe9n6v                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/rudi-schneider-investigated-eugene-osty

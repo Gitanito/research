@@ -1,0 +1,158 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/presentiment","mytitle":"Presentiment | Psi Encyclopedia","mylang":"de"}
+                     Presentiment | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Presentiment                                                                                                                                                                                                                          Since the 1990s, parapsychologists have carried out research into an unconscious form of precognition termed presentiment. Using experimental techniques well-established in psychophysiology, subjects in controlled experiments have been found to unconsciously anticipate stimuli to which they are randomly exposed, to a degree that is highly statistically significant. The effect is small but the findings have been widely replicated.&nbsp;   Contents   	Background 	Presentiment 	Early Presentiment Studies 	Contemporary Literature 	Presentiment Meta-Analyses&nbsp; 	Accidental Presentiment 	Literature 	Endnotes     Background
+
+Psychophysiology is the scientific discipline that studies mind-body &nbsp;interactions. It involves development of techniques to study correlations between the inner world of subjective experience, including perception, cognition, and emotion, and the outer world of objective bodily responses, including the nervous and cardiovascular systems. This discipline has become increasingly important in studying the nature of psychic phenomena because it provides objective ways to probe the unconscious mind, which is where psychic information is thought to first arise.1 Such impressions, operating below the level of conscious awareness, can manifest as subtle changes in the body and may be noticed in the form of chills, stomach clenching or other visceral sensations, heart palpitations, and the presence of goose bumps.2&nbsp;
+
+The idea that the mind has both conscious and unconscious aspects is often traced to the origins of psychoanalysis and Sigmund Freud (1856-1939).3 But there are much earlier indications that people suspected the mind is composed of more than conscious awareness. Struggles between the conscious and unconscious mind can be seen in Shakespeare’s play, The Tempest. From a metaphysical perspective the concept of the soul, assumed to be a component of one’s essential self but not part of everyday conscious experience,4 harkens back to the origins of human history. And hints that unconscious influences played a role in the shamanic practice go to prehistorical times.5
+
+Today, the study of unconscious behavior is a hot topic in psychology and the neurosciences. The prevailing view is that conscious awareness is an important component of the mind but is just a veneer compared to powerful influences lurking in the depths.6 The unconscious builds defenses to protect the conscious mind from emotionally painful thoughts or memories; it influences what we see, and it biases our decisions. This means that our sense of everyday reality is mediated through many filters, and thus it is hardly surprising that subtle psychic impressions are usually overwhelmed by more pressing, immediate concerns. It is also not surprising, then, that that psychic effects studied in the laboratory can be difficult – but fortunately not impossible – to produce on demand.
+
+Detection of unconscious influences in bodily reactions does not provide the same type or level of detail that is available to conscious awareness. But it does provide a way to explore mental activity that is otherwise not available. Using such techniques, telepathy has been explored by looking for correlations in brain activity between pairs of isolated or distant friends. Clairvoyance and precognition have been studied by measuring changes in brain activity, heart rate, skin conductance, and pupil dilation when a person accurately versus inaccurately describes targets distant in space or time. Precognition has been studied by measuring physiological responses before being exposed to unpredictable stimuli. And psychokinetic interactions have been investigated by studying physiological states during periods of successful versus unsuccessful influence of distant physical systems.&nbsp;  Presentiment
+
+Because the literature on psychophysiological methods in psi research is vast, this article focuses on just one topic: presentiment. The term refers to an unconscious form of precognition, that is, pre-feeling (sentiment) as compared to pre-knowing (cognition). The basic hypothesis in a presentiment experiment is that physiological activity recorded before an unpredictable event will correlate with the physiological response observed after exposure to that event.
+
+In a typical presentiment experience, you might be driving down the road on a route taken a thousand times before. You approach an intersection with a signal light. Your signal is green, the cars on the cross road are all waiting patiently at their red light, but instead of doing what you usually do – speed up to get through the intersection before the light changes – for some odd reason you just don’t feel good about this intersection. So you approach it warily and slow down. Suddenly a car that was hidden by a large truck blasts through the red light at high speed. You realize to your shock that if you had not slowed down, your car would have been hit broadside at high speed, causing a major accident. This strange feeling that caused you to slow down, or change your usual behavior in some way, is how presentiment commonly manifests in the everyday world.&nbsp;
+
+The idea that the future can affect the past (or present) might seem to violate one or more physical laws. But this is not the case. At the macroscopic scale, Einstein showed that space and time are flexible and relative, not strict absolutes. And at the quantum scale, models for retrocausal effects are topics of serious discussion.7 All this says that our best theories of the physical world are actually compatible with the single most puzzling feature of psychic phenomena – they are not constrained by either spatial or temporal boundaries. Thus, presentiment effects might seem odd, but the only thing they violate is everyday common sense. And science has shown that common sense, which is based on ordinary sensory experience, is a very limited view of reality.  Early Presentiment Studies
+
+Perhaps the origin of presentiment experiments was a proposal offered by the British statistician Irving J Good. In 1961, he reported an idea mentioned by his brother (in 1946) in a 1961 issue of the Journal of Parapsychology. Good wrote:  
+
+A man is placed in a dark room, in which a light is flashed at random moments of time … The man's EEG (electroencephalogram) is recorded on one track of a magnetic tape, and the flashes of light on another. The tape is then analyzed statistically to see if the EEG shows any tendency to forecast the flashes of light.8
+
+Some fifteen years later, Jerry Levin and James Kennedy, staff members at JB Rhine’s Institute for Parapsychology at Duke University (now known as the Rhine Research Center) at the time, tested an idea similar to Good’s. They explored if contingent negative variation (CNV), an unconscious brainwave indicator of anticipation, could detect a stimulus that would appear in the future at a random time.9 The experiment resulted in a significant difference in the CNV response. Several years later, John Hartwell replicated their design and saw outcomes in the predicted direction. But the effects were small and not statistically significant.10
+
+Around the same time, physicist Zoltan Vassy reported an experiment that combined elements of telepathy and presentiment.11 At an unpredictable time a ‘sender’ received an electrical shock; three seconds later a distant ‘receiver’ also received a shock. The skin conductance of the receiver was examined at the same time that the sender was shocked to see if the sender’s experience might alert the receiver. Six of ten experimental sessions showed significant reactions in the receivers, but given that the design confounded telepathy and presentiment, it was not clear what the receivers were responding to.  Contemporary Literature
+
+Two decades later, Dean Radin developed a new type of presentiment experiment. In 1997, while at the University of Nevada, he designed an experiment that used photographs ranging from calm to emotionally positive and negative. The photos were presented in a random order, and the emotional images were used to evoke the context most often associated with spontaneous precognitive experiences. Radin predicted that if people unconsciously sensed what they were about to see, their sympathetic nervous system should become activated before they saw emotional pictures, but should stay calm before calm photos. The outcome, detected via changes in skin conductance, was statistically significant.12
+
+Later that year, University of Amsterdam psychologist Dick Bierman reported a successful replication.13 This led to numerous replications using a wide range physiological measures, including heart rate, peripheral blood flow, pupil dilation, brain electrical activity, and brain blood oxygenation.14 The stimuli used in the replications also had a wide range, from calm and emotional photographs, to sad and happy cartoon faces, loud sounds versus silence, and light flashes or no flashes. Most of these experiments used truly random number generators (RNG) to select the future stimuli, so no one, even including the computer used to control the experiment, knew what stimulus was about to appear. This was an important design feature, because it eliminated the possibility that clues might be given about the identity of the upcoming target.  Presentiment Meta-Analyses&nbsp;
+
+By 2011, over three dozen presentiment replications had been reported by laboratories around the world. University of Padova psychologist Patrizio Tressoldi15 used conventional meta-analytic techniques to determine the average effect size (a standardized measurement of the effect), homogeneity (how similar the effects were across different experiments), the overall statistical results (likelihood of the results compared to chance), the Bayes factor (this is, roughly speaking, the ratio of the likelihood that an effect exists versus does not exist), and an estimate of the file drawer effect (that is, the number of unreported failed studies required to eliminate the statistical results of the published experiments).
+
+Tressoldi found 37 presentiment experiments, involving a total of 1,064 subjects. The overall effect size was a Cohen’s d of 0.26, which incidentally is almost identical to the average effect size reported in 25,000 experiments conducted over a century of social psychology research.16 From this we know that that the magnitude of presentiment effects are in complete alignment with what is commonly observed across a very broad range of behavioral tests.
+
+In other words, presentiment is regarded as anomalous within science not because we cannot demonstrate it in the lab – because we can – but rather because we do not yet understand what consciousness is, or what it is capable of, or how fundamental concepts like time and causality are related to it.&nbsp;&nbsp;
+
+The combined statistical outcome for the 37 studies was associated with odds against chance of 6.3 × 1017, i.e. 625,000,000,000,000,000 to 1. This allows the null hypothesis that presentiment does not exist to be rejected (or, to avoid the confusing double-negative language of hypothesis testing, it allows us to seriously entertain the idea that presentiment does in fact exist.)&nbsp;
+
+Tressoldi then calculated the Bayes factor. This metric provides a different way to interpret the strength of evidence for or against a hypothesis. According to Jeffreys,17 if a Bayes factor is less than three to one, the hypothesis can be interpreted as ‘barely worth mentioning’. Evidence at ten to one may be considered ‘substantial’, it is ‘strong’ at thirty to one, ‘very strong’ at 100 to one, and beyond 100 to one the evidence is ‘decisive’. In the case of presentiment studies the Bayes factor ratio was 28 trillion to one. This impressive figure does not mean that presentiment observed in the laboratory is an extremely large or astonishingly robust effect, because that is not the case.&nbsp;Rather, it means that the effect has been successfully replicated by many investigators. It is the repeatability that gives us confidence that the effect is genuine.
+
+Tressoldi then determined that the file drawer estimate was 954, meaning for each of the known 37 studies another 26 had to have been conducted but not reported because they all failed. This was judged to be implausible.
+
+A year after Tressoldi’s meta-analysis, another was published by neuroscientist Julia Mossbridge of Northwestern University and her colleagues.18 Mossbridge considered all known presentiment experiments published up to that time (2010), but to narrow the scope of the analysis each study was required to share three characteristics: a strictly pre-planned analysis, human physiological measurements recorded before unpredictable stimuli, and a clearly predictable outcome both before and after the stimuli.&nbsp;
+
+Mossbridge found 49 published and unpublished presentiment experiments. Of those, 26 studies from seven labs fit the three criteria. The result was an effect size similar to the one found by Tressoldi (Cohen’s d = 0.21). The overall probability of the effect size was associated with p &lt; 2.7 × 10-12, or odds against chance of 37 billion to one.&nbsp;
+
+The analysis also found that high quality presentiment experiments (based on analysis of the design and methods) were associated with larger effect sizes, and that the file drawer estimate ranged from a conservative estimate of 87 to a more liberal estimate of 256 ‘missing’ failed studies. Also, some of the experiments explicitly studied if the results might have been attributable to some sort of anticipatory strategy, but no evidence of that was found.  Accidental Presentiment
+
+Unlike most psi tests, the methods used in presentiment studies are nearly identical to those used in thousands of conventional psychophysiology experiments. If presentiment is a real effect it ought to have appeared in those other experiments, which were conducted for other reasons. Dick Bierman put this prediction to the test. He searched through the conventional literature for experiments similar to the presentiment design and he found three cases where the data could be re-examined.19 When the data were combined the outcome was significantly in agreement with what presentiment would predict.&nbsp;&nbsp;
+
+Based on that finding, Julia Mossbridge tested the idea again with new data. She found fourteen candidate publications and successfully obtained the data in two cases. In one study she found a positive presentiment effect in skin conductance, heart rate, and skin temperature. In the other study she found that women subjects who responded strongly to randomly selected images also showed significant EEG responses before the images appeared.20
+
+In conclusion, laboratory experiments studying presentiment effects are an important advancement in psi research because (a) they provide a repeatable phenomenon that allows for a detailed exploration of the nature of precognition, (b) they follow well understood procedures in psychophysiology and neuroscience, making the nature of the studies more palatable to mainstream researchers, and (c) they suggest that psi effects are hiding in plain sight, just patiently waiting for more clever designs to reveal them to our startled eyes.
+ 	
+ 	Dean Radin  Literature
+
+Aharonov, Y., Anandan, J., Maclay, G.J., &amp; Suzuki, J. (2004). Model for entangled states with spin-spin interaction. Physical Review A, 70, 052114.
+
+Aharonov, Y., Bergmann, P.G., &amp; Lebowitz, J.L. (1964). Time symmetry in the quantum process of measurement. Physical Review, 134, B1410-16.
+
+Aharanov, Y., &amp; Tollaksen, J., (eds.) (2007). New insights on time-symmetry in quantum mechanics. Cambridge: Cambridge University Press.
+
+Beloff, J. (1981). J.B. Rhine on the nature of psi. Journal of Parapsychology 45/1, 42-55.
+
+Bierman, D.J. (2000). Anomalous baseline effects in mainstream emotion research using psychophysiological variables. Journal of Parapsychology 64/3, 239.
+
+Bierman, DJ. (2007). Presentiment in a fMRI experiment with meditators. Paper presented at the Euro-Parapsychological Association Convention, Paris.
+
+Bierman D.J., &amp; Radin, D.I. (1997). Anomalous anticipatory response on randomized future conditions. Perceptual Motor Skills 84/2, 689-90.
+
+Bierman, D.J., &amp; Radin, D.I. (1999). Anomalous unconscious emotional responses: Evidence for a reversal of the arrow of time. &nbsp;In Toward a Science of Consciousness III: The Third Tucson Discussions and Debates, ed. by S. Hameroff, A. Kaszniak, &amp; D. Chalmers. Cambridge, MA: MIT Press
+
+Bierman, D.J., &amp; Scholte, H.S. (2002). Anomalous anticipatory brain activation preceding exposure of emotional and neutral pictures.&nbsp;[pdf]&nbsp;Paper presented at Tucson IV conference.
+
+Bierman, D.J., &amp; van Ditzhuyzen, J. (2006). Anomalous slow cortical components in a slotmachine task. Paper presented at Proceedings of the 49th Annual Parapsychological Association.
+
+Bradley, R.T., Gillin, M., McCraty, R., &amp; Atkinson, M. (2011). Non-local intuition in entrepreneurs and non-entrepreneurs: Results of two experiments using electrophysiological measures. International Journal of Entrepreneurship and Small Business 12/3. 343-72.
+
+Broughton, R. (2004). Exploring the reliability of the ‘presentiment’ effect. Paper presented at the Proceedings of the 47th Convention of the Parapsychological Association.
+
+Carpenter, J. (2012). First Sight: ESP and Parapsychology in Everyday Life. Lanham, Maryland, USA: Rowman &amp; Littlefield Publishers.
+
+Chiao, R.Y., Cohen, M.L., Leggett, A.J., Phillips, W.D., &amp; C. L. Harper, Jr., (eds.) (2011). Visions of Discovery: New Light on Physics, Cosmology, and Consciousness. Cambridge: Cambridge University Press.
+
+Don, N.S., McDonough, B.E., &amp; Warren, C.A. (1998). Event-related brain potential (ERP) indicators of unconscious psi: A replication using subjects unselected for psi. Journal of Parapsychology 62, 127-45.
+
+Ellenberger, H.F. (1970). The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry. New York: Basic Books.
+
+Good, I.J. (1961). Letter to the editor. Journal of Parapsychology 25, 58.
+
+Hartwell, J. (1978) Contingent negative variation as an index of precognitive information. European Journal of Parapsychology 2/2, 83-103.
+
+Hartwell, J. (1979). An extension to the CNV study and an evaluation. European Journal of Parapsychology 2/4, 358-64.
+
+Hauke, C. (2006) The unconscious: Personal and collective. In The Handbook of Jungian Psychology: Theory, Practice and Applications, ed. by R. Papadopoulos. Florence, Kentucky, USA: Routledge c/o Taylor &amp; Francis Group.
+
+Hinterberger, T., Studer, P., Jäger, M., Haverty-Stacke, C., &amp; Walach, H. (2007). Can a slide-show presentiment effect be discovered in brain electrical activity? Journal of the Society for Psychical Research 71/3, 148-66.
+
+Jeffreys, H. (1961). The Theory of Probability (3rd edition). Oxford: Oxford University Press.
+
+Kihlstrom, J.F. (1987). The cognitive unconscious. Science 237/4821), 1445-52.
+
+Kihlstrom, J.F., Mulvaney, S., Tobias, B.A., &amp; Tobis, I.P. (2000). The emotional unconscious. In Cognition and Emotion, ed. by E. Eich, J.F. Kihlstrom, G.H. Bower, J.P. Forgas, &amp; P.M. Niedenthal. New York: Oxford University Press, 30-86.
+
+La Pira, F., Gillin, M., McCraty, R., Bradley, R., Atkinson, M., &amp; Simpson, D. (2013). Validating nonlocal intuition in repeat entrepreneurs: A multi-method approach. Journal of Behavioral Studies in Business 2013/6.&nbsp;
+
+Levin, J., &amp; Kennedy, J. (1975). The relationship of slow cortical potentials to psi information in man. Journal of Parapsychology 39, 25-6.
+
+May, E.C., Paulinyi, T., &amp; Vassy, Z. (2005) Anomalous anticipatory skin conductance response to acoustic stimuli: Experimental results and speculation about a mechanism. Journal of Alternative and Complementary Medicine 11/4, 695-702.
+
+McCraty, R., Atkinson, M., &amp; Bradley, R.T. (2004). Electrophysiological evidence of intuition: Part 1. The surprising role of the heart. The Journal of Alternative and Complementary Medicine 10/1, 133-43.
+
+McCraty, R. Atkinson, M., &amp; Bradley, R.T. (2004). Electrophysiological evidence of intuition: Part 2. A system-wide process? The Journal of Alternative and Complementary Medicine 10/2, 325-36.
+
+Mossbridge, J.,&nbsp;Tressoldi, P.,&nbsp;&amp; Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: a meta-analysis. Frontiers in Psychology 17 (October). [Web page]
+
+Öhman, A. (1999). Distinguishing unconscious from conscious emotional processes: Methodological considerations and theoretical implications. In Handbook of Cognition and Emotion, ed. by T. Dalgleish &amp; M. Power. Chichester, UK: Wiley, 320-51.
+
+Öhman, A. (2000). Fear and anxiety: Evolutionary, cognitive and clinical perspectives. In Handbook of Emotions, ed. by M. Lewis &amp; J. Haviland-Jones. New York: Guilford.&nbsp;[Web page]
+
+Ornstein, R., &amp; Dewan, T. (2008). MindReal: How the Mind Creates its Own Virtual Reality. Boston: Malor Books.
+
+Radin, D.I. (1997). Unconscious perception of future emotions: An experiment in presentiment. Journal of Scientific Exploration 11, 163-80.
+
+Radin, D. (2004). Electrodermal presentiments of future emotions. Journal of Scientific Exploration 18/2, 253-73.
+
+Radin, D. &amp; Lobach, E. (2007) Toward understanding the placebo effect: investigating a possible retrocausal factor. Journal of Alternative and Complementary Medicine 13/7, 733-39.
+
+Radin, D.I., Vieten, C., Michel, L., &amp; Delorme, A. (2011). Electrocortical activity prior to unpredictable stimuli in meditators and nonmeditators. Explore (NY) 7/5, 286-99.
+
+Richard, F.D., Bond, C.F., Jr., &amp; Stokes-Zoota, J.J. (2003). One hundred years of social psychology quantitatively described. Review of General Psychology 7, 331-63.
+
+Sartori, L., Massaccessi, S., Martinelli, M., &amp; Tressoldi, P. (2004). Physiological correlates of ESP: Heart rate differences between targets and nontargets. Journal of Parapsychology 68, 351-60.
+
+Schönwetter, T., Ambach, W., &amp; Vaitl, D. (2011). Does autonomic nervous system activity correlate with events conventionally considered as unperceivable? Using a guessing task with physiological measurement. Journal of Parapsychology 75/2, 327-8.
+
+Spottiswoode, S.J.P., &amp; May, E. (2003). Skin conductance prestimulus response: Analyses, artifacts and a pilot study. Journal of Scientific Exploration 17/4, 617-41.
+
+Tressoldi, P.E. (2011). Extraordinary claims require extraordinary evidence: The case of non-local perception, a classical and Bayesian review of evidences. Frontiers in Psychology&nbsp;2.&nbsp;[Web page]
+
+Tressoldi, P., Martinelli, M., Massaccesi, S., &amp; Sartori, L. (2005). Heart rate differences between targets and non-targets in intuitive tasks. Human Physiology 31/6, 646-50.
+
+Tressoldi, P.E., Martinelli, M., Scartezzini, L., &amp; Massaccesi, S. (2010). Further evidence of the possibility of exploiting anticipatory physiological signals to assist implicit intuition of random events. Journal of Scientific Exploration&nbsp; 24/3, 411.
+
+Tressoldi, P.E., Martinelli, M., Zaccaria, E., &amp; Massaccesi, S. (2009). Implicit intuition: H.how heart rate can contribute to prediction of future events. Journal of the Society for Psychical Research 73/894, 1.
+
+Vassy, Z. (1978). Method for measuring the probability of 1 bit extrasensory information transfer between living organisms. Journal of Parapsychology 42, 158-60.
+
+Whyte, L.L. (1960). The Unconscious Before Freud. New York: Basic Books.
+
+Wildey, C. (2001). Impulse Response of Biological Systems. Arlington, Texas, USA: Department of Electrical Engineering, University of Texas.   Endnotes 1. Carpenter (2012). 2. Beloff &amp; Rhine (1981). 3. Hauke (2006). 4. Whyte (1960). 5. Ellenberger (1970). 6. Kihlstrom (1987); Kihlstrom, Mulvaney, Tobias, &amp; Tobis (2000); Öhman (1999); Öhman (2000); Ornstein &amp; Dewan (2008). 7. Aharonov, Anandan, Maclay &amp; Suzuki (2004); Aharanov &amp; Tollaksen (2007); Chiao, Cohen, Leggett, Phillips &amp; Harper (2011); Aharonov, Bergmann &amp; Lebowitz (1964). 8. Good (1961). 9. Levin &amp; Kennedy (1975). 10. Hartwell (1978); Hartwell (1979). 11. Vassy (1978). 12. Radin (1997). 13. Bierman &amp; Radin (1997). 14. Radin (2004); Radin &amp; Lobach (2007); Hinterberger, Studer, Jäger, Haverty-Stacke &amp; Walach (2007); Bierman &amp; van Ditzhuyzen (2006); Bierman &amp; Scholte (2002);&nbsp; Bierman &amp; Radin (1998); Radin, Vieten, Michel &amp; Delorme (2011); Bierman (2007); Broughton (2004); Wildey (2001); McCraty, Atkinson &amp; Bradley (2004); McCraty, Atkinson &amp; Bradley (2004); Bradley Gillin, McCraty &amp; Atkinson (2011) La Pira, Gillin, McCraty, Bradley, Atkinson &amp; Simpson (2013); May, Paulinyi &amp; Vassy (2005); Tressoldi, Martinelli, Massaccesi &amp; Sartori (2005); Tressoldi, Martinelli, Zaccaria &amp; Massaccesi (2009); Tressoldi, Martinelli, Scartezzini &amp; Massaccesi (2010); Spottiswoode &amp; May (2003); Schönwetter, Ambach &amp; Vaitl (2011); Don, McDonough &amp; Warren (1998); Sartori, Massaccessi, Martinelli &amp; Tressoldi (2004). 15. Tressoldi (2011). 16. Richard, Bond &amp; Stokes-Zoota (2003). 17. Jeffreys (1961). 18. Mossbridge, Tressoldi &amp; Utts, (2012). 19. Bierman (2000). 20. Mossbridge et al. (2012).           			  			     			This page was last updated on: September 03, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Dean Radin Word count: 3,500 Created: 29th June 2016 Last updated: 3rd September 2022 May be cited as:Radin, D. (2016). &lsquo;Presentiment&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/presentiment&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yyo6jqv6                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/presentiment

@@ -1,0 +1,172 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/mental-mediumship-research","mytitle":"Mental Mediumship Research | Psi Encyclopedia","mylang":"de"}
+                     Mental Mediumship Research | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Mental Mediumship Research                                                                                                                                                                                                                          Communication with the deceased is a normal and useful aspect of cultures all over the world. Although it is possible for anyone to experience communication from the deceased, a medium is someone who has this experience regularly, reliably, and often on-demand. Here, research performed since 2001 with mental mediums is reviewed.   Contents   	Background 	History 	Limitations  	Stigma 	Funding 	Personnel   	Research Studies  	Accuracy 	Results 	Experiences 	Physiology 	Psychology   	Literature 	Endnotes     Background
+
+The phenomenon of mediumship, experiences of communication with the deceased, has been reported across cultures throughout the world since antiquity.1 This task may be performed by special members of the community, called shamans. Only relatively recently have Western cultures shown interest in individuals with these abilities, now often called mediums, psychic mediums, or spirit mediums.
+
+Mediums can be defined as individuals who report experiencing regular communication with the deceased.2 Psychics, on the other hand, convey information about people, events, places, or times unknown to them but not about the deceased. It is often said that all mediums are psychic but not all psychics are mediums. In addition, although it is possible for anyone to have mediumistic and/or psychic experiences, only those who have these experiences regularly and reliably are accurately termed mediums or psychics.
+
+Two main types of mediumship exist&nbsp;– physical and mental&nbsp;– and the states of consciousness that occur during either may be ‘arrayed along a continuum from waking states to trance states … of varying depth and levels of dissociation.’3 Thus, referring to any individual medium or event with the descriptors ‘trance’ or ‘waking state’ does not accurately reflect the current understanding of the phenomena. During physical mediumship, phenomena occur such as independent voices, paranormal lights, apports (objects that mysteriously appear), the levitation or movement of objects, appearance of ectoplasm, and raps on walls or tables.4 The purpose of mental mediumship is to convey messages (usually verbally) from deceased people or animals (‘discarnates’) to living people (‘sitters’) during a specific event (a reading). Various aspects of research with mental mediums are discussed below.  History
+
+Beginning in 1882, the founding members of the Society for Psychical Research used objective scientific methods and experiments to examine claims of mediumship and related experiences. However, by the 1930s mediumship researchers had become frustrated by an inability to determine the source of mediums’ information (see also below). Psychical researchers began to turn their attention toward other anomalous mental processes and psychic abilities, while ‘scientific research into mediumship … steadily declined.’5 Indeed, progress in the evaluation of the information provided by mediums ‘has been slow compared to developments in other areas of parapsychological research.’6 Furthermore, it has often been noted that historical mediumship research lacked the proper research design, statistical power, and elimination of potential sources of error for current researchers to find value in historical studies.7
+
+In the early 2000s there was a resurgence in studies of mediums that amounted to ‘a significant increase in research output over the previous seventy years.’8 However, fewer than ten research groups have published original peer-reviewed research with modern mental mediums since 2007.9 These studies have included populations of British Spiritualist mediums,10 Brazilian and Puerto Rican Spiritist mediums,11 and secular American mediums who do not practice mediumship within an organized religion or belief system.12
+
+Although research with mental mediums can currently be found within fields of study including consciousness research, clinical psychology, transpersonal psychology, bereavement research, anthropology, and neurobiology,13 it traditionally fell under the purview of parapsychology or psychical/psi research. However, within parapsychology, which primarily examines the ‘Big Four’ (telepathy, clairvoyance, precognition, and psychokinesis), only ‘an occasional nod’14 has been given to topics like mediumship and life after death.  Limitations
+
+Several factors have limited progress in the field of mental mediumship research. These include stigma around the topic and restricted financial support and personnel.  Stigma
+
+Mediumship of any kind ‘is generally considered a deviant way of knowing within a dominantly scientific Western culture.’15 So while the attention that mediumship has received within Western popular culture has recently expanded, it often remains a taboo subject in scientific, government, social, and clinical circles. Thus, compared to socially acceptable fields of study, relatively little research has been conducted with mediums.  Funding
+
+Effective and relevant research studies require funding to be completed. In the US, most scientific research is funded by government grants, private companies, and non-profit foundations.16 Parapsychological research worldwide, of which mediumship research represents only a small portion, is primarily funded by the Bial Foundation,17,18 the Society for Psychical Research and the Parapsychological Association19 These parapsychology grants provide, on average, less than 5% of the support provided by an average grant from the National Institutes of Health (NIH) or the National Science Foundation (NSF) in the US would provide for medical research or research and education in science and engineering, respectively.20  Personnel
+
+As a result of funding limitations, very few individuals are currently performing mediumship research. While there are, according to the Bureau of Labor Statistics, currently around 25,000 physicists and astronomers,21 37,500 biochemists and biophysicists,22 and 119,200 medical scientists23 in the US, as stated above, fewer than ten research groups globally have carried out original peer-reviewed mediumship research in the last ten years. ***An estimate of number of individual scientists would be better here -- not comparing apples to oranges  Research Studies
+
+Although limited by the issues discussed above, contemporary research has included examinations of mental mediums’ accuracy, experiences, physiology, and psychology, and the potential clinical applications of mediumship readings in the treatment of bereavement. These modern studies have employed technologies, such as internet-based participant recruitment, digitally recorded phone readings, and scoring by e-mail, that were not readily available during early research and have used both quantitative (collecting numerical data) and qualitative (collecting non-numerical data) methods.  Accuracy
+
+The primary question at the heart of mediumship accuracy testing is, ‘Is the information a medium reports about a deceased person accurate?’ If the answer is yes, the secondary question is ‘Could the medium have obtained that information through any normal, sensory means?’
+
+Mediums perform readings for sitters in their own practices under various conditions. In order to appropriately bring mediumship into a laboratory setting for accuracy testing, according to mediumship researcher Julie Beischel, the research:  
+
+should include two equally important factors: (a) a research environment that optimizes the mediumship process for both the medium and the hypothesized discarnate in order to increase the probability of capturing the phenomenon, if it exists, in a laboratory setting, and (b) research methods that maximize the experimental blinding of the medium, the rater, and the experimenter in order to eliminate all conventional explanations for the reported information and its accuracy and specificity.24
+
+Contemporary researchers who have collected data to test mediums’ accuracy include: Robertson and Roy (Scotland),25 Schwartz and colleagues (University of Arizona, US),26 O’Keeffe and Wiseman (UK),27 Jensen and Cardeña (Denmark and Sweden),28 Kelly and Arcangel (University of Virginia, US),29 and Beischel and colleagues (Windbridge Institute, US).30 Peer-reviewed criticisms of this research call into question the investigators’ conclusions, referring to issues with the abilities of the mediums being tested, inefficient experimental blinding, problematic research environments, and inadequacies in how readings are presented to sitters for scoring.31
+
+Several researchers have attempted to test the accuracy of participants who were not pre-screened to ensure that they would be able to perform under the conditions of the experiment.32 In a 2005 study by O’Keeffe and Wiseman, the participating mediums ‘were recruited via a list of certified mediums provided by the Spiritualists Nationalist Union’33 and included no trial runs.34 This study has also been criticized35 for its problematic research environment: each medium was videotaped alone in a room while performing five one-hour readings in 5.5 hours. O’Keeffe and Wiseman were additionally criticized for how the readings in this study were formatted for scoring into items containing multiple statements and weak or uncertain associations.36
+
+Studies by Schwartz and colleagues from the early 2000s have been criticized37 for failing to control for sensory leakage, insufficient experimenter blinding, inappropriate statistical analyses, deficiencies in addressing rater bias, and inadequate descriptions of methodologies, analysis plans, and results. The 2011 studies by Kelly and Arcangel38 have been criticized39 for a lack of participant pre-screening as well as incomplete experimental blinding that included providing the mediums with photographs of the deceased.
+
+Taking into account the criticisms listed above and the contemporary mediumship literature, it has been proposed40 that effective accuracy testing of mental mediums should include the following:   	Experimenters should be respectful of the mediums, sitters, and their processes. 	Mediums should be pre-screened to demonstrate they are capable of the tasks that will be asked of them during the experiment. 	Laboratory environments need to be optimized to allow the mediums to be successful in the experiments, if possible. This may require providing a ‘seed’ of information about the discarnate or sitter on which the medium can mentally focus but which does not give away enough information that a seemingly accurate reading could be fabricated from it. 	Sufficient levels of blinding must be in play to ensure that fraud and sensory cueing are not responsible for the results. At a minimum this means:    	 		the mediums are blinded to the identity of the target discarnate and the respective sitter 		the sitters are blinded to the identity of the medium performing the reading, are given more than one reading to score, and are blinded to whether a reading was intended for them or for someone else (target or decoy, respectively) during scoring 		the experimenters who act as or manage proxy sitters and prepare transcripts of readings for scoring are blinded to the identity of the target discarnates and the respective sitters 		the experimenters who distribute the readings for scoring by the sitters and analyze the results that are returned are blinded to whether each reading is a target or a decoy 	   Results
+
+Taken together, the research performed over the last two decades examining the accuracy of mediums’ statements collected under controlled experimental conditions has effectively demonstrated anomalous information reception (AIR) by mediums. That is, this collection of evidence demonstrates that certain mediums are able to report accurate and specific information about the deceased with minimal prior knowledge about the deceased or their associated sitters, with no feedback during or after the readings, and without using fraud or deception. However, these data cannot determine the source of the information:&nbsp;  
+
+Two hypotheses have been proposed as explanations for the presumably psi-based source of accurate information reported by mediums: the term survival psi41 is used to describe the theoretical phenomenon in which mediums communicate telepathically with the deceased and the term somatic psi42 is used for the competing theory that mediums use telepathy with the living, clairvoyance (including of a psychic reservoir), and/or precognition but not communication with the deceased to acquire information. Because the types of information theoretically accessible using psi and the times at which they could be accessed are limitless, accuracy data cannot distinguish between these two theories. As a result of this ‘survival psi versus somatic psi’ impasse, qualitative phenomenological methodologies have been used to collect data regarding mediums’ experiences and examine which explanation they better support.43   Experiences
+
+Several research groups have systematically examined the experiences of mediums using both qualitative and quantitative methods. For example, Emmons and Emmons] interviewed forty mediums and observed participants during Spiritualist services primarily in the Lily Dale community in New York.44 Rock and Beischel examined the experiences of seven Windbridge Certified Research Mediums (WCRMs, mediums who were previously screened and certified using published criteria45) during mediumship readings for the deceased and a control condition in which no communication occurred, using a questionnaire that provides quantitative data about various experiential elements.46 Rock, Beischel, and Cott qualitatively examined descriptions provided by six WCRMs regarding their experiences of mediumship readings for the deceased and psychic readings about/for living clients.47 Roxburgh and Roe qualitatively analyzed descriptions of experiences from ten Spiritualist mediums in the UK.48 Beischel, Mosher, and Boccuzzi used both quantitative and qualitative methods to examine descriptions of mediumistic and psychic experiences provided by 122 secular American mediums (those not associated with any formal religious organization; 14 WCRMs and 108 self-reported).49
+
+The body of literature describing the experiences of modern mental mediums found that they include:   	an altered state of consciousness 	several mental sensory modalities functioning simultaneously, most often seeing, hearing, and feeling 	specific bodily sensations 	an emotional component 	‘just knowing’ information about the deceased
+
+Findings from the literature also demonstrate that mediums report an ability to differentiate between experiences of communication with the deceased and psychic readings for living targets and that these experiences may have both similarities and differences. For example, both types of experiences include emotional and sensory components. Differences between the two types of experiences involve cognitive differences in how the information is experienced and the sources from which it comes. Mediumistic information is usually experienced as coming only from discarnate communicators, whereas psychic information may arrive from multiple sources: from dreams, from the living client’s energy, from guides, from Source/the Universe/the Divine, and from non-specific discarnates unrelated to the living client.50
+
+The finding that psychic experiences may include communication with the deceased, Beischel, Mosher &amp; Boccuzzi write:  
+
+draws into question unsupported claims that mediums are using psi with the living to obtain information about the deceased when this current finding implies that they are, at least partially, communicating with the deceased in order to acquire information about the living.51
+
+It also ‘calls into question theoretical frameworks that posit separating mediums’ experiences into categories that do and do not involve communication with the deceased as well as the continued use of terminology reflecting such a separation.’52 This would involve an acceptance that terms such as ‘survival psi, somatic psi, and even the oft-mentioned “super-psi” are theoretical constructs; just names for ideas that are not backed by any empirical evidence’53 and do not reflect actual experiences. Thus, these terms are not useful in discussions of modern mental mediums’ experiences.  Physiology
+
+Researchers have monitored brain activity and general bodily processes in order to assess unique physiological characteristics of mediums. Peres and colleagues used single photon emission computed tomography (SPECT) and found that the brain activity in ten Brazilian Kardecist Spiritist psychographers (mediums who perform automatic writing) when they wrote in trance was different from during control, non-trance states.54
+
+Maraldi and Krippner examined the hand temperature, heart rate, bilateral skin conductance, electroencephalography (EEG), and electromyography (EMG) of head and neck muscles of a Brazilian mediumistic/spirit painter and found incongruity between peripheral and central physiological responses.55
+
+Delorme and colleagues used EEG to monitor the brain activity of six WCRMs while the mediums engaged in four mental tasks: thinking about a living person known to them, fabricating a person and thinking about them, listening to information spoken by an experimenter, and mentally interacting with a deceased person they knew. The study’s findings suggested that the specific mental state occurring during communication with the deceased differs from normal thinking or imagination.56  Psychology
+
+Overall, research examining the psychological characteristics of mental mediums has demonstrated that they do not exhibit symptoms of mental illness or disorders, moreover that they have greater psychological well-being&nbsp;and experience less stress&nbsp;than non-mediums. Reinsel found that the after-effects of performing readings included relaxation, clarity, energy, and happiness for the 32 mediums and sensitives who completed a questionnaire about their experiences.57
+
+Moreira-Almeida and colleagues found that although Kardecist Spiritist mediums in Brazil may exhibit what can be classified as dissociative experiences, because they occur during religious or spiritual contexts, they do not necessarily imply mental illness.58 In addition, when compared to clinical populations, these mediums were more socially adjusted and demonstrated fewer indicators of mental disorders.59
+
+During the SPECT study described above, Peres and colleagues performed structured clinical interviews with the ten Kardecist Spiritist psychographers and did not find any psychiatric illness.60 Roxburgh and Roe surveyed 80 Spiritualist mental mediums and 79 non-medium Spiritualists in the UK and found that the mediums scored higher on measures of psychological well-being and lower when psychological distress was assessed.61 After qualitatively analyzing the content of interviews with six mediums, Taylor and Murray concluded that the experience of hearing voices reduced anxiety and distress, added meaning and purpose to the mediums’ lives, and provided input about managing the experiences.62
+
+Julie Beischel  Literature
+
+Beischel, J. (2007). Contemporary methods used in laboratory-based mediumship research. Journal of Parapsychology&nbsp;71(1), 37-68.
+
+Beischel, J. (2011). Mediumship research [Letter to the editor]. Journal of Nervous and Mental Disease&nbsp;199(6), 425-6.
+
+Beischel, J. (2014). Advances in quantitative mediumship research. In The Survival Hypothesis: Essays on Mediumship, ed. by A.J. Rock, 177-95. Jefferson, North Caroline, USA: McFarland.
+
+Beischel, J., Boccuzzi, M., Biuso, M., &amp; Rock, A.J. (2015). Anomalous information reception by research mediums under blinded conditions II: Replication and extension. Explore&nbsp;11/2,&nbsp;136-42. doi: 10.1016/j.explore.2015.01.001.
+
+Beischel, J., Mosher, C., &amp; Boccuzzi, M. (2017). Quantitative and qualitative analyses of mediumistic and psychic experiences. Threshold: Journal of Interdisciplinary Consciousness Studies&nbsp;1(2), 51-91.
+
+Beischel, J. &amp; Rock, A.J. (2009). Addressing the survival vs. psi debate through process-focused mediumship research. Journal of Parapsychology&nbsp;73, 71-90.
+
+Beischel, J. &amp; Zingrone, N. (2015). Mental mediumship. In Parapsychology: A Handbook For the 21st Century, ed. by E. Cardeña, J. Palmer &amp; D. Marcusson-Clavertz, 301-13. Jefferson, North Carolina, USA: McFarland.
+
+Berkeley University of California (n.d.). Who pays for science? [Web page] ***needs link check
+
+Bem, D.J. (2005). Review of G.E. Schwartz’s The Afterlife Experiments: Breakthrough Scientific Evidence of Life After Death. Journal of Parapsychology&nbsp;69/1, 173-83.
+
+Bial Foundation (n.d.a) Grants: Grants programme for scientific research. [Web page.] ***needs link check
+
+Bial Foundation (n.d.b) ***see note in text
+
+Braud, W. (2005). The farther reaches of psi research: Future choices and possibilities. In&nbsp;Parapsychology in the Twenty-First Century: Essays on the future of psychical research, ed. by&nbsp;M.A.&nbsp;Thalbourne &amp; L. Storm, 38062. Jefferson, North Carolina, USA: McFarland &amp; Company.
+
+Delorme, A., Beischel, J., Michel, L., Boccuzzi, M., Radin, D., &amp; Mills, P.J. (2013). Electrocortical activity associated with subjective communication with the deceased. Frontiers in Psychology&nbsp;4 (Article 834), 1910.
+
+Emmons, C.F. (2001). On becoming a spirit medium in a ‘rational society.’ Anthropology of Consciousness&nbsp;12/1, 71-82.
+
+Emmons, C.F., &amp; Emmons, P. (2003). Guided by Spirit: A journey into the mind of the medium. Lincoln, Nebraska, USA: iUniverse.
+
+Fontana, D. (2005). Is There an Afterlife? A comprehensive overview of the evidence. Blue Ridge Summit, Pennsylvania, USA: NBN.
+
+Harris, K., &amp; Alvarado, C.S. (2013). A review of qualitative mediumship research. In The Survival Hypothesis: Essays on mediumship, ed. by A.J. Rock,&nbsp;1960219. Jefferson, North Carolina, USA: McFarland.
+
+Hunter, J. &amp; Luke, D. (eds.) (2014). Talking with the Spirits: Ethnographies from between the worlds. Brisbane, Australia: Daily Grail Publishing.
+
+Jensen, C.G. &amp; Cardeña, E. (2009). A controlled long distance experiment with a professional medium. European Journal of Parapsychology&nbsp;24, 53-67.
+
+Kelly, E.W. &amp; Arcangel, D. (2011). An investigation of mediums who claim to give information about deceased persons. Journal of Nervous and Mental Disease&nbsp;199/1, 11-17.
+
+Lester, D. (2005). Is There Life After Death? An examination of the empirical evidence. Jefferson, North Carolina, USA: McFarland.
+
+Maraldi, E. de-O. &amp; Krippner, S. (2013). A biopsychosocial approach to creative dissociation: Remarks on a case of mediumistic painting. NeuroQuantology&nbsp;11/4, 544-72.
+
+Moreira-Almeida, A., Neto, F.L., &amp; Greyson, B. (2007). Dissociative and psychotic experiences in Brazilian Spiritist mediums [Letters to the Editor]. Psychotherapy and Psychosomatics&nbsp;76, 57-58. doi: 10.1169/000096365.
+
+Moreira-Almeida, A., Neto, F.L., &amp; Cardeña, E. (2008). Comparison of Brazilian Spiritist mediumship and dissociative identity disorder. Journal of Nervous of Mental Disease&nbsp;196/5, 420-24.
+
+Moreira-Almeida, A. &amp; Koss-Chioino, J.D. (2009). Recognition and treatment of psychotic symptoms: Spiritists compared to mental health professionals in Puerto Rico and Brazil. Psychiatry&nbsp;72, 268-83.
+
+O’Keeffe, C. &amp; Wiseman, R. (2005). Testing alleged mediumship: Methods and results. British Journal of Psychology&nbsp;96/2, 165–79.
+
+Parapsychological Association (2020). Parapsychological Association Research Endowment. [Web page.]
+
+Peres, J.F., Moreira-Almeida, A., Caixeta, L., Leao, F., &amp; Newberg, A. (2012). Neuroimaging during trance state: A contribution to the study of dissociation. PLoS One, 7(11). E49360.
+
+Reinsel, R. (2004). Mediumistic phenomena circa 2002. Proceedings of the Academy of Religion and Psychical Research, 133-47.
+
+Robertson, T.J. &amp; Roy, A.E. (2004). Results of the application of the Robertson-Roy protocol to a series of experiments with mediums and participants. Journal of the Society for Psychical Research&nbsp;68/1, 18-34.
+
+Rock, A.J., &amp; Beischel, J. (2008). Quantitative analysis of mediums’ conscious experiences during a discarnate reading versus a control task: A pilot study. Australian Journal of Parapsychology&nbsp;8/2, 157-79.
+
+Rock, A.J., Beischel, J., &amp; Cott, C.C. (2009). Psi vs. survival: A qualitative investigation of mediums’ phenomenology comparing psychic readings and ostensible communication with the deceased. Transpersonal Psychology Review&nbsp;13/2, 76-89.
+
+Roxburgh, E.C. &amp; Roe, C.A. (2011). A survey of dissociation, boundary-thinness, and psychological wellbeing in spiritualist mental mediumship. Journal of Parapsychology&nbsp;75/2, 279-97.
+
+Roxburgh, E.C. &amp; Roe, C.A. (2013). ‘Say from when you owe this strange intelligence’: Investigating explanatory systems on Spiritualist mental mediumship using interpretative phenomenological analysis. International Journal of Transpersonal Studies&nbsp;3/21, 27-42.
+
+Roxburgh, E.C., &amp; Roe, C.A. (2014). Reframing voices and visions using a spiritual model. An interpretative phenomenological analysis of anomalous experiences in mediumship. Mental Health, Religion &amp; Culture&nbsp;17/6, 641-53.&nbsp;
+
+Roy, A.E. &amp; Robertson, T.J. (2001). A double- blind procedure for assessing the relevance of a medium’s statements to a recipient. Journal of the Society for Psychical Research&nbsp;65/3, 161-74.
+
+Schouten, S.A. (1994). An overview of quantitatively evaluated studies with mediums and psychics. Journal of the American Society for Psychical Research&nbsp;88, 221-54.
+
+Schwartz, G.E.R., Russek, L.G.S., Nelson, L.A., &amp; Barentsen, C. (2001). Accuracy and replicability of anomalous after-death communication across highly skilled mediums. Journal of the Society for Psychical Research&nbsp;65/1, 1-25.
+
+Scott, C. (1972). On the evaluation of verbal material in parapsychology: A discussion of Dr. Pratt’s monograph. Journal of the Society for Psychical Research&nbsp;46, 79-90.
+
+Society for Psychical Research (n.d.). Funding research. [Web page.]
+
+Sudduth, M. (2009). Super-psi and the survivalist interpretation of mediumship. Journal of Scientific Exploration&nbsp;23/2, 167-93.
+
+Taylor, G. &amp; Murray, C. (2012). A qualitative investigation into non-clinical voice hearing: What factors may protect against distress? Mental Health, Religion &amp; Culture&nbsp;15/4, 373-88.&nbsp;
+
+US Bureau of Labour Statistics (n.d.a). Occupational Outlook Handbook: Physicists and Astronomers. [Web page.]
+
+US Bureau of Labour Statistics (n.d.b). Occupational Outlook Handbook: Biochemists and Biophysicists. [Web page.]
+
+US Bureau of Labour Statistics (n.d.c).&nbsp;Occupational Outlook Handbook: Medical Scientists. [Web page.]
+
+Wooffitt, R. &amp; Gilbert, H. (2008). Discourse, rhetoric, and the accomplishment of mediumship in stage demonstrations. Mortality&nbsp;13/3, 222-40.
+
+Wiseman, R. &amp; O’Keeffe, C. (2001). Accuracy and replicability of anomalous after-death communication across highly skilled mediums: A critique. The Paranormal Review&nbsp;19, 3-6.
+
+&nbsp;   Endnotes 1. Harris &amp; Alvarado (2013), 9; Hunter &amp; Luke (2014), 9. 2. Beischel (2007), 37. 3. Beischel &amp; Zingrone (2015), 302. 4. Fontana (2005), 244. 5. Fontana (2005), 226. 6. Schouten (1994), 223. 7. Lester (2005), 210; Schouten (1994), 245; Scott (1972), 88. 8. Beischel &amp; Zingrone (2015), 302. 9. Beischel et al (2015); Delorme et al (2013); Kelly &amp; Arcangel (2011); Moreira-Almeida et al (2008); Roxburgh &amp; Roe (2014); Taylor &amp; Murray (2012); Wooffitt &amp; Gilbert (2008). 10. e.g., Roxburgh &amp; Roe (2013). 11. e.g., Moreira-Almeida &amp; Koss-Chioino (2009). 12. e.g., Rock et al (2009). 13. Beischel &amp; Zingrone (2015). 14. Braud (2005), 40. 15. Emmons (2001), 72. 16. Berkeley University of California (n.d.). 17. Bial (n.d.a) 18. https://www.bial.com/en/bial_foundation.11/grants.18/numbers_%252526_statistics.114/numbers_statistics.a250.html ***It's not obvious where the new version of this one is, if there is one 19. Society for Psychical Research; Parapsychological Association (n.d.). 20. Calculated by comparing the average of Bial Foundation, Society for Psychical Research, and Parapsychological Association grants with the average of National Institutes of Health (graph) and National Science Foundation (overview) grants. 21. US Bureau of Labour Statistics (n.d.a). 22. US Bureau of Labour Statistics (n.d.b). 23. US Bureau of Labour Statistics (n.d.a). 24. Beischel (2007), 40. 25. e.g., Roy &amp; Robertson (2001); Robertson and Roy (2004). 26. e.g., Schwartz et al (2001). 27. O’Keeffe &amp; Wiseman (2005). 28. Jensen &amp; Cardeña (2009). 29. Kelly &amp; Arcangel (2011). 30. Beischel et al (2015). 31. Beischel &amp; Zingrone (2015). 32. O’Keeffe &amp; Wiseman (2005); Jensen &amp; Cardeña (2009); Kelly &amp; Arcangel (2011). 33. O’Keeffe &amp; Wiseman (2005), 170. 34. Beischel (2007), 51. 35. Beischel (2014), 184. 36. Beischel (2007), 45-7. 37. Bem (2005); Wiseman &amp; O’Keeffe (2001). 38. Kelly &amp; Arcangel (2011). 39. Beischel (2011). 40. Beischel &amp; Zingrone (2015), 310. 41. Sudduth, 2009. 42. Beischel &amp; Rock, 2009. 43. Beischel et al (2017), 53-4. 44. Emmons &amp; Emmons (2003). 45. Beischel (2007). 46.  Rock &amp; Beischel (2008). 47. Rock et al (2009). 48. Roxburgh &amp; Roe (2013). 49. Beischel et al (2017). 50. Beischel et al (2017). 51. Beischel et al (2017), 82. 52. Beischel et al (2017), 51. 53. Beischel et al (2017), 85. 54. Peres et al (2012). 55. Maraldi &amp; Krippner (2013). 56. Delorme et al (2013). 57. Reinsel (2004). 58. Moreira-Almeida et al (2007). 59. Moreira-Almeida et al (2008). 60. Peres et al (2012). 61. Roxburgh &amp; Roe (2011). 62. Taylor &amp; Murray (2012).           			  			     			This page was last updated on: October 22, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Julie Beischel Word count: 3,800 Created: 21st January 2018 Last updated: 22nd October 2022 May be cited as:Beischel, J. (2018). &lsquo;Mental Mediumship Research&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/mental-mediumship-research&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yxcbpfzx                   	                                             See also:      Postmortem Survival Mediumship and Spirit Possession in a Cross-Cultural Context Psi Research in Brazil                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/mental-mediumship-research

@@ -1,0 +1,318 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/psychokinesis-research","mytitle":"Psychokinesis Research | Psi Encyclopedia","mylang":"de"}
+                     Psychokinesis Research | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Psychokinesis Research                                                                                                                                                                                                                          This article describes the evolution of experimental studies of mind-matter interaction, commonly referred to as psychokinesis (PK). It ranges from early dice studies through to effects on random number generators (RNGs), both in the lab and in the field. It concludes with a description of recent investigations of the role of consciousness on quantum processes such as photon entanglement. Meta-analytic evidence is given to understand the strength of the findings. Theoretical considerations are also covered.   Contents   	Background 	Dice Throwing  	Meta-analysis of Dice-PK Work   	Random Number Generators (RNGs)  	Schmidt Replications 	PEAR (1979-2007) 	Meta-Analysis 	Retro-PK Meta-analysis 	Hidden-RNG: Implicit and Field PK Research 	RNGs in the Field 	Global Consciousness Project 	Burning Man Festival Research 	Portable RNGs 	Current Research Using RNGs   	Theoretical Issues 	Correlational Matrix Experiment (CMM) 	Current Non-RNG Research  	From Wave-Particle Duality to Entanglement   	Table 1: A review of the evidence for Mind-Matter effects 	Literature 	Endnotes     Background
+
+PK research covers a wide range of apparent psi phenomena, from the early studies of Victorian era physical mediums, such as Daniel Dunglas Home,1 poltergeist investigations, such as the Enfield case,2 to influence on biological systems, from enzymes3 to human physiology,4 and perturbations on non-living systems such as the behaviour of tumbling dice5 and random number generators.6 The statistical behaviour of the system is observed in preference to visible manifestations such as a bending spoon, and the evidence consists of cumulative effects from many studies rather than from single studies.  Dice Throwing
+
+In 1933, Joseph Banks Rhine opened up experimental psi research at the then Duke University Psychology Lab. That same year he was approached by a young gambler, who believed he could sometimes influence the outcome of throwing a die simply by wishing for it.7 Rhine was initially sceptical, and the results of informal testing were unimpressive. But he was taken with the feasibility of this method, and launched a formal experiment with 25 subjects attempting to influence the fall of a pair of dice. &nbsp;They were instructed to wish for the sum to exceed 7. The probability of this occurring by pure chance is 5 in 12, or 41.7%: in 562 runs of 12 trials each. In fact, they obtained an average score of 5.53 times per run, slightly above the chance expectation, but statistically highly significant.8
+
+Looking for a conventional explanation, Rhine speculated that the extra pitting on high value faces could bias the weight distribution, in a way that caused these to come up more frequently. To eliminate this possibility, in the next experiment9 participants were asked to will for a total less than 7, or 7 exactly, to ensure this would operate against any biasing effect. However, the results were again very significant, suggesting dice bias was not the explanation of the above-chance effects in either experiment.
+
+Rhine continued dice PK experimentation with more stringent conditions, for instance using high quality casino dice and randomly choosing what face to wish for. To remove any possibility of direct physical influence, machines were introduced that tumbled the dice, released them automatically and photographed the outcome. &nbsp;In due course the process was standardized to a run of 24 throws where the expected number of hits would be 4 (1/6*24).
+
+In 1943, Rhine published an overview of 20 experiments carried out over 9 years.10 The early ones were marred by flaws, but overall the results were significant. But more evidential than the above-chance scoring was the appearance of an unexpected pattern in the data. The record sheets were divided into quarters, and detailed analysis revealed a marked fall-off in hit rates as each quarter progressed. This ‘quarter decline effect’ was extremely significant at 100 million to one, and being difficult to explain in terms of recording mistakes or design artefacts was considered by Rhine to be strong evidence for a mind-matter effect.
+
+This work continued at the Duke lab with the controls being tightened still further, and variables thought to modulate the effect, such as tumbling method and number of die faces, being examined. &nbsp;
+
+Unfortunately, a scathing article by psychologist Edward Girden11 in 1962 that pointed out weaknesses in the early work – that had since been ironed out – dampened down research in this area considerably, as&nbsp;parapsychologists turned their attention elsewhere. This fostered the perception that is was a fruitless and moribund area of research. It would take the development of a revolutionary way at looking at masses of experimental data into a unified whole – a process termed meta-analysis – before the significance of cumulative PK dice data would be revealed.  Meta-analysis of Dice-PK Work
+
+Meta-analysis was first applied to parapsychological findings in 1940,12 but was first applied to dice work in 1990 with a paper entitled “Effects of Consciousness on the Fall of Dice” by Dean Radin and Diane Ferrari.13 They traced a total of 148 studies carried out by 39 investigators involving some 2.5 million dice throws, and calculated the collective level of significance at an astronomical 1070 to one (a ten followed by 70 zeros). To control for artefacts caused by poor methodology they then analysed the 69 best controlled studies, finding a statistical effect of a million to one against chance. Weighting all the 148 studies by quality reduced the effect size by half, but the effect was still highly significant, confirmation that it was not the result of selective reporting or the work of a few successful experimenters.  Random Number Generators (RNGs)
+
+In the early 1970s a new line of automated PK research was initiated by Helmut Schmidt, a physicist and former leading researcher at Boeing who had joined the Institute for Parapsychology (as the Duke Parapsychology lab had been renamed. In an initial experiment, a participant was presented with a metal box, about a foot square, on the top of which a circle of nine lamps flashed in sequence. His task was to attempt to influence the sequence of lights in a particular direction – either clockwise or counter-clockwise, during the experimental runs. This was the beginning of a new paradigm in psi research that involved influencing atomic events. The lamp display was connected to a random number generator (RNG) in another room. &nbsp;The RNG contained a counter cycling between one and two at a rate of a million times per second: when an electron from a sample of radioactive Stronium-90 inside the box was detected by a Geiger tube, the counter in either the one or the two position, causing the display to turn clockwise or counter-clockwise respectively.14
+
+This pilot experiment produced results opposite to expectation: in 27,648 binary trials (216 runs of 128), the data were nearly significantly below chance. Such ‘psi missing’ effects are common in parapsychology, and often hint at underlying processes or conditions that were not initially planned for or expected. For his second experiment Schmidt decided to predict negative scoring,15 enlisting negative scorers from the first. The outcome showed highly significant odds against chance of more than a thousand to one, and a scoring rate of 49%, against the expected 50%.
+
+In the ensuing years, Schmidt reported a large number of studies aimed at unlocking the mystery of mind-matter interactions. Such studies are known as ‘process-oriented’, in that they aim to understand the basis of an effect rather than simply accumulate more evidence that an effect exists (proof-oriented research).
+
+In one such study Schmidt found that the speed at which a RNG operates influences the level of success, higher speeds producing lower scoring rates.16 In another experiment, alternating between a complex and simple RNG – without the subject knowing – made no difference to the results, with equally significant findings from both. He concluded that PK ability is a goal-oriented phenomenon. As long as the system is fundamentally random, the technical specifications make little difference to the outcome; the determining factor is the psychological state of the participant. Schmidt termed this the Equivalence Principle.17  
+
+If we have two [structurally different, but] truly random generators, operating such that the generators are from the outside physically indistinguishable, then a PK effort affects [each] system to the same degree, i.e., the systems are also indistinguishable in their response to a PK effort.
+
+He continues  
+
+PK may not be properly understood in terms of some mechanism by which the mind interferes with the machine in some cleverly calculated way ... it may be more appropriate to see PK as a goal-oriented principle, one that aims successfully at a final event, no matter how intricate the intermediate steps.
+
+Extending the Equivalence Principle to operate on different timescales, Schmidt opened up a new line of research: that of retroactive psychokinesis, or retro-PK. Schmidt reasoned that if PK effects were truly goal-oriented, then the time of target generation should provide no barrier to its operation, his reasoning heavily influenced by quantum mechanical theories (see below). To test this empirically, in his first retro-PK experiment conducted in 1976, half of the RNG output was presented as audible clicks through headphones. The participant was not aware that the other half was from a pre-recorded RNG: the output had been saved on tape a day or two earlier. In this ingenious experiment, and under identical psychological conditions, the hit rate was the same as before, with odds against chance of just under a thousand-to-one.18
+
+Schmidt’s next experiment sought to capitalize on this newfound effect by repeatedly interspersing pre-recorded clicks with real time clicks. Here, the exposure to the pre-recorded clicks resulted in a hit rate several times higher than with the real-time clicks, evidence of an additive effect of consciousness on the same RNG output.19
+
+Schmidt continued throughout the 1970s and 1980s to accumulate evidence in support of the operation of retro-PK, often in collaboration with others. The overall odds against chance for the body of work was around 10,000 to 1, a high level of significance achieved in well controlled conditions.20
+
+Realizing that mainstream scientists would not easily be persuaded, Schmidt adapted his pre-recorded methodology to incorporate sceptical observers. &nbsp;In these high-security experiments, the outside observer kept a duplicate of the pre-recorded output and randomly determined which runs Schmidt would use. The unused runs served as controls. Once the experiment was over, the results were compared and found always to match. Five such studies conducted during the early 1990s produced overall odds against chance of around 4,000 to 1.21
+
+As a physicist, Schmidt did not hesitate to speculate about the theoretical basis for these results. &nbsp;According to the standard Copenhagen interpretation of quantum physics, the nebulous set of potential values for a given quantum process become ‘fixed’ to definite values once a measurement has occurred on the system. No distinction is made between a measuring device and a conscious human observer: both should ‘collapse the state vector’ and fix reality. Schmidt, by contrast, argued that a human mind was a necessary element for collapse to occur. In a retro-PK experiment, the clicks generated by the random number generator a day or week ago, simply exist as a mix or ‘superposition’ of probabilities: only when someone listens to the output does the system collapse to a given value, a left or right click, representing a one or a two produced by the RNG.&nbsp;
+
+Today, many researchers in parapsychology go further, arguing that to account for the statistical biases in RNG experiments, consciousness must inject information into the system – steering reality, as it were.&nbsp; The psychological state of the subject is of utmost importance, as opposed to the RNG’s technical specifications, in accordance with Schmidt’s Equivalence Principle. (More on theoretical issues below.)
+
+Schmidt was a&nbsp;prolific and successful researcher. Over three decades he published fifty research studies in more than twenty publications, of which 75% were independently significant, and half were highly significant.22 What would account for success on this level?
+
+A possible reason is that Schmidt sought out promising subjects, such as mediums and people who had done well in previous experiments. To identify potential high scorers he carried out pre-screening in pilot tests. He was also good at generating a warm and encouraging atmosphere, conditions widely recognized as conducive to psi. This approach is supported by some present-day researchers, who assume that psi ability is found in a narrow segment of the population. According to this ‘elitist’ view, the effect of mass testing in the general population is merely to weaken the results gained by the talented few. By contrast, holders of the universalist approach assumes psi ability is normally distributed within the population, and Schmidt’s ‘special subjects’ represent the tail end of the distribution curve (see below).  Schmidt Replications
+
+Schmidt’s result spurred the parapsychological community into replicating his efforts. Some followed his elitist path, but most preferred the universalist approach, recruiting from among the general population or, more usually, psychology students.&nbsp; However, this was quickly found to result in erratic results and low effect sizes, and so was combined with process research in order to discover the optimum conditions for mind-matter interactions to manifest. &nbsp;
+
+Since the psychological conditions of the subject appear paramount, this has been a main topic of research in PK studies, with motivation emerging as perhaps the most important ingredient. A fine study in this area was conducted by Broughton and Perlstrom in 1987 at the Foundation for the Research of the Nature of Man (FRNM) (now the Rhine Research Institute). The pair disguised a PK trial as a competitive dice game (essentially a Schmidt RNG machine connected to a computer) and invited local Duke University students to play against their arch-rivals from neighbouring University of North Carolina (UNC) – a contest that was likely to be hard fought.
+
+The participants were told that they were going to play a warm-up run followed by the competitive game (in fact both were played against the RNG.) Contrary to the researchers’ expectation, the competitive element made little difference to the outcome. However, they also scored individual subjects on standard personality measures, and found that those who scored highly for anxiety perturbed the RNG to produce below chance results, significant psi missing. As might be expected, this occurred only in the competitive condition, not the warm-up.23 Such a result makes perfect intuitive sense, when the anxiety-inducing nature of competitive situations is taken into account: those naturally anxious will become even more anxious under pressure and bias the RNG in a negative way, if such abilities are genuine. &nbsp;
+
+Further evidence of motivational influences – in dice experiments as in other areas of psi research – is found in decline effects, where the subjects start well but see a gradual decline in performance as boredom and fatigue set in. This effect has been found in individual experiments, in experimental series, and even whole research programs. &nbsp;
+
+Researchers have also reported that meditators make excellent subjects, with length of meditation experience tending to correlate with level of PK ability. More generally, a relaxed but engaged mindset – termed ‘passive striving’ – seems crucial, having been confirmed to such a degree that researchers routinely create conditions likely to elicit it.  PEAR (1979-2007)
+
+Another approach is simply to collect large quantities of data from hundreds of subjects over several decades, as was done at Princeton University. In 1978 Robert Jahn, then professor of aerospace engineering, agreed to a student project proposal to design a random number generator capable of registering human intention. Initially sceptical, Jahn was intrigued when the endeavour returned positive evidence in favour of an effect, and tested it himself, also getting positive results. Jahn saw this as engineering problem that could not be ignored, and founded the Princeton Engineering Anomalies Research (PEAR) laboratory. Over nearly three decades he and his team accumulated huge amounts of experimental data that persuasively document the existence of mind-matter effects from several different research programs.24
+
+The principal source was the ‘Benchmark’ experiment. This was a high-quality RNG equipped with environmental sensors and alarms, that was calibrated extensively before, during and after running experiments. At the heart of the RNG was a Zener diode that produced random quantum jumping. This activity was sampled 200 times a second, such that the average value per trial would be 100. The lab utilized a stringent tripolar protocol, where operators (subjects) carried out ‘intention’ trials aiming both high and low, and these were randomly interspersed with control trials. This ensured any environmental influence on the RNG would be cancelled out in the intention trials and detected in the control trials.
+
+Using this airtight methodology, the PEAR team conducted tens of thousands of trials over the years, and although the deviation was minuscule – of the order of 1 bit in 10,000, the concatenated odds rose to over a trillion to one against chance. The PK effect was also found in remote influence studies, where operators succeeded in influencing the machines from a distance, in some cases several thousand miles away. Subjects were recruited from the local population, although much of the positive data was in fact contributed by just two individuals. The PEAR lab also discovered secondary characteristics in the data such as position and decline effects, differences based on sex, and the effect of operator pairing – opposite sex couples performing best. &nbsp;
+
+By the mid-1990s the database was well established, and the success prompted a large scale consortium 25 replication between three German labs and the PEAR lab. The effects were smaller and statistically insignificant (see below), although many of the secondary effects were replicated.
+
+PEAR also used other devices, notably its Random Mechanical Cascade,26 a nine-foot vertical contraption that dropped 9,000 small polystyrene balls onto a grid of 336 evenly spaced nylon pegs, and collected them in digital counting bins at the bottom. &nbsp;Operators were encouraged to influence the fall of the balls to the left or right. The results were in general agreement with the RNG data, minuscule but highly significant, and with similar secondary effects.  Meta-Analysis
+
+By 1987 a large number of RNG studies had been carried out, sufficient to carry out a meaningful meta-analysis. Radin and Nelson scoured the extant literature,27 including conference proceedings (a rich source for study retrieval), and identified 597 studies from 152 papers conducted by 68 researchers. &nbsp;The overall effect was astronomically significant at 1035 to 1 (10 followed by 35 zeros).
+
+To control for poorly designed studies, Radin and Nelson quality-coded each study but found no relationship between study outcome and quality scores. They next tested for a ‘file drawer’ effect, determining that 54,000 unreported and non-significant studies would be required to bring the overall findings down to chance levels (some 90 times the number of published studies).
+
+Radin and Nelson carried out a second meta-analysis in 2000 that included an additional 176 studies.28 Here, the large-scale PEAR work, some 258 studies and the PEAR consortium replications were collapsed to single data points, to prevent these datasets overly influencing the meta-analytic findings. The 176 new studies – of which 92 were carried out after 1987, the cut-off date for the 1989 meta-analysis – were combined with the 339 studies from 1989 to produce a total of 515 studies. The overall effect was 0.7% above chance, small but again astronomically significant, with odds of less than 1050 to that it could have occurred by chance. &nbsp;Methodological quality was found to have improved substantially over time, but contrary to sceptical expectations this did not lead to a significant change in outcome.
+
+A third meta-analysis by psychologists Bosch, Steinkamp and Boller was published in the prestigious journal Psychological Bulletin in 2006.29&nbsp; This found a greatly reduced overall effect of around 4 sigma, 10,000 to 1. The authors also claimed to have found evidence of selective reporting, which, when taken into account, would nullify even this level of significance.
+
+This finding was criticized in a paper the same year by Radin, Nelson, Dobyns, and Houtkooper.30 They pointed out that Bosch et al had confirmed many of their own earlier findings: that existing studies provide statistical evidence for psychokinesis, that the evidence is generally of high methodological quality, and that effect sizes are distributed heterogeneously. But they rejected the authors’ assertion that the heterogeneity is attributable to selective reporting, which they attributed to a misunderstanding. They write:  
+
+Bösch et al. assumed that effect size is entirely independent of sample size. For these experiments, this assumption is incorrect; it also guarantees heterogeneity. The authors maintain that selective reporting is an implausible explanation for the observed data and hence that these studies provide evidence for a genuine psychokinetic effect.
+
+Radin et al also pointed out that the Bosch meta-analysis imposed stringent criteria, excluding studies of animal PK, and imposing statistical restrictions. From 372 reports, only 117 were selected, fewer than a third of the earlier meta-analyses. They regarded these exclusions as questionable, introducing important factors that the reader would not be able to evaluate.
+
+Even more concerning, when an extremely large and specialised ‘Mega-REG’ study from the PEAR lab, that utilized extraordinarily large counting rates (up to a million bits per second) is included, it causes the overall meta-analytic effect to disappear entirely (in fact, it becomes significantly negative). Such impact from the inclusion of a few studies is a red flag, but more crimson indicators were to be found.
+
+German physicist and psychologist Wilfried Kugel31&nbsp;sought more details from the authors of the meta-analysis, and identified potentially serious flaws. For instance, he found that they had accidently included ESP control data, which would not be expected to be significant and were also guilty of the biased selection of negative findings culled from generally positive experiments, a practice that would greatly reduce the estimated effect size.
+
+In sum, the only RNG meta-analysis showing weak effects is itself vulnerable to the suspicion of poor methodology by the analysts, rather than inherent shortcomings in the actual data. But the disparity, which has also appeared in other areas of experimental psi research, highlights the weakness of &nbsp;meta-analysis as a tool for reliably identifying the existence of an effect. To address this, parapsychologists are now designing prospective meta-analyses, that deals with concerns of inclusion criteria and statistical measures before experiments are carried out.  Retro-PK Meta-analysis
+
+Schmidt’s retro-PK studies were not included in any of these meta-analyses, since the protocol is substantially different. Yet these also constitute strong evidence for PK, not least because the control is necessarily tighter than regular real-time PK&nbsp; trials, the targets having been generated before the trial takes place. Bierman collated 26 known retro-PK experiments, and the overall effect was at a sigma of 5.31, that is significant at around 20,000,000 to 1.
+
+This study also uncovered an enormous variance between positive and negative effect sizes, which itself is highly significant with odds of 630 billion to one against occurring by chance.32 The reasons for this are not well understood, but it seems that retro-PK effects are especially sensitive to factors that impinge on directionality, such as the psychological state of the participants.  Hidden-RNG: Implicit and Field PK Research
+
+The RNG-PK tests described so far are volitional: the subject&nbsp;makes a conscious effort to bias the RNG output. A separate area of mind-matter research uses RNGs to pick up unconscious influences. The first experiments of this kind were based on Rex Stanford’s Psi Mediated Instrumental response (PMIR) theory developed in 1974.33&nbsp; This attempts to explain spontaneous psi experiences through the prism of careful experimentation: Stanford hypothesized that our desires and needs unconsciously utilize our psi ability to achieve their goals.
+
+The theory has three main planks:   	people can use ESP in experiments without any conscious awareness that they are doing so, and without any intention of using it 	ESP can be used, without intentions or awareness, to fulfil needs 	PK, like ESP, can also be used, without intention or awareness, to fulfil needs
+
+Stanford found strong evidence that ESP could be used non-intentionally to satisfy needs. But what about PK?
+
+In an ingenious experiment,34 40 males were tested for their ability to unintentionally use PK. They were first asked to perform a conscious volitional PK test on a Schmidt RNG-type machine. Next they were informed that they would be doing a psychology experiment on the co-ordination of movement, known as pursuit rotor tracking; a tedious task taking up to 45 minutes. They were unaware that a RNG had been set up nearby, calibrated to produce ten random pulses in one of six different channels every ten seconds. If the machine produced seven or more pulses in one channel for a given ten second period (an extremely unlikely event), the task was terminated and the individual was rewarded with a viewing of erotic material. This is a test of need based psychokinesis, where the subject is unconsciously offered a means to get out of a boring task.
+
+The results were clear cut. Slightly over 7% of the subjects would have been expected to achieve this by chance, but in fact 20% did so – powerful evidence that unconscious human needs can manifest on random systems. These types of experiments were replicated by Stanford and others. (The model of ubiquitous psi that can manifest unintentionally is discussed in First Sight: ESP and Parapsychology in Everyday Life by James Carpenter.35)  RNGs in the Field
+
+If a RNG can register the unconscious needs of an individual, can it do the same with groups of people engaged in a single highly cohesive activity? PEAR’s Roger Nelson developed portable RNGs to try to detect anomalous fluctuations at religious and spiritual locations and events, such as the pyramids, Pagan festivals, and the like. As he predicted, the devices often registered deviations from random behaviour, and usually during periods of maximum emotional engagement. He found the effect at rock concerts, political gatherings and meditation retreats, events that cultivated a focused attention by a large gathering of people.36
+
+In the ensuing years, technology has enabled even more accessible portable RNG studies, and other groups have replicated Nelson’s initial work. More than a hundred Field RNG studies have accumulated convincing evidence of group cohesive effects. For example, &nbsp;Dean Radin trained groups of 20 people&nbsp; to psychologically connect with each other &nbsp;by listening to binaural beats, and during these sessions tested for collective effects on RNGs, finding a correlation between level of subjectively recorded group coherence and RNG output, at odds of 120 to 1 against chance.37  Global Consciousness Project
+
+The Global Consciousness Project (GCP) evolved from the field RNG work, based on the hypothesis that the energy generated by certain major events might be picked up by random number generators. &nbsp;It was begun in 1998, following research a year earlier in which RNGs in the US and Europe collectively registered significant departures from random behaviour during the funeral of Princess Diana. Eventually a total of 75 RNGs across the globe were sending data to a server in Princeton maintained by Nelson.
+
+Many examples of world events generating such anomalies can be found in the GCP website http://noosphere.princeton.edu/. Perhaps the most striking is the 9/11 World Trade Centre attacks, when the GCP registered non-random behaviour over several days. The RNGs started to deviate several hours before the first plane hit, suggesting some sort of collective precognitive influence on the network.
+
+The GCP project was wound down after it had registered exactly 500 global events. The focus then shifted to analysing the data to explain the nature of the effect. The overall level of significance is over 7 sigma, around a trillion to one.38 Underlying structural features have been identified, such as an inverse distance correlation between RNGs, with&nbsp; greater separation resulting in weaker correlations; and a tendency for stronger deviations to occur during the day, when people are awake.  Burning Man Festival Research
+
+The Institute of Noetic Sciences (IONS) carried out research during the annual Burning Man event, an 8-day festival in the Nevada desert that attracts around 50,000 festival goers, futurists and tech-gurus. The area is transformed into a dreamscape of surreal architecture, weird exhibits, and strange modes of transport, climaxing with the burning of a huge wooden man and temple. Researchers predicted that the huge focus of attention and release would make a suitable test for field-RNG effects.&nbsp; Over five years from 2012 they collected RNG data during the main events, using a variety of protocols and RNG types, and reported significant evidence of field like effects. They also found intriguing effects based on distance and time.  Portable RNGs
+
+The hardware in a personal phone can potentially serve as a portable RNG, opening the possibility that millions of such devices could be running at any one time. This is being explored by Adam Curry’s Entangled project, based on a phone app. Once developed, this mass experiment will probe questions related to collective consciousness effects; it will also enable users to monitor for individual synchronicities with emotionally significant occasions. These data will complement – and most likely eventually eclipse – those of earlier field RNG work and the Global Consciousness Project.39  Current Research Using RNGs
+
+Several groups are currently using RNGs to complement their research programs, but now generally as an adjunct to other approaches rather than as the sole focus. The Dutch
+
+Groningen group led by Jacob Jolij carried out a large scale replication to test its earlier observation that accuracy was greater from randomly generated targets than targets generated pseudo-randomly generated. The result was statistically significant, with added weight from the experiment having been pre-registered.40
+
+Professor Markus Maier, at the University of Munich’s Emotion and Motivation laboratory,&nbsp;has carried out PK research in addition to precognition research. His group asks what happens when special groups are tested under conditions that manipulate need, echoing Rex Stanford’s PMIR research (above). In one study, Maier and Deschamps exposed smokers to smoking-related material, where the images are controlled by a RNG. This resulted in significant biasing of the RNG to produce fewer images than chance would predict. The authors explain this by the ‘emotional transgression’ model: the subject’s unconscious drives attempt to manipulate the conscious self into desiring precisely what the unconscious wants; in this case, reducing the amount of smoking material will engender greater desire for smoking.
+
+This initial experiment was highly significant, reaching a sigma of 4 (around 10,000 to 1). In a replication attempt the effect disappeared, although the aggregate result was still just significant with a sigma of 2 (such declines are common in psi research, see below). Maier has modelled his data from several experiments and found a harmonic oscillation, in that the effect seems to rebound after an initial decline, but to a lesser extent than previously.41
+
+Other groups utilize random number generators as additional ‘sensors’ in healing research. For example Radin found highly significant deviations in RNG output when a healer attempted to project healing energy at brain cells growing in a culture medium.42 Interestingly, the effects on the random number generators were more pronounced statistically than the effect on the cells themselves. &nbsp;Healers have also been regularly tested at both the Rhine Research Centre and the Division of Perceptual Studies (DOPS) at the University of Virginia. Results from these large-scale programs are forthcoming.43
+
+Inspired by the work of the PEAR lab, Psyleron&nbsp;was set up by John Valentino in order to develop marketable applications for mind-matter effects. One of the most successful is a ‘mind lamp’ in which a RNG dictates the sequence of colours displayed.
+
+Patrizio Tressoldi’s newly founded Evanlab In Italy is one of several interested in applications such as mind controlled devices. Some of their work is detailed here. If these and other approaches produce reliable applications, this will be a huge advance for the field.  Theoretical Issues
+
+The implications for RNG-PK research of the act of observation on quantum collapse (see Helmut Schmidt, above) can be augmented with those relating to quantum entanglement. &nbsp;Here, any system that has a shared past, but becomes separated through time or space, retains a measurable connection: where a pair of electrons are ejected in opposite directions, measuring one will instantly fix the properties of the other. Furthermore, if the spin of one electron is influenced to rotate in one direction, the other electron will instantaneously spin in the opposite direction, even at distances that would mean exceeding the speed of light.
+
+In 2002, Atmanspacher, Römer and Wallach formulated their Generalized Quantum Theory (GQT), proposing the existence of non-local entanglement correlations as the underlying cause of psi effects. Correlations between individual resulted in telepathy; those between an individual’s mind and future states of mind, or other systems, led to precognition; those between mind and matter were expressed as psychokinesis.
+
+The authors developed their theory in conjunction with Walter von Lucadou’s Model of Pragmatic Information,44 attempting to explain the pervasive decline effect in repeat tests of psi phenomena.45 This occurs not only in psi research: a fall-off in effects in repeated testing is common across the social sciences and even medical research. (It must be emphasized that the overall effects in various psi domains remain vastly significant even with the declines). One possibility is that there is a more fundamental reason for declines than boredom and fatigue. It might reside in the subject matter itself, that is, the underlying physics of the phenomena under scrutiny.
+
+A core principle of entanglement is that it is impossible to transmit a signal between entangled systems. Such a signal would lead to disintegration of the sensitive entangled correlations, a process termed decoherence, in order to satisfy the second law of thermodynamics. This law states that entropy (the randomness of a system) increases with time, while information transfer in entangled states would lead to less statistical uncertainty, that is, to less entropy with time. Wallach, Atmanspacher and Römer hypothesize that this is the reason psi results are often prominent at the beginning of an experimental paradigm, as the correlations are only starting to appear, but as the threat of an unlawful signal transfer rises with further replications, the decline effect intervenes to prevent such a gross violation of the laws of physics. The processes underlying the decline effect are still a mystery, but this is the subject of a multi-lab research effort that is currently underway.46  Correlational Matrix Experiment (CMM)
+
+Although the decline effect has prevented the original non-local entangled states from transmitting a signal, it does not preclude other correlations from developing, thus allowing a potential ‘outlet’ for the psi effect to manifest. If this is so, it should be possible to design experiments to test for this.
+
+Beginning in the mid-1980s, Walter von Lucadou developed a RNG-PK experiment with a twist. Participants are instructed to influence the output as in a regular PK experiment; however, the primary concern is not to obtain evidence of a direct effect, but rather the correlations between psychological variables, identified by a personality test, and physical variables such as voltage spikes or measures of autocorrelation. Lucadou found more than twice as many correlations during the experimental sessions than the control sessions: the effect was huge, with a sigma of 5.5 (1,000,000 to 1).47
+
+The methodology was tightened in later experiments, where the psychological variables were refined into simpler measures such as frequency of button presses and the physical variables of interest made more bias-proof, but still, the effect was still seen at the same level of significance has before
+
+The first major independent replication by Harald Wallach found the same preponderance of correlations in the experimental versus control condition.48 More recently, his PhD student based at Edinburgh’s Koestler Unit, Ana Borges Flores, has replicated this experiment, twice obtaining sigma’s greater than 6 – in the realm of billions to one against chance, even using more conservative permutation analyses.49 &nbsp;Mainstream physicists are taking notice and have started to incorporate this approach into their research programs: for example Hartmut Grote at the Max Planck Institute for Gravitational Physics recently published a triad of mind-matter experiments, the most successful testing this paradigm.50
+
+Summarizing 13 experiments so far, Von Lucadou found nearly all of them expressed significance.51 Usually in parapsychology, for a given research program, anywhere from 20 to 40 per cent of research studies are significant, so this appears to be a promising avenue of exploration. A research consortium of some 20 investigators, funded by the Bial foundation, is planning a series of large scale replications in the near future. (Such projects are becoming more frequent in psi research, as they allow funds to be channelled to high impact research which benefits from the input of mainstream scientists from several disciplines.)  Current Non-RNG Research
+
+Recent research that has been carried out into PK influences on non-living systems does not involve random event generators. In 2008, Dean Radin began a series of experiments based on the classic two-slits experiment in quantum mechanics. The traditional experiment demonstrates the complementary nature of sub-atomic particles as both particle and wave. Photons shot at a plate with parallel slits will be found to have landed on the screen behind it in parallel groups corresponding to the slits – but only if they are being observed or measured. If they are not being observed or measured, they are found to have behaved not as particles but as waves, forming an interference pattern of alternating dark and light bands on the screen.
+
+Radin looked to see whether the influence caused by observation could also occur remotely, by subjects sporadically directing their attention to a sealed two-slits set-up located at a distance. He reasoned that if focused attention could gain information about the path of the photons, at least in some cases, this would count as ‘observation’ and weaken the typical interference pattern of light and dark bands.
+
+Reviewing 16 experiments carried out up to 2014, Radin reported&nbsp;a sigma of 8 (billions to one against chance) for the composite result.52 He also described process-oriented work, for instance finding correlations between effect size and certain EEG rhythms. Radin also found highly significant effects in studies done over the Internet, which could not be dismissed as local artefacts. The effect has recently been replicated by Gabriel Guerrer at the University of Sao Paolo, Brazil, in five studies over two years, at a collective level of 5 sigma. Guerrer is refining and extending his research program. 53  From Wave-Particle Duality to Entanglement
+
+Radin has extended this work by exploring the role of mind on the entanglement of a pair of photons. The analysis of an online study is ongoing and the results are said to be promising; large scale lab replications at IONS are planned also. This experiment is being replicated by Peter Bancel.54  Table 1: A review of the evidence for Mind-Matter effects   	 		 			
+
+Researchers 			 			
+
+Date 			 			
+
+Review or Meta-analysis 			 			
+
+Number of studies 			 			
+
+Subject matter 			 			
+
+Results / conclusions 			 		 		 			
+
+Rhine 			 			
+
+1943 			 			
+
+review 			 			
+
+20 			 			
+
+Early dice studies 			 			
+
+Reliable effects with quartile declines 			 		 		 			
+
+Radin and Ferrari 			 			
+
+1990 			 			
+
+meta-analysis 			 			
+
+69 			 			
+
+Later dice studies 			 			
+
+Extremely significant in this high quality sub-set 			 		 		 			
+
+Schmidt 			 			
+
+1997 			 			
+
+review 			 			
+
+50 			 			
+
+RNG studies 			 			
+
+¾ significant. 			 		 		 			
+
+Radin and Nelson 			 			
+
+2003 			 			
+
+meta-analysis 			 			
+
+515 			 			
+
+RNG studies 			 			
+
+1050 to 1.&nbsp; (PEAR data collapsed to just a single study) 			 		 		 			
+
+Nelson 			 			
+
+2007 			 			
+
+review 			 			
+
+1000,s 			 			
+
+PEAR lab RNG data 			 			
+
+1012 to 1. 			 		 		 			
+
+Von Lucadou 			 			
+
+2017 			 			
+
+review 			 			
+
+13 			 			
+
+RNG – correlational matrix experiment 			 			
+
+1013 to 1. 			 		 		 			
+
+Radin 			 			
+
+2015 			 			
+
+review 			 			
+
+17 			 			
+
+Double-slit 			 			
+
+1012 to 1.&nbsp; 			 		 	   Literature
+
+Atmanspacher, H,&nbsp; Römer. H., Walach, H. (2002). &nbsp;Weak Quantum Theory: Complementarity and Entanglement in Physics and Beyond. Foundations of Physics 32(3), March
+
+Bösch, H. (2004). Reanalyzing a meta-analysis on extra-sensory perception dating from 1940, the first comprehensive meta-analysis in the history of science. In S. Schmidt (Ed.), Proceedings of the 47th Annual Convention of the Parapsychological Association, University of Vienna, (pp. 1–13).
+
+Bösch, H., Steinkamp, F., &amp; Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators – A meta-analysis.&nbsp;Psychological Bulletin, 132(4), 497-523.
+
+Broughton, R. S. and Perlstrom, J. R. (1986). PK experiments with a competitive computer game. Journal of Parapsychology 50, 193-211.
+
+Bunnell, T. (1999). The Effect of “Healing with Intent” on Pepsin Enzyme Activity. &nbsp;Journal of Scientific Exploration 13/2, 139-148.
+
+Carpenter, J. (2012). First Sight: ESP and Parapsychology in Everyday Life. Lanham, Maryland: Rowman and Littlefield
+
+Fodor, N. (1934). &nbsp;An Encyclopaedia of Psychic Science. London: Arthur.
+
+Girden, E. (1962). A review of psychokinesis (PK). &nbsp;Psychological Bulletin 59, 353-388.
+
+Grote, H.&nbsp; (2017). &nbsp;Multiple-Analysis Correlation Study between Human Psychological Variables and Binary Random Events. Journal of Scientific Exploration 31/2, 231–254.
+
+Helfrich, H. &nbsp;(2007). Is the Psychokinetic Effect as Found with Binary Random Number Generators Suitable to Account for Mind-Brain Interaction? Journal of Scientific Exploration 21/4, 689-705.
+
+Kugel, W (2011) A Faulty PK Meta-Analysis. Journal of Scientific Exploration, Vol. 25, No. 1, pp. 47–62, 2011
+
+Lucadou, W. V. (1987) A multivariate PK experiment. Part I. An approach combining physical and psychological conditions of the PK process. European Journal of Parapsychology 6/4, 305-45.
+
+Nelson, R. D., Bradish, G. J., Dobyns, Y. H., Dunne, B. J., &amp; Jahn, R. G. (1996). Field-REG anomalies in group situations.&nbsp;Journal of Scientific Exploration 10, 111-41.
+
+Playfair, G. L.&nbsp; (2011). &nbsp;This House is Haunted. White Crow Books.
+
+Radin, D,.&nbsp; Ferrari, D.&nbsp; (1991). Effects of Consciousness on the Fall of Dice: A Meta-Analysis. Journal of Scientific Exploration 5/1, 6 1-83.
+
+Radin D,&nbsp;Yount G. J., (2004). Effects of healing intention on cultured cells and truly random events. Journal of Alternative and Complementary Medicine 10/1, 103-112.
+
+Radin, D., Nelson, R., Dobyns, Y., &amp; Houtkooper, J. (2006). Re-examining psychokinesis: &nbsp;Comment on Bösch, Steinkamp, and Boller (2006).&nbsp;Psychological Bulletin, 132/4, 529-532.
+
+Radin, D,. (2009).&nbsp; Exploratory Evidence for Correlations Between Entrained Mental Coherence and Random Physical Systems. &nbsp;Journal of Scientific Exploration 23/3, 1-10.
+
+Rebman, J. (1995). Remote influence of human physiology by a ritual healing technique.&nbsp; Subtle Energies&nbsp; 6/2, 112.
+
+Rhine, J. B. &nbsp;(1943).&nbsp; Dice&nbsp;Thrown by Cup and by Machine in&nbsp;PK&nbsp;Tests. Journal of Parapsychology 7, 207-17.
+
+Schmidt, H. (1970). A PK test with electronic equipment.&nbsp;Journal of Parapsychology 34/3, 175-181.
+
+Schmidt, H. (1970). A PK test with electronic equipment.&nbsp;Journal of Parapsychology, 34(3), 175-181.
+
+Schmidt, H and Pantas, L, (1972). PK tests with internally different machines. Journal of Parapsychology 36/3, 222-232.
+
+Schmidt, H. (1976). PK Effect on Pre-Recorded Targets. &nbsp;Journal for the American Society for Psychical Research&nbsp;70, 267-291.
+
+Schmidt, H.&nbsp; (1987).&nbsp;The Strange Properties of Psychokinesis Journal of Scientific Exploration 1/2.
+
+Schmidt, H. (1993). Observation of a psychokinetic effect under highly controlled conditions. Journal of Parapsychology 57, Dec. 351-372.
+
+Stanford,&nbsp;R. G. (1974a). An experimentally&nbsp;testable model&nbsp;for spontaneous psi events: I. Extrasensory events. Journal of the&nbsp;American Society for&nbsp;Psychical Research 68/1, 34-57.
+
+Stanford,&nbsp;R. G.&nbsp;(1974b). An experimentally&nbsp;testable model&nbsp;for spontaneous psi events: I. Extrasensory events. Journal of the&nbsp;American Society for&nbsp;Psychical Research 68/4, 321-356.
+
+Walach, H., Horan, M. (2014). Capturing PSI: Replicating von Lucadou’s Correlation Matrix Experiment using a REG Micro-PK. Presentation at the BIAL Conference, Porto, March 2014   Endnotes 1. Fodor, N. (1934). 2. Playfair, G.L. (2011). 3. Bunnell, T. (1999). 4. Rebman, J. (1995). 5. http://www.williamjames.com/Science/PK.htm 6. Helfrich, J. (2007). 7. http://www.williamjames.com/Science/PK.htm 8. http://www.williamjames.com/Science/PK.htm 9. http://www.williamjames.com/Science/PK.htm 10. Rhine, J.B. (1943). 11. Girden, E. (1962). 12. Bösch, H. (2004). 13. Radin, D., Ferrar, D. (1991). 14. Schmidt, H. (1970). 15. Schmidt, H. (1970). 16. Schmidt, H and Pantas. L. (1972). 17. https://www.researchgate.net/publication/273889027_Micro-psychokinesis 18. Schmidt, H. (1976). 19. Schmidt, H. (1976). 20. Schmidt, H. (1987). 21. Schmidt, H. (1993). 22. https://www.researchgate.net/publication/294675351_Micro-psychokinesis_E... 23. Broughton, R. S. and Perlstrom, L. (1986). 24. http://www.princeton.edu/~pear/press-statement.html 25.  https://www.princeton.edu/~pear/pdfs/2000-mmi-consortium-portreg-replica... 26. https://www.princeton.edu/~pear/pdfs/1988-operator-related-anomalies-rmc... 27. http://deanradin.com/evidence/Radin1989.pdf 28. https://www.researchgate.net/profile/Dean_Radin/publication/241676080_Metaanalysis_of_mindmatter_interaction_experiments_1959_to_2000/links/0c960535317d902563000000.pdf 29. Bösch, H., Steinkamp, F., &amp; Boller, E. (2006). 30. Radin, D., Nelson, R., Dobyns, Y., &amp; Houtkooper, J. (2006). 31. Kugel, 2011 32. http://www.fourmilab.ch/rpkp/bierman-metaanalysis.html 33. Standford, R.G. (1974). 34. Stanford,&nbsp;R. G.&nbsp;(1974b). 35. Carpenter, J. (2012). 36. Nelson, R. D., Bradish, G. J., Dobyns, Y. H., Dunne, B. J., &amp; Jahn, R. G. (1996). 37. Radin, D. (2009). 38. http://noosphere.princeton.edu/results.htmlm,.# 39. Blank, erase later 40. https://koestlerunit.wordpress.com/study-registry/registered-studies/ 41. Personal communication: Maier. September 2017. 42. Radin, D,&nbsp;Yount, G. (2004). 43. Personal Communication: Kruth. August 2017. 44. https://www.researchgate.net/profile/Walter_Lucadou/publication/284906289_The_model_of_pragmatic_information_MPI/links/569cd63408ae2e9667eaf78e/The-model-of-pragmatic-information-MPI.pdf 45. Atmanspacher, H,&nbsp; Römer. H., Walach, H. (2002). 46. https://labs.psych.ucsb.edu/schooler/jonathan/research/decline-effect 47. Lucadou, W. V. (1987). 48. Walach, H., Horan, M. (2014). 49. Personal communication. Ana Borges Flores. August 2017. 50. https://www.scientificexploration.org/docs/31/jse_31_2_Grote.pdf 51. http://docplayer.org/15663295-10-bis-12-oktober-2014-in-offenburg.htmlvxcz 52. https://www.youtube.com/watch?v=VJdm7OOHK6c 53. https://osf.io/zsgwp/ 54.  http://fbial.docbasecloud.net/archivesearch.aspx?base=fbial&amp;search=cod%3a%22PT%2fFB%2fBL-2016-058%24%22&amp;page=1&amp;format=#           			  			     			This page was last updated on: June 30, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 7,100 Created: 31st October 2017 Last updated: 30th June 2023 May be cited as:Duggan, M. (2017). &lsquo;Psychokinesis Research&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/psychokinesis-research&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y6l9zznz                   	                                             See also:      Princeton Engineering Anomalies Research (PEAR)                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/psychokinesis-research

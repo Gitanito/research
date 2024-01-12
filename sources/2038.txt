@@ -1,0 +1,188 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/decline-effect-parapsychology","mytitle":"Decline Effect in Parapsychology | Psi Encyclopedia","mylang":"de"}
+                     Decline Effect in Parapsychology | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Decline Effect in Parapsychology                                                                                                                                                                                                                          The term ‘decline effect’ in parapsychology refers to a decline in experimental performance over time. This can be in the context of a single experimental run or over a series or runs. Declines in effect sizes have also been spotted across the lifetime of a particular mode of research, for example in ESP card guessing experiments. This article reviews various ways in which the decline effect manifests&nbsp;– mainly in the context of experimental psi research, but with some reference to its appearance in spontaneous phenomena&nbsp;– and the reasons that have been proposed to account for them.   Contents   	Introduction 	JB Rhine  	Early Theories 	Later Theories   	Carroll Nash 	Charles Tart 	Dick Bierman 	Walter von Lucadou and Harald Walach 	Ian Stevenson 	Conclusion 	Literature 	Endnotes     Introduction
+
+Declines in effect sizes have come to mainstream attention in recent years because they also happen outside of parapsychology.1 In a 2010 New Yorker article, Jonah Lehrer noted their occurrence in many fields of science and medicine.2 For example, Lehrer cited the case of psychologist Jonathon Schooler, who discovered a ‘verbal overshadowing’ effect in human learning but then observed a decline in its strength when he attempted replications.
+
+Wikipedia defines the ‘decline effect’ as one that may occur 'when scientific claims receive decreasing support over time'. But this definition is inadequate: it does not distinguish between a failure to replicate (a negative claim) from a claim that this failure is due to a positive causal or systemic ‘decline effect’.
+
+In experimental psychology terms, a decline effect hypothesis suggests that a change in the specific independent variable x is causing a decline that can be seen quantitatively in the dependent variable y: for instance, it can be hypothesized that a decline in motivation (the independent variable) caused the slump in ESP card guessing ‘hits’ (the dependent variable).
+
+On the other hand, the failure of a new experimental result to confirm an earlier result does not qualify as a ‘decline effect’ but merely shows a failure to replicate. An example would be unsuccessful attempts by Ritchie, Wiseman and French to repeat Daryl Bem’s presentiment effect,3 which they explain in terms of possible statistical and methodological artefacts in the initial experiments (Questionable Research Practices or QRPs).
+
+It is important to distinguish between decline effect hypotheses and false positives caused by QRPs, as mainstream discussions tend to focus upon QRPs as explanations for declines. Ioannidis’s 2005 review paper ‘Why most published research findings are false’ looks at bias, the issues of testing by several independent teams, the limiting power of small studies, flawed research design and the exaggeration of probabilities for a positive finding to be true. Ioannidis also considers sociological factors that might lead to false positives such as financial and other interests. He suggests that: ‘if the true effect sizes are very small in a scientific field, this field is likely to be plagued by almost ubiquitous false positive claims.’4 This latter claim is currently being tested in parapsychology as attempts are made to weed out the confounding effects of QRPs in new statistical analyses of the data (see below).
+
+While the problem of ‘false positives’ has proved a major problem for parapsychology, the term ‘decline effect’ was not originally meant to signify only experimental errors or mistakes. JB Rhine, who probably originated the term, advanced different theories concerning its origins across his career, none of which appealed to statistical or methodological error.
+
+For this reason, the term ‘decline effect’ in this article excludes QRP explanations, and also the claim made by some critics that sporadic successes in parapsychology can be attributed to fraud by charismatic individuals.5 The article looks instead at the various causal or systemic theories proposed to explain the occurrence of declines, mainly in the context of experimental psi research, but with some reference to its appearance in spontaneous phenomena.  JB Rhine  Early Theories
+
+Declines in psi performance have been noted since the early days of psychic research,6 but the issue came to prominence with JB Rhine’s work at Duke University in Durham, North Carolina, USA. In his initial ESP card guessing experiments in the 1930s, Rhine found that the subject would tend to score the highest at the beginning of a run, decline in the middle and show some recovery towards the end.7 A similar effect was also discovered in psychokinesis (PK) experiments.8 This U-shaped performance curve was a robust feature of the early run of experiments at Duke.
+
+Rhine thought that the improvement in performance in the latter part of the sessions showed the lag in the middle was not due to fatigue. He suggested that whatever was effecting the distribution of hits was entirely a function of its position in the experimental run. He hypothesized that the U-shaped performance in scoring was linked to motivation, comparing it to a gardener who feels initial enthusiasm at the beginning of a long dig, flags in the middle and regains enthusiasm as the task nears completion. This latter feature he labelled terminal salience.
+
+Rhine also found declines in longer card runs within single experiments. For example, in a clairvoyance experiment one subject’s score tailed off after a run of five hundred trials. This he also attributed to motivation, noting the monotony of a year of self-testing with little outside encouragement. He considered these longer term declines with single subjects secondary evidence of ESP.9  Later Theories
+
+Later inconsistent or failed replications by Rhine and others forced Rhine to modify his initial theories. He came to believe that ‘secondary effects’ such as the decline effect were subconsciously produced by the participant. The subconscious nature of psi was to Rhine evidence of its ‘primitive and neurologically submerged’ character and that declines indicated ‘interference’ with psi function:  
+
+I now think …&nbsp; that it is the progressively complicated conscious activity going on in the subject as the number of trials are extended that clouds over and interferes with the psi function to a serious degree, even at times effectively blocking it.10
+
+These speculations mirrored those of British researcher Donald West, who in the early 1960s likewise noticed the tendency of strong psi effects to diminish over time. West suggested a ‘psychoanalytic’ theory that appealed to a gradual psychological repression of ‘shocking’ successes in ESP experiments. This ongoing psychological repression might, he felt, account for declines.11
+
+Conventional explanations have been proposed for Rhine’s early successes. One possible explanation for an illusory ‘decline effect’ is regression to the mean, where a subject initially performs better or worse than chance by a fluke but whose performance naturally reverts to chance when more runs are made.12 To this can be added the possibility of QRPs: critics have suggested that positive results might be expected to dry up as these are found and eliminated.13 Other counter-advocates have attempted to explain Rhine’s results entirely in terms of fraud, although unconvincingly.14  Carroll Nash
+
+In a retrospective analysis, Carroll Nash tested whether improvements in experimental standards might be responsible for the negative correlations he found between scoring rate and experimental length in ESP experiments from 1882 to 1939.15 This could be true if improvements in standards lowered the score average whilst at the same time experiments became longer as the years increased in number. It was also possible that the negative correlations between scoring and experiment length were due to careless experimenters choosing to do short runs. Nash found that a falling off in scoring with mounting experimental years was correlated with an increase in experimental length, which would seem to confirm that increasing methodological rigour could be responsible for score declines.
+
+However, Nash then calculated a statistical measure called the correlate of determination between experimental length and score rates. This showed that 14.1% of the variation in scoring rate could be explained by referring to experiment length alone, 2.92% by referring to the year alone and 14.22% by referring to both experimental length and year.
+
+This suggested to Nash that whilst some declines in experimental results could be explained by improving experimental standards, a majority could not be accounted for in this way. At the very least, there was no sign of a simple, linear decline due to the improvement of experimental standards. He suggested that his findings were a powerful argument against fraud or error as explanations.  Charles Tart
+
+Charles Tart invoked learning theory to explain decline effects in ESP performance. In the context of card guessing experiments, he suggested that a repetitious task lacking reward would not reinforce the behaviour and would extinguish an ability to score positively. He predicted that, even if a card guessing run was initially successful, with repeated testing the scores were likely to come down to chance. He wrote: ‘we have unknowingly yet systematically been extinguishing the operation of ESP...’16
+
+Tart reported the results of initial tests of his theories in his monograph ‘The application of Learning Theory to ESP performance.’ His main goal was to determine whether ESP could be taught, and specifically whether task feedback would eliminate the decline effect; he also reviewed ESP experiments that had tested learning theory, finding that only one of the 195 subjects had shown a decline in performance, having shown little talent for ESP. He concluded that ‘an application of immediate feedback eliminates the usual decline effect.’17
+
+Rex Stanford critiqued Tart’s conclusions, arguing that ‘the mere existence of declines in nonfeedback settings does not establish that their cause is extinction...’ Stanford also drew attention to the ambiguity of the causes of performance decline.18 Tart refuted these criticisms, affirming the validity of this initial conclusions.19
+
+Tests of learning theory by several experimenters continued over the 1970s and 1980s. Reflecting on learning theory in 2007, Tart noted that all of the studies ignored the theory’s initial requirement that&nbsp;  
+
+… percipients had to show significant psi talent on the experimental task to begin with for feedback to have any effect, and instead trivially confirmed the theory’s predictions that supplying immediate feedback to untalented percipients would have no effect [his italics].20
+
+He also noted that more recent free-response psi experiments such as remote viewing did not rely on multiple repetitions of psi performance per day and did not seem to show the same sorts of performance decline as the older card experiments.  Dick Bierman
+
+Dick Bierman’s decline effect hypothesis looked to ‘observer effect’ interpretations of quantum theory. Bierman claimed that most of the major paradigms in psi research showed evidence of a decline effect, producing regression lines of six major experimental studies that showed significant reductions in overall effect size over time.21 The paradigms were: dice mind-over-matter experiments, ganzfeld telepathy (1972–1994 and 1972–1997), card guessing (precognition), mind-over-matter RNG studies (micro-PK) and mind-over-matter biological systems (DMILS).
+
+Bierman acknowledged that some past studies had not shown a decline effect. For example, a large proportion of the data analyzed in Radin and Nelson’s 1989 study came from the Princeton Engineering Anomalous Research (PEAR) laboratory and a single experimenter, Helmut Schmidt.22 The experimental design for the PEAR set and part of Schmidt’s data had three possible target directions (high aim, low aim and no aim). Bierman’s analysis of micro-PK experiments was only valid for results that were not split in this way. He also acknowledged that the US military’s Star Gate program data did not seem to show a decline, although the PEAR remote viewing data did.23
+
+To explain these declines, Bierman used ‘New Physics’ observation theory based on the work of Evans Harris Walker. Walker predicted that human observers could bias the outcome of quantum processes, producing anomalous correlations.24 Developments of the theory went further and predicted that additional observations of the data would also influence the outcome of experiments, meaning that the participant, experimenter, data checkers and paper readers would all be involved in the results.25 Declines in performance happen as the number of observers increases, resulting in catastrophic interference that cancels out the results of subsequent experiments.
+
+Bierman found some possible evidence for this ‘observation’ effect in the mind-over-matter RNG experiments. He found a polynomial decline and recovery effect in the data, which he explained in terms of interest in the experiments falling off and reducing the catastrophic interference for the latest experiments. Bierman also pointed to a weaker non-linear decline and recovery in the ganzfeld results.
+
+A decline in the effect size of the ganzfeld-telepathy experiments has been confirmed by other researchers. In 2006, Dean Radin noted a significant effect size decline between the initial 44 experiments and the last 44 (a 34.4% hit rate and 30.3% hit rate respectively).26 In 2011, Bryan Williams conducted a meta-analysis of 59 studies conducted from 1987 to 2008 and reported an average effect size of about 30%, confirming Radin’s finding of a generally lower but persistent effect size for later experiments.27 Neither reported a dip-and-recovery, however.
+
+These findings have been complicated by a 2016 study by Bierman, James Spottiswoode and Bijl, who conducted a fresh analysis of the ganzfeld database, looking for evidence of QRPs. They stated that  
+
+We conclude that the very significant probability cited by the Ganzfeld meta-analysis is likely inflated by QRPs, though results are still significant [even allowing for] QRPs.28
+
+When QRPs were accounted for, they claimed that the&nbsp;‘unexplained excess’ hit rate was reduced to 2%, (27%), even smaller than Radin’s or Williams’s estimates. John Palmer, however, disputed this figure, pointing out&nbsp;that the result was a hypothetical&nbsp;outcome from modelling&nbsp;a worst-case scenario.29&nbsp;This&nbsp;needs to be seen as part of an ongoing&nbsp;debate over the statistical validity and interpretation of the ganzfeld-telepathy effects. Until this debate is resolved, testing New Physics ‘observer’ theories of declines remains significantly challenging.  Walter von Lucadou and Harald Walach
+
+A variant theory of declines proposed by von Lucadou in the 2000s was similarly based on unusual interpretations of quantum physics.30 He proposed that large-scale systems might sometimes exhibit what he termed ‘QM-type’ behaviour. He claimed that parapsychological evidence tended to ‘erode’ rather than accumulate, as initially promising research programs and replications failed. Von Lucadou suggested that human beings might need quantum-like descriptions and that under certain special conditions they might exhibit non-local correlations similar to those found on a microscopic scale.
+
+These non-local connections could not be used to transfer information, which placed rigorous limitations on psi effects. Von Lucadou saw this feature as providing a ‘natural’ explanation for decline effects. System complexity would mean that the evidence could not be produced in a predictable way, but would only emerge as part of the whole system. Surprising correlations would appear and vanish.
+
+In a later paper, discussing a series of experiments on homeopathy, Von Lucadou, Romer and Harald Walach observed that:  
+
+Initial experimental paradigms [in parapsychology] are promising and show large deviations from chance expectation, not compatible with the hypothesis of random fluctuation. However, when probed for replicability, these effects vanish ... 31
+
+and  
+
+There might be many reasons for the lack of repeatability such as psychological ones, or differences in environmental variables, or regression to the mean, and last but not least the axiom of no-signal-transfer (NT) (i.e. unstable non-local correlations).32
+
+The authors made predictions about what to expect in the latter situation, for instance the appearance of a decline effect as the statistical reliability is increased due to the increasing number of cases, also the appearance of compensating ‘displacement effects’ in the data sets. They encouraged future meta-analysts to be alert for these statistical features, and have elaborated on this theoretical model in a later paper that also rejects conventional explanations of declines.33  Ian Stevenson
+
+Ian Stevenson suggested that there had been a decline in major psychic phenomena – those that did not require statistics to be tested – since the nineteenth century.34 He favoured psychological and sociological explanations for these declines. For example, crisis apparitions might be experienced less because of the growth of telecommunications which removed the strong psychological need for paranormal communication between individuals.
+
+Stevenson also suggested that the growth of philosophical materialism and the decline of an almost universal belief in life after death might also have contributed to the falling off of death-associated psychic phenomena (although the extent and variety of recent reports of near-death experiences and related phenomena seem to belie this claim).35
+
+Stevenson admitted that evidence for declines was ‘insufficient’. However, elsewhere he provided an example of a particular phenomenon, maternal impressions, that was once common but is no longer widely reported. These are cases where the emotional or mental state of the expectant mother appears to have a direct influence upon the developing foetus, resulting in specific birthmarks or deformities.36 Although such cases are not strictly regarded as paranormal phenomena, they form part of a spectrum of psychophysiological influence that includes apparent paranormal effects. They are of interest because they were relatively commonly reported in the eighteenth and nineteenth centuries when it was believed that the foetus was directly connected to the mother by nerves and blood vessels. When this was discovered to be untrue, cases seemed to decline. Emily Williams Kelly suggested that ‘apparently because there was no longer an acceptable explanation, reports of such cases in the literature declined precipitously,’37 implying that a belief in the inherent plausibility of psychophysical phenomena might be a contributing factor in their occurrence.
+
+This suggestion, that a shift in the ‘reality set’ of Western society prevents the manifestation of psychic phenomena, has been made elsewhere. Paul Devereux has cited cases where anthropologists observed exotic psychic phenomena that did not seem possible in Western, secular culture. One anthropologist observed that when working with the Lacandon Maya he ‘got inside a magical universe [he] never expected to be there.’38 Devereux suggests that psychic phenomena are ‘repressed’ in Western society, and that cultures themselves are ‘hallucinations’ produced within consciousness. This implies that the mind-set and pervading beliefs within a culture will limit what can be perceived within that culture.  Conclusion
+
+The main issue is whether apparent decline effects can be resolved in terms of QRPs or whether alternative explanations are needed. Currently the evidence for specific forms of decline effect as opposed to replication failures tends to be piecemeal and unsystematized, which poses difficulties for hypothesis testing and plausibility assessment.
+
+Sociologist Marcello Truzzi suggested that the strength of evidence for anomalous effects might be classified as merely suggestive (interesting), compelling (appears significant or likely) or convincing (appears to be valid).39 From this perspective, the evidence cited for various specific decline effects seems overall to be suggestive as opposed to compelling or convincing.
+
+This relative weakness of positive evidence casts doubt on the need to invoke exotic theories to explain effect size declines. Bierman, Spottiswoode and Bijl’s 2016 analysis of the ganzfeld telepathy experiments, discussed above, also shows that QRPs constitute significant confounding variables in the search for a genuine decline effect.
+
+Still, the increasing awareness of declines in mainstream science shows that the issues are not unique to parapsychology. In Entangled Minds, Dean Radin cited a meta-analysis in the Proceedings of the Royal Society that showed that effects in biological studies also seemed to decline over time.40 Biologists deal with complex systems that often behave unpredictably, unlike the objects of classical physics. Radin suggested that 'psi&nbsp;is the poster child for a highly dynamic and interactive process, thus it would be surprising if psi effects remained steady over time'.41
+
+Assuming that at least some of the experimental results point to genuinely anomalous processes, this seems about the limit of what can be said with confidence about the sources of the decline effect.
+
+The challenge for future research is find ways to distinguish failures to replicate due to QRPs from declines that occur for other reasons. Until this is done there remains the possibility that the decline effect is what HH Bauer terms a ’Shibboleth,’ or a detail that is entirely plausible in the context of a belief and supposedly well established, but in fact an illusion.42 It is still difficult to reject this interpretation of the decline effect with any confidence, despite numerous suggestions that something more significant might be occurring.
+
+Matthew Colborn  Literature
+
+Alcock, J. (2003). Give the null hypothesis a chance: reasons to remain doubtful about the existence of psi. In Psi Wars: Getting to Grips with the Paranormal,&nbsp;ed. by J.&nbsp;Alcock, J. Burns &amp; A. Freeman. Exeter: Imprint Academic.
+
+Bauer, H.H. (2001). Science or Pseudoscience: Magnetic healing, psychic phenomena and other heterodoxies. Illinois: University of Illinois Press.
+
+Bierman, D. (2000). On the nature of anomalous phenomena: Another reality between the world of subjective consciousness and the objective world of physics? In&nbsp;The Physical Nature of Consciousness, ed. by P.&nbsp;van Loocke. New York: Benjamin Publication.
+
+Bierman, D.J., Spottiswoode, J.P., &amp; Bijl, A. (2016). Testing for questionable research practices in a meta-analysis: An example from experimental parapsychology. PLoS ONE. 2016;11(5):e0153049&nbsp;
+
+Carroll, R.T. (2003). The Skeptic’s Dictionary: A collection of strange beliefs, amusing deceptions and dangerous delusions. London: Wiley.
+
+Colborn, M.L.C. (2007). The decline effect in spontaneous and experimental psychical research. Journal of the Society for Psychical Research 71, 1-22.
+
+Devereux, P. (2007). A Moveable Feast. In Mind Before Matter, ed. by T. Pfeiffer, J.E. Mack and P. Devereux. London: O Books.
+
+Fenwick, P., &amp; Fenwick, E. (2008). The Art of Dying. London: Bloomsbury.
+
+Hansel, C.E.M. (1980). ESP: A Critical Re-evaluation. Buffalo, New York, USA: Prometheus.
+
+Inglis, B. (1992). Natural and Supernatural: A History of the Paranormal (2nd. Edition). London: Hodder &amp; Stroughton.
+
+Ioannidis, J.P.A. (2005). Why most published research findings are false. PLoS Med 2(8): e124.
+
+Jenions, M.D., &amp; Muller, A.P. (2002). Relationships fade with time: A meta-analysis of temporal trends in publication in ecology and evolution. Proceedings of the Royal Society, Biological Sciences 269, 43-48.
+
+Kelly, E.W. (2007). Psychophysiological Influence. In&nbsp;Irreducible Mind, ed. by E.F. Kelly &amp; E.W. Kelly, Lanham, Maryland, USA: Rowman &amp; Littlefield, 117-239.
+
+Lehrer, J. (2010). The truth wears off: Is there something wrong with the scientific method? New Yorker, 13 December, 52-57.
+
+Lucadou, W.v. (2000). Hans in luck: The currency of evidence in parapsychology. Journal of Parapsychology 64, 181-94.
+
+Lucadou, W.v., Romer, H., &amp; Walach, H. (2007). Synchronistic phenomena as entanglement correlations in generalized quantum theory. Journal of Consciousness Studies 14, 50-74, 65.
+
+Nash, C.B. (1989). Intra-experiment and intra-subject declines in extra-sensory perception after sixty years. Journal of the Society for Psychical Research 55, 412-16.
+
+Palmer, J. (2016). Statistical issues in parapsychology: Hypothesis testing–plus an addendum on Bierman et al. (2016). Journal of Parapsychology 80, 141-43.
+
+Radin, D.I., &amp; Nelson, R.D. (1989). Evidence for consciousness related anomalies in random physical systems. Foundations of Physics 19, 1499-1514.
+
+Radin, D. (2006). Entangled Minds: Extrasensory Experiences in Quantum Reality. London: Paraview Pocket Books.
+
+Reeves, M.P., &amp; Rhine, J.B. (1943). The PK effect: II. A study in declines. Journal of Parapsychology 7, 76-93.
+
+Rhine, J.B. (1935). Extra-Sensory Perception. London: Faber &amp; Faber.
+
+Rhine, J.B. (1953). New World of the Mind. New York: William Sloane.
+
+Ritchie, S.J., Wiseman, R., &amp; French, C.C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem’s ‘retroactive facilitation of recall’ effect. PLoS ONE 7(3): e33423.
+
+Schmidt, H. (1975). Towards a mathematical theory of psi. Journal of the American Society for Psychical Research 69, 301-19.
+
+Stanford, R. (1977). The application of learning theory to ESP performance: A review of Dr. C.T. Tart’s monograph. Journal of the American Society for Psychical Research 71, 55-80.
+
+Stevenson, I. (1990). Thoughts on the decline of major paranormal phenomena. Proceedings of the Society for Psychical Research 57, 149-62.
+
+Stevenson, I. (1992). A new look at maternal impressions: An analysis of 50 published cases and reports of 2 recent examples. Journal of Scientific Exploration 6, 353-73.
+
+Stokes, D.M. (2015). The Case against Psi. In&nbsp;Parapsychology: A Handbook for the 21st Century, ed. by&nbsp;E. Cardena, J. Palmer &amp; D. Marcusson-Clavertz. Jefferson, North Carolina, USA: McFarland.
+
+Tart, C.T. (1966). Card guessing tasks: Learning paradigm or extinction paradigm. Journal of the American Society for Psychical Research 60, 46-55.
+
+Tart, C.T. (1975). The application of learning theory to ESP performance. Parapsychological Monographs. New York: Parapsychology Foundation.
+
+Tart, C.T. (1977). Toward humanistic experimentation in parapsychology: A reply to Dr. Stanford’s review. Journal of the American Society for Psychical Research 71, 81-101.
+
+Tart, C.T. (2007). Letter to the editor. Journal of the Society for Psychical Research 71, 114-16.
+
+Truzzi, M. (2000). The perspective of anomalistics. In Encyclopedia of Pseudoscience, ed. by W.F. Williams. ​​​​New York: Facts on File.
+
+Utts, J. (1996). An assessment of the evidence for psychic functioning. Journal of Scientific Exploration 10, 3-30.
+
+Walach, H., Lucadou, W.v., &amp; Romer, H. (2014). Parapsychological phenomena as examples of generalized nonlocal correlations—A theoretical framework. Journal of Scientific Exploration 28, 605-31.
+
+Walker, E.H. (1975). Foundations of paraphysical and parapsychological phenomena. In Quantum Physics and Parapsychology, ed. by L. Oteri.&nbsp;New York: Parapsychology Foundation.
+
+West, D.J. (1965). ESP: The next step. Proceedings of the Society for Psychical Research 54, 185-202.
+
+Williams, B.J. (2011). Revisiting the ganzfeld ESP debate: A basic review and assessment. Journal of Scientific Exploration 25, 639–61.
+
+&nbsp;   Endnotes 1. For a more technical discussion see Colborn (2007). 2. Lehrer (2010). 3. Ritchie et al (2012). 4. Ioannidis (2005). 5. Stokes (2015). 6. Inglis (1992). 7. Rhine (1935). 8. Reeves &amp; Rhine (1943). 9. Rhine (1953). 10. Rhine (1953), 123. 11. West (1965). 12. Carroll (2003). 13. Alcock (2003). 14. Hansel (1980). 15. Nash (1989). 16. Tart (1966), 50. 17. Tart (1975). 18. Stanford (1977), 65. 19. Tart (1977). 20. Tart (2007), 115. 21. Bierman (2000). 22. Radin &amp; Nelson (1989). 23. Utts (1996). 24. Walker (1975). 25. Schmidt (1975). 26. Radin (2006). 27. Williams (2011). 28. Bierman et al (2016). 29. Palmer (2016). 30. Lucadou (2000). 31. Lucadou et al (2007), 65. 32. Lucadou et al (2007), 66. 33. Walach et al (2014). 34. Stevenson (1990). 35. Fenwick &amp; Fenwick (2008). 36. Stevenson (1992). 37. Kelly (2007), 224. 38. Quoted in Devereux (2007). 39. Truzzi (2000). 40. Jenions &amp; Muller (2002). 41. Radin (2006). 42. Bauer (2001).           			  			     			This page was last updated on: January 27, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Matthew Colborn Word count: 4,100 Created: 24th August 2018 Last updated: 27th January 2023 May be cited as:Colborn, M. (2018). &lsquo;Decline Effect in Parapsychology&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y2bpsv97                   	                                             See also:      Experimental Parapsychology                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology

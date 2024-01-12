@@ -1,0 +1,320 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/experimental-psi-research-asia-and-australia","mytitle":"Experimental Psi Research in Asia and Australia | Psi Encyclopedia","mylang":"de"}
+                     Experimental Psi Research in Asia and Australia | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Experimental Psi Research in Asia and Australia                                                                                                                                                                                                                          This article gives an overview of the history and relative contributions in the field of psi research by labs and individuals in Australia, Japan, China and India.   Contents   	Australia  	1930 to 1960 	Jurgen Keil 	Maurice Marsh 	Peter Delin 	Harvey Irwin 	Michael Thalborne 	Lance Storm 	Adam Rock 	Hannah Jenkins 	Vladimir Dubaj 	George Van Doorn, Alexander De Foe, and Mark Symmonds 	The Australian Institute of Parapsychology   	Japan  	Hideyuki Kokubo 	The International Society for Life Information Science   	China  	International Chinese Parapsychology Association 	Mind-Matter Parapsychology Phenomena and Study Kumming Ltd 	Collaborations with Western Scientists   	India  	Ramakrishna Rao 	Harendra Nath Banerjee 	Sonali Bhatt Marwaha 	Dayalbagh Educational Institute, Agra   	Literature 	Endnotes     Australia  1930 to 1960
+
+Parapsychologists in the years between 1930 and 1960 were mainly concerned with collecting cases of apparent psychic phenomena, notably from aboriginal ‘medicine men’.&nbsp; Examples of putative long-distance telepathy, psychic surgery and communion with animals were collected. Psi abilities were tested under semi-controlled conditions using pictures of Australian native animals as targets; the results were not significant. Subsequent research1 employing standard Zener cards tested ESP ability of aborigines where adequate controls were employed, such as separating senders and receivers in different rooms, and good randomization of targets. Results were independently significant for seven of 12 subjects, and overall scoring was highly significant. Additionally, important relationships were found between psi scoring and psychological traits.  Jurgen Keil
+
+Jurgen Keil, based at the University of Tasmania, investigated poltergeist cases, especially in the United States in collaboration with others. He critically investigated the Russian psychic Nina Kulagina, with particular regard to fraudulent methods she might have used to manufacture apparent instances of psychokinesis.2 &nbsp;  Maurice Marsh
+
+Maurice Marsh gained a PhDs in parapsychology for research at South Africa’s Rhodes University on ESP. He has subsequently researched the relationship between recipients and agents in ESP tests, finding significant correlations, also psychological factors favouring poltergeist activity.3  Peter Delin
+
+Clinical psychologist Peter Delin began his career as a university lecturer in psychology at the University of Adelaide in 1963. He is best-known for his collaboration with Michael Thalbourne, leading to the development of the Australian Sheep-Goat Scale and to the concept of transliminality, a term that describes the transition of psychological perceptions and emotions in and out of consciousness.4  Harvey Irwin
+
+Harvey Irwin (University of New England) is a prodigious contributor to the field of parapsychology. His principle contribution is in the domain of anomalous psychology – the study of paranormal experiences from a psychological viewpoint. He has collaborated with Caroline Watt, the current chair of the Koestler Parapsychology Unit, on the seminal text An Introduction to Parapsychology.5
+
+Irwin has contributed significantly in the area of understanding paranormal belief, forming key hypotheses.6  Michael Thalborne
+
+Michael Thalborne (1955-2010) dedicated more than 20 years to parapsychology. Educated at the University of Adelaide, he obtained a PhD in parapsychology at Edinburgh University in 1981, and was research fellow in Psychology at the University of Adelaide from 1992 to 2007. With graduate student Lance Storm, he established the Anomalistic Psychology Research Unit in 2002, which lasted until 2008.
+
+Thalborne’s major experimental contribution concerns the ancient Chinese divination text I-Ching, in which passages relevant to the user’s concerns are identified by a number, typically obtained by coin throws. &nbsp;In early studies, Thalborne found significant differences between control and participant-based readings. In later experiments, the distribution of coin tosses (resulting in line changes in the hexagram) was found to differ significantly between control and actual readings. An overview found overall significant evidence.7
+
+Thalborne’s main theoretical contribution is the theory of psychopraxia,8 which posits that ESP and PK originate from a common source. According to the theory, a deficit in one sense will be compensated by increased psychic functioning.&nbsp; His graduate student Lance Storm devoted much of his PhD thesis to finding confirmatory evidence.
+
+Thalbourne and Storm collaborated on experiments. In one study, &nbsp;vision-impaired subjects were tested for an ability to detect hidden images inside envelopes. &nbsp;The overall results were not significant in this first experiment, while a follow-up study yielded surprising results: both vision-impaired and sighted groups scored significantly below chance: 21% instead of the expected 25%.9 &nbsp;The experimenters then investigated whether those who disbelieve in psi (who tend to score below chance), might be coaxed into producing above-chance results by a change of outlook. This attitude change was achieved by having the implications of significance testing explained to them. The hypothesis was supported comfortably in the psi task, where disbelievers shifted from chance scoring (20%, where MCE = 20%), to psi-hitting (30%, p = .047).10
+
+Thalborne has also investigated Kundalini, a sensation of pulsating energy which he has frequently experienced.  Lance Storm
+
+Reactance&nbsp;&nbsp;According to reactance theory, when an individual’s perceived freedom is threatened in some way, a reactance to that perception is precipitated (reactance is defined as a ‘motivational state aimed at restoring the threatened freedom’). To probe the theory, Storm borrowed a methodology adopted by Suitbert Ertel, the Ball Selection Test, in which subjects use psi to identify numbered ping-pong balls picked from a pouch. Storm hypothesized that psi non-believers (goats) are more reactant than believers (sheep) in psi tests because they are predisposed to disproving the psi hypothesis, perceiving it as ego threatening.
+
+Under laboratory conditions, participants completed up to four runs of 60 trials, each trying to predict the numbers on ping pong balls. The hit rate for the whole sample (N = 82) was significant at 21.06% (p = .002, where MCE = 20%). Participants were then randomly assigned to a control condition (n = 42) or treatment condition (n = 40) requiring them to read a statement that induced reactance. A significant reactance effect was found with goats scoring significantly lower than sheep, as expected, but, importantly,&nbsp; also lower than control goats who didn’t read a statement (although not to a significant degree).11 Such work is continuing.
+
+Imagery Cultivation Model&nbsp;&nbsp;Storm’s second major theoretical contribution to parapsychology is the Imagery Cultivation Model. This posits that certain high energy spiritual rituals, such as shamanic drumming or religious ecstasy, encourage an active cognitive process that is psi conducive. In particular, the IC model is hypothesized to grant access to hidden archetypes in the subconscious realm, where psi experiences are thought to occur.
+
+In a test, subjects were randomly assigned to one of two conditions: sitting quietly with eyes open (control) or an intervention condition that induced a shamanic level of consciousness through drumming. Subjects were asked to describe a target (a line drawing), where the chance hit rate would be 25%. The direct hit rate was significant at 34.5%; the control group scored a little below chance at 23%.12
+
+Rock, Storm, Harris, and Friedman replicated the above experimental conditions, also tracking what aspects of experience correlated with direct hitting. They found that the direct hit rate significantly correlated with altered experience, altered time sense, and altered perception. The concluded: ‘our findings suggest that phenomenology can be changed using a shamanic-like journeying treatment, and these changes are conducive to the generation of source material that can be an aid to psi processes.13
+
+Storm reports preliminary results from a Bial funded study combining both the imagery cultivation and reactance models. Half the precognition trials occur after an imagery cultivation treatment, the other half without. Additionally, half the participants read a reactance prime, the other half don’t. All conditions are randomized, thus there are four conditions; Imagery cultivation (with and without a reactance prime) and non-imagery cultivation (with and without a prime). In early results, Storm reports subjects in the imagery cultivation non-prime group score higher than non-IC reactance prime subjects – as the models predict.14
+
+Meta-Analysis&nbsp;&nbsp;Storm has been active in meta-analysing several important databases in parapsychology. (See Meta-Analysis&nbsp;in Parapsychology.)
+
+Free-response&nbsp;&nbsp;Storm et al reported on three types of free-response experiment; the ganzfeld (a psi-conducive procedure), non-ganzfeld altered states (dreams, hypnosis, meditation, relaxation) and normal consciousness free-response experiments for the period 1997–2008. A set of 29 ganzfeld studies yielded a mean effect size of 0.142 (Stouffer Z of 5.48, P value 10-8). A non-ganzfeld altered states data set of 16 studies yielded a mean effect size of 0.110 (Stouffer Z of 3.35, P value of 104), and a homogeneous data set of 14 standard free-response studies produced a weak negative mean effect size of 0.029 (Stouffer Z of 2.29, P value 0.01). Thus it can be seen that altered states (both ganzfeld and non-ganzfeld) are superior in eliciting psi than ordinary waking consciousness testing.15 (See Ganzfeld)
+
+Dream ESP&nbsp;&nbsp;In a comprehensive examination of the psi-conducive aspects of dreaming, Storm and colleagues meta-analysed the dream-ESP literature. They reported results on experimental dream-ESP studies for the period 1966 to 2016. Studies fell into two categories: the Maimonides Dream Lab studies (n&nbsp;= 14), and independent (non-MDL) studies (n&nbsp;= 36). The Maimonides dataset yielded an effect size&nbsp; of &nbsp;.33, the non-MDL studies yielded mean&nbsp;ES&nbsp;= .14. A combined dataset of 50 studies yielded a Stouffer Z&nbsp; of 5.32,&nbsp;p= 5.19 × 10-8. This is strong evidence for the view that dreams are psi-facilitating. Importantly, there was no relationship between study quality and effect size, although the authors noted a general decline in effect size over the years, which they attribute to the high success rate of the initial Maimonides work and its use of a dedicated sleep laboratory that later studies did not have access to.16
+
+Sheep-Goat Effect&nbsp;The sheep-goat effect is described in detail here. Storm and Tressoldi meta-analysed studies from 1994 to 2015, thus continuing the earlier meta-analytic period of Lawrence.&nbsp; They retrieved 49 studies reported by 43 investigators. The mean trial-based SGE was 0.034 resulting in a Stouffer Z = 1.67 (p = .047). Therefore, the earlier findings of Lawrence (effect size of 0.029) were supported. Reassuringly there was no relationship between study quality and effect size, although Tressoldi and Storm noted a significant incline in effect size over the 21 year period.17  Adam Rock
+
+Adam Rock is a close collaborator of Lance Storm, based at the University of New England in New South Wales. Rock has conducted research in shamanism (described above) and in the following areas:
+
+Sense of Being Stared At&nbsp;&nbsp;A study was carried out to test the impact of the ganzfeld state, on subjects who had been administered a questionnaire on a personality trait referred to as&nbsp;mental boundaries. Forty subjects were randomly assigned to either a ganzfeld or non-ganzfeld condition, and administered 20 randomized staring/non-staring trials. There was no significant main effect for the ganzfeld condition with regards to hit rate, but there was a significant main effect for staring/non-staring. The correlation between mental boundaries and staring hit rate approached significance.18
+
+Distant Healing&nbsp;&nbsp;Rock tested an energy healing technique known as Quantum BioEnergetics (QBE) on subjects’ reported mood scores, using a randomized expectancy-enhanced placebo-controlled design. The results indicated the QBE condition was associated with (1) significantly less tension-anxiety compared with the placebo and control condition; and (2) significantly less anger-hostility and total mood disturbance compared with the control condition.19
+
+Mediumship&nbsp;&nbsp;In collaboration with the Windbridge Research Center, Rock experimentally investigated the experiential aspects of mediumship by having half the readings performed on deceased (discarnate) individuals and half on living agents. The experiences associated with the discarnate reading condition were found to be significantly different from those associated with the control condition. In later developments, Rock and Beischel investigated the question of whether the information comes from living agents or from discarnates.20
+
+An initial meta-analysis of forced-choice mediumship studies reported&nbsp; a small average effect size of 0.15, not statistically significant; however, given the limited number of experiments, it is premature to draw conclusions.21  Hannah Jenkins
+
+Hannah Jenkins, based at the University of Tasmania, has set up Quality Investigative Psi Projects (QIPP), which undertakes interdisciplinary science-based investigations into psi and related paranormal phenomena to discover how to apply and explain what are currently anomalous events. QIPP treats psi phenomena as little understood natural phenomena amenable to scientific examination. It has investigated whether plants can respond retrocausally to emotional stimulation, combining research from presentiment research with work in the 1960s and 1970s by &nbsp;Cleve Backster on plant consciousness. Another project aims to show how remote viewing and dowsing can be used together with less controversial sources of information such as forensics and historical documentation, for instance to recover lost artifacts.  Vladimir Dubaj
+
+Vladimir Dubaj founded his own research institute the Australian Parapsychological Research Association (APRA), mainly focused on post-mortem survival. It combines investigations of historically renowned hauntings with educational activities, including a short course, Principles of Scientific Ghost Research, at Monash University.  George Van Doorn, Alexander De Foe, and Mark Symmonds
+
+George Van Doorn, Alexander De Foe, and Mark Symmonds, based at Monash University, Melbourne, have carried out research to understand the out of body experience (OBE). An initial study found that a history of auditory hallucinations can predict whether an individual has experienced an OBE.22 De Foe and colleagues have found a strong relationship between a sensation of leaving the body and autonomously induced out of body experiences.23  The Australian Institute of Parapsychology
+
+The Australian Institute of Parapsychological Research was founded in Sydney, New South Wales in 1977, and has a worldwide membership. It aims to promote scientific study of psychic phenomena, publishing research articles by Australian and other researchers in its bi-annual Australian Journal of Parapsychology. In common with other similar organizations, it also collects and assesses factual information about paranormal phenomena, and provides support to people who are suffering as a result of a possible paranormal experience.  Japan  Hideyuki Kokubo
+
+A major contributor to Japanese psi research is Hideyuki Kokubo, currently head of the International Research Institute. &nbsp;Kokubo `is best known for his work on Bio-PK, a term which describes such phenomena as non-contact healing and energy therapies such as reiki and Johrei.
+
+Cucumbers as Biosensors&nbsp;&nbsp;Since 2006, Kokubo has investigated bio-PK using pieces of ‘white spine type’ cucumber (cucumis sativus) as a bio-sensor.24 In the experimental set-up, samples are stored in sealed chambers and the amount of hexanol-2-ol&nbsp; released into the enclosed space is measured following a healing session. When 15 healers were tested in 83 trials the results revealed statistically significant evidence of a bio-PK effect. Surprisingly, dummy trials performed thirty minutes before and after the healing trials showed comparable effects, while blank trials on other days gave no effect. Kokubo hypothesized that a residual healing energy permeates the nearby temporal as well as local testing environment. &nbsp;Kokubo has replicated these anomalous healing effects in similar experiments, building up a solid database.
+
+Long-trends in Random Number Generator Data&nbsp;&nbsp;Kokubo has carried out a study in the synchronization of group consciousness, in which random event generators are used to pick up any fluctuations that may occur in the vicinity of religious activity. Most of these are short term: by contrast, Kokubo and colleagues ran a study for 22 months. A significant difference was found between Saturday and Monday (p = 0.029),25 but the effect was small, leading him to conclude that even longer study periods were needed.
+
+Macro-PK&nbsp;&nbsp;Kokubo has also investigated large scale effects of PK on metal samples. Tests of ‘spoon-bending’, including electron microscopic observations of affected materials, revealed anomalous effects. In experiments with super-elastic Ni-Ti alloys, Kokubo found that when these were successfully subjected to psychokinetic bending influence the resulting deformations were permanent, a phenomenon that does not occur when such metals are bent by normal means.26  The International Society for Life Information Science
+
+Founded in 1995, the International Society for Life Information Science offers a platform for (mainly Japanese) academics to explore ideas shunned by mainstream science, notably those related to Japanese cultural practices. Its bi-annual journal covers psi research topics, alternative healing methods, and studies of external qigoing, a form of healing bio-PK. Article subjects include:
+
+Mikio Yamamoto at the National Institute of Radiological Sciences in Chiba, Japan, tested the ability of a qigong master to send Ki energy to a student in a separate shielded room. The time difference between the master's acting time and the pupil’s response time was less than a second in 6 times out of 16 trials. This result indicates that all these abilities do not depend on the master’s suggestion, implying an unknown transmission mechanism. The probability of such a result was 0.0058 (around 1 in 200) – fairly strong statistical evidence for an effect. Yamamoto has successfully replicated this experiment several times.27
+
+Kimiko Kawano and colleagues reported a study in which three qigong masters participated in a remote qi emission experiment. The receivers assigned to the respective qigong masters were at a distance of 2 to 4 km. Levels of their Natural Killer (NK) cell activity, Interleukin (IL)-2, and CD4/CD8 in venous blood were simultaneously measured for any changes. After 40 minutes of remote qi emission the following changes were detected: the NK cell activity increased to a significant level, IL-2 showed a tendency to increase, and the CD4/CD8 ratio decreased. These results suggested that external qi has the same effect as localized qigong therapy on immune function.28
+
+Mami Kido from the University Tohoku-Gakuin performed&nbsp; a battery of measurements of receivers in distant healing by Reiki and Clear Sight Healing, over a distance of 300 km between Tokyo and Sendai. Near infrared topography were used for simultaneous measurements, which revealed significant changes of blood flow in the brain of the receivers when the healer performed certain healing techniques.29
+
+Hideo Youchi and colleagues from the National Institute of Radiological Sciences tested whether groups of people who congregate for special occasions can unconsciously influence the output of a random number generator placed nearby (similar field RNG studies have been conducted in the West). The authors carried out experiments measuring the accumulated deviation of anomalous output from a random number generator during an international scientific conference about spiritual healing held in Hawaii, 2001 and at the New Year’s holiday in Japan, 2002. The experimental data were statistically significant: Z=2.32, p=0.02 at the meeting and Z=2.11, p=0.035 for the New Year’s holiday, while controls gave chance results.30  China
+
+The impetus behind psi research in China has been to gain a scientific understanding of ancient Chinese wisdom traditions. Investigations began in earnest in the early 1980s.
+
+Psi Abilities in Children&nbsp;&nbsp;In 1983, McConnell reported on research by over 500 academics in more than 100 research centers investigating ESP training in young children. The key finding was that 50% of these children could be successfully trained to manifest ESP ability. McConnell also found reports of children gifted with ‘extraocular vision’, able to accurately visualize inscriptions on crumpled pieces of paper placed under their arms or behind their ears.31
+
+Zhang Baosheng&nbsp;&nbsp;Beginning in the mid 1970s, Zhang Baosheng began demonstrating ostensibly paranormal abilities such as movement of objects and telepathy. In 1982, a local group of scientists brought him to the attention of Beijing scientists at the Institute of Space-Medico Engineering (ISME) where he was heavily investigated:
+
+Zhang’s main experiment involved moving small objects in and out of glass tubes. In one well-controlled demonstration, specially marked pieces of paper were treated with a chemical and placed inside a tube. The tube was melted in order to constrict it midway. Cotton buds were placed in the top half having been soaked in a chemical that reacts with the chemical on the treated paper. After five minutes of close scrutiny by four investigators, the paper was found to be lying outside the tube, which nevertheless remained intact. There was evidence of a chemical reaction on the cotton buds, suggesting that the papers had passed through the cotton.
+
+In other experiments, Zhang psychokinetically extracted live insects out of the tubes, and on one occasion, a pill was filmed exiting the tube.32  International Chinese Parapsychology Association
+
+In 2013, the International Chinese Parapsychology Association (ICA), was established in order to integrate Chinese researchers with others in the field. It was founded by professors Leu Ying Jong (National Taiwan University), Albert So (Hong Kong University), and Yi-Fang Chang (Yunnan University) and has been instrumental in making Chinese psi research increasingly known in the West.  Mind-Matter Parapsychology Phenomena and Study Kumming Ltd
+
+The Mind-Matter Parapsychology Phenomena and Study Kumming Ltd, registered in Kumming (capital of Yunnan province) has recently been established. Much of the research output involves training and testing blind children to see with other body parts, (extraocular vision) using blind subjects. Blind children can be taught to telepathically communicate with each other and have even been taught to get together in a ‘virtual space’ and move objects by virtual PK. Sighted children can be taught to develop their PK abilities to fold strips of paper or break matchsticks held in transparent sealed containers, and even write a few tiny words such as ‘Mother I love you’ and a figure of ‘love’ on a sealed match stick by using a mind controlled ‘virtual pen’. Recently, Artificial Intelligence expert Ben Goertzel reported positively on his experiences there. 33  Collaborations with Western Scientists
+
+Dean Radin of the Institute of Noetic Sciences in California has collaborated with Yung-Jong Shiah in experiments. In a fully randomized double-blind study, tea treated with focused positive intentions by Buddhist monks was shown to improve mood scores of subjects who consumed it significantly more than non-blessed tea derived from the same source.34 A similar study&nbsp;achieved the same result for chocolate.35
+
+In another study, three Buddhist monks focused their intention on bottled water to try to accelerate the growth of seeds. In multiple experiments, seeds were treated with either intentioned or control water under blinded conditions, then placed in random positions in an incubator. The combined data revealed highly significant changes in a range of measures between untreated and ‘healed’ seeds. 36  India
+
+Despite its strong tradition of contemplative practices, India is only weakly represented in the history and contemporary profile of parapsychology.&nbsp;  Ramakrishna Rao
+
+Born in 1932, Ramakrishna Rao obtained his PhD from Andhra University and in 1958 moved to the US. He worked at the Institute for Parapsychology under JB Rhine, and later became its director. He returned to Andhra University in 1967 and established a department of Parapsychology there, returning frequently to the US to conduct research with Rhine and others. He is currently executive director of GITAM (Gandhi Institute of Technology and Management) University Vishakhapatnam, India.
+
+Rao has contributed significantly to understanding the relationship between psi and meditation. In a well-regarded study, he tested participants for both subliminal perception and ESP before and after they had practised Transcendental Meditation (TM) for a week. In both respects they showed significantly greater success in the post-meditation phase, indicating greater sensitivity to incoming information, which tends to confirm the lore of ancient yogic practice.37  Harendra Nath Banerjee
+
+Harendra Banerjee is best-known for his collaboration with Ian Stevenson38 on cases of the reincarnation type in children. He established the department of parapsychology at the University of Rajastan, concerned mainly with researching spontaneous psi cases. He died in 1985.  Sonali Bhatt Marwaha
+
+Sonali Bhatt Marwaha holds a BSc from University of Mumbai, a MA in clinical psychology and MPhil in psychology from SNDT Women’s University, Mumbai. She was awarded a PhD by the department of psychology and parapsychology, Andhra University, for a theoretical analysis of belief systems, self, and emotions, for which she won the JB Rhine Biennial Research Award. Presently she is a research associate with the Laboratories for Fundamental Research. She is active in collating past research into large bodies of work, notably the remote viewing program known as Star Gate.39 She has developed a theory of precognition in collaboration with the former program director, physicist and parapsychologist Edwin May.  Dayalbagh Educational Institute, Agra
+
+The Dayalbagh Educational Institute in Agra, although not a dedicated centre for psi research, has associates who have conducted research in this area. This is especially true since the establishment of the Quantum Nano and Consciousness centre with which it is affiliated, psi research providing a bridge between consciousness and quantum physics research. Successful projects have been carried out that reveal a significant improvement in ESP scores through the use of yogic techniques. Other research found evidence of a biofield associated with a variety of mainstream techniques.40
+
+Table 1: Summary of research in Asia and Australia
+
+&nbsp;   	 		 			
+
+&nbsp; Country 			 			
+
+&nbsp; Individual / Institute 			 			
+
+&nbsp; Type of Research 			 		 		 			
+
+&nbsp; India\US&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 			 			
+
+&nbsp; Ramakrishna Rao&nbsp; / GITAM (Gandhi Institute of Technology and Management) 			 			
+
+&nbsp; Subliminal perception and ESP 			 		 		 			
+
+&nbsp; India 			 			&nbsp; Harendra Nath Banerjee / Department of Parapsychology – University of Rajastan&nbsp; &nbsp;
+
+&nbsp; 			 			
+
+&nbsp; Reincarnation cases in small children 			 		 		 			
+
+&nbsp; India 			 			&nbsp; Sonali Bhatt Marwaha / Laboratories for Fundamental Research (LFR)
+
+&nbsp; 			 			
+
+&nbsp; Collating large bodies of remote viewing data.&nbsp; Precognition theory development 			 		 		 			
+
+&nbsp; India 			 			
+
+&nbsp; Dayalbagh Educational Institute 			 			
+
+&nbsp; Consciousness and physics. Biofield research 			 		 		 			
+
+&nbsp; Australia&nbsp; &nbsp; &nbsp; 			 			
+
+&nbsp; Ronald and Lyndon Rose 			 			
+
+&nbsp; ESP Testing of aborigines 			 		 		 			
+
+&nbsp; Australia&nbsp; &nbsp; 			 			
+
+&nbsp; Jurgen Keil / University of Tasmania 			 			
+
+&nbsp; Poltergeist cases. Reincarnation cases in children. 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Maurice Marsh / Rhodes University 			 			
+
+&nbsp; Psychological correlates of poltergeist activity 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Peter Delin / University of Adelaide 			 			
+
+&nbsp; Australian sheep-goat scale 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Harvey Irwin / University of New South Wales 			 			
+
+&nbsp; Belief formation. Landmark books in parapsychology 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Michael Thalborne / University of Adelaide 			 			
+
+&nbsp; I-Ching. Theory of Psychopraxia. Kundalini and RNGs 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Lance Storm / University of Adelaide 			 			
+
+&nbsp; Theory of reactance. Imagery cultivation model. Various meta-analyses 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Adam Rock / University of New South Wales 			 			
+
+&nbsp; Distant healing. The sense of being stared at. Meta-analysis. Collaborative mediumship research&nbsp; &nbsp; 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Hannah Jenkins. Quality Investigative Psi Projects (QIPP) 			 			
+
+&nbsp; Presentiment in plants 			 		 		 			&nbsp; Australia&nbsp; 			
+
+&nbsp; Australian Parapsychological Research Association (APRA). Vladimir Dubaj 			 			
+
+&nbsp; Case study investigations 			 		 		 			&nbsp; Australia&nbsp; 			&nbsp; Monash University. George Van Doorn, Alexander De Foe, and Mark Symmonds
+
+&nbsp; 			 			
+
+&nbsp; Out of Body Experiences (OBEs) 			 		 		 			&nbsp; Australia&nbsp; 			&nbsp; The Australian Institute of Parapsychology
+
+&nbsp; 			 			
+
+&nbsp; Supports psi research in Australia. Published biannual journal 			 		 		 			
+
+&nbsp; Japan 			 			&nbsp; Internal Research Institute. Hideyuki Kokubo
+
+&nbsp; 			 			
+
+&nbsp;Standardized measures of energy healing 			 		 		 			&nbsp;
+
+Japan 			 			Institute for Informatics of Consciousness, Meiji University&nbsp; 			
+
+&nbsp;Field RNG, NDE, anomalous experiences, etc 			 		 		 			&nbsp; Japan 			&nbsp; The International Society for Life Information Science (ISLIS)
+
+&nbsp; 			 			
+
+&nbsp;Supports psi research in Japan. Publishes a biannual journal 			 		 		 			
+
+&nbsp; China 			 			
+
+&nbsp; Institute of Space-Medico Engineering. (ISME) 			 			
+
+&nbsp; Macro-PK research in the 1980s. – Zhang Baosheng 			 		 		 			&nbsp; China 			&nbsp; 			
+
+&nbsp; Documented research from many researchers in the 1980s 			 		 		 			&nbsp; China 			
+
+&nbsp; International Chinese Parapsychology Association (ICPA) 			 			
+
+&nbsp; Supports psi research in China. Promotes ties with the West 			 		 		 			&nbsp; China 			
+
+&nbsp; The Mind-Matter Parapsychology Phenomena and Study Kumming Ltd&nbsp; 			 			
+
+&nbsp; Large program with psi gifted children, including training programs 			 		 		 			&nbsp; China 			
+
+&nbsp; Yung-Jong Shiah 			 			
+
+&nbsp; An example of increasing collaboration with Western scientists. (Dean Radin)
+
+&nbsp;
+
+Michael Duggan  Literature
+
+De Foe, A., Van Doorn, G., &amp; Symmons, M. (2012a). Auditory hallucinations predict likelihood of out-of-body experience. Australian Journal of Parapsychology&nbsp;12, 59-68.
+
+De Foe, A., Van Doorn, G., &amp; Symmons, M. (2012b). Floating sensations prior to sleep and out-of-body. Journal of Parapsychology&nbsp;77, 271-80.
+
+Irwin, H.J. (1993). Belief in the paranormal: A review of the empirical literature. Journal of the American Society for Psychical Research&nbsp;87, 1-39.
+
+Irwin, H.J., &amp; Watt, C. (2007). An Introduction to Parapsychology (5th ed.). Jefferson, NC: McFarland.
+
+Irwin, H.J., Dagnall, N., &amp; Drinkwater, K. (2012). Paranormal beliefs and cognitive processes underlying the formation of delusions. Australian Journal of Parapsychology&nbsp;12, 107-26.
+
+Kawano, K.&nbsp; (1996). Immune Responses during Remote Qi Emission. Journal of International Society of Life Information Science 14/1.
+
+Keil, J. (1987). Gaither Pratt: A Life for Parapsychology. Jefferson, NC: McFarland.
+
+Keil, H. H. J., Herbert, B., Ullman, M., &amp; Pratt, J.G. (1976). Directly observable voluntary PK effects. Proceedings of the Society for Psychical Research&nbsp;56, 197-235.&nbsp;
+
+Kido, M., &amp; Aiko, J. (2006). Biophysical measurements of distant healing by Reiki and Clear Sight Healing. Journal of the International Society of Life Information Science&nbsp;24, 145-54.
+
+Kokubo, H. Minami, E. Usui, T. (2014) Relationship between age and healing power – A study using a bio-sensor for non-contact healing. Journal of International Society of Life Information Science&nbsp;32/1, 49-55.
+
+Kokubo, H. (2016). Weak Periodic Effect in a Long-term Field RNG Measurement.&nbsp; Journal of International Society of Life Information Science&nbsp;34/1.
+
+McConnell, R.A. (Ed.). (1983). Parapsychology and Self-Deception in Science. Pittsburgh, PA: University of Pittsburgh Press.
+
+Marwaha, S.B., May, E. (2015). Rethinking Extrasensory Perception: Toward a Multiphasic Model of Precognition. Sage Open&nbsp;March 24, 2015.
+
+May, E. (2017). The Star Gate Archives: Remote Viewing, 1972-1984 Volume 1: Papers of the U.S. Government Sponsored Parapsychological Research Project, 1972-1995. McFarland and Co Inc.
+
+Rao, R. (2011). J.B.Rhine: On the Frontiers of Science. Jefferson: McFarland and Co.
+
+Rock, A. J. (2010). Is the “sense of being stared at” an artefact of response bias? Australian Journal of Parapsychology&nbsp;10/2, 140-52.
+
+Rock, A. J., &amp; Beischel, J. (2008). Quantitative analysis of research mediums’ conscious experiences during a discarnate reading versus a control task: A pilot study. Australian Journal of Parapsychology&nbsp;8/2, 157-79.&nbsp;
+
+Rock, A.J., Permezel, F.E., &amp; Storm, L. (2012). Randomized expectancy-enhanced placebo-controlled trial of the impact of Quantum BioEnergetic distant healing and paranormal belief on mood disturbance: A pilot study. Explore: The Journal of Science and Healing&nbsp;8, 107-17.
+
+Rock, A.J., Thorsteinsson, E.B., &amp; Tressoldi, P.E. (2020). A meta-analysis of anomalous information reception by mediums: Assessing the forced- choice design in mediumship research, 2000-2019.&nbsp;Advances In Parapsychological Research 10.
+
+Rose, L. (1951). Psi patterns among the Australian Aborigines. Journal of the American Society for Psychical Research&nbsp;45, 71-75. In Advances in Parapsychological Research 10, ed. by S. Krippner, A.J. Rock, H.L. Friedman, &amp; N. Zingrone.&nbsp;Jefferson, NC: McFarland.
+
+Shiah, Y.J., &amp; Radin, D. (2013). Metaphysics of the tea ceremony: Randomized trial investigating the roles of intention and belief on mood while drinking tea. Explore: The Journal of Science and Healing&nbsp;9, 355-60.
+
+Stevenson, I. (1966). Twenty Cases Suggestive of Reincarnation. Charlottesville. University of Virginia Press.
+
+Storm, L., &amp; Ertel, S. (2001). Does psi exist? Comments on Milton and Wiseman’s (1999) meta-analysis of ganzfeld research. Psychological Bulletin&nbsp;127, 424-33.
+
+Storm, L., &amp; Rock, A.J. (2009a). Imagery cultivation vs. noise reduction: Shamanic- like journeying as a psi-conducive alternative to the ganzfeld protocol. Australian Journal of Parapsychology&nbsp;9/1, 5-31.
+
+Storm, L., &amp; Rock, A.J. (2009b). Shamanic-like journeying and psi: I. Imagery cultivation, paranormal belief, and the picture-identification task. Australian Journal of Parapsychology&nbsp;9/2, 165-91.
+
+Storm, L., &amp; Thalbourne, M.A. (2000). A paradigm shift away from the ESP/PK dichotomy: The theory of psychopraxia. Journal of Parapsychology&nbsp;64, 279-300.&nbsp;
+
+&nbsp;Storm, L., &amp; Thalbourne, M.A. (2001a). Paranormal effects using sighted and vision-impaired participants in a quasi-ganzfeld task. Australian Journal of Parapsychology&nbsp;1, 133-70.
+
+Storm, L., &amp; Thalbourne, M.A. (2001b). Studies of the I Ching: I. A replication. Journal of Parapsychology&nbsp;65, 105-24.
+
+Storm, L., &amp; Thalbourne. M.A. (2005a). The effect of a change in pro attitude on paranormal performance: A pilot study using naïve and sophisticated skeptics. Journal of Scientific Exploration 19, 11-29.
+
+Storm, L., Ertel, S., &amp; Rock, A. J. (2013). The sheep-goat effect as a matter of compliance vs. noncompliance: The effect of reactance in a forced-choice ball selection test. Journal of Scientific Exploration&nbsp;27/3, 393-411.
+
+Storm, L., Tressoldi, P.E., &amp; Di Risio, L. (2010a). A meta-analysis with nothing to hide: Reply to Hyman (2010). Psychological Bulletin 136/4, 491–94.
+
+Storm, L., Tressoldi, P.E., (2017). Gathering in More Sheep and Goats: A Meta-Analysis of Forced-Choice Sheep-Goat ESP Studies, 1994-2015. Journal of the Society for Psychical Research&nbsp;81, 79-107.
+
+Storm, L., Tressoldi, P E., &amp; Di Risio, L. Sherwood, S. (2017) On the correspondence between dream content and target material under laboratory conditions: A meta-analysis of dream-ESP studies, 1966-2016. International Journal of Dream Research&nbsp;10/2, October.
+
+Thalbourne, M.A. (2006). Kundalini and the output of a random number generator. Journal of Parapsychology&nbsp;70/2 303-33.
+
+Thalbourne, M.A., Dunbar, K. A., &amp; Delin, P. S. (1995). An investigation into correlates of belief in the paranormal. Journal of the American Society for Psychical Research&nbsp;89, 215-31.
+
+Yaohua, H. (1988).&nbsp; Qigong Miracles and Research Developments.&nbsp;Xinhua Wenzhai&nbsp;2, 172-75 (in Chinese).
+
+Yamamoto, M. (1996). An Experiment on Remote Action against Man in Sensory-Shielding Condition. Journal of International Society of Life Information Science&nbsp;14/2.
+
+Yoichi, H. Kokubo, H. Yamamoto, M. (2004). &nbsp;Anomaly of Random Number Generator Outputs: Cumulative Deviation at New Year's Holiday. Journal of International Society of Life Information Science&nbsp;22/1, 142-49.
+
+Zha, L. (2001). Review of history, findings, and implications of research on exceptional functions of the human body in China. In&nbsp;Proceedings bridging worlds and filling gaps in the science of spiritual healing. Keauhou Beach Resort, Kona, Hawaii, November 29-December 4, 2001, ed. by&nbsp;R.A. Chez. Alexandria, VA: Samueli Institute.   Endnotes 1. Rose (1951). 2. Keil (1987). 3. Marsh (1980). 4. Delin (1995). 5. Irwin &amp; Watt (2007). 6. Irwin (1993). 7. Storm &amp; Thalbourne (2001). 8. Storm &amp; Thalbourne (2000). 9. Storm, L., &amp; Thalbourne, M. A. (2001). 10. Storm &amp; Thalbourne (2005). 11. Storm et al (2013). 12. Storm &amp; Rock (2009a). 13. Storm &amp; Rock (2009b). 14. Storm (2018). 15. Storm et al (2010a). 16. Storm et al(2017). 17. Storm &amp; Tressoldi (2017). 18. Rock (2010). 19. Rock et al (2012). 20. Rock &amp; Beischel (2008). 21. Rock et al (2020). 22. De Foe et al(2012a). 23. De Foe et al (2012b). 24. Kokubo et al (2011). 25. Kokubo (2016). 26. Kokubo (2014). 27. Yamamoto (1996). 28. Kawano (1996). 29. Kido (2006). 30. Yoichi et al (2004). 31. McConnell (1983). 32. Yaohua (1988). 33. Goertzel (2017). 34. Shiah &amp; Radin (2013). 35. Radin (2007). 36. Radin (2017). 37. Rao (2011). 38. Stevenson (1966). 39. May (2017). 40. Prokash &amp; Prokask (2017),&nbsp;99.           			  			     			This page was last updated on: October 05, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 5,300 Created: 16th June 2018 Last updated: 5th October 2022 May be cited as:Duggan, M. (2018). &lsquo;Experimental Psi Research in Asia and Australia&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/experimental-psi-research-asia-and-australia&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/y6k5oqam                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/experimental-psi-research-asia-and-australia

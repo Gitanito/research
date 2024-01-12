@@ -1,0 +1,354 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/remote-viewing","mytitle":"Remote Viewing | Psi Encyclopedia","mylang":"de"}
+                     Remote Viewing | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Remote Viewing                                                                                                                                                                                                                          Remote Viewing is an experimental form of ESP that emerged in the late 1960s, in which a suitably trained person attempts in a meditative state to visualise the topography of a distant scene. A considerable degree of success has been demonstrated by three scientific groups, one of which was funded for many years by the US military for intelligence-gathering purposes. This article&nbsp;surveys its history and development. Other articles (in preparation) will focus on particular aspects.   Contents   	Definition 	Emergence of Remote Viewing 	Laboratories 	What Is a Remote Viewing Session? 	Associated Remote Viewing (ARV) 	PEAR 	Mobius 	An Electromagnetic Phenomenon?  	Leonid Vasiliev 	US Navy ‘Project Sanguine’ 	Project Deep Quest   	Accuracy and Reliability  	Jessica Utts and Ray Hyman 	Patrizio Tressoldi   	Financial Prediction 	Applications of Remote Viewing 	Significant Personnel  	Researchers 	Notable Viewers   	Literature 	Endnotes     Definition
+
+Remote Viewing is the term of art for a series of nonlocal consciousness formalized protocols in which an individual is asked to provide detailed information about a person, place, object, or event, which information they should not be able to know by reason of their being shielded from it by time, space or both.  Emergence of Remote Viewing
+
+The protocols for remote viewing began to emerge in the late 1960s contemporaneously with a related set of protocols known as Ganzfield, a kind of first cousin to remote viewing. To properly understand the historical context, the two vectors of research should be seen as a collective expression: they arose from the same impulse, and by sharing their results the two research communities often helped one another.
+
+Both approaches were designed to eliminate a problem that had arisen with the protocols used by JB Rhine and his contemporaries beginning in the 1930s, principally tasks that involved mechanistic number guessing, dice calling, and ESP card naming. The data showed these repetitious ‘forced choice’ tasks became boring for participants over time, with the result that early successes tended to dramatically drop off, resulting in what came to be known as the ‘decline effect’.1
+
+In contrast, remote viewing offered a creative free response experience under conditions that made it impossible for normal sense impressions, or any kind of cuing or foreknowledge, to provide the answer. Remote viewing did not sacrifice methodological rigor – quite the opposite. Far from opposing randomization and blindness, the new generation of researchers enthusiastically embraced these controls, and added an evolving sophistication of statistical analysis for a notable increase in methodological rigor.  Laboratories
+
+Although a number of remote viewing studies were done by individual researchers,2 the activity centres on three major laboratories: SRI (later SAIC, and later still LFR) in Palo Alto, California, the Princeton Engineering Anomalies Research lab (PEAR, later ICRL), at Princeton University in New Jersey, and the Mobius lab in Los Angeles, California. The principal researchers at SRI were Harold Puthoff and Russell Targ; Edwin May joined them a few years later and would go on to be the director of the lab after their departure. Charles Tart and James Spottiswoode at various times would also collaborate. At PEAR, those involved were Robert Jahn, Brenda Dunne, Roger Nelson and York Dobyns. At Mobius the principal researchers were Stephan Schwartz and Randall De Mattei, with James Spottiswoode collaborating, and with specialist teams from many disciplines uniquely assembled for each of the applied remote viewing projects.
+
+All three labs pursued several lines of research in addition to remote viewing. Mobius looked at personality issues, therapeutic intention, creativity, and cross-cultural nonlocal consciousness states. PEAR was a leader in Nonlocal Perturbation studies involving RNG/REG protocols, which was also an area of interest for SRI, as were personality issues; however, their remote viewing research is the focus here.  What Is a Remote Viewing Session?
+
+A remote viewing session is basically two people making an agreement, an intention contract, to have a very focused conversation for a specific purpose, one person asking questions and another responding to them. It is a very natural experience and there is an intimacy to it. That produced a change in the psychodynamic of the research relationships: instead of seeing the data-gathering session as the performance of the ‘subject’ being assessed by an uninvolved arm’s length ‘experimenter,’ which had been the previous psychodynamic in parapsychology, the data very early on made it clear there was often an Observer Effect: both the person providing the nonlocal perception information and the person(s) carrying out the study were linked through the shared intention contract under which they all operated. A result of this important change in perspective was that instead of calling viewers ‘subjects’ they were referred to as ‘viewers’ or ‘participants’ or ‘respondents’ – a small word change but a very different conception of what was happening. And with the new protocols, and the altered psychodynamic, the Decline Effect disappeared.3
+
+&nbsp;
+
+In a session a typical viewer task might be,  
+
+‘I will show you a target image tomorrow at 4pm. It is a location somewhere on planet Earth. &nbsp;Can you please describe it for me in as much detail as you can? I have no idea what the target is, nor has anyone else. It will be randomly selected by a computer at 3:59pm tomorrow.’
+
+That is an example of a typical triple blind Precognition Protocol. At the time the session data was gathered, there was no target selected, and no one could know what it would be. Or, in a double blind variant, a place might be randomly selected by a computer or an otherwise uninvolved third party, a site unknown to both viewer and the monitor (as the&nbsp;experimenter conducting the session came to be known). A third person would go to the randomly selected locale.
+
+The question would then become something like: ‘You are life size, you are with (person’s name). Could you please describe for me the circumstances and conditions of (name).’ That became known as the Outbound Protocol.
+
+A&nbsp;variant might be to use only the longitude and latitude of a location and ask the viewer to go to those coordinates; sometimes an outbound person would be at the location, sometimes not. SRI particularly focused on this encoding issue and showed remote viewing worked even if the coordinates were encoded, or reduced to a micro-dot – about the size of the period at the end of this sentence, and thus&nbsp;unreadable except with specialized equipment.  Associated Remote Viewing (ARV)
+
+Another protocol developed at Mobius was the Associated Remote Viewing, or Associational Remote Viewing (ARV) Protocol. In this variant each target in the target set to be used was assigned an associated &nbsp;meaning: an apple meant one thing, a pair of scissors another.
+
+Research had shown that analytical concepts like numbers were much harder for viewers to get accurately, compared with sense impressions such as shapes, colors and sounds. But suppose you wanted to send a message that had number or letters through remote viewing? Or, as a second usage, to assign an object or place an associated meaning to determine the outcome of some event? In an experiment conducted by Mobius and assisted by SR, outbound locations associated with codes were described.
+
+The second use of this protocol was to pick the winner of a horse race. Different locations were assigned by Mobius to the different horses running in a particular race, at a particular track. The viewers were told that at a certain time the next day they would be taken to a location and were asked to describe where that would be. Unbeknownst to the viewer the horse race, run after the session data had been collected and judged, would determine the location to which they would be taken.
+
+  PEAR
+
+PEAR began by developing a thirty-item descriptor list that could be used to define each target. When session data were evaluated a researcher would answer ‘yes’ or ‘no’ as to the presence of that descriptor in the session data. There was also a ‘unsure’ box. This allowed them to write computer algorithms that could ‘provide numerical evaluation of the thus-specified information content of any given trial and, once scored, the statistical merit of the perception results could be evaluated by an assortment of computerized analytical ranking procedures. The PEAR group took another tack, and reduced target images to a series of descriptors: indoors, outdoors; is a recurring pattern present? The viewer provided information about the descriptors, which could then be computer matched with the randomly selected target. It soon became clear, as with the SRI and Mobius work, that no matter how the target was encrypted, reduced to descriptors, or associated with a meaning, whether an outbound person was used or not, viewer performance was essentially the same.
+
+Over the years this descriptor approach would morph into five variants. Using these five analytical methods three hundred&nbsp;trials were carried out. They were grouped by experimental criteria. The researchers found ‘the most instructive feature of these results is the consistency of anomalous yield across these five diverse scoring schemes. Overall the results, although they differed somewhat across the trials, were all highly significant, whatever the method used.’
+
+As time went on, fifty papers on this research would be published covering 353 more experimental RV sessions using variations of the original five ‘recipes’ as they were called, until there was a total of 24 variants. The analysis of the now 653 trials yielded this:  
+
+Twenty-four such recipes have been employed, with queries posed in binary, ternary, quaternary, and ten-level distributive formats. Thus treated, the database yields a composite z-score against chance of 5.418 ( p = 3 x 10-8, one-tailed).
+
+The group further concluded:  
+
+Numerous subsidiary analyses agree that these overall results are not significantly affected by any of the secondary protocol parameters tested, or by variations in descriptor effectiveness, possible participant response biases, target distance from the percipient, or time interval between perception effort and agent target visitation.   Mobius
+
+Mobius began from a different perspective. PEAR and SRI had started with the idea that the nonlocal awareness used in successful remote viewing studies must first be proven to exist. Mobius’ founder, Stephan Schwartz, created his lab after he had spent five years studying the parapsychological literature in depth, as well as the largest body of remote viewing data ever assembled, the Edgar Cayce Readings. Schwartz had begun experimenting in what he called Distant Viewing in 1968, and by the time Mobius was founded in 1976 he felt that the reality of nonlocal consciousness was a settled issue. He began with a more anthropological focus centered on how the process of accessing nonlocal consciousness worked, and whether anything useful could be accomplished through accessing it. Mobius’ laboratory work therefore centered on studies that looked at psychological issues; the nature of the researcher-viewer relationship; and how to optimize that. Thus many of its studies were accompanied by psychological profile instruments, two in particular involving an international study and profile instrument published in both the American and Japanese editions of the popular science magazine, OMNI as well as The LA Weekly. Over 23,000 people took part, including all of the viewers who regularly participated in the lab’s studies, and about whom there existed a substantial body of data.
+
+The research revealed that:   	remote viewers who were defined as more ‘right brain’ did better than those defined as ‘left brain’ 	women and men did equally well 	extroverts and introverts developed different strategies for opening to the nonlocal, and ritual behaviour helped some people to do so 	the relationship between the monitor and the viewer made a difference, and both affected session outcome 	space and time were not limitations, and no level of blindness had any effect 	double blind, triple blind made no difference, but triple blind was preferable (if the viewers got it right, all other avenues to the information being blocked, they knew the data was genuinely nonlocal, affecting them positively) 	there were ways to use body language to get scale, which would normally have been too analytical
+
+As the three labs and a few other researchers continued remote viewing work the session data revealed other variables that affected performance, and which, if properly understood, could be used to augment success. These are: intention, numinosity, entropy. As originally conceived, a viewer could give what was judged to be a correct description, a ‘hit’ or an incorrect description, a ‘miss’. But the session data revealed a third, unanticipated outcome, what came to be called Displacement. This is where a viewer provides an accurate description of one of the targets in a target set that collectively comprise the potential futures, but not the one actualized by being selected. It became clear that the information gathering process could be strongly modulated by culture and personal attitudes.  An Electromagnetic Phenomenon?  Leonid Vasiliev
+
+Russian physiologist and psychologist Leonid Leonidovich Vasiliev (1891-1966) was the first person to seriously ask the question, is nonlocal perception an electromagnetic phenomenon? In 1932, his institute received an assignment from the Soviet government ‘to initiate an experimental study of telepathy with the aim of determining as far as possible its physical basis: what is the wavelength of the electromagnetic radiation that produces “mental radio”, the transmission of information from one brain to another, if such a transmission exists’.4
+
+Vasiliev looked at what today would be described as nonlocal perception and perturbation, although he didn’t use those terms. He would ask participants to focus on a target individual and to stimulate them in some way. He found that it worked. He would put people into caves or mine shafts in Faraday cages so that the participants were shielded from most of em radiation, and ask them to write down images or letters, such as the experiments being done contemporaneously between Paris and Warsaw by Nobel laureate Charles Richet with Stefan Ossowiecki as the participant viewer,5 &nbsp;and the work of René Warcollier in Paris.6 To his very considerable surprise Vasiliev found that neither distance nor shielding made any difference in the quality of the nonlocal perception. By changing the shielding he finally concluded that if nonlocal perception were electromagnetic it could only be Extreme Low Frequency (ELF) (1-300Hrtz) because he had eliminated everything else. The only way to test that, to shield from ELF, was to submerge the participant in the sea at a depth ELF could not penetrate, and then see if they could still successfully complete an experiment requiring nonlocal perception. But that required a submarine, and Vasiliev, despite all his efforts, could not make that happen.
+
+The ELF hypothesis seemed all the more plausible because research in the early 1960s had demonstrated that human subjects showed measurable physiological responses to ELF exposure7 even when shielded by earthen bunkers.8  US Navy ‘Project Sanguine’
+
+Stephan Schwartz, then the Special Assistant for Research and Analysis to the Chief of Naval Operations, became familiar with the Vasiliev, Kronig, Reiter, et al research in 1971 and saw it in the context of the remote viewing research he had done earlier; he decided to do the experiment, and tried to interest the Navy in doing it, but like Vasi
+
+liev he was unsuccessful.
+
+Over many years, Michael Persinger, a cognitive neuroscientist and professor at Laurentian University in Ontario, Canada, had produced more than one hundred&nbsp;peer-reviewed papers looking at how electromagnetic fields affected individuals. He studied the effect of devices that created magnetic fields around people’s heads. He first turned his attention to nonlocal consciousness in 1974, when he proposed that telepathy and clairvoyance could be explained by electromagnetic waves in the extreme low frequency ELF range.9
+
+Contemporaneously, the Navy had decided that ELF, precisely because it will penetrate at least some depth of seawater, could be a means to communicate with the service’s deep ocean ballistic missile submarines. They wanted the boats to stay as deeply submerged as possible so that Soviet satellites would not detect the heat bloom from the sub’s nuclear reactor, and thus be able to locate and track it. In their Project Sanguine they explored the ELF seawater relationship with meticulous care, and discovered that the bit rate of transmission using ELF was restricted to just a few numbers, since frequency also dictates the amount of information that can be transmitted.
+
+Thanks to Project Sanguine, Schwartz had the piece of the puzzle that Vasiliev lacked, and could see even before doing the experiment that the amount of data routinely provided in a remote viewing session far exceeded the transmission bit rate of ELF. With ELF the maximum bit rate dB/dt is equal to somewhat less than half the frequency. A single letter, given an alphabet of 26 symbols, requires 4.7 bits (since 2^4.7 = 26). So a five letter word needs around 24 bits. Actually, somewhat less will do, since all letters do not have an equal probability of occurrence.
+
+In contrast, it has been calculated that a single visual observation requires about one hundred bits of data, and a simple geometric form about sixty bits.10 In practical terms, this data transmission restriction supported the idea that nonlocal perception was not an electromagnetic process. But doing the actual experiment was still important.  Project Deep Quest
+
+In 1976, through the auspices of the Institute for Marine and Coastal Studies of the University of Southern California, and the generosity of its directors Don Walsh and Don Keach, retired naval officers and internationally recognized for their deep ocean engineering expertise, Schwartz got the use of a research submersible, Taurus, and created Project Deep Quest. This had three parts:   	ascertain whether the ELF hypothesis was viable 	use the ARV protocol to see if a reliable communications channel could be established 	see if by using remote viewing, a previously unknown wreck on or under the seafloor could be located, described in detail, and its history reconstructed
+
+Because Taurus had a 1,200-foot depth limit, the ELF portion of the experiment could not be definitive; to get sufficient shielding for that would require a submersible with at least a 6,000-foot depth limit. However, by placing the submarine at depth, which highly attenuated the signal, and further reducing the bit rate, along with the viewer being at over five hundred&nbsp;miles distance from the outbound target, a functionally definitive experiment could be carried out.
+
+The Deep Quest fieldwork with Taurus was carried out over three days in June 1977. It showed that ELF was a highly improbable explanation for nonlocal perception; also that ARV could be used to send a message and, equally important, that the associational technique worked. And finally, by means of remote viewing, a previously unknown shipwreck off Santa Catalina island, an area previously surveyed by a variety of electronic technologies, was located and accurately reconstructed in detail and dated.11  Accuracy and Reliability
+
+Remote Viewing performance across all three labs shows a remarkable consistency over many years: about 75% of what could be objectively evaluated proved to be correct.&nbsp;The evidence to back that statement comes in two parts, protocols in which a statistical outcome is the measure, and application protocols where probability statistics are only one aspect of assessment. Typically, in an archaeological project, the latter would include concept-by-concept analyses of such things as location, surface geography, subsurface or marine descriptive concepts, as well as detailed descriptions of conditions and objects found at the located site. But let us begin just with the statistics, because a unique body of longitudinal research exists.  Jessica Utts and Ray Hyman
+
+A nationally known mathematician and statistician Jessica Utts, chairman and professor of statistics at University of California, Irvine, became interested in remote viewing and examined the SRI database, not once but several times across experiments covering almost two decades. In her first analysis she examined forced choice protocols with free response, summarizing as follows:  In 1988 an analysis was made of all of the experiments conducted at SRI from 1973 until that time (May et al, 1988). The analysis was based on all 154 experiments conducted during that era, consisting of over 26,000 individual trials. Of those, almost 20,000 were of the forced choice type and just over a thousand were laboratory remote viewings. There were a total of 227 subjects in all experiments.
+
+The statistical results were so overwhelming that results that extreme or more so would occur only about once in every 1020 such instances if chance alone is the explanation (i.e., the p-value was less than 10-20). Obviously some explanation other than chance must be found. Psychic functioning may not be the only possibility, especially since some of the earlier work contained methodological problems. However, the fact that the same level of functioning continued to hold in the later experiments, which did not contain those flaws, lends support to the idea that the methodological problems cannot account for the results. In fact, there was a talented group of subjects (labeled G1 in that report) for whom the effects were stronger than for the group at large. According to Dr. May, the majority of experiments with that group were conducted later in the program, when the methodology had been substantially improved.
+
+In addition to the statistical results, a number of other questions and patterns were examined. A summary of the results revealed the following:
+
+1. ‘Free response’ remote viewing, in which subjects describe a target, was much more successful than ‘forced choice’ experiments, in which subjects were asked to choose from a small set of possibilities.
+
+2. There was a group of six selected individuals whose performance far exceeded that of unselected subjects. The fact that these same selected individuals consistently performed better than others under a variety of protocols provides a type of replicability that helps substantiate the validity of the results. If methodological problems were responsible for the results, they should not have affected this group differently from others.
+
+3. Mass-screening efforts found that about one percent of those who volunteered to be tested were consistently successful at remote viewing. This indicates that remote viewing is an ability that differs across individuals, much like athletic ability or musical talent. (Results of mass screenings were not included in the formal analysis because the conditions were not well-controlled, but the subsequent data from subjects found during mass-screening were included.)
+
+4. Neither practice nor a variety of training techniques consistently worked to improve remote viewing ability. It appears that it is easier to find than to train good remote viewers.
+
+5. It is not clear whether or not feedback (showing the subject the right answer) is necessary, but it does appear to provide a psychological boost that may increase performance.
+
+6. Distance between the target and the subject does not seem to impact the quality of the remote viewing.
+
+7. Electromagnetic shielding does not appear to inhibit performance.
+
+8. There is compelling evidence that precognition, in which the target is selected after the subject has given the description, is also successful.
+
+9. There is no evidence to support anomalous perturbation (psychokinesis), i.e. physical interaction with the environment by psychic means&nbsp;(Utts, 1991).
+
+In 1995, the US Congress commissioned the American Institutes for Research (AIR), a Washington, DC-based not-for-profit think tank with a long history of work in human performance and close government ties, to assess the reality of remote viewing in research the US government had previously funded. To make the assessment, AIR selected Jessica Utts because she was universally acknowledged to be the leading expert in assessing nonlocal perception data. They also asked well-known skeptic Professor Ray Hyman, a psychologist on the faculty of the University of Oregon and a fellow of the Committee for the Scientific Investigation of Claims of the Paranormal (CSICOP, now CSI). Both had previously written on nonlocal perception and were notably sophisticated in the issues involved.
+
+Hyman and Utts were each asked by AIR to produce an independent report by a fixed date. Utts complied, and submitted her report by the deadline. Hyman did not. As a result he was able to see her report before writing his own, and the approach he chose to take, when he did write, was largely a commentary on her analysis. To compensate for this inequity, AIR allowed Utts to write a response that was incorporated into the final document submitted to the Congress. It is in this unplanned form of exchange that the essence of the two positions is revealed.
+
+Utts’s initial statement is remarkable for its clarity. She says:  Using the standards applied to any other area of science, it is concluded that psychic functioning has been well established. The statistical results of the studies examined are far beyond what is expected by chance. Arguments that these results could be due to methodological flaws in the experiments are soundly refuted. Effects of similar magnitude have been replicated at a number of laboratories across the world. Such consistency cannot be readily explained by claims of flaws or fraud.
+
+The magnitude of psychic functioning exhibited appears to be in the range between what social scientists call a small and medium effect. That means that it is reliable enough to be replicated in properly conducted experiments, with sufficient trials to achieve the long-run statistical results needed for replicability’.12
+
+Responding to Utts’s report, Hyman wrote:  
+
+I want to state that we agree on many … points. We both agree that the experiments (being assessed) were free of the methodological weaknesses that plagued the early ... research. We also agree that the … experiments appear to be free of the more obvious and better known flaws that can invalidate the results of parapsychological investigations. We agree that the effect sizes reported … are too large and consistent to be dismissed as statistical flukes’ .(Utts, 1995)
+
+This is important because what Hyman, a significant skeptical critic, was admitting was that the way in which remote viewing experiments were conducted, and the way in which they were analyzed, was no longer a matter for dispute. Remote viewing cannot be explained away as some artefact resulting from how the data were collected or evaluated. From that time forward there has been very little criticism of remote viewing per se.
+
+Finally, to give a sense of proportion, Utts explored the difference between the ‘aspirin’ effect and that achieved in the research done in both remote viewing and Ganzfield, the two nonlocal perception paths that emerged in the early 1970s. Her study compared a database from each protocol &nbsp;against the aspirin database. Writing in the Journal of Scientific Exploration, she compared the results of&nbsp;remote viewing and Ganzfeld with studies on the effects of antiplatelets on vascular disease, as follows:  The psi experiments produced stronger results than the antiplatelet experiments, in terms of the magnitude of the effect. There is a 36% increase in the probability of a (result) over chance, from 25% to 34%. There is a 25% reduction in the probability of a vascular problem after taking antiplatelets.
+
+The antiplatelet studies had more opportunity for fraud and experimenter effects than did the psi experiments.
+
+The antiplatelet studies were at least as likely to be funded and conducted by those with a vested interest in the outcome as were the psi experiments.
+
+In both cases, the experiments were heterogeneous in terms of experimental methods and characteristics of the participants.
+
+All of this leads to one interesting question, Utts concludes:  
+
+Why are millions of heart attack and stroke patients consuming antiplatelets on a regular basis, while the results of the psi experiments are only marginally known and acknowledged by the scientific community? The answer may have many aspects, but surely it does not lie in the statistical methods.13   Patrizio Tressoldi
+
+Twenty years later in 2011, Italian experimental psychologist Patrizio Tressoldi, of the University of Padova, a scientist of the next generation, carried out a study aiming to ‘provide a demonstration of the non-local property of the human mind to connect at distance, that is, without the classical means of communication’. Tressoldi took as his criterion the charge often made by skeptics, that ‘extraordinary claims require extraordinary evidence’.14
+
+Having conducted his own experiments and surveyed the literature across several decades, Tressoldi asked,  
+
+If results analysed with both frequentist and Bayesian statistical approaches from more than 200 studies conducted by different researchers with more than 6000 participants in total and three different experimental protocols are not considered ‘extraordinary,’ or at least ‘sufficient’ to suggest that the human mind may have quantum-like properties, what standards can possibly apply?’15   Financial Prediction
+
+The ARV protocol that began with correctly calling the outcome of a horserace has also been associated with investment and financial prediction. Dick Bierman of the University of Amsterdam and Thomas Rabeyron of Nantes University carried out a review of ARV experiments, examining&nbsp; a total of seventeen for which trustworthy data could be obtained. The results, they say, ‘suggest that the mean scoring rate in a binary situation is around 63%. If these results could be confirmed this would falsify theories that predict that it is impossible to use psi in a consistent and robust way and moreover it could be the end of the financial problems in the field of psi research.’  Applications of Remote Viewing
+
+Because the applications work done by SRI/SAICwas classified it is difficult to assess in detail. However, the work that has been declassified is once again consistent with the similar unclassified work done by Mobius and PEAR. As important as any statistic, its quality and importance were recognized by the government agencies that utilized it, as demonstrated by their willingness to continue funding it for decades. At a human level, the agencies rendered their judgment through the recognition rituals that mark military life. For exceptional service to country the military bestows the Legion of Merit, the next to highest award the Army can give in peacetime. Millions have served in the Army since the award was created in 1942. Of those millions only 21,704 have received the LoM over three quarters of a century.&nbsp;Of that number only one person, Chief Warrant officer Joseph McMoneagle, has ever received the award for his contribution through remote viewing.&nbsp; His citation says quite a bit, and hints at much more:  
+
+While with his command, he used his talents and expertise in the execution of more than 200 missions, addressing over 150 essential elements of information. These EEI contained critical intelligence reported at the highest echelons of our military and government, including such national level agencies as the Joint Chief’s of Staff, DIA, NSA, CIA, DEA, and the Secret Service, producing crucial and vital intelligence unavailable from any other source.’16&nbsp;&nbsp;
+
+Mobius’ application work, mostly in archaeology using the Mobius Consensus Protocol, was entirely unclassified and was witnessed by many people, filmed or video-taped. Its accuracy was assessed by multiple independent researchers from a range of disciplines, in addition to a statistical assessment of the location data.
+
+Between 1977 and 1992 Mobius carried out and reported on nine multi-disciplinary applied remote viewing archaeology projects. They included locating a previously unknown wreck on the seafloor off the coast of California, the location and description of Cleopatra’s Palace in Alexandria, Egypt, as well as Mark Antony’s Timonium, and the Lighthouse of Pharos, one of the seven wonders of the ancient world location work that was re-confirmed by a French expedition over a decade later. It also included locating and describing the remains of one of Christopher &nbsp;Columbus’s caravels from his fourth&nbsp;voyage, and the location and description of the Brig Leander in the Bahamas, as well as the Great Lakes freighter Dean Richmond.
+
+In one instance, the University of Alexandria challenged Mobius to locate a buried building with specific characteristics in the buried city of Marea. The search area defined by the university was 576 square kilometres, roughly half the size of the city of Los Angeles. An&nbsp;electronic remote sensing survey carried out three years earlier&nbsp;showed no sign of the site selected by the Mobius remote viewers.&nbsp;The finished dig&nbsp;by the University of Alexandria&nbsp;on the site selected by remote viewers revealed&nbsp;exactly what the archaeologist asked for and exactly as described by the remote viewers.
+
+In each project, parallel to the remote viewing research, the same search area was surveyed by an independent scientist using the appropriate electronic remote sensing technology – side-scan sonar, proton precession magnetometer, ground penetrating radar, or satellite imagery. The question posed was: Could this site(s) have been located using the appropriate electronic remote sensing technology? In all nine instances, electronic remote sensing failed to identify sites that were successfully located by remote viewing. And of course the electronic technologies could provide very little by way of reconstruction or artefact description.
+
+The Mobius Consensual Protocol called for independent expert evaluation of every concept proffered by a viewer during the pre-fieldwork remote viewing sessions. Every concept was rated on a four point scale: ‘correct,’ ‘partially correct but useful,’ ‘incorrect,’ ‘can’t be evaluated.’ About 30%&nbsp;of material could not be evaluated, for example statements of what people were thinking: they might be correct but there was no way to know. Of the remaining 70% of the material between 75-85% of the concepts were judged ‘correct’ or ‘partially correct but useful’.
+
+Both SRI and Mobius also occasionally engaged in what could be called remote viewing criminology, also with success. &nbsp;An example can be seen in the&nbsp; NOVA documentary, The Case for ESP, that reported on a murder resolved by Mobius viewers, whose work was publicly acknowledged by the District Attorney who engaged Mobius. Another example can be seen in SRI viewer Joe McMoneagle’s 1981 location of American Army General James Dozier, who was kidnapped by the Italian Red Brigades Marxist militant group. McMoneagle’s work led to his rescue.&nbsp;
+
+Partly because it is so robust, and also because successful applied remote viewing projects show that something practical could be done with nonlocal perception, remote viewing has become an avocational interest similar to scuba diving, with its own clubs and associations (such as the International Remote Viewing Association), conferences, online discussion lists, and magazines.
+
+In addition to this work Dean Radin, Senior Scientist at the Institute for Noetic Science, has run an online remote viewing study for years with sessions now numbering millions. All of this collectively means that many millions of remote viewing sessions have been carried out, with results sufficiently successful to keep people doing it – clear evidence of a nonlocal aspect of consciousness unlimited either by space or time.  Significant Personnel
+
+Because of the nature of the process, early remote viewers helped design the protocols, often suggesting ways to make them more rigorous or effective. Since it was their capacity to open to nonlocal consciousness that made the experiments successful, their contributions as much as those of the scientists have been properly acknowledged.  Researchers
+
+SRI/SAIC/LFR:   	Harold E Puthoff 	Russell Targ 	Edwin May 	Charles Tart 	James Spottiswoode
+
+Mobius:   	Stephan A Schwartz 	Rand De Mattei 	James Spottiswoode
+
+Each archaeological remote viewing project had a team specially constructed for that particular project including, archeologists, anthropologists, electronic remote sensing specialists, metallurgists, geologists, marine biologists and others.
+
+PEAR:   	Robert Jahn 	Brenda Dunne 	Roger Nelson 	York Dobyns   Notable Viewers
+
+SRI/SAIC:   	Pat Price 	Ingo Swann 	Hella Hammid 	Joe McMoneagle 	Duane Elgin
+
+SRI/Stargate:   	Paul Smith 	Lyn Buchannan 	Ingo Swann 	Joe McMoneagle
+
+Mobius:   	Alan&nbsp; Vaughan 	George McMullen 	Ingo Swann 	Hella Hammid 	Judith Orloff 	Michael Crichton 	Jack Hauck 	Andre Vaillaincourt 	Umberto Di Grazi 	Rosalyn Bruyere 	Ben Moses
+
+PEAR:
+
+PEAR made a point of not developing a standing team of viewers, choosing instead to use naïve viewers
+
+Stephan Schwartz  Literature
+
+Franklin, W. (1976). Metal fracture physics&nbsp;using scanning electronic microscopy and the theory of teleneural Interactions. In&nbsp;The Geller Papers, ed. C. Panati, 83-106. New York: Houghton Mifflin.
+
+Haraldsson, E., &amp; Gissurason, L.R. (1987).&nbsp;Does geomagnetic activity affect extrasensory perception?&nbsp;Journal of Personality and Individual Differences&nbsp;8, 745-47.
+
+Hastings, A.C., &amp; Hurt, D.B. (1976), A confirmatory remote viewing&nbsp;experiment in a group setting.&nbsp;Proceedings of the IEEE, 64, 1544-45.
+
+Honorton, C. (1975).&nbsp;Objective determination of information rate in psi&nbsp;tasks with pictorial stimuli, Journal of the American Society for&nbsp;Psychical Research&nbsp;69,&nbsp;353-59.
+
+Hyman, R.&nbsp;(1981).&nbsp;Response to OMNI magazine query related to PSI-II&nbsp;mass test.&nbsp;August.
+
+Hyman, R. (2002).&nbsp;Interview. Austin American-Statesman,&nbsp;July 14.
+
+Jahn, R. (1982), The persistent paradox of psychic phenomena: An&nbsp;engineering perspective.&nbsp;Proceedings of the IEEE&nbsp;70, 136-70.
+
+Jahn, R., &amp; Dunne, B. (1987a).&nbsp;Margins of Reality.&nbsp;New York: Harcourt Brace.
+
+Jahn, R., &amp; Dunne, B. (1987b). The PEAR proposition. Journal of Scientific&nbsp;Exploration&nbsp;19/2, 195-245.
+
+Jahn, R., &amp; Dunne, B. (2011). Consciousness and the Source of Reality: The PEAR Story.&nbsp;Princeton, New Jersey, USA:&nbsp;ICRL&nbsp;Press.
+
+Jahn, R., &amp; Dunne, B. (2012). Quirks of the Quantum Mind.&nbsp;Princeton,&nbsp;New Jersey, USA: ICRL Press.
+
+Jahn, R., Dunne, B., &amp; Jahn, E. (1980). Analytical judging procedure for&nbsp;remote perception experiments.&nbsp;Journal of Parapsychology&nbsp;44,&nbsp;207-31.
+
+Katz, D. (2013).&nbsp;Remote viewing the outcome of the 2012 Presidential&nbsp;election.&nbsp;Aperture, Spring/Summer.
+
+Katz, D., Poquiz, A., Bulgatz ,M., &amp; Noble, J. (2013).&nbsp;Remote viewers&nbsp;correctly predict the outcome of the 2012 president election.&nbsp;Proceedings of the Parapsychological Association Annual&nbsp;Meetings.
+
+Kirkpatrick, S., &amp; Cayce, E. (2000).&nbsp;An American Prophet.&nbsp;New York: Riverhead&nbsp;Books,
+
+Lantz, N., Luke, W., &amp; May, E. (1994).&nbsp;Target and sender dependencies in&nbsp;anomalous cognition experiments.&nbsp;Journal of Parapsychology&nbsp;58, 285-302.
+
+Long, J.&nbsp;(ed.) (1977).&nbsp;Extrasensory Ecology: Parapsychology and&nbsp;Anthropology.&nbsp;Metuchen, New Jersey, USA:&nbsp;Scarecrow Press.
+
+Marks, D. (1981).&nbsp;Sensory cues invalidate remote viewing experiment.&nbsp;Nature&nbsp;292 (July 9), 177.
+
+May, E. (2007). Advances in anomalous cognition analysis: A judge-free and accurate confidence-calling technique,&nbsp;Proceedings of the Parapsychological Association Annual&nbsp;Meetings.
+
+May, E.C., Faith, L.V., Blackman, M., Bourgeois, B., Kerr, N., &amp; Woods, L. (1999).&nbsp;A target pool and database for anomalous cognition&nbsp;experiments.&nbsp;Paper presented at the Parapsychological&nbsp;Association, August 4-8, Stanford, California.
+
+May, E., Spottiswoode, S.J.P., &amp; Faith, L. (2000).&nbsp;The correlation of the&nbsp;gradient of Shannon entropy and anomalous cognition: Toward&nbsp;an AC sensory system, Journal of Scientific Exploration&nbsp;14/1, 53-72.
+
+May, E., Spottiswoode, S.J.P., &amp; James, C. (1994). Shannon entropy: A&nbsp;possible intrinsic target property.&nbsp;Journal of&nbsp;Parapsychology&nbsp;58, 384-401.
+
+May, E., Utts, J., Humphrey, B., Luke, W., Frivold, T., &amp; Trask, V. (1980).&nbsp;Advances in remote-viewing analysis.&nbsp;Journal&nbsp;of Parapsychology&nbsp;54, 193-228.
+
+McMoneagle, J. (2002).&nbsp;The Stargate Chronicles: Memoirs of a Psychic&nbsp;Spy.&nbsp;Charlottesville, Virginia, USA: Hampton Roads:
+
+Palmer, J. (1978).&nbsp;Extrasensory perception:&nbsp;Research findings. Advances in Parapsychological Research&nbsp;2: Extrasensory Perception, ed. by S. Krippner. New York, Plenum,&nbsp;1978,&nbsp;
+
+Persinger, M.A. (1975).&nbsp;Geophysical models for parapsychological&nbsp;experiences.&nbsp;Psychoenergetic Systems&nbsp;1, 63-74.
+
+Persinger, M.A. (1987). Spontaneous telepathic experiences from Phantasms&nbsp;of the Living and low geomagnetic activity. Journal of the&nbsp;American Society for Psychical Research&nbsp;81, 23-36.
+
+Persinger, M.A., Roll, W., Tiller, S., Koren, S., &amp; Cook, C. (2002), Remote&nbsp;viewing with the artist Ingo Swann: Neuropsychological profile,&nbsp;electroencephalographic correlates, magnetic resonance imaging&nbsp;(MRI) and possible mechanisms.&nbsp;Perceptual and Motor&nbsp;Skills&nbsp;94/3.1,&nbsp;927-49.
+
+Persinger, M.A., &amp; Valliant, P.M. (1985).&nbsp;Temporal lobe signs and reports&nbsp;of subjective paranormal experiences in a normal population: A&nbsp;replication.&nbsp;Perceptual and Motor Skills&nbsp;60/3, 903-9.
+
+Planck, M.&nbsp;(1931). Interview.&nbsp;The Observer, 25 January.
+
+Puthoff, H., &amp; Targ, R. (1973). Perceptual Augmentation Techniques. Part &nbsp;One—Technical Proposal SRI No. ISH 73-146 I (October). Stanford, California, USA:&nbsp;Stanford Research Institute.
+
+Puthoff, H., &amp; Targ, R. (1975). Perceptual Augmentation Techniques. SRI Project&nbsp;3183, Final report covering the period January 1974 through&nbsp;February 1975. Stanford, California, USA:&nbsp;Stanford Research Institute.&nbsp;[Declassified July&nbsp;1995.].
+
+Puthoff, H., &amp; Targ, R. (1981). Rebuttal of criticisms of remote viewing experiments.&nbsp;Nature 5821 (23&nbsp;July), 388.
+
+Puthoff, H., Targ, R., &amp; Tart, C. (1979). Resolution in Remote viewing&nbsp;Studies: Mini and Micro Studies. Stanford, California, USA: SRI International&nbsp;Radio Physics Laboratory.
+
+Rauscher, E.A., Weissmann, G., Sarfatti, J., &amp; Sirag, S.P.&nbsp;(1976).&nbsp;Remote&nbsp;perception of natural scenes, shielding against ordinary perception. In&nbsp;Research in&nbsp;Parapsychology, ed. by&nbsp;J.D. Morris, W.G. Roll, &amp; R.L. Morris, 41–45.&nbsp;Metuchen, New Jersey, USA:&nbsp;Scarecrow Press.&nbsp;.
+
+Reid, C. (1974).&nbsp;Psychometrics and Settlement Patterns: Field Tests on Two Iroquois Sites.
+
+Sadek, M. (1978).&nbsp;The ancient port of Marea.&nbsp;Cahiers des Etudes&nbsp;Anciennes 8, 72-73.
+
+Saunders, D.R. (1985).&nbsp;Correlations of Remote viewing Ability with&nbsp;Performance Personality Measures: Preliminary Results. SRI&nbsp;Technical Report, April.
+
+Schlitz, M., &amp; Gruber, E. (1980)&nbsp;Transcontinental remote viewing.&nbsp;Journal of Parapsychology&nbsp;44, 305-17.
+
+Schwartz, S.A. (2010).&nbsp;Nonlocality and exceptional experiences: A study&nbsp;of genius, religious epiphany, and the psychic. Explore 6/4 (July-Aug),&nbsp;227-36.
+
+Schwartz, S.A. (n.d.).&nbsp;Boulders in the stream:&nbsp;The founding and lineage of&nbsp;the Society for the Anthropology of Consciousness. [Unpublished ms.]
+
+Schwartz, S.A. (1977). Instructions to viewers, Deep Quest, 15 May.
+
+Schwartz, S.A. (1978). The Secret Vaults of Time. New York: Grosset &amp; Dunlap.&nbsp;[Reprinted 2017 by Open Road Distribution.]
+
+Schwartz, S.A. (1978). Two application-oriented experiments employing a&nbsp;submarine involving novel remote viewing protocols, one&nbsp;testing the ELF hypothesis. Invited paper read at the American Society for Psychical Research, New&nbsp;York. [Unpublsished ms.]
+
+Schwartz, S.A. (1980). The Marea probe: An experiment in applied&nbsp;parapsychology involving the location, reconstruction, and&nbsp;excavation of a Byzantine structure—Marea, Egypt, 14 April&nbsp;1980&nbsp;Invited paper read at the Annual Meetings of The American Research&nbsp;Center in Egypt, De Young Museum.
+
+Schwartz, S.A. (1980). The use of intuitionally derived data in&nbsp;archaeological fieldwork. Paper read at Annual Meeting of the&nbsp;Southwestern Anthropological Association/Association for&nbsp;Transpersonal Anthropology, 10 March.
+
+Schwartz, S.A. (1983). The Alexandria Project.&nbsp;New York: Doubleday/Delacorte. [Reprinted 2017 by Open Road Distribution.]
+
+Schwartz, S.A. (2001). Mind Rover&nbsp;[DVD], Charlottesville, Virginia, USA.Nemoseen&nbsp;Media.
+
+Schwartz, S.A. (2007). Opening to the Infinite.&nbsp;Budha, Texas, USA: Nemoseen Media.&nbsp;.
+
+Schwartz, S.A. (2011). Physiological and psychological correlates with&nbsp;solar activity and the GMF, bibliography, compiled&nbsp; 3 October 2011. [Unpublished ms.]
+
+Schwartz, S.A. (2013). False equivalencies and the mediocrity of nonlocal&nbsp;consciousness research criticism.&nbsp;Explore&nbsp;9/3 (May), 131-35.
+
+Schwartz, S., &amp; De Mattei, R. (1981).&nbsp;Psi-Q I, OMNI (October).
+
+Schwartz, S., &amp; De Mattei, R. (1982).Psi-Q II, OMNI (October)&nbsp;
+
+Schwartz, S., &amp; De Mattei, R. (1982).The Mobius Psi-Q Test: Preliminary findings.&nbsp;Research in Parapsychology 1982, ed. by W.G. Roll, J. Beloff, J., &amp; R. White, 103-5. Metuchen, New Jersey, USA:&nbsp;Scarecrow.
+
+Schwartz, S., &amp; De Mattei, R. (1987).&nbsp;Remote viewing and the&nbsp;Search for Columbus’ Lost Caravels. Paper read at&nbsp;Conference on&nbsp;Underwater Archaeology/Society of Historic Archaeology Annual&nbsp;Meetings.
+
+Schwartz, S., &amp; De Mattei, R. (1989). The discovery of an American brig: Fieldwork&nbsp;involving applied archaeological remote viewing, including a&nbsp;comparison with side scan sonar and satellite imagery. Proceedings, Conference on Underwater Archaeology/Society of&nbsp;Historic Archaeology Annual Meetings.
+
+Schwartz, S. A., De Mattei, R., &amp; Schlitz, M. (1984).&nbsp;The Pecos Project:&nbsp;Reconstruction of life in a southwestern Indian village along the&nbsp;lower Pecos River, circa 8th century A.D. Paper read at American&nbsp;Anthropology Association Annual Meetings.
+
+Schwartz, S., &amp; Edgerton H. (1980).&nbsp; A preliminary survey of the Eastern&nbsp;Harbour, Alexandria, Egypt, combining both technological and&nbsp;extended sensing exploration. Paper read at Annual Meetings&nbsp;of the Society for Underwater Archaeology, 11 January.
+
+Smith, P.H. (2005). Reading the Enemy’s Mind: Inside Star Gate. New York:&nbsp;Forge..
+
+Solvin, G., Kelly, E., &amp; Burdick, D. (1978). Some new methods of analysis&nbsp;for preferential-ranking data.&nbsp;Journal of the American&nbsp;Society for Psychical Research&nbsp;72, 93-111.
+
+Spottiswoode, S.J.P (1993).&nbsp;Effect of ambient magnetic field&nbsp;fluctuations on performance in free response anomalous&nbsp;cognition task: A pilot study.&nbsp;Proceedings of the&nbsp;Parapsychological Association 36th Annual Convention, Toronto,&nbsp;Canada.
+
+Spottiswoode, S.J.P. (1990) Geomagnetic activity and anomalous cognition: A&nbsp;preliminary report of new evidence.&nbsp;Subtle Energies&nbsp;1, 91-102.
+
+Swanton, J. (1952). Open letter to all listed members of the American&nbsp;Anthropological Association.
+
+Targ, R. (2012). The Reality of ESP.&nbsp;Wheaton, Illinois, USA: Quest.
+
+Targ, R., &amp; Puthoff, H. (1974).&nbsp;Information transmission under conditions&nbsp;of sensory shielding.&nbsp;Nature&nbsp;252, 602-7.
+
+Targ, R., &amp; Puthoff, H. (1975) Information transmission under conditions of&nbsp;sensory shielding.&nbsp;Communications Society&nbsp;13/1 (January), 12-19.
+
+Targ, R., &amp; Puthoff, H. (2005).&nbsp;Preface. In&nbsp;Mind Reach: Scientists Look at Psychic Abilities, ix-xi.&nbsp;Charlottesville, Virginia, USA: Hampton Roads.
+
+Tart, C.&nbsp;(1972). States of consciousness and state-specific sciences.&nbsp;Science&nbsp;176/4040, (16 June), 1203-10.
+
+Tart, C. (1988). Geomagnetic effects on GESP: Two studies.&nbsp;Journal of the American Society for Psychical Research&nbsp;82, 193-215.
+
+Tart, C.&nbsp;(1972). States of consciousness and state-specific sciences.&nbsp;Science&nbsp;176/4040&nbsp;(16 June), 1203-10.
+
+Tart, C., Puthoff, H., &amp; Targ, R. (2002), Mind-at-Large. Charlottesville, Virginia, USA: Hampton&nbsp;Roads.
+
+Tressoldi, P. (2011).&nbsp;Extraordinary claims require extraordinary&nbsp;evidence: The case of non local perception, a classical and&nbsp;Bayesian review of evidences.&nbsp;Frontiers in&nbsp;Psychology (10 Feb), .1-10.
+
+Tressoldi, P., Massaccesi, S., Martinelli, M., Cappato, S. (2011).&nbsp;Mental&nbsp;connection at distance: Useful for solving difficult tasks?&nbsp;Psychology&nbsp;2/8 (10 Feb),&nbsp;853-58.
+
+Truzzi, M. (1978). An extraordinary claim requires extraordinary proof.&nbsp;On the extraordinary: An attempt at clarification. Zetetic&nbsp;Scholar&nbsp;1/1,&nbsp;11.
+
+Utts, J. (1991). Replication and meta-analysis in parapsychology&nbsp;(with discussion).&nbsp;Statistical Science&nbsp;6/4, 363-403.
+
+Utts, J. (1995).&nbsp;In An Evaluation of Remote viewing: Research and&nbsp;Applications, ed. by&nbsp;M.D. Mumford, A.M. Rose, &amp; D.A. Goslin&nbsp;(29 Sept).&nbsp;American Institutes for Research.
+
+Utts, J. (1999). The significance of statistics in mind-matter research. Journal of Scientific Exploration&nbsp;13/4, 615-38.
+
+Vallée, J., Hastings, A.C., Askevold, G. (1976). Remote viewing&nbsp;experiments through computer conferencing.&nbsp;Proceedings of&nbsp;the IEEE&nbsp;64, 1551-52.
+
+Vasiliev, L. (1963). Experiments in Mental Suggestion.&nbsp;Institute for the&nbsp;Study of Mental Images.&nbsp;[Reprinted in a revised edition in&nbsp;2002 by&nbsp;Hampton Roads,&nbsp;Charlottesville, Virginia, USA.]
+
+Veek, B. (1977). Deep Quest Master Map Evaluation.&nbsp;15 June.&nbsp;University of Southern California.
+
+Warcollier, R.&nbsp;(2001).&nbsp;Mind to Mind. Chalottesville, Virginia, USA: Hampton Roads..
+
+Watt, C.(1988). Characteristics of successful free-response targets:&nbsp;Theoretical considerations. Proceedings of the 31st Annual&nbsp;Parapsychological Association Convention, Montreal, Canada.&nbsp; 247-63.
+
+Whitson, T.W., Bogart, D.N., Palmer, J., &amp; Tart, C.T. (1976).&nbsp;Preliminary experiments in group ‘remote viewing.&nbsp;Proceedings&nbsp;of the IEEE&nbsp;64,&nbsp;1550-55.   Endnotes 1. Rhine in Palmer (1978), 178-68. 2. Allen (1975); Hastings (1976); Rauscher et al. (1976); Whitson et al. (1976); Vallée et al. (1976); Chotas (1978); Schlitz &amp; Gruber (1980). 3. Targ &amp; Puthoff (1977); Schwartz (2007). 4. Vasiliev (1963). 5. Schwartz (1978). 6. Warcollier (2001). 7. Kronig (1962); Reiter (1964). 8. Wever (1968). 9. Persinger (1975). 10. Franklin (1976). 11. Schwartz (1979). 12. Utts (1995), §3-2. 13. Utts (1999). 14. Truzzi (1978). 15. Tressoldi,&nbsp;Massaccesi, Martinelli, &amp; Cappato (2011).  16. Joseph McMoneagle Legion of Merit Citation.           			  			     			This page was last updated on: March 22, 2021   			 			                                               	       Search form        Search                   Article Information           	Author: Stephan Schwartz Word count: 7,400 Created: 13th January 2017 Last updated: 22nd March 2021 May be cited as:Schwartz, S. (2017). &lsquo;Remote Viewing&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/remote-viewing&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yxmfkkkg                   	                                                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/remote-viewing

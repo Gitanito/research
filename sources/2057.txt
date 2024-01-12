@@ -1,0 +1,130 @@
+{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/eecs-research-group","mytitle":"EECS (research group) | Psi Encyclopedia","mylang":"de"}
+                     EECS (research group) | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           EECS (research group)                                                                                                                                                                                                                          The research group Exceptional Experience and Consciousness Studies (EECS), based at the University of Northampton, is the largest centre for parapsychological research in the world. Its members adopt a critical but sympathetic stance to claims of psychic (psi) experiences, studying their impact on health and wellbeing, and investigating psi ability in laboratory testing.   Contents   	History 	Current Activities  	Mediums and Mediumship in UK 	Dream Research   	Past Activities  	Random Number Generators 	Remote Viewing   	PhD Students  	Current 	Past   	Literature 	Endnotes     History
+
+EECS was originally the Centre for the Study of Anomalous Psychological Processes (CSAPP), consisting of cognitive psychology and neuropsychology research groups of parapsychologists, transpersonal psychologists and consciousness researchers. EECS was formed in 2017 as these groups reformed and merged in the move to the Waterside Campus from Park Campus.
+
+CSAPP started in 1995 with the appointment of Chris Roe, then at the psychology department of St Andrew’s University. Roe gained his PhD at the Koestler Parapsychology Unit under Professor Robert Morris, who had led a conference on parapsychology at Northampton the year before, at what was at that time known as Nene College. Roe set up a teaching module on parapsychology (PSY3007) which has since been given without interruption. In 1997, he obtained a doctoral scholarship in parapsychology at a national competition, which on Morris’s recommendation was allocated to Christine Simmonds-Moore. New studentships were later obtained, mainly with the help of the Bial Foundation and the Society for Psychical Research.
+
+Roe was joined by another KPU PhD laureate, Simon Sherwood, from 1998 to 2012. In 1999, the College became the University College of Northampton. They hired Deborah Delanoy, also from the KPU, as a professor of psychology, with responsibility for research leadership. Latterly, Delanoy was the associate dean for the School of Social Sciences at Northampton until her retirement in 2010. In 2000, the University of Northampton agreed to recognize the CSAPP as a research centre, with Delanoy as its first director.
+
+The group was later joined by Richard Broughton (2004-2012). In 2005, the University College became a full University with a strong research focus. For 2005 to 2009, the group was reinforced by German researcher Harald Walach and colleagues Thilo Hinterberger, Niko Kohls, Majella Horan, Marie-Louise Gander-Ferrari, Ursula Mochty, Daniela Hahn, and Andreas Sommer. Since 2007 Walach has developed the postgraduate training programme MSc Transpersonal Psychology/Consciousness Studies.  Current Activities
+
+Located within the psychology division, EECS is now the largest centre for parapsychological research in the world. Following the example of the Koestler Unit, EECS seeks a better understanding of exceptional human experiences by adopting a sympathetic stance to claims of psi, scrutinizing the claims, studying the impact of the experiences on health and wellbeing, and investigating psi ability through laboratory testing.
+
+The centre has been led by Liz Gulliford since 2020, with Chris Roe acting as research leader. A growing number of PhD students are supported by research assistants.
+
+EECS research programmes typically focus on a single exceptional experience through a mixed method, including a survey and a qualitative analysis of interviews. (Auto)ethnography and experimental tasks are sometimes added to provide a complete view of the topic, reflecting on the social context of these experiences and the care of those who may suffer from them.&nbsp;
+
+Topics under investigation include:   	phenomenology of after-death communications and their impact on those who report them (Roe, Cooper) 	altered states of consciousness induced by floatation (Saunders, Hitchman, Cooper, Allan) 	ecological approaches to scopaesthesia (Cooper) 	mental mediumship from the medium and their clients’ perspectives (Kinnersley, MacLean, Roe) 	induced near-death experiences in healthy volunteers (Machado) 	psi experiences in the funeral industry (Cooper) 	anomalous experiences during the pandemics (Lomas) 	lucid dreams and precognition (Saunders) 	prevalence and phenomenology of paradoxical lucidity (Roe)   Mediums and Mediumship in UK
+
+An on-going collaboration with individuals and groups such as the Arthur Findlay College enables the exploration of aspects of mediumship, both mental and physical, from the perspective of clients, mediums and scientists. Mediumship experiences are accepted in other cultures, but in ours are disavowed; however, some people are able to interpret and manage their experiences while continuing to function normally. This is being studied within the EECS, to generate an understanding that may help others deal with anomalous experiences.  Dream Research
+
+Dream research has found a fresh impetus at EECS. &nbsp;A meta-analysis by Chris Roe of dream ESP experiments since the late 1960s at Maimonides and elsewhere confirmed highly significant effects: Maimonides&nbsp;effect size&nbsp;= 0.33, p = 10 x 10-9, post-Maimonides effect size = 0.14, p = 0.0001.1 A 2017 update again found the results to be extremely significant (effect size = 0.20, p = 5,19 x 10 -8).&nbsp; Dream research at EECS has been similarly successful, with a 31% hit rate over 6 experiments and 183 trials where 25% is expected by chance (p = 0.03).2
+
+In 2019 Saunders received a Perrott-Warrick grant for a dream ESP study exploring lucid dreams and their potential for precognitive content.&nbsp;  Past Activities
+
+Past research activities include:   	role of the emotional systems in mediating intuition and anomalous experiences (Broughton) 	comparing remote viewing and ganzfeld conditions in a precognition task (Roe, Cooper) 	mapping experiences of telephone telepathy (L-A Smith) 	prevalence and phenomenology of synchronicity experiences in the clinical setting (Roxburgh, Evenden) 	independent replication of two of Daryl Bem’s experiments on retroactive priming and retroactive facilitation of recall, incorporating individual difference measures (Roe) 	lability and PK performance: Identifying the optimal conditions for PK-RNG effects in laboratory using an I-Ching task (Drennan, Hitchman) 	testing the psi-mediated instrumental response theory using an implicit psi task (Luke, Hitchman)
+
+Two of the main activities at Northampton, also being pursued extensively elsewhere, have been psi testing with random number generators and remote viewing.  Random Number Generators
+
+Random number generators (RNG) have been used principally to investigate psychokinesis (PK), the purported ability to affect matter through the action of mind, and precognition, the ability to predict outcomes. PK was first tested with RNGs in the early 1970s by Helmut Schmidt, a German-born physicist and parapsychologist who reported highly significant effects.
+
+Researchers have continued to use these electronic ‘coin-flippers’ in PK experiments ever since, and the accumulated effect size from over 500 experiments, although small in magnitude, is significant to the level of 16.1 sigma.3&nbsp;Neither quality issues nor selective reporting can explain the results, and they appear broadly distributed.4&nbsp;A recent, determinedly conservative meta-analysis found a significant effect size (0.500035) across 380 studies, although this finding remains ambiguous, as the&nbsp;outcome is reversed when three large experiments with negative effects sizes are included (z -3.67, p &lt; 0.001).5
+
+Besides demonstrating the existence of psi, parapsychologists are also concerned with the processes involved, and this is a strong focus of activity at EECS. Since 2009, Chris Roe and colleagues have been trying to unravel the conditions most suitable to eliciting precognition. They use a method in which the task is implicit: subjects are not told they are being tested for precognition, and instead are asked to indicate a preference for a particular picture in a set of four, of which one is the precognitive ‘target’. This approach has been found to yield a greater effect size (0.03)6&nbsp;than studies in the earlier precognition meta-analysis, in which subjects understood the true nature of the task (0.01). In some of these studies, personality variables such as openness to experience were found to correlate with precognition performance.  Remote Viewing
+
+Remote Viewing (RV) is a methodological procedure for ESP, where the percipient is required to view distant objects, geographical locations and events across a distant spacetime point. Chris Roe and Stuart Flint performed a remote viewing experiment using a ganzfeld induction procedure on 14 novice sender-receiver pairs, and obtained significant scoring on a weighted sum of ranks (p = 0.008).7&nbsp;To discover the contribution of the ganzfeld procedure in this success, Cal Cooper,8&nbsp;then a PhD student, devised a controlled experiment in which remote viewing was carried out with and without a ganzfeld induction and found a hit rate of 35% under the ganzfeld condition.
+
+In June 2020, EECS published the results obtained in three ganzfeld-remote viewing comparison studies, in which 110 participants produced 43 hits in the ganzfeld stimulation condition (39%), giving a highly significant positive deviation from chance expectation (sum of ranks = 225, p = 0.000012). In the waking (non-ganzfeld) remote viewing condition they achieved 30 hits (27.5%), which is only marginally above chance expectation (sum of ranks = 253, p = 0.034).9  PhD Students  Current
+
+EECS students currently researching PhDs are:
+
+Mike Daw:&nbsp; differential effect of omnivorous, vegetarian, vegan, and fasting diets on psi
+
+Rachel Evenden, now lecturing in psychology at the University of Northampton: clinical parapsychology
+
+Felicity Kinnersley:&nbsp;spiritualist mental mediumship development
+
+Aaron Lomas:&nbsp;phenomenology of apparitional and anomalous experiences reported during the Covid-19 pandemic
+
+Sofia Machado:&nbsp;induced near-death experiences in healthy volunteers
+
+Ewen Maclean:&nbsp;clients’ participation with mediumship in contemporary Britain
+
+Johnny&nbsp;Ryan: parapsychological and transpersonal dimensions of psychedelic drugs
+
+Alex Wilson: transformative nature of altered states of consciousness in youth subculture
+
+Kirsty Allan: psi experiences induced in floating tanks
+
+Corrine Gretton-West: contribution of place to exceptional human experiences through photographic art  Past
+
+Christine Simmonds-Moore, now professor of psychology at the University of West Georgia: schizotypy as an anomaly-prone personality (2003)
+
+David Luke, now associate professor of psychology at the University of Greenwich: psychology and parapsychology of beliefs about luck and their relation to beliefs about psi and psi performance (2007)
+
+Nicola Holt,&nbsp;Creativity, altered states of consciousness and anomalous cognition: The role of epistemological flexibility in the creative process (2007), now Associate professor of psychology, University of the West of England
+
+Elizabeth Roxburgh, now senior lecturer in psychology at Canterbury Christ Church University: psychology and phenomenology of spiritualist mental mediumship (2010)
+
+Glenn Hitchman, now psychology subject lead (specialising in psychology of religion, University of Surrey: psi mediated instrumental response theory with an implicit psi task (2012)
+
+Sophie Drennan, now lecturer in psychology, Birmingham City: individual lability, perceived stress, participant/researcher interaction, goal-intention and PK-RNG effects (2015)
+
+Charmaine Sonnex, now lecturer in psychology, University of Buckingham: distant mental interaction effects of pagan healing spells (2016)
+
+Callum Cooper, now senior lecturer in psychology at Northampton University: bereavement and recovery (2017)
+
+David Saunders, now associate professor in psychology, University of Northampton: &nbsp;lucid dreaming as a tool for performance enhancing sleep (2017)
+
+Kimberley Sheffield: loving kindness meditation and its relationship with wellbeing (2017)
+
+Jacqueline Stone: mindfulness-based activities in UK education (2020)
+
+Erika Pratte: wellbeing impacts and clinical implications of near-death experiences (2021)
+
+Louise Spiers, now senior lecturer in psychology at the University of Northampton: spiritual experiences in individuals with epilepsy
+
+Chetak Nangare: comparison of Buddhist and parapsychological descriptions of psychic experiences (2021)
+
+Michael Duggan and Renaud Evrard  Literature
+
+Bem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect.&nbsp;Journal of Personality and Social Psychology 100, 407-25.
+
+Bӧsch, H., Steinkamp, F., Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis.&nbsp;Psychological Bulletin 132, 497-523.
+
+Luke, D. P., Delanoy, D. &amp; Sherwood, S. J. (2008). Psi may look like luck: Perceived luckiness and beliefs about luck in relation to precognition.&nbsp;Journal of Society for Psychical Research 72, 193-207.
+
+Radin, D. I., &amp; Ferrari, D. C. (1991). Effects of consciousness on the fall of dice:&nbsp;&nbsp;A&nbsp;&nbsp; meta-analysis.&nbsp;Journal of Scientific Exploration 5/1, 61-83.
+
+Radin, D. I., &amp; Nelson, R. D. (2003). Meta-analysis of mind-matter interaction experiments: 1959-2000. Healing, Intention and Energy Medicine. London: Harcourt Health Sciences, 39-48.
+
+Roe, C. A., &amp; Flint, S. (2007). A remote viewing pilot study using a ganzfeld induction procedure.&nbsp;Journal of the Society for Psychical Research 71/4, 230-34.
+
+Roe, C. A., Hodrien, A. and Kirkwood, L. (2012). Comparing remote viewing and ganzfeld conditions in a precognition task. In: Abstracts of presented papers:
+
+Roe, C. A., Martin, H., &amp; Drennan, S. (2014). Effects of participant and target system lability upon PK performance using an I Ching task. Journal of the Society for Psychical Research 78, 219-39.
+
+Roe, C., Grierson, S. and Lomas, A. (2012). Feeling the future: two independent replication attempts. Proceedings of the Parapsychological Association 55th Annual Convention, Durham, North Carolina, 09-12 August 2012. Durham, North Carolina, USA: Parapsychological Association.
+
+Roe, C.A., Cooper, C.E., Hickinbotham, L., Hodrien, A., Kirkwood, L., Martin, H. (2020). Performance at a Precognitive Remote Viewing Task, with and without Ganzfeld Stimulation: Three Experiments. Journal of Parapsychology 84/1, 38-65.
+
+&nbsp;Roe, C.A., Nangare, C., Ryan, J. (2018). Comparing Individual versus Group Judgments in a Dream ESP Study. Proceedings of the 42nd International SPR conference.&nbsp; September 2018, Newcastle, U.K.
+
+Roe, CA, Cooper, C., and Martin, H.(2010). Testing or precognition using remote viewing and Ganzfeld methods: A comparison. Proceedings of the 34th&nbsp;International Conference of the Society for Psychical Research, Sheffield, UK.
+
+Sherwood, S. J. &amp; Roe, C. A. (2003). Review of dream ESP studies conducted since the Maimonides Dream ESP Programme.&nbsp;Journal of Consciousness Studies 10/6-7, 85-109.
+
+Sherwood, S. J., &amp; Roe, C. A. (2013). An updated review of dream ESP studies conducted since the Maimonides Dream ESP Program. In Advances in Parapsychological Research 9, edited by S. Krippner, A.J. Rock, J. Beishel, H.L. Friedman and C.L. Fracasso, 38-81.
+
+Storm, L., Sherwood, S. J., Roe, C. A., Tressoldi, P. E., Rock, A. J., &amp; Di Risio, L. (2017). On the correspondence between dream content and target material under laboratory conditions: A meta-analysis of dream-ESP studies, 1966-2016.&nbsp;International Journal of Dream Research&nbsp;10/2, 120-40.&nbsp;
+
+Ullman, M., &amp; Krippner, S. (1970). Dream Studies and Telepathy: An experimental approach (No.12). New York: Parapsychology Foundation.   Endnotes 1. Sherwood &amp; Roe (2003). 2. Roe et al (2018). 3. Radin &amp; Nelson (2003). 4. Radin &amp; Ferrari (1991). 5. Bosch et al (2006). 6. Roe et al (2012). 7. Roe &amp; Flint (2007). 8. Roe et al (2010). 9. Roe et al (2020).           			  			     			This page was last updated on: April 25, 2022   			 			                                               	       Search form        Search                   Article Information           	Authors: Michael Duggan  and Renaud Evrard Word count: 2,200 Created: 25th April 2022 Last updated: 25th April 2022 May be cited as:Duggan, M. and Evrard, R. (2022). &lsquo;EECS (research group)&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/eecs-research-group&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yb874cu6                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/eecs-research-group

@@ -53,6 +53,7 @@ if (isset($_POST['styling'])) {
                 </form>
             <br><br><br><br>
                 <a href="clear.php" target="_blank">CLEAR</a>
+            <br><br><br><br>
             </p>
         </div>
     </div>

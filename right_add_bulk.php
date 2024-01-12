@@ -1,4 +1,5 @@
 <?php
+
 include_once "header.php";
 include_once "functions_add.php";
 include_once "simple_html_dom.php";

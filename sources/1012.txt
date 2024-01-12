@@ -1,0 +1,170 @@
+{"name":"Richard Wiseman | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/richard-wiseman","mytitle":"Richard Wiseman | Psi Encyclopedia","mylang":"de"}
+                     Richard Wiseman | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Richard Wiseman                                                                                                                                                                                                                          Richard Wiseman is an English psychology professor, bestselling author and professional sceptic, a fellow of the Committee for Skeptical Inquiry (CSI), formerly the Committee for the Scientific Investigation of Claims of the Paranormal (CSICOP). He has carried out investigations of psi phenomena, including ESP, psychic detection and hauntings. He presents his results, which are almost invariably negative, as evidence that psi does not exist&nbsp;and that parapsychology is a failed endeavor. Critics have questioned his methods and accused him of misrepresentation.   Contents   	Life and Career 	Psi Research  	Hauntings 	Luckiness and Psi 	Failed ESP Replication 	Experimenter Effect 	Mass ESP Testing 	Misattribution and ESP 	Improving Publication Standards   	Controversy and Criticism  	Eusapia Palladino 	Psychics 	Sheldrake Replication 	Natasha Demkina 	Telepathy Meta-analysis   	Books 	Literature 	Endnotes     Life and Career
+
+Richard John Wiseman was born 16 September 1966 in Luton, Bedfordshire, England,1 his mother a seamstress and his father an engineer. He became interested in magic after finding a library book on the subject at age eight, and later joined the Magic Circle in London as one of its youngest members. Still in his teens, he performed street magic in London’s Covent Garden while studying psychology at University College London. He went on to study for a psychology doctorate at the University of Edinburgh under the supervision of Robert L Morris, the first professor of parapsychology at the University’s Koestler Parapsychology Unit,2&nbsp; (a post now held by Wiseman’s partner Caroline Watt). He is now professor of psychology at the University of Hertfordshire and is Britain’s first Professor of Public Understanding of Psychology.
+
+Wiseman has parlayed his interests in psychology, magic and quirky aspects of life into a successful career as an author with books such as The Luck Factor (on how to improve your luck), 59 Seconds (quick psychological techniques for life improvement) and Shoot for the Moon: How the Moon Landings Taught Us the 8 Secrets of Success. His books have been translated into thirty languages and he frequently appears on radio and television. His YouTube videos have received more than 500 million views.3 He has initiated mass online experiments on subjects such as remote-viewing (clairvoyance) and the funniest joke in the world.
+
+Wiseman was a member of the Society for Psychical Research from 1991-2004, for most of which time he was also on its governing Council. He received CSI’s Education in Science Award in 2000 and its Robert B. Balles Prize for Critical Thinking in 2011, for his book Paranormality: Why We See What Isn’t There. &nbsp;  Psi Research  Hauntings
+
+In 2000, Wiseman led a high-profile investigation of belief in ghosts at Hampton Court Palace, reputed to be one of the most haunted locations in England.4 He explored three hypotheses with regard to ghostly encounters: that they are based on a priori belief in ghosts, suggestion, or magnetic fields. Some 600 members of the public completed questionnaires measuring their belief in ghosts. Half were then informed that there had been a recent increase in unusual phenomena (positive suggestion) while the other half were told the opposite (negative suggestion). All were then encouraged to walk around the palace and report any phenomena they experienced. In line with previous similar studies, significant associations were observed between experiences and a belief in ghosts, and between experiences and suggestion. Location data also supported a possible relationship between experiences and local magnetic fields.  Luckiness and Psi
+
+In 1997, Wiseman and collaborators reported a laboratory test of a possible association between perceived luckiness and psi effects.5 Participants were classified as lucky, unlucky or uncertain, according to their responses on a standard questionnaire. They were then asked to guess the outcomes of a series of pseudo-random-number-generator-based coin-flips in either a competitive or non-competitive situation. Before the test was completed, they were asked to rate how well they felt they had performed at the task. Analysis revealed that lucky individuals performed no better than unlucky ones on the psi task. Ratings of how well the test went did not correlate with luckiness questionnaire responses. There was no significant difference between performances of competitive and non-competitive participants. However, a significant positive correlation was found between predicted psi performance and actual psi performance, providing some support for the psi hypothesis.  Failed ESP Replication
+
+In 2011, Daryl Bem reported experiments supporting the existence of precognition.6 These studies reversed standard psychological protocols so that behavioural measures were recorded before stimulus presentations. Wiseman and two collaborators ran three pre-registered independent attempts to replicate the results, in particular the ‘retroactive facilitation of recall’, which examined whether performance on a memory test can be influenced by a post-test exercise. He reported that all three attempts involving 150 volunteer test subjects failed to produce significant effects.7
+
+A subsequent review of the literature in 2016&nbsp;found ninety similar experiments that collectively produced a highly significant result, supporting Bem’s earlier findings(p = 1.2 x 10-10).8  Experimenter Effect
+
+Wiseman has taken part in research which appears to reinforce the possibility an experimenter effect – an intrinsic ability on the part of individual researchers to stimulate psi in their experiments, or conversely to suppress it.
+
+By 1997, distant influence experiments had been conducted by several investigators. One study by Marilyn Schlitz gave positive results,9 while others by Richard Wiseman were negative.10 The pair collaborated in a joint study to investigate the reason for this disparity in outcomes. Two experiments were conducted at Wiseman’s laboratory at the University of Hertfordshire in which the conditions – psychophysiology equipment, experimental procedures and participant pool (sixteen subjects for each) – were identical, the only difference being that the first was conducted by Wiseman and the second by Schlitz.11 Schlitz obtained significant effects of intention on electrodermal activity (p = 0.04), while Wiseman found only insignificant results.
+
+The effect was replicated in a second collaboration, at Schlitz’s laboratory at the Institute of Noetic Sciences, again employing the same procedures, equipment and participant pool over two studies. Schlitz found significant effects (p = 0.05), while Wiseman obtained only chance results.12
+
+A third experiment tried to determine whether this effect could be traced to differences in experimenter behaviour with regard to participants, as opposed to an inherent psi ability (or lack of it) on the part of the experimenters. Every measure came back insignificant, so no conclusions about this could be made.13  Mass ESP Testing
+
+Wiseman designed and conducted a mass participation ESP experiment under controlled conditions, fulfilling his remit as Professor of the Public Understanding of Psychology.14 This used a steel cabinet containing a multi-media computer with a large touch-screen monitor. Participants were asked to guess whether a randomly tossed coin would fall heads or tails. After eleven months a total of 27,856 members of the public had contributed 110,959 trials, providing sufficient statistical power to capture even small effects. However, the cumulated outcome was consistent with chance.
+
+The experiment also examined the possible relationship between participants’ ESP scores and their gender, belief in psychic ability, and degree of predicted success. The results of all these analyses were non-significant. Scoring on clairvoyance trials, in which the target coin face was decided at the beginning of the trial, was not significantly different from precognitive trials in which the target was chosen after the participants had made their choice.  Misattribution and ESP
+
+In a 2006 paper, Wiseman and Watt15 discuss the claim that people who believe in psychic ability possess psychological characteristics that predispose them to misattribute paranormal causation to experiences that have a normal explanation. They review the large corpus of work exploring the relationship between belief in psychic ability, critical thinking, probability misjudgement, reasoning ability and fantasy proneness, a substantial empirical database covering a multitude of associations. They conclude that much of the work reveals inconsistent relationships, while with regard to relationships that are reliable, the issue of causation verses correlation is not addressed.  Improving Publication Standards
+
+In 2019, Wiseman and colleagues reported a test of the influence of improving publication standards on ESP outcomes.16 This followed the ‘replication crisis’ in psychology that has focused attention on ways of increasing methodological and reporting standards throughout the social sciences. It was found that pre-registering studies before they are conducted reduces the likelihood of poor practices occurring. Pre-registration has only recently been adopted by the mainstream psychological community, but was adopted in the mid 1970s by a parapsychological journal, the European Journal of Parapsychology (EJP).
+
+A retrospective comparison of registered and non-registered reports published in the EJP during a seventeen-year period provided circumstantial evidence that preregistration helps to reduce poor statistical practices. Additionally, there was a marked decrease in the number of significant ESP findings after the journal started to implement these more stringent reporting practices.  Controversy and Criticism
+
+Several of Wiseman’s investigations have been critiqued by parapsychologists and others.&nbsp; Some of these cases are described below. More detailed overviews can be found here and here  Eusapia Palladino
+
+In 1992, Wiseman published a critique of an early twentieth century report17 by researchers claiming to have observed paranormal phenomena in sittings with the Italian medium Eusapia Palladino, arguing that they failed to rule out the possibility of a hidden accomplice.18 The paper, published in the Journal of the Society for Psychical Research, led to a lengthy acrimonious debate in the same journal. Defenders of the report questioned the viability of Wiseman’s hypothesis and argued it would not in any case explain similar effects observed in circumstances where it could not have applied.19  Psychics
+
+In 1994, the producers of a television documentary on paranormal phenomena invited Wiseman and psychiatrist Donald West to test three professional British psychics on their abilities in psychic detection. The psychics and a control group of students were asked to handle objects involved in solved crimes, then match provided statements to the crime.&nbsp; Both groups performed at chance level.20 The incomplete TV episode, which however contains the entirety of the testing, can be viewed here. The experiment, which was based on crimes that had already been solved, was criticized for failing to adequately reflect the real life circumstances involved in psychic detection, resulting in a lack of the motivating factor considered essential for psychic work.21  Sheldrake Replication
+
+In 1998, Wiseman reported a failed replication of experiments by Rupert Sheldrake that appeared to show a telepathic connection between a dog and the dog’s owner.22 Sheldrake’s study established statistically that during the owner’s absence the dog habitually went to sit by the front door window when it sensed that she had begun her return journey (which in the experiment was at different times of day, randomly chosen). A Channel 4 documentary appeared to confirm the phenomenon. Wiseman then published a paper in the British Journal of Psychology, in which he reported having recorded the dog’s movements on video during four such absences and finding no such correlation.23
+
+A press release ensured that Wiseman’s negative findings received considerable media publicity. Sheldrake strongly disputed Wiseman’s conclusion, arguing that Wiseman’s data, some of which he had been able to analyze, in fact showed a close correspondence with his own.24 He then reported a second, fuller series of experiments based on video recordings that confirmed his earlier result.25 Wiseman continued to assert in public that he had refuted Sheldrake’s claims, leading to further controversy.26
+
+Critics argued that Wiseman’s sample of four journeys was tiny compared with Sheldrake’s database of more than a hundred, and that his method, far from improving on Sheldrake’s, introduced subjective elements that allowed him to make unwarranted claims.27  Natasha Demkina
+
+In 2004, Wiseman took part in a test by CSICOP sponsored by the Discovery Channel of&nbsp;Natasha Demkina, a seventeen-year-old psychic.28 Demkina had found fame in her native Russia for an ability to ‘see’ within the bodies of sick people and diagnose their complaint, for which she was dubbed ‘the x-ray girl’ by the media. She performed well in a preliminary test, impressing five out of six individuals with her knowledge of their conditions. In the actual test, she was asked to diagnose seven individuals (one of which was actually a healthy control), recording her thoughts on a blank card for each one. According to the experimental protocol, five out of seven correct determinations would qualify as a ‘pass’. Demkina correctly identified four conditions, on which basis she was said to have failed. Critics argued that the testing protocol was designed to ensure a fail, and that the chance probability of even that level of success is less than two percent.29  Telepathy Meta-analysis
+
+In 1999, Wiseman and Julie Milton published a meta-analysis of 29 ganzfeld telepathy studies that showed a 27% (non-significant) average hit rate.30 This contradicted earlier similar studies by parapsychologists that found significant above-chance margins. Critics questioned the exclusion of four significant studies that were published just outside the established time limits, a weakness not found in other similar reviews. They identified coding, statistical and methodological errors, including problems with selection criteria, and criticized a rush to publication that excluded the possibility of these being raised and corrected. 31 A subsequent 2001 reanalysis by Bem, Palmer and Broughton again found a significant hit rate.32  Books
+
+Guidelines for Testing Psychic Claimants (1995, with R.L. Morris). Hatfield, UK: University of&nbsp; Hertfordshire Press (US edition: Amherst, USA: Prometheus Press)
+
+Guidelines for Extrasensory Perception Research&nbsp;(1997, with J. Milton). Hatfield, UK: University of Hertfordshire Press
+
+Deception and Self-deception: Investigating Psychics (1997). Amherst, USA: Prometheus Press
+
+Magic in Theory: An Introduction to the Theoretical and {sychological Elements of Conjuring (1999, with P. Lamont). Hatfield, UK: University of Hertfordshire Press. [US edition: Hermetic Press.]
+
+Laughlab: The scientific search for the world's funniest joke (2002). London: Random House
+
+The Luck Factor (2003).&nbsp;. London: Random House
+
+Did You Spot the Gorilla? How to Recognise Hidden Opportunities in Your Life (2004).&nbsp;London, UK: Random House
+
+Parapsychology (2005, with C. Watt). London: Ashgate International Library of Psychology. Series Editor, Prof. David Canter
+
+Quirkology (2007). London: Pan Macmillan
+
+59 Seconds: Think a Little, Change a Lot (2009). London: Pan Macmillan
+
+Paranormality: Why we see what isn't there (2011). London: Pan Macmillan
+
+Rip it Up: The Radically New Approach to Changing Your Life (2012). London: Macmillan
+
+Night School: Wake up to the power of sleep&nbsp;(2014). London: Macmillan
+
+How to Remember Things (2018). London: Macmillan
+
+Shoot For the Moon (2019). London: Quercus Editions Ltd
+
+KM Wehrstein and Michael Duggan  Literature
+
+Barrington, M. (1992). Palladino&nbsp;and The Invisible Man Who Never Was.&nbsp;Journal of the Society for Psychical Research 58, 324-40.
+
+Bem, D.J., Palmer, J. &amp; Broughton, R.S. (2001). Updating the Ganzfeld database: A victim of its own success?&nbsp;Journal of Parapsychology&nbsp;65, 207-18.&nbsp;
+
+Bem, D.J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. Journal of Personality and Social Psychology 100, 407-25.
+
+Bem, D., Tressoldi, P.E., Rabeyron, T.&nbsp;&amp; Duggan, M. (2016). Feeling the future: A meta-analysis of 90 experiments on&nbsp;the anomalous anticipation of random future events.&nbsp;F1000Research 4,&nbsp;1188.
+
+Braud, W. &amp; Schlitz, M. (1983). Psychokinetic influence on electrodermal activity. Journal of Parapsychology 47, 95-119.
+
+Braude, S. (n.d.). Richard Wiseman’s Critique of the Feilding Report Refuted. Edited excerpt from Braude, S., The Limits of Influence: Psychokinesis and the Philosophy of Science. Lanham, Maryland, USA: University Press of America.&nbsp;
+
+Carter, C. (2007/2012). Science and Psychic Phenomena: The Fall of the House of Skeptics. Rochester, Vermont, USA: Inner Traditions.
+
+Famous Birthdays (n.d.). Richard Wiseman. [Web page.]
+
+Fontana, D.&nbsp;(1992). The Feilding&nbsp;Report and the determined critic. Journal of the Society for Psychical Research 58, 341-50.
+
+Hyman, R. (2005). Testing Natasha. Skeptical Inquirer 29/3.
+
+McLuhan, R. (2010/2019). Randi’s Prize: What Sceptics Say About the Paranormal, Why They Are Wrong and Why It Matters. Guildford, UK: White Crow Books.
+
+Milton, J., &amp; Wiseman, R. (1999). Does psi exist? Lack of replication of an anomalous process of information transfer. Psychological Bulletin&nbsp;125, 378-91.&nbsp;
+
+Milton, J., &amp; Wiseman, R. (2001). Does psi exist? Reply to Storm and Ertel (2001).&nbsp;Psychological Bulletin&nbsp;127, 434-38.&nbsp;
+
+Ritchie, S., Wiseman, R., French, C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem’s ‘retroactive facilitation of recall’ effect. PloS one 7/3.
+
+Sheldrake, R. &amp; Smart, P. (1998).&nbsp; A dog that seems to know when his owner is returning: Preliminary investigations. Journal of the Society for Psychical Research 62, 220-32.
+
+Sheldrake, R. (1999). Commentary on Wiseman, Smith and Milton. Journal of the Society for Psychical Research&nbsp;63, 306 -11.
+
+Sheldrake, R. &amp; Smart, P. (2000).&nbsp; A dog that seems to know when his owner is coming home: Videotaped experiments and observations. Journal of Scientific Exploration 14, 233-55.
+
+Sheldrake, R. (n.d.). Richard Wiseman denies psychic pet phenomenon. [Web page.]
+
+Schlitz, M.J. &amp; LaBerge, S. (1994). Autonomic detection of remote observation: Two conceptual replications. In Proceedings of Presented Papers, The Parapsychological Association 37th Annual Convention, ed. D.J. Bierman, D.J. The Netherlands, 352-60.
+
+Schlitz, M., Wiseman, R., Watt, C. &amp; Radin, D. (2006). Of two minds: Skeptic-proponent collaboration within parapsychology. British Journal of Psychology 97/3, 313-22.
+
+Schmeidler, G.R., Edge, H. (1999). Should Ganzfeld research continue to be crucial in the search for a replicable psi effect? Part II. Edited Ganzfeld debate.&nbsp;Journal of Parapsychology&nbsp;63, 335-88.
+
+Smith, M., Wiseman, R., Machin, D., Harris, P., &amp; Joiner, R. (1997). Luckiness, competition, and performance on a psi task. Journal of Parapsychology 61, 33-44.
+
+Stanford, R.G. (2000). Review of Wiseman, R. (1997), Deception and Self-Deception: Investigating Psychics. Amherst, New York, USA: Prometheus Books. Journal of Parapsychology 64, 213-27.
+
+Sturgess, K. (2010). A Skeptic Gets Schooled: An Introduction to Parapsychology. Skeptical Briefs 20/1.
+
+Wiseman, R. (1992). The Feilding Report: A reconsideration.&nbsp;Journal of the Society for Psychical Research 58,&nbsp;129-52.
+
+Wiseman, R. (2022). Richard Wiseman. [Web page.]
+
+Wiseman, R. &amp; Smith, M.D. (1994). A further look at the detection of unseen gaze. Proceedings of the Parapsychological Association 37h Annual Convention, Parapsychological Association, 465-78.
+
+Wiseman, R., Smith, M.D., Freedman, D., Wasserman, T. &amp; Hurst, C. (1995). Two further experiments concerning the remote detection of an unseen gaze. Proceedings of the Parapsychological Association 38th Annual Convention, Parapsychological Association, 480-90.
+
+Wiseman, R., West, D., &amp; Stemman, R. (1996). An experimental test of psychic detection. Journal of the Society for Psychical Research 61, 34-45. [Also published in 1997 in The Police Journal 70/1, 19-25.]
+
+Wiseman, R. &amp; Schlitz, M. (1996). Experimenter effects and the remote detection of staring. Proceedings of the Parapsychological Association 39th Annual Convention, Parapsychological Association, 149-57.
+
+Wiseman, R. &amp; Schlitz, M. (1997). Experimenter effects and the remote detection of staring. Journal of Parapsychology 61, 197-207.
+
+Wiseman, R., Smith, M., &amp; Milton, J. (1998). Can animals detect when their owners are returning home? An experimental test of the ‘psychic pet’ phenomenon. British Journal of Psychology 89/3, 453-62.
+
+Wiseman, R. &amp; Schlitz, M. (1999). Experimenter effects and the remote detection of staring: A replication. Journal of Parapsychology 63, 232-33.
+
+Wiseman, R., Watt, C., Greening, E., Stevens, P., &amp; O'Keeffe, C. (2002). An investigation into the alleged haunting of Hampton Court Palace: Psychological variables and magnetic fields. Journal of Parapsychology 66/4, 387-408.
+
+Wiseman, R. &amp; Greening, E. (2002). The Mind Machine: A mass participation experiment into the possible existence of extra-sensory perception. British Journal of Psychology 93/4, 487-99.
+
+Wiseman, R. &amp; Schlitz, M. (2006). Of two minds: Sceptic-proponent collaboration within parapsychology. British Journal of Psychology 97/3, 313-22.
+
+Wiseman, R. &amp; Watt, C. (2006). Belief in psychic ability and the misattribution hypothesis: A qualitative review. British Journal of Psychology&nbsp;97/3, 323-38.
+
+Wiseman, R., Watt, C., &amp; Kornbrot, D. (2019). Registered reports: An early example and analysis. PeerJ 7/4.
+
+Zingrone, N.L. (2002). Correspondence. Journal of Parapsychology 66/2, 212-16.
+
+&nbsp;   Endnotes 1. Famous Birthdays (n.d.). 2. Sturgess (2010). 3. Wiseman (2022). 4. Wiseman et al (2002). 5. Smith et al (1997). 6. Bem (2011). 7. Ritchie et al (2012). 8.  Bem et al (2016). 9. Schlitz &amp; LaBerge (1994). 10. Wiseman &amp; Smith (1994); Wiseman et al (1995). 11. Wiseman and Schlitz (1997). 12. Wiseman and Schlitz (1999). 13. Wiseman and Schlitz (2006). 14. Wiseman and Greening (2002). 15. Wiseman &amp; Watt (2006). 16. Wiseman et al (2019). 17. Feilding, Baggally &amp; Carrington (1909). 18. Wiseman (1992). 19. Barrington (1992); Fontana (1992); Braude (n.d.). 20. Wiseman, West &amp; Stemman (1996). 21. Stanford (2000), 218. 22. Sheldrake &amp; Smart (1998). 23. Wiseman, Smith, Milton (1998). 24. Sheldrake (1999). 25. Sheldrake &amp; Smart (2000). 26. Sheldrake (n.d.). 27. Carter (2012); McLuhan (2010). 28. Described by Hyman (2005). See also the Discovery Channel video in four parts, starting here. 29. For references see here. 30. Milton and Wiseman (1999). 31. Schmeidler and Edge (1999); Zingrone (2002). 32. Bem et al (2001).           			  			     			This page was last updated on: December 29, 2022   			 			                                               	       Search form        Search                   Article Information           	Authors: KM Wehrstein  and Michael Duggan Word count: 3,200 Created: 30th June 2020 Last updated: 29th December 2022 May be cited as:Wehrstein, KM and Duggan, M. (2020). &lsquo;Richard Wiseman&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/richard-wiseman&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y6wwf8fk                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/richard-wiseman

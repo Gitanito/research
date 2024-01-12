@@ -1,0 +1,64 @@
+{"name":"Daryl Bem | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/daryl-bem","mytitle":"Daryl Bem | Psi Encyclopedia","mylang":"de"}
+                     Daryl Bem | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Daryl Bem                                                                                                                                                                                                                          Daryl Bem, a social psychologist and professor emeritus at Cornell University, has carried out psi research, including landmark experiments in precognition and presentiment.
+
+See also Feeling the Future (Precognition Experiments)   Contents   	Career 	Mainstream Research  	Self-perception Theory 	Homosexuality   	Psi Research  	Feeling the Future 	Auto-Ganzfeld 	Ganzfeld Meta-analysis Controversy   	Current Research  	Hormonal States and Precognition 	Multi-Experimenter Replication   	Literature 	Endnotes     Career
+
+Daryl Bem received an undergraduate degree&nbsp;in&nbsp;physics&nbsp;from&nbsp;Reed College&nbsp;in&nbsp;Portland, Oregon, in 1960. He began a PhD in physics at the&nbsp;Massachusetts Institute of Technology before switching to social psychology, obtaining a&nbsp;PhD&nbsp;from the&nbsp;University of Michigan&nbsp;in 1964. His mainstream research has focused on attitudinal change and the processes underlying human sexuality. He is the author of Hilgard’s Introduction to Psychology and other much-used psychology textbooks.1
+
+Bem has made significant contributions to psi research, notably on the topic of precognition, the subject of controversial experiments reported in 2011.  Mainstream Research  Self-perception Theory
+
+Bem’s main contribution to psychology is a theory of self-perception that examines the process of attitude change. Bem wanted to understand the psychology of the civil rights movement and how, after legal protections were given to Blacks and other minority groups, attitude change among Whites was often significantly faster than would be expected under existing psychological&nbsp; models. According to self-perception theory, people measure their attitudes by their actions, so in the case of civil rights laws, a restriction of racist behaviour would cause a shift towards more positive attitudes towards racial minorities.2 Bem has found support for his theory in his own and other’s experiments.3  Homosexuality
+
+In the 1990s Bem developed an account of how homosexuality develops in childhood (Bem himself is gay). He postulated that gay adults are born with brains that predispose them to behave in ways that are ‘gender nonconforming’: effeminate boys prefer to play with girls and tomboyish girls are comfortable in the company of boys. This behaviour reduces their exposure to members of their own sex, whom as a result they consider unusual or exotic. As sexual development through puberty and adulthood is reached, these feelings are interpreted in a sexual/romantic way, and the adult identifies as homosexual. Bem references numerous studies that show most gender-nonconforming boys develop into gay or bisexual adults, while most boys who do&nbsp;conform&nbsp;do not.4 &nbsp;  Psi Research  Feeling the Future
+
+In 2011, Bem published the results of a decade of experiments in precognition and unconscious presentiment.5 These were based on nine well-established protocols that are used to study psychological effects, in which a participant’s response is affected by his or her exposure immediately beforehand to some influencing factor. Bem reversed the sequence, so that the influencing factor occurred jist after the response had been made instead of just before, hypothesizing that it might work backwards in time.
+
+All but one of the experiments returned statistically significant results, and collectively the odds were astronomically in favour of a precognition effect (p = 6.66 x 10-11). &nbsp;Individuals who were stimulus seeking (an aspect of extraversion) were shown to be particularly affected by future information.
+
+The report appeared in the high-profile Journal of Personality and Social Psychology, ensuring a wide audience among mainstream scientists. Sceptical psychologists and others dismissed the findings, speculating in terms of inappropriate statistical analysis, ‘file drawer’ effects, and methodological flaws. These in turn were rejected by Bem, but the critical reaction was reinforced by early reports of failed replications.
+
+A 2015 meta-analysis by Bem and colleagues, assessing 90 experiments by 33 laboratories in 14 countries, again gave astronomical odds against chance (p = 1.2 × 10-10).6 &nbsp;Replacing conventional frequentist analysis with more conservative Bayesian statistics also yielded extreme evidence (Bayes factor&nbsp; 5.1 × 109), greatly exceeding &nbsp;100, the level of ‘decisive evidence’ . The number of non-significant unpublished studies needed to nullify the outcome came out at 544, rendering the file-drawer effect an implausible explanation.
+
+The study also found that common questionable research practices (QRPs) – such as statistical malpractice and methodological failures – could not explain the positive data; nor were the results confined to just a few successful experimenters or labs, leading the reviewers to conclude that the original ‘Bem effect’ has been replicated.
+
+See here for a detailed appraisal of the experiments and the ensuing controversy.  Auto-Ganzfeld
+
+Bem and Charles Honorton reviewed 11 high quality experiments conducted in Honorton’s Psychophysical Research Laboratory (PRL),7 following a public agreement between Honorton and sceptic psychologist Ray Hyman about what would constitute convincing experimental evidence.8 &nbsp;The overall hit rate across 332 trials was 32% where chance expectation would give 25% (p = 0.002), with no missing experiments (file drawer effect). In addition, there were clear and consistent indications of what types of people would do well. Bem and Honorton concluded that the experiments satisfied the concerns of Hyman and constitute solid evidence for ESP.  Ganzfeld Meta-analysis Controversy
+
+A 1999 meta-analysis by Julie Milton and Richard Wiseman9 returned negative conclusions from a subset of 30 recent studies. Parapsychologists disputed the authors’ selection criteria; in particular, adding 10 new studies published after the arbitrary cut-off produced a significant effect, although with smaller average hit rates. To resolve this discrepancy, Bem, with John Palmer and Richard Broughton, recruited three independent judges to blindly rate all 40 studies for adherence to standard methodology. They found that the more standard studies produced higher telepathic scoring rates, reinforcing doubts about the integrity of the Wiseman and Milton review.10  Current Research  Hormonal States and Precognition
+
+Previous research has suggested a possible relationship between hormonal states in women and performance on precognition tasks. Bem and Julia Mossbridge tested this association with a Bem-style implicit precognition test over four experiments, using participants in various hormonal states: pregnant, menopausal, and cycling women, and those without a uterus on hormone replacement therapy. They found that psi effects were strongest among pregnant women and women without uteruses not on hormone replacement therapy.11 &nbsp;  Multi-Experimenter Replication
+
+Working with the Institute of Noetic &nbsp;Sciences, Bem is running a multi-experimenter replication of one of his implicit precognition word-recall experiments. The main aim is to measure and correlate the implicit biases of the experimenters with the results they obtain.12
+
+Michael Duggan  Literature
+
+Atkinson, R., Atkinson, R.,&nbsp; Bem, D., Smith, E., Nolen, S.H. (1996). Hilgard’s Introduction to Psychology. Orlando, FL, US: Harcourt Brace College Publishers.
+
+Bem, D. J. (1972). Self-perception theory. Advances in Experimental Social Psychology 6, 1-62.
+
+Bem, D., Honorton, C. (1994). Does Psi exist? Replicable evidence for an anomalous process of information transfer. Psychological Bulletin 115, 4-18.
+
+Bem, D. J. (1996). Exotic becomes erotic: A developmental theory of sexual orientation.&nbsp;Psychological Review 103, 320-35.
+
+Bem, D. (2011). Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect. Journal of Personality and Social Psychology 100, 407-25.
+
+Bem, D., Palmer, J., Broughton, R. (2001). Updating the Ganzfeld Database: A Victim of Its Own Success? Journal of Parapsychology 65, 207-18.
+
+Bem, D., Tressoldi, P., Rabeyron, T., Duggan, M. (2016). Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events. F1000Research 4. 10.
+
+Hyman, R., Honorton, C. (1986). A Joint Communiqué: The Psi Ganzfeld Controversy. Journal of Parapsychology 50, 351-64.
+
+Ito, T., Chiao, K., Devine, P., Lorig, T. &amp; Cacioppo, J. (2006). The Influence of Facial Feedback on Race Bias. Psychological Science 17, 256-61
+
+Milton, J. &amp; Wiseman, R. (1999). Does psi exist? Lack of replication of an anomalous process of information transfer. Psychological Bulletin 125, 387-91.
+
+Schlitz, M., Bem, D., Cardeña, E., Tressoldi, P., Roney-Dougal, S., Bierman, D., Jolij, J., Lobach, E., Marcusson-Clavertz, D., Hartelius, G., Rabeyron, T., Bengston, W., Moddel, G. (2019). Experimenter effect and replication in psi research i, ii, and iii: a global initiative. Abstracts of The 62nd Convention of the Parapsychological Association. Paris, France.   Endnotes 1. Atkinson et al (1996). 2. Bem (1972). 3. Ito et al (2006). 4. Bem (1996). 5. Bem (2011). 6. Bem et al (2016). 7. Bem &amp; Honorton (1994). 8. Hyman &amp; Honorton (1986). 9. Milton &amp; Wiseman (1999). 10. Bem et al (2001). 11. Bem &amp; Mossbridge (2018). 12. Schlitz et al (2019).           			  			     			This page was last updated on: March 08, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 1,300 Created: 8th March 2022 Last updated: 8th March 2022 May be cited as:Duggan, M. (2022). &lsquo;Daryl Bem&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/daryl-bem&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y6heevca                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/daryl-bem
