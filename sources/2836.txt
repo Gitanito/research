@@ -1,0 +1,3641 @@
+{"type":"link","mylink":"http:\/\/www.iapsop.com\/ssoc\/1835__zuriel___lectures_on_celestial_philosophy.pdf","mytitle":"Lectures On Celestial Philosophy","mylang":"de"}
+-
+A S E R IES
+OF
+L E C T U R. E. S
+ON
+T'HE S(GIRENGE
+OF
+CELESTIAL PHILOSOPHY,
+OR
+THE LANGUAGE OF THE STARS.
+PART I.
+CONTAINING THE FUNDAMENTAL PRINCIPLES.
+BY ZURIEL. K.
+LONDON:
+PRINTED FOR THE AUTHOR:
+PUBLISHED BY SHERWOOD, GILBERT, AND PIPER,
+PATERNOSTER-ROW.
+1835.
+Price 4s. 6d. Cloth.
+PRINT ED BY J. SMITH, 49, Lo N G A C R. E.
+A L L C O M M UNICATIONS
+ON THE SUBJECT OF
+THE SCIENCE OF CELESTIAL PHILOSOPHY,
+TO BE ADDRESSED TO
+U B II B th9
+To the care of Mr. J. WHEELER, Teacher of AstRoNoMY, and
+THE UsE of THE GLOBEs, No. 1, Fitzroy Place, Southwark
+Bridge-road, near Newington Causeway; or 7, Charles-street,
+Westminster-road, if by letter, post-paid.
+The Public are also informed they may be supplied as above
+with CIRCULAR PLAN IsPHEREs for erecting Figures, or
+Themes of the Celestial Houses, from 5s. and upwards; and
+TABLEs of the MoTIoNs of the CELESTIAL ORBs H E M &
+?, from 1770 to 1861, to be used with the LECTUREs, Price 21s,
+Calculations of the places in the Heavens of the Celestial Orbs,
+for any required time, to assist the investigations of such Ladies
+and Gentlemen who use the Author's LECTUREs. Also, the
+ScIENCE taught, and written LECTUREs on CELESTIAL THEMEs
+at birth days, forwarded to any part of the Kingdom.
+ERRA TA.
+Pages 19, 33, 37, lines 8, 4, 19, for “Sir Robert Peel,” “Hon. Sir R. Peel,”
+“Sir R. Peel,” read The Right Hon. Sir R. Peel.
+Page 19, line 8, for G) # O 3, read G) # Ok :
+Page 37, lines 23 and 24, for the sign Lunar Orb in Capricorn, read the
+Lunar Orb in the sign Capricorn.
+Page 66, line 19, for found, read formed.
+ADDRESS.
+IN this enlightened age, when liberal principles and
+patient research after Truth go hand-in-hand, we cease to
+wonder, but turn with admiration and pleasure to contem
+plate the vast discoveries and improvements in Science,
+which are the constant results. The acquirement of uni
+versal knowledge, in ancient and modern Arts, ever
+attend the progress of communities in the course of their
+rise from barbarity and ignorance to elegance and refine
+ment, and evidently determine the difference existing
+between nations in the same ratio as the various degrees
+of sagacity in the lower order of beings of the Creation
+distinguish one animal from another. It is, then, in this
+age of inquiry and enterprise the following course of
+LECTUREs have been attempted, and are intended by the
+Author to convey to the public at large some useful in
+formation on the Science of CELESTIAL PHILosoPHY,
+more universally known to the world under the appellation
+of Astrology. That there is something of truth remaining
+disguised and blended with the jargon of judicial Astro
+logy was the opinion of the learned Dr. MEAD;" and this
+fact the Author of these sheets boldly asserts can be clearly
+proved beyond contradiction, and it only remained to collect
+into one tangible point such matter that would enable the
+inquirer without difficulty and labour to form for himself a
+* See his Treatise concerning the Influence of the Sun and Moon upon
+Human Bodies, page 3.
+iv
+tolerably accurate idea of its truth or falsehood; this has
+been done in the following LECTUREs, and to the test of
+experience he submits them, confidently anticipating the
+results will be of a favourable description wherever the
+principles have been carefully examined. No one more
+deeply regrets than the Author himself that the public
+profession of this Science should so long have been con
+fined (generally speaking) to vulgar and illiterate persons,
+whose written oracular responses on the Future have been
+delivered in such disgraceful language and bad orthography
+as would even raise a blush on the cheek of the dullest
+hundreth-time stultified scholar of the meanest Hypodidas
+calus, and a direct insult to the understanding of those
+persons they were intended to enlighten—beside holding
+the Science up to the contempt of persons who had no
+opportunity of examining its principles but through such an
+unfavourable medium. One thing more which has also had
+the effect of retarding its progress is, that several persons
+who, from mercenary motives in the course of business,
+have collected and hoarded in their depositaries the pro
+ductions of all the early or valuable authors who have
+treated on this Science, and have doled out the mite of
+knowledge contained in their works at such exorbitant
+prices which effectually prevented numbers of persons who
+where favourable toward it from obtaining the necessary
+means of investigating the subject. These obstacles are
+now, from long observation and study, removed; and the
+system which is here presented to the reader is compre
+hensive, and differs entirely from any work already before
+the public.
+INTRODUCTION.
+“For Heaven
+Is the Book of God before thee set,
+Therein to read His wondrous works.”-MILTON.
+OF all existing Sciences that of Astrology, it must be
+allowed, takes precedence in antiquity (Astronomy ex
+cepted), and has been more or less cultivated from the
+most remote periods to which ancient history will carry us
+to the present time, by the Divine, the Lawgiver, the
+Philosopher, the Physician, and the private Student, till
+within the space of the preceding century, since which
+time, in consequence of the numerous impostures which
+have been carried on under the name of Astrology, by
+ignorant, illiterate, and designing persons, this most
+interesting and delightful Science has been for a time
+o’ershadowed by a cloud, which the light of intellectual
+research has at length pierced, and the gloom is now fast
+dispelling.
+We find on reference to the most ancient historical
+records, that the Magicians (as they were in those unen
+lightened ages erroneously called) who studied the motions
+of the Heavenly Bodies, were consulted by their monarchs
+on all occasions of importance, and that, in fact, nothing
+relative to state affairs was transacted without application
+previously to them; ultimately it became an essential
+branch of the education of a gentleman—was regularly
+studied at our Universities and patronized, particularly by
+the courts of France and other continental powers. From
+vi
+*- : * -
+these and other circumstances, it must be apparent to
+every impartial and unprejudiced mind, that the Planets
+had or have been ever considered by the learned in all
+ages to hold a powerful dominion over the affairs of
+mankind, examples of which are too numerous to specify
+in the limited space allotted to the Introduction to these
+LECTURES; there is, however, one instance wherein the
+science was publicly acknowledged and its professor
+referred to by the government of this country, which we
+cannot allow to pass without notice. Among a series of
+Hieroglyphics published in 1651 by that most popular and
+intelligent astrological student, WILLIAM LILLY, relating
+to the affairs of the English nation, the portents of which
+were directed to Future Events, many of which appear to
+belong to years still to come, there are two of a remarkable
+description; the first, represents a church-yard, with
+sextons employed in emptying cart loads of dead bodies
+into graves; the second, is a view of London Bridge, and
+of both sides of the river, and the city of London in flames.
+That these two predictions, viz. the Plague and Fire of
+London, were most lamentably fulfilled no one can deny.
+After the fire, LILLY was summoned to the Bar of the
+House of Commons, when the Speaker informed him, that
+as he had fifteen years before in that work predicted the
+calamity of the Plague and Fire which befel the City of
+London, the House wished to ask him whether he could
+give any account of the authors, or cause of the fire? He
+answered that he had given it his most serious attention,
+but could not account for it in any other manner than as
+the immediate finger of God.
+We find that not only States but Sciences are subject to
+changes, and their rise or fall in power, or public estima
+tion, regularly effected by the revolutions which are
+constantly taking place by slow yet certain changes in the
+vii
+situations of the Planetary Orbs which compose the System
+of the world which we inhabit; truth from time to time
+forces itself into notice, in spite of its enemies, until its
+beauty becomes clouded and again involved in obscurity
+and mystery. Error and ignorance disfigure it, craft and
+subtilty disguise it, and oppresion and prejudice trample it
+under foot; but
+“There is a tide in the affairs of things,”
+and then, when the unfavourable impressions are effaced,
+again the fair form of Truth shines forth, like the meridian
+sun without an intervening cloud. The science of Astrology
+has (there is unfortunately too great reason to believe)
+been impeded in its progress by its professors; that narrow
+minded selfishness which is too often attendant on almost
+every branch of science, or mechanical business, has
+contributed to involve in mystery and doubt this plain,
+clear, and of itself, explicit study.
+Let the effect of planetary operations on all created
+matter, and especially on the minds and bodies of mankind
+have the benefit of a fair trial; if it is false the vanity of
+its pretensions will soon become evident, and, if delusive,
+be effectually exploded; but if the contrary happen, as
+from experience is confidently anticipated, it will become
+once more established and be allowed again a place among
+those sciences from which it has so long been separated,
+and considered an outcast. It is quite plain, as Pope
+observes,
+“Whatever is, is right.”
+The study of CELESTIAL PHILosoPHY ought not to be con
+sidered a presumptive effort of man to pry into the secrets of
+his Maker; if it were so, the events which are the subject
+of Revelation, both in the Old and New Testament, would
+never haye been allowed by an Almighty and Omniscient
+Creator.
+viii
+In these LECTUREs it will, we trust, be clearly andsatis
+factorily shown the true foundation on which the predictive
+Science rests; and that the ambiguities and mysteries which
+have so long been personified with the Science ofAstrology
+will be effectually eradicated.
+With these remarks we shall launch our bark on the
+ocean of public opinion, trusting it will meet with unpre
+judiced and impartial attention, and that the kind reader
+will bear in mind its object, the cause of Truth, ever
+remembering,
+“To err is human-to forgive divine.”
+1835.
+LECTURE I.
+General view of the Principles of Celestial Philosophy,
+and of the nature and qualities of the Signs of the
+Zodiac, and of the Planetary Orbs when placed in the
+Signs Taurus, Leo, Scorpio, and Aquarius at Birth.
+AT the commencement of the subject it appears indis
+pensable, for the information of the inquirer into the
+principles on which this system of Celestial Philosophy is
+founded, that we enumerate the particular points from
+whence its action on the general affairs of Man appear to
+emanate, and which resolve themselves into the following
+heads:
+I. Generally from the Eratie Orbs, composing the system
+of which our Earth is a part.
+II. Particularly from the natural qualities of different
+portions of the Earth’s orbit, and which are divided by
+Astronomers into twelve parts, known by the appellation of
+Zodiacal Signs, in some of which the Planets appear
+constantly.
+III. From the properties of the twelve Celestial Man
+sions into which the ambient is divided, six of which are
+appropriated to the Diurnal or upper Hemisphere, and the
+other six to the Nocturnal or lower Hemisphere. These
+are separated from each other by the horizon, the quantity
+contained in each six, varying according to circumstances
+connected with the different latitudes of the places of
+observation. The Hemispheres are again divided by the
+Meridian, or the Zenith and Nadir, into four equal parts or
+quarters, each quarter being then subdivided into three,
+making a total of twelve spaces,and in these, which we shall
+call Houses, the Signs of the Zodiac and Planets appear
+10
+continually, alternately rising, culminating, and setting,
+depending upon the situation of the Earth in her orbit,
+the place of the observer, and the hour and minute of time
+when inspection is made. -
+IV. From the nature and qualities of the Planets
+themselves, from their aspects, the properties of the Signs
+of the Zodiac in which they are posited, as also that of the
+particular division of the ambient in which they may at
+that time be posited, conclusions are to be drawn re
+specting thespecies of Event, Past or Future in the lives
+of individuals, according (as it may happen) whether in
+spection is made immediately on the birth taking place
+or after some lapse of time has succeeded.
+W. From the circumstances attending configurations of
+the Planetary Orbs taking place at particular periods in
+the lives of individuals which, from the regular course of
+nature, are found by experience to be critical or remark
+able for the production of important changes in the
+constitution of the human body, and those years are uni
+formly observed to be attended by extraordinary though
+gradual alterations in the affairs of those persons whose ages
+correspond with them, the situations of such persons in life
+being likewise considered.
+VI. From remarkable phoenomena in the heavens
+denominated by Astronomers, the Conjunctions of the
+superior Planets, Saturn and Jupiter, which happen in a
+period of twenty years distance from each other, and from
+the sympathy or antipathy which the positions of the
+heavens present at births of individuals, astronomically
+considered and compared with those remarkable congresses,
+as also from configurations which future years may present
+acting in accordance or otherwise with them, a chain of
+connexion may be traced, and positive reasons assigned for
+Events in which Nations, Communities and Families are
+11
+closely linked together, and from a diligent comparison of
+the Astronomical positions in those years, some real insight
+may be thus obtained respecting the future prosperity or
+adversity of each individual subject to their power.
+These principles are the foundation on which my system
+principally depend, and it now only remains to treat of the
+manner in which the influence of the Heavenly Bodies
+appear to act on the affairs of created beings. This is a
+matter of considerable importance, and it appears to my
+apprehension that it is in consequence of this part of the
+subject having by the generality of Astrological Authors
+been neglected that the Science is not more universally
+known and studied; most of its Professors in their Treatises
+have introduced it to their readers as a Science whose
+principles were perfection itself, whose power was absolute,
+and that not only the affairs of nations, communities, and
+families, but also the minds of individuals were completely
+bound, led captive, and chained to the chariot wheels of
+the all-triumphant Urania. The only writer of eminence,
+I have observed, who introduces his opinions on the
+subject to the student in a rational manner is Claudius
+Ptolemy, who is acknowledged to have been one of the
+most learned men of the age in which he lived, and to
+whose writings I refer all persons who wish to become
+acquainted with the theoretical points of this delightful
+study;” but as that author has been considered too abstruse
+for general reading, his valuable works have been laid on
+the shelf, and others substituted of less depth of argument
+which might be fully sufficient for the use of such persons
+* His Tetrabiblos, Book I, Chap. iii., contains some interesting matter re
+lating to his opinion of the utility of astral learning, and how far its
+attainment would be useful to mankind, in language perfectly intelligible,
+particularly that translation by Ashmand.
+12
+** *- - - - - --
+~~~--------------
+* -- -
+-- - ---
+whohad previously attainedsome knowledge ofitsprinciples
+or had imbibed a predilection in its favour,yet unfortunately
+left all such who were opposed to it, either from religious
+feeling, or from principles connected with the free agency of
+mankind, in uncertainty as to its lawfulness or its truth.
+This is the barrier I am anxious to remove; and, also, to
+prove the general rules of this Science are (as is the case with
+all other sciences) liable to exceptions, and that it has been
+from neglect of consideration in this particular that great
+mischief has ensued. It appears, then, from constant
+observation that the influx of the Stars have three distinct
+points of operation, viz.—Mind, Body, and Affairs, and,
+consequently, in all cases one or more of these points must
+be the subject of its action. But in all Nativities where
+mental powers of remarkable strength are developed and a
+greater portion of firm principle indicated, configurations
+of evil tendency are observedto pass with less effect on the
+affairs of such persons than on others whose minds and
+feelings,from circumstances astronomically connected with
+the parturition or birth, were more acute and susceptible,
+and whose feelings and affairs were, therefore, likely to be
+more powerfully acted upon through that medium.
+The particular classes of persons subject to such confi
+gurations, I assert without fear of contradiction, can be
+readily distinguished by the application of the rules of the
+system, and combining the indications observed with the
+sphere of life in which individuals move, practical inferences
+may be drawn, and results obtained of a satisfactory nature
+in all cases where the premises have been fairly considered,
+viz.—the quality of the Mind, and situation in life of each
+individual. It now becomes a matter of consideration, how
+far a knowledge of the indications of Future Events may
+be condusive to our happiness, or favourable to our inter
+ests in the World. And in order that we may form some idea
+13
+ofthe application of this knowledge, for the generalgood of
+Mankind in their Affairs, it is necessary to observe, there
+are two leading principles which appear to be inherent in
+the breastsof Human Beings, viz. self preservation, and the
+pursuit of happiness. The latter of which appears univer
+sally diffused, varying only as the habits, manners, and
+customs of nations, the situation in life, and the minds of
+individuals differ from each other, and also in proportion as
+the degrees of civilization in countries rise above each
+other. In the earliest ages of the World mankind in their
+simple uncultivated state differed little, but in physical
+powers, living together in herds, their wants few, were in
+common with themselves, and generally supplied from the
+same sources, the spontaneous productions of the Earth,
+and the ingenuity which the gradual exercise of their
+mental powers suggested to them, individual property was
+at that periodunknown. All things necessary for subsistence,
+within reach of all, in this state of things the predictive
+Science would avail them little; constant experience of
+the regular changes of the seasons taught them how far it
+was neccessary to provide for their subsistence during the
+suspension of the produce of the Earth in the winter
+months, and gradually introduced to them the knowledge
+of Astronomy. But as civilization gradually gainedground,
+a further exercise of their intellectual power succeeded,
+known afterward by the name of education, and man became
+a different being. This expansiveness ofintellect gave him
+more extended powers, and the weak triumphed over the
+strong, in proportion as the cultivated qualities ofthe mind
+of one man exceeded another, and a facility succeeded of
+acquiring a larger share of property than his predecessors
+originally possessed, and this gradually led to the formation
+ofa new trait in his character, and society became divided
+into rich and poor. This division paved the way for the
+14.
+introduction of ambition and avarice into the world, and
+immediately suggested that in order to maintain power,
+particular attention must be directed to the increase of
+wealth; and hence he became a speculative being, which
+principle, firmly established, Fore-knowledge was then
+indispensible, as it offered the means of acquiring decided
+superiority over the less enlightened portion of the human
+race, and thus the results of the future would be an object
+of intense interest, was identified with the most important
+pursuits, and has so continued to the present time. Thus
+I have endeavoured to trace the origin and progress of the
+Science of Celestial Philosophy, from the earliest ages of
+the world, during the existence of society in its most simple
+state, and the means by which its principles became gradu
+ally known and extended, and it now remains to show how
+far their cultivation would tend to advantage in the present
+age. -
+1st. It would operate as a check to the ardent and preci
+pitately speculative mind, by showing the probable issue
+of any new undertaking or enterprise, by pointing out the
+difficulties attending its progress, which a premature deci
+sion had overlooked.
+2d. To minds naturally timid and cautious it would
+inspire confidence, from the Fore-knowledge that success
+would ultimately attend them, and thus become an addi
+tional spur to their exertions, or enable them to decide at
+once to abandom it.
+3d. To those persons labouring under an accumulation
+of untoward events it would offer the consolation of know
+ing that a period would arrive when the clouds of misfor
+tune should pass away, and cheer them with the hope that
+the sunshine of prosperity would again shed its bright beams
+around their path, and thus inspire them with fortitude to
+bear the present ills by the certainty of overcoming them;
+SYNOPTICAL TABLE OF THE SYSTEM OF CELESTIAL PHILOSOPHY,
+In which the Qualities of the Zodiacal Signs and of the Planetary Orbs therein are shown.
+General Qualities when
+the Planetary Orbs
+are found therein.
+Astronomical Characters
+- - -
+m -n- -
+of theSigns oftheZodiac. T Ö II. Cö Q % m ! Vf - }%
+Names. ARIES. TAURUS. GEMINI. CANCER. LEO. VIRGO. LIBRA, scorpio. sAGITARTUs | CapricoRN. Aquarius. PISCFS,
+Cardinal, - Bicorporeal, Cardinal, ... Bicorporeal, Cardinal, - Bicorporeal, Cardinal, - Bicorporeal,
+Descripti Fiery, Fixed, partaking of Watery, Fixed, partaking of Airy, Fixed, partaking of Earthy, Fixed, partaking of
+cription. Moveable, Earth Tropical, Fier Moveable, Moist Moveable, Air
+- Equinoctial. y. 8 & c= Moveable. y. Q & A. Equinoctial. - m & Wy Tropical. y. & & ).
+Classification. Fixed. Bicorporeal or Common. Tropical and Equinoctial.
+Ö Q * II TP % Co WP T -Q
+TAURUS. L.E.O. SCORPIO. AQUARIUS. GEMINI. VIRGO. SAGITARIUS PISCES. CANCER. CAPRICORN. ARIES. LIBRA.
+TRAITS OF CHARACTER.
+Learning.
+TRAITS OF CHARACTER.
+Conversation and Manners.
+TRAITS OF CHARACTER.
+Success in the World.
+LECTURE I.
+Firm-patient-steady in pursuit of its object.
+LECTURE II.
+Variable—volatile, inclined toduplicity—amourous–
+uncertain—speculative–subject to change-acute feel
+ings-domestic misfortunes-unhappiness in friend
+ships and attachments—and general unsettledness in
+affairs.
+LECTURE III.
+Public distinction and notoriety– distinguished
+honours-fame-elevation in life-connections with
+persons of rank and fashion by inventions or actions
+public institutions—nobility-government-military
+law-arts and sciences.
+Critical periods in Life,
+from Five Years to
+Sixty.
+Planetary Orbs which
+govern those periods
+2 and
+end of Life.
+to the
+5th 11th
+\
+17th
+_/
+21st
+\_
+Particular classifica- Meanly More noble, Persevering, Scientific, Enthusiastic—hasty-fretful—variable in opinion- From per- From per- | By or from | From per
+tion of the Sign when gifted, but but not so but violent persevering, uncertain in temper—soon elated—soon depressed- sons con- sons ofrank, persons of sons of rank
+the Planetary Orbs are | laborious laborious and but not so unfortunate in speculation-frequently removing– nected with of ancient rank; by and fashion,
+found therein. and and revengeful. violent; sometimes liberal to excess—at other times rigidly government, families, violent Noblemen
+- | persevering. persevering. more refine- parsimonious—particular in small matters—careless in with admi- elderly per- means, arbi- connected
+1st. At the Birth. ment and affairs of importance—subject to extreme in joy or mistration of Sons, trary power, with Arts
+- - -
+intellectual sorrow—easily persuaded—liable to imposition—unfor- affairs in Govern- military and
+2nd. At periods in the learning; tunate in writings, papers or law business-liable to high depart- ment, promotion, Scientific
+course of life, by reason ardent. bodily hurts—mental derangement—and mischief from , ments, and Public warfare, Institutions,
+of their annual motion. relations. general Institutions. and the
+power in cultivation
+legislation, of elegant
+&c. Public accomplish
+assemblies, ments.
+&c.
+General fortunate dispo
+sition of the Orbs in @ € $ 3 * * # * }/ # $ }/ © # * | }/ § { & Q }/ H. '
+the Sign. * H H None other are fortunate. }/ Q # 6
+25th 30th 43d
+\
+35th 45th 50th 55th 60th
+– –
+2/
+&
+15
+these are the advantages proposed by Prescience, and
+I shall next present the reader with a Synoptical Table of
+Qualities of the Signs of Zodiac and of the Planetary Orbs
+when placed therein:—
+I shall now proceed to a fuller explanation of the nature
+and qualities of the Celestial Signs and Orbs than the pre
+ceding Table affords, that being intended merely as an
+assistance to the understanding of the reader, as also a
+ready mode of reference when required.
+First, then, the Twelve Celestial Signs are divided by
+Astronomers into three qualities or kinds, four of which,
+viz., Taurus, Leo, Scorpio, and Aquarius are termed fixed;
+four are termed tropical and equinoctial, viz., Cancer,
+Capricorn, Aries and Libra; and four bicorporeal or
+common, which are Gemini, Virgo, Sagitary and Pisces,
+and it is necessary to observe, each of these Signs are en
+dowed with a different degree of action, according as the
+Planetary Orbs may be longitudinally placed in them.
+There is in nature, from the lowest degree of created living
+matter, to the highest range of intellectual being, an evi
+dent combination consisting of Three principles, which
+complete by their union one perfect substance, and which
+appear to be formed in the likeness of the Creator himself,
+as a type of the union of the three divine attributes of
+the Trinity; and man, who is the microcosm or lesser
+world in himself, in like manner is compounded of three
+substances, which, according to the philosophy of ancient
+chemists, are salt, sulphur, and mercury; but according to
+the Science of Celestial Philosophy, of the three qualities,
+vested in the Zodiacal Signs, and to be as perfect as man
+can exist in this imperfectstate should (astronomically con
+sidered) be compounded of an equal share of the essential
+qualities of Fixed, Common, Tropical, and Equinoctial
+Signs; this is remarkably apparent from the nature of the
+16
+Trine,which is considered to be the most perfect Aspect,
+from the circumstance of that ray dividing the circle in
+three equal parts, the circumference of which being previ
+ously arranged into twelve divisions, of thirty degrees each,
+called Signs, and disposed in the order shown in the preced
+ing Table; the Trine Aspect, then, is formed of one Sign of
+each quality, which, by the meeting of the three points of
+an equilateral triangle on the periphery of the circle in
+which it is inscribed, give one Fixed or Common, and one
+Tropical or Equinoctial Sign, which is considered to be the
+most perfect and harmonious radiation that can possibly be
+formed ; as for instance, r Q 1 8 mp Vf II in ax
+gs mu 9é ; and so of the others. Now, from Astronomical
+observation, as it seldom or ever happens the Planetary
+Orbs are so distributed that an exact balance of Power
+can exist at any required time, so it is as impossible to
+meet with perfection or a complete union of those princi
+ples in any Nativity requisite to produce an approxima
+tion toward that desirable quality. I shall now in
+quire more particularly into the intellectual qualities
+of the four fixed signs, viz., 8 Q m and ::, and I
+beg to be understood in this, as also the succeeding
+Lectures, to speak of the quality of action only when
+Planets are posited therein. Ptolemy in the 18th chapter
+of Book III. of the Tetrabiblos, on the quality of the mind,
+says “Fixed Signs make the mind just, uncompromising,
+constant, firm of purpose, prudent, patient, industrious,
+strict, chaste, mindful of injuries, steady in pursuing its
+object, contentious, desirous ofhonour, seditious, avaricious,
+and pertinacious.” And Cardan, in his Astrological
+Aphorisms, speaking of fixed Signs, says “Fixed Signs
+give learning, i.e. ability, energy, and perseverance in the
+acquirement of knowledge in Arts and Sciences, studious
+mess, deep speculation, slowness of speech, shrewdness,
+17
+-*-------- -------------->=======
+great proficiency, and obstimacy.” My opinion is, that
+remarkable configurations of the Planetary Orbs in fixed
+Signs at the time of parturition or birth confer on the minds
+of those individualssubject to their power, ability, and incli
+nation to study, and to persevere in undertakings, and
+therefore, Planets in Signs of that description give the most
+durable intellectual faculties, and I find even the planets
+Saturn and Mars so situated, are not unfavourable although
+the qualities thus developed are frequently not of the most
+pleasing cast; and it is of the highest importance in all
+Nativities that the planet Mars should, at birth, be posited
+in a fixed Sign for the period of life over which he presides,
+viz. from 35 to 50 years of age is of the most active descrip
+tion, and it materially depends upon the radical position of
+that planet whether the results of those years will be favour
+able or not; testimonies acting in accordance with the
+radical position of that orb at birth likewise considered;
+the Lunar Orb should also be placed in a fixed Sign, and if
+forming a Trine or Sextile Aspect to the Solar Orb the
+better, as it then indicates an harmonious foundation. The
+planet Mercury is fortunately placed when in a fixed Sign,
+as he confers a good understanding, and a retention of
+memory, particularly beneficial, as well as convenient to its
+possessors. Of all the fixed Signs : seems to be the best;
+planets in that Sign confer a scientific turn of mind on
+persons subject to the power of planets so situated; it is of
+a nature less abrupt, especially when planets posited therein
+are favourably aspected by others from the Signs Gemini
+or Libra. The next in power appears to be the Sign Leo,
+and planets in that Sigm generally indicate high spirits and
+minds, and when favourably aspected by others, they confer
+much nobleness of nature, but, generally speaking, are not
+so studious or perseveringly inclined. The fixed Sign mt
+follows next, and I have every reason to believe the planet
+B
+| 8
+Jupiter is more favourably placed in that Sign than any
+other planet. The remaining fixed Sign 8 is, in my
+opinion, the least prominent, and the superior planets when
+placed thereon produce effects less forcible than in the
+others, and a lower grade of intellectual powers are indi
+cated therefrom. The conjunction of the planets Jupiter
+and Mars, in the sign Leo, is not good, it indicates a lofty
+turn of mind; but without other positions of a favourable
+description, its effects are by no means enviable; indeed,
+the conjunction of Jupiter and Mars in either of the Zodi
+acal Signs is, by experience, found to be detrimental to the
+welfare of those individuals born under its power. I shall
+now give the reader some examples from the positions of
+the Planetary Orbs on the days of birth of a few distin
+guished individuals, showing the effects of positions in the
+Signs 8 Q m and ::, whose qualities are of a fixed descrip
+tion, and, also, some in which planetary positions in these
+Signs were wholly wanting:—
+Samuel Johnson, Poet, \ ,
+Sept. 18, 1749 . . . } M & 3 m • 2 H =
+Five Planets fixed.
+Our late Sovereign,George
+IV. August 12, 1762. } t e o Q Q 6 m
+Five Planets fixed.
+Duke of York, August 16,
+1763. . . . . .
+Six Planets fixed.
+His present Majesty, )
+William IV. August 21, $ ), d Q Q
+1765, . . . . . . .
+Three Planets fixed.
+Napoleon Buonaparte, Au
+'") . m e : o a 8
+Four Planets fixed.
+Duke of Wellington, M
+:") new a
+Three Planets fixed.
+} % o & Q 9 : Q @ m.
+19
+"#" " '} i e i = 1 a
+Four Planets fixed.
+Hon. Charles Fox, 1748, '2 e m / O Q H :
+Six Planets fixed.
+Lord Nelson, . . . . . d m h :
+Two Planets fixed.
+Sir Robert Peel, Feb. 6,
+1788, . . . . .
+Three Planets fixed.
+I. W. Coke, Esq. May 6,
+1753, eminent A: G) # 8
+turist,. . . . •
+Two Planets fixed. •
+Earl Grey, March 13,1764, h 8 # *
+Two Planets fixed.
+* Lord Brougham,Septem
+£" ..} k m & Q.
+Two Planets fixed.
+These examples are intended to illustrate in a cursory
+manner the preceding remarks on the qualities impressed
+on the mind when the Planetary Orbs are longitudinally
+placed in Zodiacal Signs of a fix’d persevering quality, and
+are taken from the astronomical positions on the days of
+birth of the distinguished individuals therein enumerated.
+The reader will observe I have taken up this subject upon
+general principles, and will readily perceive much informa
+tion may be gained from the circumstance of merely
+knowing the days on which persons were born, and connect
+ing therewith the situation or sphere of life in which they
+are acting. I shall conclude this Lecture by observing,
+the parent of his present Majesty had no planet in a fixed
+sign, as also the unfortunate Louis XVI. of France, leaving
+the student to draw his own conclusions, and to his private
+experiments on the qualities of fixed Signs.
+}o • =
+* From the Horoscope.
+20
+Characters of the Planetary Orbs explained, which are
+used in the preceding Lecture.
+O Sol.
+© Luna.
+* Mercury.
+9 Venus.
+& Mars.
+2/ Jupiter.
+k Saturn.
+H Herschel, or the Georgium Planet.
+LECTURE II.
+On the Nature and particular Qualities of the Four Zo
+diacal Signs, Gemini, Virgo, Sagitarius, and Pisces, and
+of the Effects produced by the Planetary Orbs when
+posited therein.
+IN the commencement of this Lecture, (as in the pre
+ceding,) I refer the reader, for the foundation ofmy opinion
+on the subject, to the 18th Chapterof Book III. of the Tetra
+biblos of Ptolemy, page 159, wherein that Author, treating
+of the qualities and effects generally produced by the
+Planetary Orbs when placed in Bicoporeal Signs, expresses
+himself in the following words. “Bicoporeal Signs render
+the mind variable, versatile, not easy to be understood,
+volatile and unsteady; inclined to duplicity, amorous, wily,
+fond of music, careless, full of expedients, and regretful.”
+And Cardan, in his remarks on the nature of these Signs
+says, “Common signs (i. e. Gemini, Virgo, Sagitary, and
+Pisces) give conversation and manners” by which I under
+stand it to be the opinion of these Authors, that configura
+tions in those Signs have been found to indicate, or produce
+events (generally speaking) connected with remarkable
+excitement of feeling. Violent attachments, jealousy,
+* The translator, in a note on this passage, says, the Greek means “ peni
+tent,” or “prone to repentance,” or “to subsequent regret.” And also “that
+it is difficult to convey to the understanding of the reader the precise meaning
+of the words of the text.” This remark is highly creditable to the Science, the
+Author, and the Translator. I have long observed persons who were born
+when the majority of the Celestial Orbs were so placed, to be of minds and
+temperament perfectly indescribable.
+22
+- - -
+agitation in domestic affairs, troubles and misfortune to the
+mother, wife, husband, children, relatives, &c., also restless
+ness of disposition, unsettledness of affairs, fondness of
+novelty and change, subjectto enter into hasty speculations
+of great risk, fertile in imagination, producing a rapid flow
+of ideas, poetical, romantic, lively, eloquent and witty, ani
+mated in conversation, uncertain in temper, soon depressed
+in spirits, undecided in their actions, not liking close con
+finement, or sedentary occupations or employment, often
+removing their residences; and remarkable congresses or
+meetings of the Planetary Orbs in these Signs, especially
+when conjoined with the orb ofthe PlanetsSaturn and Mars,
+are found to produce excesses in these qualities of an unfor
+tunate description, such as violent and irrascible tempers,
+unhappy and evil dispositions, great calamities in domestic
+affairs, disappointment in private friendships, deaths, and
+separations in families, unsuccessful speculations in the
+world, scattering and loss of property, weakness of mind,
+mental disorders, such as derangement of intellect, despair, a
+dispositionto commit suicide,and liability to bodily hurts and
+accidents. These unalienable “ lurking principles” which
+grow with man’s growth, and increase with his strength,
+generally develope themselves in a slight degree early in life,
+in the form of temper; but as age advances, and circum
+stances in the world contribute to changes in his relative
+position in society, these qualities become more noticed, and
+at length identified with all his actions andpursuits, forming
+part of his very existence; of these indications, such as
+relate to temper only, the study of himself, the rule of
+conduct laid down for his observance in our Holy Scrip
+tures, the precepts of philosophy,and the force of education,
+may check, while on the contrary, such events which operate
+upon him in individual connexion with the fortunes ofothers
+who by ties of consanguinity, or sympathy, are bound to
+23
+him, together with those producing bodily affections, or
+diseases to himself, have an operation scarcely to be guarded
+against, much less overcome. Now, from attentive obser
+vation, I consider it must readily occur to the Student by
+this time that all the natural persevering strength of the
+human mind appears concentrated in the observed proper
+ties of the Fixed Signs, the effects of which has already
+been treated of in the First Lecture, where it has been
+shewn that configurations and positions of the Planetary
+Orbs in those places of the Zodiac confer the most lasting
+qualities, though they do not, in numberless instances,
+produce the most prominent and publicly fortunate persons.
+This is an anomaly which I shall now reconcile upon the
+principles on which my System is founded. First, then, in
+the preceding Lecture page 15, I have laid down as a general
+axiom, that man, in the quality of his mind and action, is
+(Astronomically speaking) compounded of certain portions
+of the three qualities which the Twelve Celestial signs
+appear to possess, but the quantities of such matter are
+subject to constant variation. Secondly, the Student will
+likewise discover, from this and the preceding Lecture, that
+two of the three named qualities belong almost exclusively
+to those affairs which depend on the developement of certain
+mental powers and feelings. The third, then, has particular
+reference to success in the world, and public notoriety. For
+as the first quality is decidedly that of capability and perse
+verance in the acquirement of knowledge, and the second
+that of the facility of communicating it to others, it follows
+then that the third should be appropriated to the production
+ofthat desideratum, viz. Success in the World",which in that
+case will stamp exertions with acknowledged stirling worth,
+and thus individual merit becomes handed down to posterity
+* See Lecture III., and the Synoptical Table, page 15.
+24.
+with fame and honour. In vain then it is that the mind
+should possess enlarged ideas, unless the tongue can do her
+office in communicating them intelligibly to others; and in
+vain do these act in union with each other, unless certain
+qualities exist calculated to bring into public estimation the
+object of their combined powers. This quality I contend is
+vested in the four remaining signs, Aries, Libra, Cancer,
+and Capricorn, and without some of the Planetary Orbs
+should be placed in those signs at birth, the labors of those
+persons,however eminently gifted, will be cast into the shade.
+Should it however happen at the time of the birth of indivi
+duals, where these eminent positions, indicating success are
+wanting, thatTropical or Equinoctial signs should be placed
+on the angles ofthe horizon or meridian, at the hour of their
+coming into existence, in such cases there will be some
+probability of success, but of short duration, and nearly
+confined to the time occupied by the transit of the
+Planetary Orbs through the Tropical or Equinoctial Signs
+thus situated at various periods during the course of their
+lives. But to return to the subject which is the particular
+object of this Lecture, I have always observed that persons
+who happened to have several of the Planetary Orbs so
+situated at their births were (generally speaking) of a good
+natured turn of mind, unless violently agitated, then pas
+sionate for a short time, uncertain, generous to a fault; at
+other times mean, surmising and doubtful of the integrity
+and intentions of their bosom friends; fretful and timorous,
+and by no means happy persons; always involved in some
+trouble or difficulty, from which they have not sufficient
+energy or patience to extricate themselves; sometimes
+elated, at others depressed; undecided in their movements;
+feelingsparticularly acute, withoutdiscrimination; unhappy
+in their attachments and domestic affairs; wife or husband
+afflicted; trouble and unsettledness in the affairs of their
+25
+*
+*- - * * -- - - --.
+offspring; deaths, oftentimesjoined in marriage to a widow or
+widower, encumbered with poor relatives, enthusiasts in
+mind and in matters of religious affairs, swayed by popular
+opinions and the eloquence of others: and if the Orb of the
+planet Mars be in these Signs, and the Lunar Orb also, the
+troubles and misfortunes in domestic affairs are increased,
+separation by death or otherwise, danger from violence,
+involvement in quarrels, subject to falls, hurts, and blows;
+females liable to miscarriage; and if the Orbs of the planets
+Saturn and Jupiter be there, lossof property from law pro
+ceedings, trade, or speculation; if there should happen at
+the time of birth of such individuals that some of the
+Planetary Orbs should be placed in Tropical or Equinoctial
+Signs, in such cases the affairs of those persons will be
+publicly known, and will be dealt with according to the
+sympathy or antipathy which may be thus excited; if not,
+they will pine in obscurity, and thus suffer without public
+notice or commiseration; much however depends on the
+sphere of birth of such persons so situated, and of the
+mixture of other qualities, which a careful consideration
+will discover, and determine the excess which produces the
+ruling passion or inmate principle on which the events in the
+lives of those persons turn. These are the general properties
+I have observed in the course of my experience to become
+identified with Bicoporeal Signs, and one of the superior
+Planetary Orbs, such as Saturn, Jupiter, and Mars, is
+often found to be productive of marked effects. I shall
+now, in proof of what I have advanced, offer some exam
+ples for the satisfaction of the Student and the curious
+enquirer into the truth of the System of Prescience, from
+the positions of the Planetary Orbs on the birth days of
+persons of eminence, the circumstances of whose lives are
+publicly known. I shall begin with the father of his present
+Majesty, viz. George III, who was born June 4, 1738,
+26
+who had the Planetary Orbs Sol, Mercury, Saturn, and
+Venus in the Bicoporeal Sign Gemini; the events which
+followed that august personage in life, the family troubles,
+the unsettledness of the national affairs, and his own mental
+affliction, together with the personal danger to which he
+was exposed several times in his life, shew how particularly
+combinations of the Planetary Orbs in those signs act.
+The unfortunate Louis XVI. of France, born August 23,
+1754, who had the Solar Orb and Mars in the Bicoporeal
+Sign Virgo, and the planetary orb Mercury, virtually by
+his latitude placed in the same sign. Our late Majesty,
+king George IV. who had the planetary orb of Venus in
+the Sign Virgo, and that Sign rising in the East at his
+birth. His unfortunate Queen, Caroline, born May 17,1768,
+who had the planetary orb Mars, in the Bicoporeal Sign
+Pisces, and that of Luna, in the Bicoporeal Sign Gemini.
+Napoleon Bonaparte, born August 15, 1769, who had the
+planetary orb of Mars, in the Bicoporeal Sign Virgo.
+Lord Byron, the Poet, born January 22nd, 1788, who had
+the orb of Jupiter placed in the Sign Gemini. Thompson,
+the Poet, born September 11, 1700, who had at the time of
+his birth the planetary orb Sol, Mercury, and Venus, in
+the sign Virgo, and the orb of Mars in the Bicoporeal
+sign Sagitary, and the planet Saturn, in the Bicoporeal
+sign Pisces. Horatio Wiscount Nelson, so famed in the
+annals of England’s Naval achievements on the day of
+his birth, had the planetary orb Luna, and Venus in the
+sign Virgo, and that of Jupiter in the sign Sagitary; the
+Right Honourable Charles James Fox, the great Statesman,
+had the planetary orb Mars in the Bicorporeal sign Pisces;
+her late Royal Highness the Princess Charlotte ofWales had
+the planetary orb ofSaturn in the Bicorporeal sign Gemini,
+and the Lunar Orb in the sign Sagitary; the late Lord
+Chancellor Brougham who, it appears, from examination of
+27
+the positions of the Planetary Orbs on the day of birth,
+given in print," has the benevolent orb of Jupiter in
+the Bicorporeal sign Virgo, with the Lunar and Solar
+Orb, and that of Herschel in the Sign Gemini: these
+examples, I trust, will be sufficient to enable the student to
+form some opinion respecting the traits of character, and
+of the quality of action, as also the nature of Events which
+chequer the lives of such individuals, and which, from an
+attentive comparison with their private memoirs, will, I
+hope, present some dawnings of truth, easily attained from
+merely taking an extract from an Astronomical Ephemeris
+of the daily motions of the Planetary Orbs for the year and
+day on which the birth took place. Having proceeded thus
+far with the indications of the Planetary Orbs, when placed
+in the fixed signs of the Zodiac Taurus, Leo, Scorpio,
+and Aquarius; and in the Bicorporeal signs Gemini,
+Virgo, Sagitary, and Pisces, I shall now present the
+reader, in the ensuing Lecture, with an account of the
+Qualities which appear particularly to belong to the Four
+remaining Signs, viz., Tropical and Equinoctial, Cancer,
+Capricorn, Aries, and Libra.
+* See Horoscope, No. 17.
+LECTURE III.
+Of the Nature and Qualities of the Tropical and Equi
+noctial Signs of the Zodiac, Cancer, Capricorn, Aries,
+and Libra, and the Effects produced by the Planetary
+Orbs when posited therein, at the Births of Individuals.
+IN the course of the two preceding Lectures, I hope I
+have delivered, in language sufficiently intelligible to the
+uninformed reader, my particular views of the influential
+powers of the Planetary Orbs when placed longitudinally
+in the fixed and Bicorporeal Signs of the Zodiac in all the
+variety of their operation on the mental and physical
+power of man, which from my own experience I have
+observed to attend such positions, wherever it has happened
+they have exceeded in number, or power, the required
+proportion necessary to his individual share of happiness,
+as also his well being in society. I shall in this Lecture
+proceed to explain the nature and qualities of the Four
+remaining Signs of the Zodiac, known to Astronomers by
+the names of Tropical and Equinoctial, one of which from
+its situation in the northern semi-circle of the earth's orbit
+is called the Tropic of Cancer, and the other, from its situ
+ation in the southern semi-circle of the earth's orbit is
+called the Tropic of Capricorn, the former of which, from
+the apparent motion ofthe Solar Orb, produces the greatest
+length of day in our hemisphere,and the latter the shortest;
+of the remaining two Signs, called Equinoctial, viz. Aries
+and Libra. The sign Aries is placed at the commence
+ment of the northern semi-circle, and the sign Libra at the
+commencement of the southern, and are called Equinoctial
+29
+from the circumstance of the nights being of equal length,
+when the Solar Orb, by his apparent motion, is found in
+those places, these Signs divide the circle into four equal
+parts, and are termed angular, consisting of thirty degrees
+each, and it is of the effects of the Planetary Orbs, when
+placed in these angular positions I am now about to speak;
+and I have to refer the reader, as before, to the 18th
+Chapter, Book III. of the Tetrabiblos of Ptolemy, who
+there gives his opinion of their qualities in the following
+words. “Thus, the Tropical Signs generally dispose the
+mind to enter much into political matters, rendering it
+eager to engage in public and turbulent affairs, fond of
+distinction, and busy in Theology; at the same time, inge
+nious, acute, inquisitive, inventive, speculative, and studi
+ous of Astrology" and divination.” Thus far Ptolemy; and
+Cardan, in his Astrological Aphorisms says, “Tropical and
+Equinoctial Signs give success in the world.”
+I here consider it requisite to call the reader's particular
+attention to the above passage extracted from the Tetra
+biblos, on account of that learned Author not having
+mentioned the Equinoctial Signs, Aries and Libra therein.
+This I expect is an omission in the original text, and I am
+the more inclined to persevere in that opinion, because I
+find, in another part of the same work,+ when speaking of
+the effects produced in mundane affairs by Eclipses of the
+Luminaries, he has these words; “The Equinoctial Signs
+further indicate the circumstances liable to happen in eccle
+siastical concerns, and in religious matters: the Tropical
+* This peculiar trait in the character of Tropical and Equinoctial Signs
+coming direct to us from the pen of so distinguished an author as Claudius
+Ptolemy, which was observed by him 17 hundred years since, ought to entitle
+it to some notice, as also to prove how much the profession of the science was
+an object of public notice and estimation at the time that writer flourished.
++ Book II. Chap 8, page 82. -
+*- - *
+30
+Signs give warning of changes in the atmosphere, and in
+political affairs.” The Student may here observe a marked
+distinction between the qualities of the Tropical, and of
+the Equinoctial Signs, the effects of which are developed in
+various ways. Now, from experience, it appears to my
+apprehension, that all persons who happen to be born when
+there are a considerable number of the Planetary Orbs
+placed in the Tropical or Equinoctial Signs of the Zodiac,
+have (according to their situation in life) a remarkable
+share of good fortune tending to fame or public motoriety,
+more extensive introductions in society than the descrip
+tion of persons particularly alluded to in the former Lec
+tures, and which gradually lead to the developement of
+certain abilities, or amiable qualities, useful or ornamental,
+or to the public recognition of such as are found to be
+contrary to social order, and of well regulated communi
+ties, which last-mentioned class arises from the number of
+configurations of the Planetary Orbs of an evil disposed
+quality, such as the orbs of Saturn and Mars with that
+of Mercury, without the assistance of the harmonious
+aspects of the benevolent orbs of Jupiter or Venus, while
+the former will be observed to contain a proportionate
+mixture of each; with these considerations it is also neces
+sary to notice there are particular differences arising from
+the sphere of birth, circumstances in life, and education of
+individuals, which have a decided effect on the active
+motive or principle; from these premises, the general
+qualities of fortunate configurations in Tropical and Equi
+noctial Signs appear to be these—good fortune, fame,
+eminent friends, powerful interest, respect from persons
+with whom they are connected; while, on the other hand,
+combinations of the planetary orbs Saturn, Mars, Luna,
+and Mercury, alone produce events of an unhappy descrip
+tion,such as misfortune, powerful enemies, public exposure
+31
+and ignominy, and the actions of such individuals held up
+to public notice, and the contempt of the world in general.
+These are the extremes which appear to attend evil com
+binations. -
+I shall next proceed to the explanation more at length
+of the particular events of a favourable description,
+which these Signs of the Zodiac, when the Planetary
+Orbs are placed therein, generally produce, and in the first
+place the northern tropical sign Cancer seems, from ex
+perience, to offer indications of elevation or introductions
+connected with government and political affairs, tending to
+bring such individuals into note somewhat early in life, com
+mencing at the age of twenty-five or thereabouts; and all
+persons who happen to have the superior Planetary Orbs so
+posited, are likely to become introduced to the publicin some
+way or other about that period. Also the Planetary Orbs
+placed in the latter degrees of the sign Gemini, and the
+beginning of the sign Leo, produce events approximating
+somewhat to those in the sign Cancer, but not so eminently
+powerful; the astronomical reason is, that the northen tropic
+is the most elevated point in the ecliptic in our hemisphere,
+and consequently nearer the vertical point or Zenith, and,
+therefore, like the Solar Orb, when the days are at their
+greatest length, the actions of such individuals then born
+shine forth with superior lustre, and as fixed stars of the first
+magnitude continue the wonder and admiration of succes
+sive ages, long after the families of such distinguished
+characters have become extinct, consigned to oblivion, and
+mingled with their native dust. In this case I feel I cannot
+too often impress on the mind of the Student that much
+of the extent of their power will certainly depend upon the
+sphere of life in which their operation consists, and, what
+ever that may happen to be, they will become distinguished
+characters. I shall enumerate here a few examples from
+32
+the situations of the Planetary Orbs on the birth days of
+public characters of some eminence, who were, and are
+still connected with public life, fortunately, or otherwise,
+leaving the Student to search his Chronology, and to his
+private inquiries among the circle of his friends for further
+satisfaction and proof; I shall begin with the Emperor
+Napoleon, who had at his birth the planetary orbs Saturn
+and Venus in the tropical sign Cancer, and the Lunar orb
+in Capricorn; his Grace the Duke of Wellington, who has
+the orbs of Saturn and Mars in Cancer, and Mercury in
+Aries; the present Emperor of Russia, who has the solar
+Orb, and that of Mercury in the Sign Cancer; the present
+King of Prussia, William III., has only the planetary orb
+Mercury, placed in the sign Cancer; the King of Sardinia,
+the Lunar orb, and that of Jupiter, in Cancer; Mahmoud II.
+the Solar orb, in Cancer;" Earl Grey, who has the Lunar
+orb in Cancer, and the orb of Venus in Aries; Oliver
+* I here wish to call the reader's attention to this fact namely, out of the
+twelve reigning Sovereigns in Europe, there are only five who have the
+Tropical Sign Cancer occupied by the Planetary Orbs at their birth, which
+are as follow, Emperor of Russia 2, viz., Sol and Mercury. The King of
+Prussia 1, Mercury. The King of the Netherlands 1, the Lunar Orb. The
+King of Sardinia 2, Luna and Jupiter. Mahmoud II, the Solar Orb: while
+the Emperor Napoleon, and the Duke of Wellington, had each 3. This may
+account for the extraordinary public eminence of those persons, and furnish
+some useful hints for the Student's consideration. It will however in this
+instance become requisite for his assistance in forming a parallel between these
+two distinguished cotempories (whose sphere of action opposed to each other
+was brought so particularly into public notice at the time of that memorable
+conflict on the plains of Waterloo) to direct his attention tothese astronomical
+facts, that on the day of birth of the victorious Wellington, two of the superior
+Orbs, viz. that of Saturn and Mars occupied the northern Tropical Sign
+Cancer, while on that of Napoleon, the same Sign was occupied by only one,
+viz. Saturn, and the inferior orb of Venus. By the application of the funda
+mental principles of the Science of Celestial Philosophy, the superiority of the
+former over the latter is clearly demonstrated, and incontestibly proves to
+what extent the general welfare of whole nations, the honour of their Insti
+–
+33
+Cromwell, who was born when the orb of Jupiter was
+placed in the tropical Sign Cancer, and that of Saturn in
+the equinoctial Sign Libra; Queen Caroline, who had the
+same positions; the Hon. Sir R. Peel, the orb of Mars in
+Cancer;—Coke, Esq. the famed agriculturist, the orb of
+Jupiter in Cancer; Lord Byron, the Poet, the Lunar Orb
+and that of Mars in Cancer; and the orb of Mercury in
+Capricorn; the parent of his present Majesty, the orbs of
+Jupiter and Mars in Aries.
+I shall now speak more particularly of the effects of the
+Planetary Orbs when conjoined in the southern Tropic,
+called Capricorn; and from my observation the operations of
+that Sign are of a less prominent quality, the Events indi
+cated happen at a later period in the lives of those persons
+who (from circumstances connected with the positions of
+the Planetary Orbs at their births) are more immediately
+under the power of that sign and they seldom come much
+into public notice till after thirty years of age. They are
+(generally speaking) a class of persons who in some way
+become connected with government, public affairs, or the
+management of business; ofthat class but few rise to offices
+where the power of life and death is vested in their hands,
+unless from their sphere of birth they are entitled to it.
+The Astronomical reason is this; the southern Tropic is
+that point in the heavens in which the Solar Orb appears to
+acquire the least meridian altitude, and the days in the
+northern latitude are then at the shortest; but persons born
+under that influence will still be fortunate, though for
+reasons before stated, less distinguished, let their sphere of
+tutions, the success of their conquests, &c. become identified with the posi
+tions of the Celestial Orbs at the births of their monarchs, as also at those of
+such distinguished persons to whom the highest offices of state are entrusted,
+whether Civil, Military, or Naval.
+C
+34
+birth be what it may, as also the Planetary Orbs in the
+latter degrees of the Sign Sagitary and the beginning of
+Aquarius. The latter degrees of the sign Gemini, and the
+beginning of the sign Leo will bear resembance to such
+qualities, but not so remarkable, and therefore, will pro
+duce characters of less public eminence. It now remains to
+treat of the qualities of the Planetary Orbs when placed in
+the Equinoctial Signs Aries and Libra, which Signs, in my
+opinion, indicate success in the world connected with the
+Sciences, Law, Public Institutions, &c. also matters more
+immediately concerned with the Civil Department, parti
+cularly where the Sign Libra is concerned. The Equi
+noctial Sign, which is called Aries, seems more connected
+in its operations with ambition and pride, absolute power,
+warlike feeling, high spirit, &c.; in this case I refer to the
+geniture of king George III, who had the orbs Jupiter
+and Mars in the sign Aries. Oliver Cromwell, who had
+the orb of Mars also in the sign Aries. His late Majesty
+George IV. who had the orb of Saturn in Aries. His
+Grace the Duke of Wellington who has the orb of Mercury
+in Aries. Louis Philippe of France, who has the orb of
+Jupiter in the sign Aries. Leopold I. the Lunar orb in
+Aries. Ferdinand II. the orb of Jupiter in Aries. Also
+Mahmud II. the orb of Jupiter in the sign Aries.
+The reader will no doubt make some remarks on the
+circumstance of the paucity of positions of the Planetary
+Orbs in the signs Aries and Cancer on the birth days of
+the present reigning monarchs of Europe, and which, in
+my opinion accounts, in a great measure, for the peculiar
+state of political affairs since the fall of Napoleon; and I
+shall now present him with an anylectical view of the Celes
+tial Orbs occupying the different Zodiacal Signs at the
+births of these distinguished persons, so disposed as to
+35
+display the combinations of the three general qualities
+which are the subject of these Lectures:
+DIsPosition of THE CELESTIAL ORBs.
+Monarchs. Tropical & Equinoctial Fixed Signs. Common Signs.
+William IV. King of Uj'.
+• 2. 3. -
+England, . - '? H Q Q & 2/ 3. * * *
+Adelaide, Queen of \ . -
+of England, . . #2 * © 5. H K Q & Q 1. '
+Louis Philippe, King !3. }/ Q) # 3. H & 9 2. R O
+of France, .
+Nicholas I. *}2. G) # 2. Q @ 4. H K M &
+of Russia,
+Maria Isabella Lou
+isa, Queen ofSpain, }3.2/ Q) # 3. H K Q 2. d ?
+Maria de Gloria,
+Queen of Portugal, 1. Q 4. 2/ ? # CD 3. H R 3
+Frederick Wm. III.
+King of Prussia, #2. # Q 4. Hk 3 Q 2. / ?
+William I. King of
+the '. ! 1. Q 3. H}l 3 4. Q & Q #
+Leopold I. King of
+Belgium, . . . $3 8 ° 1. H 4. K. Q Q
+Frederick VI. King
+of Denmark,. . . 2. }/ # 2. H G) 4. k d ? Q
+Charles XIV. King of
+Sweden & Norway,
+}
+} |. " 5. 3 Q 2 # Q 2. K. 2/
+Francis II. "'s 6 Q 3. HO # 2. K. Q
+}
+}
+of Austria, . .
+3. H Q $ 2. / Q 3. K. G. G.)
+Gregory XVI. Pope,
+Charles Amadeus, ) 2. 2! O 4. Q & Q Q 2. H #
+King of Sardinia, .
+Ferdinand II. King
+of Naples & Sicily,
+Mahmud II. Ottoman
+Empire, . . . .
+4.2/ Q 9 @ 2. H # 2. R &
+4. H / Q @ 3. K. d: # 1. Q
+38 49 41
+By this calculation it appears there are 49 positions of
+36
+--- --------------------------
+--
+the Celestial Orbs in Fixed Signs, 41 in Common Signs,
+and only 38 in Signs conferring public fame and notoriety,
+which last number falling below the required proportion",
+is a considerable drawback to their popularity in general
+affairs, while the excess of these qualities, of a fixed de
+scription, indicate the cultivation of such matters apper
+taining to sciencs and learning, and the qualities of a more
+secluded or retired description connected with the internal
+improvement and welfare of their states, the cultivation of
+the Arts, and the adopting of a more cautious policy in
+their measures. In the preceding part of this Lecture, I
+have advanced that the equinoctial sign Aries seemed more
+connected with ambition, absolute power, and warlike
+operations, while the sign Libra seemed more connected
+with civil institutions; and in applying these observations
+to the examples before us, it appears that, out of the 128
+positions of the Planetary Orbs, the birth-days of these
+sixteen illustrious persons, there are only 17 to be found
+placed in the signs Aries and Cancer, and not one with
+either of the superior orbs, Saturn and Mars so posited, and
+but threef who happen to have the superior orb Jupiter in
+either of the particular situations alluded to; while there
+are 11 positions in the equinoctial sign Libra, which is
+occupied in all the examples by the benevolent orbs of
+either Jupiter, Sol, Venus, Mercury, or Luna; this, in
+my opinion, astronomically accounts for the suspension of
+war and bloodshed in Europe, and the state of calm (com
+paratively speaking) enjoyed in public affairs, compared
+with the period previous to the overthrow of Napoleon, and
+the General Peace of 1815.
+As an object of particular interest to the Student, I
+recommend him to turn his attention to the positions of
+* See page 15.
++ Viz. the King of Sardinia, Naples, and Mahmud II.
+37
+the Celestial Orbs on the birth-day of the present Emperor
+of Russia, and to take into consideration what I have said
+of positions in Tropical Signs; he will find the Solar Orb,
+and that of Mercury, in the northern tropical sign Cancer,
+while the orbs of Saturn in Mars appear longitudinally
+disposed in the Bicorporeal signs Gemini and Sagitary; but
+from their declination and latitude virtually placed in the
+signs Cancer and Capricorn, thus occupying each Tropic.
+These positions, to that portion of my readers particularly
+interested in political affairs, will offer some important indi
+cations which a careful analysis will develope. I shall now
+quote some few examples from the positions of the Celestial
+Orbs on the birth-days of persons of public eminence, of
+different periods and countries connected with the Civil
+Departments in Society, Religion, Arts, &c. Earl Grey has
+the orbs of Herschel and Venus in the sign Aries; Lord
+Brougham the orbs of Venus and Mercury in Libra; the Rt.
+Hon. C. Fox had the orb of Mercury in the sign Capricorn; :
+Sir R. Peel has the orb of Mars in Cancer; the Rev. Dr.
+Irving had the orbs of Jupiter and Mars in Libra; Regi
+omontanus (the Astronomer), had the orbs of Luna, Mars,
+Sol, and Venus, in the sign Cancer; Vincent Wing (the
+Astronomer) had the orbs of Sol and Mercury in Aries, the
+the sign Lunar Orb in Capricorn, and the orb ofJupiter vir
+tually placed in Aries; Leighbourn (the Mathematician)had
+the orbs of Mars and Mercury posited in the equinoctial sign :
+Libra at his birth; Cardinal Richlieu had the orb of Saturn
+in Aries and the orb of Mercury in Libra; Cardinal Maza
+rine had the Solar Orbin Cancer, and the orbs ofJupiter and
+Mars in Libra; Archbishop Laud had the Solar Orb and
+Mercury in Libra; Bishop Hall had the Solar Orb, and that
+of Mercury in Cancer; Archbishop Usher had the orb of
+Jupiter, Sol, and Luna in the sign Capricorn; Henry West
+Betty (the famed Roscius) has the orbs of Saturn and
+38
+Luna in the sign Aries, and those of Jupiter, Venus, and
+Mercury, in the equinoctial sign Libra; Varley (the emi
+ment Artist) had the orb of Venus in Libra; Harris (the
+aéronaut) had the orb of Saturn in Aries, and that of
+Jupiter in Libra, with the lunar orbin Cancer; the Princess
+Olive of Cumberland had the Solar Orb, and that of Luna
+and Mercury in Aries; Stiff (the Astrologer) who had the
+orb of Mars in Libra, and that of Jupiter in Aries; Raphael
+who had the orb of Mars in Aries, and the orbs of Sol and -
+Mercury in the latter degrees of the sign Pisces. These
+examples, taken indiscriminately from the birth-days of
+Public Characters which havecome to my notice will, I trust,
+be a sufficient guide to the Student and enquirer in these
+researches after fundamental truths. I shall now make some
+remarks on the qualities of Tropical and Equinoctial Signs,
+with regard to their operation in the affairs of the ladies who
+have the Celestial Orbs thus prominently and fortunately
+placed, and on this occasion we have to take into consider
+ation the situation, or place in society which they in general
+hold, and which precludes them from filling high offices in
+the State; or where absolute power is publicly vested in their
+hands, except in case of Royalty itself, yet from the peculiar
+circumstances in which they may happen to be placed,
+either by education, rank, mental energies, or personal
+attractions, have considerable interest in public affairs.
+Many of them form connections with families of the highest
+distinction, are thus introduced into societies where
+public measures are discussed by the parties interested in
+these results, receiving particular attention from the male
+sex, especially those ladies who at their births happen to
+have the equinoctial sign Libra occupied by the Celestial
+Orbs; they have thus an opportunity of expressing their
+opinions, and thus it is that female interest has had much
+to do with the Affairs of State in all ages, and, indeed, all
+39
+---
+others of particular moment. Females of this class will be
+much engaged in dress, ornamental acquirements, Liter
+ature, public company, and will form valuable friendships,
+generally marry well," and are fortunate persons.
+I shall conclude this Lecture with a List of fifty nativi
+ties of Illustrious Persons whose names appear in the
+history of the “Olden Times,” extracted from Gadbury's
+Collectio Genetarum, 1661, some of which were unfortu
+nate, but all public characters; and shall, for the informa
+tion of the Student, give him the number of Orbs placed in
+the different Signs which have been the subject of the three
+preceding Lectures, leaving to himself the investigation of
+the minute circumstances connected with their lives and
+actions:
+Tropical & Equinoctial Signs. Fixed Signs. Common Signs.
+1 Nero, Roman
+''}2 • * 4. k \l 7 & 1. Q
+2 Alexander the Q
+Great . . #2 @ 9 3. K. 2/ 2. & ©
+3 Henry VI. K.
+£}2 b : 3. }/ d @ 2. G) #
+4 Henry VIII.
+# " 32 @ • 2. h : 3. l & 9
+5 Edward VI. -
+'' '')2 oe 3 is 2.
+6 Mary, Queen
+#9"}. 2. }/ O 4. R & G)
+7 Elizabeth, do. 3. . . ; 1. Q 3. }l & G)
+8 J: Ki
+''}; we 4 3 •
+9 Charles I. do. 1. © 1. K. 5.2/ d ? § Q
+10 Henry, Duke
+of Gloucester, $5.2/ Q) $ Q 1. k. 1. Ó
+died young
+* This must be understood when there happens to be but few of the Celes
+tial Orbs then placed in Bicorporeal signs. See Lecture II.
+40
+11 L d Eli Tropical & Equinoctial. Fixed Signs. Common Signs.
+ady 1Za
+£}5, , so • 0. 2. \l #
+12 Princess Roy
+al, eldest D. # 2. / Q. 4. R & G) # 1. 9
+of Charles I. .
+13 James, Duke
+of Richmond $ 1. Q 3. 21 9 @ 3. * g :
+and Lennox .
+14 Henry II. K.
+of France . 36 so • 0. 1 :
+15 Henry III. do 4, 2 & G) # 3. # 9 @ 0.
+16 HenryIV. do. 5. 2 & Q # € 1.9 1. 2
+17 Anne, Queen
+of Hungary #2 * * 2. Q @ 3. 3 } :
+18 Maria de Me- -
+dicis, Queen of $ 1. 2/ 3. G) # 9 3. W. & ©
+. France . . .
+19 Sebastimus,K.
+of Portugal' 32 4. & G) # CD 1. '
+20 Gustavus A
+dolphus, King # 1. # 4. k \l & Q 2. Q @
+of Sweden . .
+21 Frederick III.
+Emperor of #3. ". Q # 3. I d' O 1.9
+Germany . -
+22 Louis XIII.
+*''}8 ice 3, b & 9 1. #
+23 Carolus Au
+gustus, King $2.2/ d. 4. K. G.) Q @ 1. §
+of Sweden . .
+24 Frederick, K. - - -
+of Denmark . 3. G) # CD 4. k \l & 9
+25 Philip IV. K.
+'''. $2. }/ Q) 1. 3 4. K. 2 # O
+26 Louis XIV.
+K. of France . 4. k \l 9 @ 3. & G) #
+27 A Prince of -
+Spain, :* k \l & 2. § { 2. Q @
+young).
+41
+Tropical & Equinoctial. Fixed Signs. Common Signs.
+28 Charles Gus- -
+}.}! # 5. R & G) Q @
+tavus II. King
+of Sweden . .
+29 Thomas Earl - *
+of Strafford . #2 k 2/ 4. & G) # CD 1.9
+30 Earl of Essex 1. 2/ 4. Q 2 #Q 2. K. G.
+simirus, King
+of Poland . . .
+32 Charles Le
+onurdus #
+G) # CD 4. k \l & 9
+*
+31 Johannes Ca- }3
+tenson, a Ge
+neral in the
+Swedish army
+33 Lord Francis
+Williers . . .
+34 John Picus,
+Earl of Miran
+dula . . . .
+35 Christianus,
+King of Den
+mark . . .
+36 William of
+Nassau, P. of
+}
+!
+|
+}
+k \l 3 Q Q & ©
+K. G.) 2. 2 # 3 & # e.
+}! 4. k & # Q 2. Q Q
+3. k & Q 2. / ? 2. # Q
+2. 2 Q 3. l Q @ 2. 3 #
+37 Prince Mau
+rice, of Hun
+gary and Bo
+hemia . •
+38 Augustus, E
+lector of Sax
+7
+2
+1.
+4. b 3 & # 2. le 1, 2
+3. * g Q 2. G) @ 2. 2 #
+ony . . . .
+39 Maximilian I. 4. Q Q Q # 2. & © 1. \l
+* • 2. \l © 3. K. G.) #. 2. d ?
+41 Emanuel, D.
+of Sabaudia, 1. * 4. b > 3 > 2. Q
+(died young). - -
+42
+Tropical & Equinoctial Fixed Signs. Common Signs.
+42 Francis Les- Signs.
+diguerins
+£ of #3. "I Q $ 3, b & # 1 e
+France . . .
+43 Marc Anto
+mio Columna,
+Constable toX-1. © 4. k \l & # 1.9
+the Queen o -
+Naples . . . .
+44 Leonora Ur
+sina, Duchess $2
+Sfortia . . .
+45 Don John of}
+Austria . . .
+. K. G.) 3. M & 9 2. # e.
+1 k 3. 3 Q @ 3. G) \l #
+46 George Wil
+liers, Duke of $2. R O . . . . . . . 5. }l & Q 9 #
+Buckingham.
+47 James Duke
+of Hamilton .
+41 Pr. Charles,
+son of Charles
+'d £2, b & 3. M # 9 2. Q @
+}3. Qe 2. d ? 2. l ;
+fancy . . -
+49 Lady Anne,
+daughter of
+Č'I died #8 b Qe 1. 2/ 3.2/ ? #
+in infancy.
+50 George Duke
+of £}4. k Q $ @ 1. )! 2. 3 G)
+Total . . . 126 125 99
+Tropical and
+Equinoctial } 126
+Fixed . . . . . . . 125
+Common. . . . . 99
+Sum . . . 350
+Divide by 7, the
+Number of Planets, $ 50, the number of Nativities.
+leaves in Quotient . .
+43
+My readers will, no doubt, observe, in the foregoing
+examples, the preponderance of configurations in Tropical
+and Equinoctial Signs; and also that the planet Herschel
+is not inserted, my time not allowing me an opportunity
+of calculating his place, which omission I hope they will
+eXCuSe. -
+LECTURE IV.
+On the general Properties of the Twelve Celestial
+Mansions, denominated Houses, and the Events indi
+cated at various periods in the Lives of Individuals, by
+the Transit or Passage of the Celestial Bodies through
+that portion of their Orbits, comprised in each of the
+Twelve mentioned Divisions.
+THAT it has been the constant practice of all Professors
+of the Astral art, to dispose of the Celestial Orbs and the
+Twelve Signs of the Zodiac, in a Figure or Scheme, divided
+into Twelve Parts, called Houses; (see page 9,) is perfectly
+well known, and that there appears to have been consider
+able difference in the methods employed in regulating the
+precise quantity contained in each space, is also perfectly
+understood; but setting aside discussion on this point, I
+wish merely to show the method generally in use at this
+period, which is that which assigns an equal division of the
+Diurnal and Nocturnal spaces, or times, in twelve parts;
+and therefore by the rotary motion of the Earth, from
+West to East, the Sun, Moon, and Planets appear to our
+sight to move in circles from East to West, which circum
+stance no doubt led to the notion, in the early ages of the
+world, that the Earth was the centre of our System.
+And as this principle of dividing the Heavens is
+perfectly well known to the Students of the present day,
+there needs no further comment. I shall therefore proceed
+to show the diligent enquirer into truth, and the stranger
+to the principles of the Celestial Science, how to perform
+this important operation in an easy manner, for any Lati
+45
+tude, by the Celestial Globe, should he happen to possess
+one, and if not, he can procure a Celestial Planisphere
+from the Author of this Work, which will, in one minute,
+present him with the Face of the Heavens, for any required
+time, sufficiently correct for general purposes, confined to
+the Latitude of England only.
+Tb Erect a Figure of the Heavens by the Celestial Globe,
+for any required Day and Hour; for any place in Europe,
+from Forty degrees, to Sixty degrees of Latitude.
+Seek the Sun's Longitude for the day required on the
+Horizontal frame of the Globe.” And having found his
+corresponding place in the Ecliptic on the Globe, bring
+that place so found, to the brazen Meridian, and set the
+hour of twelve on the Index to that point; elevate the
+Pole to the given Latitude, and the Globe is then rectified;
+bring the hour of the day and minute required to the
+Meridian, allowance being previously made for difference
+between the clock and the Sun, by addition when the clock
+is slow, and substraction when the clock is fast, and observe
+what degree and minute of the Ecliptic is passing thereon,
+and that will be the sign and degree, which at that time,
+occupies the Cusp of the Tenth House, and the degrees
+and minutes of the Equator, answering thereto, is the
+Right Ascension of that point; keeping the Globe in the
+same position, observe what degree of the Ecliptic is just
+rising above the Horizon, and that will be the Zodiacal
+place of the Ascendant or First House, whose oblique As
+cension is the degree of the Equator rising at the same
+time, and is equal to the Right Ascension of the meridian
+before found increased by the addition of Ninety degrees.—
+Next add Thirty degrees to the Right Ascension of the
+* Or when great exactness is required, the solar place must be taken from
+an Astronomical Ephemeris for the year given.
+46
+Tenth, and the sum is the oblique Ascension of the
+Eleventh House; and to find the point of the Ecliptic, which
+should be placed on the Cusp, or division line of that
+House, take from the table annexed its Polar elevation,and
+depress the Globe, till you obtain the required number of
+elevation; then bring the number of degrees and minutes
+of the Equator, answering to its oblique Ascension, to the
+Horizon, and the degree and minute of the Ecliptic, rising
+at the same time will be the Longitude, which should be
+placed on its Cusp, to the oblique Ascension of the
+Eleventh; add 300 more and the sum will be the oblique
+Ascension of the twelth House; and to find the degrees and
+minutes of the Ecliptic to be placed on its Cusp, taking
+from the Table aforesaid the Pole thereof; elevate the
+Globe till you have obtained the required position, and the
+point of the Ecliptic, arising therewith, will be the Lon
+gitude at that time arising on the Cusp of the Twelfth
+division; to obtain the degree of the Ecliptic, occupying
+the Cusp of the Second division, add thirty degrees to the
+oblique Ascension of the Ascendant, or First House, and
+taking from the mentioned Table, the Polar elevation,
+which is the same as that of the Twelfth, the degree of the
+Ecliptic answering thereto, will show the degree and minute
+which should be placed on its Cusp; next, to obtain the
+degree of the Ecliptic occupying the Cusp of the Third
+House, add thirty degrees more to the oblique Ascension
+of the Second, and the sum is the oblique Ascension of the
+Third, and depressing the Globe to the Polar elevation
+found in the Table, the Cusp will be obtained as in the
+others; lastly, having thus obtained the Cusps of the Six
+divisions, viz:—From the Tenth to the Third, inclusive,
+the others are easily found, as the signs, degrees, and
+minutes, opposite thereto, will be their places without
+further trouble. It will be necessary for the sake of such
+47
+persons, who may not be conversant with astronomical cal
+culations, to shew the manner in which the Celestial Signs
+are counted.
+T Ö II g; Q mp in mu , ! Vf £ 36
+0 1 2 3 4 5, 6, 7 8 9 10 11
+Therefore the opposite Signs, may be readily found by
+adding six to the number of that Sign, whose opposite you
+seek; and if the total exceed Twelve, substract Twelve from
+the sum, and the remainder will show the answer required.
+I here annex the Polar elevations of the Cusps of the
+Houses, in which the Student must bear in mind the Pole
+of the 1st, or Ascendant, is always the Latitude of the place
+for which the Figure is erected or formed.
+POLAR ELEVATIONS,
+From 40 Degrees to 60; Latitude North or South.
+Latitude, Polar Elevation. Polar Elevation.
+N. or S. 11th. & 3rd. Houses. - 12th. & 2nd.
+40 15 52 . . . 29 33
+41 16 25 . . . 30 25
+42 . . . 16 59 . . . 31 22
+43 . . . 17 36 . . . 32 16
+44 18 13 . . . 33 13
+45 . . . 18 50 . . . 34 ll
+46 . . . . 19 28 . . . 35 9
+47 . . . 20 7 . . . 36 8
+48 . . . 20 49 . . . 37 8
+49 . . . 21 38 . . . . .38 10
+50 . . . 22 17 . . . 39 ll
+5] . . . 23 4. . . . 40 16
+52 . . . 23 51 . . . 41 20
+53 . . . 24 40 . . . 42 26
+54 . . . 25 34 . . . 43 32
+55 . . . 26 29 . . . 44 41
+48
+Latitude. Polar Elevation. Polar Elevation.
+N. or S. 11th. & 3rd. Houses. 12th. & 2nd.
+56 . . . 27 25 . . . 45 51
+57 . . . 28 23 . . . 47 0
+58 . . . 29 26 . . . 48 13
+59 . . . 30 30 . . . 49 26
+60 . . . 31 39 . . . 50 42
+Polar Elevation Polar Elevation
+9th and 5th. 8th and 6th.
+ExAMPLE.
+Tb Erect a Figure of the Heavens for January 1st. 1835,
+10" A. M. apparent Time, for the Latitude of London,
+51° 32' by the Celestial Globe. -
+First obtain the sun’s longitude by the Ephemeris, or
+wanting that, (the horizon circle of the Globe;) the true
+longitude reduced to the time given is Wr 10° 20'; the
+clock is faster than the sun four minutes nearly, which
+substracted from the given time leaves 9" 56 A. M. Seek
+wf 10° 20' so on the Ecliptic of the globe, and bring that
+to the meridian and turn the Index till the hour of 12 in
+tersects it; elevate the Pole till 51° 32 appear on the
+horizon, and the globe is then rectified for the day and
+latitude. Next turn the globe on its axis till 9 hours and
+56 minutes cuts the meridian, and then fix it, and the face
+of the Heavens is, at that time, then represented; the
+degree of the ecliptic directly under the meridian will be
+f 11 degrees 49 minutes, which is the Cusp of the 10th
+House, and the degrees of the Equator counted carefully,
+will be 250 degrees 15 minutes, which is the Right Ascen
+sion of the 10th House; the degree and minute of the
+Ecliptic line which will then be rising in the East is 17
+degrees and nearly 5 minutes which is the Longitude of the
+Ascendant or 1st House; and the degree and minute of the
+Equator, then rising 340 degrees and 15 minutes, will be
+49
+-
+-------------- - - - - - -===--------------- a ------
+the oblique ascension of that point which is equal to 90
+degrees added to the Right Ascension of the meridian
+before found.
+Next enter the table of Polar elevation, and even with
+51° 32, (making proportion for the difference in minutes in
+the latitude,) the poles of the 11th and 3rd House will be
+found 23 degrees and 28 minutes; and for those of the 12th
+and 2nd House, 40 degrees 48 minutes. Next add 30 de
+grees to the Right Ascension of the 10th, and the sum is 280
+degrees 15 minutes, which is the oblique ascension of the
+11th. To find the longitude of its Cusp, depress the pole
+as taught in the Precepts, till 23 degrees 28 minutes appear
+on the horizon; and turning the globe till the degrees of
+the Equator, answering to the oblique ascension is just
+appearing on the edge of the horizon, and the degrees and
+minutes of the Sign of the Zodiac then rising, will be wr
+the 1st degree and about 15 minutes for the Cusp of the
+11th House; for the Cusp of the 12th, I add 30 degrees to
+the oblique ascension ofthe 11th, andthe sum is 310 degrees
+15 minutes, which is the oblique ascension of the 12th
+House, whose Polar elevation is 40 degrees 48 minutes;
+and by proceeding as in the foregoing, the Cusp of the
+12th will be found about the 19th degree of wff, next to the
+oblique ascension of the ascending Sign, 340 degrees 15
+minutes. I add 30 degrees more, and the sum is the
+oblique ascension of the 2nd House, substracting360, as the
+total exceeds that number, and the remainder is 10 degrees
+15 minutes. The Polar elevation of that House is 40
+degrees 48 minutes, which, in the same manner as before,
+gives about 17 degrees of r for its Cusp. Lastly, for the
+Cusp of the 3rd, I add 30 degrees to 10 degrees 15 minutes,
+and the sum is 40 degrees 15 minutes, which is the oblique
+ascension of the 3rd House, whose Polar elevation is 23
+degrees 28 minutes, which by the precepts aforesaid, gives
+D
+--a
+50
+8 nearly 20 degrees for the Cusp of the 3rd House; thus
+the six Celestial Houses having been obtained, the oppo
+site Houses have opposite Signs which shall be shown as
+under :— -
+Houses. Cusps. No. of the Signs. Houses. Cusps.
+Meridian 10 t 1149 - 8 Add 6 to 4 II 11 49
+11 W 0 15 9 each and 5 gs 0 15
+12 Vf 19 . . 9 refer to 6 g; 19 0
+Ascendant 1 : 17 5 10 Table for 7 Q 17 5
+2 r 17 . . 0 counting 8 n. 17
+3 820 ... 1 the Signs. 9 m 20
+These signs and degrees placed on the Cusp or angles of
+a figure of the Twelve Houses, drawn circular or otherwise,
+according to the Artist's pleasure, with the Planetary Orbs
+inserted therein, with their Longitudes reduced to the given
+time, and the date of the year, day of the month, hour,
+and minute inserted in the centre, completes the operation
+as far as it is in the present occasion necessary.
+To Erect a Figure of the Heavens, for any required Time,
+by the Circular Planisphere, made and sold by the
+Author of this Work,
+This Instrument is a projection of the Sphere, and repre
+sents the Horary circles of position which pass through the
+Equator and the two Tropics, viz. 3 and WP, dividing them
+equally into twelve divisions according to the Diurnal or
+Nocturnal Arcs; it has a moveable ecliptic fitted to it with
+the Signs and Degrees of the Zodiac marked upon its edge;
+the Equator serves as a circle of hours, and from the centre
+of the projection is a thread, which only requires to be
+stretched to the given hour, and having previously found
+the Sun’s place, as before directed, you have only to move
+the Ecliptic till that point appears directly under the thread,
+and you have then the degrees of the Ecliptic shown at one
+51
+view on the Cusps of the Twelve Houses, and consequently
+the figure of the Heavens required. The reader will under
+stand, I do not pledge myself for the particular accuracy
+of the instrument, but that it is sufficiently so for general
+purposes.
+The following are brief Sketches of the nature and signi
+fication of the Twelve Divisions of the Heavens, and the
+Effects of Planets transiting or passing through them.
+FIRST AND SEVENTH HousEs, or DIVISIONs.
+The First and Seventh Houses, particularly the First,
+have signification of the body; its shape and description,
+hurts, diseases, &c. The place in which we live, house,
+home, family, domestic affairs, planets passing those angles
+if malefics, show evil or unfortunate times; for instance #
+there and 3 retrograde, show illness, quarreling, conten
+tions, difficulties, and misfortunes; more especially when
+in the common signs II mp 1 % ; and if the Luminaries
+should happen to be placed therein at birth, the effects, in
+that case, will be more violent and mischievous, generally
+denoting trouble, illness, death, discord, or confusion, and
+separation in families. These two angles, with the tenth
+and fourth, when the Planetary Orbs are passing through
+them have signification of persons coming to the house or
+the company the native keeps, introductions in life, &c.
+and the planets k and 3 retrograde in the tenth, give
+trouble and difficulty by or through connexions or acquaint
+ances formed at that time. The benefics ) and 9 show
+happiness and prosperity; the malefic operations of k and
+3 in this particular are decidedly different to each other, for
+Saturn, by his slowness, indicates trouble of long duration
+to a tradesman, loss of credit, want of business, unsuccess
+ful speculations, often terminating in bankruptcy or failure,
+imprisonment, protracted Law business, sometimes ruin;
+3 retrograde thore gives much trouble, bustle, and con
+**
+52
+tentions in his house and family, quarreling among friends
+and acquaintances, loss in his situation in life by heat of
+temper, and sudden misfortune. Of the angles last named,
+(the tenth and fourth,) the latter is decidedly the worst; and
+the planets k and d retrograde passing through them, are
+observed to produce very evil effects, which, unless coun
+teracted by other very favourable configurations or circum
+stances in operation at the same time, end in little less
+than complete ruin of the Native’s prospects in life, at least
+for several years; the latter observation applies more parti
+cularly to the effects of the planet h.
+-
+THE SEcond AND EIGHTH Houses, or DIVISIONs.
+These Divisions of the Heavens seem to have significa
+tion of removals, travelling, alterations in business, new
+speculations; they have also the signification of the
+brothers and sisters. The Second House seems to belong
+rather to the last mentioned class of Relatives, and the
+Eighth to the former; the speculating influence of these
+two places seems to arise from their configurations to the
+most elevated point of the Heavens, namely, the Meridian.
+Their qualities appertaining to matters of Relationship, are
+gathered from the Second being in Trineaspect to theTenth
+House, and the Eighth in Trine aspect to the Fourth House,
+which are certainly points in the Heavens that have signi
+fication of Parents; and when connected with the orbs of Q
+k e g render the enquirer all the information necessary,
+but more of thathereafter. I have generally observed these
+two places" occupied at Birth by planets in Common Signs,
+confer a restless, unsettled, speculating turn of mind on the
+Native; he is constantly removing or changing his business
+or pursuits, fond oftravelling, or unsettled, and violent con
+* The Second and Eighth Division.
+53
+figurations upon these points also show troubles to relations,
+such as brothers and sisters; and that the Planets, while
+passing these points, bring about events ofa like description
+to those already mentioned, which continueduring the time
+of their transit. I have remarked that the planet k when
+passing that place" generally producessome great change in
+the Native's pursuits in the world, often leading him into
+important speculations, butunfortunately all planets in this
+situation are descending to the Fourth angle, which I have
+already spoken of, whose effects are so malign. I would
+therefore advise persons, (if possible,) to speculate during
+the time the orb his passing from the angle of the Sixth to
+the Eighth and Ninth, as that is the rising point in the
+Heavens.
+THE THIRD AND NINTH HoUSEs, or Divisions.
+These Divisions of the Heavens are of a less active
+duality than any of the others; therefore little can be said
+oftheir particular power, andduring the transit of the supe
+riors through them, theNative does nothing fresh ofany great
+importance; but as the planets h or 3 retrograde advance
+toward the Fourth House, the storm which has been gather
+ing before appears to thicken, and the prospect becomes
+more gloomy. The Luminaries in either of these places at
+birth denote trouble to parents, perhaps their decease; for
+it is generally observed the Native loses by death some rela
+tive, or aged person, when h is passing either of these two
+Points (so occupied) or justas he is entering the Fourth or
+Tenth, during his last retrogradation near those places.
+THE FourTH AND TENTH Houses, or Divisions.
+These angles have the signification of parents as before
+stated; they have also the government,(to a certainextent.)
+* The Second Division.
+th.
+54.
+of the honour, happiness, and public actions of the Native
+which are almost exclusively dependent for their increase
+or decrease on the transits of the Benefics, particularly 21,
+for under such circumstances, and while it is passing there,
+should k be in the Twelfth or Sixth in Sextile or Trine aspect
+to him, or even the orb of 3 retrograde, there" will, under
+such circumstances, prove advantageous. Also the inferior
+planets, by their passage over this place, seem to complete
+the effects of combinations previously formed, or lay the
+foundation for others to which the superiors will set their
+seal when they arrive at those places; and it will be found
+that all Planets produce favorable events while passing the
+Tenth House, except # and g, who at that time should
+be found in the Sixth or Twelfth Houses when there are
+Planets passing the Tenth House. The position of k at
+birth in the Tenth is unfortunate, and the transit of that
+Orb at after periods of life over that place is very evil. (See
+my Remarks on the First and Seventh Houses; also of its
+effects when in the Fourth.)
+THE ELEvENTH AND FIFTH Houses, or DIVISIONs.
+These Divisions of the Heavens have a peculiar signifi
+cation; the Fifth is in a Trine Aspect to the Ascendant,
+and the Eleventh is in a Sextile, both of which, from their
+harmonious configurations, naturally become remarkable
+places for friendships and attachments between the sexes,
+the beginnings of which may be frequently and generally
+traced to those points, ofthe two, viz. the Eleventh and Fifth;
+the Eleventh seems to bear the greatest sway, although the
+Fifth stands very high in that respect; b passing these
+points, generally produce lasting attachments; it, not quite
+* The Sixth and Twelfth Houses.
+55
+so persevering; d retrograde, violent and hasty. Many
+Orbs surrounding these places at birth, indicate trouble
+and disappointment in attachments, particularly when
+posited in Bicorporeal Signs. The inferiors strengthen and
+complete combinations.
+THE TweLFTH AND SIxTH HousEs, or DIVISIONs.
+The passage of the Planets through these Divisions are
+the best situations for advancement in the world; they
+indicate, or show a disposition in the friends of the Native
+to assist and forward his views in the world. Of the two,
+I consider the Sixth to be the best; and violent configura
+tions, such as the opposition, 2 and 21, d, retrograde,
+or an opposition of 6 and 2/, which are evil and angry
+aspects in any other division of the Heavens, are fortunate
+in this instance; and while many persons who have these
+Aspects in the Tenth and Fourth are tumbling headlong to
+ruin, those persons who have these in the Sixth or Twelfth.
+of their nativities are rising in the world, doing well, and
+surrounded by friends; are pushing on to prosperity and
+fortune.
+N.B. Transit Tables of the motions of the Celestial Orbs
+may be had of the Author from 1790 to 1861.
+* -
+-
+* * ~ | -
+aid a dai ,
+* Londbal, I - . . . . . .
+lood - i.e.
+… . . . . . . . . … are f * *
+| | | | *
+, for . . . . . . . . . . … ."
+-
+* … . . . . . . …'… . . .
+- -
+LECTURE V.
+On the Natural Division of Human Life into Twelve
+Periods; which Periods are found to be remarkable for
+the Production of Changes in the Form, Constitution, or
+Habit of the Body, and also are observed to be attended
+by some important alterations in the Mind and Affairs.
+“As man, perhaps, the moment of his breath
+Receives the lurking principle of death
+The young disease, that must subdue at length,
+Grows with his growth, and strengthens with his strength,
+So cast and mingled with his very frame,
+The mind's disease its ruling passion came;
+Each vital humour which should feed the whole,
+Soon flows to this in body and in soul,
+Whatever warms the heart or fills the head,
+As the mind opens and the functions spread,
+Imagination plies her dangerous art
+And pours it all upon the peccant part.” Pop E.
+THAT there is a gradual and constant change, slowly and
+imperceptibly taking place in the human frame from the
+beginning at the egress of the helpless infant from the
+womb of the parent, and thence proceeding, till by length
+of years, and consequent decay of the vital and physical
+powers, it as gradually declines to original helplessness, or
+second childhood, and at last returns to the womb of his
+mother earth. This constant gliding from childhood to
+youth, from youth to manhood, and from manhood to old
+age, and from thence to decay and death, so insensibly
+proceeds, that the subject of these changes seldom feels it
+till opportunities for serious reflection occur, and then
+when old age comes on, he remembers with regret the
+57
+joyful ebulitions of buoyant spirits in the days of child
+hood, the gaieties and enjoyments of his youthful age, the
+unwearied exertions of the mature period of his life, the
+quiet relaxation from toil in the autumn of his days; and
+when contemplating with pleasure the energetic powers of
+the rising generation, he sees the image of himself
+improved, reflected in the intelligence of their youthful
+countenances—countenances in which appear concentrated
+all the fruits of the experience of the parent, and the
+promise of greater attainments, such as knowledge, with
+perseverance combined in the vigour ofdays, naturally tend
+to produce. Methinks I hear him exclaim, go on my chil
+dren, you have already the experience of sixty summers
+without one furrow of care on your cheeks; the temple of
+Fame is before you, and your names, carved in indelible
+characters, will be transmitted with honorable and untar
+nished memory as the example for succeeding worthies; and
+when my feeble body is mouldering into native dust, you
+will in turn inspire your offspring with emulation to become
+wiser and better than yourselves. These are the reflections
+which the winter of life, the enjoyment of the mental
+powers, the possession of affluence, with the blessing of an
+amiable offspring, will be calculated to call forth; but alas!
+as length of life, and the perfect possession of the other
+auxiliaries to happiness are given to so few, (comparatively
+speaking,) I shall moralize no further, but proceed directly
+with the subject; and it cannot, I consider, be denied there
+is a natural period, or time of rise, progress, decline, and
+decay, appointed for all things; which natural period is
+regulated and appointed by the Creator himself from the
+beginning. This is obvious, and there is a period of dura
+tion for animate matter as well as inanimate; and when
+the general time or limit of duration has been fairly com
+58
+pleted, the bodies, or substances, shrink and fall to decay,
+and become subject to decomposition or destruction of the
+fabric or materials of which they were compounded. It is
+clear then, there is a term of life appointed for human
+kind, the brute creation, and for every living thing that
+soars the air, thatswims the sea—in vegetativelife,for every
+tree and flower, that grows on the surface of the ground,
+and for every mineral production of the earth; for we find
+even mere matter, such as stones, are subject to decay in
+periods of time of greater or less space, according to the
+substance or nature of the material of which they are
+composed; but as my present business is that which concerns
+the life of man, and the gradual changes which take place
+therein, from infancy to old age, and in taking but a slight
+view of the subject, I conceive the most casual observer
+cannot fail remarking the difference ofcountenances among
+those persons of his acquaintance, at different periods of
+life, as also with the observation of others, such as how the
+infant grows, how the child has improved, how the youth has
+changed, how serious and steady such a one has become, he
+is quite the man of business; and in the latter part of
+life thus, I see old age and infirmity in the countenance,
+This being the case, and as changes in the human counte
+nance ever indicate the passions and workings of the mind,
+as well as alterations in the body, and as the mental motions
+are thus connected with changes in the affairs, hence it
+follows that such matters appear to go hand in hand with
+each other, and consequently that change in the body
+produce or bring forward others in the mind and feelings;
+and these agitations, in physical and mental powers, natu
+rally introduce alterations in circumstances and positions
+in life, depending upon the radical situation of the Celestial
+Orbs at birth and this I trust will be proved by examples
+59
+hereafter. The configurations which take place, of a good
+or evil tendency in the Heavens near the periods on which
+these natural changes in life are observed to happen likewise
+considered.
+The precise time of life when these changes happen,
+and their number, has been the subject of discussion among
+the ancient Physicians and Philosophers at various periods,
+from the early ages, even to the present time; yet all of
+them considering the life of man to be divided into four
+general periods, viz.-Childhood, Youth, Manhood, and
+Old Age," but arranged into seven ages.-R. Record, a
+Physician of the sixteenth century, in a work published
+1651, speaking of the alteration of the Human Frame,
+according to the differences of ages, says, “You shall
+understand that the chief differences are four, that is to say,
+Childhood, Youth, Manhood, and Old Age, for though
+there be commonly seven ages reckoned, yet those be four
+principal, and the other three be comprehended under
+these four. Childhood endureth from the hour of birth, till
+the end of 14 years of age, and is of complexion hot and
+moist; at the end of 14 years, beginneth youth, and lasteth
+till the 25th year, and this age of all others is most
+temperate; from 25 until 35 years; is the flourishing of
+Manhood, but yet that manhood lasteth (though not in
+full freshness) until 50 years of age, and this age is of -
+complexion hot and dry; from 50 years forward is the time
+of age, peculiarly called age, in which time, man’s nature
+is cold and dry.” This is the opinion verbatim of that
+author, and to which the great poet Shakspeare subscribes;
+and Moxon, in his Mathematical Dictionary, published1692,
+under the article Climacterical Years, gives the following
+definition, “Climacterical years, so called from the Greek
+word Climax,” (a gradation or rounds of a ladder, because
+* In accordance with the Four quarters of the year, Spring, Summer, Au
+tumn, and Winter.
+60
+they are the great steps, or remarkable degrees, whereby
+man’s life ascends, or mounts up to its appointed period.) are
+certain observable years, which are usually attended with
+some grand mutation of Life or Fortune, as the 7th year,
+the 21st made up of three times seven, the 49th made up
+of seven times seven, the 63rd being nine times seven, and
+the 81st being nine times nine, which two last are often
+called the grand Climactricks, in which many famous men
+have been observed to die. Not only the learned Heathens,
+but Plato, Cicero, Macrobius,&c. have written much of these
+Climacterical years, but several Fathers and Doctors of the
+church, as St. Ambrose, Austin, Bede, &c. have justified
+the observation, to be neither superstitious nor unpro
+fitable.” Thus far from those ancient Authors, and in
+page 55, (same work) under the article Enneatical Days, or
+Years, he has these words in explanation, “Every ninth
+day of a sickness, or year of one's life, which is thought to
+bring some great alteration in the disease, or mutation of
+fortune.”
+Astrologers have also assigned portions of the natural
+period of the human life to the Celestial Orbs, beginning
+with the orb of Luna, and from thence passing to Mer
+cury, Venus, Sol, Mars, Jupiter, and Saturn. Ptolemy,
+Tetrabiblos, Book IX. Chap. X. on the Periodical Divisions
+of Time, says, “The mode of consideration applicable to
+human nature is universally one and the same ; and it is
+analogous to the arrangement of the Seven Planetary
+Orbs.” He then assigns to the Moon the first four years,
+to Mercury the following ten, to Venus the next succeed
+ing eight years, to Sol the following nineteen years, to the
+orb of Mars the next fifteen, to Jupiter the next twelve
+* It will of course be remembered, that the Sun, in the Ptolemean Astro
+nomy, is counted as a planetary orb.
+61.
+years, and to Saturn the remainder of his life, which added,
+produces 68 years up to the time of his entering the last
+age. This arrangement of the Orbs appears natural to my
+understanding, and I only differ from that venerable author,
+in a slight degree, in the number of years or space of the
+division of time attached to each. Blanchard, in his
+Physical Dictionary, published 1715, speaking of Climac
+terical years, ridicules the idea of deaths taking place
+upon them, and considers there are as many deaths
+happen at other times (which I think reasonable); but in
+page 9 of the same work, under the article Ætas, he
+divides the Human Life into parts in the following manner:—
+“AEtas, part of the Duration of Life, wherein human
+bodies undergo a considerable and sensible change, and it
+is sixfold 1. Pueritia, Childhood, which is reckoned to
+the fifth year of our age, is distinguished into the time
+before, at, and after breeding of teeth. 2. Adolescentia,
+Youth, reckoned to the eighteenth, and youth, properly so
+called, to the twenty-fifth year. 3. Juventus, reckoned
+from the twenty-fifth to the thirty-fifth. 4. Virilis AElas,
+Manhood, from the thirty-fifth to the fiftieth. 5. Senectus,
+Old Age, from fifty to sixty. 6 Decrepita Ætas, Decrepit
+Age, which at last is all swallowed up in death.”. Thus far
+Blanchard. And it was from this data, joined with obser
+vations of many years standing, that ten years since, I began
+to turn my particular attention to this subject, as a general
+fundamental point, which appeared to lay a foundation for
+certain alterations in the active motive or principle; and
+to bring about such events in life, connected with the age
+or period appropriate thereto. Ptolemy, in Book IV. Chap.
+X of the Tetrabiblos,has been particularly careful to direct
+the Student to the consideration of this important part of
+the subject, in order to give consistency to predictions of
+events, from the Science of Celestial Philosophy: his
+62
+words are these, “Now, as in all genethlialogical cases, a
+certain, common, and general arrangement, affecting the
+region or country, and the race or generation is pre-supposed
+to be in operation, to which arrangement particular infer
+ences, relating to the form of the body, the properties of
+the mind, and national habits and variations must each be
+subservient; and as, in these respects, certain causes more
+general and predominating are pre-supposed in existence
+before particular causes, due care must consequently be
+taken, in order to make an inference consistant with the
+course of nature, to observe always the original and predo
+minating cause, and never to lose sight of it, lest some simi
+larity in nativities, (if any such should exist) might induce
+an assertion, when the original predominating cause pro
+ceeding from the region itself has been overlooked, that the
+native of Ethiopia will be born of white complexion, and
+with long and straight hair, or, on the other hand, that the
+native of Germany or of Gaul" will be black in complexion,
+and have curled hair, or, that the said nations are polished
+in manner and cultivate learning, but that the people of
+Greece, are barbarous and illiterate, and so, in short, of
+other countries, without duly considering the national
+differences and variations in the several courses of life.
+So also, with regard to the division of time, it is in the
+same manner essential to consider the different qualities of
+the severalages of life, and to pre-determine the appropriate
+fitness of every age to such events as may be expected, in
+order to avoid the gross error which might arise from a
+merely vague consideration of the subject, by attributingto
+infancy some deed or circumstance of too complete a nature
+and belonging to manhood, or by ascribing to extreme old
+age the procreation of children or some other action be
+*
+* France. f Ethiopia.
+63
+--~~~~ - - -
+longing to youth; and to adapt, on the contrary, to each
+separate age such circumstances as seem, by due observation
+of the periods, to be suitable and appropriate thereto.”
+I now proceed to the natural division of Human Life into
+periods which are agreeable to the Fundamental principle,
+laid down in page 61, with some alterations, the results
+of my own experience and observations. First, Pueritia,
+Childhood, which I divide into three parts, viz;—From the
+Birth to the conclusion of the first five years; from the age
+of five years, to the following six years, making eleven
+years; and then from the age of eleven to seventeen years
+complete. Second, Adolescentia, Youth, divided into two
+parts, viz;-From the age of seventeen to twenty-one, from
+twenty-one to twenty-five. Third, Juventus, also divided
+into two parts, viz;—From twenty-five to thirty years of
+age, and from thirty to thirty-five. Fourth, Virilis AEtas,
+Manhood, divided into three parts, viz;—From thirty-five
+years to forty-two years and six months, or near forty-three
+years; from forty-two years and six months, to forty-five
+years, and from forty-five to fifty years of age. Fifth,
+Senectus, Old Age, divided into two parts, viz;—From
+fifty to fifty-five years of age, from fifty-five to sixty years
+of age. Sixth, Decrepita Ætas, Decripit Age, which
+continues to the end of life, and whose duration depends
+on circumstances, the details of which will form part of the
+Second Course of these Lectures. * …,
+- The critical years of Human life then appear to be as
+follow:—The 5th, 11th, 17th, 21st, 25th, 30th, 35th, 43rd,
+45th, 50th, 55th, and 60th years. Of these the first five
+* These remarks, though unnecessary to the adept in the Science, are not
+withstanding, highly important to be understood by those persons at present
+unacquainted with it; and to such persons the Author of these Lectures parti
+cularly addresses himself. -
+64
+years, are under the general dominion of the Lunar Orb;
+from the fifth to the seventeenth, the orb of Mercury; from
+thence to the twenty-fifth, is appropriately governed by that
+of Venus; from twenty-five to thirty-five, the bloom of life,
+is appropriated to the Solar Orb; from thirty-five to fifty,
+generally the most active part, to the orb of Mars; and from
+fifty to sixty years, the orb of Jupiter; and from thence to
+the lastage, belongs to the orbs of Saturn and Herschel.
+These are shown in the Synoptical Table, page 15."
+* I shall here, for the Information of the reader, insert the words of the
+learned Ptolemy, from the chapter last quoted, on the qualities of the six gene
+ral Periods, altering in practice the number of the years given by that Author,
+to those of the authority from which I have taken the precise limits of each
+period.
+“Hence the first age of infancy, which endures for four years, agreeing in
+number with the quadrennial (I say quintaum) period of the Moon is con
+sequently adapted to her; being in its nature moist and incompact, presenting
+rapidity of growth, being nourished by moist things, and possessing a highly
+variable habit, its mental incompleteness is likewise in accordance with its
+familiar relation to the Moon and her operative influence.
+The age after this continues for ten years, (I say twelve) and accommodates
+itself to the second sphere of Mercury. In this period the intellectual and
+reasoning faculties of the mind, begin to take their character, imbibing the
+seeds of learning, and developing as it were the elements and germs of the
+genius and abilities, and their peculiar quality, the mind is also arroused to
+discipline and instruction, and to its first excercises. Venus corresponds with
+the next and third age, which lasts throughout the following eight years, (I
+say eight,) the number of her own period, from her the movement of the
+seminal vessels originates, as well as an unrestrained impetuosity and preci
+pitancy in amours. -
+The fourth and adult age next succeeds, and is subject to the fourth sphere,
+that of the Sun; it endures for nineteen years, according to the Sun's number,
+(I say ten,) authority of action now commences in the mind, the career of life
+is entered upon, distinction and glory are desired, and puerile irregularities
+are relinquished for more orderly conduct and the pursuit of honour.
+Mars next, after the Sun, claims the fifth age, that of manhood agreeing in
+duration with his own period, viz. Fifteen years, (I say fifteen years,) he
+induces greater austerity of life, together with vexation, care, and trouble.
+65
+It now remains to state for the Student's guidance, some
+necessary cautions to be observed in forming opinions on
+particular changes in affairs, connected with critical years,
+and here it must be kept in mind, that the situation in
+life of the parties must ever be taken into the account; for
+persons whosesphere of birth, places them in such positions
+with regard to their affairs, that no contingent circumstance
+can possibly happen in which personal risque or speculation
+will be concerned until the arrival ofsome particular period,
+depending either upon deaths or alterations in the affairs of
+persons, with whom they are connected, with such, these
+periods may, for a certain time, be likely to pass,with trifling
+alterations in circumstances, such as in cases of heirs appa
+rent of monarchs, of lineal expectance, of entailed estates,
+of preferment in government or national institutions, from
+the demise of seniority, and the improbability of warlike
+achievements in time of peace, and to those circumstances,
+where the parties are bound by the shackles and penalties
+of the law, bonds, deeds, apprenticeships, articles, or time
+bargains, and therefore cannot be subject to particular alter
+ations in public life, till such great events take place,
+although the changes of the body and constitution will
+succeed each other as usual, but nevertheless may be subject
+to mental agitation, or changes in domestic concerns, while
+those whose affairs are placed on a basis of less permanent
+description, and consequently are adventurers in life,
+Jupiter occupies the sixth sphere, and influences the mature age, during the
+twelve years, corresponding to his own period, (I say ten,) he operates the
+relinquishment of labour, of hazardous employment and tumult, and produces
+greater gravity, foresight, prudence, and sagacity, favouring theclaim to honour,
+respect, and privilege.
+Saturn, moving in the last sphere, regulates the final, old age, as agreeing
+with its chillness, he obstructs the mental movements, the appetites, and en
+joyments; rendering them imbecile and dull, in conformity with the dullness
+of his own motion.” -
+E.
+66
+will experience considerable alterations in those years,
+depending upon the nature of their employment, and also
+of the Configurations or Aspects of the Celestial Orbs, to
+the places of the Luminaries on the day of birth, and
+likewise to the Angles or other Divisions of the Figure of
+the Heavens, at the hour or minute of the day or night, if
+known.
+These cautions, duly considered and connected with the
+Four preceding Lectures, will throw considerable light
+upon the events of critical as well as other years of life.
+These years are readily obtained, by numeral addition
+to the year of birth: for example, a person born in 1800, the
+arrangement of the critical periods, will be thus, 1805,
+1811, 17 1821, 25 1830, 35 1842-3, 45 1850, 55 1860,
+which years will be observed to lay foundations for altera
+tions in the body, mind, or affairs, which will be fortunate
+or otherwise, according to the quality of the radical posi
+tions which have been the subject of the three First Lectures,
+connected with the effects of the combinations, found by the
+Planetary Orbs during the Transit or Passage through the
+Twelve Divisions of the Heavens, adjusted to the hour and
+minute of time," which has been the subject of the Fourth
+Lecture, keeping in view the exceptions.t. As an example,
+I shall call the Student's attention to the birth day of
+Napoleon, August 15, 1769, the critical years attending
+that distinguished character, will be 1774, 1780, 1786,
+1790, 1794, 1799, 1804, 1811-12, 1814; which years
+would be likely to lay foundations for changes in his affairs,
+calculated to bring forward introductions in the world, and
+events of a fortunate or unfortunate character, and without
+entering into changes of minor importance. I find him in
+his 25th year, at the close of 1793, coming into notice, in
+* If possible to be obtained. + See pages, 11, to 14, 17, 23, to 21.
+67
+the affairs of that eventful period, as a commander of the
+Republican artillery of the French nation,
+“Seeking the bubble reputation, even at the cannon's mouth.”
+In the year 1799, when he had attained his 6th period,
+or 30th year, he became the head of the Government of
+France, and was chosen First Consul. In the year 1804,
+when Napoleon had attained the 7th critical period, or
+the 35th year of his age, he became Emperor of France.
+The year 1812, which commenced the 8th period, viz. from
+42 years and 6 months, till 45, was remarkable for the
+production of the most prominently fatal events in which
+the destiny of Europe, of France, and of himself were at
+once identified; and before the close of the 8th period,
+(short as it was, being only eighteen months) Europe was
+emancipated, the French nation humbled, Napoleon abdi
+cated, and had taken up his residence in the island of
+Elba. The 9th period, commencing at 45 years of age,
+began in 1814; and in the beginning of the year 1815,
+we find him again before the public till the fate of the
+battle of Waterloo, which entirely blasted his future hopes,
+and became the closing scene of his greatness; and on the
+8th of August he set sail for the place of his banishment,
+and, eventually, that of his grave.”
+* The Student will be at no loss to discover the astral causes of the misfor
+tunes of the period, without the precise hour of birth, if he will consult an
+Ephemeris of the Celestial Motions for the years 1812, 13, 14, and 15. He
+will there find the orb of Herschel, in the sign Scorpio, in Quartile ray to the
+place of the Solar Orb at birth, and afflicting the radical place of the orb of
+Jupiter. And in the year 1813, the orb of Mars retrograde in opposite ray to
+the Solar place at birth, and also to that of the orb Mercury, from the sign Aqua
+rius, while the orb of Saturn was afflicting the radical place of the Lunar Orb,
+which took place in the year 1815; and on the 18th of June, the day on which
+that memorable encounter at Waterloo happened, the Lunar Orb was placed
+in the fixed sign Scorpio, in Trine aspect of Mercury, and in square, of the
+Solar place at birth, and in square of Herschel, while the orb of Mercury was
+68
+I now turn to the birth-day of his Grace the Duke
+of Wellington, May 1, 1769, at which time the Planetary
+Orbs were thus placed; © 2é near a Trine Aspect of the
+orb of Mars, a Sextile ray of Sol and Herschel, a Trine of
+* , a Trine of Pl, and also, applying to a Quartile
+Aspect of Venus the solar orb was in the sign Taurus, in
+Sextile to the orb of Mars, in Conjunction with Herschel,
+Sextile of the Moon, Sextile of h, and Opposition of l;
+from consulting the Ephemeris on the day and year in
+question, the Solar and Lunar Orbs will be found connected
+with each other, and the remaining Orbs, by the following
+Aspects: 1 Conjunction, 5 Sextiles, 1 Quartile, 3 Trines,
+1 Opposition, Total 11; while Napoleon had the lumi
+naries only, supported by 5 Aspects, in consequence of
+their births taking place in the same year. The critical
+periods will be nearly the same as 1774, 1780, 1786, 1790,
+1794, 1799, 1804, 1811, 1814, 1819, 1824, 1829, and
+1836; and accordingly, about the beginning of the year
+1804, we find this individual distinguishing himself in
+India as Sir Arthur Wellesley, His Grace being at that time
+35 years of age. After that time, we find him importantly
+engaged in the Peninsula War, but not prominently
+appearing in the Chronological Annals ofthat period. In the
+year 1811, then in his 43rd year, we find him again before
+the public. The year 1812 presented a succession of
+brilliant achievements; and in the beginning of the same
+year he was appointed generalissimo of the British forces.
+The year 1813 brought fresh honours, and on the 12th of
+May, 1814, at the close of his 45th year, at the commence
+ment of the 9th period, Parliament voted His Grace half a
+advancing to an opposite ray of the Lunar Orb, and that of Saturn was vibrat
+ing between the squares of the radical places of Sol and Mercury. These confi
+gurations will, I consider, sufficiently account for the disasters of that period.
+69
+* -
+*
+-----------
+million of money; and in July, (the same year) he was
+appointed Ambassador Extraordinary and Minister Pleni
+potentiary to the court of France. The year 1815 brought
+this famed warrior and Bonaparte in contact at Waterloo;
+and in the month of June, £200,000, was voted to him,
+while his less fortunate contemporary was preparing to
+leave France for ever. After that time we do not find him
+much noticed in the Chronological Records of England till
+about the 12th period, commencing at 60 years of age,
+being then Premier. I purposely abstain from further
+comment, as this Work is devoted entirely to the cause of
+Science, unconnected with political affairs of the present
+eventful period. I shall conclude this Lecture with recom
+mending the Student to a serious consideration of its
+contents, connected with the principles laid down in the
+preceding, confidently anticipating he will not lose his
+labour.
+LECTURE VI.
+-
+Of the Nature and Quality of Remarkable Congresses of
+the Two superior Celestial Orbs denominatedby Astrono
+mers the Conjunctions of Saturn and Jupiter, and of the
+Effects arising therefrom in the Affairs of Mankind in
+general.
+THESE remarkable congresses or meetings of the celes
+tial orbs, Saturn and Jupiter, have attracted the attention
+of the Students in the Science of Celestial Philosophy from
+the most remote periods; and theirindications, and observed
+effects on the affairs of Kings, Nations, Communities,
+Families, and Individuals have been the subject of parti
+cular notice, forming a prominent feature in that depart
+ment of the Predictive Science, called State Astrology;
+much, however, of the very great importance of these con
+gresses have been passed slightly over, and but few remarks
+have been handed to us in a systematic form so as to
+enable the Student to commence a regular course of expe
+riments, to obtain some introductory knowledge of the
+harmony of their periodical motions and effects.
+My present limits will not allow me to enter fully into
+the subject of their extensive operation, as also of the
+effects of Eclipses of the Luminaries, but in the following
+Series I intend publishing, I shall give the Student at
+length the substance of my observations thereon, reduced
+to a practical form.
+The conjunctions of Saturn and Jupiter are meetings of
+these Orbs in any point of the Heavens, in which they
+71
+appear to occupy the same sign, degree, and minute of the
+Zodiac. These meetings are periodical, and are observed
+to happen from Astronomical mean computation after a
+lapse of 19 Julian years, 314 days, and 13 hours, or, more
+correctly, 7251 days, 3 hours, 23 minutes, 24 seconds, and
+17 thirds; and these congresses are made regularly in each
+of the Twelve Signs of the Zodiac, in a retroceding order,
+at the distance of a Trine Aspect, or a third part of the
+circle, from each other: for instance, if a conjunction of
+Saturn and Jupiter took place in the sign Sagitarius which
+is the fiery triplicity, or Trigon, the following conjunction,
+after nearly 20 years had elapsed, would happen in the sign
+Leo, and the next after that, would fall in Aries, and the
+Fourth congress would fall in Sagitarius again, and so they
+would proceed, continuing for the space of about 200 years
+to hold these congresses in the same quality of Signs,”
+differing upon an average of about 3 degrees in Longitude
+from the place of each other, till after 10 conjunctions,
+made in the same triplicity or trigon, they would then
+change signs and commence a series of congresses in the
+earthy triplicity or trigon, commencing with the sign Virgo,
+and from thence passing to WP, and so on to 8, and after
+that round of nearly 200 years in the earthy triplicity or
+trigon, would then pass into the airy triplicity or trigon,
+beginning with the sign II, and passing from thence to ::,
+and from thence to n, till after the same period of 200
+years more, these superior Orbs would pass into the watery
+triplicity or trigon, beginning with the sign 9é, and passing
+T & 1 are Fiery Triplicates or Trigon.
+ö WP TR are Earthy Triplicates or Trigons.
+II + & are Airy Triplicates or Trigons.
+23 til 26 are Watery Triplicates or Trigons.
+72
+from thence to m, and from thence to g3, and after 200
+years more, they would again revert to the fiery trigon,
+beginning with the sign f as before. In this manner
+they have continued to make their radiations through the
+Twelve Signs, and four triplicities, beginning with their
+entrance into the fiery triplicity by the sign Sagitary 3958
+years before the Christian era, and thence passing alter
+mately through the others seven times, it appears they are
+now making the eighth circuit at the present time" of these
+conjunctions. Those which have happened at the entrance
+of the orbs of Saturn and Jupiter into the fiery trigons,
+have been denominated by Astrologers Great or Principal;
+while all others have been considered Mean or Lesser. The
+true astrological reason is, that the entrance of these
+Planets into the fiery trigons or triplicities, have always
+been attended by remarkable alterations in the affairs of
+the world, which reference to history will testify. Mandey,
+in his Synopsis Mathematica Universalis, page 339, speak
+ing of the periods of these great conjunctions, says “There
+fore, of such great conjunctions, there have only happened
+eight since the erection of the orb, with which always
+happen great things to be done; to wit,
+1. The Creation of the World, or our first Father, Adam.
+2. The taking away Enoch.
+3. The going forth of the Israelites from Egypt.
+4. The Nativity of Christ.
+5. The Restoration of the Roman Empire under Charles
+the VIII, which happened in the Christian Epocha,
+1604.”
+The congressional entrance of those Planets into the
+fiery trigon, according to Holwell, appear to be 3958 years
+before the coming of Christ, in the month of February, and
+* See Catastrophe Mundi, J. Holwell, 1682.
+73
+they met in the 8th degree of t , the 2nd was 3614 years
+ante Christ, in the month of November, in the 5th degree
+of 1 ; the 3rd 2370 years before Christ, in the month of
+December, in 8 degrees of t , the 4th 1575 years before
+Christ; and there were no less than three conjunctions of k:
+and 21 that year. The first was on March 12, in 9 degrees
+of 1 ; the second in May, in the 8th degree t ; the third
+was in September in 4 degrees of t ; and that author par
+ticularly directs the Student's attention to this triple con
+junction. The 5th congress in this sign happened 781
+years before our Saviour, in 13 degrees of f ; the 6th
+was A. D. 15, in 15 degrees of t ; the 7th was in the year
+A. D. 809, in 6 degrees of t ; and the 8th time, they met
+at the entrance of the fiery trigon in the year 1603, in
+8 degrees of the sign f, in the month of December, and
+in which trigon they will continue to make their conjunc
+tions till their entrance into the earthy trigon in the year
+1802. The final departure of these Celestial Congresses
+from the fiery trigon took place in 1821; and it will be
+nearly 600 years before they again meet therein. The
+importance of this trigon may be traced, by comparing the
+events of history therewith, and to prove this, I shall give
+my author’s own words: “For the benefit of the Sons of Art
+I will write a few remarks, which I hope will not be amiss:
+the first restitution of the fiery trigon after the world’s
+creation happened in Enoch’s time; the second happened
+about 36 years before the general Deluge, and that event
+happened under the influence of a conjunction of k and it
+in Q, and under the same triplicity and conjunction of k:
+and ), in r. 120 years after the Flood,was the Confusion of
+Languages, and the beginning of the Assyrian monarchy.
+The third, in Moses’ time, and the delivery of the Children
+of Israel from the Egyptian bondage, took place during
+the congresses of these Orbs through this trigon, and at the
+74
+conjunction of k and l in Aries, 1535 years before Christ
+was the Deucalions deluge. Troy was destroyed during
+the conjunction of k and l in my, 1198 years before the
+coming of Christ, that event taking place about six years
+after, under the conjunction of k and l in II, which
+happened 1059 years before the coming of Christ was
+London began to be built. Solomon's Temple was founded
+under the influence of k and l in *, that happening
+1019 before the coming of Christ. The Temple was began
+to be built 6 years after that. The Temple of Solomon
+was destroyed 626 years before the coming of Christ; and
+before that, 4 years, there was a conjunction of k and 2/
+in r, the oppsite sign to *, a thing worth taking notice
+of" 1528 years before the coming of Christ, there was a
+conjunction of k and l in mp. In that very year began
+the Persian monarchy; and 443 years before the coming
+of Christ, there was a conjunction of k and it in 8.
+Seven years after this began the Grecian monarchy; and
+45 years before the coming of Christ, there was a conjunc
+tion of k and 2 in m. In that very year, or very near
+to it, was the destruction of the Grecian monarchy, and the
+beginning of the Roman monarchy. Under the influence
+of a conjunction of k and 2 in t, Anno Domini 809,
+was the translation of the Western Empire to the Germans.
+761 years before the coming of Christ there was a conjunc
+tion of 2 and l in Q ; 10 years after that Rome was
+began to be built. Fifteen years after the coming of Christ
+there was a great conjunction of k and 2 in t, and the
+* This remark of the Author is borne out in a striking manner from testi
+mony in the instance of our Metropolis - he says, “London was begun to be
+built under the influence of a conjunction of h and 21 in II, so it hap.
+pened to be destroyed in the conflagration of 1666, three years after a conjunc
+tion had taken place in f, its opposite sign.
+75
+sixth time they began the fiery trigon; under this very
+conjunction began christianity, which faith shall continue
+till the very end of time. Six hundred and thirty years
+after the coming of Christ there was a conjunction of 2
+and l in mu under which influence Mohamet began to
+broach his opinions in the world. Many more examples
+may be found by any that are conversant in history; this
+that I have done being only to show which way Astro
+logy might be brought to a greater perfection than now it
+is.” And the same author, in a note, further observes,
+“Those families, kingdoms, cities, towns, and forts, and
+all manner of men that had their rise under the airy tripli
+city, viz. Gemini, Aquarius, Libra, must expect to have
+great catastrophe to happen to them during the time that
+K. and il maketh their ten conjunctions in the fiery
+trigon.” These observations I hand to the Student’s con
+sideration in the language of the author, in order that I
+may escape the imputation of foisting opinions upon the
+world without the concurring testimonies of the “Olden
+Times” to back my assertions. “That there is nothing
+new under the sun,” is a just remark, and which, in the
+present instance, is borne out from experience and conti
+nued observation of the effects of the conjunctions of these
+Orbs on the affairs of nations for a period of 5793 years,
+and which, when properly connected with the events of
+history, will furnish ample means of bringing the science
+of Astrology to greater perfection than it is at present.
+The truth of the observation of the author I have been
+quoting, on the subject of the Destruction of theTemple of
+Jerusalem, under the effects of a congress of these Planets
+in the opposite sign to that under which it was founded, I
+have also proved in a note as far as regards the Fire of
+London in 1666.
+I shall now quote another fatal instance, within our own
+76
+observation. In the Chronological account of the eras of
+the foundation of Public Buildings, I find this notice. “St.
+Stephen’s Chapel, now the House of Commons, Westmin
+ster, built 1115.” On reference to the various periods of the
+conjunctions of k and il, I find, in the year 1106 there
+was a conjunction of k and l in the earthy sign WF, and
+under which conjunction that building was raised. In the
+year 1834 that ancient building was destroyed by fire,
+under the influence of a conjunction of k and l, which
+took place in 1821, in the fiery sign r, and during the
+transit of the orb of k to the square of that conjunction, and
+the opposition of the planet d by retrograde apparent
+motion to the place of the conjunction under which
+it was founded, and to which the Lunar Orb, on the
+might in question, was in opposite ray to the Sun." This
+structure, founded under a conjunction of k and 2 in VP,
+and from that circumstance taking place in a Tropical
+Sign, becoming a place of the highest importance in
+government and legislation, and the destruction of that
+edifice under the violent influence of the Celestial Orbs by
+evil aspect in signs of the most public description,t in
+quartile or opposition to those points, will, I trust, arouse
+the attention of all persons to whom the advocation of the
+cause of truth is a desirable object. Those who are scep
+tical on this matter, I request they will examine and judge
+as they themselves would wish to be judged. Let them
+remember there are points on which all persons differ in
+opinion from each other, and that “Truth (as Dr. Watts
+in his Logic observes) lies at the bottom of a well;” and
+also, that the material which I submit to them to bring her
+* See the Ephemeris for 1834, and the places of the Celestial Orbs on the
+16th of October.
+f See the Synoptical Table, page 15.
+77
+treasures to the surface is not that of sophistical reasoning,
+but fundamental truths, founded on long-tried experience,
+joined with patient research, divested of enthusiasm, and
+with a constant conviction before me of the difficulty of the
+subject, I shall, in theSecond Series ofthese Lectures,devote
+considerable space to the investigation of the operation of
+these congresses on the affairs of individuals of all classes
+of society, as also some points of importance connected
+with other branches of the Science of Celestial Philosophy.
+I cannot however close this Lecture without one more
+observation on the chain of effects which seem linked with
+the affairs of individuals, from the pen of the indefatigable
+John Partridge, whose writings on the subject of Celestial
+Influence have long rendered his works interesting and
+valuable, and which I have extracted from his “Merlinus
+Liberatus, 1703”; his words are these, “Having often
+mentioned the great conjunction (in my judgment) on this
+year, (i.e. 1703) it cannot be improper to say something
+concerning it, because it is the greatest that hath happened,
+or will happen, for many years past or to come. It is the
+first that hath happened in Aries since their entrance into
+the fiery trigon, and will give sufficient demonstration of
+its power and force before many years are expired, and this
+as well in the fate of princes and great men, as in kingdoms
+and countries, &c. Nay, I might have said in the fate of
+men of all degrees and capacities; for whosoever hath the
+conjunction on his mid-heaven ascendant, sun, or moon,
+or in quartile, or opposition" to them, will be sufferers
+most certainly under bad directions; and this not only
+* By this, the Author means the congress of these orbs in that sign of the
+Zodiac passing the meridian, or occupying the 1st and 7th Divisions at thetime
+of their births, also in conjunction with the radical places of the luminaries at
+birth, or in the Quartile or Opposition thereto.
+78
+according to the usual effect of the direction only, but also
+according to the fate of the conjunction, and all those that
+have the conjunction in Sextile, but chiefly in Trine to
+these points" will find themselves advanced and preferred
+in all capacities whatsoever; and this not only pursuant to
+the good directions they are under, and their effects, but
+according to the fate of the conjunction likewise, and this
+I do recommend to all the lovers of Astrology in general,
+but to the genethliacal men in particular, in whose province
+it will naturally lye, to consider this doctrine in all sorts
+of nativities and see if what I say doth not prove true in
+the matter; I have observed it in the progress of the last
+conjunction in Leo (being of the opinion before) and found
+more truths than at present my time or room will admit of
+However, take two or three examples. Charles II. had
+his Mars on the place of the conjunction in square to his
+moont, and when his sun came by direction to those points
+it not only cost him his life, but embroiled his government,
+and this all the time from the conjunction, to his death.
+(I cannot help again interrupting the reader with the fol
+lowing remark, viz. the conjunction of 2 and 2 in 1802,
+was celebrated on the radical place of the orb of Mars on
+the birth-day of the Emperor Napoleon.) King James II.
+* It may be here necessary to state the number of degrees of distance in the
+Ecliptic each aspect contains. -
+A Conjunction, improperly called an Aspect, is the meeting of two Celestial
+Orbs in the same sign, degree, and minute of the Ecliptic, or Zodiac.
+A Sextile is when they are sixty degrees apart from each other.
+A square, when ninety degrees distant.
+A Trine Aspect, one hundred and twenty.
+An Opposition, is one hundred and eighty degrees, or half the circle.
++ By this, the Author means the place in which the meeting of the Celestial
+Orbs alluded to took place was in the same sign occupied by the orb of Mars
+at that unfortunate Monarch's birth, andin a Square Aspect to the place of the
+Lunar Orb also.
+79
+had the conjunction on his ascendant; what effect it had on
+him you all remember. But besides, this is such a conjunc
+tion that perhaps hath not been seen or at least observed.
+The superiors met in May 1702, and Mars in Capricorn in
+square to them; they continued within three or four degrees
+of each other all the summer after, and all that time Mars
+in quartile to them. Then in January, 1702-3, on the 4th
+day, Saturn and Mars are in 4 degrees of Aries, and Jupi
+ter in 8, but because of their latitude there will be some
+distance between them; therefore, if you observe at their
+rising on the 18th, 19th, and 20th of January, you will
+find them altogether, (if it were possible to see them) and
+Mars the most north of the three, therefore most elevated
+and strongest of them all, therefore will govern most in the
+effects,which I fear mankind will find to their cost; as to the
+meaning of it this is my opinion: that for the first six or
+eight years from the Conjunction, there will be wars and
+mischiefs, that will impoverish the earth by their continuance,
+but managed by craft and trick; but after or about ten or
+twelve years there will be a war with a witness, such a one
+that will shake the powers of the earth to pieces, and begin
+such a reformation as hath been wanted and expected a long
+time; then they will fight in earnest, the strong arm shall
+hew down the mighty, and the invincible shall be con
+quered.”
+These remarks, I consider will be calculated to prepare
+the Student for further investigation, and will, no doubt,
+firmly establish these things beyond dispute, as also open
+an extensive field for further research. The passage which
+appears in italics is printed in the same manner in the
+original, and was, no doubt, intended by the Author to be
+particularly noticed by the reader. I merely add, the year
+1821 produced a similar meeting of the Celestial Orbs in
+the sign r, and applying the words of the Author to that
+SO
+date, it reaches as far as 1831 and 3; and certainly Refor
+mation appears to be making rapid strides since that year
+(1821) and will, we may hope, be fully accomplished before
+the next conjunction in 1842, as the influence of the fiery
+trigon will then leave us for about 600 years.
+C O N C L U S I O N.
+READER! whoever thou art, be thou friendly toward the
+Science of CELESTIAL PHILosoPHY, as being a Study cal
+culated to render man wiser and better; or, be thou opposed
+to its principles, as rendering him more enlightened than he
+ought to be, of whatsoever class thou mayest belong, thou
+hast equally my good wishes. I request thou will read these
+pages attentively, and thou wilt find simple truths, and
+ungarnished food enough for thy mental powers. I have
+not swelled this Work so as to cause inconvenience, yet thou
+hast the experience of thirty years laid before thee: take it,
+improve upon it—or condemn it, whichever thou wilt, for thou
+canst not in truth (I well know) utterly deny it; and that
+length of years, and the benevolent indications of the Celes
+tial Orbs presiding at thybirth may ever attend thy progress
+through this world is, to thee and all mankind generally, the
+sincere wish of ZUR.I.E.L.
+"T--
+J. SMITH, Printer, 49, Long Acre.
+By HIS MAJESTY's
+3Ropal Metters patent,
+-
+IS PARTICULARLY RECOMMENDED,
+Dr. Sibly's
+RE-ANIMATING
+SOLAR TINCTURE;
+Pabulum of Life.
+HE refearches made by Dr. SIBLY into philosophical and
+chemical enquiries; his long and laborious application to the
+ftudy of fecond causes, which are hidden, occult, or fpiritual ope- .
+rations of Nature in all her works; the chemical analyzation of
+medical plants, herbs, and minerals; a contemplation of the human
+tructure, with the principles of life and death; a minute investi
+gation of the ancient and modern practice of physic; of hereditary,
+accidental, and acquired difeafes, and the dreadful confequences of
+a mistaken or misguided treatment of them, are the fources whence
+the medicine is recommended to the notice of a candid and difcern
+ing public.
+It is a melancholy fact, too long established to be doubted, that
+more than two thirds of the human race perish by improper manage
+ment or neglect, either in the helpless years of infancy, in the riper
+years of juvenile indifcretion, or in the more advanced flage oflife,
+when a tainted or fcorbutic habit has undermined the conflitution,
+and brought on a complication of maladies, as difficult to cure as
+the common remedies are in general remote from the purpose. But
+ftill more shocking is it to every fentiment of humanity to reflect,
+that fome hundreds, perhaps thoufands, of valuable members of
+fociety are annually torn from their difconfolate families by fome
+accidental fudden cause, and hurried thoughtlessly to the grave, in
+whom the principles of life were capable of being revived: This la
+2
+mentable truth has been established by the happy fuccefs of the
+Humane Society, from whose laudable exertions feveral hundred
+perfons have been reflored to life, who, to all vifible appearance,
+were paft recovery. Every age and country affords fome instances of
+perfons having been recovered, even after lying long for dead; and
+from the number of those preferved by mere lucky accidents, it is
+evident still greater numbers might be faved by timely pains and kill.
+With this benevolent view, the prefent medicine was attempted;
+strengthened by the confideration that all diforders, originating in
+the blood, might either be prevented or repelled, could a medium
+be discovered for infusing immediately into the mass a fluid combina
+tion of fuch elemental principles as the blood and juices themselves
+confist of in their pureit state; for this, in fact, is the aim of all
+medicines, but which they miss by being administered in their grofs
+form, and obliged to país the feveral digestive operations of the
+flomach before they can reach the blood, whereby the principal
+part of their occult virtue is loft among the food, or fecreted in fuch
+fmall quantities as to have but little effect. A medium, poffeffing
+these principles, and fo combined as to be taken instantly, and
+without diminution, into the habit, would not only keep the cruor
+and the ferum in due proportion, which is fo effential to health, but
+would stimulate, correct, purify, and augment the blood, as its
+reduced or disordered flate might require. Such a medium is the
+SOLAR TINCTURE; and fuch will be found its operative effects,
+under whatever circumstances it may be administered; the innocent
+and balfamic qualities of which are as grateful to the internal organs
+of the human frame, as the folar rays are cheering to the external.
+This medicine was undoubtedly known, in fome meafure, to the
+ancient philosophers; but, from its expenfive and laborious alche.
+mical preparation, has been long loft to mankind. Not a fingle drop
+can be produced under many weeks digestion; and the elements of
+which it is composed are obtained with till greater labour and diffi
+culty, being extracted from the four effential properties which com
+pose the univerfal PABULUM of NATURE; whence it is neither
+affected by change of weather or climate, nor by heat or cold; nor
+does it fuffer any diminution of its firength or virtue by remaining
+open, or uncorked. The difcovery of it has coff the Proprietor up
+wards of ten years close application to practical chemistry. The
+experiments he has made with it upon a variety of diseafed wretched
+objects exceed belief.
+For the RESTORATION of LIFE in CASES of SUDDEN
+DEATH.
+THose who have tudied the admirable construction of the
+human machine, know that its diffolution cannot maturally
+happen, but by a general decay of the whole fyftem, when the veffels
+become impervious to the fluids, the circulation weakened or de
+firoyed, and the vital organs no longer able to perform their office.
+But when their functions are merely fuspended by fome fudden
+shock, it may be likened to the state of a watch flopped by a fall,
+which refumes its motion the instant that injury is repaired. In the
+animal economy, “the "BLOOD is the LIFE;” therefore, if its
+circulation be fufpended or destroyed, death follows. But if the
+blood can be re-agitated, and its circulation resumed, life will of
+neceflity be reftored. For this reafon, whenever any accident has
+happened, by which fudden death appears to have taken place,
+* Levit.xvii. 13, 14, Deut. xii. 23.
+3
+whether by blows, fits, falls, fuffocation, trangulation, drowning,
+apoplexy, convulsion fits, thunder and lightning, duelling, or the
+like, let the unfortunate perfon be carried into a warm house, and
+laid by a fire, or put into a warm bed; let two or three table fpoon
+fuls of the Solar Tincture be introduced as early as poffible into the
+ftomach, and rubbed profusely in by a warm hand, upon the fpine
+of the back, loins, breast, and region of the heart, and poured into
+the wound, if there be any; the warm, stimulating quality of the
+medicine, affifted by the external heat and friction, will quickly
+roufe the stagnant blood and juices, particularly in the grand refer
+voir, the heart; where, rarefying, prefing every way, and being
+refifted by the valves, it will fuell fo as to fill the flaccid right
+auricle of the heart, which by the shock had become empty and at
+reft, and thus stimulating its fibres, will put them into motion. The
+right auricle being thus filled, and ftimulated into contraction, fills
+the ventricle, which by these means being irritated, likewife con
+tracts and empties itself into the pulmonary artery; and the moment
+this is done, the circulation begins again where it left off, and the
+lungs, being thus filled by the dephlogisticated air contained in the
+medicine, begin to act, and life is restored, provided the organs and
+juices are in a fit disposition for it, which they undoubtedly are
+much oftener than is imagined. Nor is this stimulating action of
+the Tincture upon the heart at all furprising; for every medical
+man knows, or ought to know, that the heart, even after it is taken
+out of the body, if it be pricked with a pin, or hath warm water
+thrown upon it, will beat afresh, and endeavour to exert its func
+tions, though for fome time before it had been motionless. No
+perfon, therefore, ought to be confidered dead, until the energy of
+the blood is fo far gone that it can never again be agitated fo as to
+fill and timulate into contraction the right /inus venofus and auricle
+of the heart.
+When the patient is thus far recovered, he ought to be treated
+with great care and tenderness: and fome warm milk, wine and
+water, elder-flower tea, or any nourishing fpoon meat, should be
+given to him as foon as he appears capable of taking food. In fome
+cases it may be neceffary to open the temporal artery and the exter
+nal jugular, or to bleed in the arm; but this should never be done,
+if it can fafely be diffenfed with, as it certainly weakens the animal
+principle, which it is the first object of this medicine to strengthen.
+Under different circumstances, and as particular occasions may re
+quire, the rules recommended by the Humane Society will be found
+of confiderable advantage. Above all, let me entreat an anxious
+perfeverance in this fublimest of all virtues-the attempt to recover
+perishing lives. Humanity calls for it in the most moving accents;
+and, what can inspire a good heart with more fincere, perfect, con
+fcientious, and commendable fatisfaction, than a retrospect of fuch
+.ndeavours as have been generously exerted, and fuccessfully con
+tributed to recover, perhaps to restore, the life of a fellow creature
+from that most deprecated calamity, fudden death, with its alarming
+retinue of threatening confequences to thofe who die unprepared?
+fince, by thus preserving a finner to a future period, perhaps a foul
+may immerge in full maturity to felicity which hall have no end.
+To demonstrate the reanimating power of the medicine, experi
+ments may be made upon a fowl, lamb, cat, dog, or any animal, '.
+plunging them under water until they are apparently dead by fuf
+focation, or an electrical shock; for fudden death, howeve it hap
+4.
+pens, whether by drowning or otherwife, is much the fame as to its
+effects on the vital organs, confequently they are all to be treated
+in a fimilar manner.
+for the SCROPHULA, SCURWY, and all IMPURITIES
+of the BLOOD and LYMPH. -
+Those who have perused the Preparer's Medical and Philofophi
+cal WORKS, will more readily credit the aflonishing powers of the
+SoLARTINCTURE, which, in all cafes of inveterate fourvy, lepro
+fy, king's evil, rheumatic gout, palfy, nervous affections, afthma,
+confumption, dropsy, and in all disorders arifing from an impure or
+impaired state of the blood, is a radical and certain cure.
+“In the BLOOD is the LIFE/"—and no longer than is this vital
+fiream kept in due circulation, pure and uncontaminated, can the
+body be preferved in health and vigour. Hence the infinite variety
+of complaints an affected tate of the blood induces, and hence the
+new and deceptive forms a fcrophulous taint puts on, which often
+deceive the mof eminent of the faculty, and baffle the best intentions
+towards a cure. An impure or fcrophulous taint will remain in the
+habit for years, nay, for generations, undifcovered; and will invade
+the noblest organs of the human frame before the patient can be
+aware of his danger. In the first stage of its visible effects, a weary
+pain seizes the joints and muscles, attended with the wasting of the
+legs and loins. In the fecond stage, the gums fuell, grow painful,
+hot, and irritable, and bleed upon the flightest preffure; the roots of
+the teeth become bare and loofe, and the breath naufeous. In the
+third stage, the gums grow putrid, the teeth black and rotten, the
+fublingular veins become varicofe, and the breath cadaverous; foetid
+blood distils from the lips, gums, mouth, nose, lungs, stomach,
+liver, fpleen, pancreas, intestines, womb, kidneys, &c. feabs and
+ulcers break out in all parts of the body; and the joints, bones,
+aud vifcera become morbid. In the fourth stage putrid, eruptive,
+and fpotted fevers enfue, which end in an atrophy; or else follow
+diarrhoeas, dyfentery, dropfy, confumption, palfy, contractions,
+melancholy, and all the long and direful train of nervous diforders,
+which to defcribe would fill a volume.
+To counteract this most virulent of all chronic complaints, which,
+fcripturally fpeaking, feems to contain the folemn fentence of
+punishing the fins of the fathers upon their children, even to the third
+and fourth generation, the utmost exertions of human skill have
+been employed. The remedies prefcribed in its different stages are
+almost innumerable The object is to reduce the virulence of the
+infection, and to eradicate its feed from the blood and lymph; to
+which end the mildest and most fimple medicines are recommended.
+Mineral and tar waters, for their warm and stimulating quality;
+milk or whey, from their fimilitude to the chyle; the cold baths,
+or bracing the folids and quickening the circulation; antifcorbutic
+vegetables, &c. for purging and funeetening the blood; fuch as
+fcurvy-grass, water-crefles, wormwood, hemlock, centaury, vervain,
+water-trefoil, juniper-berries, the Peruvian bark, faffafras, guaiacum,
+aloes, affafoetida, camomile, diacordium, faffron, fenna, rhubarb,
+manna, AEthiop's minerals, hartshorn, native cinnabar, antimony,
+&c. But, when these fail, mercury, or a mercurial falivation, is
+looked upon as the only cure; which, in fact, is but to give the
+human frame its last vehement shock, and fend the wretched patient
+in agonies to the grave!
+The intention of these remedies is to impregnate the blood with
+--- -- -------, *
+5
+qualities opposite to those with which it is infected; and this must
+be done in a fuperior degree of force and power before a cure car.
+be completed. But these medicaments are often administered under
+fuch naufeous forms, and in fo crude and unqualified a state, that
+they not only torture the patient, but miss entirely their intended
+aim. The naufeous taste of medicine is nothing but its groffer par
+ticles; which, inflead of entering the stomach, to irritate and op
+prefs its organs, should be drawn off by chemical process; for it is
+the occult virtue of every drug, not its groffer part, that performs
+the cure. Now the peculiar property of the SoLARTINCTURE is,
+that it combines the effential and occult virtues of all foorbutic ve
+getables, ready digested, concocted, purified, and refolved into an
+elegant balsamic effence, pleasing to the taste, and grateful to the
+tomach. It flies immediately to the heart, whether internally or
+externally applied, blends and affimilates with the venereal and ar
+terial blood, which it generates, corrects, warms, purifies, ani
+mates and impels through the whole fyftem. It cleanses all the
+vifcera, and glandular parts, particularly the lungs and kidneys;
+timulates the fibres, whereby the gastric juice and digestion are
+promoted; diffolves wifcid humours, and expels infection. It exerts
+very confiderable effects on the whole nervous fystem, fenfibly raises
+the pulfe, trengthens the folids, and invigorates the animal fpirits
+It penetrates into the most intimate parts, opens the mouths of the
+minuter veffels, restores the natural perfpiration, and promotes all
+the fluid fecretions. In every stage of this dreadful complaint, and
+in all those fudden epidemical disorders which usually follow from
+a wet, putrid, and unwholefome state of the atmosphere, it is an
+absolute fpecific; and, as a PREVENTIVE, an ALTERATIVE,
+and PURIFIER of the BLOOD, it has not its equal in the world.
+D I R. E. C T I O N S.
+In the first and fecond stages of this disorder, a fmall table-fpoon
+ful of the Tincture, taken in a wine glass of cold fpring-water night
+and morning, will prevent the further progress of the disease, and
+in a very short time restore the blood to its healthful state, the effects
+of which will be fo obvious to the patient, that he will be at no dif
+ficulty when to difcontinue the medicine.
+In the third stage, it is often requifite that the medicine be inter
+nally and externally applied. The mouth should be frequently
+washed with the Tincture diluted in warm water, and it will very
+foon expel the poison from the gums. If the vifcera be in a morbid
+flate, which may be known by the excrements, or foulness or ex
+pectoration, it will be neceffary to take the medicine night and
+morning, for feveral days, in the quantity of a table-fpoonful, un
+diluted; and at noon a table-fpoonful in the fame quantity of warm
+water. The feabs, whether dry or moist, should be frequently wash
+ed with the Tincture undiluted, which, being absorbed by the mi
+nuter veffels, and taken into the habit, will expel the humour, and
+clear away the fourf. If tumours or foul ulcers occur, wash them
+frequently with a dilution of the medicine in the fame quantity of
+warm water, until the heat and virulence be abated: then apply the
+Tincture undiluted, with lint, or fine rags, by which means the in
+fectious matter will be totally eradicated, the blood and juices puri
+fied, and the ulcers healed.
+In the fourth stage, whatever may chance to be the fad malady to
+which the diforder ultimately turns, a strict attention to Regimen,
+Exercife, and fresh Air, as far as the firength and condition of the
+6
+patient will admit, must be particularly attended to. And in all
+these cafes, the best and most fimple methods of treatment are laid
+down in the Family Physician, to which I beg leave to refer every
+patient in this dreadful flage of the diforder; and in aid of the ad
+vice there given, let the Solar Tincture be regularly perfifted in
+every night and morning, in the quantity of one table-fpoonful in as
+much warm water; and at twelve o'clock at noon, take a table
+fpoonful undiluted. Let this be continued eight or ten days; then
+take a table-fpoonful diluted in warm water three times a day, viz.
+morning, noon, and night, till the nerves and organs begin to re
+fume their healthful tone; then let the doses be gradually abated to
+a poonful in water every other morning, which should be continued
+till health is perfectly re-established; and which, by God's blesfing,
+will generally happen in these defperate cafes in the course of a
+month, or fix weeks. -
+As a preventive of all foul or fcrophulous taints in the habit, and
+as an alterative and purifier of the blood, it may be occañonally
+taken every other morning for a week together, particularly in the
+fpring and fall, in the quantity of a table-fpoonful in a wine glass of
+cold fpring water: or it may be occasionally taken as a beverage
+after dinner or fupper, mixed in a tumbler with warm water, and
+made palatable with fugar. It will be found pleafant to the taste,
+and grateful to the fomach, fuperior to any fpirits or punch.
+Of COMMON MALADIES.
+THE warm and renovating qualities of the Solar Tincture render
+it the best medicine for relaxation, debility, laffitude, tremors, fink
+ing of the spirits, and all those nervous affections which harafs and
+oppress the weak, fedentary, and delicate; and are often the con
+fequence of high living and luxurious indulgence, without bodily
+exercife and fresh air. In all thefe cafes, the Solar Tincture is
+calculated to warm and teady the cold tremulous nerves; to heath
+and invigorate the mufcular fyftem; to animate the fpirits, and re
+novate the whole man; whereby the chilled watery fluids become rich
+and balíamic, and the circulation refumes its healthful tate. It is
+an infallible cure for the joint aches, cramp, fpafms, rheumatic
+gout, nervous head-ach, agues, and all diforders arifing from ob
+ftructed perfpiration. In complaints of the breaft, flomach, and
+bowels, it gives immediate relief; and in asthmatic and confumptive
+cafes, is an elegant and expeditious cure. It will stop mortification
+in very advanced stages, by expelling the poifonous matter, and cor
+recting the juices of the whole body. It requires no argument to
+convince, more than a fingle trial; after which, no families who
+value their health or life will choose to be without it.
+As the Reanimating Solar Tincture is both a corroborant and
+bracer of the mufcular and nervous fyftem, and the habit of many
+perfons being too costive, the Doctor is induced to recommend in
+fuch cafes the use of his Opening Powders twice a week. The
+Powders are fold by every vender of the above medicine, at two
+ihillings and fixpence a packet, with directions.
+TABES DORSALIS.
+THE confumption incident to young perfons of falacious dispo
+ñtions, is fo little treated of by the ancient practitioners of medi
+cine, as well as through the delicacy of modern physicians, that an
+adequate idea of it cannot be collected from their writings. It is
+neceffary then to fay, that the first fymptoms of the Tabes Dor/alis
+7
+are easily discerned by involuntary nocturnal feminal emisions; pains
+lin the back, as well as often in the head; formication of the fpine;
+aching pains, and laxness of the teflicular arteries; weakness of
+fight; defect of memory; a mucous discharge from the urethra after
+excremental exertions, which are fucceeded by an extreme dejection
+of the mental faculties; and, contingent to these, are an incurable
+gutta-ferena; meagre visage; emaciated body; irregular asthmatic
+fenfations, which, preceding a fyndrome of hectical complaints,
+ultimately close the fatal catastrophe.
+What can produce fuch alarming indications of immature debi
+lity ? Is it the unfeemly practice, the folitary vice, which reason,
+which nature condemns ? Suffice it to fay, that it is highly incum
+bent on those who have the care of feminaries to beware of the
+hidden evil—the Onanian mischief—and prevent its growth ! The
+Physician's duty is to prescribe a cure to the already afflicted.
+The Solar Tincture, by its fortening, healing, and tonic qualities,
+as well as by its prolific and falutary effects, affords a fure profpect
+of returning strength, and a certain hope of muscular invigoration,
+to thofe who can have fufficient refolution to defift from the baneful
+practice.
+G E N E R A L D I R. E. C T I O N S
+For REANIMATION, and for all SCORBUTIC CASES,
+and IMPURITIES of the BLOOD-fee under their re
+/pective heads.
+ScRoPHULA AND w EAK Co NSTITUTION.
+SIR, Academy, Wantage, Berks.
+To you (who profess to be the friend of man) it must undoubtedly
+be peculiarly fatisfactory to hear of the efficacy of a medicine, with
+the difcovery of which you have been honoured by the Parent of the
+Universe. I am in the number of those who have experienced the
+beneficial effects of your Solar Tincture, for which I defire to be
+thankful to God, and to return you my warmett acknowledgments.
+I have, from my childhood, been afflicted with a fcorbutic complaint,
+attended with a nervous diforder, which first difcovered itself by
+weak eyes, and cutaneous eruptions, in different parts of my body
+but with greater virulence in my face. As I grew in years, the dif
+order increased, which induced me, at the age of 16, to read phy
+fical books, in order to obtain a remedy. The medicine I fixed of.
+was Cream of Tartar; but, foolishly fupposing that the more I took
+the fooner I should obtain a cure, I drank it constantly in water witn
+my meals, till at length my blood became fo thin, that, without any
+extraordinary exertion, my nofe has bled to fuch a degree, as
+to render it neceffary to stop up my nostrils with tow, flour,
+&c. I then found it neceffary to defit from the use of thismedicine;
+but not fatisfied to continue in my then difagreeable fate, without
+fome effort to obtain relief, I took artificial Cheltenham water, but
+to little better purpose than the former. About this time, I had
+the misfortune to kick my ancle, which, from a flight feratch, pre
+fently became a wound, accompanied with a very violent humour,
+extending from the fole of the foot to the knee. This fubjected me
+to confinement and inactivity for nearly a year and a half. At this
+period I began upon Maredant's Drops, which did me confiderable
+fervice; afterwards I had recourse to Dr. Waites's Gingerbread
+Nuts, but finding little benefit I defifted from the use of medicine.
+In the mean time, having a great deal of business upon my hands,
+8
+-------, -
+and rifing very early to tudy, I contracted a nervous head-ach,
+which was fo violent as to render it painful for me to hear or play
+upon the Piano Forte. In the autumn of 92, I again had recourse
+to medicine, but could not obtain a cure. About Michaelmas I
+raw your advertifement, and bought a bottle of the Solar Tincture,
+from which I experienced fo much benefit as induced me to continue
+in the use of it. I have taken nine bottles, and hope, by a little
+longer continuance in the use of it, to obtain a perfect cure.
+I am, Sir, with due respect, your humble fervant,
+JOSEPH DEAR,
+[See Dr. SIBLY's MEDICAL MIRRoR, p. 118.]
+-
+For WEAK NERVES and LOWNESS of SPIRITS.
+TAKE a table-fpoonful of the Tincture, diluted in an equal quan
+tity of cold foring water, every forenoon, at eleven or twelve
+o'clock, or fourteen succeffive days; then use it every two or three
+days for a month, and the complaint will be entirely relieved, as
+patients will fensibly feel, by their alertness, activity, and unusual
+flow of natural spirits. -
+SIR,-I have for fome years, laboured under a fcorbutic taint of
+blood, with fpurious windy complaints; within thefe few months also
+my legs began to well,and eruptionsbroke out in them toavery alarm
+Ing degree. Being nearly eighty years of age, I almost defpaired of
+receiving any relief from medicine, till I was prevailed on to make
+trial of your Sol.ARTINCTURE. After fome perfuasion, I confent
+ed; and, though bro:ght to your house in a coach (for I was not
+able to walk) for your advice, I made use of your Solar Tincture,
+according to the printed directions, and was able, not only to walk,
+but my legs returned to their usual fize, perfectly recovered, and the
+foorbutic complaint totally removed.
+I think, in justice to fo valuable a medicine, I could not do other
+wife than request you to publish my cafe, and the wonderful cure
+on one fo aged and debilitated. I am, &c.
+Robinfon's Lane, Chel/ea. J. GARDINER.
+[See MEDICAL MIRRoR, p. 122.]
+-
+For MUSCULAR DEBILITY, or an ENFEEBLED
+CONSTITUTION.
+LET the patient take one table-fpoonful night and morning, for
+mine days, in an equal quantity of warm water; then reduce it to
+one fpoonful per day, for nine days more; after which, the quan
+tity of one fpoonful in a glafs of cold fpring water every other day,
+for ten days, will usually be fufficient. It may afterwards be taken
+every two or three days, as the patient may himself think neceffary,
+or as the state of his constitution may feem to require, which he will
+find furprisingly recovered, his mufcular ftrength and vigour returned,
+and all the fluid fecretions promoted and restored. Should it be fuf
+pected that any impure taint is lurking in the blood, either from the
+lues venerea badly cured, or the dangerous use of mercurial remedies,
+it will be neceffary to continue the medicine for a longer time, and
+never to omit taking it every fpring and fall. The reason for this is,
+that when mercury does not cure, it fixes the difeafe firongly in the
+habit, and the patient is ever after fubject to the ferophula.
+SIR.—It will give you fome degree of pleasure to be informed that I
+am arrived to that icidity of health, which not only renders my life com
+fortable, but exceeds my most fanguine expectation. It strikes me with
+9
+altonishment, when I look back and confider what a poor emaciated
+creature I was for fixteen years and an half; how my complaints have
+baffled the most skilful of the faculty; the multiplicity of Crude Drugs,
+Potions, and prefcriptions of various forts I have taken, and that none
+ofthese rendered me the least service. I say, I wonder and am lost in
+aftonishment, at the extraordinary power and efficacy of your Re
+animating Solar Tincture : it truly may be called the PABULUM of LIFE;
+for unto this medicine alone I now owe my existence, by removing every
+malady, and making one who once was poor, lean, and consumptive,
+now fleshy and robust; fo that those who formerly knew me can hardly
+believe me to be the fame perfon fince my cure: your medicine has
+performed a prodigy, almost a miracle! I hould wish you to fend me a
+large bottle of Tincture by the bearer, as I defire to have one by me;
+and when you print a new edition of your MEDICAL MIRRok, you
+will do me the favour to infert my cafe. I think it a duty I owe to your
+invaluable medicine, and my afflicted fellow creatures, after so fingular
+a recovery, to satisfy every enquirer.
+That your merit and goodness of heart may be rewarded in this
+world, as well as in the world to come, is the fincere wish of,
+Alder/gate Street, Your truly devoted humble Servant,
+No. 15. EDWARD SIDDALL.
+[See MED1cAL MIRRoR, p. 122.]
+TABES DORSALIS, DISEASES of the BREAST and
+LUNGS, ASTH MA, DROPSY, or CONSUM PTION.
+TAKE one table-spoonful of the Tincture, night and morning, for
+twenty days £ diluted in two spoonfuls ofcold spring water;
+then reduce it to the fame dose every other day, which will generally
+remove the malady in the course ofa month; but if the Dropsy or Con
+fumption has been far advanced, it will be neceffary to continue the me
+dicine for one, two, or even three months longer, reducing the number
+of doses in proportion as health and trength appear to return, and as the
+blood shall have resumed its preper confiftency and a brisker circulation.
+In these complaints, it will not be amifs to take the Tincture in a tum
+bler of warm water, as a beverage, for fome time after the cure is per
+fected, as it will infallibly prevent the blood from returning to its wa
+tery and impoverished state, and will rarefy and expel the viscid cohe
+fions in the pulmonary veffels. -
+“To J. R. SAFFELL.
+“SIR,- I take this opportunity of returning you thanks for your
+valuable Medicine, the SoLAR TINCTURE. My Wife was taken
+violently ill with Pains in her Limbs, Shortness of Breath, and appa
+rently in a very rapid Decay of Conftitution. I was recommended by
+Mr. Thomas, Royal Arcade, Pall Mall, to make trial ofyour invaluable
+Medicine, when, to my utter aftonishment, one Family Bottle restored
+her to perfect Health. Any person may be satisfied of the above fact,
+by “Your obedient fervant,
+“R. DAINTRY,
+“Jan. 1, 1818.” “11, Houghton Street, Clare Market.
+-
+For AGUES, CONVULSIONS, CHOLIC, BLOODY
+FLUX, and violent DISORDERS of the STOMACH
+and BOW ELS.
+DURING the fit, let one or two table-fpoonfuls of the Tincture, undi
+luted,be administered succeffively, as the extremity of the cafe may re
+quire; and afterwards, let the patient continue the medicine, night and
+1O
+morning, in the quantity of a table-spoonful in a wine-glass of warm
+water, or oftener, as the obstinacy of the case may require; and in a
+very short time a perfect cure will be experienced.
+SIR,-I am persuaded that whatever tends to promote the use ofyour
+excellent medicine must conduce to the public good. Amongthe variety
+of cases for which your Reanimating Solar Tincture is recommended,
+was informed it was very salubrious for the nervous head-ache. I
+have repeatedly tried its efficacy, and, by a bare external application,
+instantly found relief. I cannot, therefore, refrain giving my testimony
+to so valuable a discovery.
+I am, Sir, your obliged humble fervant,
+FALKLAND.
+[See Medical MIRROR, p. 136.]
+To J. R. SAFF E LL.
+SIR,-When I confiderthe wonderful effects I have known produced
+by your Solar TINcture, I am lost in astonishment, and you may,
+with propriety, challenge itagainst all other medicines. The Solar Tinc
+ture alone, in my own case, restored me to my present health, from a
+Consumption, which had refited the skill of several eminent Physi
+cians; the particulars you know: and it has recently had a wonderful
+effect on my wife's mother, Mrs. Wills, who, at the critical period of
+fifty years, wasattacked by a dreadful cough, day and night, loss of ap
+petite, total absence of rest, though unable to fit up. However, to the
+aftonishment of her friends and the Doctor, who had deemed her past
+recovery, the Solar Tincture restored her to her perfect health in three
+weeks. The above can be well attested by Mr. Wilson, draper, Ro
+chester Bank. I am willing to satisfy any person of the above fact, and
+fincerely wish so valuable a Medicine was more universally known for
+the good of mankind.—I am, with great respect,
+Your obedient fervant and well wisher,
+WILLIAM THOMAS,
+Nov. 10, 1816. No. 15, New Bond Street.
+SIR,
+For many years I have had a return ofthat violent and afflictive dif
+order called the Rheumatic Gout, which for a certain space oftime every
+year has confined me to my chamber; I have fought relief from many
+medicines, but found none, which occasioned me to refort two or three
+months a year to the South of France, where fome of my relations re
+fided; but the unhappy troubles there impeded my usual visit to that
+country. Hearing about three years back ofthe '' cures performed
+by your Solar Tindure, I resolved to make trial of a bottle, which,
+procuring asionishing relief, I made use of three bottles more, following
+the printed directions, and was perfectly recovered: and as the old
+Adage says, “prevention is better than a cure,” I have for these two
+years past made use of one large bottle of the Tincture, a little before
+the time I expected so disagreeable a visitor: this precaution prevented
+the least symptom of a return.
+You have my permisfion (if you think proper) not only to publish my
+case, but to refer any person labouring under fimilar excruciating com
+plaints: and fremain, with esteem, your humble servant,
+Baker:/treet, Portman/quare. JAMES FITZHENRY.
+[See MEDICAL MIRRok, p. 133.]
+-
+For the RHEUMATISM, CRAMPS, JOINT-ACHES,
+HEAD-ACHE, and all DISORDERS arijing from
+OBSTRUCTED PERSPIRATION.
+Rus the Tincture well in with a warm hand upon the pained or dif
+11
+eafed part, and take at the same time one table-spoonful in the same
+: of cold pring-water, and the pain will almost immediately sub
+ide. In violent nervous head-aches, let the forehead, temples, and
+crown of the head be well rubbed with it, and a table-spoonful taken in
+a wine-glass of cold spring-water, and the cure will be obvious in less
+than two minutes. -
+-
+'or CUTS, STABS, WOUNDS, BITE of a MAD DOG
+or any VENOMOUS REPTILE.
+Mix afmall quantity of the Tincture in warm water, and with a soft
+rag wash well the affected part; then apply as much lint, wet with the
+Tincture, as will fill the wound; repeat the same two or three times,
+and the cure will be effected. For the bite of a mad dog, be very care
+ful in well washing out the part bitten; and to stop the progress of the
+hydrophobia, fivallow immediately one spoonful of the Tincture undi
+luted, and let the part be well soaked with the medicine every fix hours
+for three days, and a safe and perfect cure will be performed.
+S1R,
+, I have, for these last two years, had a defire to write to you concern
+ing the benefit we have received at different times from your Reani
+mating Solar Tincture, having used it as the chief Medicine for fourteen
+years; but I believe I should not have written now, had I not been re
+commended by a friend, who thought it a duty due to your invaluable
+Tincture, to make the following Cures known. My mother was smatch
+ed from the jaws of death, and restored to her former health, by taking
+the Solar Tincture. I cannot justly state her complaint, but will asnear
+as I can. She was very fuddenly, to our great furprise, deprived of her
+fenses, but still had strength to walk about the house; her speech foon
+failed her, and in a short time there was every reason to think her diffo
+lution was near. We immediately had recourse to the Solar Tincture,
+though there feemed very little hopes of her recovery. Our neighbours
+endeavoured to comfort us in our distress, while we, her children, stood
+around her,anxiously waiting the event; when, to our astonishment and
+joy, she began to recover; and I believe the Solar Tincture, with the
+blesfing of God, to be the means of her now being in this world. She
+continued to take the Tincture for about three weeks, and is now per
+fectly recovered; fince then, it has been held in great esteem by our
+family, though we valued it before, as we have had so many proofs of
+its value, and seldom use any other medicine.--My brother has also
+received great benefit by taking it. He was taken fuddenly ill, and was
+thought to be in great danger; he laboured under fome inward pains;
+but by taking the Solar Tincture was restored.—His wife was afflicted
+with something ofa gouty complaint, having frequent fevere attacks in
+the stomach; and, I believe, had it not been for her taking the Tinc
+ture, he would long ago have been in her grave; she has been fre
+uently brought to death's door, but has always been relieved by the
+£child was also ill, and, to all appearance, in the ago
+nies of death; but, to the astonishment of all present, by giving her the
+Tincture, was restored. We do not exactly know what her complaint
+was, but think it was convulfions.—My fifter got very much hurt last
+October; she was in a dangerous state, and could not be moved in bed,
+but the Solar Tincture restored her.—I myself was thought to be very
+far gone in a decline, but the Tincture soon restored me to health. In
+fhort, we have had fo many instances of its good effects, for fourteen
+years, fince we had the happiness to meet with this valuable restorative
+12
+of nature, that we recommend it to all our friends, and firmly believeit
+to be the first medicine in the world. My fifter was the perfon who
+persuaded Mrs. Mary Poynton to take the Tincture, which performed
+fuch a wonderful Cure on her.—You are at liberty to make the above
+known, in any way you may think proper: and I remain, with the
+greatest gratitude and refpect,-Your humble Servant,
+Conningsby, June 18, 1806. SARAH SAMYMAN.
+-
+For STOPPING MORTIFICATION.
+If in any violent tumour, wound, ulcer, or fracture, before or after
+amputation, a mortification should come on, bathethe part well with the
+Tincture every four hours, and give the patient a table-spoonful at the
+fame intervals in a wine-glass of warm-water, for forty-eight hours, and
+the mortification will not only fubfide, but the cure will be amazingly
+forwarded, and in many cases entirely completed.
+For a RECENT COUGH or COLD.
+TAKE one spoonful in a wine-glass of cold fpring-water, night and
+morning, and a cure will be experienced in two or three days.
+[See Medical Mirror, p. 134.—The Plate of the Heart, coloured.]
+-
+PAINS in the STOMACH, CONVULSIONS, AGUE, &c.
+SIR,
+The £ are the great cures which have been performed and
+effected by the use and virtue of your most valuable Reanimating Solar
+Tindure alone, in MARsroN, Lincoln's HIRE.
+Mr. Rich ARD HARMstone, Wheelwright, in Marston, having been
+afflicted with a violent pain in his stomach, for feveral years, got worfe
+and worse, until the pain became infupportable; he applied to my fa
+ther, who gave him only one large spoonful ofyour SoLARTINCTURE
+undiluted, which made a perfect cure, arl he has never had the fmallest
+fymptoms of any pain in his stomach fince that time.
+ElizaBETH HARMsTone, the daughter ofthe above-mentioned Mr.
+Richard Harmstone, a child about nine years old, was taken exceed
+ingly ill indeed; great quantities of blood gushed out of her nose and
+mouth, at feveral different times; her arms and legs, and other parts of
+her body, were almost covered with blue fpots, which they called the
+Purples; the child was thrown into convulfions, and given up by the
+faculty for death; and every person with the child thought that diffolu
+tion must inevitably take place. They applied to my father for a bottle
+of your Solar Tinéture, and they gave the child only one small bottle,
+which effected a perfect cure, and the child is now restored to her for
+mer good state of health.
+REUBEN MITTEN, a labouring man in Mayflon, going from thence
+to Sleaford, on business for his master—he, calling at an inn in Sleaford,
+was introduced into a room where there were three or four people who
+were afflicted with what they called the AGUE AND FEN Illness; at
+this time there were two children dead in Sleaford-Reuben Mitten
+caught the infection-came home to Marston, and was exceeding ill in
+deed–lost his appetite—unable to go to his daily labour—he was feen
+to go into his master's stable, and there rolling himself on the ground,
+and moaning in the greateft agonies.-This poor man being informed
+by one of his neighbours of the great virtues of your Solar, Tinture,
+they applied to my father-he went to the poor man's house, found him
+in bed in the greatest agonies; he gave him, however, only one large
+table spoonful of your Solar Tincture undiluted, and the next morning
+declared he was cured, and went to his daily labour; he has been able
+to work ever fince that time.
+13
+WILLIAM Hopson, fervant man to Mr. Rop ER, of Mar/lon, was
+violently afflicted with the AGUE, infomuch that he was unable to do his
+work, imagining that he must certainly leave his place and go home—he
+was exceeding ill; but he being informed of the great virtues of your
+Solar 7indure, he applied to my father, who gave him three large table
+fpoonfuls, which he took undiluted, at three feveral times—he was per
+fectly cured of his illness, and as healthful as ever he had been in hislife.
+Most of these cases, Sir, I have received from the patients them
+felves, and have put them down exactly as they were stated unto me.
+Mavenby, Lincoln/hire. J. PARKINS.
+“To J. R. SAFFELL.
+“SIR,--I think, in justice to your invaluable Medicine the SoLAR
+TINCTURE, I am called upon to acknowledge the signal advantage I have
+derived from taking it. My case was that of the Yellow Jaundice: by the
+use of one small bottle my symptoms were all changed, and, by taking a
+second, so far removed, as not to apprehend a return of the complaint, and
+by a little continuance I entirely regained my health and strength. I find
+it equally serviceable in the Rheumatism, a complaint I have long been
+afflicted with, and, by the use ofyour excellent Medicine, am now entirely
+free from it. “I am, Sir, your respectful and obedient servant,
+“Derby,9th January 1819.” * S. SHAW.
+SIR,
+To continue filent, after the many extraordinary instances offuccess I
+have witnessed from your truly valuable Solar Tincture, would be the
+extreme of ingratitude; a conduct I would earnestly desire to avoid.
+In my own family, Sir, I have occasionally used it for the last three
+years, and have derived infinite satisfaćtion from the fuccess attendant
+upon my recommendation of it to others. In fits, and bowel com
+plaints (particularly incident to children), I have, on administering the
+Tincture, found almost instant relief; nor is it less efficacious in the
+Hooping Cough. I was induced to use it for this truly disagreeable
+malady, by your having, in your short treatise, described it as being a
+£ of the lungs, viscera, &c.
+This reminds me of a very fingular instance of success which occurred
+about two months ago.—The child ofone Thomas Deadman was forely
+attacked by a violent cold, which terminated in an inflammation on its
+lungs; an Apothecary, of great refpectability, attended it, and, to my
+knowledge, gave up all hopes of saving the child's life. In the awful
+interval of extreme apprehension and slender hope, a tea-spoonful of
+Tincture, with as much water, was given her: this foon occasioned the
+child to open its eyes, which she had not done for two days preceding.
+Encouraged by this circumstance, I earnestly recommended a further
+supply, one tea-spoonful of Tincture to two of water, every two hours.
+In a very short time the danger was over : the child now lives in
+apparent health and strength.—if the attestation of the parents will, in
+your opinion, tend to increase the knowledge of the Tincture's efficacy,
+they will most gratefully come forward, whenever you please.
+As a typtic, it is invaluable; and, in violent bruises and contusions,
+one trial only will be fufficient, having been in no one instance disap
+pointed, when properly administered. I already anticipate much plea
+fure in trying its £ Powers on Animals, agreeable to your
+hints in the Treatife.
+Ea/l/treet, Kennington. I am, Sir, &c. T. BENNETT.
+N. B. A medical friend of mine in Effex writes me word, that he
+has used the Tincture with much fuccess in agues. As he has laid afide
+his former prejudices against it (by candidly trying its powers), I hope,
+and indeed expect, that he will be of great fervice to you.
+An Extraordinary Cure recently effected by DR. SIBLY'S
+REANIMATING SOLAR TINCTURE.
+“ 17th February, 1832.
+“DEAR SIR,-Being, about ten years ago, in a very nervous debilitated state,
+I was induced to make trial of your Sola R Tinct URE, and found the benefit re
+sulting from its use to exceed my most sanguine expectations. 1 have also been
+witness to the extraordinary effects produced by the use of the Sola RTINCTURE
+on a beloved friend, Mrs. Sims, of No. 6, Sandford-place, East-street, Old Street
+road: she had been, for upwards of two years, in delicate, declining health ; she
+was latterly confined to her bed, and the Physician who attended her declared
+that the whole College could not cure her. From the good I had myself experi
+enced, I persuaded her husband to make trial of the TinctURE: she was, at this
+time, evidently sinking; her legs were cold, though wrapped in flannel, and no
+hopes were entertained from Medical Assistance. She began by taking a table
+spoonful diluted in warm water in the evening, and repeated the dose every two
+hours until the morning. The effect produced was, that, about an hour after
+the first dose, she gradually grew warm; a perspiration came on ; and from this
+time the pain in her stomach subsided, and she recovered strength: her appetite
+returned, and in the course of a week she was enabled to eat animal food, and
+has ever since continued to enjoy good health. Any person making inquiry at
+the above address may be satisfied of the truth of this statement; and I wish you
+to make it public, for the good of those similarly affected.
+“I remain, your's respectfully,
+“C. BARREN,
+* To J. R. SArfell.” “No. 2, Ironmonger Passage, St. Luke’s.”
+Let it not be objected, that because this medicine appears to be pre
+fcribed for many disorders, it can be good for none; because every com
+plaint for which it is recommended originates in the blood, or in ol/truded
+per/piration. The action of the SOLAR TINCTURE is on the
+Blood and Juices; it strikes at the ROOT, not at the BRANCHES;
+by which peculiar advantage it effects a cure when other medicines fail.
+Whoever takes the trouble to peruse the Author's MEDICAL MIRRoR,
+being a Treatise on the Generation of the Human Species, and the
+Principles of Life and Death, calculated to shew the Virtue and Effi
+cacy ofthis Medicine, will be convinced of the above facts.
+Caution.
+WHEREAS certain Persons assume to be Proprietors of
+the Recipes for preparing DR. S. BLY's SoLAR and LUNAR
+TINCTUREs, under the Will of the late Dr. Sibly;—This is to
+caution the Public against purchasing the above Medicines of
+any Person or Persons so professing to be possessed of the Re
+cipes for preparing them; they not having been bequeathed by
+the Will of the said Dr. S1Bly, but communicated by him, in
+June 1799, to Mr. CHARLEs WILsoN SAFFELL, and his Son
+John Rich ARD SAFFELL, and no other Perfon or Perfons;
+Mr. CHARLEs WilsoNSAFFELL having paid a valuable Con
+sideration for the same (viz. upwards of £2000).
+JOHN RICHARD SAFFELL prepared the SoLAR and
+LUNARTINCTUREs for his Father, till his Death in June
+1816: since that Time, they have been prepared and sold by
+him, being the only Person in Possession of the true Method of
+making the same, which are well known, throughout the United
+Kingdoms, as the only Genuine Medicines.
+N.B.—To prevent Impositions, the Proprietor signs his
+Name, “J. R. SAFFELL,” on the Wrapper of every Bottle
+No others are Genuine.
+SoLAR TINcru RE WAREHouse, removed to No. 11, Hall Place,
+Lower Kennington Lane, Surrey.
+DEC. 1834.
+15
+THE LUNAR TINCTURE,
+Prepared by Dr. SIBLY;
+And peculiarly adapted to the FEMALE SEX.
+THIS medicine, in its renovating quality and action on the blood,
+participates much of the Solar Tincture; but there are circumstances
+attending the bodily conformation and temperature of females, very
+opposite and distinct from those of the males, which require, in the
+different periods and fituations of their lives, the nicest and most cri
+tical aid to fulfil in them the primary ordination of the Creator.
+To commit in detail to the vulgar eye an enumeration of those par
+ticular cases, or to shew how admirably the LUNARTINCTURE
+is adapted to them, particularly at the TURN of LIFE, would be
+ex'remely improper. For this reason, an ESSAY on the DISEASES
+of WOMEN, through every stage of their lives, as well in marriage
+as in celibacy, is sealed up, and given with each bottle; with proper
+directions for the cure of those /ecret infirmities which delicacy often
+forbids to disclose, even to their nearest relatives.
+In order fairly and completely to prove the wonderfulefficacy of this
+medicine, the Author, in his Pamphlet on the PRINCIPles of LIFE and
+DEATH, which is fold by every bookseller, has shewn the natural gene
+ration of the human species, from conception to the birth; from which
+is defined the admixture of the male and female tinctures; the true
+causes of hereditary or constitutional complaints; the manner in which
+the foetus is formed, quickened, nourished, and sustained by its mother;
+the wonderful sympathy betwixt them; the cause of marks, moles,
+breeding fickness, faintings, abortion, and all the various indispositions
+attendant on a flate of Pregnancy, which the LUNAR TINCTURE
+will either prevent or effectually cure. No Female, after perufing the
+above Pamphlet, and being convinced that, from certain casual ob
+fructions, they may date a deprivation of health, beauty, and spirits,
+which this medicine is calculated to preserve, will ever choose to be
+without it.
+The SOLAR TINCTURE, in bottles, at 7s.6d., 11s., and family
+bottles at 22s., containing nearly three of the 11s.; and the LUNAR
+TINCTURE, in bottles at 4s. 6d. and 10s. 6d.,are prepared and sold by
+J. R. SAFFELL, removed to 11, Hall Place, Lower Kennington Lane.
+Sold, wholesale, by BARCLAY and SoNs, 95, Farringdon Street,
+London; and may be had of Newbury and Sons, 45, and Edwards, 67,
+St. Paul's Church Yard; Sutton and Co., Bow Church Yard; Johnson,
+68, Cornhill; Stradling, Royal Exchange Gate; Stirling, 86, Whitecha
+pel; Sanger, 150, Chandler and Co., 76, and Olding, 26, Oxford Street;
+Rowland, 260, Tottenham Court Road; Prout, 229, Gifford, 104, Bur
+field, 180, and Chapman, 406, Strand; Tompson, 15, Blackmore-street,
+Clare Market; Heudebourck, 326, Middle Row, Holborn; Dickins, 80,
+Holborn Bridge; Colk, 29, Fleet-street; Blake, 47, Knaggs and Co., 35,
+and Hanson and Co., 164, Piccadilly; Cobbe, 31, and Grignon, 174,
+Regent-street; Cocking, 19, Great Portland-street; Bowden, 24, Judd
+street; Cole, 52, and Watts, 106, Edgeware Road; Glanville, 104, Edge
+ware Road, Paddington; Garnett, Welbeck-street; Smith, Brown-street,
+Bryanston-square; Jull, 31, London-street, Fitzroy-square; Potts, 55,
+South Audley-street; Sharwood, 55, Bishopsgate iWithout; Smith, 59,
+Barbican; Harvey, 68, and Norton and Lowc, 47, Blackfriars Road;
+G. Olding, 159, High-street, Borough ; B. Rouse, Wellington-street,
+High-street, Borough, Tozer, Greenwich; Morton, Hampstead.—And
+16
+at the following places in the country: by Hoff, Spilsby; Albin, Spald.
+ing; Thornhill, Sleaford, Wells, Billinghuy: Blackbourn, Coningsby;
+Drury, Lincoln; Drury and Sons, ditto; Ridge, Newark; Drakard,
+Stamford; Heaton and Bains, Leeds; Egar, Upwell; Todd and Orton,
+Sheffield, Drewry, Derby; Ford, Chesterfield; Barker, Mottershead;
+Vaughan and Son, and Goadsby and Sons, Manchester; Wales and Co.,
+Maynard, Butler and Chapman, Baylis, Warren and Aspinall, Liverpool;
+Beilby and Knott, Wood and Cowell, Birmingham; Deighton and Co.,
+Carr and Marsh, York; Fouracre, Walker and Sons, Washbourn and
+Co., Fream and Prosser, Gloucester; Fry and Co., Richardson and
+Board, Miller and Searle, Bristol; Samson, Dawe, and Williams,
+Swansea; Deighton, Lewis, and E. Evans, Worcester: Nettleton, Ply
+mouth; Hoxland, Devonport; Merridew, and Rollason, Coventry; Ba
+bington, Horncastle; Sims, Stockport; Larkworthy, Weymouth; Mrs.
+Binns, Bath; Brodic and Co., Printers, Salisbury; E. Button, Walling
+ford; Harmer, Ipswich; Meggy and Chalk, Chelmsford; Swinfen and
+Co., Leicester; Hodson, Cambridge; Ward and Co., Pollock and Co.,
+and Bewlay and Co., Dublin; Grattan and Co., Hodgson, and Kelly,
+Limerick; Dargaville, and Hayes, Cork; and by all Retailers of Patent
+Medicines in Town and Country.
+AN INTERESTING WORK,
+WHICH NO FAM1LY OUGHT TO BE WITHouT,
+juff publihed, price only Seven Shillings and Sixpence,
+Beautifully printed on Whatman's Wove Paper, and illustrated with
+FIFTEEN superb and beautiful Copper Plates,
+A NEW AND ELEGANT EDITION OF THE
+MEDICAL MIRROR;
+Treating of the OR1G IN of DISEAsE, and its CURE in the following
+and many other Cases:
+Agues, Diarrhoea, Lowness of Spirits,
+Apoplexy, Diseafes, hereditary and ac-Melancholy,
+Afthma, cidental, Menstrual Evacuations,
+Atrophy, on Nervous Con- Difeates of the Breast and Nervous Complaint ,
+Barrennefs, [fumption, Lungs, Nocturnal Infirmities pro
+Bilious Disorders, Dropfy, duced by Onanifm,
+Bite of the Mad Dog, Epilepsy, [gences, Palfy,
+Bloody Flux, Excess of libidinous indul- Pregnancy (different flages
+Bruises, internal and ex- Female Complaints, of),
+Cholic, [ternal, Flatulencies, Rheumatic Gout,
+Conftitution enfeebled, Gout, - Scrophula, or King's Evil,
+Confumptions, - Head-ach, Seminal Weakness, -
+Convulfions, Hypochondria, Spafms,
+Coughs, Hysteric Complaints, Stabs and Gunshot Wounds,
+Cramps, Impurities of Blood and Tabes Dorfalis,
+Debility, muscular and ner- Lymph, Worms,
+vous, Indigestion, Yellow Jaundice.
+Elucidating also the Principles of Life and DEATH.
+By EBENEZER SIBLY, M.D.
+Printed for the Author; and sold by J. R. SAFFELL, Solar Tinc
+ture Warehouse, removed to No. 11, Hall Place, Lower Kennington
+Lane; and Meffrs. BARcLAY and SoNs, Farringdon Street.
+Sold also by the Booksellers in Town and Country; and by every
+Vender who fells the Medicines. -
+Compton & Ritchie, Printers, Middle Street, Cloth Fair. f
+

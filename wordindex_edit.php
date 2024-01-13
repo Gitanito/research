@@ -15,7 +15,7 @@ if (isset($_POST['action']) && isset($_POST['oldindex']) && trim($_POST['oldinde
         }
     }
     if ($_POST['action'] === "del") {
-        $stmt  = $db->prepare ("IDELETE FROM wordindex WHERE name=:name;");
+        $stmt  = $db->prepare ("DELETE FROM wordindex WHERE name=:name;");
         $stmt->bindValue(':name', $_POST['oldindex'], SQLITE3_TEXT);
         $stmt->execute();
     }

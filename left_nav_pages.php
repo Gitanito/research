@@ -5,10 +5,11 @@ include_once "header.php";
 <script>
     $(document).ready(function(){
         $("#myInput").on("keyup", function() {
-            var value = $(this).val().toLowerCase();
-            $(".card-body ul li").filter(function() {
-                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-            });
+            if ($(this).val().length > 3) {
+                $.get("ajax_menu_pages.php?search=" + $(this).val().toLowerCase(), function (data) {
+                    $("#list").html(data);
+                });
+            }
         });
     });
 </script>
@@ -32,8 +33,13 @@ include_once "header.php";
         <div class="card-body">
             <h5 class="card-title">Index</h5>
             <input id="myInput" type="text" placeholder="Search..">
-            <p class="card-text">
-                <ul>
+            <p class="card-text" id="list">
+
+            </p>
+        </div>
+    </div>
+<?php /*
+ <ul>
                 <?php
                     $entries = $db->query("SELECT * FROM wordindex LIMIT 20;");
                     while ($obj = $entries->fetchArray(SQLITE3_ASSOC)) {
@@ -49,8 +55,4 @@ include_once "header.php";
                         }
                     }
                 ?>
-            </ul>
-            </p>
-        </div>
-    </div>
-
+            </ul>*/

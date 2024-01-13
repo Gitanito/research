@@ -31,13 +31,48 @@ function add($intitle, $intext, $inlink = "", $intype = "text", $inlang = "de")
 
             $filename = trim($intitle[0]);
 
-            foreach ($intitle as $title) {
-                $title = str_replace("\u{00a0}", ' ', trim($title));
+            $titlestack = [];
+            foreach ($intitle as $t) {
+                $titlestack[] = $t;
+
+                $special = explode("|", $t);
+                if (isset($special[1])) {
+                    $t = trim($special[0]);
+                }
+                $special = explode("(", $t);
+                if (isset($special[1])) {
+                    $t = trim($special[0]);
+                }
+                $special = explode("[", $t);
+                if (isset($special[1])) {
+                    $t = trim($special[0]);
+                }
+                $special = explode(" - ", $t);
+                if (isset($special[1])) {
+                    $t = trim($special[0]);
+                }
+                $titlestack[] = $t;
+
+                $spaced = explode(" ", $t);
+                if (sizeof($spaced) > 2) {
+                    $titlestack[] = $spaced[0]." ".$spaced[1]." ".$spaced[2];
+                }
+                if (sizeof($spaced) > 3) {
+                    $titlestack[] = $spaced[0]." ".$spaced[1]." ".$spaced[2]." ".$spaced[3];
+                }
+
+            }
+            //$keys = array_map('strlen', array_keys($titlestack));
+            //array_multisort($keys, SORT_ASC, $titlestack);
+
+            $last_title = "";
+
+            foreach ($titlestack as $title) {
+                $title = trim($title);
+                if (strlen($title) < 5) continue;
 
                 if (isset($all[$title])) { // Titel existiert - eine Verknüpfung wird erstellt
-                    $orgcontent = file_get_contents("data/contents/".$x[0].".txt");
-                    $orgcontent = $orgcontent.PHP_EOL.PHP_EOL.PHP_EOL.PHP_EOL.PHP_EOL.$intext;
-                    file_put_contents("data/contents/".$x[0].".txt", $orgcontent);
+                    $last_title = $title." ".rand(1000000,9999999);
                 } else { // Titel existiert nicht - wird neu angelegt und mit dieser Seite verknüpft
                     if (!isset($last_title) || $last_title == "") {
 

@@ -53,7 +53,7 @@ include_once "simple_html_dom.php";
             });
 
             $('#allpdf').on( "click", function() {
-                $( ".bulk" ).each(function() {
+                $($(".bulk").get().reverse()).each(function() {
                     mylist.push($(this).data("q"));
                     $(this).prop('disabled', true);
                 });

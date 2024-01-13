@@ -5,10 +5,11 @@ include_once "header.php";
 <script>
     $(document).ready(function(){
         $("#myInput").on("keyup", function() {
-            var value = $(this).val().toLowerCase();
-            $(".card-body ul li").filter(function() {
-                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-            });
+            if ($(this).val().length > 3) {
+                $.get("ajax_menu_topics.php?search=" + $(this).val().toLowerCase(), function (data) {
+                    $("#list").html(data);
+                });
+            }
         });
     });
 </script>
@@ -32,17 +33,7 @@ include_once "header.php";
         <div class="card-body">
             <h5 class="card-title">Themen</h5>
             <input id="myInput" type="text" placeholder="Search..">
-            <p class="card-text">
-                <ul>
-                <?php
-                    $entries = $db->query("SELECT * FROM wordindex WHERE ishead=1 order by id asc LIMIT 20;");
-                    while ($obj = $entries->fetchArray(SQLITE3_ASSOC)) {
-                        if (substr($obj['name'],0, 1) != "_" && strstr($obj['value'], '.html')) {
-                            echo "<li><a href=wiki/" . rawurlencode($obj['value']). " target=main>" . $obj['name'] . "</a></li>";
-                        }
-                    }
-                ?>
-                </ul>
+            <p class="card-text" id="list">
             </p>
         </div>
     </div>

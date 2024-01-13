@@ -13,7 +13,7 @@ if (isset($_GET['mytitle']) && trim($_GET['mytitle']) != "" && isset($_GET['myli
         exec('pdftotext -raw temp/pdf.pdf temp/pdf.txt');
         $intext = explode("\n", file_get_contents("temp/pdf.txt"));
         $inlink = $_GET['mylink'];
-        $intitle = explode(',', $_GET['mytitle']);
+        $intitle = explode(',', trim(str_replace("\u{00a0}", ' ', $_GET['mytitle'])));
         $intype = "link";
         unlink("temp/pdf.pdf");
         unlink("temp/pdf.txt");
@@ -23,7 +23,7 @@ if (isset($_GET['mytitle']) && trim($_GET['mytitle']) != "" && isset($_GET['myli
         $intext = explode("\n", $source->plaintext . "\n\n[1] " . $_GET['mylink']);
         $inlink = $_GET['mylink'];
         $pretitle = explode("   ", trim($source->plaintext))[0];
-        $intitle = explode(',', $pretitle);
+        $intitle = explode(',', trim(str_replace("\u{00a0}", ' ', $pretitle)));
         $intype = "link";
     }
     add($intitle, $intext, $inlink, $intype);
