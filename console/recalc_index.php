@@ -123,10 +123,11 @@ while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
                 } else { // Titel existiert nicht - wird neu angelegt und mit dieser Seite verknüpft
                     if (!isset($last_title) || $last_title == "") {
 
-                        $stmt  = $db->prepare ("INSERT INTO wordindex (name,value,ishead) values (:name,:value,:ishead);");
+                        $stmt  = $db->prepare ("INSERT INTO wordindex (name,value,ishead,type) values (:name,:value,:ishead,:type);");
                         $stmt->bindValue(':name', $title, SQLITE3_TEXT);
                         $stmt->bindValue(':value', preg_replace("/[[\-]+/i", '-', preg_replace("/[^a-z0-9\_\-\.]/i", '-', basename(trim($title)))) . ".html", SQLITE3_TEXT);
                         $stmt->bindValue(':ishead', 1, SQLITE3_TEXT);
+                        $stmt->bindValue(':type', strstr($entry['mylink'],'.pdf')?'pdf':'txt', SQLITE3_TEXT);
                         $stmt->execute();
 
                         $stmt  = $db->prepare ("INSERT INTO wordindex (name,value) values (:name,:value);");

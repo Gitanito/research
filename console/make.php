@@ -10,10 +10,48 @@ $db->exec("delete from sqlite_sequence where name='wordcloud';");
 
 
 $all = [];
+$all_ishead = [];
 $all_ = $db->query("SELECT * FROM wordindex;");
 while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
     $all[$a['name']] = $a['value'];
+    if ($a['ishead'] == "1") {
+        if ($a['type'] == 'pdf') {
+            $all_ishead['pdf'][] = '<a href="' . $a['value'] . '">' . $a['name'] . '</a>';
+        } else {
+            $all_ishead['txt'][] = '<a href="' . $a['value'] . '">' . $a['name'] . '</a>';
+        }
+    }
 }
+
+$out =
+    '<!doctype html>
+<html lang="en">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../bootstrap.min.css">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script>document.addEventListener("DOMContentLoaded", function(){window.addEventListener("scroll", function() {if (window.scrollY > 50) {document.getElementById("navbar_top").classList.add("fixed-top"); navbar_height = document.querySelector(".navbar").offsetHeight;document.body.style.paddingTop = navbar_height + "px";} else {document.getElementById("navbar_top").classList.remove("fixed-top");document.body.style.paddingTop = "0";}});});</script>
+    </head>
+<body><div class="container-fluid">'
+    . '<div class="card" style="width:100%;"><div class="card-header" id="navbar_top"><h1>Recherche Wiki</h1></div></div>'
+    . '<div class="card w-50 float-left"><div class="card-header"><h3>'.sizeof($all_ishead['txt']).' Artikel</h3></div><div class="card-body">'
+    . join('<br>', $all_ishead['txt'])
+    . '</div></div>'
+
+    . '<div class="card w-50 float-left"><div class="card-header"><h3>'.sizeof($all_ishead['pdf']).' PDFs</h3></div><div class="card-body">'
+    . join('<br>', $all_ishead['pdf'])
+    . '</div></div>'
+    . '</body></html>';
+
+
+
+file_put_contents("../wiki/index.html", $out);
 
     try {
 
