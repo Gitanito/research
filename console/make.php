@@ -67,64 +67,66 @@ while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
             $filename = preg_replace("/[[\-]+/i", '-', preg_replace("/[^a-z0-9\_\-\.]/i", '-', basename(trim($intitle))));
             if (strlen($filename) < 6) continue;
 
-            if (strlen($entry["content"]) < 200000) {
-                $filecontent = file_get_contents("../sources/".$entry["id"].".txt");
-                $intext = explode(PHP_EOL, $filecontent);
-                unset($intext[0]);
+            $filecontent = file_get_contents("../sources/".$entry["id"].".txt");
 
-                $local_wordindex = [];
+            $intext = explode(PHP_EOL, $filecontent);
+            unset($intext[0]);
 
-                $outtext = [];
+            $local_wordindex = [];
 
-                $sources = [];
-                $sourcesl = [];
+            $outtext = [];
 
-                foreach ($intext as $line) {
-                    if (substr($line, 0, 1) === "[") { // this a citation-line
-                        $l = explode(" ", $line);
-                        $index = str_replace(['[', ']'], "", $l[0]);
-                        $sources[$index] = '<a name="cit' . $index . '">[' . $index . ']</a> <a target=_blank href="' . trim($l[1]) . '">' . trim($l[1]) . '</a>';
-                        $sourcesl[$index] = '<a target=_blank href="' . trim($l[1]) . '">^</a>';
-                    } else {
-                        $outtext[] = $line;
-                    }
+            $sources = [];
+            $sourcesl = [];
+
+            foreach ($intext as $line) {
+                if (substr($line, 0, 1) === "[") { // this a citation-line
+                    $l = explode(" ", $line);
+                    $index = str_replace(['[', ']'], "", $l[0]);
+                    $sources[$index] = '<a name="cit' . $index . '">[' . $index . ']</a> <a target=_blank href="' . trim($l[1]) . '">' . trim($l[1]) . '</a>';
+                    $sourcesl[$index] = '<a target=_blank href="' . trim($l[1]) . '">^</a>';
+                } else {
+                    $outtext[] = $line;
                 }
+            }
 
-                foreach ($outtext as $tkey => $tline) {
-                    foreach ($sources as $k => $s) {
-                        $tline = str_replace('[' . $k . ']', '<sup><a href="#cit' . $k . '">[' . $k . ']</a> ' . $sourcesl[$k] . '</sup>', $tline);
-                    }
-                    $outtext[$tkey] = $tline;
+            foreach ($outtext as $tkey => $tline) {
+                foreach ($sources as $k => $s) {
+                    $tline = str_replace('[' . $k . ']', '<sup><a href="#cit' . $k . '">[' . $k . ']</a> ' . $sourcesl[$k] . '</sup>', $tline);
                 }
-                //print_r($outtext);
-                $out = join("<br>" . PHP_EOL, $outtext);
+                $outtext[$tkey] = $tline;
+            }
+            //print_r($outtext);
+            $out = join("<br>" . PHP_EOL, $outtext);
 
-                $matches = [];
-                $matchlist = [];
-                foreach ($all as $v => $obj) {
-                    if (substr($v, 0, 1) != "_") {
-                        preg_match_all("/" . preg_quote($v, '/') . "/i", $out, $matches);
-                        foreach ($matches[0] as $m) {
-                            if ($m != "") {
-                                $matchlist[] = $m;
-                            }
+            $matches = [];
+            $matchlist = [];
+            foreach ($all as $v => $obj) {
+                if (substr($v, 0, 1) != "_") {
+                    preg_match_all("/" . preg_quote($v, '/') . "/i", $out, $matches);
+                    foreach ($matches[0] as $m) {
+                        if ($m != "") {
+                            $matchlist[] = $m;
                         }
                     }
                 }
-                $matchlist = array_unique(array_values(array_filter($matchlist)));
+            }
+            $matchlist = array_unique(array_values(array_filter($matchlist)));
 
-                $match_links = [];
-                foreach ($matchlist as $ml) {
-                    if (trim($ml) != "") {
-                        $match_links[$ml] = findPage(strtolower($ml));
+            $match_links = [];
+            foreach ($matchlist as $ml) {
+                if (trim($ml) != "") {
+                    $match_links[$ml] = findPage(strtolower($ml));
 
-                        $stmt  = $db->prepare ("INSERT INTO wordcloud (name,value) values (:name,:value);");
-                        $stmt->bindValue(':name', $filename, SQLITE3_TEXT);
-                        $stmt->bindValue(':value', $ml, SQLITE3_TEXT);
-                        $stmt->execute();
+                    $stmt  = $db->prepare ("INSERT INTO wordcloud (name,value) values (:name,:value);");
+                    $stmt->bindValue(':name', $filename, SQLITE3_TEXT);
+                    $stmt->bindValue(':value', $ml, SQLITE3_TEXT);
+                    $stmt->execute();
 
-                    }
                 }
+            }
+
+            if (!strstr($entry['mylink'], '.pdf')) {
 
                 $keys = array_map('strlen', array_keys($match_links));
                 array_multisort($keys, SORT_DESC, $match_links);
@@ -143,7 +145,7 @@ while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
                 $out .= '<br>' . join("<br>" . PHP_EOL, $sources);
 
             } else {
-                $out = "Es handelt sich um ein Buch. Bitte nutzen Sie den Link!";
+                $out = "Es handelt sich um ein Buch. Bitte nutzen Sie den Link: <a target=_blank href='".$entry['mylink']."'>".$entry['mylink']."</a>";
             }
 
             $out_wordcloud = [];
