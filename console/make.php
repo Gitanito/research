@@ -1,18 +1,17 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 'On');
-
 ini_set('memory_limit', '1024M');
+$db = new SQLite3('../data/sqlite3database.db');
 
 $cleanup = true;
 
 if ($cleanup) {
     $db->exec("UPDATE settings SET value='0' WHERE name='makingstartpoint';");
-}
 
-$db = new SQLite3('../data/sqlite3database.db');
-$db->exec("DELETE FROM wordcloud;");
-$db->exec("delete from sqlite_sequence where name='wordcloud';");
+    $db->exec("DELETE FROM wordcloud;");
+    $db->exec("delete from sqlite_sequence where name='wordcloud';");
+}
 
 
 $_wordcloud_index = [];
@@ -63,23 +62,20 @@ file_put_contents("../wiki/index.html", $out);
 
     try {
 
-        function findPage($keyword) {
-            global $all;
-
+        function findPage($keyword, &$all) {
             if (strstr($keyword, '.html')) return $keyword;
             if (trim($keyword) != "") {
                 if (isset($all[$keyword])) {
                     if (strstr($all[$keyword], ".html")) {
                         return $all[$keyword];
                     } else {
-                        return findPage($all[$keyword]);
+                        return findPage($all[$keyword], $all);
                     }
                 }
             }
         }
 
-        function findPageName($keyword) {
-            global $all;
+        function findPageName($keyword, &$all) {
 
             if (strstr($keyword, '.html')) return [$keyword, $all[$keyword]];
             if (trim($keyword) != "") {
@@ -87,7 +83,7 @@ file_put_contents("../wiki/index.html", $out);
                     if (strstr($all[$keyword], ".html")) {
                         return [$keyword, $all[$keyword]];
                     } else {
-                        return findPageName($all[$keyword]);
+                        return findPageName($all[$keyword], $all);
                     }
                 }
             }
@@ -165,8 +161,8 @@ file_put_contents("../wiki/index.html", $out);
             $match_links = [];
             $local_wordcloud = [];
             foreach ($matchlist as $ml) {
-                if (trim($ml) != "") {
-                    $match_links[$ml] = findPage(strtolower($ml));
+                if (trim($ml) != "" && strlen(trim($ml)) > 6) {
+                    $match_links[$ml] = findPage(strtolower($ml), $all);
                     $local_wordcloud[] = $ml;
                     $_wordcloud_index[$ml][] = $filename;
                 }
@@ -200,7 +196,7 @@ file_put_contents("../wiki/index.html", $out);
 
             if (isset($local_wordcloud)) {
                 foreach ($local_wordcloud as $word) {
-                    $o = findPageName($word);
+                    $o = findPageName($word, $all);
                     if (isset($o[0]) && !in_array($o[0], $out_wordcloud)) {
                         $out_wordcloud[] = $o[0];
                         $out_wordcloud_links[] = "<a href='" . $o[1] . "'>" . $o[0] . "</a>&nbsp;<a href='../main_research.php?search=" . $o[0] . "'><svg xmlns=http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-search' viewBox='0 0 16 16'><path d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0'/></svg></a>";
@@ -210,7 +206,7 @@ file_put_contents("../wiki/index.html", $out);
             sort($out_wordcloud_links);
 
             $out =
-                '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="stylesheet" href="../bootstrap.min.css"><script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script><script>document.addEventListener("DOMContentLoaded", function(){window.addEventListener("scroll", function() {if (window.scrollY > 50) {document.getElementById("navbar_top").classList.add("fixed-top"); navbar_height = document.querySelector(".navbar").offsetHeight;document.body.style.paddingTop = navbar_height + "px";} else {document.getElementById("navbar_top").classList.remove("fixed-top");document.body.style.paddingTop = "0";}});});</script><script src="../frontend.js"></script></head><body><div class="container-fluid">'
+                '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="stylesheet" href="../bootstrap.min.css"><script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script><script>document.addEventListener("DOMContentLoaded", function(){window.addEventListener("scroll", function() {if (window.scrollY > 50) {document.getElementById("navbar_top").classList.add("fixed-top"); navbar_height = document.querySelector(".navbar").offsetHeight;document.body.style.paddingTop = navbar_height + "px";} else {document.getElementById("navbar_top").classList.remove("fixed-top");document.body.style.paddingTop = "0";}});});</script><script src="../frontend.js?v='.date('Ymd').'"></script></head><body><div class="container-fluid">'
                 . '<div class="card" style="width:100%;"><div class="card-header" id="navbar_top"><h1>'.trim($intitle).'</h1>'
                 . (isset($entry['mylink'])?"Link: <a target=_blank href='".$entry['mylink']."'>".$entry['mylink']."</a><br><br>":"")
                 . '<p id="filefunctions" data-filename="'.$entry['id'].'.txt"></p>'

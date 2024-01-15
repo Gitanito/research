@@ -1,0 +1,1261 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=QS0jrBw2Mb8","mytitle":"Anthroposophische Gesellschaft Stuttgart,Wie intelligent ist k\u00fcnstliche Intelligenz\uff1f - Dr. Robert Neumann ","mylang":"de"}
+ja liebe anwesende ich war ja vor einem
+jahr ziemlich genau schon mal hier und
+die frau handwerk schon gesagt hat
+damals ging es um die
+medienpädagogik heute soll es um
+künstliche intelligenz gehen
+und dabei kann man sich überhaupt erst
+mal fragen was ist denn überhaupt
+künstliche intelligenz und warum ist es
+sinnvoll und wichtig dass wir uns damit
+beschäftigen
+eine antwort die ich für die schule
+geben kann ist weil wir ja die
+schülerinnen und schüler zur
+zeitgenossen erziehen wollen und wir
+möchten dass sie aus der schule gehen
+und das gefühl haben sie sind auf die
+heutige welt
+vorbereitet und wissen was da vor sich
+geht und das ist eigentlich ein aspekt
+der in der waldorfschule schon immer
+wichtig war
+und die erste frage die man sich da
+natürlich stellt ist was ist denn
+überhaupt künstliche intelligenz ich
+kürze das dann im folgenden auch mit
+knapp weil das einfach auch kürzer ist
+und
+die frage wenn wir über künstliche
+intelligenz sprechen schließt sich
+sofort die andere frage an was ist denn
+überhaupt intelligenz
+die es nämlich gar nicht so einfach zu
+beantworten
+ich hab dann mal da nachgeschaut wo man
+heute nach schaut wenn man mal so wissen
+will was irgendwie definiert dass das
+ist die wikipedia und
+da steht der begriff künstliche
+intelligenz ist schwierig zu definieren
+da es bereits an einer genauen
+definition von intelligenz mangelt
+und das ist doch überraschend
+denn man hätte ja denken können dass so
+was wie intelligenz sehr genau definiert
+ist wir wissen doch eigentlich relativ
+genau wovon wir sprechen wenn wir sagen
+naja das mit dem beamer hat jetzt nicht
+so geklappt aber die beiden haben da
+eine intelligente lösung gefunden
+oder jemand hat sich intelligent
+angestellt also da wissen wir doch
+eigentlich genau wovon wir reden und
+trotzdem ist es eben nicht
+möglich das irgendwie so zu definieren
+dass man das da rein schreiben könnte
+natürlich gibt es verschiedene
+definitionen
+man kann auch intelligenz oder man kann
+auch etwas mit dem intelligenztest
+messen da kommen dann eben zahlen raus
+und wenn es über 100 ist dann ist es
+überdurchschnittlich und unter 100 ist
+unterdurchschnittlich aber es gibt keine
+allgemein anerkannte definition von
+intelligenz
+ich habe dann noch ein bisschen weiter
+gesucht im internet und möchte ihn
+gleich mal eine seite des europäischen
+parlaments zeigen da macht man sich
+nämlich durchaus gedanken
+was ist das thema ki wie kann man
+künstliche intelligenz den menschen
+näher bringen und
+da steht dann das muss ich mich ein
+bisschen bitten weil mein beamer etwa er
+war mein computer etwas niedriger ist
+künstliche intelligenz ist die fähigkeit
+einer maschine menschliche fähigkeiten
+wie logisches denken lernen planen und
+kreativität zu imitieren
+das ja auch überraschend weiß nicht ob
+man es lesen kann da da steht also gar
+nichts von einer aktiven selbst handlung
+sondern erst mal dass es darum geht was
+zu imitieren
+wenn man dann auf der seite ein bisschen
+weiter runter geht dann sieht man hier
+noch mal große überschrift künstliche
+intelligenz einige beispiele wo wir
+bereits verwenden und welche neuen
+möglichkeit sie eröffnet also ganz links
+sehen sie vielleicht zu angedeutet dass
+sie also ein staubsauger roboter sein
+der durch die wohnung fährt dann ein
+smartphone
+daneben ein selbst fahrendes auto oder
+eben auch da diese weizen
+sollen symbolisieren smart farming also
+in künstlich künstliche intelligenz in
+der landwirtschaft also wir sehen an
+diesen beispielen wir sind eigentlich
+alle schon von künstlicher intelligenz
+umgeben ob wir uns dessen bewusst sind
+oder nicht in unserer heutigen
+umgang mit der technik mit der welt wenn
+wir nicht gerade irgendwo auf einer
+einsamen insel wohl
+und ich komme jetzt nochmal auf die
+frage zurück was künstliche intelligenz
+eigentlich ist es gibt eine
+unterscheidung die man da macht indem
+man eben unterscheidet zwischen
+sogenannter schwacher ki und starker ki
+und die starke für die starke ki gilt
+starke gewähren computersysteme die auf
+augenhöhe mit menschen die arbeit zur
+erledigung schwierige aufgaben
+übernehmen könnten
+aber im nächsten satz steht dann gleich
+darunter dass es in den letzten 50
+jahren bisher noch nicht gelungen ist
+starke zeiten zu entwickeln schwache ki
+ist das was wir gerade eben so ein
+bisschen gesehen haben aber stark an wo
+man so dran denkt man hört künstliche
+intelligenz die hat man eben allen
+versprechen der entwickler der letzten
+30 40 50 jahre seitdem es computer im
+größeren stil gibt noch nicht entwickeln
+können man hat damals immer wieder
+gehört sehr regelmäßig wir stehen
+eigentlich kurz davor wir brauchen noch
+ein bisschen fördergelder damit wir noch
+neuen computer bauen können und dann
+sind wir soweit aber
+noch sind wir nicht so weit
+eben schwache ki sind genau die
+beispiele die ich ihnen eben gezeigt
+habe die bilderkennung wenn sie ein auto
+haben mit einem assistenzsystem oder ein
+auto das teilweise schon selbst fährt
+dann ist das schwache ki wenn sie ein
+neues smartphone haben bei dem sie gar
+nicht mehr irgendwie das entspannen
+müssen sondern einfach aufmachen dann
+sieht dass ihr gesicht mit dem sie das
+vorher trainiert haben und geht von
+alleine auf auch das ist ein ko system
+oder aber natürlich auch das merken wir
+noch weniger wenn wir im internet
+einkaufen auch da wird ganz viel
+analysiert von künstlicher intelligenz
+denn die ist besonders gut da wo es um
+enorm große datenmengen geht das werden
+wir später noch sehen
+also das als kleiner umriss dazu womit
+wir es zu tun haben
+ich möchte jetzt aber im folgenden erst
+noch mal ein bisschen auf was anderes
+ein gehen nämlich darauf wie ein
+klassisches computerprogramm aufgebaut
+ist
+wir werden nämlich dann sehen dass kein
+völlig anders ist
+ich bin ja hauptsächlich an von tessin
+lehrstuhl beschäftigt und wir entwickeln
+eben auch material für die
+waldorfschulen auch material dafür dass
+man zb in der 89 klasse verstehen kann
+wie funktioniert eigentlich ein computer
+und das kann man eben auch machen da
+gibt es eben auch
+ansätze wie man das verstehen kann ohne
+dass man jetzt einen computer braucht
+das da geht es dann darum dass man das
+so genannte algorithmische denken
+versteht also dieses denken was man
+benötigt um dann ein programm zu
+schreiben und da gibt es ein beispiel
+das möchte ich ihnen direkt vor machen
+da stehe ich also in der klasse 8 a
+klasse wäre das typischerweise und sage
+da vorne links ist die tür die aus der
+klasse raus führt und ich symbolisiere
+jetzt ein roboter und der kann geradeaus
+gehen der kann sich drehen wie müsste
+jetzt ein programm aussehen damit er aus
+der tür raus geht und dann sagen die
+schülerinnen und schüler relativ schnell
+naja macht schritte vorwärts dann dreh
+dich nach links und macht sechs schritte
+nach links und dann bist du bei der tür
+was mache ich dann ich mache natürlich 1
+2 3 4 5 6 7 8 schritte und dann sehen
+die sofort na ja klar es hängt von der
+größe der schritte ab also acht schritte
+zu sagen ist nicht wirklich hilfreich
+wir müssen uns was anderes überlegen wir
+müssen uns eine so genannte bedingung
+überlegen auch wenn wir das da noch
+nicht so nennen und man kommt dann
+relativ schnell darauf dass man sagt
+gehe so lange geradeaus bis die tür
+links unter einem rechten winkel
+erscheint dann dreh dich 90 grad nach
+links und gehe so lange bis du bei der
+tür bist
+und dann geht es nächste problemlos wenn
+man vor der tür steht wie macht man
+jetzt die tür auf für
+uns alle überhaupt kein problem da
+denken sie nicht mal drüber nach wenn
+sie aus der tür raus gehen wenn sie das
+jetzt aber
+formalisieren sollen das heißt in einem
+programm code schreiben sollen mit
+eigenen worten auf papier dann geht&#39;s
+schon los die sagen natürlich als erstes
+arm heben oder hebt den arm sah ich
+sowas über die klinke im weg also muss
+ich erst mal sagen 3d nahm nach außen
+hinüber die klinke bewegen über die
+klinke öffne die hand ja und dann geht
+das nächste problem los wie erkennt man
+eigentlich ob eine tür nach innen oder
+nach außen aufgeht
+ohne dass man es jetzt mit gewalt
+probiert
+ja wenn man die scharniere sieht
+dann geht sie nach innen auf wenn man
+die scharniere nicht sieht fast immer
+geht sie nach außen auf dann kommen wir
+also darauf dass wir sagen ok klingt
+herunterdrücken ja und dann geht es
+schon wieder los ich darf ja nicht
+einfach geradeaus gehen sondern ich muss
+ja dann irgendwie auf schreiben nehme
+den linken arm
+öffne den rechten arm zuerst
+nehmen es dann mit der linken hand und
+so weiter und wenn man damit durch ist
+da haben die dann schon eine seite voll
+geschrieben dann kommt meistens
+glücklicherweise irgend eine schülerin
+oder ein schüler auf die idee und fragt
+dann und was machen wir bei einer
+schiebetür und
+da merkt man man muss wenn man das so
+formal arbeitet wie ein programm man
+nennt das zeilen basiertes programmieren
+weil ich sozusagen für jeden befehl eine
+zeile braucht dann muss man jeden fall
+berücksichtigen da muss ich eben auch
+überlegen ich muss eine schiebetür
+erkennen und ich muss dann völlig anders
+vorgehen weil da hilft mir da gibt es ja
+nicht mal mehr eine klinke meistens
+sondern da gibt es dann so eine
+vertiefung wo ich rein gehen muss
+oder sie können sich mal überlegen die
+zweite aufgabe für die schüler ist dann
+dass ich sage stellt euch vor ihr sitzt
+an einem tisch da liegt ein stapel brot
+da liegt ein messer da steht ein teller
+und da liegt ein stapel tost schreibt
+die befehle auf die nötig sind um
+ein post eine scheibe toast mit nutella
+zu beschmieren
+sie können mal überlegen wie geht&#39;s los
+die hände liegen erst auf den
+oberschenkeln also arm heben geht schon
+mal nicht also erstmal abend zur seite
+bewegen anheben
+über messer bewegen hand absenken hand
+schließen und so weit abrutschen
+ist nicht einfach nur so drüber bewegen
+sondern das merken die dann auch da
+ändert man nämlich den winkel und man
+geht ja auch nicht einfach sofort zurück
+sah man geht in so einem zickzack also
+so die denken erst meisten denken eine
+halbe seite und nachdem sie dann drei
+seiten voll geschrieben haben mit
+befehlen
+merkt man wie schwierig das ist sowas zu
+formalisieren
+in der oberstufe greifen wir das dann
+auf zb bei einer programmierumgebung die
+nennt sich robot carol da sehen sie also
+so ein kleines männchen wie so ein lego
+männchen das steht auf so eine art
+schachbrett und das programmieren wir
+dann auch ich vergrössern mal das was da
+links steht
+kann man das ich hoffe man kann es lesen
+da steht carol legt links neben sich
+eine reihe ziel
+und da steht dann als erstes wiederholen
+einmal schritt links drehen hinlegen
+rechts drehen wenn ist wand also wenn er
+vor der wand steht soll er sich zwei mal
+nach links drehen und das dann
+wiederholen also ganz formal aber eben
+genau dieses zeilenweise programmieren
+eine
+anordnung nach dem nächsten und wenn
+dann was schief geht wenn ich mich
+irgendwo verschrieben habe kriege ich
+von dem programm eine fehlermeldung
+dasteht fehler in zeile 12 ja da habe
+ich vielleicht irgendwas falsch
+geschrieben und dann kann ich gucken aha
+zeile 12 was war da los dann kann ich
+sehen okay da war der fehler
+also
+das ist
+das sogenannte zeilenweise programmieren
+und das ist insofern wichtig dass man
+das so ein bisschen versteht
+weil eben dass
+die ki völlig anders arbeitet und das
+wollen wir jetzt uns mal anschauen ich
+möchte jetzt am anfang in ganz kurzen
+blick darauf werfen wie bei uns ein eine
+nervenzelle im gehirn funktioniert denn
+das versucht man bei einem so genannten
+neuronalen netzwerk nachzuahmen also wir
+haben hier so ein bild einer nervenzelle
+da haben wir links die dendriten das
+sind die verbindungen die zu der
+nervenzelle führen wir haben das neuron
+also die nervenzelle in der mitte und
+wir haben das achse und das ist
+sozusagen das was rechts rüber geht
+wurde ein signal ausgesendet wird nach
+rechts und wir haben die synapsen ganz
+rechts dass sie die verbindung zu den
+anderen nervenzellen
+das menschliche gehirn hat so ungefähr
+um die 100 millionen euronen
+also ziemlich viele
+das wichtigste die neuronen sind aber
+gar nicht das wichtigste noch viel
+wichtiger sind die einzelnen
+verbindungen und da sehen sie schon dass
+das links ja viel mehr sind als nur so
+einen neuronen und man nimmt an dass es
+insgesamt so um die 100 millionen
+verschaltungen gibt zwischen den
+einzelnen neuronen
+und da kommen dann also tatsächlich ganz
+schwache elektrische impulse an sind
+tatsächlich elektrische impulse deswegen
+kann man ja auch so was machen wie ein
+eeg messen beim arzt wo man so
+elektroden auf den kopf kriegt und dann
+gehirnfunktion misst
+und was passiert dann da kommen also so
+kleine impulse rein und das sieht dann
+so aus dass links steht schwellwert
+schwellwert bedeutet anschaulich
+gesprochen wenn ich irgendwo in einem
+raum bin und es wird ein bisschen lauter
+nicht versucht mich zu konzentrieren
+dann geht es eine weile und irgendwann
+ist vielleicht der schwellenwert
+erreicht
+und dann reicht es mir dann muss ich mal
+irgendwie in aktion treten und sagen
+jetzt ist zu laut und so ähnlich ist es
+bei der nervenzelle auch da kommen
+impulse von anderen nervenzellen rein
+und wenn die den schwellwert
+überschritten haben dann macht die
+nervenzelle was man sagt dazu auch sie
+feiert das heißt sie sendet einen
+kleinen elektrischen impuls nach rechts
+zu den anderen nervenzellen aus und
+danach ist sie wieder in ruhe
+und das baut man jetzt am computer nach
+da sehen sie das ganze ein bisschen
+vereinfacht also den zellkern in der
+mitte
+links die synapsen und
+die denn trinken die verbindung zu dem
+zellkern und sie sehen vielleicht die
+sind unterschiedlich dick gezeichnet
+denn das wichtige ist wie die gewichtet
+sind was die für eine gewichtung haben
+also es gibt welche die haben eben eine
+starke gewichtung die sind wichtig und
+es gibt welche die sind weniger wichtig
+und je nachdem eben wie viel da rein
+kommt
+gibt es entweder ein signal nach rechts
+oder nicht
+und wie macht man das jetzt man muss das
+ja irgendwie in mathematische formeln
+übersetzen sonst könnte der computer
+nicht damit arbeiten das heißt man sagt
+einfach ich habe hier zwei dendriten sie
+sehen links oben der hat jetzt den wert
+1
+und dann sehen sie da steht bei w 1
+steht 2 das w ist das gewicht also der
+linke hat den wert 1 und das gewicht ist
+2 und der links unten der hat den wert
+null da kommt gerade nix an und der hat
+das gewicht 1 und in der mitte steht in
+so ein kästchen 1,5 dass der schwellwert
+und wenn ich jetzt bestimmen will ob da
+rechts was passiert dann sage ich
+einfach das steht da schon so als formel
+dann sage ich einfach nimm den wert von
+dem ein dendriten und nehmen ihn mal die
+gewichtung ganz oben sehen sie das in
+blau also einmal zwei
+links oben wert 1mal 2 plus 0 x 1 weil
+ja und es ist zwei- und
+dann schaue ich ist das über dem
+schwellwert ist es also würde sich jetzt
+hier was tun
+und das a und o das werden wir gleich
+sehen sind diese gewichtung die
+verändern sich nämlich oder die werden
+verändert wenn man so ein netz trainiert
+natürlich braucht man für so ein netz
+mehrere neuronen und die sind dann hier
+nur so ganz skizzenhaft angedeutet die
+sind dann auch miteinander verschaltet
+also wir haben dann drei neuronen in der
+mitte und links haben wir ein gaben die
+sind dann eben über diese verschiedenen
+verbindungen mit den verschiedenen
+gewichtungen damit verbunden und rechts
+gehen die signale dann weiter
+und
+in wirklichkeit ist das meistens so da
+habe ich praktisch links die sogenannte
+eingangs schicht da kommt dann was rein
+ich werde das gleich noch einen beispiel
+zeigen und in der mitte habe ich den
+hippen layer also die verborgene schicht
+da sind auch lauter so künstliche
+neuronen aber da weiß ich gar nicht was
+ich tue und
+rechts habe ich die ausgangs schicht und
+dann kommt irgendwie ein signal rausch
+das jetzt noch ziemlich abstrakt ich
+werde ihnen jetzt mal ein beispiel geben
+wenn ich also hier zum beispiel so ein
+bild von einem hund habe dann habe ich
+in einem einfachsten fall so ein
+netzwerk was zum beispiel zwischen hund
+und wolf unterschreiben soll
+also gebe ich diesen netzwerk ein bild
+von einem hund und gucke
+kommt das netzwerk zu dem schluss hund
+und wenn es jetzt zu dem schluss kommt
+wolf dann merke ich es hat einen fehler
+gemacht
+dann muss ich sagen da war ein fehler
+das macht es automatisch und dann werden
+die gewichtungen ein bisschen verändert
+dann wird es wieder probiert man es
+vielleicht immer noch wolf dann die
+werden die gewichtung wieder verändert
+dann ist immer noch wolf und das wird
+ganz oft gemacht tausende male das geht
+natürlich sehr schnell bei einem
+computer so lange bis die gewichte so
+sind dass hinten hund raus kommt und
+dann nehme ich das nächste bild und
+gucke wieder kommt der hund oder wolf
+raus dann kommt vielleicht wieder wolfs
+raus dann werden die gewichtung wieder
+angepasst und so nennt man tatsächlich
+diesen vorgang nennt man trainieren und
+so ein neuronales netzwerk muss eben mit
+tausenden von bildern trainiert werden
+eben in wirklich tausenden von zyklen
+die immer wieder durchlaufen werden und
+diese ganzen gewichtungen passen sich
+dabei werden dabei immer angepasst bis
+eben zum schluss das richtig erkennt
+ich möchte jetzt an der stelle noch
+einen kleinen einschub machen
+wie lernen wir denn eigentlich wie
+landen kleines kind
+wenn ein kleines kind zum ersten mal ein
+tier sieht was vier beine unten schwanz
+hat dann ist das je nachdem wo das kind
+aufgewachsen sind entweder wow wow oder
+mio also entweder hund oder katze
+und im folgenden
+ist natürlich wenn es ein hund war das
+nächste vierbeinige tier mit schwanz
+auch ein hund und dann wird das kind
+korrigiert jede katze und so
+differenziert sich das immer mehr aus
+der löwe ist dann natürlich auch erstmal
+eine große katze
+und dann ist es irgendwann weiß man das
+ist ein löwe
+und man differenziert die begriffe immer
+mehr aus das geht uns ähnlich wenn sie
+mal zurückdenken als sie das erste mal
+so ein smartphone gesehen haben und ein
+tablet da war das nur so ein
+flaches schwarzes ding und dann
+beschäftigt man sich freiwillig oder
+mehr oder weniger unfreiwillig ein
+bisschen mehr damit und dann stellt man
+plötzlich fest da gibt es ja ganz
+verschiedene da gibt es verschiedene
+hersteller oder die können auch was da
+gibt es irgendwie apple und android oder
+so dann differenziert sich das immer
+mehr aus oder ein ganz anderes beispiel
+stellen sie sich vor sie gehen in ein
+land ein tropisches land und sie machen
+zum ersten mal eine führung durch den
+regenwald oder durch den wald dann
+können sie sich glaube ich vorstellen da
+kommt man dahin und da sieht man erst
+mal nur bäume grün und hat überhaupt
+keine ahnung was das ist und wenn man
+damit jemand ortskundig einem
+ortskundigen foster oder führer dahin
+geht der einem das alles erklärt und man
+ist ein paar tage da dann differenziert
+sich das immer mehr aus und plötzlich
+weiß man ja dass ist der baum und das
+ist der baum und das ist gar kein bauer
+sondern irgendein strauch also es ist
+bei uns
+ein bisschen ähnlich so wie das hier ist
+nur dass wir da und das werden wir
+gleich sehen noch sehr viel flexibler
+sind ich möchte ihnen jetzt mal ein
+beispiel geben es gibt bei von google
+gibt es eine so genannte titel maschinen
+also das ist ein neuronales netz das ist
+im internet und das kann man einfach so
+benutzen das habe ich mal gemacht und
+ich habe dieses netz
+mit vier wolfs bildern trainiert und mit
+400 bildern da sehen sie sich vergrößert
+die gleich nochmal da sehen sie also
+oben steht wolf und unten steht hund und
+die bilder kann man da einfach
+reinziehen und startet drückt auf
+training da sehen sie rechts so ein
+knopf
+und dann wird dieses netz trainiert hier
+nochmal die bilder kann man vielleicht
+so ein bisschen sehen einfach es war
+einfach beliebige wolfshund hunde bilder
+und dann
+nimmt man ein neues bild zieht das rein
+und das netz sagt einem ob es wolf oder
+hund ist
+ich hab das mal versucht wir sehen also
+hier einen hund bei dem sich das netz
+das steht ganz unten mit 100 prozent
+sicher ist das ist ein hund wie auch der
+sieht zwar sogar sehr anders aus als die
+hunde aber es ist ein hund
+wir sehen einen zweiten hund und da sagt
+das netz schon der ist mit 63 prozent
+sicherheit ein hund also es ist schon
+nicht mehr so sicher
+entschuldigung und es ist mit 63 prozent
+sicherheit ein wolf also es ist sich
+schon halbwegs sicher ist ist ein wolf
+naja es ist ein collie und ein collie
+sieht natürlich schon auch ein bisschen
+aus wie ein wolf wenn man so die
+schnauze anschaut dann habe ich aber
+noch ein bild genommen
+der sieht also wirklich nicht aus wie
+ein wolf ja also die schlappohren und so
+braun aber das netz ist sich also fast
+sicher hat noch so ein bisschen bisschen
+zweifel aber es ist sich eigentlich ganz
+sicher dass ein wolf
+woran kann das liegen
+sie haben es vielleicht gemerkt die
+bilder mit denen ich das netz trainiert
+habe die wolfs bilder waren alle im
+schnee und die hunde bilder waren vor
+grünem hintergrund und das netz
+orientiert sich jetzt gar nicht so daran
+ob das ein wolf oder ein hund ist auch
+ein stück weit sondern es
+orientiert sich vielmehr an den grünen
+und weißen hintergrund
+ein nächstes beispiel
+sie sehen das ist ganz klar ein wolf
+ist natürlich ein bisschen gemein das
+netzwerk hat ja nur wolf und hund zur
+auswahl aber wenn ich jetzt einen hasen
+vor grünem hintergrund
+zeige dann sehen sie das ist wieder ein
+hund
+und das ist ein typisches merkmal für so
+neuronale netze
+dass sie eben dinge machen von denen man
+gar nicht erwartet dass sie es machen
+als man zum beispiel die selbstfahrenden
+autos programmiert hat da hat man diese
+netze die diese autos steuern natürlich
+erstmal in umgebung trainiert wo
+möglichst wenig fußgänger sind wann
+wollt ja niemanden gefährden also
+möglichst ländliche umgebung in den usa
+und man hat dann gemerkt immer wenn man
+über eine brücke gefahren ist ist das
+plötzlich ganz so alarm und das netz ist
+damit nicht mehr richtig die steuerung
+zurecht gekommen obwohl er die straße
+auf der brücke genau so ist da gibt&#39;s
+seitenstreifen da gibt es mittelstreifen
+an dem man sich orientieren kann und
+dann hat man irgendwann gemerkt
+das netz hat sich gar nicht so sehr am
+mittelstreifen orientiert sondern am
+grünen seitenstreifen da wo die wiese
+ist also da wo es nicht grün ist darf
+man fahren und wo es grünes darf man
+nicht fahren
+und bei einer brücke ist es halt
+plötzlich rechts blau
+und damit ist es erstmal nicht zurecht
+gekommen das sind natürlich jetzt
+eher harmlose beispiele aber
+es gab natürlich auch andere beispiele
+wenn man
+2016 erinnert man sich vielleicht da gab
+es den ersten unfall mit einem kießler
+und zwar also dem auto und da ist ein
+tesla ziemlich ungebremst in so einen
+lkw gefahren auf der landstraße oder
+highway
+der ist da so quer rüber gefahren und
+sie sehen also der sieht ja doch
+ziemlich aus wie ein lkw der hat einen
+führerkabine der hat räder aber
+für das neuronale netz was diesen tesla
+gesteuert hat war das kein lkw und dann
+ist es ziemlich ungebremst da rein
+gefahren der fahrer ist leider gestorben
+man hat es versucht zu untersuchen und
+ein schluss war am anfang dass man
+gesagt hat dass man gemerkt hat das netz
+hat es wahrscheinlich für so eine
+schilderbrücke gehalten
+die ist ja auch rechteckig und gesteht
+auch so quer und weil die straße eben
+nicht ganz eben war sondern ihn genauso
+einem winkel war dass das für das netz
+ein bisschen höher aus sagt hat es als
+eine schilderbrücke eingestuft und
+entsprechend ging es davon aus man kann
+gefahrlos
+darunter durchfahren
+also
+wir sehen ein charakteristikum dieser
+netze ist dass sie ebenso eine art
+blackbox sind man spricht auch von einem
+black box modell also ganz anders als
+bei diesen zeilen weisen programmieren
+weiß ich eben nicht ich kann eben nicht
+danach gucken in dem netz und sagen ja
+das neuron 213 ist genau für die
+erkennung von quer fahrenden lkws
+zuständig das geht eben nicht es
+durchläuft diesen trainingsprozess aber
+letztendlich weiß man nicht genau was
+sich darin abspielt
+ich möchte jetzt noch ein zweites
+beispiel ihnen geben wo man sehen kann
+wie so ein lernen bei solchen system
+funktioniert das ist jetzt ein anderes
+beispiel das kann man so typischerweise
+in der elften klasse machen
+und zwar geht es 1 auf eine idee von
+martin gardner zurück das war jemand der
+in den 50er 60er jahren sehr viele
+kleine matte artikel in den usa
+geschrieben hat und der hat zu einer art
+mini schach entwickelt das besteht also
+aus neun feldern und sehen sie die
+menschlichen spieler oben den computer
+da stehen die die spielfeld also die
+spielsteine auf dem kopf weil das ja
+auch von einem menschen dann bedient
+wird also m und c steht für mensch und
+computer
+man kann diese spielsteine ziehen wie
+die bauern beim schach das heißt man
+kann hochziehen und diagonal schlagen
+und derjenige gewinnt der entweder mit
+dem spielstein die andere seite erreicht
+hat oder wenn der gegner sich nicht mehr
+bewegen kann dann hat man gewonnen
+und der mensch fängt an und könnte jetzt
+zum beispiel mal so hier links nach oben
+gehen dann sehe es so aus dann bin ich
+hier
+was kann der computer jetzt machen er
+könnte mich schlagen er könnte aber auch
+geradeaus gehen mit dem mittleren stein
+oder er könnte mit dem rechtenstein
+geradeaus gehen
+ich nehme jetzt mal an da werde ich
+gleich darauf eingehen wie er das macht
+ich nehme jetzt mal an er geht jetzt mal
+er macht den blauen zug
+und zieht also diesen stein vor
+was machen wir als nächstes
+naja wir schlagen natürlich
+das heißt wir setzen unseren steinen
+nach vorne und haben gewonnen die erste
+runde
+jetzt gehe ich noch mal zurück in dieser
+situation
+wie entscheidet der computer was er
+jetzt machen soll also entscheidet
+sozusagen in anführungsstrichen und da
+hat sich gartner überlegt das machen wir
+per zufall und wie macht man das
+man nimmt lauter kleine döschen und ich
+weiß nicht ob sie erkennen können auf
+dieser linken dose da ist unsere
+situation abgebildet ja da ist der weiße
+stein nach vorne und in den döschen sind
+verschieden farbige perlen
+und
+diese bisschen schüttelt man dann
+das geht so man
+schüttelt die und dann nimmt man die
+perle die links unten liegt und das ist
+dann der entsprechende zug und sie sehen
+dass es hier die blaue perle
+also macht der computer den blauen zug
+aber jetzt hat er ja verloren und er
+muss ja irgendwie lernen und lernen
+bedeutet ja normalerweise wenn ich einen
+fehler gemacht habe dann sollte ich den
+fehler im besten fall nicht noch mal
+machen wie kriegt man also diesen
+computer dazu
+diesen fehler nicht noch mal zu machen
+man nimmt einfach die dose
+und nimmt die blaue perle raus
+und jetzt hat dieser computer gelernt
+ich darf diesen zug nicht machen der zug
+ist schlecht dann verliere ich das heißt
+wenn wir jetzt das nächste mal wenn wir
+jetzt die nächste runde spielen und man
+spielt mehrere runden wenn wir die
+nächste runde spielen und wir sind
+wieder wir ziehen wieder mit links nach
+vorne weil das ja eben gut geklappt hat
+dann wird der computer jetzt nur noch
+den roten oder den grünen zug machen
+können
+und sie haben schon wenn der grüne nicht
+so erfolgsversprechend ist dann wird
+auch diese perle rausgenommen und wenn
+wir dann noch mal spielen dann schlägt
+er uns mit dem roten zug
+insgesamt gibt es da 24 mögliche züge
+also gibt es 24 so kleine boxen
+und was passiert wenn ich jetzt 10 15
+runden gespielt habe
+immer wenn der computer verliert wird
+die perle rausgenommen die zum verlieren
+geführt hat und nach 15 runden ungefähr
+je nachdem
+ist der unschlagbar dann kann ich nicht
+mehr obwohl ich ja sogar weiß habe und
+den ersten zug machen darf ich kann
+nicht mehr gegen diesen schachcomputer
+gewinnen ja also der ist wirklich ein
+meister im mini schach und ich fragte
+die
+schüler dann in der regel wenn man also
+darüber spricht ist die frage hat er
+denn jetzt was gelernt
+und da merkt man na ja im prinzip ja er
+hat ja was gelernt weil er ist
+unschlagbar im schach das muss man
+einfach anerkennen
+aber irgendwie merkt man dann auch im
+gespräch also so richtig lernen ist das
+irgendwie ja doch nicht weil zu unserem
+begriff von lernen gehört ja doch immer
+dazu dass man auch eine einsicht hat
+oder ein bewusstsein und ich frage dann
+auch manchmal weiß der dass der jetzt
+unschlagbar gut ist in dem mini schach
+und das weiß er natürlich nicht weil ein
+bewusstsein gibt es da nicht also
+es ist dieses das system kann lernen und
+ich kann das natürlich auch
+programmieren diese art von lernen
+in einem größeren system im größeren
+computer ist nur eine frage der
+geschwindigkeit immer wenn mal ein spiel
+verloren hat macht den zug nicht mehr
+und es ist eben so dass dieses fehlen
+von reflektionen das führt dazu dass so
+systeme manchmal ganz merkwürdiges
+verhalten zeigen also die lösen dann die
+probleme aber irgendwie irgendwie
+richtig aber dann doch nicht richtig und
+ich will ihnen ein paar beispiele geben
+da gibt es dann el sheikh ist eine
+forscherin zum thema ki und
+die hat ein buch geschrieben und hat da
+unter anderem so ein paar beispiele
+zusammengetragen von forschern die eben
+solche systeme natürlich am computer
+programmiert haben die sich so selbst
+weiterentwickeln sollen und sie
+berichtet dann von einem forscher der
+hat so eine selbstlernende ki entwickelt
+die sollte irgendwie gang oder so die
+sollte obwohl angehen und dann schreibt
+er schließt ihnen das vor und schreibt
+er ich habe versucht einen roboter
+evolutionär weiterzuentwickeln damit er
+nicht gegen wände rennt was ist passiert
+erstes ergebnis er entwickelte die
+fähigkeit sich überhaupt nicht zu
+bewegen damit war das problem gelöst
+völlig korrekt aber eigentlich nicht das
+was gemeint dass das war dem forscher
+auch klar zweitens ich fügte eine
+fitness funktion hinzu die bewegung
+belohnte daraufhin drehte sich der
+roboter auf der stelle um die eigene
+achse
+völlig korrekt gelöst ja nur halt
+eigentlich nicht das was gemeint war
+drittes dritte lösung ich für deine
+fitness funktion für seitliche bewegung
+hinzu sollte sich weiter bewegen er
+bewegte sich in kleinen kreisen
+und so weiter
+es gab ein zweites beispiel da wollte
+eben auch so ein forscher einen
+staubsauger roboter programmieren der
+sollte halt die wohnungs augen der
+sollte natürlich möglichst wenig gegen
+wände fahren und er hat vorne so eine
+art stoßstange und die ist mit dem
+schalter verbunden und immer wenn der
+gegen den stuhl oder gegen eine wand
+fährt dann drückt die stoßstange gegen
+den schalter und dann weiß er okay bin
+irgendwo gegen gefahren das heißt er hat
+ihn hat dieses selbstlernende system
+wurde so programmiert dass es eben
+möglichst wie nicht mit der stoßstange
+also möglichst wenig stoßstangen
+kontakte hat diesen lern zyklus
+durchlaufen lassen hat das gestartet und
+was hat es gemacht es ist rückwärts
+gefahren ist natürlich überall
+angestoßen
+aber hinten hat es keine stoßstange
+gehabt
+also es hat das gestellte problem 100
+prozent korrekt gelöst
+also
+das sind
+natürlich ein paar humorvolle beispiele
+wo man sehen kann
+das scheitert und man kann vielleicht
+auch so ein bisschen verstehen das ist
+so was wie eine blinde intelligenz also
+da ist schon was da wie eine intelligenz
+das ist ja nicht doof ja also das es
+löst ja auch alle beispiele völlig
+korrekt aber gleichzeitig ist es
+natürlich dann doch irgendwie blind weil
+die beispiele sind ja nicht so gelöst
+wie sie eigentlich gemeint waren
+es gibt natürlich andere beispiele wo
+man sehen kann wo ich schon sehr gut ist
+in china ist es so
+dass sie eine app haben wenn sie ein
+autounfall haben dann nehmen sie diese
+app fotografieren damit die defekte
+stelle und nach ein paar sekunden
+kriegen sie von ihrer versicherung eine
+rückmeldung wie viel dies bereit ist zu
+zahlen warum
+da wird der typ des autors übermittelt
+das bild wird analysiert es gibt ja nur
+begrenzte anzahl von stoßstange von
+karosserieteilen
+und dann weist die ki sofort okay das
+ist also vorne links der kotflügel und
+der es jetzt soweit kaputt ermittelt dem
+wert
+des kotflügels des autos was kosten
+gebrauchte style was kostet neu stylen
+und meldet ihnen sofort zurück wie viel
+geld sie kriegen also bei solch eng
+umrissenen problem da ist eine sehr
+erfolgreich schneller als das jede
+versicherung machen könnte
+aber es gibt ein paar prinzipielle
+probleme und da möchte ich noch zwei
+probleme benennen dass eine ergibt sich
+aus den großen an zahlen also ks
+besonders gut wo es um unglaublich große
+anzahl geht daten auszuwerten was
+menschen eben nur mit riesigem aufwand
+machen können geht bei computern eben in
+millisekunden
+aber das problem ist es gibt keine
+perfekten systeme wir haben das alle
+gelernt in den letzten jahren bei den
+sogenannten falsch positiven tests bei
+den schnelltests also und es ist immer
+so dass ein prinzipielles problem wenn
+sie irgend einen test machen haben sie
+immer eine anzahl von falsch positiv
+und selbst wenn sie jetzt einen guten
+test haben und der ist zu 99 prozent
+sicher
+dann sind es halt immer noch ein prozent
+falsch positive
+könnte man sagen naja 1 prozent aber
+wenn ich jetzt zehn millionen leute
+testen
+dann ist ein prozent halt immer noch
+100000
+und 0,1 prozent wenn ich sage ich mache
+den test noch besser gehen immer noch
+10.000
+also
+da gab es eben in berlin zum beispiel
+vor ein paar jahren ein projekt mit der
+polizei die haben am bahnhof südkreuz
+überall videokameras installiert und
+haben da die leute gefilmt da waren auch
+entsprechende schilder dass man gefilmt
+wird und haben das mit hilfe von solchen
+ki system ausgewertet um leute zu
+identifizieren die von der polizei
+gesucht werden das hat auch ganz gut
+geklappt aber
+das problem ist wenn man sich jetzt
+überlegt mit der bahn fahren nach
+angaben der bahn pro tag 12 millionen
+menschen
+wenn ich jetzt mir vorstelle ich hätte
+in allen bahnhöfen so ein system
+und das wird zu 99,9 prozent sicher also
+nur 0,1 prozent fehlererkennung als
+positive dann sind das aber pro tag
+12.000 menschen die von dem system als
+verdächtig eingestuft würden obwohl sie
+gar nicht verdächtig sind die müssten
+dann natürlich die sind dann erst mal in
+seiner datenbank und die müssten
+natürlich irgendwie nachbearbeitet
+werden also bräuchte ich wieder leute
+die diese 12.000 menschen jeden tag
+identifizieren gucken nein das ist in
+wirklichkeit gar kein verdächtiger und
+sie können sich vorstellen wie schnell
+so eine datenbank anwachsen würde bei
+12.000 jeden tag die
+wohl völlig unbescholtene leute in so
+einer datenbank gelangen würden also das
+ist das problem der großen zahlen wo man
+eben sich immer so was mit erkauft wenn
+man eben solche großen datenmengen
+bearbeitet was eben technisch heutzutage
+kein problem ist
+und das zweite problem bei diesem system
+ist dass die eigentlich immer nur die
+vergangenheit verlängern können
+also
+wenn ich jetzt in der medizin im system
+benutzt und da gibt es viele solche
+systeme die abo werden dass zum beispiel
+beim erkennen von hautkrebs hilft dann
+macht man das ähnlich wie mit den hunden
+dann nehme ich lauter leberflecken von
+denen ärzte vorhergesagt haben das war
+also ein bösartiger leberfleck der hat
+eine hohe wahrscheinlichkeit dass da ein
+hautkrebs entstehen könnte oder schon
+entstanden ist damit trainiere ich
+dieses system
+und jetzt ist es aber so wenn sich jetzt
+aber da der hautkrebs ein bisschen
+verändert und es gibt eine neue variante
+und das leberfleck aussehen verändert
+sich ein bisschen dann wird das system
+das natürlich nicht erkennen weil das
+ist ja mit den alten bildern trainiert
+worden also das kann sozusagen immer nur
+nach hinten schauen
+und rudolf steiner hat das in dem kurs
+für die lehrer in der allgemeinen
+menschen kunde
+da hat er das genau im zweiten vortrag
+thematisiert
+da hat er nämlich dieses bild gezeichnet
+und hat eben gesagt wir haben sozusagen
+zwei richtungen das eine ist die
+richtung der vorstellung und die geht in
+die vergangenheit und das bild
+und das zweite ist da schreibt ihr wille
+und kein hin das geht in die zukunft
+und alles was eben sozusagen
+vorstellungs mäßig ist geht eben immer
+in die vergangenheit und das was in die
+zukunft ist das kann ich eben nicht aus
+der vergangenheit neu
+entwickeln indem ich einfach verlängere
+wir haben sowas immer wieder erlebt
+jetzt auf technischem gebiet so ein
+bisschen wenn sie mal zurückdenken als
+es so die ersten handys gab in
+deutschland da war siemens eine ganz
+große firma siemens kennen wir alle
+siemens hat zeitweise bis zu 70 80
+prozent der handys für deutschland
+hergestellt heute gibt es keine siemens
+handys mehr
+das gleiche gilt für nokia damals auch
+ein riesen finnische firma ja fast jeder
+hatte entweder siemens oder nokia handy
+heute gibt es keine nokia handys mehr
+warum die haben damals so große anteile
+gehabt und dann gab&#39;s aber neuere firmen
+die neue ideen hatten und zwar die
+smartphone vorläufer entwickelt haben
+und die großen schirm waren einfach zu
+langsam weil die ihre vorstellungen
+einfach nur weiter
+projiziert haben und nicht damit
+gerechnet haben dass sich das eben
+irgendwann mal ändert
+und da sieht man eben so ein bisschen
+man kann ihm die vergangenheit nicht
+einfach in die zukunft verlängern
+edwin hübner der sich
+schon lange mit diesem thema beschäftigt
+hat der hat das mal so genannt das er
+sagte das motto der maschinellen
+intelligenz ist wie es war wird es immer
+sein
+und das heißt aber eben
+umgedreht dass alle zukunfts impulse
+geben natürlich genau aus der anderen
+richtung kommen müssen
+eben genau da wo der mensch künstlerisch
+schaffend ist ja wie die die wir vorhin
+gesehen haben deswegen fand ich das auch
+überhaupt keinen widerspruch im
+gegenteil zu diesem vortrag also es gibt
+immer darum das künstlerisch ist
+sozusagen das was in die zukunft zeigt
+und das merkt man ja auch vielleicht
+daran dass war ja oft so dass die
+künstler in ihrer zeit eigentlich
+überhaupt nicht verstanden worden sind
+oder gewürdigt worden sind und erst
+danach hat man erkannt was sie
+eigentlich neues in die welt gebracht
+haben ja oft ja schon so dass sie zum
+teil verarmt gestorben sind
+und danach sind die bilder oder die
+musikstücke plötzlich weit verbreitet
+worden die bilder sind unbezahlbar
+geworden
+wie geht es jetzt in der zukunft weiter
+mit ki das natürlich die zentrale frage
+ein aspekt dieser frage ist ob sich ki
+weiterentwickeln wird da gab es lange
+die auffassung so unter forschern dass
+man so ein bisschen gesagt hat der
+mensch ist so ähnlich wie ein computer
+also das bewusstsein das ist die
+software und das gehirn ist die hardware
+und wenn wir jetzt
+leistungsfähigen computer haben der
+richtig leistungsfähig ist dann können
+wir vielleicht das schaffen das
+bewusstsein vom gehirn in den computer
+zu transferieren
+das nennt man dann trans humanismus
+das war so die letzten 30 40 50 jahre so
+ein bisschen auch der traum auch in
+vielen science fiction filmen oder
+romanen ist es aufgegriffen worden heute
+ist es anders heute sagen viele forscher
+das ist eigentlich so der stand dass man
+sagt
+bewusstsein kann nur entstehen wenn es
+auch so etwas wie ein leib gibt das also
+interessant also ich brauche was
+physisches damit eine art bewusstsein
+entstehen kann überhaupt und ein
+losgelöstes bewusstsein ist also nicht
+denkbar
+das gibt es im moment noch nicht auf
+hardware ebene
+da weiß man das nicht so ganz genau wie
+das weitergehen wird das könnte schon
+sein es gibt einige forscher die sagen
+dass es so was wie ein leichtes
+bewusstsein vielleicht geben wird aber
+ohne ein selbstbewusstsein wobei es für
+uns glaube ich extrem schwer vorstellbar
+ist wie es ein bewusstsein was kein
+selbstbewusstsein ist
+man weiß es nicht genau
+es ist wirklich so offen wie vor 20 30
+jahren
+es wird aber natürlich auch an
+schnittstellen gearbeitet wie man mit
+dem gehirn computer steuern kann neuer
+link ist da eine firma die von elon musk
+der begründer von tesla gegründet worden
+ist vor einigen jahren die arbeiten sehr
+stark daran
+was sicher ist es macht keinen sinn zu
+denken man könnte es irgendwie aufhalten
+also durch gesetze in deutschland oder
+in der eu
+was machbar ist wird gemacht werden also
+das ist relativ sicher das haben wir in
+der vergangenheit immer erlebt und die
+frage ist für mich wie stellen wir uns
+dazu
+und ich möchte an dieser stelle noch zum
+schluss ein bisschen darauf schauen wie
+sich oder steiner zu diesem thema
+geäußert hat und zwar war das 1917 in
+einem vortrag in dornach
+da sagt er
+an solchen stellen ist der wille dazu
+vorhanden die menschen kraft
+zusammenzuspannen mit maschinenkraft
+diese dinge dürfen nicht so behandelt
+werden als ob man sie bekämpfen müsste
+das ist eine ganz falsche anschauung
+diese dinge werden nicht ausbleiben sie
+werden kommen
+es handelt sich nur darum sie im
+weltgeschichtlichen verlaufe von solchen
+menschen in szene gesetzt werden die mit
+den großen zielen des erden werden in
+selbstloser weise vertraut sind und zum
+heil der menschen diese dinge formen
+oder ob sie in szene gesetzt werden von
+jenen menschen gruppen die nur in
+egoistischen oder in gruppen
+egoistischen diese dinge ausnutzen
+also das ist ja doch interessant ich
+fand das sehr spannend
+wie deutlich er da betont dass es eben
+unsinnig wäre gegen diese dinge
+vorzugehen und sozusagen zu meinen wir
+schieben das möglichst weit von uns und
+das ist die beste lösung möglichst gar
+nichts damit zu tun zu haben
+und das andere ist eben genau diese
+frage wer entwickelt das wir nutzt das
+und im moment ist es eben so dass ganz
+viel dieser dinge von großen firmen
+entwickelt wird die haben ihre
+firmeninteressen das ist natürlich
+einerseits legitim aber diese interessen
+dieser großen firmen die natürlich ihren
+gewinn maximieren wollen was sie auch
+dürfen die stimmen aber natürlich nicht
+immer mit den interessen der
+gesellschaft über ein
+und da kann man hoffen dass sich das in
+der zukunft noch ändert
+genau in diesem sinne wie oder steiner
+das sagt er sagt aber dann geht er noch
+weiter und er sagt dann etwas später in
+dem vortrag
+ich habe voll bedacht öfter jetzt darauf
+aufmerksam gemacht dass das bewusstsein
+des menschen zusammenhängt mit
+abbauenden kräften
+in unser nervensystem hinein ersterben
+wir
+diese kräfte diese r sterbenden kräfte
+sie werden immer mächtiger und mächtiger
+werden und es wird die verbindung
+hergestellt werden zwischen den menschen
+eher sterbenden kräften
+die verwandt sind mit elektrischen
+magnetischen kräften und den äußeren
+maschinen kräften
+der mensch wird gewissermaßen seine
+intentionen seine gedanken hinein leiten
+können in die maschinen kräfte
+es geht da noch ein bisschen weiter und
+da sagt er dann eine seite dieser
+entwicklung das zusammenführen des
+menschen mit dem mechanismus dass immer
+mehr um sich greifen muss in der zukunft
+und dann spricht er von der anderen
+seite und sagt es liegt in demjenigen
+was die geistigen verhältnisse zu hilfe
+rufen wird das kann aber nur gemacht
+werden wenn die zeit reif ist und wenn
+es eine genügende anzahl menschen dazu
+in der richtigen weise vorbereitet ist
+also das heißt für uns es hängt davon ab
+wie wir damit umgehen und steiner bittet
+ja auch ausdrücklich darum eben nicht
+vor diesen dingen die augen zu
+verschließen sondern wach und bewusst
+damit umzugehen das war übrigens die 178
+falls das jemand noch mal nachlesen will
+und steiner fordert für die schüler eben
+später in den kursen für die lehrer dass
+man das was man benutzt durchschaut und
+dass man sich mit dem was entwickelt
+wird befasst um eben vorbereitet zu sein
+auf die welt in der man lebt
+und das wollen wir in der
+medienpädagogik genau mit solchen dingen
+vermitteln aber
+natürlich immer im verhältnis zur
+entwicklungsstufe der jugendlichen
+und in diesem sinne
+forschen und entwickeln wir am tessin
+lehrstuhl eben auch für die
+lehrerbildung oder für die
+lehrer-ausbildung
+dass wir da solche dinge wie ich sie
+vorhin auch gezeigt habe entwickeln dass
+wir so etwas anbieten können eben unter
+anderem auch um so ein thema wie
+künstliche intelligenz zu verstehen denn
+uns und mir in besonderen ist es ein
+anliegen dass man da sozusagen wach
+durch die welt geht und die welt
+durchschauen kann
+vielen dank

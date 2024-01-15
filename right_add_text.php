@@ -49,6 +49,10 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                     <label class="form-check-label" for="lnk">(optional) Link</label>
                     <input type="text" class="form-control" id="lnk" aria-describedby="linkHelp" name="mylink">
                 </div>
+                <div class="form-group form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1" name="istopic">
+                    <label class="form-check-label" for="exampleCheck1">Ich habe noch keine Funktion</label>
+                </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
 

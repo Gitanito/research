@@ -1,0 +1,318 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=grsyqgB2hok","mytitle":"TopWelt,NASA schaltet Quantencomputer ab, nachdem etwas Verr\u00fccktes passiert ist! ","mylang":"de"}
+wird der Quantencomputer bald alle
+unsere Probleme lösen oder wird er
+unseren eigenen Untergang herbeiführen
+während der Quantencomputer von vielen
+Experten als verheißungsvolle
+Wundermaschine betrachtet wird verfolgen
+andere Fachleute die aktuelle
+Entwicklung mit großer Sorge auch die
+NASA arbeitet aktiv daran die
+revolutionäre Technologie auf eine neue
+Stufe zu hiefen und doch s sich die
+Raumfahrtbehörde kürzlich dazu gezwungen
+ihren Quantencomputer nach einem
+unerwarteten Vorfall abzuschalten doch
+was führte zu diesem drastischen Schritt
+und wie wird die bahnbrechende Erfindung
+unser aller Leben
+verändern was angesichts unseres
+modernen Alltags fast schon
+unvorstellbar erscheint wurde am 12 Mai
+1941 zur Realität als der
+Computerpionier Konrad Zuse seinen Z3
+der Öffentlichkeit vorstellte
+interessierte sich jedoch kaum jemand
+für den klobigen Kasten der so groß war
+wie ein Wandschrank und doch gilt der Z3
+rückblickend als der erste Computer den
+die Welt jemals gesehen hat
+selbstverständlich liegt es in der Natur
+der Sache dass zusis Erfindung noch
+nicht mit unseren heutigen Rechnern
+mithalten konnte so besaß das technische
+Monstrum eine Speicherkapazität von
+gerade einmal 64 Wörtern und benötigte
+mehrere Sekunden um eine Division oder
+Multiplikation durchzuführen wie gesagt
+blieb die eigentliche Weltsensation
+damals unter dem Radar denn es herrschte
+Krieg und der Fokus lag nun einmal nicht
+auf der Tüftelei irgend eines Erfinders
+und obwohl der moderne Computer
+heutzutage nicht mehr aus dem Leben
+wegzudenken ist dürfte er schon bald an
+Zuses veralteten C3 erinnern
+mittlerweile ist nämlich eine
+Technologie auf dem Weg die jeden
+High-End PC aussehen lässt wie einen
+verstaubten Rechenschieber doch wie
+kommt es eigentlich dass der
+Quantencomputer alles Vorangegangene
+vollkommen in den Schatten stellt wie
+funktioniert er und was verleiht ihm
+seine revolutionäre Power um sich die
+Unterschiede zwischen unseren aktuellen
+Rechnern und dem Quantencomputer vor
+Augen zu führen sich einen Blick auf das
+folgende Beispiel um eine extrem
+komplexe Rechenaufgabe zu lösen würde
+der aktuell schnellste Computer Summit
+theoretisch 100000 Jahre brauchen
+Googles Quantencomputer pychamore
+benötigte für dieses Unterfangen aber
+gerade einmal 200 Sekunden wie du
+bestimmt schon weißt arbeiten unsere PCs
+mit binary digits kurz Bits dabei kann
+ein Bit jedoch nur zwei eindeutige
+Antworten auf eine Frage liefern ein
+oder Null um auf diese Weise eine
+komplexe Information auszudrücken müssen
+also unzählige Bits an inander gereih
+werden so entspricht bereits der
+einfache Buchstabe a der sperrigen
+Bitfolge
+01001 vor diesem Hintergrund gilt je
+komplizierter die Aufgabe ist desto mehr
+Zeit und stromverbraucht der
+Computer Quantencomputer sind
+millionenfach schneller als herkömmliche
+PCs ganz anders stellt sich die Sache
+wiederum im Fall des Quantencomputers da
+dass die Wundermaschinen komplizierte
+Probleme in windeseide lösen an denen
+unsere gängigen p hoffnungslos scheitern
+hat einen einfachen Grund sie arbeiten
+mit Quantenbits und führen die
+Rechenprozesse nicht nacheinander
+sondern gleichzeitig durch dabei spielt
+das Cubit eine Eigenschaft aus dass das
+klassische bit nicht besitzt es kann
+sich gleichzeitig im Zustand 1 und null
+befinden oder auch in theoretisch
+unendlich vielen Zuständen dazwischen
+denken wir an dieser Stelle einfach mal
+an eine Münze das klassische bit stellt
+sie entweder mit Kopf oder Zahl da doch
+ein Cubit entspricht einer in die Luft
+geworfenen Münze die sich mit RAS ter
+Geschwindigkeit um sich selbst dreht sie
+ist sowohl Kopf als auch Zahl bereits
+drei cubits können acht Zustände
+gleichzeitig einnehmen 300 cubits sogar
+bis zu 2 hoch 300 schreibt man diese
+Zahl aus erhält man einen Wert der
+größer ist als die Anzahl der Teilchen
+im Universum doch das ist noch längst
+nicht alles darüber hinaus können die
+cubits in einem Quantencomputer auch
+noch quantenverschränkt sein in
+einfachen Worten ausgedrückt heißt das
+dass sie aneinander gekoppelt sind
+sprich sobald der Zustand eines cubits
+verändert wird ändert sich auch der
+Zustand des quantenverschränkten cubits
+auf diese Weise sind sogar Berechnungen
+mit Überlichtgeschwindigkeit
+möglich warum ist es so schwierig einen
+Quantencomputer zu
+bauen allerdings sind die
+Quantencomputer an denen die
+internationalen Forscher derzeit
+arbeiten noch weit vom
+Hosentaschenformat entfernt dass die
+aktuellen Typen tatsächlich noch an
+zusessmstrum aus den 40ern erinnern ist
+einem Umstand geschuldet cubits sind
+ausgesprochene Sensibelchen um sie zu
+erzeugen stehen unterschiedliche
+Methoden zur Verfügung häufig werden
+dazu Ionen in magnetische und
+elektrische Felder gesperrt in diesem
+Käfig können die Ionen dann mit Hilfe
+von Mikrowellenstrahlung in
+unterschiedliche Zustände gebracht und
+mit Informationen beladen werden google
+setzt wiederum auf quantenchips auf
+denen schwache Ströme in einem extrem
+kleinen Raum im Kreis fließen während
+jeder Strom ein Cubit darstellt werden
+Sie genau wie die Ionen mit
+Mikrowellenstrahlung in verschiedene
+Zustände gebracht doch ganz gleich auf
+welchem Wege die quantenerzeugung nun
+auch geschehen mag ein Problem bleibt
+immer bestehen die Bewegung denn
+grundsätzlich gilt sobald Teilchen eine
+bestimmte Energie besitzen fangen sie an
+um her zuutänzeln doch um sie
+einzufangen und zu verändern müssen sie
+stillstehen damit dies gelingt müssen
+die kreisströmer oder ionenfallen fast
+bis auf den absoluten Nullpunkt
+heruntergekühlt werden wir näheren uns
+ja also der tiefstmöglichen
+Temperaturgrenze von
+-273,15° CS doch ehe sich ein
+quantenchip auf sein frostige
+Betriebstemperatur heruntergekühlt hat
+braucht es mehrere Tage sowie komplexe
+große Kühlmaschinen allein dieser
+Umstand verdeutlicht schon wieso wir
+derzeit noch weit vom Zeitalter des
+quantenmartphones entfernt
+sind Quantencomputer können die stehung
+des Universums
+simulieren im Anschluss sehen sich die
+Experten aber noch mit einem weiteren
+Problem konfrontiert jede noch so kleine
+Störung zerstört den Quantenzustand der
+cubits ganz gleich ob magnetische und
+elektrische Felder oder Erschütterung es
+gilt die empfindlichen cubits gegen
+sämtliche Einflüsse von außen
+abzuschirmen doch egal wie gut es den
+Forschern auch gelingt grundsätzlich
+werden cubits schon nach wenigen
+sekundenbchteilen instabil und da die
+futuristischen Geräte auch noch nach
+ganz anderen Gesetzen funktionieren als
+unsere gewöhnlichen Rechner muss
+folglich auch das Programmieren von
+Grund auf neu angefangen werden im
+Detail sehen wir uns hier nämlich einer
+fundamentalen Eigenschaft der
+Quantenphysik gegenüber der Unschärfe
+eher ein Cubit genau ausgemessen wurde
+bleibt sein Zustand lediglich eine
+Wahrscheinlichkeit denken wir dazu nur
+einmal an einen Würfelbecher solange
+dieser geschüttelt wird können wir von
+außen nicht sagen welche Augenzahl die
+Würfel gerade Anzeigen dies ändert sich
+erst wenn wir den Becher wegnehmen die
+Würfel liegen bleiben und wir das
+Ergebnis ablesen im Gegensatz zum
+Würfelspiel liegt die Kunst der
+quantenprogrammierung nun aber darin
+dass die cubits kein zufälliges Ergebnis
+anzeigen sondern ein sinnvolles doch
+sobald all diese Hürden erst einmal
+genommen sind werden uns ungeahnte
+Möglichkeiten offen stehen von denen wir
+bisher nicht einmal zu träumen waren
+manche Experten halten es sogar für
+wahrscheinlich dass sich mit Hilfe von
+Quantencomputern buchstäblich alles
+simulieren lässt und damit ist wirklich
+alles gemeint sämtliche Prozesse die
+sich in der Natur Abspielen von ganz
+gewöhnlichen Vorgängen im Kleinen bis
+zur Entstehung des Universums steht uns
+nun also eine blühende quantenzukunft
+bevor wird die Menschheit eine
+technologische Stufe erreichen die sie
+zum kollektiven Wohlstand und Frieden
+führt na ja nicht unbedingt wer die
+aktuellen Schlagzeilen verfolgt bekommt
+eher das Gefühl dass sich uns ein
+schauriges hollywoodszenario aller e
+robot
+blüht sollen wir Intelligenzen
+entwickeln die uns
+ersetzen es ist noch gar nicht lange her
+als ein offener Brief ins Haus flatterte
+der einem Erdbeben glich die
+Unterzeichner pochen darauf die
+Entwicklung von Quantencomputern und
+künstlicher Intelligenz augenblicklich
+zu stoppen da die Folgen für die
+Menschheit ansonsten unvorhersehbar sind
+tatsächlich handelte es sich bei den
+befürw des Schreibens aber nicht um
+irgendjemanden sondern um jene führenden
+Köpfe die aktiv an der Entwicklung
+dieses Feldes beteiligt sind so warnen
+Elon Musk Apple Gründer Steve wosniak
+und über 1us weitere techresen vor den
+erheblichen Risiken die mit der
+ungebremsten ki- Entwicklung verknüpft
+sind denn tatsächlich ist die KI bereits
+jetzt dazu imstande Bilder zu kreieren
+die täuschend echt wirken wie weit
+können wir unseren Augen also im
+Internet überhaupt noch trauen was
+passiert wenn die künstliche Intelligenz
+zu manipulativen Propagandazwecken
+genutzt wird und was geschieht erst wenn
+sich die KI dann auch noch mit den
+Quantencomputern vereint denn eines
+dürfen wir nicht vergessen vor nicht
+allzu langer Zeit war die KI noch nicht
+dazu in der Lage derartige Bilder zu
+generieren die Entwicklung schreitet mit
+einem erschreckenden Tempo voran da wir
+uns also derzeit in einem tiefgreifenden
+Wandel in der Geschichte des Lebens
+befinden müssen wir mit der
+entsprechenden Sorgfalt auf die
+niedergewesene Veränderung reagieren so
+heißt es in dem Brief unter anderem dass
+kiysteme mit einer dem Mensch
+ebenbürtigen Intelligenz tiefgreifende
+Risiken für die Gesellschaft und die
+Menschheit darstellen können das größte
+Problem besteht derzeit darin dass der
+KI Entwicklung praktisch keine Grenzen
+gesetzt sind und dass sie schlichtweg
+nicht kontrolliert wird nicht einmal die
+Entwickler würden genau verstehen was
+sie da gerade eigentlich tun die Fragen
+die das Schreiben hierzu aufwirft lauten
+wie folgt sollen wir zulassen dass
+Maschinen unsere Informationskanäle mit
+Propaganda und Lügen überfluten sollen
+wir alle unsere Jobs automatisieren
+sollen wir nichtmenschliche
+Intelligenzen entwickeln die uns
+irgendwann zahlenmäßig überlegen sind
+uns überlisten und überflüssig machen
+oder uns sogar ersetzen könnten damit
+überhaupt noch die Chance besteht her
+über die ungehemmte ki-entwicklung zu
+werden bräuchte es neben der
+sechsmatigen entwicklungspause ganz
+klare Regularien und Kontrollen nur so
+können wir vielleicht noch vermeiden
+dass der strahlende ki- somommer in
+einen ungemütlichen ki- Herbst umschlägt
+auch die US-Regierung zeigte sich
+besorgt über die rasanten Entwicklungen
+im Bereich der Quantencomputer und
+forderte die NASA und Google in einem
+beispiellosen Schritt auf ihre
+quantencomputerprojekte einzustellen zu
+groß ist die Sorge vor dem was da kommen
+könnte das Zusammenspiel von KI und
+quantentechnologie steht mit unter im
+Verdacht eine potenzielle Bedrohung für
+Verschlüsselungssysteme darzustellen die
+Sicherheit sensibler Informationen
+einschließlich Finanzunterlagen und
+geheimer Daten scheint in Gefahr und
+auch wenn diese Wendung in der
+quantensaga überaus unerwartet kam ist
+klar dass die Geschichte an dieser
+Stelle noch lange nicht zu Ende ist
+die wissenschaftliche Gemeinschaft wird
+in ihrem Streben nach Fortschritt und
+Wissen weiterhin versuchen die größten
+Geheimnisse des Kosmos zu entschlüsseln
+es bleibt noch abzuwarten welche
+Abzweigungen die Schnittstellen zwischen
+künstlicher Intelligenz und
+Quantencomputern noch für uns bereit
+hält und jetzt lass uns ein kostenloses
+Abo da und bleib von jetzt an immer auf
+dem neuesten
+Stand

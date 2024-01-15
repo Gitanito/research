@@ -9,17 +9,21 @@ if (isset($_GET['search']) && trim($_GET['search']) != "") {
         $q_add[] = " name LIKE '%".$sw."%' ";
     }
 
+    $index = [];
     $all = [];
     $all_ = $db->query("SELECT name,value FROM wordindex WHERE ishead=1 AND  name LIKE '%".$_GET['search']."%' ;");
     while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
         if (substr($a['name'],0, 1) != "%") {
             $out[] =  "<li><a href='wiki/" . rawurlencode($a['value']). "' target=main>" . $a['name'] . "</a></li>";
+            $index[] = $a['value'];
         }
     }
     $all_ = $db->query("SELECT name,value FROM wordindex WHERE ishead=1 AND ".join(" AND ", $q_add).";");
     while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
         if (substr($a['name'],0, 1) != "%") {
-            $out[] =  "<li><a href='wiki/" . rawurlencode($a['value']). "' target=main>" . $a['name'] . "</a></li>";
+            if (!in_array($a['value'], $index)) {
+                $out[] = "<li><a href='wiki/" . rawurlencode($a['value']) . "' target=main>" . $a['name'] . "</a></li>";
+            }
         }
     }
     echo "<ul>".join("\n", $out)."<ul>";

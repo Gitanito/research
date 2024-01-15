@@ -1,0 +1,307 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=1jlLSA-Pr9w","mytitle":"TopWelt,Michio Kaku warnt! Etwas Schreckliches passierte mit einem Quantencomputer! ","mylang":"de"}
+unser aller Leben wird sich in wenigen
+Jahren radikal verändern mit dem Einzug
+des Quantencomputers wird ein Zeitalter
+anbrechen von dem wir derzeit nicht
+einmal zu träumen wagen während die
+Rechenleistung der Hightech-Geräte
+unseren Alltag in vollkommen neues
+Fähren katapultieren wird Wand michukaku
+aber auch vor dem Gefahren der
+technologischen Revolution sie besitzt
+das Potenzial unsere Welt ins absolute
+Chaos zu stützen du bist wissen was es
+mit den Hintergründen dieser
+beunruhigenden Warnung auf sich hat dann
+drück auf den like und den abo-button
+und bleibt unbedingt bis zum Ende dran
+Quantencomputer
+das muss man sich mal vor Augen führen
+vor 200 Jahren bewegten sich unsere
+Vorfahren noch auf dem Rücken von
+Pferden von A nach B der technologische
+Aufschwung der binnen weniger
+Generationen erblühte sollte die Welt
+für alle Zeiten einschneiden verändern
+so leben wir heute in einer Zeit in dem
+jeder mit jedem vernetzt ist kaum ein
+Winkel der Erde scheint noch
+unerreichbar wir lassen Maschinen für
+uns arbeiten und nicht einmal das
+Weltall ist für unseren Erkundungsdrang
+sicher allerdings wissen die Experten
+auch wir befinden uns noch immer erst am
+Anfang unserer technologischen Reise in
+den kommenden Jahrzehnten werden
+Erfindungen und geräteaufkommen die wir
+derzeit höchstens in die weltfiction
+verorten würden abseits von künstlichen
+Intelligenzen und tschechische BT liegt
+das Hauptaugenmerk der Wissenschaftler
+auf dem Siegeszug des Quantencomputers
+doch was ist ein Quantencomputer
+überhaupt und wieso ist der unseren
+aktuellen PCs in allen Belangen haushoch
+überlegen unsere Computer Tablets und
+Handys teilen sich einige Gemeinsamkeit
+sie müssen allesamt mit Bits dabei gilt
+ein Bit kann nur zwei Zustände annehmen
+eine 1 oder eine 0
+Quantencomputer funktionieren dahingegen
+aber ganz anders sie arbeiten mit
+sogenannten Quantenbits die häufig
+einfach nur cubits genannt werden genau
+wie ein herkömmlicher Rechner können
+cubits die Zustände 1 und 0 annehmen
+besonders abgefahren wird es aber wenn
+wir uns vor Augen halten dass ein Cubit
+auch mehrere Zustände gleichzeitig
+annehmen kann und zwar in unendlich
+vielen Ausprägungen denken wir dazu nur
+kurz einmal eine Münze ein Cubit
+entspricht dahin gegen aber einem in die
+Luft geworfenen Geldstück das rasant um
+die eigene Achse rotiert wir wissen
+nicht ob es Kopf oder Zahl ist es
+befindet sich gleichzeitig in beiden
+Zuständen auf die Leistungsfähigkeit
+eines Quantencomputers bezogen bedeutet
+dies nichts anderes als dass er seine
+Berechnungen bedeutend schneller
+durchführen kann als unsere derzeitigen
+PCs wobei dies sogar noch etwas
+untertrieben ist da die cubits darüber
+hinaus auch noch Quanten verschränkt
+sein können sind sogar Rechnungen mit
+über Lichtgeschwindigkeit möglich in
+einfachen Worten ausgedrückt so meint
+der Begriff Quanten verschränkt dass die
+cubits miteinander verbunden sind das
+heißt sobald ein kubit einen bestimmten
+Zustand annimmt verändert sich auch der
+Zustand des Quanten verschränkten
+Partners okay zugegeben derzeit ist es
+uns noch nicht möglich das volle
+Potenzial der rechenmonster
+auszuschöpfen doch auch wenn aktuell nur
+wenige Cubit Zustände nutzbar sind
+steigt die Leistung des Computers mit
+jedem hinzukommenden exponentielle an
+drei cubits können acht Zustände
+gleichzeitig annehmen und 300 cubits 2
+hoch 300 eine kleine Einordnung diese
+Zahl übersteigt die Anzahl aller
+bekannten Teilchen im Universum
+Funktion und Komplikationen
+und so funktioniert es um cubits zu
+kreieren werden für gewöhnlich geladene
+Atome also Ionen in magnetische und
+elektrische Felder gesperrt innerhalb
+dieses Ionen Gefängnisses können die
+Teilchen dann mit Hilfe von
+Mikrowellenstrahlung in unterschiedliche
+Zustände gebracht und Informationen
+aufgeladen werden das Ablesen der
+Ergebnisse geht ebenso per
+Mikrowellenstrahlung von Statten jedes
+Ionen verkörpert also ein cubett darüber
+hinaus stehen den Experten aber auch
+noch andere Wege der Cubit Erzeugung
+offen google setzt beispielsweise auf
+quantenchips auf den schwache Ströme auf
+einem mikroskopisch kleinen Raum
+rotieren hier sind es also die
+kreisströme welche die Kubitz darstellen
+die Veränderung der Zustände und die
+Auswertung erfolgt aber ebenfalls
+mittels Mikrowellen Strahlung doch ganz
+gleich wie die Cubes nun auch ins Leben
+gerufen werden die Experten sehen sich
+stets mit einer gewaltigen
+Herausforderung konfrontiert denn
+tatsächlich hatten die Teilchen
+keineswegs still sondern fangen ab einer
+bestimmten Energie damit an sich zu
+bewegen und herum zu taumeln
+sie aber wie gewünscht verändern zu
+können müssen Sie ruhig gestellt werden
+was machen die Forscher also sie kühlen
+die Ionen fallen fast auf den absoluten
+Nullpunkt herunter bei Temperaturen um
+273 Grad unter 0 zeigen sich die Ionen
+zwar angenehm gefügig allerdings dauerte
+es mehrere Tage bis ein quantenchip
+seine klären kalte Betriebstemperatur
+angenommen hat hinzu kommt das Problem
+dass cubitz kleine Mimosen sind jede
+noch so winzige Störung zerstört ihren
+Quantenzustand folglich müssen die
+Fachleute penibel verhindern dass die
+Teilchen Erschütterungen elektrischen
+Feldern oder anderen Störfaktoren von
+außen ausgesetzt werden aber ganz egal
+wie gut die Schutzmaßnahmen auch greifen
+jubits werden immer nach wenigen
+Sekunden Bruchteilen in stabil die
+Zeitspanne in der die Berechnungen
+vollständig abgeschlossen sein müssen
+ist also dramatisch kurz der Umstand das
+Quantencomputer auf der grundlegenden
+Eigenschaft der Unschärfe basieren ist
+ein weiterer Faktor der die
+Programmierung erheblich kompliziert in
+einfachen Worten ausgedrückt wissen wir
+nämlich nicht dass das Cubit gerade
+tatsächlich macht ehe dieses genau
+ausgelesen wurde ist es nämlich nicht
+mehr als eine Wahrscheinlichkeit wir
+erhalten nur ein einziges Ergebnis
+welches aber aus vielen Berechnungen
+resultiert die zeitgleich vonstatten
+gehen stellen wir uns dazu mal einen
+Würfelbecher vor während dieser
+geschüttelt wird prallen die Würfel
+immer wieder an dessen Wand und
+gegeneinander erst wenn wir den Becher
+auf den Tisch stoßen und ihn aufdecken
+wissen wir welches Ergebnis die Würfel
+angenommen haben die Zustände die sie
+davor in hatten sind uns aber unbekannt
+potenzielle Gefahren
+ehe wir alle einen kleinen
+Quantencomputer in der Hosentasche
+tragen werden ist wohl noch etwas
+gedrückt gefragt zunächst liegt es an
+den Experten die gerade beschriebenen
+Hürden langfristig zu meistern
+allerdings steht bereits jetzt eines
+fest
+Quantencomputer sind dazu in der Lage
+Probleme zu knacken für die unsere
+aktuellen Rechner nicht einmal
+Lösungswege finden oder erstellen können
+wie sich die Ära der quantentechnik im
+Detail gestalten wird muss die Zukunft
+zeigen jedoch sind sich viele Experten
+sicher die Maschinen sind praktisch dazu
+in der Lage die Natur selbst zu
+berechnen dort wo ein Gerät eine Aufgabe
+Millionen Mal schneller löst als derzeit
+der leistungsfähigste Supercomputer
+bricht ein neues Zeitalter an alles was
+vorstellbar ist kann jetzt berechnet
+werden ein Beispiel welches ist das
+beste aerodynamische Design eines Autos
+aktuell bleibt den Wissenschaftler
+nichts anderes übrig als auszuprobieren
+erst der Test in einer Simulation oder
+in einem Windkanal wird zeigen wie die
+Antwort auf diese Frage lautet und genau
+darin besteht der gewaltige Unterschied
+zu qu Computern sie müssen nicht herum
+probieren sie liefern uns das Ergebnis
+direkt ein normaler PC führt Befehle aus
+die wir ihm erteilen in der Theorie
+handelt es sich dabei um Dinge die wir
+eigentlich auch selbst tun könnten auch
+wenn dies mit unter extrem viel Zeit
+beanspruchen würde der
+quantencomputermeister dahin gegen
+Aufgaben die sich unsere Intuition
+entziehen und die wir niemals selbst
+stemmen könnten an dieser Stelle möchten
+wir aber auch die kritischen
+Gegenstimmen zu Wort kommen lassen die
+auf die Gefahren der technologischen
+Revolution hinweisen denn nach dürfte es
+für einen Quantencomputer ein Leichtes
+sein
+datenverschlüsselungsprotokolle zu
+entschlüsseln für externe Hacker wird es
+also noch einfacher nach vernetzten
+Geräten oder offenen Anwendungen in der
+Nähe zu suchen
+Quantencomputer und KI wir leben
+wirklich in aufregenden Zeiten ganz
+gleich ob ein Aufsatz zu einem
+bestimmten Thema ein Kunstwerk nach
+unseren Vorstellungen oder ein
+einzigartiger ai-song dank der immer
+fortschrittlicheren KI sind derartige
+Kreationen nur wenige Mausklicks
+entfernt grundsätzlich scheinen
+Quantencomputer und die künstliche
+Intelligenz eng miteinander vernetzt zu
+sein manche Fachleute halten es sogar
+für möglich dass die Quantencomputer der
+Zukunft von der KI programmiert werden
+weil wir Menschen dazu einfach zu wenig
+verstehen auch der US-amerikanische
+Physiker michio Kakao verfolgt die
+aktuellen Entwicklungen mit großem
+Interesse allerdings weiß Kakao auch
+welche Risiken mit der Verwendung der
+künstlichen Intelligenz einhergehen in
+einem Podcast mit Joe Rogen sagte er
+dazu die KI ist eine Software wir reden
+hier davon unterschiedliche
+Informationen aus dem Netz zusammen sie
+zusammenzuziehen und sie zu einem
+gemeinsamen Ergebnis zusammenzufügen
+Quantencomputer sind viel größer als das
+es ist gute Frage der Hardware sie
+schenken uns vollkommen neue
+Möglichkeiten wenn diese beiden
+Revolutionen der Software und der
+Hardware vereint werden erhalten wir
+eine extrem mächtige Allianz doch wissen
+sie Chatbots betrügen Lügen und
+schwindeln wenn du ein
+Highschool-Schüler bist kannst du
+irgendeinen Schwachsinn im Netz
+veröffentlichen doch nun wird ein
+Chatbot auf diesen Londons zugreifen und
+ihn in seinen informationsschatz
+aufnehmen der Punkt ist Chatbots wissen
+nicht was korrekt ist oder was falsch
+alles was sie tun ist existierende
+Informationen zusammenzutragen Sie
+interessiert es nicht ob die
+Informationen der Wahrheit entsprechen
+dazu wurden sie nicht programmiert ein
+Chatbot ist wie ein Teenager der seine
+Hausaufgaben von jemand anderem
+abschreibt und sie als seine eigenen
+verkauft ich bin ein Wissenschaftler wir
+beschäftigen uns mit Dingen die kreativ
+neu und innovativ sind mit Dingen die
+unsere Wahrnehmung der Welt verändern
+nichts davon absolut nichts kommt von
+einem Chatbot wenn ich ein Buch schreibe
+gibt es immer einen faktenchecker er
+überprüft meine Aussagen auf ihre
+Korrektheit aber es gibt keinen
+faktenchecker für Checkbox das ist der
+Grund warum sie gefährlich sind sie
+können bedenkliche Falschinformationen
+verbreiten welche die Benutzer für wahre
+Münze nehmen doch an dieser Stelle
+kommen die Quantencomputer ins Spiel du
+kannst einem Quantencomputer Befehlen
+den ganzen Müll aus einem Chat gptext zu
+entfernen und er wird es tun und damit
+vielen Dank dass du dir unser Video bis
+zum Schluss angeschaut hast lass uns
+sehr gerne einen Daumen nach oben und
+ein Abo da um uns kostenlos zu
+unterstützen und gleichzeitig immer auf
+den neuesten Stand zu bleiben wirf doch
+gleich noch einen Blick auf die Videos
+die wir hier im Abspann für dich
+verlinkt haben und jetzt interessiert
+uns erstmal deine Meinung wie werden die
+künstliche Intelligenz und die
+Quantencomputer unser Leben verändern
+wird diese technologische Revolution
+auch große Gefahren wir sind auf deinen
+Kommentar gespannt

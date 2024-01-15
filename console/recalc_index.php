@@ -3,7 +3,7 @@
 $cleanup = false;
 
 ini_set('memory_limit', '512M');
-ini_set('max_execution_time', '300');
+ini_set('max_execution_time', '3600');
 error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 
@@ -66,7 +66,7 @@ while ($a = $all_->fetchArray(SQLITE3_ASSOC)) {
             unset($intext[0]);
 
             $intitle = explode(',', trim(str_replace("\u{00a0}", ' ', $entry['mytitle'])));
-            echo $ekey+1 . " von ". $entriescount . " : ".$intitle[0]."\n";
+            echo $startid + $ekey+1 . " von ". $entriescount . " : ".$intitle[0]."\n";
 
             $db->exec("UPDATE settings SET value='".($startid + $ekey)."' WHERE name='indexingstartpoint';");
 

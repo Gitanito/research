@@ -25,7 +25,7 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
         $inlink = $_POST['mylink'];
         $intype = "video";
         add($intitle, $intext, $inlink, $intype, $_POST['mylang']);
-        $alert = '<div class="alert alert-success" role="alert">Das Video wurde importiert!</div>';
+        $alert = '<div class="alert alert-success" role="alert">Das Video <b>'.$_POST['mytitle'].'</b> wurde importiert!</div>';
     } else if ($_POST['mydl'] == 'pl') {
         $cmd = 'cd temp/playlist/ || true && rm * || true && ../../yt-dlp --write-subs --write-auto-subs --sub-langs ' . $_POST['mylang'] . ' --sub-format ttml --no-download --yes-playlist "' . $_POST['mylink'] . '"';
         //echo $cmd;
@@ -66,7 +66,8 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                 }
             }
         }
-        $alert = '<div class="alert alert-success" role="alert"><b>'.$importcount.'</b> Videos wurden importiert!</div>';
+        $alert = '<div class="alert alert-success" role="alert"><b>'.$importcount.'</b> Videos von <b>'.$_POST['mytitle'].'</b> wurden importiert!</div>';
+        shell_exec('cd temp/playlist/ || true && rm * || true && ');
     }
 }
 echo $alert;
