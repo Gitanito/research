@@ -1,0 +1,4 @@
+{"type":"link","mylink":"https:\/\/notendur.hi.is\/erlendur\/english\/","mytitle":"","mylang":"de"}
+
+
+[1] https://notendur.hi.is/erlendur/english/

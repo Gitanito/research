@@ -1,26 +1,21 @@
-{"name":"The Orient Magazine (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/orient_magazine","mytitle":"The Orient Magazine (IAPSOP)","mylang":"de"}
-  The Orient Magazine (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"Antahkarana (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/antahkarana","mytitle":"Antahkarana (IAPSOP)","mylang":"de"}
+  Antahkarana (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  The Orient Magazine</I>      
+ &nbsp; &nbsp;     Periodical:  Antahkarana</I>      
 
     Summary:&nbsp;  From Pat Deveney's database:
 
- Orient Magazine, The.
- Occultism, History, Art and Science.
- 1907--1907  Monthly
- New York, NY.  Publisher: The Orient Magazine Publishing Co..  Editor: Prof. Jaime Ramirez, chief editor (Gibralter), E.H. Lambrides, business and advertising manager and treasurer (New York);  E.X Tchorba-Joglu, general manager (Constantinople).  Succeeded by: Orient Weekly Newspaper
- 1/1, December 1907.  42 pp., $1.50 a year.
+ Antahkarana (El Sendero).
+ Revista Teosofica Mensual.
+ Satyat Nasti Paro Dharma--No Hay Religion Mas Elevada Que La Verdad
+ 1894--1896  Monthly
+ Barcelona, Spain.  Language:  Spanish.  Publisher: Sociedad Teosofica de Espana.  Editor: Jose Roviralta Borrell (?).
+ 1/1, January 21, 1894-3/30, June 21, 1896.  8 pp., 2 pesetas a year in Spain, 8 elsewhere.
 
-  This journal was the product of what seems to have been a group of "Levanters" (in Eric Ambler's or Lawrence Durrell's sense) who washed up in New York and attempted to bring to occult publishing the business lessons learned as commission merchants, product representatives and agents in the Turkey trade for oriental rugs, foods ("Harem's Delight") and bric-a-brac.  It is unique.  The announced intention was to be a magazine of "universal appeal," with oriental overtones emphasized by numerous plates of languid, voluptuous houris (admitted to be "rather inducing") that would delight the most rigid modern proponent of "Orientalism."  Beyond this, however, were to be articles on: "Love, Christian Science, Spiritualism, Hypnotism, Telepathy, Magic, Astrology and everything concerning Occultism, Theatrical News, Arts, etc." It is impossible to determine wither this occult side reflected some actual interest of the publishers or whether it was included because of occultism's vaguely oriental connotations or to capitalize on perceived current trends or simply because of the availability of material, but the journal sponsored a Society for the Promotion of Occult Sciences and offered from its offices on 64th Street a library of books "concerning all the Oriental Nations, Traveling Accounts, Books on Spiritualism. Mediumship, Clairvoyancy, Crystal Gazing, Illusions, Magic, Black Art, Palmistry, Astrology, Hypnotism, Character Reading, Physiognomy and Phrenology."
-
- In support of this vision of the mysterious orient, the journal published novelettes ("The Egyptian Ring, An Occult Tale of Old Egypt"), travel tales on "Beduin Highwaymen," opium smoking, "Adventures with a Serpent,"  as well as articles on "Spiritualism," "A Boy's Amazing Powers in Clairvoyancy," "Abbas Behaa, the Personal Son of God," "Christian Science," "Hypnotism" (complete with a smiling houri undergoing surgery under its influence), "A Seer's Experience; Love, How to Obtain It," etc.  Some articles more overtly combined the journal's commercial interests with mystery.  "The Aim of the Occident" promoted Madame Babauhot, late "official beauty doctor" of the Khedive of Egypt, who offered American women the benefits of the true, oriental methods of permanently restoring youth and beauty.  "And it takes Oriental goods to accomplish results. Nothing Occidental will do the trick No substitutes can be used. And these imported luxuries are not at all cheap. But who cares for mere money when beauty, a wealthy marriage, and all the attendant luxuries of a life of ease under such circumstances is at stake! Any of the most common necessities of life will be accounted as superfluous luxuries, with such a stake in view."  The journal also promoted its complete line of rugs, goods and objects of art ("which you are cordially invited to inspect at our offices"), and offered a bewildering variety of prizes, premiums and coupons to subscribers: $10.00 in gold "to the person who can suggest the best method of increasing our circulation to 1,000.000"); other prizes for the  best Oriental Poem / Drawing / Story, or article on "Spiritualism and Clairvoyancy," "Illusions and Magical Tricks," "Commerce with the Orient," etc.  Coupons were awarded for subscriptions and purchases, entitling the possessor to select goods from the journal's extensive catalogue.
-
- Despite these inducements, there was no second issue of the journal.  The single issue in the Library of Congress has bound in a letter dated August 1908 notifying the library that it had been "temporarily suspended" and offering to send the Orient Weekly Newspaper if the librarian desired.  (Apparently he did not, for no copies are listed in the catalogue.)  LOC.
-
-      Issues:Orient Magazine V1 N1 Dec 1907         </p>
+ 	 The journal was published by the Rama Branch of the Theosophical Society, in Barcelona, and, as it said in its farewell issue, saw as its mission the spreading of Theosophical ideals in "vast field of the less-privileged classes."  The journal included contributions by Jose Plana Dorca, Arnaldo Mateos, Alexander Fullerton, H. Snowden Ward, and others, and carried a running translation of the Bhagavad Gita and of Godolphin Mitford's "The Elixir of Life." The political bent of the journal. shared with many other Theosophical journals of the time, can be seen from "Socialismo Verdadero Conduce a la Fraternidad Universa."   Archivo General de la Guerra Civil Espanola.      Issues:Antahkarana V1 N1 Jan 1894 Antahkarana V1 N2 Feb 1894 Antahkarana V1 N3 Mar 1894 Antahkarana V1 N4 Apr 1894 Antahkarana V1 N5 May 1894 Antahkarana V1 N6 Jun 1894 Antahkarana V1 N7 Jul 1894 Antahkarana V1 N8 Aug 1894 Antahkarana V1 N9 Sep 1894 Antahkarana V1 N10 Oct 1894 Antahkarana V1 N11 Nov 1894 Antahkarana V1 N12 Dec 1894 Antahkarana V2 N13 Jan 1895 Antahkarana V2 N14 Feb 1895 Antahkarana V2 N15 Mar 1895 Antahkarana V2 N16 Apr 1895 Antahkarana V2 N17 May 1895 Antahkarana V2 N18 Jun 1895 Antahkarana V2 N19 Jul 1895 Antahkarana V2 N21 Sep 1895 Antahkarana V2 N22 Oct 1895 Antahkarana V2 N23 Nov 1895 Antahkarana V2 N24 Dec 1895 Antahkarana V3 N25 Jan 1896 Antahkarana V3 N26 Feb 1896 Antahkarana V3 N27 Mar 1896 Antahkarana V3 N28 Apr 1896 Antahkarana V3 N29 May 1896 Antahkarana V3 N30 Jun 1896       </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/orient_magazine
+[1] http://iapsop.com/archive/materials/antahkarana

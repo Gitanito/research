@@ -1,23 +1,24 @@
-{"type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/spiritualiste_new_orleans","mytitle":"Le Spiritualiste de la Nouvelle Orleans (IAPSOP)","mylang":"de"}
-  Le Spiritualiste de la Nouvelle Orleans (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"Journal du Magnetisme (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/journal_du_magnetisme\/","mytitle":"Journal du Magnetisme (IAPSOP)","mylang":"de"}
+  Journal du Magnetisme (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  Le Spiritualiste de la Nouvelle Orleans</I>      
+ &nbsp; &nbsp;     Periodical:  Journal du Magnetisme</I>      
 
     Summary:&nbsp;  From Pat Deveney's database:
 
- Spiritualiste [de la Nouvelle-Orleans], Le.
- Echo-mensuel.
- Other titles: Spiritualiste, Le
- 1857-1858  Monthly
- New Orleans, LA.  Language:  French.  Publisher: G. Coppens & Co. .  Editor: Joseph Barthet.  Succeeded by: Le Progres Spiritualiste (Sceaux)
- 1/1, January 1857-December 1858.  $2.00 a year, 28 pp.
+ Journal du Magnetisme.
+ Other titles: Journal du Magnetisme, du Massage et de la Psychologie
+ 1845--1861  Semimonthly
+ Paris, France.  Language:  French.  Publisher: A. Rene.  Editor: Redige par une Societe de magnetiseurs et medecins, sous la direction de M. le Baron Dupotet de Sennevoy.
+ Succeeds: Journal de l’Ame (Geneva)?  Succeeded by: Chaîne Magnetique; Revue de Magnetisme (1878)-->Journal du Magnetisme (1879)
+ Corporate author:  Organe de la Societe magnetique de France / Organe de la Societe psychique internationale
+ 1/1, 1845-1861   48-64 pp. a month.  From internal evidence the journal appears to have been published in semimonthly fascicles.
 
- The journal formally added "de la Nouvelle-Orleans" to its title beginning in January 1858.  The Spiritual Telegraph for March 21, 1857 says that while Barthet was editor "in the external . . . the publication purports to be mainly under the superintendence of the Spirits."  Barthet was an anticlerical engineer, a fugitive from the France of Napoleon III, sent to America by Baron Dupotet, as the Journal du Magnetisme announced in 1856.  Buchanan's Journal of Man lists him as a member of the Magnetic Society of New Orleans (1846-1851).  (Online: spirithistory.iapsop.com).  Sam Riley, "Exotic Americana: The French-language Magazines of Nineteenth Century New Orleans," Journal of Magazine & New Media Research 1/2, Fall 1999 says of Barthet: "A 'medium' who claimed to be able to communicate with the spirit world, Barthet used a method of 'interviewing' that would make today's tabloid writers blush: he would 'contact' famous individuals who long had been dead and write up their 'revelations.' Barthet was also able to coax poetry from his 'Amis Invisibles.'    Among these friends were Pope Leo X and Fenelon.  The magazine's cover page showed two disembodied hands clasping one another, presumably representing contact between the corporeal and spirit worlds."  It is said that Berthet's seances included members of New Orleans' gens de couleur, the city's free-black intellectuals-a notable fact for the period.  The same source also says that the journal was suppressed after conflict with the authorities and the Church - a not unlikely consequence of Barthet's regular comments on "Immoralites Orthodoxes" and "Immoralites des Jesuits."  Jean-Marc Allard Duplantier, "'Nos Freres d'Outre-Golfe': Spiritualism, Voudou and the Mimetic Literatures of Haiti and Louisiana" (Ph.D. dissertation, LSU).  The journal reported on seances in New Orleans with the occasional visiting "American" medium like Rollin M. Squire and with native French-speaking mediums (and spirits), all attended by a slight sprinkling of  American visitors, but most of its content was translations from English-language periodicals and newspapers. The Bibliotheque Nationale says the journal was succeeded by Le Progres Spiritualiste of Sceaux in France, which may indicate that Barthet returned to France during the American Civil War.  LOC; NY State Library; Yale University; University of Texas, Austin; University of Notre Dame; Louisiana State University; Harvard University; Princeton University; University of Tennessee; University of Texas, Austin; Staatsbibliothek zu Berlin; and other locations in OCLC.
+ Baron Jules Denis Du Potet (or Dupotet) de Sennevoy (1796-1881) founded the journal and edited the first series (until 1861).  The journal was revived in 1878 by by Hector Durville as Revue Magnetique and the name changed the next  year to the original, and also continued as La Chaine Magnetique by Dupotet himself.  Dupotet was extraordinarily important in the development of occultism in the nineteenth century both through this journal and through his La Magie Devoilee, ou Principes de Science Occulte (1852) which forcefully identified the principles active in mesmerism with those employed in traditional magic.  The journal was riven in its later years by the fight between those who insisted on the magnetic "fluid" as the cause of the then-current phenomena, and those who, at least, wanted to include the spirits of the dead as movers.  The Crabtree 518.  ZDB: Freiburg Inst Grenzgeb Psychol.;  BL; Harvard University
 
-       Issues:Spiritualiste V1 N1-12 1857 Spiritualiste V2 Index 1858  Spiritualiste V2 N1 Jan 1858 Spiritualiste V2 N2 Feb 1858 Spiritualiste V2 N3 Mar 1858 Spiritualiste V2 N4 Apr 1858 Spiritualiste V2 N5 May 1858 Spiritualiste V2 N6 Jun 1858 Spiritualiste V2 N7 Jul 1858 Spiritualiste V2 N8 Aug 1858 Spiritualiste V2 N10 Oct 1858 Spiritualiste V2 N11 Nov 1858 Spiritualiste V2 N12 Dec 1858      </p>
+      Issues:Journal du Magnetisme V1-2 1845-1846 Journal du Magnetisme V3 1846 Journal du Magnetisme V4 1847 Journal du Magnetisme V5 1847 Journal du Magnetisme V6 1848 Journal du Magnetisme V7 1848 Journal du Magnetisme V8 1849 Journal du Magnetisme V9 1850 Journal du Magnetisme V10 1851 Journal du Magnetisme V11 1852 Journal du Magnetisme V12 1853 Journal du Magnetisme V13 1854 Journal du Magnetisme V14 1855 Journal du Magnetisme V15 1856 Journal du Magnetisme V16 1857 Journal du Magnetisme V17 1858 Journal du Magnetisme V18 1859 Journal du Magnetisme V19 1860 Journal du Magnetisme V20 1861       </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/spiritualiste_new_orleans
+[1] http://iapsop.com/archive/materials/journal_du_magnetisme/

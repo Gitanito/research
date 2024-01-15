@@ -1,0 +1,4 @@
+{"type":"link","mylink":"http:\/\/www.onb.ac.at\/sammlgn\/sapafrs.htm","mytitle":"","mylang":"de"}
+
+
+[1] http://www.onb.ac.at/sammlgn/sapafrs.htm

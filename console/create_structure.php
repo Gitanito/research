@@ -9,7 +9,6 @@ $db-> exec("CREATE TABLE IF NOT EXISTS settings(
    id INTEGER PRIMARY KEY AUTOINCREMENT, 
    name TEXT NOT NULL,
    value TEXT NOT NULL)");
-$db->exec("INSERT INTO settings (name,value) VALUES ('indexingstartpoint', '0')");
 
 $db-> exec("CREATE TABLE IF NOT EXISTS wordindex(
    id INTEGER PRIMARY KEY AUTOINCREMENT, 
@@ -42,31 +41,34 @@ $db-> exec("CREATE TABLE IF NOT EXISTS content(
 /*
 $db->exec("DELETE FROM content;");
 $db->exec("delete from sqlite_sequence where name='content';");
-$directory = '../sources'; // Replace with the actual directory path
+$directory = '../sources_old'; // Replace with the actual directory path
 $entries = scandir($directory);
 foreach ($entries as $entry) {
     if ($entry !== '.' && $entry !== '..') {
         $path = $directory . '/' . $entry;
         if (is_file($path)) {
-            $file = json_decode(file_get_contents($path));
-            $content = $file->content;
-            unset($file->content);
-            unset($file->_id);
+            $fcontent = file_get_contents($path);
+            $file = explode("\n", $fcontent);
+            $settings = json_decode($file[0]);
 
-            $stmt  = $db->prepare ("INSERT INTO content (name,type,mylink,mytitle,mylang,content) values (:name,:type,:mylink,:mytitle,:mylang,'');");
-            $stmt->bindValue(':name', $file->name, SQLITE3_TEXT);
-            $stmt->bindValue(':type', $file->type, SQLITE3_TEXT);
-            $stmt->bindValue(':mylink', $file->mylink, SQLITE3_TEXT);
-            $stmt->bindValue(':mytitle', $file->mytitle, SQLITE3_TEXT);
-            $stmt->bindValue(':mylang', $file->mylang, SQLITE3_TEXT);
-            $stmt->execute();
+            $stmt  = $db->prepare ("select name FROM content_old where mylink=:mylink;");
+            $stmt->bindValue(':mylink', $settings->mylink, SQLITE3_TEXT);
+            $res = ($stmt->execute())->fetchArray();
+            if (isset($res[0])) {
 
-            $result = $db->query("SELECT last_insert_rowid();");
-            $exists  = $result->fetchArray();
+                $stmt = $db->prepare("INSERT INTO content (name,type,mylink,mytitle,mylang,content) values (:name,:type,:mylink,:mytitle,:mylang,'');");
+                $stmt->bindValue(':name', $res[0], SQLITE3_TEXT);
+                $stmt->bindValue(':type', $settings->type, SQLITE3_TEXT);
+                $stmt->bindValue(':mylink', $settings->mylink, SQLITE3_TEXT);
+                $stmt->bindValue(':mytitle', $settings->mytitle, SQLITE3_TEXT);
+                $stmt->bindValue(':mylang', $settings->mylang, SQLITE3_TEXT);
+                $stmt->execute();
 
-            $firstline = json_encode($file);
-            $filecontent = $firstline.PHP_EOL.$content;
-            file_put_contents("../sources/".$exists[0].".txt", $filecontent);
+                $result = $db->query("SELECT last_insert_rowid();");
+                $exists  = $result->fetchArray();
+                file_put_contents("../sources/".$exists[0].".txt", $fcontent);
+            }
+
         }
     }
 }*/

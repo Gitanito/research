@@ -1,20 +1,22 @@
-{"name":"Realization (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/realization","mytitle":"Realization (IAPSOP)","mylang":"de"}
-  Realization (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"The Dawn [San Francisco] (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/dawn_sfo\/","mytitle":"The Dawn [San Francisco] (IAPSOP)","mylang":"de"}
+  The Dawn [San Francisco] (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  Realization</I>     
+ &nbsp; &nbsp;     Periodical:  Dawn (San Francisco)</I>      
 
-    Summary:&nbsp;  From Pat Deveney's database:
+    Summary: &nbsp;  From Pat Deveney's database:
 
- Realization.
- Devoted to the Philosophy and Methods of Higher Attainment / A Mystical and Ethical Journal.
- 1900--1905?  Monthly, bimonthly
- Washington, D.C..  Editor: Joseph Stewart, LL.M.
- 1/1, December 1900.  The first number is dated both November and December, but was succeeded by the issue of January 1901.  18-36 pp., $2.00-$1.50 a year.
+ Dawn, The.
+ A Monthly Reminder that the Golden Era of Our Lives is Yet to Come.
+ 1910--1911  Monthly
+ San Francisco, CA.  Publisher: Dawn Publishing Co..  Editor: John Ball.
+ 1/1, November 1910-1911.  32 pp., $1.00 a year.
 
- The journal "was devoted to the Philosophy and Methods of the Higher Attainment.  It makes special features of Concentration and Psychic Science, and presents new and original matter as well as past research.  It is scientific, Synthetic and constructive.  Its excellence is attested by the opinions of leading thinkers and the esteem in which it is held."  It consisted of "Special Treatises," "lessons and special studies by [Stewart] in the philosophy and methods of attainment, concentration, the Silence, Yoga, Psychic Science, and the general subject of Realization."  These included Stewart's ideas on "Precognition," "Must We Grow Old and Die?" "Some Problems and Dangers of Telepathic Rapport," "Psychic Breathings," "Rapport with the Universal," "Raja Yoga," "Apotheosis of Soul," and the like.  Stewart was a leading figure in INTA and wrote for Herald of the Golden Age, Evelyn Arthur See's Higher Thought, and Mind.  Noted in Herbert N. Casson, The Crime of Credulity (New York: Peter Eckler, 1901), The Prophet, February 1901, Eltka, 1904, and the Religio-Philosophical Journal, 1905, and in the exchanges of The Mazdaznan, 1904.  LOC.       Issues:Realization V1 N1 Dec 1900 Realization V1 N2 Jan 1901 Realization V1 N3 Mar 1901 Realization V1 N4 May 1901 Realization V1 N5 Jul 1901 Realization V1 N6 Sep 1901 Realization V1 N7 Nov 1901  Realization V2 N1 Jan-Feb 1902 Realization V2 N2 Mar-Apr 1902 Realization V2 N3 May-Jun 1902 Realization V2 N4 Jul-Aug 1902 Realization V2 N5 Sep-Oct 1902 Realization V2 N6 Nov-Dec 1902  Realization V3 N1 Jan-Feb 1903 Realization V3 N2 Mar-Apr 1903 Realization V3 N3 May-Jun 1903 Realization V3 N4 Jul-Aug 1903 Realization V3 N5 Sep-Oct 1903 Realization V3 N6 Nov-Dec 1903       </p>
+ The journal ceased after its fifth issue in March 1911 because of "the severe illness of the Editor" -- and because, as the editor frankly admitted, the journal "itself shows no signs of picking up."  Ball (1847- ) was an eccentric and opinionated practitioner of "Psychotherapy" and "Psycho-Magnetism" ("as your soul controls your body it necessarily controls the so called animal magnetism of the body") in San Francisco, who published the journal from his offices and advertised in it his willingness to answer "Questions of a private and personal nature" if they were "accompanied by a fee of $1.00."   He was the author of an autobiographical sketch, Baptism of Fire, (written as "Lucifer") and of Skakespeare, the World's Greatest Psychist.  The "sole purpose of [the journal was] to remind you, at least once a month, that there is a higher and better life for each one of us; but how much better and grander this life is to be depends on our own personal efforts."  In practice, this sentiment meant vast amounts of filler ("Lucky Birthday Months," "Disasters Foretold by Dreams," "Giant and Dwarf Honey Bees," "Marriage Customs of Papuans,"  "Poisoning by the Scent of Flowers," "Oxygen as a Food," "Immortality and the Fourth Dimension," etc.) and excerpts from Ball's favorite poets (including Ella Wheeler Wilcox, of course), all overlain with Ball's ruminations on life, his insistence that "Shakespeare  is the one man of our race who comprehended the full significance of our higher psychic life," and his conviction that "The Fountain of Youth, or The Elixir of Life" (the title of his advertised 15 cent pamphlet) was sex.  "Ever since the human race acquired the mental power to reflect on its past and speculate about the future, it has been seeking a method, a force or a God that would enable us to live in harmony with our noblest impulses and achieve our highest aspirations. Dormant within the depths of your own soul lies the only power that can regenerate you and bring you immortality and everlasting happiness. This booklet tells you what the power is and how to develop it to your own best advantage."  Ball hints in the journal of some sexual mystery, occurring once a month, that is somehow related to this elixir of life, but it is impossible to determine from the journal exactly what the mystery may have been.  LOC.
+
+      Issues:Dawn V1 N1 Nov 1910 Dawn V1 N1 Nov 1910 Alt Dawn V1 N2 Dec 1910 Dawn V1 N3 Jan 1911 Dawn V1 N4 Feb 1911 Dawn V1 N5 Mar 1911        </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/realization
+[1] http://iapsop.com/archive/materials/dawn_sfo/

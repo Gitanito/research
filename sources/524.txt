@@ -1,48 +1,100 @@
-{"name":"Ana Borges Flores | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/ana-borges-flores","mytitle":"Ana Borges Flores | Psi Encyclopedia","mylang":"de"}
-                     Ana Borges Flores | Psi Encyclopedia                                  Skip to main content                                                        	                  
+{"name":"Manfred Cassirer | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/manfred-cassirer","mytitle":"Manfred Cassirer | Psi Encyclopedia","mylang":"de"}
+                     Manfred Cassirer | Psi Encyclopedia                                  Skip to main content                                                        	                  
 
-Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Ana Borges Flores                                                                                                                                                                                                                          Ana Borges Flores is a lawyer by training who has moved into psychology and psi research, and is developing experimental tests in quantum theory.   Contents   	Career 	Generalised Quantum Theory 	Correlational Matrix Method 	Online Testing 	Literature 	Endnotes     Career
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Manfred Cassirer                                                                                                                                                                                                                          Manfred Cassirer (1920-2003) was a German-born author and researcher with wide interests in psychical research. &nbsp;
 
-Ana Borges Flores trained and practised as a lawyer in Portugal. In 2006, she accepted&nbsp;a position studying for a MSc on transpersonal psychology and&nbsp;consciousness studies at the&nbsp;University of Northampton, under the supervision of Harald Walach. Her final project was developed in 2007 during an internship at the Institute of Noetic Sciences, where she worked with Dean Radin investigating the presentiment response.1
+&nbsp; Contents   	Life and Career  	Psychical Research   	Investigations  	Helen Duncan 	Old Testament Miracles 	Bromley Poltergeist 	Other Investigations   	Works  	Books 	Articles 	Book Reviews 	Web Posts   	Literature 	Endnotes     Life and Career
 
-In 2015, she accepted a position at Edinburgh’s Koestler Parapsychology Unit (KPU) to study for a PhD in 2015 under the supervision of Caroline Watt and supported by Harold Walach. She replicated earlier work that used a special method – the correlational matrix method (CMM) - to test predictions made by generalised quantum theory, a theoretical development in parapsychology that considers both physical and psychological aspects. In 2021 she accepted a post-doctoral position at the University of Minho School of Medicine in Portugal, where she developed an online game designed to further explore the CMM approach. &nbsp;  Generalised Quantum Theory
+Manfred Cassirer was born on 12 July 1920 in Berlin, where he spent most of his childhood. His father Erich was Jewish. In 1937 he moved to England. After receiving private tuition he went to Oxford University where he took theology and oriental studies.1 His father’s interest in Egyptian antiquities led him to collect and trade ancient artefacts.
 
-Generalised quantum theory (GQT) was developed by physicists Harald Atmanspacher, Hartmann&nbsp;Römer and Walter von Lucadou together with clinical psychologist Harald Walach, and was shared with the academic community in 2002.2 &nbsp;From the basics of physical quantum theory known as ‘formalisms’, it generates a standalone abstract version that can be applied to non-physics based systems, for example psychological and biological. Of key importance, GQT retains the core aspects of regular physical quantum theory: entanglement and complementarity.
+He taught history at St Chad’s School in Lichfield where one of his pupils was Bernard Carr, later a cosmologist and president of the Society for Psychical Research (SPR). Carr recalled that Cassirer ‘awakened me to the spiritual and psychical realms and to the possibility that there are realities in the world beyond the mundane physical one’.2  Psychical Research
 
-Complementarity refers to the relationship between local measurable observables and the global system. For example, one could measure the polarization of a photon and then know the general polarization of the rest of the system, in that it would be opposite or complementary to that found locally. Entanglement refers to the relationship between particles and processes that once shared a common connection, separated by time and space. The relevance to psi is to that it may be explained in terms of entanglement within generalized quantum theory (GQT).3&nbsp; This allows for entangled states between physical, psychological and psychological systems, eventually giving rise to nonlocal (distant in space and time) correlations, which Walach and others propose as the basis for psi phenomena.4  Correlational Matrix Method
+Cassirer joined the Society for Psychical Research in 1956 and served on the governing council from 1975 until his death. He was research officer for the Paraphysical Laboratory near Downton in Wiltshire, which was organized by Benson Herbert and Mary Driver. Together they investigated local spontaneous cases and travelled to Eastern Europe for conferences on 'psychotronics' and experiments with Russian psychics.
 
-To regard psi phenomena in terms of non-local acausal correlations within generalized quantum theory is essentially to admit the impossibility of strictly replicating any given finding, as the nature of the acausal correlations prevents any signal travelling between them. If psi experiments are successfully replicated, this would open up a way of transmitting a signal, something that is forbidden by non-local correlations in GQT. The correlational matrix method (CMM) enables the separation of causal and entanglement processes, allowing the inclusion of causal processes in psi experiments and helping stabilize the entanglement of the system.
+Cassirer published six books and many articles, and was a frequent speaker at SPR conferences. Details of his unpublished investigations can be found in the SPR archives at Cambridge University Library.   Investigations  Helen Duncan
 
-In a typical CMM experiment, participants are instructed to influence the output of a RNG, as in a PK study, but with the aim of discovering what temporary acausal correlations might be found between physical and psychological variables, that is, correlations that have no discernible physical cause and effect basis, for example the relationship between voltage spikes and the length of time a volunteer presses a button after the spikes are measured. &nbsp;Typically twice as many correlations are found during experimental sessions as in control sessions, of which the odds against chance are very high.5 In her PhD thesis6 Flores reports experiments which she carried out that appear to give evidence of this.  Online Testing
+Cassirer took up the cause of Helen Duncan, a controversial Scottish materializing medium who was given a jail sentence under the eighteenth century Witchcraft Act in 1944, arguing that the prosecution witness testimony was unreliable. His 1996 book Medium on Trial is based on extensive research of trial documents and other material. The book was praised by Donald West, a SPR member who had attended the trial for ‘putting on record so much interesting material that might otherwise be forgotten, both material damaging to the Duncan reputation and material favouring a paranormal interpretation’. 3  Old Testament Miracles
 
-At the University of Minho School of Medicine, Flores developed a mobile game app to enable mass online testing. Here, the performance of two different random number generators was studied, in one with a participant playing the game and the other running the game without participant interaction. Flores investigated whether a participant playing a mobile game might interact with the ‘behaviour’ of two independent random number generators.
+Cassirer tackled the subject of biblical miracles in a 2003 book, Miracles of the Bible, from the perspective of psychical research and related disciplines, which had not previously been investigated at such length. Cassirer believed that ‘the prophetic books are an inexhaustible source of data potentially relevant to the paranormal sphere’, and suggested that ‘[d]reams, visions and foreknowledge are in ample supply awaiting their evaluation in terms of recent study and knowledge’. 4
 
-As a control, the same game played in the same device without players’ knowledge, replicating the original game, but this time without using subjects’ psychological variables. These variables, together with RNG physical variables were correlated into matrices. Flores hypothesized that subjects playing a mobile game, driven by random number generators, would produce different correlations than if there was no interaction with subjects. Results strongly supported this hypothesis (p = 10 x 10-20).7 Importantly, more conservative permutation analyses still give high odds against chance (10 x 10-12).8
+Cassirer was a supporter and contributor to the British UFO Research Association (BUFORA). He believed that ufology was of major importance within psychical research and parapsychology; in his 1988 book Parapsychology and the UFO he bewailed the lack of interest shown by researchers in these fields and drew attention to correlations between UFOs and psi phenomena such as apparitions, ESP and poltergeists.5  Bromley Poltergeist
 
-Michael Duggan  Literature
+In 1973 Cassirer investigated a serious outbreak of poltergeist-type phenomena that disrupted a garden supplies depot in Bromley, London, run by Tony Elms. Cassirer and co-investigator Pauline Runnells found no evidence of deception or hoax.&nbsp; He described the case in his book The Persecution of Mr Tony Elms (1993).  Other Investigations
 
-Atmanspacher, H., Römer, H. &amp; Walach, H. (2002). Weak quantum theory: Complementarity and entanglement in physics and beyond.&nbsp;Foundations of Physics&nbsp;32, 379-406.
+Descriptions of some unpublished investigations are found in Cassirer’s 2001 book The Hidden Powers of Nature, including hauntings, poltergeists, mental mediumship and séance phenomena. Some accounts in the book were taken from his experiences with Benson Herbert on their trips to eastern Europe on behalf of Herbert’s Paraphysical Laboratory.&nbsp;
 
-Flores, A.B. (2021). Mind and matter correlated in a matrix. Replicating a new method. PhD thesis. Edinburgh Research Archive.
+Another investigation (referred to as ‘The Flying Tables of Richmond’) involved spending ‘many hundreds of hours in a sustained attempt to obtain physical phenomena under acceptable conditions of control’6 under the auspices of the SPR.
 
-Grote, H.&nbsp; (2017). Multiple-Analysis Correlation Study between Human Psychological Variables and Binary Random Events.&nbsp;Journal of Scientific Exploration&nbsp;31/2, 231-54.
+Other unpublished articles and reports by Cassirer are held in the SPR archive in Cambridge.&nbsp;  Works  Books
 
-Lucadou, W. V. (1987). A multivariate PK experiment. Part I. An approach combining physical and psychological conditions of the PK process.&nbsp;European Journal of Parapsychology&nbsp;6/4, 305-45.
+Parapsychology and the UFO (1988). London: Self-publication.
 
-Lucadou, W. (1995). The model of pragmatic information (MPI).&nbsp;European Journal of Parapsychology&nbsp;11, 58-75.
+The Persecution of Mr Tony Elms (1993). London: Self-publication.
 
-Lucadou, W. (2001). Hans in luck: The currency of evidence in parapsychology.&nbsp;Journal of Parapsychology&nbsp;65, 3-16.
+Dimensions of Enchantment (1994). London: Breese Books.
 
-Lucadou, W.,&nbsp; Römer, H., Walach, H. (2007). Synchronistische Phänomene als Verschränkungskorrelation in der Verallgemeinerten Quantentheorie. [Synchronistic Phenomena as Entanglement Correlations in Generalized Quantum Theory]. von Lucadou, W., Römer, H. &amp; Walach, H. Zeitschrift for parapsychology andnd Grenzgebiete of psychologie, 47/48/49 , 2005/ 2006/2007, 89-110.
+Medium on Trial: The story of Helen Duncan and the Witchcraft Act (1996). Stansted: PN Publications.
 
-Radin, D., Borges, A. (2009). Intuition Through Time: What Does the Seer See? Explore (New York, N.Y.). 5. 200-11. 10.1016/j.explore.2009.04.002.
+The Hidden Powers of Nature (2001). Pulborough: D.J. Ellis.
 
-Walach, H., Horan, M. (2014). Capturing PSI: Replicating von Lucadou’s Correlation Matrix Experiment using a REG Micro-PK. Presentation at the BIAL Conference, Porto, March.
+Miracles of the Bible: The Old Testament in the Light of Psychical Research and Related Studies (2003). Pulborough: D.J. Ellis.   Articles
 
-Walach, H.,&nbsp; Lucadou, W.,&nbsp; Römer, H. (2014). Parapsychological phenomena as examples of generalized nonlocal correlations-a theoretical framework.&nbsp;Journal of Scientific Exploration&nbsp;28, 605-31.   Endnotes 1. Radin and Borges (2009). 2. Atmanspacher et al (2002). 3. Atmanspacher et al (2002). 4. Walach and Horan (2014). 5. Walach et al (2014). 6. Flores (2021). 7. Personal communication. 8. Personal communication.           			  			     			This page was last updated on: December 13, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 1,000 Created: 10th December 2022 Last updated: 13th December 2022 May be cited as:Duggan, M. (2022). &lsquo;Ana Borges Flores&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/ana-borges-flores&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/2or7mrqy                   	                                                                              
+Letter on W.J. Crawford and his critics. Journal of Paraphysics 50-51, 166.
+
+Is darkness necessary? (1966). Light, Autumn 1966.
+
+Correspondence: On Dr Ian Stevenson’s ‘Are poltergeists living or are they dead’? (1972). Journal of the American Society for Psychical Research 67, 216-17.
+
+Experiments with Nina Kulagina (1974). Journal of the Society for Psychical Research 47, 315-18.
+
+'Spirit Hands’: Fact or fraud (1978). Journal of the Society for Psychical Research 49, 875-80.
+
+Palladino at Cambridge (1983). Journal of the Society for Psychical Research 52, 52-58.
+
+The fluid hands of Eusapia Palladino (1983). Journal of the Society for Psychical Research 52, 105-12.
+
+D.D. Home’s ‘Fluid hands’ and their Spiritualistic interpretation (1983). Unpublished manuscript.
+
+Helen Victoria Duncan: A reassessment (1985). Journal of the Society for Psychical Research 53, 138-44.
+
+Towards a psi/ UFO interface (1984). Journal of Transient Aerial Phenomena 3/2, 119-25.
+
+Notes: The ghost of C.S. Lewis (1988). Journal of the Society for Psychical Research 55, 33-34.
+
+ESP in post-medieval witchcraft (1989). Journal of the Society for Psychical Research 55, 350-59.
+
+An amazing séance at Bournemouth (1991). Journal of the Society for Psychical Research 58, 39-42.
+
+Obituary: Benson Herbert (1991). Journal of the Society for Psychical Research 58, 64.
+
+Reminiscences of Mollie Goldney (1992). Journal of the Society for Psychical Research 58, 414.
+
+An 18th-Century haunting and the precursor of CSICOP (1993). Journal of the Society for Psychical Research 59, 114-19.
+
+Ancient Semitic magic (1994). Psi Researcher 13, 13-14.  Book Reviews
+
+Phenomenon: From Flying Saucers to UFOs. Forty years of Facts and Research by J. Spencer and H. Evans (1989). Journal of the Society for Psychical Research 55, 296-97.
+
+UFOs: The Definitive Casebook by J. Spencer (1991). Journal of the Society for Psychical Research 58, 112.
+
+Spontaneous Combustion by J. Randles and P. Hough (1993). Journal of the Society for Psychical Research 59, 71-72.  Web Posts
+
+Transvection and Ufology (1988).
+
+Melvyn Willin  Literature
+
+Cassirer, M. (1988). Parapsychology and the UFO. London: Self-publication.
+
+Cassirer, M. (2001). The Hidden Powers of Nature. Pulborough: D.J. Ellis.
+
+Cassirer, M. (2003). Miracles of the Bible: The Old Testament in the Light of Psychical Research and Related Studies. Pulborough: D.J. Ellis.
+
+Ellis, D. &amp; Carr, B. (2004). Obituary: Manfred Cassirer. Journal of the Society for Psychical Research 68, 188-92.
+
+West, D. (1996). Book review: Medium on Trial: The Story of Helen Duncan and the Witchcraft Act. Journal of the Society for Psychical Research 61, 265-66.   Endnotes 1. Cassirer (1988), back cover; Cassirer genealogy 2. Ellis &amp; Carr (2004). 3. West (1996), 266. 4. Cassirer (2003), 1. 5. Cassirer (1988). 6. Cassirer (2001), 75.           			  			     			This page was last updated on: May 25, 2021   			 			                                               	       Search form        Search                   Article Information           	Author: Melvyn Willin Word count: 1,100 Created: 25th May 2021 Last updated: 25th May 2021 May be cited as:Willin, M. (2021). &lsquo;Manfred Cassirer&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/manfred-cassirer&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/yfasydts                   	                                                                              
 
                       	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
 
 Visit the Society for Psychical Research                
 
-[1] https://psi-encyclopedia.spr.ac.uk/articles/ana-borges-flores
+[1] https://psi-encyclopedia.spr.ac.uk/articles/manfred-cassirer

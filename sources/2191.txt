@@ -1,480 +1,1565 @@
-{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/psychology-and-parapsychology","mytitle":"Psychology and Parapsychology | Psi Encyclopedia","mylang":"de"}
-                     Psychology and Parapsychology | Psi Encyclopedia                                  Skip to main content                                                        	                  
-
-Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Psychology and Parapsychology                                                                                                                                                                                                                          This article explores the overlap between parapsychology and psychology. It includes discussions of psychological variables related to psychic phenomena, for instance with regard to personality, and of psychological concepts that are used to make sense of ESP and other phenomena. The implications of parapsychology for psychology are also considered, including the variety of human experience, clinical issues and the idea of nonphysicality.   Contents   	Psychological Aspects of Psi Phenomena 	Laboratory Work 	Studies of Cases (Mainly Surveys) 	The Psychology of Psychics and Mediums 	Theoretical Discussions 	Contributions of Parapsychology Relevant to Psychology  	Variety of Human Experiences 	Conventional Explanations 	Clinical Issues 	Personal Transformation 	Social Issues 	Expanding Human Potential 	Nonphysicality   	Bibliographical Note 	Acknowledgements 	Literature 	Endnotes     Psychological Aspects of Psi Phenomena
-
-Psychic phenomena manifest dynamic aspects, and personality and cognitive variables, suggesting they are part of normal psychological processes. A good example is ESP, which the earliest psi researchers recognized is expressed through various psychological means. The SPR’s first major work, Phantasms of the Living, describes telepathy as being conveyed to consciousness through hallucinations, dreams, impressions, ideas, emotions, impulses to take action, and sensations such as pain and discomfort. In the years following its publication in 1886, the topic was discussed by Frederic Myers,1 GNM Tyrrell,2 and Louisa E Rhine,3 among others.
-
-A case of this sort was reported by Stevenson, concerning a woman who was washing her dishes when ‘an awesome feeling came over me’:  
-
-I dropped the plate, turned my eyes toward heaven and prayed aloud, ‘Oh God, don’t let her get killed!’ For some unexplained reason I knew Joicey [her five-year-old daughter] had been hit by a car or was going to be.4
-
-She quickly telephoned, and confirmed that the child had indeed been in an accident moments before, but was unharmed.
-
-ESP messages are believed to have dynamic aspects, such as elements of personal significance to the experiencers, and symbolism, as seen for example in dreams. Studies by Ehrenwald,5 Eisenbud,6 and Stevenson7 show that they employ the same symbols as those that appear in non-ESP dreams, and are motivated by human needs similar to those involved in other psychological processes.  Laboratory Work
-
-JB Rhine and his associates explored the relationship between psychological issues and both ESP and psychokinesis (PK). Summarizing this work, Rhine and Pratt8 argued that psi was completely normal, that it involved a degree of conscious use (but with little control), and that it was affected by motivation. Psi, they stated, was an unconscious function of the mind.
-
-A particular phenomenon that Rhine and Pratt associated with the unconscious is the tendency of certain subjects in ESP tests to obtain results that are significantly below chance, that is, to score lower than the average in a way that is just as anomalous as if they had scored above it. This characteristic, named ‘psi-missing’, is seen as people using ESP to avoid getting information about a target, perhaps because of boredom with the guessing task or lack of motivation to succeed.9&nbsp;
-
-Another common feature in ESP research is when subjects paranormally obtain information about something other than the intended target – a process Rhine and Pratt called ‘displacement’.&nbsp; This too may have a psychological basis, although that is a matter of speculation. Parapsychologists today largely echo the views of Rhine and Pratt.10
-
-A variable explored in many ESP experiments is the effect of belief in ESP on test scores. Classic ESP guessing studies carried out by psychologist Gertrude Schmeidler11 show that subjects who believed in the reality of ESP (whom she called ‘sheep’), obtained better results than those who did not believe (‘goats’). Moreover, sometimes the goats showed psi-missing, scoring below what chance would predict. &nbsp;A meta-analytic review of 73 studies reported between 1947 and 1993 found that the combined result was highly significant, with sheep scoring higher that goats, although the strength of the effect was low.12
-
-The results are less clear if, instead of being asked about belief in ESP in general, the participant is asked whether she believes in the possibility that she might have ESP or might show ESP in the experiment. But even then, the studies suggest that ESP in the laboratory is affected by beliefs in the existence of the phenomenon. This makes sense if we accept that positive attitudes improve our productivity and our interactions with others. A later analysis supports this finding.13
-
-Other studies have looked at ESP and personality variables such as introversion and extroversion. Several researchers have found that extroverts do better in ESP tests.14 There is also evidence that ESP is related to creativity.15
-
-Neuroticism has been explored in the laboratory in relation to ESP, with ambiguous results that apparently depend on the context in which participants are tested. An analysis by Palmer16 found that out of 26 experiments in which participants were tested individually, 20 (77%) showed significant results with participants who scored low on neuroticism measures, while only in six (23%) experiments were there significant results between neuroticism and ESP.
-
-The nature of the relationship between mental imagery and ESP is ambiguous.17 But that has not been the case with perceptual defenses, as measured by the Defense Mechanism Test: people with low defenses consistently obtain better ESP results than those with high defenses.18
-
-Research has also been carried out with ESP and altered states of consciousness (ASC). Hypnotic suggestion seems to be favorable to ESP. However, Stanford and Stein19 presented a model in which hypnosis is just one of several variables that still need to be identified. The complexity of this areahas been outlined recently by Parker.20
-
-Experimental studies suggest that ESP is associated with relaxed states.21 Laboratory dream studies and ganzfeld experiments have also shown evidence for ESP.22 23 &nbsp;Some believe that the partial sensory deprivation produced by ganzfeld conditions favors ESP. &nbsp;Others are less convinced of this, arguing that factors other than ASCs are involved24 - something that must be generally considered in research with psychological variables.
-
-The following summarizes successful ganzfeld ESP performance, in which the ‘receiver’ – in a relaxed stated induced by the ganzfeld procedure – visualized video scenes being viewed by a ‘sender’ at a remote location:
-
-One participant in the receiver role … described the full sequence of the helicopter attack against a native village as shown in the film-clip, including its focus on a courtyard scene and soldiers running back and forth. One of the most successful participants … gave a real-time description of the sequence of events in a rare film. This depicted a woman running through a forest, and the description included the occasion when she fell down, correctly adding that she hit her face on stony ground. Many further correct and specific details were given in real time, including the threat and presence of other women, and the mention of a boomerang object at the point when the woman picked up a crooked stick to defend herself against the women attacking her.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Several authors have stressed the importance of focusing on many variables as opposed to single ones.26 An example is Honorton’s27 exploration of ESP in the ganzfeld that took into account the practice of meditation, spontaneous psychic experiences, previous experience as an ESP participant in experiments, and the personality factor associated with the Myers-Briggs Type Indicator.28
-
-Non-psi laboratory research has produced evidence of an ‘experimenter effect’, when study participants show different levels of performance in relation to a particular experimenter. This suggests that the experimenter may either inhibit or enhance subjects’ performance in some socio-psychological way. The situation is complicated when the idea of psi experimenter effects is considered.29 In addition, many experiments present evidence that ESP can be used unconsciously to accomplish certain tasks, a phenomenon referred to as ‘implicit psi’ (Palmer 2015). Some of these studies support the idea that ESP serves particular needs. There is also evidence that ESP responses do not need to be verbal or behavioral, but occur also through physiological body changes that can be detected by measuring electrodermal activity (changes in the electrical activity of the skin).30  Studies of Cases (Mainly Surveys)
-
-Survey studies of psychic experiences have been conducted with college students and other groups. (Most provided no follow-up about the experience beyond an answer to a question, so it is not certain if replies referred to the type of experience in question – for instance ESP or apparitions – or if they were veridical in the sense of providing evidence for non-sensory or non-motor processes.) One widely reported finding is that experiences such as ESP, OBEs, and seeing apparitions and auras are interrelated. That is, there is a tendency for persons who have had one type of experience to have had other types as well,31 although this is not by any means universal. The same may be said of positive relationships between psychic experiences and lucid dreams, and dream recall frequency.
-
-ESP experiences, and sometimes other phenomena such as seeing apparitions and auras, have been reported to be related to fantasy proneness, as seen in the studies of Alvarado and Zingrone,32 and Myers, Austrin, Grisso, and Nickeson.33 The same may be said of other psychological constructs: absorption;34 boundary thinness; an openness to experiences such as emotions, intimacy and daydreaming;35 dissociation;36 emotional empathy;37 hypnotic susceptibility;38 transliminality; and a predisposition for experiencing emotions, imagery, thoughts or other psychological material from the unconscious regions of the mind.39 Extroversion was related in one study to reports of precognitive experiences, but not to dissociation or to belief in the paranormal.40
-
-OBEs have been found to be related to several of the above-mentioned psychological variables, such as absorption, dissociation, fantasy and hallucinations.41 Some studies have also examined aspects of the psychology of mediumship,42 seeing auras,43 and having recollections of previous lives.44  The Psychology of Psychics and Mediums
-
-Apart from early observations of mediums such as Hélène Smith,45 Eusapia Palladino,46 and psychic Pascal Forthuny,47 there have been few studies of the psychology of psi-gifted persons. WHC Tenhaeff48 called for a life-history study of psychics, arguing that some of them focused their ESP in matters of personal relevance, sometimes in their childhood. Tenhaeff also applied psychological projective tests (such as Rorschach and TAT) to groups of psychics. According to a conference abstract:  
-
-The most characteristic tendency shown by the subjects on the basis of these tests was their ‘sensitivity’ to everything coming from the outside world. Will and action were manifested sporadically and hence inadequately. Also, these subjects endeavored to identify and feel themselves in union with persons and objects near them … Also, disintegration of the personality was one of the characteristics of these subjects.49
-
-In a paper about medium Caroline Chapman, Schmeidler reported that ‘the medium's successes corresponded to the areas of her normal interests and to her most effective modes of perception’.50 Another medium, Eileen J Garrett, was studied by Ira Progoff 51 from the point of view of Jungian concepts, with the conclusion that her ‘spirit controls’ represented aspects of the medium’s unconscious and were part of her usual (non-mediumistic) life.
-
-A survey of self-styled psychics and mediums showed tendencies indicating self-sufficiency, lack of discipline, and openness to feelings.52 There are other interesting studies of psychodynamic aspects of gifted subjects,53 and similar work has been conducted with poltergeist agents.54  Theoretical Discussions
-
-The idea that ESP is processed unconsciously has a long history. As mentioned above, Myers55 thought that telepathy was handled by the subliminal regions of the mind, and this idea can be seen in different ways in the writings of researchers to the present day, for instance Rhine and Pratt56and Carpenter.57 From the results of card-guessing experiments, it has been stated that:  
-
-The fact that psi is unconscious will explain many odd things about it. Some of these curious effects are among the most interesting features in the data of parapsychology … &nbsp;Some have almost come to be considered as earmarks of psi, so that the investigator may rightly treat them as valid evidence; for example, the significant decline in scoring rate within the test unit (the run, column, set, page, etc.) or the tendency of the subject to score reliably below the chance average under certain conditions, or the consistent way in which some subjects miss a specified symbol by calling it, more often than chance would average, by some other symbol name, or their occasional tendency to displace and hit the target next to the one intended and to hold consistently to this oblique way of responding … The psi process does not give the basis for learning by which introspection can associate error with the awareness of what was done wrong … As one can readily see, this unconsciousness of psi has made its investigation extremely difficult. It would help to explain why the many efforts to train subjects to better performance have not been successful.58
-
-This view is consistent with other findings. One is the tendency of specific experiences to be associated with other experiences in surveys, such as ESP with OBEs. Reports of psychic experiences are generally associated with non-psi experiences thought also to be intimately related to unconscious processes, such as dissociative experiences. Furthermore, studies suggest that low defenses allow us to better process ESP, possibly through a more direct communication with the unconscious. The same may be said about cognitive concepts such as transliminality and boundary thinness.
-
-Other researchers have speculated on other aspects favoring ESP such as the reduction of internal cognitive activity,59 information-processing concepts (such as imagery and memory).60 and ideas involving needs and dispositions.61
-
-James Carpenter62 has proposed the most detailed psychological model to date, which he calls First Sight. The model assumes that psi is working continuously, but unconsciously, and that it is the initial contact our minds have with the world: first sight, so to speak. Such psi processes, like sensory and motor ones, are part of our usual cognitive processes, directed by unconscious intentions and mediated by goals, needs and dispositions. They interact with and make use of psychological resources such as memory, creativity, and conscious and unconscious perception. They are expressed primarily by inadvertent but potentially accessible experiences and behaviors. All behavior and experience are thought to begin at the psi level of transaction, even if we are not aware of it. The process is not seen as a special ability, but rather as a basic aspect of human beings, and perhaps of all sentient creatures.
-
-Regarding the positive relationship between extroversion and ESP, Eysenck63 has suggested that this may reflect the existence of cortical differences between extroverts and introverts. In his view, high cortical activation (found in introverts) is not conducive to ESP, unlike lower cortical activity (found in extroverts). A different theoretical explanation by John Palmer64 focuses on the possibility that extroversion is related to better social adjustment in experimental participants that facilitates their adaptation in situations such as experimental testing.
-
-The parapsychological literature presents many other theoretical speculations and models to explain various phenomena. Several ideas involving a variety of psychodynamic ideas have been presented to explain poltergeists65 and apparitions.66 There is also a long history of speculations involving imagery, memory, and other cognitive processes to account for OBEs.67  Contributions of Parapsychology Relevant to Psychology
-
-Whatever the final explanation of psychic phenomena, they are psychological phenomena (at least in part), being human experiences and being related to other psychological variables that make up human functioning. What follows is a discussion of some topics of psychological interest to which psi research has contributed.  Variety of Human Experiences
-
-Parapsychology represents potential expansion for psychology because it brings information about the commonality and characteristics of &nbsp;neglected phenomena such as ESP, apparitions, OBEs, and auras. &nbsp;Surveys in the US and Europe show high endorsement rates. In 1991, Haraldsson and Houtkooper68 summarized responses to questions about clairvoyance, telepathy and contact with the dead, with samples representative of national populations, concluding as follows:  
-
-Sixty percent of the American sample reported one or more of the psychic experiences … For Europeans the figure was 46% ... [The percentages may be interpreted] to infer that perhaps as many as 145 million Americans and over 100 million Western Europeans report at least one of the three kinds of psychic experiences as defined in the survey.69
-
-The results of other surveys, particularly those with randomly selected samples of the general population70 show that psychic experiences are far from rare. Surveys with college students, while not representative of the general population, also include many &nbsp;reports of ESP, apparitions, auras and other experiences.71 It has been stated that ‘Paranormal experiences are so common in the general population … that no theory of normal psychology or psychopathology which does not take them into account can be comprehensive’.72
-
-Knowledge of the true incidence of these phenomena may help psychologists decide what is normal from the statistical point of view. Furthermore, studies can teach much about the features of psychic experiences, showing&nbsp; differences as well as patterns. Much of this is summarized by Irwin and Watt,73 and specific examples can be found in modern studies of phenomena such as OBEs74 and precognitive experiences.75
-
-A study of ESP in the US found that they were reported in various forms, as seen in the table:
-
-&nbsp;
-
-Form&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Percent
-
-Dreams &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4599&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 65%
-
-Intuitions&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1839&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26%
-
-Hallucinations&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 681&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 9%
-
-Forms of ESP Manifestation (N = 7119)&nbsp;76
-
-&nbsp;
-
-The 4,599 dreams were further divided into those that were realistic (68%) and unrealistic (symbolic) (32%), showing the complexity with which they manifested. Some experiences in other studies seem to be somatic, emotional reactions, and there are also cases of motor automatisms, such as writing.
-
-Other patterns are discerned in the seriousness of events related to ESP experiences, of which the main one is death: 35% in cases from the UK77 and 41% in cases from the United States.78
-
-OBEs show many interesting features, as revealed in a study by Alvarado and Zingrone,79 notably floating sensations (71%), staying in the usual surroundings (69%), seeing the physical body (65%), and seeing the surroundings from above (63%). Less common were references to oscillations of consciousness between the out-of-body location and the physical body (1%), seeing a ray of light, cord, or similar connection between out-of-body location and the physical body (2%), hearing clicking or snapping sounds (3%), and being seen or perceived at a distance (3%).  Conventional Explanations
-
-Skeptical psychologists have speculated about conventional explanations for psychic phenomena,80 but few have bothered to discuss the subject in detail, even less to conduct empirical research. By contrast, students of psychic phenomena have a good track record of considering and developing conventional explanations. A notable early example is the analysis by Gurney, Myers and Podmore &nbsp;81of testimony regarding ESP cases. Some of the problems they identified were as follows:  
-
-Error of observation may result in a mistake of identity&nbsp;… &nbsp;Of more importance are errors of narration, due to the tendency to make an account edifying, or graphic, or startling … Errors of memory are more insidious. If the witness regards the facts in a particular speculative or emotional light, facts will be apt, in memory, to accommodate themselves to this view, and details will get introduced or dropped out in such a manner as to aid the harmonious effect. Even apart from any special bias, the mere effort to make definite what has become dim may fill in the picture with wrong detail or the tendency to lighten the burden of retention may invest the whole occurrence with a spurious trenchancy and simplicity of form.82
-
-Other notable contributions to the psychology of testimony include Davey’s83 and Besterman’s84 papers about mediumistic seances, and discussions of testimony related to spontaneous phenomena.85
-
-Psychical researchers have also put forward explanations of mediumship based on subconscious elaboration and creativity. A case in point is Flournoy’s famous case of Hélène Smith, whose subconscious seemingly created complex mediumistic communications. The idea of the medium using her psychological resources to create artificial communicators was popularized by psychical researchers such as Joseph Maxwell 86 and René Sudre,87 also Charles Richet who argued that the talents of the unconscious showed even more variety than those of the conscious mind.88
-
-Certain influential psychological explanations of OBEs have been developed in the context of parapsychology, notably by Blackmore,89 Irwin,90 and Palmer,91 contributing to the orthodox view of mind’s potential to generate hallucinatory experiences.
-
-Some parapsychologists have challenged &nbsp;conventional explanations of specific phenomena through empirical tests, for instance failing to find evidence that the passage of time leads to accounts of near-death experiences being embellished,92 or that ESP tests necessarily suffer from sensory contamination.93&nbsp;
-
-Parapsychologists have also actively contributed to uncovering fraud. Examples include Eugène Osty’s94 photograph of a medium escaping control, Deborah Delanoy’s95 report of a case of a metal bender, and Stevenson, Pasricha and Samararatne’s96 discussion of reincarnation-type cases.  Clinical Issues
-
-As mentioned above, a psychotherapeutic literature exists in which ESP is considered in the context of dreams and other experiences. For example, Freud was initially uncommitted about the reality of telepathy, but later argued that there was nothing contradictory in the idea of telepathically communicated material being modified and transformed in a dream like any other material.97
-
-Twentieth century psychotherapists such as Ehrenwald98 and Eisenbud99 stated that taking seriously the possibility of ESP in therapy enabled them to make sense of certain clinical cases. Attention to ESP, a psychotherapist has recently argued, will bring more knowledge about the unconscious: ‘Psi is another royal road, perhaps an expressway, to the unconscious’.100
-
-Clinical psychologists, psychiatrists and counselors need to know this literature in order to be informed about the potential relationship of psychic phenomena with psychopathology, a subject that has&nbsp;received some recent attention.101 Otherwise they may conclude erroneously that a specific set of phenomena is unique to their patient’s experience, or misdiagnose it.
-
-This leads to the difficult problem of differential diagnosis between psychopathology and psychic phenomena. Renaud Evrard concludes from a review of the literature that this issue is far from simple:  
-
-There is no psychopathological category that can be applied uniformly because of the diversity of exceptional experiences and the situations in which they occur. Thus, the categories associated with dissociation and trauma have ambivalent links with exceptional experiences …102
-
-Evrard goes on to contest the idea that psychological models can encompass the dimensionality of exceptional experiences and their occasional pathological pathways, maintaining that trying to analyze the issue has not led to a solution.103
-
-Cardeña, Lynn and Krippner have stated:  
-
-Although AEs [anomalous experiences] and psychopathology may overlap in some cases, AEs are neither necessary nor sufficient causes for psychopathology. When researchers have identified an apparent link, it might have been mediated by the direct or interactive effect of other variables …104
-
-An obvious difference is the veridical aspect of an experience. A visual or auditory hallucination that contains information that can later be corroborated as true may represent a case of ESP. However, not all cases are clear cut. Evidence for ESP does not necessarily discount pathology without more general psychological information, such as evidence of various forms of adjustment. If a person who claims to experience psychic phenomena is well adjusted, this suggests that it is not necessarily born out of pathology.
-
-As yet we lack systematic studies contrasting pathological conditions with apparent non-pathological phenomena, for example psychotic hallucinations versus ESP hallucinations. We need to investigate other criteria, such as situational and childhood antecedents, cognitive and personality variables, and the specific features of the experiences (such as sensory modalities). Fortunately this work is beginning, however.105
-
-Some research may be interpreted to support the idea that parapsychological phenomena relate to pathological manifestations, for instance studies that show relationships between some forms of dissociation106 and temporal lobe problems.107 But this is not necessarily the case. Instead of there being a direct causal relationship it may be that certain variables can be seen in both psychic phenomena and pathology. Some processes may relate to a mental lability, or openness to many experiences, that is potentially pathological in specific contexts.
-
-Schizotypy – or perceptual and cognitive experiences that some consider to be associated to schizophrenia – has been found to be related to reports of psychic experiences.108 This was reported by Parra, although he pointed out that the former were less disorganized cognitively, while people who reported paranormal experiences that were subjectively more pleasant, tended to be less impulsive and more sociable, and to exhibit fewer eccentric behaviors, suggesting a high degree of self-control.109 In sum, psi experiences were related to positive schizotypy, and where they related to negative schizotypy the correlations were lower.
-
-Psychic experiences have also been found to relate to trauma,110 a topic that deserves more study. Investigating the relationship between paranormal, traumatic and dissociative experiences, Ross and Joshi &nbsp;111found psychic experiences to be a normal dissociative phenomenon. ‘Like dissociation in general … paranormal experiences can be activated by trauma, especially chronic childhood abuse. This is why paranormal experiences are more common among individuals who have been abused as children.’112
-
-In general, there is little evidence that psychic phenomena are pathological. This has been the conclusion in studies of OBEs,113 mediumship,114 and of children claiming to remember previous lives.115 Similarly, and against the beliefs of some, ESP has not been found to relate to schizophrenia.116
-
-However, it is possible that some psychic phenomena generate negative responses such as fear and even post-traumatic stress, described by one American transpersonal psychologist as follows: ‘One is fear; a second one is ‘I'm going crazy’ …; a third one is confusion – their reality is suddenly fractured’.117
-
-A therapist needs to have knowledge of various psychological conditions in order to help the patient. The same holds true here: to help a person cope with a psychic experience (assuming help is needed), it is necessary to know something about psychic phenomena. Hastings118 has suggested that such counseling may include:   	providing a sympathetic and empathic initial listening to the experiences and the concerns 	assuring the person that those experiences have happened to others and that they do not necessarily mean anything is wrong 	identifying the experience, providing a name for it to make it more normal (e.g., OBE) 	presenting information about what is known about the experience &nbsp;   Personal Transformation
-
-A psychic experience may lead to personal transformation, as indicated by respondents in various questionnaire studies.119 In one study, such changes included belief in life after death (68%), interest in spiritual and religious matters (66%), ability to express love (45%), and tolerance for others (46%).120
-
-Much research with NDEs has focused on after-effects, mainly claimed changes in attitudes and values.121 The authors of one study concluded that NDEs are ‘associated with an increased sense of spiritual well-being, and that the “deeper” the NDE, the more profound this effect’.122
-
-In one OBE study, people who have had the experience said it led to a change of perception of ‘yourself, who you are’ (61%), life, its meaning and purpose (51%), death, its meaning and purpose (51%), and the nature of human beings (42%).123
-
-It is important also to realize that such experiences can be disturbing and lead to negative after-effects.124 125&nbsp; This may arise from a sense of losing control, and the difficulty of dealing with the experience emotionally and intellectually.
-
-Some NDEs have had negative impacts on the experiencers to the point of requiring clinical help: inverse NDEs, with features that are perceived as threatening; void NDEs, that engender a sense of emptiness; and hellish NDEs, in which the experiencers perceives themselves to be in a highly negative hell-like region.126
-
-Perhaps it is to be expected that certain inherently threatening experiences such as possession and poltergeists may cause more anxiety than others, becoming a clinical problem,.  Social Issues
-
-Social and community psychologists may find it necessary to know something about&nbsp; the customs, beliefs, and practices of specific groups in order to solve problems and better understand their dynamics. This is certainly the case with regard to spiritualist séances with mediums. The social and therapeutic function of these practices is related, to some extent, to the beliefs of the practitioners in the powers of mediums.127 But they also depend on personal experiences with phenomena such as diagnosis and healing of medical conditions, trance, possession, and information about deceased persons and about previous lives. Psychologists can learn much about the social dynamics of these groups without needing to know the true explanations for the phenomena. The existence of real parapsychological phenomena can also help make sense of the situation, perhaps as a factor involved in the maintenance of beliefs.
-
-Similarly, certain beliefs and practices center around individuals outside the séance environment, as in the case of healers and religious-type phenomena.128 Many such occurrences prevail because the continuous manifestation of specific phenomena reinforce beliefs and associated practices.
-
-Italian physician and parapsychologist Piero Cassoli129 analyzed the case of a young woman in whose proximity a crucifix appeared to ‘cry’, and who saw visions of the virgin. He found the phenomena took place in a favorable psychosocial environment: the woman’s family were devoutly religious, believed strongly in the virgin, and had some contact with a well-known previous case. The point here is that culture and a specific social environment of a group may affect, shape, and maintain unexplained phenomena.  Expanding Human Potential
-
-To accept some of the phenomena of parapsychology would have clear implications for human potential, greatly expanding our ideas about our capabilities. ESP implies that we can perceive future events, information hidden at a distance, and the thoughts or intentions of a distant person. Furthermore, to accept that such phenomena have no conventional explanation carries conceptual implications about the nature of consciousness.
-
-The same may be said about affecting the environment physically, or causing healing or physiological changes in others at a distance,130 with implications extending to practical applications in the case of the latter particularly.  Nonphysicality
-
-The view of psychic phenomena as evidence of non-physical and non-biological interactions has led many to defend the concept of the mind being independent from the body.131 Much early parapsychological literature concerns spiritual ideas, for instance works such as Crowe’s The Night-Side of Nature132 and Myers’s Human Personality and Its Survival of Bodily Death.133 Myers argued that telepathy ‘is exercised by somewhat within us which is not generated from material elements, nor confined by mechanical limitations, but which may survive and operate uninjured in a spiritual world’.134
-
-For his part, American psychologist and philosopher William James discussed consciousness in terms of assumptions of ‘transmission’ (the mind is independent and acts via the nervous system) and ‘production’ (the mind is produced by the nervous system). In his view:  
-
-A medium … will show knowledge of his sitter’s private affairs which it seems impossible he should have acquired through sight or hearing, or inference therefrom. Or you will have an apparition of someone who is now dying hundreds of miles away. On the production-theory one does not see from what sensations such odd bits of knowledge are produced. On the transmission-theory, they don’t have to be ‘produced,’ – they exist ready-made in the transcendental world, and all that is needed is an abnormal lowering of the brain-threshold to let them through.135
-
-Later authors refer frequently to the nonphysical and nonlocal. The assumption that ESP and PK are nonphysical processes was popularized by JB Rhine in books such as The Reach of the Mind136 and New World of the Mind.137 &nbsp;His card-guessing and dice-throwing tests, he argued, showed that psi was independent of space (distance, obstacles) and time. He later wrote (with JG Pratt):  
-
-It is … the manifestly nonphysical character of parapsychical phenomena that for the present constitutes their only general identifying feature and marks them off from the rest of general psychology … The distinction … from physics is not, however, an absolute one. Rather they usually involve physical events or objects, either as stimuli or as effects. But there is always some distinct point at which a completely physical interpretation is manifestly inadequate.138
-
-But Rhine did not want to separate parapsychology from psychology. In fact he argued that, ‘What seems likely to have the greatest long-term consequence for psychology is the fact that parapsychology gives a degree of causal potentiality to the mental system to which psi belongs’.139
-
-In recent decades others have defended versions of this idea.140 For instance, psychologist Charles T Tart141 argues that psychic phenomena are incompatible with physicalist approaches. In his view, the findings of scientific parapsychology ‘force us to pragmatically accept that minds can do things… that cannot be reduced to physical explanations, given current scientific knowledge or reasonable extensions of it’.142 A particularly important contribution is the 2007 book Irreducible Mind by Edward Kelly and others, a thorough review of psychological, psychophysiological, and parapsychological research that defends the independent (nonlocal) status of mind.143
-
-Work on near-death experiences, reincarnation cases, mediumship and related topics has tended to promote ideas of transcendence. The consideration of NDEs, in particular, challenges materialist science to explain ‘how complex consciousness, including mentation, sensory perception, and memory, can occur under conditions in which current physiological models of mind deem impossible’.144
-
-It should be pointed out that parapsychology embraces diverse views, and the ideas summarized here are not necessarily all shared by its practitioners.145 But they have in common a tendency towards the view that mind is more than the physical body – a classic problem of psychology.  Bibliographical Note
-
-Much relevant material about the relationships between parapsychology and psychology appears in the writings of Beloff,146 Burt,147 Child,148 and Van Over.149 For reviews of the literature of psychological correlates of ESP and PK see Cardeña, Lynn &amp; Krippner,150 Cardeña, Palmer &amp; Marcusson-Clavertz,151 Carpenter,152 Irwin,153 and Schmeidler.154
-
-Other publications deal with important specific areas. The anthology compiled by George Devereux155 continues to be an excellent source for psychoanalytic writings related to ESP up to the 1950s. Also useful are publications on the use of psychic phenomena to support the idea of mind-body separation,156 clinical aspects of psychic phenomena,157 its relationship to humanistic psychology,158 speculations about mediumship and psychopathology,159 and aspects of the impact of parapsychology on psychology.160  Acknowledgements
-
-I wish to thank Nancy L Zingrone for useful editorial suggestions to improve this paper. James Carpenter helped me to improve my summary of his model of psi. I am also grateful to Renaud Evrard and Caroline Watt for references used in the article.  Literature
-
-Alvarado, C.S. (2009). Early and modern developments in the psychological approach to out-of-body experiences. In Psychological Scientific Perspectives on Out-of-body and Near-death Experiences, ed. by C.D. Murray, 1-22. New York: Nova Science.
-
-Alvarado, C.S. (2012). Psychic phenomena and the mind-body problem: Historical notes on a neglected conceptual tradition. In Exploring Frontiers of the Mind-Brain Relationship, ed. by A. Moreira-Almeida &amp; F.S. Santos, 35-51. New York: Springer Science+Business Media.
-
-Alvarado, C.S. &amp; Zingrone, N.L. (1994). Individual differences in aura vision: Relationship to visual imagery and imaginative-fantasy experiences.&nbsp; European Journal of Parapsychology 10, 1-30.
-
-Alvarado, C.S. &amp; Zingrone, N.L. (1997–98).&nbsp; Factors related to the depth of near-death experiences: Testing the “embellishment over time” hypothesis.&nbsp; Imagination, Cognition and Personality&nbsp;17, 339–44.
-
-Alvarado, C. S. &amp; Zingrone, N. L. (2003). Exploring the factors related to the aftereffects of out-of-body experiences. Journal of the Society for Psychical Research&nbsp;67, 161-83.
-
-Alvarado, C. S. &amp; Zingrone, N. L. (2007-8). Interrelationships of psychic experiences, dream recall and lucid dreams in a survey with Spanish participants. Imagination, Cognition and Personality&nbsp;27, 63-69.
-
-Alvarado, C.S. &amp; Zingrone, N.L. (2015). Features of out-of-body experiences: Relationships to frequency, wilfulness and previous knowledge about the experience. Journal of the Society for Psychical Research 79, 98-111.
-
-Barušs, I. (2003). Alterations of Consciousness: An Empirical Analysis for Social Scientists. Washington, DC: American Psychological Association.
-
-Barušs, I. &amp; Mossbridge, J. (2016). Transcendent Mind: Rethinking the Science of Consciousness. Washington, DC: American Psychological Association.
-
-Beloff, J. (1982). Psychical Research and Psychology. In Psychical Research: A Guide to its History, Principles and Practice, ed. by I. Grattan-Guinness, 303-15. Wellinborough, Northamptonshire: Aquarian Press.
-
-Beloff, J. (1990). The Relentless Question: Reflections on the Paranormal. Jefferson: McFarland.
-
-Besterman, T. (1931). The psychology of testimony in relation to paraphysical phenomena: Report of an experiment. Proceedings of the Society for Psychical Research 40, 363-87.
-
-Bierman, D.J., Spottiswoode, J. P. &amp; Bijl, A. (2016). Testing for questionable research practices in a meta-analysis: An example from experimental parapsychology. PloS one&nbsp;11/5, e0153049.&nbsp;
-
-Blackmore, S.J. (1984). A psychological theory of the out-of-body experience.&nbsp; Journal of Parapsychology&nbsp;48, 201-18.
-
-Burt, C. (1975). ESP and Psychology (compiled by A. Gregory). New York: Wiley.
-
-Bush, N.E., &amp; Greyson, B. (2003). Distressing near-death experiences: The basics. Missouri Medicine 111, 372-76.
-
-Cardeña, E., Lynn, S.J. &amp; Krippner, S. (eds.) (2014). Varieties of Anomalous Experiences (2nd ed.). Washington, DC: American Psychological Association.
-
-Cardeña, E., Lynn, S.J. &amp; Krippner, S. (2017). The psychology of anomalous experiences: A rediscovery. Psychology of Consciousness: Theory, Research and Practice&nbsp;4, 4-22.
-
-Cardeña, E., Palmer, J. &amp; Marcusson-Clavertz, D. (2015). Parapsychology: A Handbook for the 21st Century. Jefferson, NC: McFarland.
-
-Carpenter, J.C. (2012). First Sight: ESP and Parapsychology in Everyday Life. Lanham, MD: Rowman &amp; Littlefield.
-
-Cassoli, P. (1955). Di un caso di medianita a estrisecasione religiosa: Il "contagio psichico" in metapsichica e Angelina Ronza da Frignano D'Aversa. Luce e Ombra 55, 129-59.
-
-Child, I.L. (1982). Parapsychology and psychology. In Research in Parapsychology 1981, ed. by W.G. Roll, R.L. Morris &amp; R.A. White, 202-21. Metuchen, NJ: Scarecrow Press.
-
-Child, I. (1984). Implications of parapsychology for psychology. In&nbsp;Advances in Parapsychological Research, ed. by S. Krippner, M.L. Carlson, M. Ullman &amp; R.O. Becker,&nbsp;4, 165–82. Jefferson, NC: McFarland.
-
-Cornell, A.D. (1959). An experiment in apparitional observations and findings. Journal of the Society for Psychical Research 40, 120-24.
-
-Crowe, C. (1848). The Night-Side of Nature; Or, Ghosts and Ghost Seers (2 vols.). London: T.C. Newby.
-
-Dalton, K. (1997a). Exploring the links: Creativity and psi in the ganzfeld. Proceedings of Presented Papers: The 40th Annual Convention of the Parapsychological Association, 119-34.
-
-Dalton, K. (1997b). Is there a formula to success in the ganzfeld? Observations on predictors of psi-ganzfeld performance. European Journal of Parasychology 13, 71-82.
-
-Davey, S.J. (1887). The possibilities of malobservation and lapse of memory from a practical point of view: Experimental investigation. Proceedings of the Society for Psychical Research&nbsp;4, 405-95.
-
-Delanoy, D.L. (1987). Work with a fraudulent PK metal-bending subject. Journal of the Society for Psychical Research 54, 247-56.
-
-Devereux, G. (ed.). (1953). Psychoanalysis and the Occult. New York: International University Press.
-
-Ehrenwald, J. (1955). New Dimensions of Deep Analysis. London: George Allen &amp; Unwin.
-
-Eisenbud, J. (1970). Psi and Psychoanalysis. New York: Grune and Stratton.
-
-Evrard, R. (2013). Psychopathologie et expériences exceptionnelles: Une revue de la littérature. L’évolution Psychiatrique 78, 155–76.
-
-Eysenck, H.J. (1967). Personality and extra-sensory perception.&nbsp;Journal of the Society for Psychical Research 44, 55-70.
-
-Fach, W., Atmanspacher, H., Landolt, K., Wyss, T. &amp; Rossler, W. (2013). A comparative study of exceptional experiences of clients seeking advice and of subjects in an ordinary population.&nbsp;Frontiers of Psychology&nbsp;4, 65.
-
-Flournoy, T. (1900). From India to the Planet Mars. New York: Harper &amp; Brothers.
-
-Freud, S. (1953). The occult significance of dreams. In&nbsp;Psychoanalysis and the Occult, ed. by G. Devereux, 87-90. New York: International University Press. (First published in German in 1925)
-
-Gabbard, G.O., &amp; Twemlow, S.W. (1984). With the Eyes of the Mind: An Empirical Analysis of Out-of-body States. New York: Praeger Scientific.
-
-George, L. (1981). A survey of research into the relationships between imagery and psi. Journal of Parapsychology 45, 121-46.
-
-Gomez Montanelli, D. &amp; Parra, A. (2005). ¿Las experiencias paranormales son psicológicamente perturbadoras? Una encuesta comparando estudiantes universitarios y aficionados a temas paranormales. Revista Interamericana de Psicología/Interamerican Journal of Psychology&nbsp;39, 285-94.
-
-Greyson, B. (2010). Implications of near-death experiences for a postmaterialist psychology. Psychology of Religion and Spirituality 2, 37-45.
-
-Gurney, E., Myers, F.W.H. &amp; Podmore, F. (1886). Phantasms of the Living (2 vols.). London: Trubner.
-
-Haraldsson, E. (2003). Children who speak of past-life experiences: Is there a psychological explanation? Psychology and Psychotherapy: Theory Research and Practice&nbsp;76/1, 55-67.
-
-Haraldsson, E. &amp; Houtkooper, J.M. (1991). Psychic experiences in the Multinational Human Values Study: Who reports them? Journal of the American Society for Psychical Research 85, 145-65.
-
-Haraldsson, E. &amp; Houtkooper, J.M. (1992). Effects of perceptual defensiveness, personality and belief on extrasensory perception tasks. Personality and individual Differences 13, 1085-96.
-
-Hastings, A. (1983). A counseling approach to parapsychological experience. Journal of Transpersonal Psychology 15, 143-67.
-
-Healy, J. (1984).&nbsp; The happy princess: Psychological profile of a psychic. Journal of the Society for Psychical Research&nbsp;52, 289-96.
-
-Hearne, K.M.T. (1989). A questionnaire and personality study of self-styled psychics and mediums. Journal of the Society for Psychical Research 55, 404-11.
-
-Honorton, C. (1977). Psi and internal attention states. In&nbsp;Handbook of Parapsychology, ed. by B.B. Wolman, 435-72. New York: Van Nostrand Reinhold.
-
-Honorton, C. (1997). The ganzfeld novice: Four predictors of initial ESP performance. Journal of Parapsychology 61, 143–58.
-
-Irwin, H.J. (1979). Psi and the Mind: An Information-processing Approach. Metuchen, NJ: Scarecrow Press.
-
-Irwin, H.J. (1985). Parapsychological phenomena and the absorption domain. Journal ofthe American Society for Psychical Research 79, 1-11.
-
-Irwin, H.J. (2000). The disembodied self: An empirical study of dissociation and the out-of-body experience. Journal of Parapsychology 64, 261-77.
-
-Irwin, H.J. &amp; Watt, C. (2007). An Introduction to Parapsychology (5th ed.). Jefferson, NC: McFarland.
-
-James, W. (1898). Human Immortality. Boston: Houghton Mifflin.
-
-Kelly, E. F., Kelly, E. W., Crabtree, A., Gauld, A., Grosso, M. &amp; Greyson, B. (2007). Irreducible Mind: Toward a Psychology for the 21st Century. Lanham: Rowman &amp; Littlefield.
-
-Kennedy, J.E. &amp; Kanthamani, H. (1995). An exploratory study of the effects of paranormal and spiritual experiences on peoples’ lives and well-being. Journal of the American Society for Psychical Research&nbsp;89, 249-65.
-
-Khanna, S. &amp; Greyson, B. (2013). Near-death experiences and spiritual well-being. Journal of Religion and Health&nbsp;53, 1605-15.
-
-Kramer, W., Bauer, E. &amp; Hövelmann, G. (2012). Perspectives of Clinical Parapsychology&nbsp;: An Introductory Reader. Bunnik: Stichting HJBF.
-
-Krippner, S. (1978). The interface between parapsychology and humanistic psychology. In&nbsp;The Signet Handbook of Parapsychology, ed. by M. Ebon, 79-87. New York: New American Library.
-
-Lawrence, T. (1993). Gathering in the sheep and the goats... : A meta-analysis of forced-choice sheep-goat ESP studies, 1947-1993. &nbsp;Paper presented at the 1993 Convention of the Parapsychological Association, Toronto, Canada, August.
-
-Le Malefan, P. (1999). Folie et Spiritisme: Histoire du Discourse Psychopathologique sur la Pratique du Spiritisme, ses Abords et ses Avatars (1850–1950). Paris: L’Hartmattan.
-
-Marcusson-Clavertz, D. &amp; Cardeña, E., (2011). Hypnotizability, alterations in consciousness, and other variables as predictors of performance in a gan­zfeld psi task. Journal of Parapsychology 75, 235–59.
-
-Maxwell, J. (1905). Metapsychical Phenomena: Methods and observations. London: Duckworth. (First published in French in 1903).
-
-May, E.C. (2017). Defending physicalism [video interview] New Thinking Allowed.
-
-Moreira-Almeida, A., Lotufo Neto, F. &amp; Greyson, B. (2007). Dissociative and psychotic experiences in Brazilian Spiritist mediums. Psychotherapy and&nbsp; Psychosomatics 76, 57-58.
-
-Morselli, E. (1908). Psicologia e “Spiritismo” (2 vols.). Turin: Fratelli Bocca.
-
-Mossbridge, J., Tressoldi, P. &amp; Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: A meta-analysis. Frontiers in Psychology 3, 1-18.&nbsp;
-
-Myers, F.W.H. (1903). Human Personality and its Survival of Bodily Death (2 vols.). London: Longmans, Green.
-
-Myers, S.A., Austrin, H.R., Grisso, J.T. &amp; Nickesson, R.C. (1983). Personality characteristics as related to the out-of-body experience. Journal of Parapsychology 47, 131-44.
-
-Osty, E. (1926). Pascal Forthuny: Une faculte de connaissance supra-normale. Paris: Félix Alcan.
-
-Osty, E. (1930). Le médium Stanislawa P. à l’Institut Métapsychique de Paris: Comédie médiumnique. Revue Métapsychique&nbsp;6, 515-28.
-
-Palmer, J. (1978a). Extrasensory perception: Research findings. In&nbsp;Advances in Parapsychological Research: Vol. 2: Extrasensory Perception, ed. by&nbsp;S. Krippner, 59-243. New York: Plenum Press.
-
-Palmer, J. (1978b). The out-of-the body experience: A psychological theory. Parapsychology Review 9/5,&nbsp;19-22.
-
-Palmer, J. (1979). A community mail survey of psychic experiences. Journal of the American Society for Psychical Research 73,&nbsp;221-51.
-
-Palmer, J. (1983). Sensory contamination of free-response ESP targets: The greasy fingers hypothesis. Journal of the American Society for Psychical Research 77, 101-13.
-
-Palmer, J. (2015). Implicit anomalous cognition. In Parapsychology: A Handbook for the 21st Century, ed. by E. Cardeña, J. Palmer, &amp; D. Marcusson-Clavertz, 215-29. Jefferson, NC: McFarland.
-
-Palmer, J. &amp; Millar, B. (2015). Experimenter effects in parapsychology research. In Parapsychology: A Handbook for the 21st Century, ed. by E. Cardeña, J. Palmer &amp; D. Marcusson-Clavertz, 293-300. Jefferson, NC: McFarland.
-
-Parker, A. (2000). A review of the ganzfeld work at Gothenberg University. Journal of the Society for Psychical Research 64, 1-15.
-
-Parker, A. (2015). The jungle of hypnotic psi: Part 2. Research on relationships between psi and hypnosis. Journal of Parapsychology 79, 37-52.
-
-Parker, A. (2017). Ganzfeld ESP. Psi Encyclopedia. London: Society for Psychical Research.
-
-Parra, A. (2009-2010). Out-of-body experiences and hallucinatory experiences: A psychological approach. Imagination, Cognition and Personality&nbsp;29, 211-24.
-
-Parra, A. (2012). Relación entre las experiencias paranormales y esquizotipia positiva/negativa. Acta Psiquiátrica y Psicológica de América Latina 58, 246-55.
-
-Parra, A. (2013a). Cognitive and emotional empathy in relation to five paranormal/anomalous experiences. North American Journal of Psychology&nbsp;15, 405-12.
-
-Parra, A. (2013b). A phenomenological examination of premonition experiences in dreams and waking states: A survey study. Australian Journal of Parapsychology 13, 187-212.
-
-Parra, A. &amp; Argibay, J.C. (2016). The boundary construct and anomalous experiences in psychics. Journal of the Society for Psychical Research 80, 13-23.
-
-Parra, A. &amp; Corbetta, J.M. (2014). Changes resulting from paranormal/spiritual experiences and their effects on people’s wellbeing: An exploratory examination. Journal for the Study of Spirituality 4, 71-80.
-
-Parra, A. &amp; Villanueva, J. (2003). Personality factors and ESP during ganzfeld session. Journal of the Society for Psychical Research 67, 870, 26-36.
-
-Pekala, R.J., Kumar, V.K. &amp; Cummings, J. (1992). Types of high hypnotically-susceptible individuals and reported attitudes and experiences of the paranormal and the anomalous. Journal of the American Society for Psychical Research 86, 135-50.
-
-Persinger, M.A. (1984). Propensity to report paranormal experiences is correlated with temporal lobe signs. Perceptual and Motor Skills 59, 583-86.
-
-Progoff, I. (1964). The Image of an Oracle: A Report on Research into the Mediumship of Eileen J. Garrett. New York: Garrett Publications.
-
-Rabeyron, T. &amp; Watt, C. (2010). Paranormal experiences, mental health and mental boundaries, and psi. Personality and Individual Differences 48, 487-92.
-
-Rattet, S.L. &amp; Bursik, K. (2001). Investigating the personality correlates of paranormal belief and precognitive experience. Personality and Individual Differences 31, 433-44.
-
-Rhine, J.B. (1947). The Reach of the Mind. New York: William Sloane.
-
-Rhine, J.B. (1953). New World of the Mind. New York: William Sloane.
-
-Rhine, J.B. (1969). Psi-missing re-examined. Journal of Parapsychology 33, 1-38.
-
-Rhine, J.B. (1972). Parapsychology and man. Journal of Parapsychology 36, 101-21.
-
-Rhine, J.B. &amp; Pratt, J.G. (1957). Parapsychology: Frontier Science of the Mind. Springfield, IL: Charles C Thomas.
-
-Rhine, L.E. (1953). Subjective forms of spontaneous psi experiences. Journal of Parapsychology 17, 77-114.
-
-Rhine, L.E. (1962). Psychological processes in ESP experiences. Part I. Waking experiences. &nbsp;Journal of Parapsychology 26, 88-111.
-
-Richards, D. (1991). A study of the correlations between subjective psychic experiences and dissociative experiences. Dissociation 4, 83-91.
-
-Richet, C. (1922). Traité de Métapsychique. Paris: Félix Alcan.
-
-Roe, C.A., Sonnex, C. &amp; Roxburgh, E.C. (2015). Two meta-analyses of noncontact healing studies. Explore&nbsp;11, 11-23.
-
-Rogo, D.S. (1986). ESP and schizophrenia: An analysis from two perspectives. Journal of the Society for Psychical Research 51, 329-42.
-
-Roll, W.G. (1972). The Poltergeist. Garden City, NY: Doubleday.
-
-Rommer, B. (2000). Blessing in Disguise: Another Side of the Near-Death Experience. St. Paul, MN: Llewellyn.
-
-Rosenbaum, R. (2011). Exploring the other dark continent: Parallels between psi phenomena and the psychotherapeutic process. Psychoanalytic Review&nbsp;98, 57-90.
-
-Ross, C.A. &amp; Joshi, S. (1992). Paranormal experiences in the general population. Journal of Nervous and Mental Disease&nbsp;180, 357-61.
-
-Roxburgh, E.C. &amp; Roe, C, (2011). A survey of dissociation, boundary thinness, and psychological wellbeing in spiritualist mental mediumship.&nbsp;Journal of Parapsychology 75, 279-99.
-
-Saltmarsh, H.F. (1934). Report on cases of apparent precognition. Proceedings of the Society for Psychical Research&nbsp;42, 49-103.
-
-Schmeidler, G.R. (1958). Analysis and evaluation of proxy sittings with Mrs. Caroline Chapman. Journal of Parapsychology&nbsp;22, 137-55.
-
-Schmeidler, G.R. (1988). Parapsychology and Psychology: Matches and Mismatches. Jefferson, NC: McFarland.
-
-Schmeidler, G.R. &amp; McConnell, R.A. (1958). ESP and Personality Patterns. New Haven, CT: Yale University Press.
-
-Schwartz, S.A. &amp; Dossey, L. (2010). Nonlocality, intention, and observer effects in healing studies: Laying a foundation for the future. Explore&nbsp;6, 295-307.
-
-Schwebel, L.J. (2004). Apparitions, Healings, and Weeping Madonnas: Christianity and the Paranormal. New York: Paulist Press.
-
-Scimeca, G., Bruno, A., Pandolfo, G, La Ciura, G, Zoccali, R.A. &amp; Muscatello, M.R. (2015). Extrasensory perception experiences and childhood trauma: A Rorschach investigation. Journal of Nervous and Mental Disease 203, 856-63.
-
-Sherwood, S.J. &amp; Roe, C. A. (2013). An updated review of dream ESP studies conducted since the Maimonides dream ESP program. In&nbsp;Advances in Parapsychological Research 9, ed. by S. Krippner, A.J. Rock, J. Beischel &amp; H. Friedman, 38-81). Jefferson, NC: McFarland.
-
-Simmonds-Moore, C. (2009-2010). Sleep patterns, personality, and subjective anomalous experiences. Imagination, Cognition, and Personality&nbsp;29, 71-86.
-
-Soto Espinosa, J. &amp; Koss-Chioino, J.D. (2014). Puerto Rican Spiritism (Espiritismo): Social context, heling process, mental health. In&nbsp;Caribbean Healing Traditions: Implications for Health and Mental Health, ed. by P. Sutherland, R. Moodley &amp; B. Chevannes, 114-25. New York: Routledge.
-
-Stanford, R.G. &amp; Stein, A.G. (1994) A meta-analysis of ESP studies contrasting hypnosis and a comparison condition. Journal of Parapsychology 58, 235-70
-
-Stevenson, I. (1970). Telepathic Impressions: A Review and Report of 35 New Cases. Charlottesville, VA: University Press of Virginia
-
-Stevenson, I. (1992). A series of possibly paranormal recurrent dreams. Journal of Scientific Exploration 6, 282-90.
-
-Stevenson, I., Pasricha, S. &amp; Samararatne, G. (1988). Deception and self-deception in cases of the reincarnation type: Seven illustrative cases in Asia. Journal of the American Society for Psychical Research 82, 1-31.
-
-Storm, L. &amp; Tressoldi, P.E. (2017). Gathering in more sheep and goats: A meta-analysis of forced-hoice sheep-goat ESP studies, 1994–2015.&nbsp; Journal of the Society for Psychical Research 81, 79-107.
-
-Sudre, R. (1926). Introduction à la Métapsychique Humaine. Paris: Payot.
-
-Sutherland, C. (1995). Reborn in the Light: Life after Near-Death Experiences. New York: Bantam Books.
-
-Tart, C.T. (2009). The End of Materialism: How Evidence of the Paranormal is bringing Science and Spirit together. Oakland: New Harbinger.
-
-Tenhaeff, W.H.C. (1958). Uber die Anwendung paranormaler Fahhigkeiten. Zeitschrift fur Parapsychologie und Grenzgebiete der Psychologie 2, 10-20.
-
-Tenhaeff, W.H.C. (1964). A contribution to the understanding of the personality structure of paragnosts. Journal of Parapsychology 28, 292 (abstract).
-
-Thalbourne, M.A. (2004). The Common Thread Between ESP and PK (Parapsychological Monograph No. 19). New York: Parapsychology Foundation.
-
-Tucker, J.B. &amp; Nidiffer, F.D. (2014). Psychological evaluation of American children who report memories of previous lives. Journal of Scientific Exploration 28, 583-94.
-
-Tyrrell, G.N.M. (1946). The modus operandi of paranormal cognition. Proceedings of the Society for Psychical Research 48, 65-120.
-
-Tyrrell, G.N.M. (1953). Apparitions. London: Gerald Duckworth.
-
-Usha, S. &amp; Pasricha, S. (1989). Claims of paranormal experiences – I. &nbsp;A survey of psi and psi-related experiences. NIMHANS Journal 7, 143-50.
-
-Van Over, R. (Ed.). (1972). Psychology and Rxtrasensory Perception. New York: New American Library.
-
-Watt, C. (2005). Parapsychology’s contribution to psychology: A view from the front line. Journal of Parapsychology 69, 215-32.
-
-West, D.J. (1948). The investigation of spontaneous cases.&nbsp;Proceedings of the Society for Psychical Research&nbsp;48, 264-300.
-
-West, D.J. (1960). Visionary and hallucinatory experiences: A comparative appraisal. International Journal of Parapsychology 2, 89-100.
-
-Zingrone, N. L., Alvarado, C. S. &amp; Agee, N. (2009). Psychological correlates of aura vision: Psychic experiences, dissociation, absorption, and synaesthesia-like experiences. Australian Journal of Clinical and Experimental Hypnosis&nbsp;37, 131-68.
-
-Zusne, L. &amp; Jones, W.H. (1982). Anomalistic Psychology: A Study of Extraordinary Phenomena of Behavior and Experience. Hillsdale, NJ: Erlhaum.   Endnotes 1. Myers (1903). 2. Tyrrell (1946). 3. L. Rhine (1953). 4. Stevenson (1970), 61-62. 5. Ehrenwald (1955). 6. Eisenbud (1970). 7. Stevenson (1992). 8. Rhine and Pratt (1957). 9. Rhine (1969). 10. Carpenter (2012). 11. Schmeidler &amp; McConnell (1958). 12. Lawrence (1993). 13. Storm &amp; Tressoldi (2017). 14. e.g., Parra &amp; Villanueva (2003). 15. Dalton (1997a). 16. Palmer (1978a). 17. George (1981). 18. Haraldsson &amp; Houtkooper (1992). 19. Stanford and Stein (1994). 20. Parker (2015). 21. Barušs (2003). 22. Sherwood &amp; Roe (2013). 23. Bierman et al (2016); Parker (2017) 24. Dalton (1997b); Parker (2000). 25. Parker (2000), 68. 26. e.g., Dalton (1997b); Parker (2017). 27. Honorton (1997). 28. Marcusson-Clavertz &amp; Cardeña (2011). 29. Palmer &amp; Millar (2015). 30. Mossbridge, Tressoldi &amp; Utts (2012). 31. e.g., Alvarado &amp; Zingrone (2007-2008); Palmer (1979). 32. Alvarado and Zingrone (1994). 33. Myers et al (1983). 34. Irwin (1985). 35. Parra &amp; Argibay (2016). 36. Richards (1991). 37. Parra (2013a). 38. Pekala et al (1992). 39. Simmonds-Moore (2009-10). 40. Rattet, &amp; Bursik, (2001). 41. Parra (2009-10). 42. Roxburgh &amp; Roe (2011). 43. Zingrone et al (2009). 44. Haraldsson (2003). 45. Flournoy (1900). 46. Morselli (1908). 47. Osty (1926). 48. Tenhaeff (1958). 49. Tenhaeff (1964), 292. 50. Schmeidler (1958), 155. 51. Progoff (1964). 52. Hearne (1989). 53. e.g., Healy (1984). 54. e.g., Roll (1972). 55. Myers (1903). 56. Rhine and Pratt (1957). 57. Carpenter (2012). 58. Rhine &amp; Pratt (1957), 88-89. 59. Honorton (1977). 60. Irwin (1979). 61. Thalbourne (2004). 62. Carpenter (2012). 63. Eysenck (1967). 64. Palmer (1978a). 65. Roll (1972). 66. Tyrrell (1953). 67. Alvarado (2009). 68. Haraldsson and Houtkooper (1991). 69. Haraldsson and Houtkooper (1991), 157. 70. Palmer (1979); Zingrone, Alvarado &amp; Agee (2009). 71. e.g., Parra (2013a); Usha &amp; Pasricha (1989). 72. Ross &amp; Joshi (1992), 360. 73. Irwin &amp; Watt (2007). 74. Alvarado &amp; Zingrone (2015). 75. Parra (2013b). 76. L.E. Rhine (1962). 77. Saltmarsh (1934). 78. Stevenson (1970). 79. Alvarado &amp; Zingrone (2015). 80. e.g., Zusne &amp; Jones (1982). 81. Gurney et al (1886). 82. Gurney, Myers &amp; Podmore (1886) Vol. 1, xviii. 83. Davey (1887). 84. Besterman (1931). 85. Cornell (1959); West (1948). 86. Maxwell (1903/5). 87. Sudre (1926). 88. Richet (1922), 50. 89. Blackmore (1984). 90. Irwin (2000). 91. Palmer (1978b). 92. Alvarado &amp; Zingrone (1997–98). 93. Palmer (1983). 94. Osty (1930). 95. Delanoy (1987). 96. Stevenson et al (1988). 97. Freud (1925/1953a), 90. 98. Ehrenwald (1955). 99. Eisenbud (1970). 100. Rosenbaum (2011), 84. 101. Evrard,(2013); Kramer et al (2012). 102. Evrard (2013), 171. 103. e.g., West (1960). 104. Cardeña et al (2017), 10. 105. Fach et al (2013). 106. Ross &amp; Joshi (1992). 107. Persinger (1984). 108. Parra (2012); Simmonds-Moore (2009-10). 109. Parra (2012), 252. 110. e.g., Rabeyron &amp; Watt (2010); Scimeca et al (2015). 111. Ross &amp; Joshi (1992). 112. Ross &amp; Joshi (1992), 360. 113. Gabbard &amp; Twemlow (1984). 114. Moreira-Almeida et al (2007). 115. Tucker &amp; Nidiffer (2014). 116. Rogo (1986). 117. Hastings (1983), 147-48. 118. Hastings (1983). 119. e.g., Kennedy &amp; Kanthamani (1995); Parra &amp; Corbetta (2014). 120. Kennedy &amp; Kanthamani (1995). 121. e.g., Khanna &amp; Greyson (2013); Sutherland (1995). 122. Khanna &amp; Greyson (2013), 1611-12. 123. Alvarado &amp; Zingrone (2003). 124. e.g., Rommer (2000). 125. Gomez Montanelli &amp; Parra (2005). 126. Bush &amp; Greyson (2003). 127. Soto Espinosa &amp; Koss-Chioino (2014). 128. Schwebel (2004). 129. Cassoli (1955). 130. Roe, Sonnex &amp; Roxburgh (2015). 131. Alvarado (2012). 132. Crowe (1848). 133. Myers (1903). 134. Myers (1903) Vol. 1, 24. 135. James (1898), 26. 136. Rhine (1947). 137. Rhine (1953). 138. Rhine &amp; Pratt (1957), 6, italics in the original. 139. Rhine (1972), 114. 140. Barušs &amp; Mossbridge (2016); Beloff (1990); Schwartz &amp; Dossey (2010). 141. Tart (2009). 142. Tart (2009), 241. 143. Kelly et al (2007). 144. Greyson (2010), 43. 145. e.g., May (2017). 146. Beloff (1982). 147. Burt (1975). 148. Child (1982; 1984). 149. Van Over (1972). 150. Cardeña, Lynn &amp; Krippner (2014). 151. Cardeña et al (2015). 152. Carpenter (2012). 153. Irwin (1979). 154. Schmeidler (1988). 155. Devereux (1953). 156. Alvarado (2012). 157. Kramer et al (2012). 158. Krippner (1978). 159. Le Maléfan (1999). 160. Watt (2005).           			  			     			This page was last updated on: October 31, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Carlos S. Alvarado Word count: 8,600 Created: 31st October 2017 Last updated: 31st October 2023 May be cited as:Alvarado, C. S. (2017). &lsquo;Psychology and Parapsychology&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yyov3gx6                   	                                                                              
-
-                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
-
-Visit the Society for Psychical Research                
-
-[1] https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology
+{"type":"link","mylink":"http:\/\/www.iapsop.com\/ssoc\/1843__brown___a_warning_to_watchfulness.pdf","mytitle":"A Warning To Watchfulness","mylang":"de"}
+-
+».. -...-.-
+_-...
+_-~ 'TIl l;`
+5
+; szcoun ADWNT usnnnv.
+5
+* xo. xx..
+3 nncnmnnn 16, lsu.
+'
+'
+fa
+°
+A
+I
+E WARNING
+; N,
+E WATCHFULNESS
+D
+nn
+I
+z ,
+i
+If ~
+_
+_
+I
+I
+IY
+F. G. BROWN.
+Q -;
+nl
+ui
+i.
+4
+I
+.
+U
+:
+BOSTON:
+Q
+PUBLISHED BY JOSHUA V. HIMES,
+4 14 Devonshire Street.
+/ One sum. x>°m¢.-ma., mo miles, um.; 0111* l00,2}cu.
+PROEM.
+Tas times are perilous, and call for watchful~
+ness and prayer on the part of all professing
+Christians. The temptations of the world, the
+deceitfulness of its riches and pleasures, can
+only
+be withstood by a close walk with God, in the
+faithful performance of every Christian duty.
+"
+Watch therefore, and pray always, that ye may
+be accounted worthy to escape all these things,
+and to stand before the Son of man."
+The following work, by Bao. Baown, cannot
+fail to aid the humble disciples of Christ in pre-
+paring them for his appearing and kingdom.
+_ J. V. HIMES.
+Barton, Dec. 12th, 1843.
+l
+A
+WARNING TO WA TCHFULNESS.
+._..
+"
+And what I say unto you, I say unto ull, Watch."
+Mark 37.
+ALL are familiar with the occasion on which these
+words were spoken. Several inquiries wére proposed
+to the Saviour. They were in the following form :-
+"
+When shall these things be! and what shall he the
+sign of thy coming, and of the end of the' world!"
+These inquiries were so direct and definite, that if a
+reply be given to them at all, we shall naturally expect
+it to be equally as specilic and clear. Such an expec-
+tation is well founded, as will be seen on examination.
+The Saviour, without repelling the inquirers for what
+might have been thought impertinent and inquisitive
+roposals, and without evading the questions in the
+l)east, proceeds to give a clear narration of certain
+events, which shall occur in regular order, and be fol-
+lowed by certain signs which shall betoken his advent.
+And to conclude all, he urges upon them the practical
+duty of watching for his coming. This he repeatedly
+enforces in the course of one or two short sentences.
+The disciples, in this instance, betrayed an anxiety
+very common among primitive Christians. They all
+desired to know something about the time of Christ's
+second advent. 'I`his solicitude neither the Saviour nor
+his apostles hesitated to gratify: had it not been a very
+4
+natural and commendable anxiety, we have reason to
+presume that it would not have been responded to so
+promptly. The theme of Christ's second coming en~
+gaged the attention and interested the soul of every
+inspired writer of the Scriptures, with hardly an excep-
+tion. The Bible is full of the subject. Nor less was
+it a iiequent topic of discourse among the apostles.
+Paul refers to the Saviour's second appearing more
+than a score of times; the other apostles several times;
+and John, as he looked along down the stream of time
+in prophetic vision, and beheld one event succeeding
+another, until he came to the glorious consummation,
+when Christ should be revealed from heaven without
+sin unto salvation, his soul heaving with .unutterable
+delight in anticipation of that glorious event, bursts
+forth with the emphatic ejaculation-" Come, Lord
+Jesus, come quickly !"
+But neither Christ or his apostles refer to that event,
+or to the time of its occurrence, as matters for idle spec-
+ulation, or for the purpose of satisfying a vain curiosity.
+Indeed, it is reasonable to suppose that inquiries on this
+subject were prompted by the Holy S irit, not so much
+for the benefit of those who then lived as for our good
+who should come after them. John alludes to Christ's
+second coming, for the practical purpose of quickening
+his brethren to vigilance and purity; Peter, to holy
+conversation and godliness; Paul, to temperance and
+sobriety, with other virtues; and the Saviour, in the
+way of
+impartinfg consolation, encouragement, and
+warning to watch ulness. We take it for granted, that
+all inquiries on the same subject at the present day,
+result from a sober and commendable desire to make a
+practical use of the doctrine; and that all efforts to
+gratify such inquiries spring from the same
+pure foun-
+tain. A mere intellectual sense of this event, together
+with the time of its occurrence, cannot benefit the soul
+in the least: nay, it may serve to sink it deeper and
+degper
+in final wo !
+rom what has now been observed, we deem the
+'inquiriesproposed to Christ, by his disciples, very
+5
+important and momentous; and the reply, together with
+the impressive admonitions accompanying it, of rave
+attention. What I say unto you, I say unto all, Vlgttch,
+watch, watch. The command is universal, and inten-
+ded to apply to all of the followers of Christ, in every
+successive stage of the church down to his very coming.
+Indeed, if it be a command more binding upon the
+church in one period than another, it will be conceded
+that it is more obligatory upon those who may be alive
+when these events and signs referred to shall be wit-
+nessed. If so, the instructions to watch are
+particularly
+addressed to us, and we cannot pass them by unheeded.
+Independent, however, of this inference, here is a com-
+mand of universal application. As Christians, we are
+all looking for Christ's appearing sooner or later : some
+of us think the time of his
+coming
+is plainly revealed in
+God's word; others not; but al will allow that the
+Scriptures clearly teach the duty of watchfulness in
+respect to the Saviour's appearing. Many of us are
+watching for that event to occur speedily, and are pre-
+paring ourselves accordingly. It is with heartfelt
+:grief
+that we find so many ofthe professed disciples of esus
+indifferent and unconcemed at this hour, and so
+many
+who seem to say, that as long as the Bible is silent on
+the time of Christ's coming, they may totally disregard
+all orders to watch and to prepare themselves for the
+great day of the Lord God Almighty. So long as such
+continue at ease in their Laodicean state, and slight such
+plain directions of the great Judge, we tremble _for their
+safety, and justly fear that they will be among those
+who shall in vain cry, Lord, Lord, open to us.
+It is in the hope of stirring up such to a sense of their
+true condition, and of arousing them to immediate duty,
+that we undertake to present them with the light in
+which the oracles of God set forth this
+subject; feeling
+assured, that if they are the Lord's genuine children,
+they cannot longer be indiferent, when they see the
+prominence which this doctrine sustains in the Scrip-
+tures, together with the responsibilities and duties
+resting on Christians, arising out of the great truth of
+1*
+6
+the second coming of Christ.
+Certainlg they will not
+shrink from yielding
+objzdience
+to plain cripture, fairly
+and honestl inter rete _
+I. We bzgin thin by inviting your attention to some
+plain but impressive parables employed by our Lord
+him-
+self, for the
+purplose
+of setting this subject before us in
+its strongest li t. The first to which we refer may
+be found recorged in Matt. xxiv. 42, 43, 44.
+"Watch therefore; for ye know not what hour your Lord
+doth co
+"Butmlfxiow this, that if the
+(good
+man of the house had
+known in what watch the thie would come, he would have
+watched, and would not have suffered his house to be broken
+ug; Therefore be ye also
+ready: for in such an hour as ye think
+not, the Son of man cometh.'
+We learn from this parable, that to those who shall
+be oif their guard and not expecting his approach, he
+will come as a thief. If found watching, our best inter-
+ests will be secured; but if negligent and distrustful, our
+loss will be certain. A thief in his coming will surely
+take advantage of our absence and uneoncem ; the only
+security therefore is constant vigilance. As if the
+Saviour had said, Be always ready for my coming; lest,
+being surprised, you incur a like loss. As you cannot
+trust the thief, by saying that he will not make his dep-
+redations at this, or that hour, so neither can you deter-
+mine when I may or may not appear. No man thinks
+of suffering his goods to bc despoiled ; so no Christian
+dreams of having Christ come without being prepared
+to meet him. But as our mere thinking so, never saves
+our possessions from the grasp of the depredator;- so
+our mere thinking that our souls' interests will never be
+desolated, is no security in itself against such a catas-
+trophe.
+'
+second parable stands in connexion with the fore-_
+going:
+"Who then is a faithful and wise servant, whom his lord
+hath
+mgde
+ruler over his household, to give them meat in due
+nv
+. I
+"Blessed is that servant, whom his lord, when he cometh,
+shall lind so doing.
+"
+Verily, I say unto you, That he shall make him ruler over
+all his goods.
+"
+But and if that evil servant shall say in his heart, My lord
+delsyeth his coming;
+"
+And shall begin to smite his fellow-servants, and to est and
+drink with the drunken;
+"The lord of that servant shall come in a day when he
+looketh not for him and in nn hour that he is not aware of,
+"And shall cut him asunder and appoint him his portion
+witlpthe hypocrites; there shall be weeping and gnasliing of
+teet ."
+Here the Saviour likens himself to a lord, and his
+followers to the servants of a household, in whose hands
+the former leaves all his domestic interests, constituting
+some rulers to superintend and direct the affairs of his
+house, and to administer to his servants proper and
+well-timed food-" meat in due season." With an eye
+fixed on his instructions, such a servant if wise and
+faithful, will neglect no
+part of the duties assigned him ;
+he will not provide his supplies at irregular intervals,
+nor have them always of the same character; he will
+adapt his fare to the season, and to the circumstances ol'
+the household. We hence infer that the wise and faith-
+ful servant of Christ will see that his duties vary with
+circumstances ; he is not left to reason that because the
+health and good of the church have thus far been pro-
+moted, that therefore the same kind of truth is always
+to nourish it, without any variation ; God has otherwise
+ordained. And here we find a suflicient sanction for the
+course pursued by second-advent hesrers and preachers.
+The hearer believes that Christ is just to come; he
+accordingly feels that nothing will sustain and impart
+life to his soul, but those scriptural truths which har-
+monize with his coming. We are frank to acknowledge
+that in comparison with this aliment
+nothin?
+else is as
+palatable, or nourishing to him: nor is this act strange
+to one who has once tasted of the delicious qualities of
+this soul-reviving doctrine. While at the same time
+the preacher feels himselfspecially called on to proclaim,
+8
+"
+Fear God, and give glory to him ; for the hour of his
+judgment is come : and worship him that made heaven,
+and earth, and the sea, and the fountain of waters."
+Nothing less can be meat in due season: besides, all
+other great gospel truths cluster in sweet and refreshing
+profusions around this particular doctrine of the Lcrd's
+coming: the latter tending naturally to enforce the
+former. As we read the Scriptures, he may not shrink
+from the discharge of this duty at the peril of his soul's
+salvation. Nor may those who are subject to his care,
+turn away from his warnings now, at the peril of a like
+exposure. A minister does not conclude his services
+when he has proclaimed on the general doctrines of
+faith and repentance: his duties are more extensive
+and solemn; if he thinks they are not, he had better
+relinquish his ofiice, before he prepares others, by his
+inertness and
+sluggishness for the same fate which
+awaits himself. 1or does it suliice to plead an uncer-
+tainty or an ignorance as to the particular times in
+which we are living. These are made plain matters of
+prophecy, and may be understood z it his duty to know
+the times. Our Lord rebuked the scribes and Phari-
+sees for not knowing the times in which they lived;
+intimating that such an ordinary measure of perception
+as they all exercised in divining the least change in the
+natural world, would, if properly directed, assist them in
+ascertaining the character of the times on which they
+had fallen. If they did not understand, it was because
+they would not, or because the were more interested
+in serving themselves than the liiord. Just so we say
+of their prototypes at the present day; had they the
+humble, obedient disposition of their master; were
+Christ the centre ot' iheir thoughts, and affections, and
+souls, the objects around which their hearts yearned
+with nnutterable agony by day and by night, there
+would be ho kind of trouble about ascertaining the truth,
+and of perceiving at once the dreadful danger in which
+the whole world lies of experiencing the last and most
+terrible of Jehovah`s vials of wrath.
+Let it now be marked, thatas this parable relates to
+9
+the Lord's coming, there seems to be an intimation, in
+the clause last quoted, that the wise and faithful ser~
+vant will be sure to announce that coming in its place:
+and thus he will indeed administer meat in due season.
+By so doing he shall be blessed, and by continuing so
+to do until his Lord comes, he shall receive marked dis-
+tinctions and honors. Such are Christ's loyal subjects,
+who never liinch from duty, though despised, and
+mocked, and pitied for their conscientious adherence to
+their great King's instructions.
+How reverse his treatment, however, who, neglecting
+his Lord's interests, and paying little or no regard to his
+coming, begins secretly to cherish the conviction that
+the Lord defers his return. Of this crime such an one
+may be guilty, when he is entirely silent about that
+event; when he contends that it has already occurred ;
+or that it is a mere figurative coming taught in the
+Bible, a coming which is to be fatal to none, but glo-
+rious to all, irrespective of characters; when he main-
+tains that this event is far in the future, and its time
+nowhere taught; when he secretly rejects the doctrine
+from his heart, and boldly and unblushingly publishes
+that the coming of Christ shall not alter his engage-
+ments, the character and method of his preaching, his
+conduct; or by any other course which shall be con-
+strued by the world into a refusal to prepare himself
+and others for that crisis. If such infidelity as this has
+crept into his heart, or escaped from his lips, you may
+look for another step in his career of hardihood, mischief
+and wickedness, which will tit him, as well as all who
+sympathize with him, for more complete ruin. He
+will begin publicly to reproach and
+iiggre
+those who, in
+the honesty of their souls, believe the rd is coming, a_nd
+are trying to be prepared for him; to brand them with
+heresy, and to thrust them out ostensibly for want of
+charity and for denunciatory epithets; (ah! the all-
+ilaming eye above knows the hypocrisy of such hearts :)
+to sympathize with and to please those who hate the
+Lord's coming, and to join with them in their sensual
+excesses and impious indifference to this tremendous
+10
+event, with
+fre¢1uent
+cries of peace, peace: yea, more,
+to tum this who e subject into ridicule and jests, thereby
+sdbrding merriment and
+sm
+for the wicked, blas-
+pheming multitude. My ! who would dare it!
+Such are preparing for themselves the heaviest of Jeho-
+vah's thunderbolts. In the midst of their railing, and
+scofring, and tyranny, and bacchanalian revelries, sud-
+den snd awful destruction shall be pourcd out upon
+them: and they shall be swept away into the burning
+lake with hypocrites and unbelievers: "
+there shall be
+weeping and nashing of teeth." With unbeltevers,
+because they have concealed or sported with God's
+word: with
+hy'poov~il¢.r,
+because they really are such ;
+they have pro eased to love Christ's coming, and to
+desire the inheritance prepared for his followers; but
+the mention of either has awakened within their bosoms
+the bitterest opposition or the most consuming hatred.
+Alas, how little do the deluded multitude consider, that
+those on whom they are bestovving their windy adula-
+tions for their successful efforts in quieting their con-
+sciences, by showing that the judgment is a great way
+oH`, are these very evil servants so vividly portrayed by
+our Lord in this parable! Why are they so blinded as
+not to see what their teachers are? and that the devil
+could not have selected more specious and unsuspecting
+agents by which to lay his last snare for their souls!
+Yea, why do they not themselves perceive that "
+my
+Lord delayeth his coming" is nowhere found in their
+commission ; and that the argument which
+they
+have so
+long employed against Universalism, may with ike force
+be urged against the doctrines for which they plead!
+Universalism has for its sympathizers and advocates
+those who are reckless and hardened ; consequently, it
+is not of God. Well then, the anti~advent doctrine is
+subject to a like judgment for a similar reason. Would
+that all ministers who preach against Christ's coming,
+were as rational as one, who, alter having preached sev-
+eral discourses against our view , accidentally passed a
+small group of individuals who had formed a part of his
+audience, and overheard them damning to h-~ll all the
+ll
+Millerites, md extolling himself and others for their
+giant vindication of the truth. It went like a barbed
+arrow to his heart; he dropped his head and began to
+reason
+:-"}lVhat, is Satan divided against himself3
+then must
+krngdlom fall
+!"
+dlil;
+at once
+resplvipd
+on
+never a preac in ose ourses, wen ome,
+shut hir§;llf up in hii study, and there continued for
+days, turning over his Bible anew, and breathing out
+ve emcnt prayer to God for light and knowledge: and
+soon, while on his knees, in his barn, was converted into
+the doctrine of the Lord's immediate coming.
+Far more tolerable will it be for us, if we keep our
+peace at this time, than, b breaking the silence, we
+bless the wicked on whom (god hath directed us
+wtpro-
+nounce a
+"
+wo,"
+"
+wo ;" and sadden the hearts o the
+righteous,
+to whom we have been commissioned to bear
+'
+ings of comfort and health.
+01r Saviour next introduces another parable found in
+the following chapter : it is the well-known parable of
+the
+te; vipgipz ; a parable designed to illustrate things
+imme 'ate y fore his coming.
+_"Then shall the kingdom of heaven he likened unto ten vir-
+gins,
+which took their lamps, and went forth to meet the
+ridegroom.
+"And ive of them were wise snd five were foolish. _
+_"They that were foolish took their lamps, and took no oil
+with them.
+"
+But the wise took oil in their vessels with their lamps.
+l"Whilc
+the bridcgroom tarried, they all slumbered and
+s e t.
+'PAnd at midnight there was s
+cry made, Behold, the bride-
+groom cometh; go ye out to meet him.
+"Then all those virgins arose, and trimmed their lamps.
+"And the foolish said unto the wise, Give us of your oil; for
+our
+lsmps are
+gone out.
+"But the wise answered, saying, Not so; lest there be not
+enouph
+for us and you; but go ye rather to them that sell, and
+buy or yourselves.
+'
+And while they went to buy, the
+hrideiroom came; and
+they that were ready went in with him to t e msmage; sud
+the door was shut. _
+"
+Aherward came also the other virgins, saying, Lord, Lord,
+qasn to us.
+12
+"
+But he answered and said, Verily, I say unto you, I kno!
+o not.
+yy llwatch therefore, for ye know neither the day nor the hour
+wherein the Son of msn cometh."
+Here those who have seen evidences of the Advent
+near, are represented as going forth to meet their Lord,
+after the events enumerated have transpired, and the
+foretold signs have been seen. They were those who
+at least professed to believe that Christ was about to
+come, or
+they would not have gone forth. From the sur-
+prise on which the Bridegroom came to them, together
+with the unpreparedness of a portion of them to meet
+him, he urges the importance of sleepless vigilance and
+readiness for his coming. To slumber at all is hazard-
+ous in the extreme; but to sleep with little or no
+preparation for Chr-ist's coming is utter folly and mad-
+ness. Friends: are you slutnbering over this great
+subject of Christie coming! if so, do you know that
+yéou
+are preparing to be aroused by the cry of the
+ridegroom's approach! That others, in whose piety
+you may have confidence, may be indifferent to this
+event, neither excuses your indifference, nor proves that
+you are
+pfepared,
+if they ETB, for the archangel's
+trump! ow
+desperate your condition, if, together
+with all your carelessness about Christ's coming, you
+are headless about the state of your soul. To die in
+your present condition would be unendurable. Will
+you not then awake at once, shake off your sloth, repent
+over your backslidings, and fill your vessel with oil
+against any emergency? God help you. The present
+apathy of the professed church, which the prayers
+and entresties of Gods faithful servants and children
+have almost failed to break, cannot long continue; a
+stemer and louder alarm will soon be given, which can-
+not be unheard ; the deafest ear shall hear it, but hear
+to learn such a woful doom, as no repentance can ever
+recall.
+'
+It appears to us that this parable, brethren, WIS
+intended more
+especially Rn' us who have actually gone
+13
+form with our lamps to meet the Bridegroom. lt
+is to be feared, then, that some of us have not all the
+qualifications
+necessary
+for Christ's coming; we have
+perhaps a head know edge of this truth but no heart
+preparation. Do not let a soul of us be deceived; to
+"
+he in this band," aye, the foremost in the train, will
+in no case, by itself, save us ; we mnst have the oil in
+our vessels with our lamps: nor will it avail us that
+once the shone brilliantly; if not ready when Christ
+comes, ah is over with us. Many are gone forth with
+ns, who have not the same confidence that Christ will
+come this year; they profess an affection for the doc-
+trine; they declare that the grand event is liable to
+occur at any moment; and yet what superficial arrange-
+ments have they made for it! what a miserable sense
+they seem to have ofthe reparations necessary for that
+tremendous occasion! Xgain, they are folding their
+arms for rest, or burying themselves in the vanities and
+cares of this life. Oh! that we might all exhort one
+another, lest, like the foolish virgins, when the door is
+shut, we begin to stand without, and to knock, saying,
+Lord, Lord, open to us; and he from within shall
+answer,
+"
+Verily, I say unto you, I know you not."
+Mark has recorded the same parable with Matthew,
+with a little variation. This parable, although we
+have considered it in its plaoe, we again refer to, for
+the purpose of making an additional remark.
+Mark 34-37 :-
+"
+For the Son of msn is as a msn taking s far journey, who
+left his house, and
+dgave authority to his Servants, and to every
+man his work; an commanded the poner to watch.
+"Watch ye therefore: for ye know not when the master of
+the house cometh, at even, or at midnight, oi' at the cock-
+crowing, or in the morning:
+"Lest
+cominf suddenly, he find you slee
+`
+"And what say unto you, I say unto aim etch."
+Here the importance of keepin up a vigilant watch
+arises from the impossibility of eaizulating the hour of
+the Lord's return. Now, many tell ns that these ro-
+2
+14
+peated sdmonitions of Christ to watchfulness are evi-
+dence that the time of his coming is not revealed. We
+can see no reason
+why both the time and the admoni-
+tions may not be consistent with each other, since no
+man can possibly know the hour, day, week, or month.
+But grant that we can gain no kind of clue to t.he
+period when Christ shall come, then there is a still
+weightier reason for unceasing watchfulness. Are
+such objectors now watching! If so, it is enough.
+Or, do they
+orliject
+to the time because they do not want
+to watch?
+hey
+are certainly presumptuous if not
+now
+watching. f they cannot aver when Christ will
+come, they cannot know when he may not come; if
+they sincerely love him, they will spontaneously arise,
+and
+malice
+such preparations for his coming as his dig-
+nit an sovereignty demand.
+'l`he porter in the parable evidently denotes the min-
+ister of Christ. It is his duty to look out and to an-
+nounce to all within the house the return of his Lord;
+if he neglects doing this, he disregards his trust, and
+is unfaithful. But, alas! how many, who stand as
+porters at the gate, and as watchmen upon the walls,
+have already refused to announce their Lord's coming!
+Some of the poor, anxious inmates are yearning to
+know whether their lovely Lord be near; but these
+indifferent porters and watchmen are responding,
+"
+We
+will have none of it here; we know nothing about the
+Lord's coming;" while others of them, with a little
+more affected fidelity, are
+crying ont,
+"
+We know as
+much about that matter as those who pretend to know
+more; we have heretofore done our duty; souls, by
+hundreds, have been converted through our instru-
+mentality; were that event near, we know the Lord
+would let us see it. But, let the case be as it may, we
+shall all be safe, if we continue to pray for sinners."
+Now, this is an elfectual quietus, it savors so much of
+real piety. And again; these idle porters, who have
+made their oilice a. mere sinecure, or a medium for
+receiving the adulations of those within, are fondled,
+and worshipped, and applauded, by the unsuspecting
+15
+objects of their unfaithfulness. They are loved and
+honored the more for their peace-and-safety lullabies,
+little supposing that such are rocking their souls to
+sleep for perdition; they are passing them on direct to
+the pit of woe, with the brand of death all burning on
+their brows! Friend, do you say "That is not my
+minister "'! And so, perhaps, every one will say; but
+pause, and don't be too conhdent of it. Your soul is
+above all price; the jewels of the universe are chaff to
+it. Make no mortal being its exclusive guardian ; suffer
+it never to be out of your own sight. I pray you
+beware, lest that very one, whom you now esteem as your
+dearest friend, become Ihe author Myour _final ruin !
+Thus much, in the way of parables, we are taught
+the duty of watchfulness, with exclusive reference to
+Christ's second personal appearing. These parables
+include no small portion of our Lord's teachings; they
+are quite as
+impressive as
+any of the parables which he
+ever spake.
+II. Let us see what is said on this great subject by
+W?
+of precept.
+uke xxi. 34-36 :-
+"
+And take hcad to yourselves, lest at any time your hearts
+be overcharved with surféting and drunkenness, and cares of
+this life, and so that da mme upon ou unawares.
+"
+For as a snare shal?it come on all them that dwell on the
+face of the whole earth.
+"Watch ye therefore, und pray always, that ye may be
+accounted vorthy to escape ull these things that shall come to
+pass, and to stand before tle Son of man."
+Our Saviour here enumerates certain excesses and
+vices, which, by being indulged in, will render us un-
+mindful of that day's approach. Undue care about our
+business, gross sensuality, a strife for the honors and
+distinctions of the world, will all have a tendency to
+have the Lord's coming surprise us. , Such indulgences
+naturally indispose the nind'to consider that event;
+they render it umusceptible of religious influences;
+16
+they obscure the mental vision, and thereby deceive
+their victims by false assurances of peace, when sud-
+den destruction cometh. Now, we cannot account for
+the present indiference of Christians, and their intole-
+rable dullness as to beholding the proofs of the Lord's
+speedy coming, on any other ground than this: they
+have not taken heed to this their Lord's important
+warning; they are overwhelmed, with the world, in
+their cares, and business, and pleasures, and extrava-
+gant excesses. They are all after mammon; all feast-
+ing their bellies on the good things of the present life.
+They have all gone back from God; they have all
+their gilded projects to carry out before Christ comes;
+at present, they cannot heed the call, "Come, for all
+things are now ready." One has bought a piece of_
+ground ; another, a yoke of oxen; another has married
+a. wife; .another has a religious society to look after;
+another, a
+seminary for educating the rising ministry;
+and another, the heathen to convert. They have all
+marked out more work for themselves or for God; and
+all, with one consent, make excuse. But the Lord of
+the entertainment will have his gitests notwithstanding;
+and they are already pouring in from the streets and
+lanes of the city, and from the highways and hedges,
+and are filling up the house. Praised be God, the
+intemperate, the licentious, the abandoned, the inlidel,
+are catching the gracious call, and tuming in to the
+royal feast; publicane and harlots are crowding into
+the kingdom of God, while, of those for whom the
+table was originally spread, the insulted Lord has
+sworn,
+"
+None of those men which were bidden shall
+taste of my supper."
+'
+How little do those think, who
+are now steeling and bolting their hearts against all
+conviction of Christ`s
+coming.,
+that the parable of the
+supper was spoken mainly wi reference to themselves!
+Mark, at supper time, the invitation went forth. How
+little do they dream, who confess themselves heartily
+sick of hearing so much about the Lord's coming, that
+they are
+making the above excuses, and that they are
+rejecting invitations which Gad himself has caused to
+17
+be oH'ered them! They suppose-for the devil has
+told them so-that this stir about Christ's coming is all
+enthusiasm and fanaticism. Ah! they do not see that
+the characters who have now accepted of the call render
+it fearfully ominous that the supper is just about to be
+eaten without their presence! Their heedlessness and
+worldliness blind them to all the startling tokens of the
+coming of the Lord. God is at work all around them,
+driving up events to the consummation of all things
+with lightning rapidity; prophecy is fulfilling with
+alarming exactness; while signs of the approaching
+glory are flaming out in all the broad archways of
+heaven. But nothing unusual is occurring: "VVhere
+is the promise of his coming?" asks whom? the
+scoiferl nay, the professed Christian. The most pow-
+erful arguments in proof of the Lord's coming are no
+more to his mind than is a feather to the turbulent
+bosom of the ocean ; with one dash of his pen, he can
+sweep away all the researches of men of piety and
+learning on this subject; or, with "of that day and
+hour knoweth no man," he can meet giants on the
+field and vanquish them at a. blow. Well, God designs
+that, so long as their characters continue what they
+are, they shall be deceived, and be involved in midnight
+on this subject; else as a snare that day could not
+overtake them. Never, perhaps, was the great mass
+of the world so well prepared for being surprised by
+this snare; they are just beginning to congratulate
+themselves on their stored-up treasures, or their vast
+facilities for wholesale possessions; with haughty self-
+complaisance they are now
+folding their arms, and say-
+ing to themselves,
+"
+Soul, thou hast much goods laid
+up for
+many
+years; take thine ease, eat, drink, and be
+merry." hey have seized upon all the mysteries of
+nature, and made them servants to administer to their
+inflamed passions and lusts; and now, with all that
+pride and daring for which the human heartjs distin-
+guished, they seem as if with uplifted arms to
+challenge
+the very Almighty on his throne to arrest them in their
+2*
+i
+IS
+srohigate career, or to intertere with their concerns
+ut t eir impiety and rebellion shall not pass unnoticed ,
+they may be driven and baited on to ruin a. little while
+longer, like the ox for the slaughter, and then the great
+snare will he drawn, and they shall not escape! O,
+careless sinner, backslidden ptofessorvtbe storm is cer-
+tainl coming! the heavens are already growing dark
+and lowering! the terrible thunders of Jehovah's ven-
+geance are just ready to dash upon your guilty head!
+the forked lightnings of divine justice and insulted
+mercy are just ready to leap upon your unsheltered
+soul! the world stands waiting for the awful tragedy!
+Turn, then, sinner, from thy wicked works, and secure
+a. refuge ere it be forever wo late. And, slumbering
+Christian, with tears I would_ warn you, I would cn-
+treat you, to get ready for that
+qeat day; it is near,
+it is near, and hasteth greatly. i
+otbing but ceaseless
+prayer and watchfulness will qualify you to escape the
+snare, and to stand belbre the Son of man; if taken,
+you will certainly be destroyed. Come, then, would
+you escape that snare; you must no
+longer be a dweller
+here; the ties that hind you to earth must at once be
+severed; you must become sober, temperate, heavenly-
+minded, watchful, prayerlul. You can have no
+just
+sense of the crisis which is just before you, without
+adorning yourselves with these graces, and admonishing
+your souls to vigilance, humiliation, and prayer. For
+one, I tremble, lest, with all my efforts to the contrary,
+I be at last left; left vith a careless and God-hating
+world, to perish eternally.
+Luke xii. 35, 36, 40 1-
+"
+Let your loins be girded about and your lights bumin ;
+"And ye 'ourselves like unto men that wait lbr theirdord,
+when he will return from the wedding; that, when he cometh
+and knocketh, they muy'open unto him immediately."
+"
+Be ye thewlhre ready also: for the Son of mau cometh ll
+an hour when ye think not."
+Romans xiii. 11 :-
+"Aad that, knowing the lime, that now it is high' time to
+19
+wake out of sleep: Eur now is our salvation nearer than when
+we believed."
+The salvation here referred to must be that which
+awaits the Christian at his Lord's coming. In view of
+the neg.;-ness of this perfect salvation, and the dawn
+of that day which shall reveal Christ from the parted
+skies, the apostle
+uric:
+his brethren to awake out ol'
+sleep, and to put on t Lord Jesus Christ.
+1 Cor. i. 7, 8 :-
+"So that e come behind in no
+'
+; waitin for the co
+`
+of our Lord llesus Christ:
+gm K mms
+"Who shall also contirm you unto the end, that ye may be
+blameless in the day of our Lord Jesus Christ."
+1 Thess. v. 4.-Please read the whole chapter, and
+obey its instructions.
+2 Thess. iii. 5 :--
+"
+And the Lord direct
+'your
+hearts into the love of 9od,and
+into the patient waiting r Christ."
+Hebrews ix. 28 :=-
+"So Christ was once offered to bear the sins of many; and
+unto them that look for him shall he appear the 'second time
+without sin unto salvation."
+No man, in the scripture sense,can be
+Ioolsirég
+for
+Christ, who is not from his soul praying,
+"
+ome,
+Lord Jesus, come
+quickly," and living in view of -the
+Lord's coming.
+James v. 7, 8 :-
+"Be tient therefore, brethren, unto the coming of the
+Lord. Eehold, the husbandman waiteth for the precious fruit
+i' li h d hl
+`
+f
+`
+`l h
+'
+th
+o 1 eenrt ,an at ong patience or it, unu e ascnive a
+earl and latter min.
+"he ye also patient; establish your hearts: for the coming
+of the Loral druweth nigh." »
+Here the character of a real Christian is betrayed.
+Amid the wrongs and cruelties which the innocentanli
+harmless suffer, it might be natural for him to feel a
+little impatience to have th096,£Ii¢Yll00l redlellttlhy-
+20'
+the 'great Arbiter in person. But he is to be patient
+and to continue a calm and steadfast confidence in the
+God of 'ustice, assured that the Lord's coming di-aweth
+nigh. 'i`o multitudes, at the present clay, this advice
+is quite superfluous; they are more concerned [gr 3
+guilty world than they are for the insulted and putraged
+government of God. But, praised be God, there are
+some, to whom the apostle's caution is smsmmble,
+Brethren, be patient; do not feel like hastening the
+divine movements, or to have Christ come
+merely to
+save you from the chagrin which you might be expect.
+ed to feel if he does not come as you expect. Others
+have waited for this event longer than we have. Mill-
+ions of saints, who have fallen asleep in Jesus, are
+sympathizing with us, and looking and waiting as well
+as ourselves. The prize hung up for us in heaven's
+palace is well worthy the exercise of long patience and
+toil. Let us fill up every moment with duty and 'dili-
+ence, that we may at last receive, from the lips of our
+f{in%the "
+Well done, good and faithful servant !"'
+1 eter iv. 7:-
+Z
+But
+tllie
+end of all
+things is at hand: be ye therefore sober,
+sn wstc unto prayer.
+J 2 Peter iii. 12:-
+"Looking for and hosting unto the coming of the day of
+God, wherein the heavens being on fire shall be dissolved, and
+the elements shall melt with fervent heat."
+t
+Looking for and hosting, or earnestly desiring and
+reaching forward unto, the coming of the day of God.
+Yes, brethren, we will do it, though all the hosts of
+Satan be let loose upon us, and though his sympa-
+thizers here charge us with want of pity for those who
+are to be the sufferers by this, to the wicked, awful
+catastrophe. If it be right to obey man rather than
+God, judge ye.
+John, the revelator, who has-recorded the principal,
+grand events which were to occur between his and the
+21
+closing-up scenes of the last
+day,
+has interspersed simi.
+lar hints and warnings; as in ev. iii. 3:-
+"
+If therefore thou shalt not watch, I will come on thee as I
+gtietl
+and thou shalt not know what hour 1 will come upon
+ee."
+And again, Rev. xvi. I5 :-
+"
+Behold, Icome as a thief, Blessed is he that watcheth,
+and lrleepeth
+his garments, lest he walk naked, and they see
+s s ame."
+Such are some of the numerous calls and warnings
+to the Christian to watchfulness with respect to Christ's
+second glorious appearing. They are calls from the
+highest authority-calls from which no man may with
+safety tum away. Now, in view of them, wc ask,f
+and we ask with emphasis,--Where is the professed
+church of Christ at this moment? You say Christ is
+your lawgiver: how dare you, then, withhold your
+obedience to his plain demands? How can those get
+away from such imperious commands, who have here-
+tofore maintained, with such commendable ertinacity,
+that the Bible must be our sole guide in all questions
+of duty or opinion! Where are those who have ex-
+pressed their abhorrence of all mere tradition, and have
+contended so manfully for a rigid reference to the pure
+and unadulterated word of God, honestly, fully, and
+faithfully translated, even to the smallest preposition,
+and yet, with the Bible fairly
+teeming
+with the great
+truth of Christ's and the saints' tina glory, and the
+cautionary advice, found on so many of its-pages, to
+watch and prepare lor it,-are folding their hands in
+apathy on both this fact and this duty! where those
+who can see everything else in the Bible but the Lord's
+coming, and the duty to watch for that coming! where
+those who can so
+grossly outrage every principle of
+rational freedom and scripture truth, as to make it
+heresy worthy of church expulsion either to preach,
+exhort, pray, or
+sing about the Lord's coming, and
+who dare to demand can essions of those who have
+believed, from a
+prayerfu study of God's word, that
+22-
+Christ is coming immediately? VVhere are they? Not
+in the pope's chair, nor in the cardinal's office, nor in
+the bosom of the mother of harlots; but in our own
+free, indulgent, and kind-hearted Protestant churches,
+whose care first gave direction to our infant steps, and
+whose arms have so
+long enclosed us from the perils of
+the way. O, let maternal profession blush, and repent !
+her children have not lost all affection for the erring
+parent, nor all sensibility, reason, and religion.
+But let us deduce a few observations from the parables
+and precepts which teach the duty of watchfulness with
+respect to Christ's second coming.
+We observe, first, The ounds of our final accept-
+ance with God are thus clelarly seen to depend upon
+our watchfulness with. reference to Christ's appearing.
+I would not introduce any forced inferences from these
+texts; but I ask if this is not one which is plainly and
+fairly inferable. We find in them no allusion made to
+former frames of mind or feeling; no allowance for
+past vigilance or service; no intimation of the "elect "
+as exonerated from this duty, or saved in its violation.
+Those alone are seen to gain admittance to the great
+wedding, who have made themselves ready for the en-
+tertainment. Not that a mere belief in 1843 will save
+any soul; but to love Christ's appearing, and to hold
+one's self in readiness for it, is certainly indispensable.
+Blame us not, then, if we put this matter on the same
+ground as did the great Teacher and his a ostles; we
+dod
+not aspire to the judgment seat; let god be the
+u ge.
+J
+We observe, second, The sacredness of a strict and
+literal observance of the duty enjoined. Mark, it is
+watching with special reference to the coming of Christ
+bodily, visibly, gloriously. It is an acl, and not a mere
+state of mind, which is required. Hence, he who
+amendsor substitutes this duty for another is guilty of
+adding to and taking from the words of the books of
+this prophecy, and must hold himself answerable at the
+proper tribunal. Christ and his apostles have decided
+what shall be believed, regarded, and preached. They
+23
+imdoubtedly selected the strongest motive that could be
+brought to bear upon the human conscience; and rea-
+son as well as
+experience have proved the wisdom of
+their choice. The occurrence of death is but a single
+circumstance ; the advent brings with it all other events.
+Death does not lead us at once to the judgment; the
+advent does. Death chills and territies; but the advent
+warms, and inspires, and elates. When the mind con-
+templates death, it seizes hold of this particular event,
+and there measurably pauses; from its very nature, it
+cannot be so intensely affected and convulsed by that
+which is remote as by that which is near. VVhat says
+observation! the question has been fairly tested. VVith
+the first stories of the nursery, to the very last teach-
+ings of the pulpit, we have been fed with cries of
+"
+Death! death!" Our friends and neighbors have
+been swept off with pestilence, with the flames, and
+buried by hundreds in the angry deep; and funeral
+prayers and sermons have been said over their lifeless
+bodies. But what has it all availed! How few have
+had these visitations of heaven, or the wamings which
+have followed them, blessed to their conversion! Not
+so with the proclamation of Christ's coming; the pos-
+sibility of his sudden coming has almost electrified the
+earth from pole to pole. Again : will the prospect of the
+ave comfort the saint under his present trials? Never.
+gut the Lord's coming will be a healing panacea for
+every atiiiction. But are those, who pretend that a.
+preparation for death is all-sufficient, prepared them-
+selves for that event? are they watching for death?
+Let their business, their cares, their conversation, their
+devotions, their life, make the answer.
+"
+But it is not
+essential to know about the Lord's coming." Well,
+satisfy yourselves with iiying to this subterfuge, if you
+will ; obedience is essential. Essential! but are we to
+contend for no truth, unless that truth involves an
+essential in religion? How easy it would be, on this
+principle, to,pare down the whole word of God
+to a
+system of non-essentials! Some of us can
+appreciate
+this "
+not essential" doctrine. But hark: the oblec-
+B4
+!o'r's words intlicste s bad heart; he is certainly striv-
+ing
+"
+to climb up some other way." Let him beware,
+lest his non-essentials
+lgd hian wthere hope and mercy
+can never reach him.
+'
+rien s i you go cont to
+your convictions of duty, and ti; the plain declniziins
+of God's word,-if you resist the light which is flash-
+ing into your mind on this or any other doctrine of
+Scripture -you are entirel welcome to your pros-
+pects for eternity; for one, lywould not hazard my soul
+where you lodge yours so quietly. The
+eroiinrl
+of
+ty is in a strict and literal observance 0 al tiat
+requires. You must tremble at God's word, or aban-
+don all
+thouiht
+of heaven for yourselves; you must
+:run at your ather's call, or be forsaken of him when
+you shall call. May God's Spirit incline you to a. ful]
+hearty obedience, while obedience may come up
+ore him as a sweet-smelling incense.
+Observe, third, The importance of using every means
+gr ascertainipg Cltrisfs sicondtconaing.
+The
+ii-:eiquept
+mont ions owac imp no on y a prepara on o
+meet it, but the importanceyof trying to ascertain about
+th;
+time of its occurrence. A knowledge of the event
+w'l be intimately associated with etforts to meet it;
+indeed, we can hardly suppose how one can be prepared
+for that which is not expected. lt is by bringing an
+event nigh to us that invests it with its reality; for
+example, we may think much of our own dissolution
+when there are no prospects of death before us; but it
+is only when we find ourselves actually on the confines
+of the eternal world, that all our powers are
+awakened
+tpl mit
+the
+scélexpn crasis.
+So,
+useless
+we
+capl be(-lieve
+t e vent 'an t e ju gment to just at t e oor,
+instead of far down the stream of time, through suc-
+cessive ages and numberless events, they cannot affect
+us as when, by seizing _the great telescope of truth, we
+observe that these sublime events are the first to strike
+the vision, and the next in order to be ushered on to the
+stage. "The
+apostles preached these things as nigh
+in their day." Phen can we do less than this in these
+lutdays? Were these inspired men, however, mis-
+25
+taken, as many would seem to insinuate by this objec-
+tion! Is the event never to occur because they did not
+witness it? Our opponents will not dispute but that
+the chronological prophecies, to say the least of them,
+were designed to awaken a spirit of
+inquiry and watch-
+fiilness as their fulfilment draws nigh. hor will they,
+I judge, dispute but that such rophecies will have
+expired with the present year. ¥lence, on their own
+assumption, they can no longer be indiH`erent to the
+times, or blame us if now we place ourselves in an
+expecting attitude for Christ's appearing. But few,
+excepting those whose prejudices against the doctrine
+are so deep-rooted as to reject all proof of the Lord's
+appearing, will dispute but that the signs of the advent,
+as rehearsed by Christ himself, have already been hung
+out from the heavens. As the signs, then, justify our
+expectations of the coming of our
+lovely Lord, neither
+they nor ourselves should be asleep at this moment.
+But few, unless skeptics, and those who are obstinately
+blind to all light that is shed before us from prophecy,
+will contend that the Bible is perfectly silent in regard
+to everything which would serve as a clue to this
+looked-for event. With this admission, therefore, it
+becomes our imperious duty to search the Scriptures
+with diligence, to see if it be not high time to make
+preparations for earth's last drama. That some un-
+usual convulsion is just ahead, all seem ready to allow ;
+therefore, none can be indifferent to its character.
+None but the scorner will pronounce our efforts to
+alarm our fellow-men idle and visionary. Within a
+few years past, the coming of Christ has gone forth
+like a whirlwind into the ibur quarters nf the globe,
+and the world, to some extent, has been fairly rocked
+on this subject. The doctrine of Christ's speedy com-
+ing is either true or false: in either case, we cannot be
+idle spectators. lf a lie has been so extensively propa-
+gated, and the doctrine be, as some hold, of the devil,
+then such can have no real interest for the cause of
+truth, unless they are up at once, and begin, with
+fasting and much prayer, and a fresh examination of
+3
+26
+God's word, to neutralize the effect of such a falsehood.
+Why have they not done this long since! But, if our
+doctrine be of God, we call upon all to start from their
+downy pillows; to lay off their Babylonish garments;
+to abandon their sumptuous feasts; to cast their honors
+under their feet; to forsake their carnal pleasures; to
+renounce the maxims of this wicked world; and, like
+the men of Nineveh, to robe themselves in sackcloth,
+and sit in ashes before God, if peradventure the A1-
+mighty may have mercy on them. Watch! The in-
+junction itself implies that we may foresee Christ's
+coming if we will. The particularity with which
+Christ spoke of the events and signs which should
+ppecede
+his second advent, all go to the same effect.
+ow, have we, before God, used our best efforts for
+informing ourselves respecting this momentous event!
+If we will persist in our ignorance and opposition to all
+warnings from scripture and from the signs of the
+times,-if we will suffer ourselves to be laughed out
+of all concern, and frowned down from all sober inves-
+tigation of God's word relative to approaching scenes,
+-then do we betray the most consummate weakness,
+folly, and madness, and must abide the heavy conse-
+quences of such a course of procedure.
+Observe, lastly, The guilt of interposing obstacles in
+the way of the preparation of any for Christ's appear-
+ing. lf, as
+many contend, we can know absolutely
+nothing about the time of his coming, then why is he
+not as liable to come nov as at any future time? and
+how do such justify their present indifference? Why
+take such a course as will necessarily lead to
+quieting
+the fears of the wicked! and why provoked with those
+who are now disposed to watch, inasmuch as the duty
+now begun, should time continue, will not be aban-
+doned? lf we know not absolutely at what watch
+Christ may come, then no soul, unless speaking by new
+inspiration, ought to have the audacity to countermand
+Heaven's standing orders to watch, or to interpose
+obstacles that might seem to put that event far in the
+future.
+"
+Prophecy is to be understood only with its
+.27
+fulfilment." This is about as convenient an argument
+against the advent as that which is so commonly em-
+ployed by some of our opponents, for the purpose of'
+getting away from all implied consequences that might
+result from final indifference to the coming of' Christ.
+They can easily silence all concern, by the soothing
+doctrine ofthe saints' final perseverance ; but the same
+individuals would sit very uneasily on their cushioned
+seats to listen to more than a
+single sermon a year, on
+the abstract doctrine of God's decrees, or sovereignty.
+All vicws of election which interfere with the duty of
+watchfulness, must be defective. But do those who
+urge the above objection profess themselves to be in
+entire ignorance on all prophetic events? Itrow not.
+That prophecy is to be understood only with its fulfil-
+ment, is both unscriptural and unreasonable. "
+Blessed
+is he that readeth, and they that hear the words of' this
+prophecy, and keep those things which are written
+therein: for the time is at hand." Rev. i. 3. Now,
+here is a blessing promised on those who should study
+prophecy long before its fulfilment, and govern them-
+selves accordingly. Again: on the ground assumed,
+we can suppose of but a single motive which could
+prompt the divine mind in causing prophecy to be reveal-
+ed; and that is, to convince an infidel world of his
+Own existence and ofthe divine authenticity ofthe Scrip-
+tures. But where is his regard, all this time, for his
+covenant-keeping people 1
+This doctrine naturally leads to another, viz., that it is
+difiicult to know when prophecy is fulfilled at all; since
+events frequently resemble each other, and history is so
+poor a source from whence to gather facts on which to
+rely with confidence Yes, says the infidel, that is true,
+and hence the argument for the inspiration ofthe Scrip-
+tures, by comparing scriptural events with events which
+the profane historian has already recorded, is utterly
+worthless. So that the grand motive of God in causing
+the future to be made a
+subject of' prophecy is all lost on
+the skeptic ; while the humble believer is left to grope his
+way in impenetrable confusion and darkness, with no
+28,
+sure ide for his feet. To say that this is the Bible of
+the Cgilristian, is to provoke the jeers of thé intidel; to
+tantalize the anxious disciple of Christ, and to cast
+insult upon the professed Author of revelation.
+To interpose obstacles in the way of Christ's coming,
+is to occasion a. violation of the duty of watchfulness.
+This duty is always binding, independent of what we
+may think is yet to occur. Now to enumerate events
+which are yet in the future, and which in the nature of
+things can occur only with the expiration' of centuries,
+is certainly to cause the infraction of the duty enjoined.
+No one can pursue this course without casting in the
+back ground and entirely invalidating all contidence in
+the prophetic periods, the signs and other aids which
+Jehovah has employed for the purpose of awakening
+our faith in relation to the conclusion of all things
+earthly; or, which is the same thing, without causing a
+portion of God's word to be discredited, and forestalling
+all investigations that might lead to a knowledge of an
+approaching judgment. Such do the souls of those
+who confide in their iidelity, a. tiagrant wrong, by pre-
+aring them to be surprised by the terrors of the great
+say of God; they will be sure to ruin far more than
+they have ever been instrumental in saving from final
+wo. Such an,one, if he be a preacher ofthe gospel,
+cannot honestly proclaim the doctrines of a temporal
+millennium, and of the retum and conversion of the
+Jews, &c., and at the same time urge upon his hear-
+ers tho importance of watching for Christ's retum.
+The most unthinking of his congregation would detect
+his inconsistency and hypocrisy. With the doctrine
+of the advent nigh for his theme, as the apostles
+taught it, he would find full employment for his best
+powers, full range for his choicest thoughts, wamith
+and energy kindled up in his own breast, and nourish-
+ment and life administered to the souls of his hearers.
+For example: could he come to the poor, pining object
+of man's extortion and oppression, with the soothing
+words of an apostle,
+"
+Be atient therefore, brethren,
+unto the coming of the Lord); stablish your hearts, for
+29
+the coming of the Lord draweth nigh ;" or could he, like
+another apostle, while surrounded by hearts smitten
+with anguish in view of the loss of dear ones on earth,
+comfort and console the weeping moumers, with an
+assurance that the grave must speedily deliver up its
+captives, and restore them, all adomed with immortal
+glories, to the embrace of those who now mourn their
+brief absence; what a healing balm would this be to
+suffering humanity. Or, like another apostle still, could
+he draw upon the territic realities of a burning day just
+at hand, as a
+powerful motive to all "
+holy conversation
+and godliness," why, religion would suddenly assume
+a new aspect in his midst; the dull and the careless
+would never be satisfied but with a
+piety that would
+shine and glow and burn. As it is, however, he stands
+in his own light; his preaching must be confined to the
+consideration of a few practical duties, without being
+supplied with motives sufiiciently strong by which to
+enforce them ; it must be a powerless gospel.
+Says the lezmied Dr. Breckenridge, "The watch-
+word of the church in the days of the apostles, was,
+Dominus noster venit---our Lord is coming: it was this
+that made them missionaries in the true sense of the
+word. So, if it were preached now, it would give life
+and power to the whole body. The Lord's treasur
+would be in the pockets of his people, and not in fund?
+ed revenues; it would be forthcoming when and
+wherever and in whatever amount it should be wanted.
+The mental, moral, and physical energies of the church,
+its men and women and children and money and goods
+and lands, would be forthcoming." Such, we might
+add, has been the result of this experiment as
+already
+tried. The d_octrine of Christ's speedy coming has
+inspired the hearts of its believers with new life and
+fresh devotion to the cause of Christ, such as has rarely
+been known since the days of the apostles. And with
+all the disparaging and reproachful remarks which
+such sacrifices have elicited from the lips of the profess-
+ing church, she can never see the palmy days which
+she has pictured for herself, until she drinks into a
+3*
+30
+similar spirit and
+goes heroicslly and perseveringly to
+work, as if she real y believed her own creed. But the
+church is effectually defeating her own professed ends;
+she is proclaiming doctrines that will naturally intluencs
+her members to continue to amass property for them-
+selves and their children, and to stint out only an occa-
+sional farthing for the heathen; leavin the vast work
+of evangelizing the world to their equalifyas pros rous
+and able successors. Time enough yet, will ii; the
+secret preaching of all her sons and daughters. Cer-
+tainly she cannot
+expect
+to achieve her triumphs by a
+miraculous agency; er present inelliciency, however,
+would seem to indicate to the contrary; then how vain
+must be her hopes! Will she never see that she is her
+worst enemy--that she is casting obstructions in her
+own
+pathway, and rolling backward the mighty wheels
+of her triumphant car? If God never blesses a false-
+hood, surely her doctrine of a
+temporal millennium is
+destined to destruction-and though proclaimed year in
+and year out, it can never effect the world's conversion.
+Let the church come back to her original ground; let
+her ministers renounce her fables and cherish again the
+good old scriptural views of the reformers and godly
+men of the sixteenth and seventeenth centuries. Let
+them believe and preach the near approach ofthe judg-
+ment, as did such learned and sober Christians as Cal-
+vin, Latimer, Knox, Sandys, Ridley, Bradford, Dave-
+nant, the divines of the Westminster Assembly, Watson,
+Thomas Adams, the framers of the Saybrook Plat-
+form, St. Romance, and many others, of distinguished
+note in the church. Let them not go to the judgment
+with falsehoods in their hands.
+But I have quite exhausted your patience. A word
+more, and I am done. Brethren,-the admonition of
+the text addresses itself forcibly to us. If we have
+correctly interpreted God's word, Jesus is just ready to
+withdraw the great curtain which conceals him within
+the inner vail, and to come forth to bless his people. It
+is the service of our
+day)to
+make preparations for his
+coronation as the son of avid, and to prepare hallelu-
+31
+jshs when he shall. ascend his everlasting throne. To
+tltedischarge of this duty, the clearest hght from pro-
+phecy, and the
+gegeral]
+tenor of
+('f°od's ward-,
+direct
+mdencourage. ut etusuot rget tvvesrs
+liable again to be lulled to repose by business, by ples#
+urs, by novelties, by vain conversation, and by the pre~
+vailin and all-contaminating unbelief of the
+'professing
+church. We are
+only
+secure while, with a eep sense
+of our weakness an
+depelpdence, was keep
+og: eye
+steadily fixed on the great o art,-the auntless ptsin
+of our salvation, and the promised port of everlasting
+Est. Howtsricl; þÿll8t'Pl;1¬r§0;nV;'hl6i;l
+we
+stmpgrl1;h;v;
+e
+prospec o vic or n- ow com o
+animating the promise,
+"
+En, I am with you always,
+even unto the end of the world."
+Professor of religion,-deceive not yourselves by
+relying on past
+expeirience,
+or
+béabusing
+rtao yogi' pur-
+poses any precious octrine of od's wo . evvare
+of Sat.an's subtle and deep-laid plots for ruining
+slyour
+souls. It is high time you should awake out of eep.
+I know you are
+nowrepsmd
+either for this or for an
+event less serious. hat says our closet in your be~
+half? Wliat proc( have you of being accepted, should
+Christ now burst from his mediatorial throne? What
+ckhance
+of salvation would
+ther;
+be
+ltgr tlie majority of
+t eprofessing church? Some ave en nownto con-
+fess that should this event occur as expected by us
+they
+must certainly be lost. Oh, that dreadful storm, it will
+thoroughly test
+every
+hope ;-will it find you all ready!
+Sinner,-that wil also be a terrible time for you.
+Mpiuntaina
+and
+r¢;_cks vvgll fbe inpolxrpd toh
+fall
+onthyou
+an to 16 you romt e ace o im t atsitte on
+the throne, and from the wrath of the Lamb. For the
+great
+day ofbfiis
+wrath is come, and who shall be able
+to stan 1 ow there is hope of our salvation ;
+another hour squ'andered, and all may be forever lost!
+O, sinner; as your friend, heed this counsel. Say not
+the advice is
+unseasonable. Say not the
+judgment
+is
+not expected by a majority oi' the church an of the
+ministry. All that may`be true; and yet they are as
+32
+liable to be sleeping over the truth, ss we are liable
+to be cherishing an error. Their silence maybe the
+ver means which God has allowed for the purpose
+of having that day come upon the _wicked as a snare,
+or unawares, as upon the inhabitants of the old world,
+and of the cities of Sodom and Gomorrah. How een
+you
+meet your Judge, with his government insulted,
+is
+providences abused, his
+judgments slighted, his
+Spint grieved and his Son rejects l Pause, then, and
+propitiate his favor, while mercy is in store, while the
+flaming sword of Divine justice is yet undrawn, and
+let me meet you on the fair shores of an
+ever-blooming
+paradise!
+THE WARNING.
+Ton. on, ye grovelling worms of earth,
+Scom and forget your heavenly birth;
+Gather your heaps of shining dust,
+And die-as soon, right soon, ye must!
+Or, if'your spirit thirsts for fame,
+Make haste, nor rest, until your name
+Stands among those accounted great,
+From battle-fields, or halls of state;
+Put on
+your laurel: for a
+day,-
+Yon'll soon be swept from earth away.
+Ifall you ask is pleasnre's cup,
+Haste, fill it, drink its contents up;
+Fill it, if life is spared, again,
+And from the brim to bottom drain,
+Then drop it from you.r palsied hand,
+And in your Maker's presence stand!
+Receive your doom, and haste aecursed
+To dwell when: your tormenting thirst
+No drop of water can allay,
+While endless ages pass away!
+No prayers, nor
+tears, will then avail;
+Your lost and sulfering spirit's wail.
+Forever o'er he1l's burning sea,
+Must break in tones of agony !
+But let His glorious Name be praised
+Who has my deathless spirit raised,
+To seek in high and holy things,
+Above earth's filthy grovellings,
+A portion and a bright abode.
+With Christ, my Savior, and my God.
+THE SECOND LDVENT.
+The chsriot! the chariot! its wheels roll on ire,
+As the Lord cometh down in the pomp of hisjre;
+Self-moving it dnves on its pathway of cloud,
+And the heavens with the burthen of Godhead src hand.
+The glory! the glory! by myrieds are poured
+The hosts ofthe angels to waiton theLord;
+And the glorihed saints and the martyrs are theme,
+And all who the palm-wreath of victory wear.
+The trumpet! the trumpet! the dead have all heard;
+Lo, the depths of the stone-covered charnel are stirred;
+From the sea, from the land, from the south and the north.
+The vast generations of man are come forth.
+The judgment! the judgment! the thmnes are all ect,
+Where the Lamb and the white-vested elders ue met!
+All Hesh is at once in the sight of the Lord,
+And the doom of eternity hangs on his word!
+0 mercy! 0 mercy! look down from shove,
+Creator, on us, thy sad children, with love:
+When beneath to their du-kness the wicked are driven,
+Huy our sanctified souls had s mansion in hcevel.
+`
+I
+Dg\Zed by
+Google
+

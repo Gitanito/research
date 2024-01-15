@@ -1,0 +1,102 @@
+{"name":"Fotini Pallikari | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/fotini-pallikari","mytitle":"Fotini Pallikari | Psi Encyclopedia","mylang":"de"}
+                     Fotini Pallikari | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Fotini Pallikari                                                                                                                                                                                                                          Fotini Pallikari is a physicist, associate professor (retired) of the Solid State Physics Section at the National and Kapodistrian University of Athens. Her research interests fall within laser spectroscopy, materials science, multifractal analysis of complex processes, foundations of quantum theory and psychical research.    Contents   	Career 	Psychical Research  	Perrott-Warrick Fund  	Quantum Mechanical Approach to Psi 	Mind over Matter  	The Balancing Effect  	Micro-PK Hypothesis 	Micro-PK Mechanism   	History of Greek Parapsychology  	Literature 	Endnotes     Career
+
+Fotini Pallikari graduated from the faculty of physics and mathematics of the National and Kapodistrian University of Athens and received the postgraduate degrees of Master of Science (MSc) and PhD in physics from Victoria University of Manchester, UK. During her academic career, she taught a variety of physics courses, first at the mechanics department of the National Technical University of Athens and mainly at the physics department of the National and Kapodistrian University of Athens.1
+
+For about ten years following the completion of her postgraduate studies, she collaborated as visiting scholar with the physics and chemistry departments of Manchester University, carrying out research in laser spectroscopy and polymer physics. During a sabbatical in 1991 she spent one year as research fellow at the Cavendish Laboratory of Cambridge University UK, under the Perrott-Warrick research fund in psychical phenomena.
+
+Between 1990 and 1994, she coordinated a series of five ‘Science and Consciousness’ Symposia initiated by the non-governmental organization of the UN ‘Brahma Kumaris World Spiritual University’. Symposia held in Greece and Mexico invited over 200 eminent scientists from around the world, many of them professional parapsychologists, to clarify questions related to the nature of consciousness, spirituality and life.
+
+In 1998, Pallikari visited as research collaborator the Institut für Grenzgebiete der Psychologie und Psychohygiene, Freiburg, Germany introducing an alternative analysis on data from a large micro-psychokinesis (micro-PK) replication experiment.
+
+Pallikari has supervised graduate and postgraduate student theses in condensed matter physics and has published her research in recognized physics and chemistry scientific journals as well as in major parapsychology journals.   Psychical Research  Perrott-Warrick Fund
+
+Intrigued by the phenomenon of telepathy, Pallikari obtained in 1991 the Perrott-Warrick research studentship to collaborate with professor Brian Josephson as Trinity College Fellow in Cambridge UK within the scheme of the Mind-Matter Unification Project. Her collaborative work aimed towards an understanding of the nature of psychic phenomena, particularly telepathy and psychokinesis.
+
+She visited physicist Helmut Schmidt at the Mind Science Foundation (MSF) in San Antonio, Texas USA to explore the phenomenon of micro psychokinesis (micro-PK) with electronic random number generators (RNGs) built by him. These tests aimed to investigate the hypothesis whether thought alone could affect the RNG outcome. At the MSF she collaborated with psychologists William Braud and Marilyn Schlitz.   Quantum Mechanical Approach to Psi
+
+A product of her collaborative work in Cambridge was a paper published in the Foundations of Physics exploring possible mechanisms behind psi functioning and telepathy in particular.2 The paper proposed that biosystems, unlike physical systems, might possess a more discriminative knowledge of nature than is obtainable by quantum measurement performed in formal apparatuses.
+
+Calculations using the formal apparatus of quantum theory show that any nonlocal connections will be purely random and thus unusable. Yet, while nonlocal effects invariably disappear under statistical averaging by a formal apparatus, life may apply a higher degree of discrimination, or focused probability distributions, other than what is relevant to quantum mechanical predictions. The paper further suggested that what seems to be noise to a formal measuring apparatus may no longer be noise to biosystems.   Mind over Matter
+
+Pallikari approached the question whether thought can have a direct nonlocal effect on physical reality through both experiment and theoretical analysis. First, she carried out small size RNG-micro-PK experiments.&nbsp;Later she applied mathematical tools to analyze micro-PK data sequences collected by other experimenters, namely, the fBm analysis3 and the Markovian model of correlated data.4 The fractional Brownian motion analysis (fBm) can detect characteristic deviations from random behaviour in RNGs. The Markovian mathematical description that Pallikari developed and applied on the funnel plot of micro-PK-true-RNG database revealed that biases tainted the data. So introducing correcting statistical estimates was risky.
+
+Through these mathematical tools, she obtained a qualitative description of the biasing mechanism in the 30-year-old micro-PK-true-RNG database. Markovian mathematics on the funnel plot revealed that the average of the micro-PK true RNG database was chance.  The Balancing Effect
+
+The experimental protocol that Pallikari followed in her first micro-PK tests with the electronic RNG Schmidt machine was the following. Each participant (a) attempted to mentally-affect the RNG outcome over 10 consecutive trials, followed (b) by another 10 trials in absence of conscious intent to mentally-influence the random process.
+
+An interesting trend emerged from these tests: the collective deviation from the mean of the ‘intention data’ remained persistently positive as the size of dataset increased, while the collective deviation from the mean of the no-intention data, remained persistently negative with increasing size of dataset. Occasionally, the score of ‘intention’ data became statistically significant and the score of ‘no-intention’ data became statistically significant too, yet in the opposite direction. Overall, the score of all the data merged together, intention and no-intention, remained within chance. Pallikari presented the result at the 1993 Parapsychological Convention, naming the observation as the micro-PK ‘balancing effect’, since the two datasets were balancing their averages about chance.5
+
+Unknown to her, the Schmidt RNG machine was operating on a dual mode, combining true random electronic data with prerecorded data, according to Schmidt’s running tests at that time. After her year in Cambridge she continued experimenting with a different Schmidt RNG machine, but the balancing effect did not appear in the new data.6 Other experimenters have nevertheless reported its observation in their experiments.7   Micro-PK Hypothesis
+
+In 1998, Pallikari introduced an alternative theoretical analysis to micro-PK data sequences: the Rescaled Range Fractal Analysis (fBM). She applied the method to data generated at the Institut für Grenzgebiete der Psychologie und Psychohygiene (IGPP) in Freiburg, Germany (part of a larger experimental scheme titled Mind/Machine Interaction Consortium: PortREG Replication Experiments; the Freiburg Anomalous Mind/Machine Interactions (FAMMI) data).
+
+Analysis was made of data sequences of numbers generated by electronic RNGs according to three different conditions characteristic of the ‘state of mind’ of participants and the duration of data sampling, as follows:
+
+1. ‘experimental’, where the operator’s intention was declared. &nbsp;The duration of each of these tests was short. The longer ‘experimental’ sequence from the FAMMI group consisted of attached short ‘experimental’ segments from different operators.
+
+2. ‘control’ data, which were supposed to be identical in sampling duration and in number with each of the ‘experimental’ tests of the day. However, for practical reasons these were collected at the end of the day to equal the number of ‘experimental’ data generated on the same day. The purpose of control data was to investigate the behavior of RNG sequences where no conscious wish towards a certain outcome was ‘imposed’ during their generation. Merged short control data sequences made the longer ‘control’ data sequence from the FAMMI group. Obviously, experimental and control data sequences carried the same length.
+
+3. ‘calibration’ data sequences consisting of RNG numbers generated uninterruptedly for a much longer time, for instance through continuous RNG operation for a whole day. These were much longer than the experimental and control data sequences. Their purpose was to test the RNG machine for the appropriateness of its random process. Several RNG machines were available for use in the FAMMI group.
+
+The applied fractal analysis (fBm) on the FAMMI data detected characteristic trends, or correlations, in the experimental data sequences, similar weaker trends in the control data sequences and no such correlations in the calibration data sequences of certain RNGs.
+
+Those trends resemble a deviation from the mean, which moves persistently in the same direction as more data are added, away from chance. It could be in the positive direction or could flip to move persistently in the negative direction - reminiscent of the biblical narrative of seven years of famine followed by seven years of harvest.   Micro-PK Mechanism
+
+Pallikari attempted an interpretation of the micro-PK mechanism based on her experimental and theoretical analysis of micro-PK data. If the presumed ‘intention’ and ‘no-intention’ experimental conditions introduced during the tests were either not revealed or considered irrelevant, the investigator might conclude that
+
+(a) The balancing effect was just a fluke of statistical behavior within a small database, or even in a larger micro-PK-true-RNGs database,8 necessary to render the mean within chance.
+
+(b) The presence of correlations in micro-PK data sequences (experimental and control), or the absence of correlations (calibration), may be directly related to the duration of their sampling and their subsequent merging into longer sequences.
+
+The application of mathematical tools on the micro-PK-true-RNG funnel plot indicated that each point (experimental result) plotted on it was in general terms influenced by the previously reported experimental result, a not uncommon occurrence in scientific research. Pallikari concluded that there is no evidence to support the micro-PK hypothesis, that is, the hypothesis of the meanshift.  History of Greek Parapsychology
+
+Pallikari frequently publishes online articles related to the history of Greek parapsychology, which was active between 1923 to 1958.9 These articles provide historical records of the life, work and personality of Angelos Tanagras, the late president of the Greek Society of Psychical Research whose autobiography she published in Greek in 2016.10&nbsp;In 2017 she published a book of articles in English on Tanagras and on her personal research.11
+
+Michael Duggan  Literature
+
+Bierman, D.J. (1994). WJ.M. Van Gelderen. Geomagnetic activity and PK on a low and high trial-rate RNG., Proceedings of the 37th PA Convention 50.
+
+Houtkooper, J.M. (2002). A pilot experiment with evoked psychokinetic responses circumventing cognitive interference? Proceedings of the 45th PA Convention 104.
+
+Jahn, R.G., Dunne, B.J. (1987). Margins of Reality. The Role of Consciousness in the Physical World. (Orlando: Harcourt Brace Jovanovich).
+
+Josephson, B, D., Pallikari-Viras, F. (1991). Biological Utilisation of Quantum Nonlocality. Foundations of Physics 21, 197-207.
+
+Pallikari-Viras, F. (1997). Further evidence for a statistical balancing in probabilistic systems influenced by the anomalous effect of conscious intention. Journal of the Society for Psychical Research 62,&nbsp;114-137.
+
+Pallikari-Viras, F. (1998a). On the Balancing Effect Hypothesis. In N. Zingrone (ed.) Research in Parapsychology 1993, Metuchen N. J. &amp; London: Scarecrow.
+
+Pallikari, F. (1998b). Application of Alternative Mathematical Models on PK-REG Data: A Study of the fractal Character in Records of PK Data. Project Report.
+
+Pallikari, F., Boller, E. (1998).&nbsp;The Fractal Character of PK-RNG Data, 4th Biennial SSE European Meeting, Valencia, 9-11 Nov.
+
+Pallikari, F., Boller, E. (1999). A Rescaled Range Analysis of Random Events. Journal of Scientific Exploration 13/1, 25-40.
+
+Pallikari, F. (2001). A Study of the Fractal Character in Electronic Noise Processes. Chaos, Solitons &amp; Fractals 12, 1499-1507.
+
+Pallikari, F. (2003). Must the ‘magic’ of psychokinesis hinder precise scientific measurement? Published in Journal of Consciousness Studies 10/6-7, 199-219, &amp; in Psi Wars: Getting to Grips with the Paranormal (eds. J. Alcock, J. Burns, A. Freeman).&nbsp;
+
+Pallikari, F. (2004). On the false hypothesis of psi-mediated shift of statistical average in tests with random number generators. 47th Proceeding of the Parapsychological Association Convention, 157.
+
+Pallikari, F. (2006). Purported Evidence and Feasible Interpretations of Retrocausation. AIP Conf. Proc. Frontiers of Time: Retrocausation - Experiment and Theory, 863, p. 316-328.
+
+Pallikari, F. (2015). Investigating the Nature of Intangible Brain-Machine Interaction, J. Soc. Sci. and Humanities, 1(5), 499-508. (http://aiscience.org/journal/paperInfo/jssh?paperId=2260).
+
+Pallikari, F. (2016a). Towards an Understanding of Psychokinetic Effects -The Balancing Effect in Brain-Machine Interaction. Transcript of invited lecture at http://users.uoa.gr/~fpallik/transcriptV2016.pdf.
+
+Pallikari, F.&nbsp;(2016b). The Balancing Effect in Brain-Machine Interaction, arXiv:1602.00808 [q-bio.NC], 14 pages.
+
+Pallikari, F. (2016c). Angelos Tanagras: My Memoirs. (ISBN: 978-960-93-8753-8). The book is available online at https://pergamos.lib.uoa.gr/uoa/dl/object/2650231#contents, and at http://users.uoa.gr/~fpallik/wholebook_2018.pdf
+
+Pallikari, F. (2017). Angelos Tanagras: A Collection of Short Stories (ISBN: 978-960-93-9605-9). The chapters of the book are available online at http://users.uoa.gr/~fpallik/firstcollections.htm
+
+Papasimakis, N., Pallikari, F. (2006). Markov Memory in Multifractal Natural Processes, In Complexus Mundi. Emergent Patterns in Nature, Miroslav N. Novak (editor). World Scientific Publishing Co, 53-62.   Endnotes 1. http://users.uoa.gr/~fpallik/ 2. Josephson and Pallikari-Viras (1991). 3. Pallikari (1998b, 2001, 2003, 2004, 2006), Pallikari &amp;&nbsp;Boller (1998, 1999). 4. Papasimakis &amp; Pallikari (2006). 5. Pallikari (1998a), 101-102. 6. Pallikari-Viras (1997). 7. Jahn &amp;. Dunne (1987)&nbsp;116-119; Bierman (1994); Houtkooper (2002). 8. Pallikari (2015, 2016a, 2016b). 9. https://www.facebook.com/Tanagras.Memoirs/ 10. Pallikari&nbsp;(2016c). 11. Pallikari (2017).           			  			     			This page was last updated on: May 04, 2020   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 2,000 Created: 27th April 2020 Last updated: 4th May 2020 May be cited as:Duggan, M. (2020). &lsquo;Fotini Pallikari&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/fotini-pallikari&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y7yrc329                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/fotini-pallikari

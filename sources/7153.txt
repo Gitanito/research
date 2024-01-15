@@ -1,0 +1,134 @@
+{"name":"Chris Roe | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/chris-roe","mytitle":"Chris Roe | Psi Encyclopedia","mylang":"de"}
+                     Chris Roe | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Chris Roe                                                                                                                                                                                                                          Chris Roe is professor of psychology at the University of Northampton and director of its Centre for Psychology and Social Sciences, which includes a research group devoted to Exceptional Experience and Consciousness Studies (EECS). Roe’s research interests are focused around understanding the nature of anomalous experiences, including the psychology of belief and self-deception. He has utilized experimental approaches to test psi abilities, in particular those involving psychological factors. Most recently, his focus has shifted to investigating unconscious measures of psi and correlating these with behavioural and personality measures.   Contents   	Biography 	Research  	Psychic Readings 	Dream ESP 	Ganzfeld 	Camouflaging ESP and PK 	I-Ching 	Morphic Resonance 	Non-Intentional Precognition 	Paranormal Belief 	After-Death Communication 	Pagan Healing 	Mediumship   	Meta-Analyses  	Dream-ESP 	Non-Contact Healing   	Spirituality and Wellbeing. 	Literature 	Endnotes     Biography
+
+Chris Roe was awarded his BSc and PhD degrees by the University of Edinburgh, and was a member of the Koestler Parapsychology Unit under Prof Robert Morris. His PhD explored ways in which psychic effects might be simulated using more conventional psychological techniques, known collectively as ‘cold reading’. He left Edinburgh to teach research methods in the psychology department of &nbsp;St Andrew’s University and in 1995 moved to the University of Northampton (at that time known as Nene College). His research at Northampton has continued his interest in the psychology of anomalous experience and has concerned topics ranging from spirituality and well-being, psychic deception, correlates of paranormal belief and experience, phenomenology of paranormal experience, and experimental tests of claimed phenomena of extrasensory perception and psychokinesis.
+
+Roe served as president of the Society for Psychical Research from April 2018 to May 2021 and has previously served as president of the Parapsychological Association, council member of the Society for Psychical Research, and as chair of the BPS Transpersonal Psychology Section. He served as editor of the Journal of the Society for Psychical Research from 2003 to 2018.  Research  Psychic Readings
+
+One of Roe’s earliest studies into psi was carried out as part of his PhD and tested the hypothesis that clients of psychics might psychically influence the psychic in such a way that the reading is accurate. Twenty-seven subjects took part in what they were told was a consultation with a psychic over the Internet, although the reading for each was in fact either created by a random number generator randomly selecting elements or chosen from a pool of control readings.
+
+Subjects rated each element for accuracy. The live RNG-selected items were rated by volunteers as more accurate than control items, although the difference failed to reach significance (p = 0.097), giving some support to the client influence hypothesis.1  Dream ESP
+
+Roe investigated the role of experimenter and sender in dream-ESP research. Forty participants acting as receivers recorded their dream mentations, with varying conditions on alternate nights. In the ‘no-sender’ variation, a video clip was randomly selected as target and played repeatedly in the early morning. In the other, a sender would watch the clip and try to attempt to communicate its content to the receiver. Although both sender and no-sender conditions showed above-chance scoring (30% and 35% respectively), neither reached statistical significance (p = 0.14).2 He recently summarized the series of dream ESP experiments that have taken place at Northampton3 reporting that 57 of the 183 trials had been successful, giving a 31.1% hit rate where 25% would be expected just by chance.  Ganzfeld
+
+In other research exporing the relationship between mild altered states of consciousness and ESP, Roe considered the role of the sender during ganzfeld telepathy experiments.4 &nbsp;A random number generator placed near the receiver acted as a proxy receiver during a ganzfeld sending period, randomly picking statements. Independent judging gave a hit rate of 35% to the human receivers and 32.5% to the RNG-generated ‘mentation’, suggesting a distant influence of psychokinesis on the mentation and utterances of the receiver in a ganzfeld experiment.
+
+In another ganzfeld experiment – in which sender, no-sender conditions were used and the receiver was unaware which applied – the results indicated no difference in scoring.5 &nbsp;To gain more understanding of the nature of the sender-receiver relationship, the experiment was repeated in which the degree of randomness of the target systems altered, from low random sources (random number tables) to intermediate (pseudo-random number generator) to high randomness (true random number generator). Additionally the trait of stability of the sender was measured. Roe found a very significant 3-way interaction effect (p = 0.001) between target randomness (otherwise known as ‘lability’), the degree of the sender’s psychological stability and psi scoring: the most positive outcomes were produced by highly stable senders influencing highly random (labile) systems.6
+
+In a replication study that was extended to explore sending strategies (active/willing versus passive/absorbed) and feedback type (delayed versus immediate), a significant interaction was found between target lability and sender lability. As before, however, the interaction effect between sending strategy and feedback type on psi scoring was not significant, although a significant effect of only feedback type on psi-scoring was found.7
+
+In 2020, the&nbsp;Journal of Parapsychology&nbsp;published three remote viewing/ganzfeld comparison studies carried out by the Northampton team, comprising 118 trials. Some subjects&nbsp;remote viewed&nbsp;a distant location after undergoing a ganzfeld induction procedure and their scores were compared with those obtained by others who did not undergo an induction. The overall ganzfeld induction hit rate of 39% was highly significant by the conservative first choice method (p = 0.0007), while the more appropriate sum-of-ranks method gave yet more convincing support (p = 0.000012). Remote viewings without induction gave a hit rate of only 27.5% – modestly significant (p = 0.036).8
+
+Roe together with PhD student Michael Daw are testing the idea that veganism is a psi-conducive lifestyle by running vegans through ganzfeld testing. This project is in its infancy but early results suggest a clear advantage over non-vegans (47% hit rate where 25% is expected by chance and 31.5% is the ganzfeld average).9  Camouflaging ESP and PK
+
+Roe explored the relationship between ESP and PK performance, testing for both and using a common protocol to control for expectancy and experimenter effects. Forty volunteers completed a computer-based game in which half the runs were presented as PK and the other half as ESP, while actual ESP and PK runs were randomly selected in each category. Overall scoring was at chance: no firm conclusions could be drawn from the lack of significant relationship between performance in the four conditions (actual and camouflaged ESP and PK runs) and psi scoring. Of all the psychological measures, only anxiety showed a relationship.10  I-Ching
+
+In a further investigation of the effect of lability (propensity to randomness) Roe conducted a study using the ancient Chinese I-Ching divination procedure. Thirty-four volunteers were measured for lability and then decided upon a personal question to ask the I- Ching. Answers were chosen randomly, either by a RNG (true randomness) or random number tables (low randomness). As with the earlier research, the most labile systems (RNG) gave more accurate descriptions, although not at a significant level. This relationship was repeated when looking at participants, with the most labile groups performing the best, although not reaching significance.11  Morphic Resonance
+
+Sheldrake’s theory of Morphic resonance states that patterns of behaviour are shared by members of a group or species through a shared morphic field. To test this experimentally, Roe has utilized a word-based study design aimed at discovering whether the collective&nbsp;understanding of Chinese characters shared by billions of Chinese people could be ‘transmitted’ through morphic resonance to Westerners who did not speak or read Chinese. Sixty volunteers&nbsp;were exposed to five genuine Chinese characters and five false characters and asked to identify any characters (false and real) they could remember from a sheet consisting of those symbols and a number of decoys. Overall, volunteers accurately recognized more of the genuine than false characters (p = 0.020), giving some support to Sheldrake’s ideas.12
+
+In a second such study, carried out with&nbsp;David Vernon and Glenn Hitchman&nbsp;and published in 2021,13&nbsp;a sample of 154 participants completed an implicit preference task and an explicit identification task online, with task order counterbalanced. In each task, participants were shown, in a random order, 12 pairs of characters (one real and one decoy). In the implicit task they were required to identify which of the characters they preferred and in the explicit task they were asked to identify which of the pair was the real character.
+
+The results showed that, contrary to prediction, participants significantly preferred the decoy Chinese characters. There was no difference in explicit identification rates and no correlations between performance and belief in psi. Roe and coworkers concluded that these findings failed to support the idea of morphic resonance and are more parsimoniously accounted for in terms of an aesthetic preference for the decoy characters.  Non-Intentional Precognition
+
+Roe has explored non-intentional precognition, where unconscious drives influence performance on psi tasks. This study tested the question of whether latent inhibition (the ability to filter out irrelevant extraneous stimuli) can predict an individual׳s sensitivity to psi stimuli. &nbsp;Fifty volunteers completed auditory discrimination tests to measure their latent inhibition, together with binary precognition tests camouflaged as non-psi tasks. Overall, the volunteers scored marginally significantly (p = 0.06), but latent inhibition was found to be unrelated to precognition performance.14 &nbsp;A second non-intentional psi task found a small non-significant psi effect overall; however, there were significant correlations between relaxation, perceptions of positive interactions with the experimenter and psi performance.15  Paranormal Belief
+
+Testing the hypothesis that exposure to the paranormal causes an increase in belief, a thousand residents of Edinburgh, randomly drawn from a representative sample, were questioned about their interactions with psychics. A surprisingly high proportion (29.5%) reported having attended a reading at some time. Their impressions were generally favourable: many viewed their reading as having been accurate, specific and of value, but high appraisals failed to translate into increased belief in the paranormal.16
+
+In another study, Roe tested the hypothesis that paranormal beliefs are motivated by feelings of anxiety, helpless and lack of control. In this hypothesis, the perceptions of order and self-importance that some paranormal beliefs engender cause a reduction in anxiety and afford feelings of control in an unpredictable world. Sixty-five participants completed psychological measures of anxiety, paranormal belief and perceived control over stressful events. No relationship was discovered between perceived control over future life events and paranormal belief. However, anxiety correlated significantly with both perceived control and paranormal belief, offering qualified support to the hypothesis.17
+
+Previous research has suggested an association between levels of narcissism and belief in the paranormal. Roe ran a study comparing more specific measures of paranormal belief and narcissism among 75 participants, who completed both the Narcissistic Personality Inventory and two measures of paranormal belief. Contrary to previous findings, there was no relationship between narcissism and one measure of belief; however, there was a significant positive relationship with another belief measure, the Australian Sheep-Goat scale. 18  After-Death Communication
+
+Roe and coworkers conducted an online survey on after-death communications (ADC) which was completed by 1004 English, French and Spanish respondents. Sixty-two percent of ADCs occurred during sleep; however, daytime cases involving the senses were also commonly reported with sight (46.4%), hearing (43.3%), touch (47.8%) and smell (27.6%) being registered as the dominant modality.
+
+The feeling of a sense of presence was experienced by 34.3% of respondents. Women were more likely than men to experience an ADC during sleep (p = 0.018) but there were no gender differences with regard to experiencing an ADC with any of the sense modalities. There were a range of significant sense modality differences between English, French and Spanish respondents, suggesting marked cultural influences on the phenomenology of after-death experiences.
+
+Of evidential importance, 24.4% of respondents reported receiving information from the deceased (usually in relation to the circumstances of death) that they had not known or could have inferred. After-death communications were generally regarded as meaningful and provided comfort, increasing a sense of spirituality. The authors caution against the psychologically adaptive outcomes of ADCs being stymied by skeptically inclined mental health professionals pathologizing the experience.19
+
+Roe is currently running a large survey investigation of ADCs funded by a Swiss foundation (that wishes to remain anonymous). The aim is to investigate key features of the phenomenon, especially relating to&nbsp;the claim that it provides evidence of survival of consciousness after death. Roe is extending the survey to German and Dutch language versions and is about to launch a Chinese version.20  Pagan Healing
+
+A paper published in 2020 with Charmaine Sonnex and Elizabeth Roxburgh describes a controlled study of pagan healing over distance. Forty-four participants were divided into two groups, to be treated consecutively. Each participant provided a photograph and personal item together with a written request for a significant life change to be used during the intervention in order to provide a focal point for the healer. Overall, there was significant improvement (p = 0.025) for both psychological and physical measures for the entire participant pool. However, no difference was observed between the two groups, suggesting any improvement is psychological rather than paranormal (pagan spell casting) in nature.21  Mediumship
+
+A Swiss-funded project, still in its early stages, is exploring the experiences of neophyte mediums and their clients in the context of mental health / clinical parapsychology.  Meta-Analyses
+
+Roe has carried out several reviews of the psi research literature.  Dream-ESP
+
+Fifty dream-ESP studies for the period 1966 to 2016 were reviewed. Overall highly significant evidence of an effect (p = 5.19×10-8). No significant differences were found between different modes of ESP (telepathy, clairvoyance, precognition), nor between dynamic and static targets. Also, improvements in methodology over time were not correlated with effect sizes, contradicting an argument based on methodological flaws that is commonly made by sceptics.22  Non-Contact Healing
+
+Fifty-seven human and 49 non-human studies were reviewed to estimate the efficacy of various healing modalities (johrei, reiki, therapeutic touch). Both sets of studies found highly significant evidence even after the low-quality studies were removed. The non-human studies gave larger effects than the studies of healing on humans.23  Spirituality and Wellbeing.
+
+Roe contributed a chapter for the 2020 publication Spirituality and Wellbeing: Interdisciplinary approaches to the study of religious experience and health.&nbsp;Here he&nbsp;discusses recent developments in parapsychology, arguing for the therapeutic benefits of developing an understanding of paranormal research that can be shared with mental health professionals.24
+
+Michael Duggan  Literature
+
+Elsaesser, E.,&nbsp;Roe, C.A., Cooper, C.E., &amp; Lorimer, D. (2021). The phenomenology and impact of hallucinations concerning the deceased.&nbsp;BJPsychOpen. 7/5, 1-5.
+
+Elsaesser, E.,&nbsp;Roe, C.A., Cooper, C.E., Lorimer, D. (2022). Phänomenologie und Auswirkungen von spontanen Nachtod-Kontakten (NTK): Forschungsergebnisse und Fallstudien.&nbsp;Zeitschrift für Anomalistik 22, 36-71.
+
+Evrard, R., Dollander, M., Elsaesser, E., Cooper, C., Lorimer, D., &amp;&nbsp;Roe, C. (2021).&nbsp;Expériences exceptionnelles nécrophaniques et deuil paradoxal : études de la phénoménologie et des répercussions des vécus effrayants de contact avec les défunts.&nbsp;Evolution Psychiatrique 84/4, 799-824.
+
+Hitchman, G., Roe, C., &amp; Sherwood, S. (2012). A re-examination of nonintentional precognition with openness to experience, creativity, psi beliefs, and luck beliefs as predictors of success. Journal of Parapsychology 76, 109-45
+
+Hitchman, G., &amp; Sherwood, S., &amp; Roe, C. (2014). The Relationship Between Latent Inhibition and Performance at a Non-intentional Precognition Task. Explore: The Journal of Science and Healing 11, 118-26.
+
+Hitchman, G., Roe, C., &amp; Sherwood, S (2015). The relationship between lability and performance at intentional and non-intentional versions of an implicit PMIR-type PSI task. Journal of Parapsychology 79, 65-86.
+
+Hitchman, G., Pfeuffer, C., Roe, C., &amp; Sherwood, S. (2016). The effects of experimenter-participant interaction qualities in a goal-oriented non-intentional precognition task. Journal of Parapsychology 80, 45-69.
+
+Holt, N., &amp; Roe, C. (2006). The sender as a PK agent in ESP studies: The effects of agent and target system lability upon performance at a novel PK task. Journal of Parapsychology 70, 49-67.
+
+Luke, D., &amp; Roe, C., &amp; Davison, J. (2008). Testing for forced-choice precognition using a hidden task: Two replications. Journal of Parapsychology 72, 133-54.
+
+Robbins, K., &amp; Roe, C. (2010). A test of Rupert Sheldrake's theory of morphic resonance. Explore 6, 256-62.
+
+Robbins, K., &amp; Roe, C. (2010). An Empirical Test of the Theory of Morphic Resonance by Using Recognition for Chinese Symbols. Explore: The Journal of Science and Healing 6, 256-62.
+
+Roe, C. (1996). Clients' influence in the selection of elements of a psychic reading. Journal of Parapsychology 60, 65-70.
+
+Roe, C. (1998). Belief in the paranormal and attendance at psychic readings. Journal of the American Society for Physical Research 92, 25-51.
+
+Roe, C. (2014). Effects of participant and target system lability upon PK performance using an I Ching task. Journal of the Society for Psychical Research 74, 219-38.
+
+Roe, C.A. (2016). The case for dream ESP research: A contextualised review of study outcomes from the University of Northampton. Abstracts of presented papers: Joint Convention of the Parapsychological Association &amp; Society for Scientific Exploration, Millennium Hotel, Boulder Colorado, June 19-24, 44.
+
+Roe, C.A. (2020). Clinical parapsychology: The interface between anomalous experiences and psychological wellbeing. In&nbsp;Spirituality and Wellbeing: Interdisciplinary approaches to the study of religious experience and health, edited by B. Schmidt and J. Leonardi.&nbsp;Sheffield: Equinox Publishing.
+
+Roe, C., Sherwood, S., Luke, D., Farrell, L. (2002). An exploratory investigation of dream GESP using consensus judging and dynamic targets. Journal of the Society for Psychical Research 66, 225-38.
+
+Roe, C., Morgan, C. (2002). Narcissism and belief in the paranormal. Psychological Reports 90, 405-11.
+
+Roe, C., Davey, R., &nbsp;Stevens, P. (2003). Are ESP and PK aspects of a unitary phenomenon? A preliminary test of the relationship between ESP and PK. Journal of Parapsychology 67, 343-66.
+
+Roe, C., Holt, N. (2005). A further consideration of the sender as a PK agent in ganzfeld ESP studies. Journal of Parapsychology 69, 113-27.
+
+Roe, C., Holt, N. (2006). Assessing the role of the sender as a PK agent in ESP studies: The effects of strategy (‘willing’ versus ‘absorption’) and feedback (immediate versus delayed) on psi performance. Journal of Parapsychology 70, 69-90.
+
+Roe, C., Davey, R., Stevens, P. (2006). Experimenter Effects in Laboratory Tests of ESP and PK Using a Common Protocol. Journal of Scientific Exploration 20, 239-53.
+
+Roe, C., &amp; Holt, N. (2006). The effects of strategy ("willing" versus absorption) and feedback (immediate versus delayed) on performance at A PK task. Journal of Parapsychology 70, 69-90.
+
+Roe, C., Sonnex, C., &amp; Roxburgh, E. (2014). Two Meta-Analyses of Noncontact Healing Studies. Explore: The Journal of Science and Healing.
+
+Roe, C.A., Hitchman, G., &amp; Sherwood, S. (2014). The Relationship Between Latent Inhibition and Performance at a Non-intentional Precognition Task. Explore: The Journal of Science and Healing&nbsp;11.
+
+Roe, C., &amp; Bell, C. (2016). Paranormal belief, anxiety and perceived control over life events. Journal of the Society for Psychical Research 80, 65-76.
+
+Roe, C.A., Cooper, C.E., Hickinbotham, L., Hodrien, A., Kirkwood, L., &amp; Martin, H. (2020). Performance at a precognitive remote viewing task, with and without ganzfeld stimulation: Three experiments.&nbsp;Journal of Parapsychology&nbsp;84/1, 38-65.
+
+Sherwood, S., Roe, C. (2003). A Review of Dream ESP Studies Conducted Since the Maimonides Dream ESP Programme. Journal of Consciousness Studies 10, 85-109.
+
+Sonnex, C.,&nbsp;Roe, C.A., &amp; Roxburgh, E.C. (2020). Testing the Pagan prescription: Using a randomized controlled trial to investigate Pagan spell-casting as a form of noncontact healing.&nbsp;Journal of Alternative and Complementary Medicine,&nbsp;26/3, 219-25.
+
+Storm, L., Sherwood, S., Roe, C., Tressoldi, P., Rock, A., Di Risio, L. (2017). On the correspondence between dream content and target material under laboratory conditions: A meta-analysis of dream-ESP studies, 1966-2016. International Journal of Dream Research 10.
+
+Vernon, D., Hitchman, G., &amp; Roe, C. (2021). An implicit and explicit assessment of morphic resonance theory using Chinese characters.&nbsp;Journal of the Society for Psychical Research&nbsp;85/3, 129-43.
+
+Woollacott, M.,&nbsp;Roe, C.A., Cooper, C.E., Lorimer, D., &amp; Elsaesser, E. (2021). Perceptual phenomena associated with spontaneous experiences of after-death communication: Analysis of visual, tactile, auditory and olfactory sensations.&nbsp;Explore 18/4, 423-31.   Endnotes 1. Roe (1996 2. Roe et al (2002) 3. Roe (2016). 4. Roe &amp; Holt (2005). 5. Roe &amp; Holt (2006) 6. Holt &amp; Roe (2006) 7. Holt &amp; Roe (2007) 8. Roe et al (2020). 9. Personal communication 28 March 2023. 10. Roe et al (2006). 11. Roe (2014) 12. Robbins &amp; Roe (2010). 13. Vernon et al (2021). 14. Hitchman et al (2015) 15. Hitchman et al (2016) 16. Roe (1998). 17. Roe &amp; Bell (2016). 18. Roe &amp; Morgan (2002). 19. Elsaesser et al (2020). 20. Personal communication 28 March 2023. 21. Sonnex et al (2020). 22. Storm et al (2017). 23. Roe et al (2014). 24. Roe (2020).           			  			     			This page was last updated on: May 08, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 3,300 Created: 30th April 2019 Last updated: 8th May 2023 May be cited as:Duggan, M. (2019). &lsquo;Chris Roe&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/chris-roe&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y5su6dr4                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/chris-roe

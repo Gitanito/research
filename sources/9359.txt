@@ -1,0 +1,4 @@
+{"type":"link","mylink":"https:\/\/parapsychologie.ac.at\/JavaScript:neuesFenster2()","mytitle":"","mylang":"de"}
+
+
+[1] https://parapsychologie.ac.at/JavaScript:neuesFenster2()

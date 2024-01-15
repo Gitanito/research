@@ -1,0 +1,4 @@
+{"type":"link","mylink":"http:\/\/www.univie.ac.at\/orientalistik\/index.html","mytitle":"","mylang":"de"}
+
+
+[1] http://www.univie.ac.at/orientalistik/index.html

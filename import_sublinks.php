@@ -26,14 +26,14 @@ include_once "simple_html_dom.php";
                 console.log(v);
                 let info = v.split("&");
                 let title = info[0].split("=");
-                $("#progress_doing").html("In Arbeit: <b>"+decodeURIComponent(title[1].replace(/\+/g, '%20'))+"</b>");
+                $("#progress_doing").html("In Arbeit: <b>"+decodeURI(title[1].replace(/\+/g, '%20'))+"</b>");
 
                 $.get( "import_single_link.php?" + v, function( data ) {
                     console.log('done');
                     $('html,body').css('cursor','default');
                     let info = v.split("&");
                     let title = info[0].split("=");
-                    $("#progress_info").html("<b>"+decodeURIComponent(title[1].replace(/\+/g, '%20'))+"</b> wurde importiert.");
+                    $("#progress_info").html("<b>"+decodeURI(title[1].replace(/\+/g, '%20'))+"</b> wurde importiert.");
                     $("#progress_count").html("<b>"+mylist.length+"</b> Weitere von <b>"+startcount+"</b> in der Warteschlange.<br><b>"+Math.ceil(mylist.length/(startcount/100))+"%</b> verbleibend.");
                     $("#progress_alert").show();
                     //window.parent.frames.left.location.reload();
@@ -54,13 +54,32 @@ include_once "simple_html_dom.php";
 
             $('#allpdf').on( "click", function() {
                 $($(".bulk").get().reverse()).each(function() {
-                    mylist.push($(this).data("q"));
-                    $(this).prop('disabled', true);
+                    if ($(this).data("q").indexOf(encodeURIComponent('.pdf')) > -1) {
+                        mylist.push($(this).data("q"));
+                        $(this).prop('disabled', true);
+                    }
                 });
+                $("#progress_alert").show();
                 startcount = mylist.length;
                 $("#progress_count").html("<b>"+mylist.length+"</b> Weitere von <b>"+startcount+"</b> in der Warteschlange.<br><b>"+Math.ceil(mylist.length/(startcount/100))+"%</b> verbleibend.");
             });
 
+            $('#alltxt').on( "click", function() {
+                let path = "";
+                path = prompt("Geben Sie den zu Pfad ein. z.B https://xyz.com/articles");
+                if (path !== null && path !== "")
+                {
+                    $($(".bulk").get().reverse()).each(function () {
+                        if ($(this).data("q").indexOf(encodeURIComponent(path)) > -1) {
+                            mylist.push($(this).data("q"));
+                            $(this).prop('disabled', true);
+                        }
+                    });
+                    $("#progress_alert").show();
+                    startcount = mylist.length;
+                    $("#progress_count").html("<b>" + mylist.length + "</b> Weitere von <b>" + startcount + "</b> in der Warteschlange.<br><b>" + Math.ceil(mylist.length / (startcount / 100)) + "%</b> verbleibend.");
+                }
+            });
 
             window.setInterval(function () {
                 if (mylist.length > 0 && !running) {
@@ -80,10 +99,10 @@ include_once "simple_html_dom.php";
             <h5 class="card-title">Neuen Link importieren</h5>
             <p class="card-text">
 
-            <form method="post">
+            <form method="get">
                 <div class="form-group">
                     <label for="tit">URL</label>
-                    <input type="text" class="form-control" id="tit" aria-describedby="titleHelp" name="myurl" value="<?=($_POST['myurl']??"")?>">
+                    <input type="text" class="form-control" id="tit" aria-describedby="titleHelp" name="myurl" value="<?=($_GET['myurl']??"")?>">
                 </div>
                 <button type="submit" class="btn btn-primary">Scan</button>
             </form>
@@ -91,18 +110,18 @@ include_once "simple_html_dom.php";
             </p>
         </div>
     </div>
-<?php if (isset($_POST['myurl'])) { ?>
-    <a class="btn btn-danger" id="allpdf">Importiere alle PDFs</a><br><br><br>
+<?php if (isset($_GET['myurl'])) { ?>
+    <a class="btn btn-danger" id="allpdf">Importiere alle PDFs</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-danger" id="alltxt">Importiere alle Links unter einem Pfad</a><br><br><br>
 
 <table>
     <tr><th>Importieren</th><th>Titel</th><th>Link</th></tr>
 <?php
 
 
-if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
-    $baseurl = parse_url($_POST['myurl']);
+if (isset($_GET['myurl']) && trim($_GET['myurl']) != "") {
+    $baseurl = parse_url($_GET['myurl']);
     $regexp = "(.*?)<a .*?href=\"(.*?)\".*?>(.*?)<\/a>(.*)";
-    if(preg_match_all("/$regexp/m", file_get_contents($_POST['myurl']), $matches, PREG_SET_ORDER)) {
+    if(preg_match_all("/$regexp/m", file_get_contents($_GET['myurl']), $matches, PREG_SET_ORDER)) {
         $displayed = [];
 
 
@@ -127,7 +146,9 @@ if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
                     $link = $match[2];
                     break;
                 default:
-                    $link = $baseurl["scheme"].'://'.$baseurl["host"].$baseurl["path"].'/'.$match[2];
+                    $b = explode("/", $baseurl["path"]);
+                    unset($b[sizeof($b)-1]);
+                    $link = $baseurl["scheme"].'://'.$baseurl["host"].join("/", $b).'/'.$match[2];
             }
             $inlink = $link;
             if (in_array($inlink, $displayed)) continue;
@@ -137,9 +158,9 @@ if (isset($_POST['myurl']) && trim($_POST['myurl']) != "") {
 
             //$imported = $_content->findBy([["type", "=", "link"],["mylink", "=", $inlink]]);
             $dis = in_array($inlink, $imported);
-            echo "<tr><td><button class='import ".((!$dis && strstr($inlink, '.pdf'))?"bulk":"")."' id='l".$key."' data-q='mytitle=".urlencode($intitle)."&mylink=".urlencode($inlink)."' ".($dis?"disabled":"").">Import</button></td>";
-            echo "<td>".$intitle."</td>";
-            echo "<td><a target=_blank href='".$inlink."'>".$inlink."</a></td>";
+            echo "<tr><td><button class='import ".(!$dis?"bulk":"")."' id='l".$key."' data-q='mytitle=".urlencode(preg_replace('/[^A-Za-z0-9\- ]/', '', strip_tags($intitle)))."&mylink=".urlencode($inlink)."' ".($dis?"disabled":"").">Import</button></td>";
+            echo "<td>".preg_replace('/[^A-Za-z0-9\- ]/', '', strip_tags($intitle))."</td>";
+            echo "<td><a target=_blank href='".$inlink."'>".$inlink."</a>&nbsp;<a class='btn btn-primary' href='?myurl=".$inlink."'>Scan</a></td>";
 
             echo "</tr>";
             $displayed[] = $inlink;

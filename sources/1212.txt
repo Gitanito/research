@@ -1,41 +1,22 @@
-{"name":"Proceedings of the Society for Psychical Research 5606 1310 7705","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/spr_proceedings\/\/.\/spr_proceedings_v3_contents.pdf","mytitle":"Proceedings of the Society for Psychical Research V3 Contents","mylang":"de"}
-CONTENTS.
-PAOli:
-Autom&tic Writing. By FREDERIC W. H. MYEas
-Opening Addrellfl at the Thirteenth General Meeting. By PROFKSSOR
-BALFOUR STEWART, F.R.S. 64
-Notes on the Evidence, collected by the 8ociety, for Phantaams of the
-Dead. By Mas. H. SIDGWICK 69
-Hallucinations. By EDMU~D GURNEY 151
-The Calculus of Probabilities applied to Psychical Research. By F. Y.
-EDGEWORTH 190
-Annual BusineBB Meeting • 200
-Report on Phenomena connected with Theosophy
-(I) Statement and ConcluBioDB of the Committee 201
-(2) Account of Pel'llOnal InvestigatioDB in India, and DiscUBBion of
-the Authorship of the II Koot Hoomi II Letters (with
-Appendices). By RICHARD HODGSON • 207
-(3) Report of MR. F. G. NBTHERCLIFT on the Blavatsky·Coulomb
-Correspondence. 381
-(4) Note on Certain Phenomena not dealt with in Mr. Hodgson's
-Account. By Mas. H. SIDGWICK. 382
-(5) DetailB of the Evidence referred to on Page 207 397
-Contents of the above Report 400
-Some Higber Aapects of Mesmerilm. By EDMUND GURNEY and
-FREDERIC W. H MYERS 401
-Further Report on Experiments in Thought·Transference at Liverpool.
-By MALCOLM GUTHRIE, J.P••
-Local AlIIIl8theaia induced in the Normal State by
-Report on an alleged PhY8ical Phenomenon
-Catalogue of the Library (Abridged.)
-J..ist of Members and A.8aociate@, December, 1885
-CODBtitution and Rulel:l
-424
-Mesmeric P&BBea 453
-460
-464
-475
-493
-Digitized by Google
-Digitized by Google
-
+{"name":"L'Annee Occultiste et Psychique (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/annee_occultiste_et_psychique","mytitle":"L'Annee Occultiste et Psychique (IAPSOP)","mylang":"de"}
+  L'Annee Occultiste et Psychique (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+
+ &nbsp; &nbsp;     Periodical:  L'Annee Occultiste et Psychique</I>      
+
+    Summary:&nbsp;  From Pat Deveney's database:
+
+ Annee Occultiste et Psychique, L'.
+ Ou expose annuel des observations scientifiques et des travaux publies en France et à l'Etranger dans les sciences mysterieuses Astrologie, Alchimie, Symbolique, Esoterisme, arts divinatoires, Prophetique, psychisme, spiritisme, Magnetisme.
+ 1908--1909
+ Paris, France.  Language:  French.  Publisher: Henri Daragon.  Editor: Pierre Piobb (Pierre Vincenti Comte da Piobetta).
+  1/1, 1908 (for the year 1907)-1909 (for 1908).
+
+  "Piobb" (Comte Pierre Vincenti, 1874-1942) was a Corsican journalist and a well-respected astrologer, magician and occultist.  He wrote on, among other things, Les Mysteres des Dieux: Venus, la Deesse Magique de la Chair, and a book on the secret of Nostradamus.  This journal was to be an annual retrospective on things occult, and included articles by most of the leading occultists of the period: Piobb, Oswald Wirth, Ch. M. Limousin, Papus, Alta, Annie Besant, Teder, Ernest Bosc, Ch. Lancelin, Paul Vulliaud, Jollivet-Castelot, C. Flammarion, "Jules Bois" (Henri Antoine Jules-Bois), and H. Durville, and many others.  The journal gave a full account (from Le Voile d'Isis) of the Spiritualist Congress held in Paris in 1907.  Apparently only two volumes were issued.  LOC; BNF; ZDB: Freiburg Inst Grenzgeb Psychol; Berlin SBB Haus Potsdamer Str; Center for Research Libraries, Illinois; University of Wisconsin, Madison.
+
+       Issues:L'Annee Occultiste et Psychique 1907 L'Annee Occultiste et Psychique 1908      </p>
+
+  
+IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
+ IAPSOP respects people's privacy and personal data rights.             </HTML>
+
+[1] http://iapsop.com/archive/materials/annee_occultiste_et_psychique

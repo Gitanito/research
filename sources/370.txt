@@ -1,26 +1,22 @@
-{"name":"The Occult Magazine [Hermetic Brotherhood of Luxor] (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/occult_magazine_hbl\/","mytitle":"The Occult Magazine [Hermetic Brotherhood of Luxor] (IAPSOP)","mylang":"de"}
-  The Occult Magazine [Hermetic Brotherhood of Luxor] (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"Adyar Library Bulletin (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/adyar_library_bulletin","mytitle":"Adyar Library Bulletin (IAPSOP)","mylang":"de"}
+  Adyar Library Bulletin (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  The Occult Magazine</I>      
+ &nbsp; &nbsp;     Periodical:  Adyar Library Bulletin</I>      
 
-      Summary:  From Pat Deveney's database:
+    Summary:  From Pat Deveney's database:
 
- Occult Magazine, The.
- A Monthly Journal of Psychical and Philosophical Research.
- A chronicle of strange, and secret, and forgotten things—Shelley
- 1885-1886  Monthly, then quarterly
- Glasgow, Scotland; then Loudsville, GA.  Publisher: Hay Nisbet & Co..  Editor: Peter Davidson.
- Succeeds: Occultist
- Corporate author:  H.B. of L. (Hermetic Brotherhood of Luxor)
-1/1, February 1885-2/21-23, October-December 1886.
+ Adyar Library Bulletin / Brahmavidya: The Adyar Library Bulletin.
+ Other titles: Brahmavidya
+ 1937  Quarterly
+ Madras, India.  Publisher: C. Subbarayudu; Adyar Library and Research Centre.  Editor: C. Kunhan Raja.
+ 1/1, February 1937-current (?)  Rs 100 a year in India, Rs. 9 elsewhere ($3.00).
 
- This was started as The Occultist, but after disputes with John Thomas, the publisher of that journal, it was begun anew under this title.  This was the organ of the H.B. of L., the Hermetic Brotherhood of Luxor, the most influential practical occult group in the last quarter of the nineteenth century and an avowed enemy of the "Buddhistic Mahatmas" of the competing Theosophical Society.  Davidson later edited The Morning Star.  LOC; National Library of Scotland; University of Manchester
+ Bulletin of the library of the Theosophical Society at Adyar.  A pamphlet series was put out under the same auspices.  The journal published regular notes on the library’s holdings, especially manuscript holdings, together with translations of works held important by the Society, such as the Upanishads, and articles on various terms and concepts of important.  Special numbers were issued on the occasion of the anniversaries of important dates and figures in the Theosophical Society.  In later years the journal turned more to articles of general Theosophical interest.  Most issues contain photographs of principal figures in the Society on the covers.  A table of contents for the issues from 1948 on has been made by the Campbell Theosophical Society at austheos.com.  University of Texas, Austin; Staatsbibliothek zu Berlin; BL.
 
-     Significance:      IssuesThe Occult Magazine: V1 N1 February 1885 The Occult Magazine: V1 N2 March 1885 The Occult Magazine: V1 N3 April 1885 The Occult Magazine: V1 N4 May 1885 The Occult Magazine: V1 N5 June 1885 The Occult Magazine: V1 N6 July 1885 The Occult Magazine: V1 N7 August 1885 The Occult Magazine: V1 N8 September 1885 The Occult Magazine: V1 N9 October 1885 The Occult Magazine: V1 N10 November 1885 The Occult Magazine: V1 N11 December 1885 The Occult Magazine: V2 N12 January 1886 The Occult Magazine: V2 N13 February 1886 The Occult Magazine: V2 N14 March 1886 The Occult Magazine: V2 N15 April 1886 The Occult Magazine: V2 N16 May 1886 The Occult Magazine: V2 N17-20 June-September 1886 The Occult Magazine: V2 N21-23 October-December 1886      
-    </p>
+      Issues:Adyar Library Bulletin V1 P1 Feb 1937 Adyar Library Bulletin V1 P3 Oct 1937 Adyar Library Bulletin V2 P1 Feb 1938 Adyar Library Bulletin V3 P1 Feb 1939 Adyar Library Bulletin V4 P1 Feb 1940 Adyar Library Bulletin V6 1942 Adyar Library Bulletin V7 1943 Adyar Library Bulletin V9 P1 1945 Adyar Library Bulletin V10 P4 Dec 1946          </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/occult_magazine_hbl/
+[1] http://iapsop.com/archive/materials/adyar_library_bulletin

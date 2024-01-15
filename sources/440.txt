@@ -1,30 +1,23 @@
-{"name":"Pelecan  (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/pelecan","mytitle":"Pelecan  (IAPSOP)","mylang":"de"}
-  Pelecan  (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"The Astrologer of the Nineteenth Century (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/astrologer_nineteenth_century\/","mytitle":"The Astrologer of the Nineteenth Century (IAPSOP)","mylang":"de"}
+  The Astrologer of the Nineteenth Century (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  Pelecan</I>     
+ &nbsp; &nbsp;     Periodical:  The Astrologer of the Nineteenth Century</I>      
 
     Summary:&nbsp;  From Pat Deveney's database:
 
- Pelecan.
- Journal of the Theosophical Union.
- 1958?--1967  Quarterly
- Athens, Greece.  Language:  Greek.  Editor: Aglaia Zannou.
- 1/1, winter 1958-1959 (no. 15 is spring 1962).  48 pp.
+ Astrologer of the Nineteenth Century, The.
+ Other titles: Straggling Astrologer of the Nineteenth Century
+ 1824-1824  Weekly  Publisher: Members of the Mercurii.  Editor: Members of the Mercurii; Robert Cross Smith ("Raphael, the Metropolitan Astrologer").  Succeeded by: The Prophetic Messenger
+ 1/1-22, June 5 to October 30, 1824.
 
- This was a quarterly magazine published by the Theosophical Union in Greece, which was almost certainly part of the United Lodge of Theosophists (ULT) founded by Robert Crosbie and others in Los Angeles in 1909.  The Theosophical Union was started on January 2, 1960 and operated concurrently with the (Adyar) Theosophical Society in Greece until November 1983 when the two were merged.  The Theosophical Union had its headquarters on the ground floor at 26 Harilaou Trikoupi Street in Athens, in a building originally owned by Aglaia Zannou, the editor of the journal, and later donated to the Theosophical Society in Greece.
+ This was a weekly astrological and magical journal issued for 22 weeks in 1824, with beautiful plates and color plates.  It was published by the "Members of the Mercurii," an astrological and occult group, more familiar to legend than to history, and after the first 12 issues was edited by "Raphael" (Robert Cross Smith, 1795-1832), the first and foremost of those to bear that name.  After the journal expired it was reprinted in 1825 as The Astrologer of the Nineteenth Century, or the Master Key of Futurity, a Complete System of Geomancy & Occult Science (London and Dublin), with a preface to this (spurious) "seventh edition" by Merlinus Anglicus, Junior, Gent., praising the antiquity of astrology and the great success of the previous editions.  The book was divided into 10 "Circles," each dealing with a hodgepodge of the occult arts, especially geomancy, necromancy, ceremonial magic, charms, talismans, incantations, "the Ancient Practice of Raising Spirits and Invocating the Dead," astral influence, omens, mythology, prophecies, remarkable nativities, ghost stories, "Descriptions of the Ancient Danish Calendar," etc.  The journal revealed the learning of the period but, other than in astrology, did not pretend to great originality, regularly citing to curious German and French works, Charles Maturin, Dom Calmet, Jeremy Bentham, Francis Barrett, etc.  The journal also published certain "Astrological Fragments by Her Royal Highness Princess Olive of Cumberland," presumably the painter Olivia Serres who claimed the dubious distinction of being the daughter of Henry, Duke of Cumberland.  The painter and astrologer John Varley contributed nativities to the journal, including his own.  BL; NYPL; Brown University; Syracuse University; Cleveland Public Library; Northwestern University; Harvard University; BL.
 
- Greek Theosophists have written extensively on both Theosophical and philosophical subjects and have also translated many classical Theosophical works from classical works of Philosophy, Esotericism and Theosophy French, English, German, Sanskrit, and ancient Greek to modern Greek.  Some of these notable Greek Theosophists are:
+ Generally, The Astrologer of the Ninteenth Century should be thought of as a continuation of The Straggling Astrologer.
 
- <alt="Timoleon Vratsanos (President of Plato's Lodge)  Τιμολέων Βρατσάνος (Πρόεδρος της Στοάς Πλάτων)  Aglaia Zannou (Editor-in-Chief) Νίκος Παναγόπουλος (Υπεύθυνος Τυπογραφείου)  Nikos Panagopoulos (Head of Printing Office) Νίκος Παναγόπουλος   Dimitris Theodoridis Δημήτρης Θεοδωρίδης  Tasos Valadoros Τάσος Βαλαδώρος  Costas Pangalos Κώστας Πάγκαλος  Kal. Koutsoyianni (President of Arundale Lodge) Καλ. Κουτσογιάννη (Πρόεδρος Στοάς Άραντέιλ)  Leonidas Polimeropoulos (President of Dimocritus Lodge) Λεωνίδας Πολυμερόπουλος (Πρόεδρος Στοάς Δημόκριτος)  Louise Montesandou (made the covers) Λουίζα Μοντεσάντου (έκανε και το εξώφυλλο)  Kostas Xyndas Κώστας Ξύνδας  Maria G. Economou Μαρία Γ. Οικονόμου  Eleni K. Georgantas Ελένη Κ. Γεωργαντά  Lampis Lucos Λάμπης Λούκος  Eve Ornstein Εύη Ορνστάϊν  Nikos Vouropoulos Νίκος Βουρόπουλος  Aris Diktaios Αρης Δικταίος  Kalliopi Koutsogiannis Καλλιόπη Κουτσογιάννη  Nikos Vrettakos Νίκος Βρεττάκος  Pantelis Prevelakis Παντελή Πρεβελάκη  Z. Mamalakis Ζ. Μαμαλάκη  Takis Varvitsiotis Τάκης Βαρβιτσιώτης  Dimitris Kapetanakis Δημήτρης Καπετανάκης  Rita Boume Pappa Ρίτα Μπούμη Παππά" />
-
- and others.
-
- The issues 14-33 (Spring 1962 - Winter 1966-1967) are from the personal collection of  Sophocles Theodotus who also digitized them.
-
- Contributed by Erica Georgiades.      Issues:Pelecan N15 Summer 1962 Pelecan N16 Fall 1962 Pelecan N17 Winter 1962-63 Pelecan N18 Spring 1963 Pelecan N19 Summer 1963 Pelecan N20 Fall 1963 Pelecan N21 Winter 1963-64 Pelecan N22 Spring 1964 Pelecan N23 Summer 1964 Pelecan N24 Fall 1964 Pelecan N25 Winter 1964-65 Pelecan N27 Summer 1965 Pelecan N28 Fall 1965 Pelecan N29 Winter 1965-66 Pelecan N30 Spring 1966 Pelecan N31 Summer 1966 Pelecan N32 Fall 1966 Pelecan N33 Winter 1966-67      </p>
+       Issues:Astrologer of the Nineteenth Century, "Seventh Edition", 1825       </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/pelecan
+[1] http://iapsop.com/archive/materials/astrologer_nineteenth_century/

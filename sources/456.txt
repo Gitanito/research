@@ -1,24 +1,24 @@
-{"name":"The Phoenix [Hall] (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/phoenix","mytitle":"The Phoenix [Hall] (IAPSOP)","mylang":"de"}
-  The Phoenix [Hall] (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"Australian Spiritualist [Queensland] (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/australian_spiritualist_queensland","mytitle":"Australian Spiritualist [Queensland] (IAPSOP)","mylang":"de"}
+  Australian Spiritualist [Queensland] (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  The Phoenix (Hall)</I>      
+ &nbsp; &nbsp;     Periodical:  Australian Spiritualist (Queensland)</I>     
 
-    Summary: &nbsp;  From Pat Deveney's database:
+    Summary:&nbsp;  From Pat Deveney's database:
 
- Phoenix, The.
+ Australian Spiritualist, The.
+ A Weekly Paper of Spiritualistic Science.
+ Excelsior / Advocates the Harmony of the Scriptures with Modern Science & Free-Thought
+ 1881--1881  Weekly
+ Brisbane, Australia.
+ 
+ 1/1-4, March 19 to April 9, 1881.  8 pp., one penny per issue.
 
- An Illustrated Review of Occultism and Philosophy.
+ This may have some connection with the earlier journal of the same name published in the early 1860s from Wollongong.  The journal struggled to distinguish itself from its contemporary, The Telephone, also published in Brisbane, by modestly holding itself out as a primer of spiritualism.  "The Telephone we deem in the wrong place.  It would do well in America, where Spiritualism is well grouonded, but for Australia, and Queensland especially, it is too far advanced in its doctrines.  What is wanted is a Ladder for the people.  This is what the Spiritualist will aim to show the public.  It will start on the bottom step, and as the people rise so will the standard of the Spiritualist."  With this goal in mind the journal featured lectures on spiritualism generally, accounts of post-mortem life ("My Experience Since I left the World," by "Alice"), exhortations on the moral education of youth, excerpts from Swedenborg, and, notably, Richard Baxter's revision from the spirit world of his classic Saints' Everlasting Rest (1650).  BL.
 
- 1931-1960?  Irregular
-
- Los Angeles, CA.  Publisher: Hall Pub. Co..  Editor: Manly Palmer Hall.
-
- 1/1, 1931.  16x24, hardcover.  Another beautifully designed production of Manly Palmer Hall (1901-1990).  See the note on him under The All-Seeing Eye.   This seems to have been intended as a regular journal, but only infrequent "editions" of it were published  over the years, the fourth in 1960.  The journal contained long and thoughtful articles on Bodhidharma, Albert Pike, the Comte de St.-Germain, H.P. Blavatsky ("The Russian Sphinx"), etc., most accompanied by photographs or drawings.
-
-     Issues:Phoenix 1931-2      </p>
+      Issues:Australian Spiritualist V1 N1 Mar 19 1881 Australian Spiritualist V1 N2 Mar 26 1881 Australian Spiritualist V1 N3 Apr 2 1881 Australian Spiritualist V1 N4 Apr 9 1881         </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/phoenix
+[1] http://iapsop.com/archive/materials/australian_spiritualist_queensland

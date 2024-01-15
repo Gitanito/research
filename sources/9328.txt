@@ -1,0 +1,4 @@
+{"type":"link","mylink":"http:\/\/www.univie.ac.at\/Voelkerkunde\/html\/inh\/pers\/wiss\/krem.htm","mytitle":"","mylang":"de"}
+
+
+[1] http://www.univie.ac.at/Voelkerkunde/html/inh/pers/wiss/krem.htm

@@ -1,6 +1,6 @@
 <?php
 
-$cleanup = true;
+$cleanup = false;
 
 ini_set('memory_limit', '512M');
 ini_set('max_execution_time', '300');
@@ -8,7 +8,6 @@ error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 
 $db = new SQLite3('../data/sqlite3database.db');
-
 
 $offset = 0;
 

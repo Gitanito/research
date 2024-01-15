@@ -1,20 +1,24 @@
-{"name":"La Ruche Spirite Bordelaise (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/ruche_spirite_bordelaise","mytitle":"La Ruche Spirite Bordelaise (IAPSOP)","mylang":"de"}
-  La Ruche Spirite Bordelaise (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"The Gleaner (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/gleaner\/","mytitle":"The Gleaner (IAPSOP)","mylang":"de"}
+  The Gleaner (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  La Ruche Spirite Bordelaise) </I>      
+ &nbsp; &nbsp;     Periodical:  The Gleaner</I>      
 
-    Summary&nbsp;  From Pat Deveney's database:
+    Summary:&nbsp;  From Pat Deveney's database:
 
-  Ruche Spirite Bordelaise, La.
- Revue de l'Enseignement des Esprits.
- 1863--1865  Semi-monthly
- Bordeaux, France.  Language:  French.  Editor: Emile Sabo, then Sabo, Auguste Bez and J. Chapelot.  Succeeded by: L'Union Spirite Bordelaise (formed by merger of La Ruche Spirite, Sauveur des Peoples and Voix d'outre-Tombe)  Corporate author:  Societe spirite de Bordeaux
-  1/1, June 1, 1863-May 1865.  16 pp, 9 1/2 x 6.  6-8 francs a year.
+ Gleaner, The
+ A Magazine Devoted to the Science of Practical Christianity / A Magazine Devoted to the Study of Truth and its Application to the Needs of the Individual.
+ The New Thought of Man.  The Larger Thought of God
+ Other titles: W. John Murray's Magazine
+ 1911-1927  Monthly
+ New York, NY.  Publisher: The Church of the Healing Christ; Divine Science Publishing Company.  Editor: Rev. W. John Murray, founder and editor.
+ 1/1, 1911-1927.  32 pp., $1.50 a year.
 
-  The first issue published a letter of advice from Allan Kardec and placed itself under the aegis of his "spiritism"--a fact noted with satisfaction by the Revue Spirite in its June 1863 number.  Sabo claimed that the idea of the journal came from his guardian spirit, Saint Louis, and it was largely given over, in the Kardecist fashion, to short paragraphs received from the society's spirits, and longer disquisitions on morality, religion and abstract philosophical questions.  The Society's mediums were usually three unknowns: Henri Ganipel, M. Lescouzeres, and Mme Cazemajour.  The journal also carried a contribution from a "Esprit typteur."  By 1864, there were three spiritist journals in Bordeaux, and Sabo notes in the last issue (May 1865) of this journal that the work had become too much to handle.  He had become the secretary of Kardec, and Bez, who had been editing the Voix d'Outre-Tombe, had moved to Paris as well to edit Revelations d'Outre-Tombe, so the decision was made to merge the three existing journals into the new L'Union Spirite Bordelais under the direction of Bez.  BNF.      Issues:Ruche Spirite Bordelaise V1 N1-24 Jun 1863 - May 1864 Ruche Spirite Bordelaise V2 N1-24 Jun 1864 - May 1865                                        </p>
+  Murray (1865-1925) was a disciple of Nona Brooks' Divine Science and the founder of the Church of the Healing Christ in New York (which held weekly services in the Waldorf-Astoria Hotel in Manhattan).  He was succeeded in the pulpit by Harry Gaze and then Emmet Fox.  Noted in The American Rosae Crucis, 1916, in the exchanges of The Master Mind, 1918, and in William C. Hartmann's Who's Who in Occult, Psychic and Spiritual Realms (1925).  NYPL; Wilmington University; University of Massachusetts, Amherst; McGill University; St. Andrews University.
+
+       Issues:Gleaner V4 1912-1913 Gleaner V5 1914-1914 Gleaner V6 1914-1915 Gleaner V9 1917-1918 Gleaner V10 1918-1919 Gleaner V11 1919-1920 Gleaner V12 1920-1921 Gleaner V13 1921-1922      </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/ruche_spirite_bordelaise
+[1] http://iapsop.com/archive/materials/gleaner/

@@ -1,0 +1,4 @@
+{"type":"link","mylink":"http:\/\/kiwi.uni-psych.gwdg.de\/home\/ertel\/ertel-dir\/index.html","mytitle":"","mylang":"de"}
+
+
+[1] http://kiwi.uni-psych.gwdg.de/home/ertel/ertel-dir/index.html

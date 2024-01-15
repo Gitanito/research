@@ -1,21 +1,19 @@
-{"name":"The Occultist [Hermetic Brotherhood of Luxor] (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/occultist_hbl\/","mytitle":"The Occultist [Hermetic Brotherhood of Luxor] (IAPSOP)","mylang":"de"}
-  The Occultist [Hermetic Brotherhood of Luxor] (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"Almanach Theurgique (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/almanach_theurgique","mytitle":"Almanach Theurgique (IAPSOP)","mylang":"de"}
+  Almanach Theurgique (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  The Occultist (Hermetic Brotherhood of Luxor)</I>     
+ &nbsp; &nbsp;     Periodical:  Almanach Theurgique</I>     
 
-     Summary:  From Pat Deveney's database:
+    Summary: &nbsp;  From Pat Deveney's database:
 
- Occultist, The.
- 1885
- Kingsley-by-Frodsham, Cheshire, England.  Publisher: John Thomas, proprietor and publisher.  Editor: John Thomas.
- Succeeds: The Seer and Celestial Reformer  Succeeded by: The Occult Magazine
- 1/1, January 1885.
+ Almanach Theurgique de Zouave Jacob, Theurge Guerisseur.
+ 1888?-1906?  Annual
+ Paris, France.
+ This was the companion of Revue Theurgique, filled with long discourses on theurgy ("une science divine a l'aide de laquelle les etres [sic] d'ici-bas se mettent, par evocation, en rapport avec les  humains qui ont vecu sur la terre ou dans d'autres mondes.") and on Jacob's confusing free-thought Calendrier Theurgique which sought to replace the Catholic calendar of saints' days with one of his own devising, was based on reverence for Buddha, Ieseus Christna, Apollonius of Tyana, et al.  BNF.
 
- This was the journal of the H.B. of L. for one month, until financial disagreements between the order and Thomas terminated the relationship.  The H.B. of L. went on to start the Occult Magazine in Glasgow.  The journal was filled with promises of occult wisdom and reprints of the "Sages of Antiquity" and featured articles by "Zanoni" and "Mejnour" (Thomas Henry Burgoyne and Peter Davidson), and has advertisements by Thomas (for magnetic healing at a distance) and by Davidson for his magic mirrors.  See The Seer and the Occult Magazine (Glasgow).      IssuesThe Occultist: V1 N1 January 1885      
-    </p>
+      Issues:Almanach Theurgique 1906         </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/occultist_hbl/
+[1] http://iapsop.com/archive/materials/almanach_theurgique

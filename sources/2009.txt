@@ -1,212 +1,1171 @@
-{"type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/brain-and-psi","mytitle":"The Brain and Psi | Psi Encyclopedia","mylang":"de"}
-                     The Brain and Psi | Psi Encyclopedia                                  Skip to main content                                                        	                  
-
-Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           The Brain and Psi                                                                                                                                                                                                                          Electroencephalography (EEG) – a non-invasive technique for measuring brain activity – has been used in experimental psi research since the 1960s. More recently, investigators have also benefited from advancements in brain imaging technology. This article gives examples of the approaches that are being used both to demonstrate psychic functioning and to understand its neural correlates.
-
-Note: In psi experiments, the term ‘sender’ denotes a person attempting in controlled conditions to interact telepathically with a second person at a distance, who is termed the ‘receiver’.   Contents   	Telepathic Interaction Studies  	Duane and Behrendt, 1965 	Targ and Puthoff, 1976 	Kittenis, Caryl and Stevens, 2004 	Standish, 2004-5 	Moulton and Kosslyn, 2008 	Hinterberger, 2009 	Tressoldi, 2015   	Clairvoyance Studies  	Gerard Senehi 	Ingo Swann   	Precognition Studies  	Bierman and Scholte, 2002 	Lobach, 2006 	Kittenis, 2011 	Tressoldi, 2015 	Jolij and Bierman, 2017   	Alpha Waves Studies  	Honorton, Davidson and Bindler, 1971 	Stanford and Stevenson, 1972 	Ramakrishna Rao, 1973 	Stanford and Palmer, 1975 	Maher, 1986 	Sean Harribance   	RNG Psychokinesis (PK) Studies  	Schmidt, 1977 	Heseltine, 1977 	Honorton and Tremmel, 1979 	Giroldini, 1991 	Morris Freedman   	Neuroimaging Review 	Literature 	Endnotes     Telepathic Interaction Studies
-
-One line of parapsychological research uses brain monitoring to demonstrate telepathic interactions, typically between emotionally bonded individuals such as twins, couples and friends.  Duane and Behrendt, 1965
-
-Ophthalmologists Duane and Behrendt at the University of Philadelphia used EEG to monitor pairs of identical twins, each separated from the other in separate rooms at a distance of six metres.1 When one member of each pair obeyed an instruction to relax and close their eyes in order to facilitate alpha wave expression, the resulting change in the EEG recording was found to be mirrored in that of the other twin. The experimenters tentatively termed the phenomenon ‘extrasensory induction’. &nbsp;This was the first experiment of its kind, but scepticism of the findings prevented follow-up replications being carried out.  Targ and Puthoff, 1976
-
-Russell Targ and Hal Puthoff at the Stanford Research Institute worked with pairs of volunteers, finding that when one of the pair was exposed to stroboscopic light flashes, synchronous changes were sometimes found in the other.2 With one couple, the EEG changes in the second invidual were so pronounced, the experimenters said they resembled those of someone who had been directly exposed to the light flashes.&nbsp;The results indicated that the EEG voltage in the alpha band varied as a function of light flash rate, such that faster rates (16 flashes per second) produced lower voltages as compared to slower rates&nbsp;(for example&nbsp; 0-6 flashes).  Kittenis, Caryl and Stevens, 2004
-
-Marios Kittenis and colleagues at Edinburgh University’s Koestler Parapsychology Unit investigated the extent to which the degree of emotional connection between two people might influence the degree of ‘telepathic bonding’ detected in their EEGs.3 &nbsp;Forty-one participants were assigned to one of three groups: emotionally close individuals (related); pairs of recent strangers (unrelated); and single individuals who remained unpaired. To induce a shared state of consciousness, related pairs spent some time alone before&nbsp;simultaneously listening&nbsp;to a recording of a relaxation procedure, followed by fifteen minutes of continuous drumming. In this group, statistically significant correlations were found between light flashes experienced by one individual and the corresponding brain activity in the distantly located partner (p = 0.023). The unrelated pairs showed a positive but smaller effect. Overall, the results were significant (p = 0.007).&nbsp;&nbsp;As expected, unpaired individuals showed no brain correlations with light flashes triggered in an empty room at a distance.  Standish, 2004-5
-
-Leanna Standish at Bastyr University conducted experiments with couples and twins. In her first experiment, spikes in neural activity in one individual were found to synchronize with those of another remotely located person when that person was exposed to a flashing light or loud noise.4&nbsp;
-
-These findings were replicated using Functional Magnetic Resonance Imaging (fMRI).5 One member of a couple, having been electrically and magnetically shielded, was exposed to a flickering checkerboard pattern. The other, having been placed in a scanner wearing sensory isolating goggles, was monitored for changes in brain activity. Correlations between the two were found at a statistically significant level (p = 0.001), in the form of notable changes in neurometabolic activity within the visual cortex of the person in the scanner, occurring roughly at the same time.  Moulton and Kosslyn, 2008
-
-Samuel Moulton, a Harvard psychology graduate student, and Stephen Kosslyn, a Harvard psychology professor, published a high-profile study investigating telepathy.6 They recruited 16 pairs of individuals sharing an emotional bond, with one acting as the ‘receiver’ monitored by fMRI, the other acting as ‘sender’ at a distance. Each receiver was shown two images and asked to identify which of the two was being ‘sent’ telepathically by the other person. Guessing accuracy was almost exactly at chance (49.9%), and no significant differences in brain activity between hits and misses were found. Pronounced brain differences in one subject (p = 0.001) were dismissed as artifactual.  Hinterberger, 2009
-
-Thilo Hinterberger at the University of Regensburg conducted research in which pairs of emotionally bonded participants were separated by a large distance – one situated in Freiburg, Germany, the other in Northampton, England.7 When one member was exposed to highly emotional stimuli (violent disturbing images), the ‘receiver’ twin displayed significant correlations (p = 0.01) in their alpha EEG spectrum.  Tressoldi, 2015
-
-Patrizio Tressoldi at the University of Padua experimented with twenty pairs of subjects, in which one individual received both visual and auditory stimulation while the other’s EEG was being monitored for synchronous signals indicating telepathic transfer of information.8 Analysis revealed an overall increase in the correlation among the EEG channels of the isolated distant partners to a statistically significant degree. Additionally, Tressoldi found a correlation in the strength of EEG signals between sender and receiver participants.  Clairvoyance Studies  Gerard Senehi
-
-In 2008 a group of Indian researchers used fMRI to examine the brain activity of Gerard Senehi,&nbsp;a 46-year-old nationally known psychic, while he was attempting to describe a picture being drawn by an experimenter in a different room.9 The results were significantly more accurate than those obtained by a control person. The fMRI scan revealed an abnormal level of activity in the right para hippocampal gyrus, an area associated with spatial awareness and memory.&nbsp; However, the subject of the drawing was based on experimenter choice instead of being randomly selected, a flaw that potentially enabled the psychic to identify it by non-paranormal means.  Ingo Swann
-
-In the late 1990s, Ingo Swann was tested by Michael Persinger, probing for neural correlates of successful remote viewing performance.10&nbsp; EEG recorded a spike in the 7-Hz range measured from the occipital lobes, while a structural MRI scan revealed unusual activity within the parieto-occipital region of the right hemisphere. Further testing showed that Swann’s remote viewing ability could be enhanced by applying a magnetic field. However, the experiment was marred by a failure to control for selection bias or to evaluate using blinded independent judging.  Precognition Studies  Bierman and Scholte, 2002
-
-Dick Bierman and Steven Scholte probed presentiment effects using fMRI. &nbsp;Ten subjects viewed randomly ordered sequences of emotional and neutral images.11 Female subjects exhibited significant differences in their visual cortex before being exposed to either an erotic or a frightening image, compared to neutral images (p = 0.05). Males showed increased brain activity before erotic images (p = 0.05). Independently, Bierman demonstrated presentiment of erotic images (p = 0.01).12  Lobach, 2006
-
-Dean Radin at the Institute for Noetic Sciences, together with Dutch parapsychologist Eva Lobach, investigated presentiment responses to an impending light flash.13 Recordings of EEG data were made for 20 subjects, each of whom was visually stimulated at random. Female participants demonstrated significant evidence of presentiment (p = 0.007); male participants did not.  Kittenis, 2011
-
-Marios Kittenis, while working as a researcher at Edinburgh’s Koestler Parapsychology Unit, looked for evidence of presentiment in conventional psychology EEG baseline data.14 These experiments involved registering differences in subjects’ EEG between familiar and unfamiliar faces. Kittenis found significant differences in voltage between familiar and unfamiliar faces in the baseline data before the faces were shown (p = 0.01) which he argued is evidence of presentiment and supports the approach of using mainstream data in psi research. Signal analysis further seemed to indicate that these changes in voltage were in the range of the theta: 3-7 Hz, alpha: 8-12 Hz, and low beta: 13-22 Hz, brain wave frequencies.  Tressoldi, 2015
-
-Patrizio Tressoldi and colleagues at the University of Padua probed subjects’ EEG for presentiment effects, using a simplified driving simulation that randomly presented either a car crash or no car crash at the end of each trial.15 Forty participants wired to EEG monitors were asked, first to passively watch the driving simulation, as the baseline condition, then to try to exert control over the car’s speed by using the computer keyboard spacebar to avoid crashing. Tressoldi found statistically significant differences in EEG readings in car crash trials compared to those in no-car crash trials a second before the car crash, providing evidence of an ‘anticipation effect’.
-
-Tressoldi speculates on mechanisms involving quantum mechanics, citing the theoretical proposal by Hameroff and Penrose based on brain microtubules. A fuller understanding might eventually offer the potential for ‘smart cars’ to be fitted with machine-integrated EEG software that alerts drivers to the presence of forthcoming dangers, he suggests.16  Jolij and Bierman, 2017
-
-Jacob Jolij and Dick Bierman, at the University of Groningen in the Netherlands, have looked for precognition effects in subjects’ EEG recordings.17 &nbsp;The subjects are presented in quick succession with ten static images, each lasting 100 ms (a tenth of a second). In the middle of the series the subject is exposed to a screen flash which is either blank or shows a schematic face (drawn in outline). Any prediction of the upcoming stimulus (face or no face) is identified by differences in voltage between the two categories in the pre-stimulus baseline region of the EEG. Jolij’s group has consistently found a prediction accuracy in the 53%-55% range, which is hugely significant statistically given the large number of trials.
-
-The authors note that these studies can be used in mainstream psychology work (for example, the effect of coffee on perceptual accuracy), offering an opportunity for psychology researchers to include psi research in their programs without too much controversy.  Alpha Waves Studies
-
-Psi functioning is thought to be facilitated by the state of wakeful relaxation in which the brain produces alpha waves, neural oscillations in the 8-12 Hz frequency range.&nbsp; This has been investigated in a number of ways.  Honorton, Davidson and Bindler, 1971
-
-Charles Honorton and colleagues selected subjects on the basis of their ability to produce alpha activity and had them participate in a short (20 minute) period of alpha neurofeedback training.18 &nbsp;The experiment was divided into alpha production and suppression trials, and although no significant difference in ESP scoring was found across these two types, scores were slightly higher in the alpha production trials than in the alpha suppression trials.  Stanford and Stevenson, 1972
-
-Rex Stanford at St John’s University in New York examined the alpha measures of subjects carrying out a psi task.19 &nbsp;In two studies the task was forced choice and involved precognition; a third study, in which Stanford was the sole subject, used a free-response method to look at telepathy/clairvoyance. All three showed a significant association between success at the task and shifts toward higher frequency within the alpha band. &nbsp;Stanford considered that this consistency suggests a genuine and robust effect, but to date no direct independent replication has been attempted.  Ramakrishna Rao, 1973
-
-Ramakrishna Rao, then at India’s Andhra University, ran a telepathy study using a selected individual who could control alpha production at will.20 &nbsp;For each trial the subject was asked to either increase or decrease his alpha production before attempting to ‘receive’ the contents of a picture being sent telepathically by a remotely located experimenter. His ESP scores were significantly higher during the alpha-production trials than on the alpha suppression trials (p = 0.05).  Stanford and Palmer, 1975
-
-A free-response EEG-ESP study was conducted by Stanford and John Palmer&nbsp;that used photos as targets. A pre-test exercise was given to subjects to help stimulate a flow of imagery.21 Those who scored above mean chance expectation demonstrated significantly greater alpha density during the image-reception period than those whose scores were at or below mean chance expectation.&nbsp; But no reliable prediction of ESP scoring was found when participants were divided according to whether they exhibited alpha density levels above or below the median density value of the whole participant group. This indicates that psi-task success requires more than alpha rhythm, and that as well as being relaxed the subject must be in an effectively attentional state, the authors reasoned.  Maher, 1986
-
-Michaeleen Maher at City University in New York asked 20 participants to perform two tasks while recording their EEG data.22 In the first, subjects attempted to use psi to perceive target films being played on a television monitor placed in a distant room. The second involved viewing the films directly. EEG patterns revealed significantly more alpha rhythms during the clairvoyance task than during the direct viewing task (p = 0.01).  Sean Harribance
-
-Trinidadian psychic Sean Harribance was extensively tested during the 1960s and 1970s in Western psi laboratories.23&nbsp; In early brain studies, his alpha wave expression during high scoring runs in gender-guessing experiments was frequently found to be eight to nine per cent higher than when he was scoring at chance level.
-
-In a 1997 study, Cheryl Alexander at the Rhine Research Center found concentrations of alpha activity in the occipital and parietal cortex that was not present when Harribance was relaxed during rest periods, an indication that his psi ability is related both to a relaxed state (high alpha activity) and to specialized brain regions.24
-
-Michael Persinger at Laurentian University carried out experiments with Harribance in the late 1990s.25 &nbsp;Photographs of individuals were enclosed in envelopes that remained open at one end, enabling Harribance to slip his hand inside and touch the back, the means by which he seemed to receive his psychic impressions. With each one he gave a reading about the individual’s character and circumstances, which was recorded and later transcribed. Persinger found that accurate descriptions were correlated with high alpha expression in the occipital region (located at the rear of the brain), while inaccurate readings were associated with the lowest alpha activities.
-
-Normative database comparison of Harribance’s EEG spectra to those of the general population revealed possible signs of decreased functioning across some of his brain regions, in particular the occipital, frontal, and temporal lobes.26 &nbsp;This was confirmed by single photon emission computed tomography (SPECT), which provides higher resolution of brain activity.27  RNG Psychokinesis (PK) Studies
-
-The use of quantum-based random generators in parapsychology was pioneered by Helmut Schmidt, a physicist who developed the technology at Boeing in the 1960s.&nbsp; In extensive experiments, Schmidt demonstrated that a motivated subject could marginally influence the machine’s output by mental influence alone. The random number generator (RNG) is now a standard tool for psychokinesis experiments.  Schmidt, 1977
-
-In a study reported by Schmidt, participants connected to an EEG recorder listened to the output of a RNG and were asked to aim for low tones, influencing the machine to produce more 1s than 0s.&nbsp;The output played only when the EEG suggested the subjects were in a relaxed and focused state of mind, as indicated by high alpha expression. PK scoring was very significant (p = 0.001). &nbsp;In the second part of the experiment the RNG was triggered whenever the EEG monitoring device detected beta wave activity. This condition was also significantly correlated with successful PK performance, to roughly the same degree as the alpha condition.28  Heseltine, 1977
-
-In an experiment reported in 1978 by Gary Heseltine, subjects had their EEGs connected to a RNG adapted to randomly stop on either a 1 or a 0 each time the polarity of the subject’s EEG changed from negative to positive or positive to negative.29 &nbsp;Exploiting the subject’s EEG in this fashion caused a significant shift in RNG output from 50.0% to 50.8% (p = 0.014).
-
-A larger replication produced highly significant biasing (p = 0.0004) that was associated with alpha expression (p = 0.0005) and to a lesser degree with beta expression (p &lt; .04).
-
-Heseltine, collaborating with Mayer-Oakes, replicated the earlier findings (p = 0.002), finding a striking association with alpha activity within the right brain hemisphere.30  Honorton and Tremmel, 1979
-
-In a study using biofeedback, Honorton and Tremmel sampled the RNG while participants were engaged in an EEG-alpha biofeedback task, unaware of the machine’s presence.31 (This study can be seen as the earliest version of the implicit field-PK work carried out by Roger Nelson and others, eventually leading to the Global Consciousness Project). RNG data were automatically sampled whenever the participant met pre-established alpha (8-13 Hz) brainwave criteria.
-
-In an initial study with ten participants, these sampled RNG samples revealed significant departures from expected levels of variance at times when the participants were successful at the alpha biofeedback task. In a second experiment with seven participants, the experimenters again found significant results in the alpha-EEG samples during the feedback periods, but chance results during non-alpha EEG sampled RNG periods.  Giroldini, 1991
-
-William Giroldini at the University of Padova tested the ability of 27 volunteers to bias random oscillating circuits, whose output was rendered as a vertical line on a screen.32 Scoring was very significant (p = 0.00001) and was associated with alpha EEG expression.  Morris Freedman
-
-Morris Freedman has conducted research that has shown a strong association between PK influence and frontal lobe damage. He speculates that the reduced self-awareness created by frontal lobe lesions is psi conducive.
-
-Freedman and colleagues carried out a pilot study in six healthy subjects&nbsp;(hospital staff) and six neurological patients who had suffered frontal lobe damage while trying to influence the output of a random event generator. 33&nbsp;No EEG measurements were taken. Significant PK scores (p = .01) were consistently obtained with only one of the neurological patients, who had suffered damage to the left frontal lobe.&nbsp;
-
-In a second major study more than a decade later, Freedman and colleagues attempted to identify specific frontal brain regions that may inhibit psi expression.34 &nbsp;Like the previous research, the experimental task was to influence the output of a random event generator translated into movement of an arrow on a computer screen, either to the right or left. In two participants who showed a significant PK effect in moving the arrow to the right, frontal volume loss was determined using brain MRI (magnetic resonance imaging). &nbsp;The primary area of lesion overlap in both patients was in the left medial middle frontal region, which corresponds closely to frontal lobe brain regions associated with self-awareness.&nbsp; The significant PK effect in moving the arrow to the right was contralateral to the side of the primary lesion overlap. Effect sizes were found to be much larger in participants with frontal lobe damage compared to normal participants.
-
-The experimenters concluded that the medial frontal lobes may act as a biological filter to inhibit psi through mechanisms related to self-awareness. A caveat is that fewer RNG test samples were collected from neurological patients than from other participants, potentially inflating their scores.
-
-To further explore the role of frontal lobe activity in modulating PK expression, Freedman and his mainstream colleagues carried out a pilot study to examine EEG activity in six healthy volunteers as they tried to influence the output of a random event generator.35 As in the previous studies (described above), the machine’s output was translated into the movement of an arrow on a computer screen to the right or left. Because it was assumed the vast majority of arrow movements would be the result of pure chance, only bunches of three or more consecutive arrow movements in the same direction were considered as potentially related to PK ability. Using this rationale as a foundation, Freedman and his colleagues confirmed the existence of a difference in EEG activity in the right frontotemporal region during the one-second interval before the target runs, with a significant effect for right intention (p = 0.0469) and a borderline effect for left intention (p = 0.078). Pending replication, these pilot data suggest that the right frontotemporal region may be part of a network that facilitates PK effects.  Neuroimaging Review
-
-In a 2013 review of functional neuroimaging psi data, Acunzo, Evrard and Rabeyron considered a precognition study and six studies of distant intentionality/telepathy, where a remotely located individual attempts to send information to, or simply focus on, a receiver.36 They found the overall evidential base to be quite high, with only one negative study. However, they concluded that the methodological quality is low and make suggestions for improving experimental rigor: counter-balancing trials, proper randomization, adequate shielding between receiver and outside environment, and higher levels of subject participation in order to achieve sufficient statistical power.
-
-Michael Duggan  Literature
-
-Acunzo, D., Evrard, R., &amp; Rabeyron, T. (2013). Anomalous Experiences, Psi and Functional Neuroimaging. Frontiers in Human Neuroscience&nbsp;7, 893.
-
-Alexander, C.H., Persinger, M.A., Roll, W.G., &amp; Webster, D.L. (1998). EEG and SPECT data of a selected subject during psi tasks: The discovery of a neurophysiological correlate. Proceedings of the 41st Annual Convention of the Parapsychological Association. Durham, NC.
-
-Alexander, C.H. (2000a). Neurophysiological research on an individual experiencing anomalous mental phenomena: A case study. International Journal of Psychophysiology 35, 42-43.
-
-Bierman, D.J. &amp; Scholte, H.S. (2002). Anomalous anticipatory brain activation preceding exposure of emotional and neutral pictures. &nbsp;Proceedings of the 43rd Annual Convention of the Parapsychological Association. Raleigh, NC.
-
-Broderick, D. &amp; Goertzel, B. (eds.) (2015). Evidence for psi: Thirteen empirical research reports. Jefferson, NC: McFarland &amp; Company, Inc.
-
-Broughton, R.S. (1975). Psi and the two halves of the brain. Journal of the Society for Psychical Research 48, 133-47.
-
-Charman, R.A. (2006). Direct brain to brain communication: Further evidence from EEG and fMRI studies. Paranormal Review 40, 3-9.
-
-Charman, R.A. (2009). Identical twins, telepathy, and an experiment to ‘resolve the psi debate’ once and for all. The Paranormal Review 51, 25-31.
-
-Duane, T. D. &amp; Behrendt, T. (1965). Extrasensory electroencephalographic induction between identical twins. Science 150, 367.
-
-Duma, G. M., Mento, G., Manari, T., Martinelli, M. &amp; Tressoldi, P. E. (2017). Driving with Intuition: A Preregistered Study About the EEG Anticipation of Simulated Random Car Accidents. PLoS ONE 12(1)
-
-Freedman, M., Jeffers, S., Saeger, K., Binns, M., Black, S. (2003). Effects of Frontal Lobe Lesions on Intentionality and Random Physical Phenomena. Journal of Scientific Exploration&nbsp;17, 651-68.
-
-Freedman, M., Binns, M., Gao, F., Holmes, M., Roseborough, A., Strother, S., Vallesi, A., Jeffers, S., Alain, C.,&nbsp;Whitehouse, P., Ryan, J. D, Chen, R., Cusimano, M. D., Black, S. E. (2018a). Mind-Matter Interactions and the Frontal Lobes of the Brain: A Novel Neurobiological Model of Psi Inhibition.&nbsp;Explore: The Journal of Science and Healing&nbsp;14. 10.1016/j.explore.2017.08.003.
-
-Freedman, M., Binns, M., Comishen, M., Strother, S., Chen, R., Cusimano, M. D., Black, S. E., Alain, C.&nbsp;(2018b). Mind-Matter Interactions and the Brain: A Pilot EEG Study. Proceedings of the 37th&nbsp;Annual meeting of the Society for Scientific Exploration. Broomfield, CO.
-
-Giroldini, W. (1991). Eccles model of mind-brain interaction and psychokinesis: a preliminary study. Journal of Scientific Exploration 5, 145-61.
-
-Granqvist et al. (2005). Sensed presence and mystical experiences are predicted by suggestibility, not by the application of transcranial weak complex magnetic fields. Neuroscience Letters 379, 1-6.
-
-Heseltine, G. L. (1977). Electronic random number generator operation associated with EEG activity. Journal of Parapsychology 41, 103-18.
-
-Heseltine, G. L. &amp; Mayer-Oakes, S. A. (1978). Electronic random number generator operation and EEG activity: Further studies. Journal of Parapsychology 42, 123-36.
-
-Hinterberger, T. (2009). Searching for neuronal markers of psi: A summary of three studies measuring electrophysiology in distant participants. In C. A. Roe, W. Kramer, &amp; L. Coly (eds.)
-
-Proceedings of an international conference-Utrecht II: Charting the future of parapsychology (46-62). New York: Parapsychology Foundation, Inc. &nbsp;
-
-Honorton, C., Davidson, R. &amp; Bindler, P. (1971). Feedback-augmented EEG alpha, shifts in subjective state, and ESP card-guessing References 115 performance. Journal of the American Society for Psychical Research 65, 308-23.
-
-Honorton, C. &amp; Tremmel, L. (1979). Psi correlates of volition: A preliminary test of Eccles’ “neurophysiological hypothesis” of mindbrain interaction. In W. G. Roll (ed.), Research in parapsychology 1978 (36-38).
-
-Jolij, J.&nbsp;&amp; Bierman, D.&nbsp;(2017).&nbsp;Quantum Retrocausation III.&nbsp;AIP Conference Proceedings 1841.
-
-Kittenis, M., Caryl, P. G. &amp; Stevens, P. (2004). Distant psychophysiological interaction effects between related and unrelated participants. Proceedings of the 47th Annual Convention of the Parapsychological Association (67-76). Raleigh, NC: Parapsychological Association.
-
-Kitennis, M. (2011).&nbsp; Anomalous anticipatory event-related EEG activity in a face recognition task. Proceedings of the 54th&nbsp;conference of the Parapsychological Association.
-
-Kittenis, M., Caryl, P. G. &amp; Stevens, P. (2004). Distant psychophysiological interaction effects between related and unrelated participants. Proceedings of the 47th Annual Convention of the Parapsychological Association. Raleigh, NC: Parapsychological Association.
-
-Maher, M. (1986). Correlated hemispheric asymmetry in the sensory and ESP processing of ‘emotional’ and ‘nonemotional’ stimuli. European Journal of Parapsychology 6, 217-57.
-
-Morris, R. L., Roll, W. G., Klein, J. &amp; Wheeler, G. (1972). EEG patterns and ESP results in forced-choice experiments with Lalsingh Harribance. Journal of the American Society for Psychical Research 66, 253-67.
-
-Maij, D. L. R., &amp; van Elk, M. (2018). Getting absorbed in experimentally induced extraordinary experiences: Effects of placebo brain stimulation on agency detection. Consciousness &amp; Cognition 66, 1-16.
-
-Moulton, S. T. &amp; Kosslyn, S. M. (2008). Using neuroimaging to resolve the psi debate. Journal of Cognitive Neuroscience 20, 182-92.
-
-Persinger, M. A., Roll, W.G.,&nbsp;Tiller, S.G., Koren, S.A., Cook, C.M. (2002). Remote viewing with the artist Ingo Swann: neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI), and possible mechanisms.&nbsp;Perceptual and Motor Skills&nbsp;94/3, 927-49.
-
-Puthoff, H. E., &amp; Targ, R. (1976). A perceptual channel for information transfer over kilometer distances: Historical perspective and recent research. Proceedings of the IEEE 64, 329-54.
-
-Radin, D. &amp; Lobach, E. (2006). Presentiment in the brain. In Proceedings of the 49th Annual Convention of the Parapsychological Association (164-75). Petaluma, CA: Parapsychological Association.
-
-Rao, K. R. &amp; Feola, J. (1973). Alpha rhythm and ESP in a free-response situation. In W.G. Roll, R.L. Morris, &amp; J.D. Morris (eds.) Research in Parapsychology (141-44). Metuchen, NJ: Scarecrow Press.
-
-Richards, T., Kozak, L., Johnson, C., Standish, L. (2005). Replicable Functional Magnetic Resonance Imaging Evidence of Correlated Brain Signals Between Physically and Sensory Isolated Subjects.&nbsp;Journal of Alternative and Complementary Medicine&nbsp;11, 955-63.
-
-Roll, W. G., Persinger, M. A., Webster, D. L., Tiller, S. G., Cook, C. M. (2002). Neurobehavioural and neurometabolic (SPECT) correlates of paranormal information: Involvement of the right hemisphere and its sensitivity to weak complex magnetic fields. International Journal of Neuroscience 112, 197-224.
-
-Schmidt, H. &amp; Terry, J. C. (1977). Search for a relationship between brainwaves and PK performance. In J.D. Morris, W.G. Roll, &amp; R.L. Morris (ed.), Research in Parapsychology 1976 (30-32). Metuchen, NJ: Scarecrow Press.
-
-Standish, L.J., Johnson, L.C., Kozak, L. &amp; Richards, T. (2003). Evidence of correlated functional magnetic resonance imaging signals between distant human brains. Alternative Therapies in Health and Medicine 9, 122-28.
-
-Standish, L., Kozak, L., Johnson, C., Richards, T. (2004). Electroencephalographic Evidence of Correlated Event-Related Signals Between the Brains of Spatially and Sensory Isolated Human Subjects.&nbsp;Journal of Alternative and Complementary Medicine&nbsp;10, 307-14.
-
-Standish, L.J., Johnson, L.C., Kozak, L., &amp; Richards, T. (2003). Evidence of correlated functional magnetic resonance imaging signals between distant human brains. Alternative Therapies in Health and Medicine 9, 122-28.
-
-Stanford, R.G. (1971). EEG alpha activity and ESP performance: A replicative study. Journal of the American Society for Psychical Research 65, 144-54.
-
-Stanford, R. (2006). Making sense of the extrasensory-Modeling receptive psi using memory-related concepts. European Journal of Parapsychology 21, 122-47.
-
-Stanford, R.G. &amp; Lovin, C. (1970). EEG alpha activity and ESP performance. Journal of the American Society for Psychical Research 64, 375-84.
-
-Stanford, R.G. &amp; Palmer, J. (1975). Free-response ESP performance and occipital alpha rhythms. Journal of the American Society for Psychical Research 69, 235-43.
-
-Stanford, R.G. &amp; Stanford, B.E. (1969). Shifts in EEG alpha rhythm as related to calling patterns and ESP run-score variance. Journal of Parapsychology 33, 39-47.
-
-Stanford, R.G. &amp; Stevenson, I. (1972). EEG correlates of free response GESP in an individual subject. Journal of the American Society for Psychical Research 66, 357-68.
-
-Stanford, R.G. (1971). EEG alpha activity and ESP performance: A replicative study. Journal of the American Society for Psychical Research 65, 144-54.
-
-Stanford, R. (2006). Making sense of the extrasensory-Modeling receptive psi using memory-related concepts. European Journal of Parapsychology 21, 122-47.
-
-Targ, R. &amp; Puthoff, H. (1976). A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research. Proceedings of the IEEE 64, 3.
-
-Torkelson, C., Sweet, E., Martzen, M., Sasagawa, M., Wenner, C.,&nbsp;Gay, J., Standish, L. (2012). Phase 1 Clinical Trial of Trametes versicolor in Women with Breast Cancer.&nbsp;ISRN Oncology&nbsp;12, 1-7.
-
-Tressoldi, P., Pederzoli, L., Bilucaglia, M., Caini, P., Fedele, P., Ferrini, A., Melloni, S., Richeldi, D., Richeldi, F., Accardo, A. (2014). Brain-to-Brain (mind-to-mind) interaction at distance: a confirmatory study. F1000Research. 10.12688
-
-Wackermann, J., Seiter, C., Keibel, H. &amp; Walach, H. (2003). Correlations between brain electrical activities of two spatially separated human subjects. Neuroscience Letters 336, 60-64.
-
-Warren, C. A., McDonough, B.E. &amp; Don, N.S. (1992a). Event-related brain potential changes in a psi task. Journal of Parapsychology 56, 1-30.
-
-Warren, C.A., McDonough, B.E. &amp; Don, N.S. (1992b). Partial replication of single subject event-related potential effects in a psi task. Proceedings of the 35th Annual Convention of the Parapsychological Association. Durham, NC.
-
-Williams, B.J. &nbsp;(2015). Psychic Phenomena and the Brain: Exploring the Neuropsychology of Psi Gladesville, NSW, Australia: Australian Institute of Parapsychological Research.
-
-Varvoglis, M.P. &amp; McCarthy, D. (1986). Conscious-purposive focus and PK: RNG activity in relation to awareness, task-orientation, and feedback. Journal of the American Society for Psychical Research 80, 1-29.
-
-Venkatasubramanian, G., Jayakumar, P.N., Nagendra, H.R., Nagaraja, D.D.R., &amp; Gangadhar, B.N. (2008). Investigating paranormal phenomena: Functional brain imaging of telepathy. International Journal of Yoga 1, 66-71.
-
-White, R. A. (1964). A comparison of old and new methods of response to targets in ESP experiments. Journal of the American Society for Psychical Research 58, 21-56.   Endnotes 1. Duane &amp; Behrendt (1965). 2. Targ &amp; Puthoff (1976). 3. Kittenis et al (2004). 4. Standish et al (2004). 5. Standish et al (2005). 6. Moulton &amp; Kosslyn (2008). 7. Hinterberger (2009). 8. Tressoldi et al (2015). 9. Venkatasubramanian et al (2008). 10. Persinger et al (2002). 11. Bierman &amp; Scholte (2002). 12. Bierman &amp; Scholte, (2002). 13. Radin &amp; Lobach (2006). 14. Kittenis (2011). 15. Tressoldi et al (2014). 16. Tressoldi (personal communication, September 2018). 17. Jolij &amp; Bierman (2017). 18. Honorton et al (1971). 19. Stanford &amp; Stevenson (1972). 20. Rao &amp; Feola (1973). 21. Stanford &amp; Palmer (1975). 22. Maher (1986). 23. Morris et al (1972). 24. Alexander (2000). 25. Persinger et al (2002). 26. Alexander (2000). 27. Persinger et al (2002). 28. Schmidt &amp; Terry (1977). 29. Heseltine (1977). 30. Heseltine &amp; Mayer-Oakes (1978). 31. Honorton &amp; Tremmel (1979). 32. Giroldini (1991). 33. Freedman (2003). 34. Freedman et al (2018a). 35. Freedman et al (2018b). 36. Acunzo et al (2013).           			  			     			This page was last updated on: March 15, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 4,900 Created: 14th March 2022 Last updated: 15th March 2022 May be cited as:Duggan, M. (2022). &lsquo;The Brain and Psi&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/brain-and-psi&gt;. Retrieved 12 January 2024. Short URL:www.tinyurl.com/yclylmre                   	                                                                              
-
-                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
-
-Visit the Society for Psychical Research                
-
-[1] https://psi-encyclopedia.spr.ac.uk/articles/brain-and-psi
+{"type":"link","mylink":"http:\/\/www.iapsop.com\/archive\/materials\/licht_des_jenseits\/licht_des_jenseits_v2_n12_dec_1867.pdf","mytitle":"Licht Des Jenseits V2 N12 Dec 1867","mylang":"de"}
+Licht des Jenſeits
+oder
+Blumenleſe aus dem Garten des Spiritismus.
+Eine Zeitſchrift
+n für
+ſpiritiſche Studien.
+II. Jahrgang. Nr. 12. December 1867.
+Einige allgemeine Worte über den Spiritismus, die Spiriten
+und die ſpiritiſchen Geſellſchaften.
+Än der erfreulichen Ausſicht, welche, wie wir es letzthin ſchon
+erwähnten, aus den freiſinnigen Beſtimmungen des neuen Vereins
+und Verſammlungs-Geſetzes für eine freiere Entwicklung und Ver
+breitung der geiſtigen Thätigkeit des Menſchen entſteht und ſich unſeren
+heißeſten Wünſchen öffnet, in der auf unſerem ſtets gehegten Streben
+Gutes zu thun gegründeten Hoffnung, bald den ſpiritiſchen Forſchungen
+das bis jetzt zu beengte Feld nach Bedürfniß der gegenwärtig empor
+ſtrebenden Intelligenz erweitern zu dürfen, glauben wir es für rathſam,
+auf einen hier noch zu wenig bekannten und beſonders zu wenig ge
+würdigten Gegenſtand mit einigen klaren Worten die Aufmerkſamkeit
+der denkenden Welt richten zu müſſen.
+Wir wollen alſo ſkizzenweiſe das andeuten, was der Spiritis
+mus, was die Spiriten, was die ſpiritiſchen Geſellſchaften ſind. -
+Der Spiritismus iſt ein Glaube, eine Experimental
+Wiſſenſchaft, und eine moraliſche Lehre.
+Als Glaube erſcheint er zu allen Zeiten und bei allen Völkern.
+Die Geſchichte lehrt, daß alle Menſchen, von den ungebildetſten bis
+zu den cultivirteſten an das Beſtehen überirdiſcher Weſen geglaubt
+haben, die mit den Menſchen in Verkehr ſtanden; ſie weiſet auf
+23
+zahlreiche Erſcheinungen hin, die dieſen Glauben beſtätigen und die
+man um ſo weniger rundweg ableugnen kann, als ſie von ſonſt
+glaubwürdigen Männern behauptet und uns von geſchätzten Schrift
+ſtellern als wahr überliefert worden ſind.
+Wir geſtehen gern zu, daß unter den mythologiſchen Ueberlieferun
+gen der Alten, den Legenden des Mittelalters und den gegenwärtigen
+Volkserzählungen und Spukgeſchichten viel, ſogar ſehr viel auf
+Rechnung der Phantaſie und des Aberglaubens geſetzt werden kann,
+ohne auch andere geſchichtliche Momente zu vergeſſen, wo gewiſſe
+Intereſſen ſich mit der Verbreitung und Erhaltung des Uebernatür
+lichen gerne und vortheilhaft beſchäftigten. Das aber, daß man eine
+Sache übertreibt, beweiſt in keinem Falle, daß ſie nicht exiſtirt, eher
+das Gegentheil; beſonders wenn es ſich um einen ſo allgemein ver
+breiteten Gegenſtand, wie den dieſes Glaubens, handelt.
+Und wenn auch die, beſonders in unſerer Zeit, ſehr zahlreiche
+Schule der Realiſten und Materialiſten den Glauben an das, was
+man übernatürliche Weſen nennt, weil er in ihren materiellen Rahmen,
+in den ſie, glücklicherweiſe aber vergebens, die ganze Natur ſperren
+möchten, nicht paſſen will, rundweg als Lug und Trug brandmarken
+und leugnen, ohne ſich ja, da ſie als Gelehrte gelten wollen, an
+gewiſſe Sprüche ihres Gleichen, wenn nicht ihrer Meiſter
+im Wiſſenſchaftlichen zu erinnern. Wie zum Beiſpiele:
+„Noch jetzt gilt von den Gelehrten, was vor Zeiten gegolten:
+daß ſie die Schlüſſel der Erkenntniß weggeworfen, und, ſelbſt nicht
+hineinkommend, den Andern hineinzukommen wehren.“ Schelling.
+„Das Allervorzüglichſte, was hervortritt, das Allermerkwür
+digſte, was begegnet, wird ſo lange verneint, als nur möglich iſt.
+Dieſer Wahnſinn unſerer Zeit iſt auf alle Fälle ſchlimmer, als wenn
+man das Außerordentliche, weil es einmal geſchah, gezwungen zugab
+und dem Teufel zuſchrieb.“ Göthe.
+„Eine vornehm thuende Zweifelſucht, welche Thatſachen ver
+wirft, ohne ſie ergründen zu wollen, iſt in einzelnen Fällen noch ver
+derblicher, als unkritiſche Leichtgläubigkeit. Beide hindern die Schärfe
+der Unterſuchung.“ - A. v. Humboldt.
+„Dem fehlt es an Klugheit, welcher außer der reinen Mathe
+matik das Wort „unmöglich“ ausſpricht.“ Arago.
+Es ſind das kluge Worte, die unſere weiſen Leugner wohl
+kennen und auf ſich anwenden ſollten!
+– 355 –
+Unterdeſſen iſt dieſer Glaube an überirdiſche Weſen, die ſich
+mit den Menſchen in Verkehr ſetzen können, zu einer wahren Ex
+perimentalwiſſenſchaft geworden.
+Der Spiritismus glaubt nicht nur an die Möglichkeit dieſes
+Verkehrs, ſondern er beweiſet die Wirklichkeit desſelben. Er erforſcht
+nicht nur die Geſetze, nach welchen dieſe Erſcheinungen ſtattfinden,
+ſondern auch die Natur der ſich kundgebenden Weſen; und ſo nimmt
+jetzt dasjenige, was früher in dem unbegreiflichen Bereiche der Wun
+der ſtand, unter den natürlichen Thatſachen ſeinen Platz ein.
+Dieſe Erkenntniß beſchränkt aber ihre Wirkſamkeit nicht darauf,
+eine beſondere ſpiritiſche Wiſſenſchaft geworden zu ſein, ſie ſoll auch,
+vermöge der Allgemeinheit ihres geiſtigen Urſprunges, auf alle andern
+Wiſſenſchaften einen thätigen Einfluß üben, indem ſie denſelben einen
+größeren Raum zu eröffnen oder eine Gewißheit zu verleihen ver
+ſpricht, deren ſie bisher noch entbehrten.
+Die Phyſik wird vielleicht durch die Kenntniß von dieſen äthe
+riſchen Kräften und ihrer fluidiſchen Natur, einiges annäherndes
+Licht über das Weſen der Imponderabilien erhalten. Die Chemie
+könnte etwa auf der Fährte der von einigen Gelehrten ſchon geahnten
+Einheit der Elemente einen Schritt weiter thun.
+Die Phyſiologie könnte möglicherweiſe durch eine tiefere Ein
+ſicht in die Natur des belebenden Princips manche noch dunkel ge
+bliebene Lebenserſcheinungen erhellen. Die Geſchichte könnte durch
+ehemals körperlich, jetzt aber noch geiſtig lebende Perſönlichkeiten hie
+und da Winke zu Zurechtweiſungen und Ergänzungen lücken- oder
+lügenhafter Daten erhalten. Die Philoſophie könnte aus einer klareren
+Kenntniß der Natur des Menſchen manche hypothetiſche Prämiſſen
+beſtätigen oder ſie durch beſtimmtere erſetzen, und ſo für ihre wei
+teren Schlüſſe einen feſteren und ſicherern Boden gewinnen.
+Die Pſychologie und die Theologie ſelbſt möchten über die
+Kräfte der Natur und die geiſtigen Weſen, deren Gegenſtand ſie ſind,
+gar viel neues in Betreff der Entſtehung, der Entwickelung und des
+Zweckes derſelben Weſen und Dinge hören.
+Aus dem ernſten Erforſchen aller Punkte, die wir hier nur
+flüchtig berührt, iſt nicht nur eine thatſächliche ſpiritiſche Wiſſenſchaft
+geworden, ſondern auch vermöge der Beſtimmtheit ihrer Angaben in
+Betreff des höchſten Weſens, der Natur unſeres geiſtigen Ich's und
+ſeiner Beſtimmung nach dem Tode, ſowie der beruhigenden Ueber
+23*
+– 356 –
+zeugung, die daraus erfolgt, vereint mit den Mittheilungen und
+Belehrungen, die uns von höheren jenſeitigen Intelligenzen zu Theil
+geworden ſind, eine moraliſche Lehre entſtanden, die ſich, da ſie
+nur auf allgemeinen Grundſätzen ruht, für alle Menſchen ohne
+Rückſicht auf religiöſe Verſchiedenheiten paßt und ſie alle ohne Scheide
+wand zur wahren Brüderlichkeit einladet.
+Dieß iſt kurzgefaßt der Gegenſtand und der Zweck des Spiri
+tismus. Sehen wir jetzt, was die Spiriten ſind.
+Spiriten nennt man jene, die an die Exiſtenz außerkörper
+licher Weſen und an ihren möglichen Verkehr mit den Menſchen
+glauben, ſich mit den medianimiſchen Kundgebungen und den Grund
+ſätzen, nach welchen ſie ſtattfinden, beſchäftigen und beſonders ihr
+Leben nach den erwähnten moraliſchen Lehren einrichten.
+Wenn der erſte dieſer drei Punkte die nothwendige Vorbedin
+gung bei einem Spiriten iſt, weil man ſtets die Möglichkeit eines
+Gegenſtandes voraus ſetzt, bevor man denſelben ernſt zu verfolgen
+beginnt, ſo bildet aber der dritte den Hauptcharakter eines wahren,
+vollkommenen Spiriten, indem er durch denſelben allein die Würde
+eines ſolchen erhält. -
+Der erſte Punkt dient als Grundlage für die Forſchungen, der
+zweite bietet die Mittel zum Zwecke, der dritte iſt die Sanction des
+Ganzen.
+Wie logiſch dieſe Stufenleiter ſein mag, ſo unlogiſch zeigen ſich
+aber auch manchmal viele Menſchen, daß ſie ſich lieber in einem
+vagen, unbewußten, aber bequemen Glauben wiegen, als ſich nach
+der Ueberzeugung deſſen, was ſie glauben, zu beſtreben. Sie begnügen
+ſich, am Fuße der Leiter in dem dunkeln Bereiche der Leichtgläubig
+keit, des ſchwärmeriſchen Aberglaubens und des Wunders zu bleiben,
+für diejenigen zitternd, die den Muth haben, den lichten Weg zum
+Bewußtſein und zur Aufklärung zu betreten. Dieſe gehören nicht zu
+den Spiriten, wollen auch nicht zu denſelben gehören, weil ſie bei
+ihren trüben Augen das hohe Licht der Wahrheit, wo die Leiter hin
+reicht, für die ſchreckerregende, trügeriſche Leuchte der Hölle, den Stern
+der Vernunft für die Fackel des Teufels halten.
+Nur diejenigen, deren Glaube den vernünftigen Gebrauch der
+Ueberlegung und des Forſchens nicht ausſchließt, können auf den
+Namen Spiriten einen Anſpruch machen, der jedoch nur dann vollgiltig
+werden kann, wenn ſie den ſpiritiſchen Boden mit ernſtem und kon
+– 357 –
+ſequentem Schritte durchwandeln; d. h. wenn ſie nicht dadurch eine
+bloße Neugierde zu befriedigen ſtreben, ſondern den wahren, eifrigen
+Wunſch nach Erkenntniß hegen und beſonders die moraliſchen Folgen
+dieſer Erkenntniß auf ſich ſelbſt anwenden.
+Es gibt aber auch ſolche unter den eifrigen Adepten des Spi
+ritismus, denen es an einem folgerichtigen ſtets vorwärtsſtrebenden
+Sinn fehlt, und die ſich auf halbem Wege mit dem bloßen Experi
+mentiren beſchäftigen; für ſie liegt der ganze Spiritismus in phyſi
+ſchen Erſcheinungen und medianimiſchen Kundgebungen, die ſie am
+höchſten ſchätzen, wenn ſie am auffallendſten ſind.
+Das ſind auch nicht die wahren Vertreter des Spiritismus,
+obwohl ſie ſich gerne überall als ſolche geben; ſie ſind höchſtens die
+Vorbereiter, die Zettelanſchläger deſſelben.
+Wohl aber ſind auf den Namen „Spirit“ anſpruchsfähig
+jene aufgeklärten Männer, die ohne ſich mit productionsmäßigen Er
+ſcheinungen unterhalten zu wollen, ſolche geiſtige Thatſachen fleißig
+unterſuchen und kritiſch prüfen, um daraus neue Daten zu ſchöpfen,
+die zu geſetzmäßigen Erklärungen derſelben und folglich zu wiſſen
+ſchaftlichen Reſultaten führen.
+Sie hüten ſich weiſe, ſolche auffallende Kundgebungen unbe
+dachtſam hervorrufen zu wollen; ſie wiſſen ja wohl, daß man ſie
+nicht nach Gutdünken entſtehen laſſen kann, und daß die Geiſter, die
+hohen beſonders, ſich ſelten nach unſern Beſtimmungen fügen, weil
+ſie beſſer als wir über die Schicklichkeit derſelben zu urtheilen wiſſen.
+Dieſe Beſtätigung der Thatſachen, dieſes Erforſchen der Ge
+ſetze, nach welchen ſie ſtattfinden, die logiſchen Deductionen, die dar
+aus erfolgen, dies Alles, womit der ernſte Spirite ſich mit Eifer
+befaßt und was das ſpiritiſche Weſen zu einem unwiderleglichen
+wiſſenſchaftlichen Beweiſe erhebt, und ihm auf die Beachtung der
+vorurtheilsfreien Forſcher berechtigte Anſprüche gibt, wird doch von
+dieſem Standpunkte der Evidenz, die der Spiritismus dadurch erhält
+und die ihm eine, den anderen Wiſſenſchaften ebenbürtige Bedeutung
+verleiht, von den tiefüberzeugten menſchenfreundlichen frommen Spi
+riten auch nur als Mittel zum Zweck betrachtet.
+Die Ueberzeugung, welche für die ſpiritiſchen Forſcher aus allen
+ſeinen Beobachtungen erfolgt, geht logiſcherweiſe dahin zu beweiſen,
+daß dieſe ſo verſchieden beurtheilten Kräfte, die ſich in den ſpiritiſchen
+Erſcheinungen kundgibt, wirkliche, intelligente, perſönliche Weſen ſind;
+– 358 –
+und daß dieſe Weſen, nach dem, was ſie uns über ihre Natur ſelbſt
+offenbaren, nichts anders ſind, als die Seelen der verſtorbenen ir
+diſchen Menſchen.
+Dieſe geiſtigen Weſen geben nicht nur über ihre Natur Aus
+kunft, ſondern auch über ihr jenſeitiges Leben, ihre Freuden und
+Leiden, ſowie über die natürlichen Beziehungen, die zwiſchen dem
+Diesſeits und dem Jenſeits beſtehen, und die gegenſeitigen Urſachen,
+die den allgemeinen Fortſchritt zu befördern oder zu hemmen vermö
+gen, und in Folge deſſen einen nothwendigen, mächtigen Einfluß auf
+unſer dies- und jenſeitiges Glück und Unglück ausüben.
+Dieſe Ueberzeugung, ſagen wir, zu der der aufgeklärte
+Spirit ebenſowohl mittelſt ſeiner eigenen Forſchungen als durch die
+ihm aus dem Jenſeits mitgetheilten Belehrungen gelangt, daß ſein
+innewohnendes, thätiges Weſen mit dem Tode nicht zu Grunde geht,
+ſondern ſich zu einem ſtets höheren Zwecke, je nach Verdienſt oder
+Verſchuldung, aber ſchneller oder langſamer, zu entwickeln und zu
+vervollkommnen vermag, führt ihn noth wendigerweiſe zu feſten
+moraliſchen Schlüſſen, wie ſie ein ſchwankender, blinder Glaube ihm
+unmöglich eingeflößt hätte, und welchen gemäß er von nun an ſeinen
+ganzen Lebenswandel einrichtet.
+Dieſe überzeugende Erkenntniß verleiht endlich dem Spiriten
+die höchſte Weihe, indem ſie ihn auf eine ſichere Weiſe nach den
+reinſten und erhabenſten Tugenden zu leben lehrt.
+Er erkennt zuerſt den mächtigen Urheber des Alls, den ge
+rechten Lenker aller Weſen, und dieſe erſte Erkenntniß, welche jede
+Betrachtung der Natur, jedes Forſchen nach ihren Geſetzen nur noch
+jeden Tag vervollſtändigen kann, flößt ihm Demuth und Liebe ein.
+– Er kennt ſeinen eigenen Urſprung und das Endziel ſeines Da
+ſeins, daher ſeine Beſcheidenheit und ſeine Würde. – Er begreift
+die Stelle, die er in der Schöpfung einnimmt, und die harmoniſchen
+Beziehungen, welche ihn mit den anderen Weſen verbinden; und dem
+gemäß ſtrebt er nach gewiſſenhafter Erfüllung aller ſeiner Pflichten,
+während er den Rechten Anderer eine würdigere Beachtung zollt.
+– Die anerkannte Solidarität, die alle intelligenten Weſen in dem
+gemeinſamen Werke der Schöpfung verbindet, ladet den vom hellen
+Lichte der Wahrheit erleuchteten, von der feurigen Glut der Liebe
+durchdrungenen Spiriten zur ſteten Ausübung der Nächſtenliebe und
+der allgemeinen Brüderlichkeit ein.
+– 359 –
+So ſind und ſo handeln die aufgeklärten, eifrigen Spiriten,
+und ſo ſollen Alle zu ſein trachten: Freunde des Lichtes, Verkünder
+der Wahrheit!
+Und jetzt, was können die ſpiritiſchen Geſellſchaften ſein?
+Nach dem, was von dem Weſen des Spiritismus und dem
+Charakter der Spiriten geſagt wurde, iſt es nicht mehr ſchwer, zu
+errathen, was uns über die ſpiritiſchen Geſellſchaften noch zu
+ſagen bleibt, da eine Geſellſchaft ihren Charakter von dem Zwecke,
+den ſie verfolgt, und von dem Geiſte, der die Mitglieder derſelben
+beſeelt, erhält.
+Da aber der Gegenſtand des Spiritismus ein ernſter iſt und
+das Streben der Spiriten ein wiſſenſchaftliches und beſonders mora
+liſches ſein ſoll, ſo folgt natürlich daraus, daß jede wahrhaft ſpiri
+tiſche Geſellſchaft nur ernſte, friedliche, wiſſenſchaftliche,
+moraliſche Elemente enthalten kann.
+Zuerſt entfernt natürlicherweiſe der edle Zweck, der bei der Be
+gründung einer ſolchen Geſellſchaft verfolgt wird, jeden Gedanken
+materieller Intereſſen und zugleich alle Diejenigen, die aus dem
+Spiritismus ein Geſchäft machen wollten.
+Dann alle diejenigen, die der Oberflächlichkeit ihres Charakters
+wegen nur darin eine Unterhaltung oder die Befriedigung einer eitlen
+Neugierde ſuchen könnten.
+Weiter, alle diejenigen, die durch ſyſtematiſche Anſichten oder
+vorgefaßte Meinungen, die zum gemeinſamen Streben nach Wahrheit
+unentbehrliche Eintracht und Ruhe ſtören oder bedrohen würden.
+Wenn einmal alle dieſe egoiſtiſchen Elemente durch ſtrenge Maß
+regeln bei der Aufnahme ihrer Mitglieder ferne gehalten ſein werden,
+dann können alle Intelligenten, Moralliebenden, die ſich zu dem er
+wähnten erhabenen Zwecke, die Wahrheit zu ſuchen und zu verbrei
+ten, vereinigen, ruhig und ungehindert zu Werke gehen.
+Die unter ſolchen Bedingungen gegründeten ſpiritiſchen Vereine
+oder Geſellſchaften haben dann drei Hauptpunkte: einen wiſſenſchaft
+lichen, einen religiöſen, einen moraliſchen, zu berückſichtigen.
+In Betreff des erſten Punktes werden ſie, nicht allein durch die
+Angaben der Geiſter, ſondern auch durch vernunftmäßige Schlüſſe über
+die Möglichkeit und die Thatſächlichkeit der ſpiritiſchen Kundgebungen
+zu urtheilen haben, jene nach ſubjectiver Erkenntniß des ungenügenden
+menſchlichen Wiſſens ſo beſcheiden als möglich anzunehmen, dieſe, nach
+– 360 –
+objectiver kritiſcher Unterſuchung, vorurtheilsfrei entweder als wirklich
+zu beſtätigen oder als irrthümlich zu verwerfen, dann die Geſetze, nach
+denen dieſe Thatſachen ſtattfinden, zu ergründen und ſie den ſchon
+wiſſenſchaftlich anerkannten Naturgeſetzen anzureihen, endlich dasDaſein
+dieſer neuen Geſetze durch eine innige Anſchauung der Natur und tiefe
+forſchende Betrachtungen ihres thätigen Lebens darzuthun ſuchen.
+In Beziehung auf den religiöſen Punkt haben die ſpiritiſchen
+Geſellſchaften ſich zuerſt mit dem Gedanken an Gott, als nothwen
+digen Urheber des Alls, dann mit dem Glauben an die Fortdauer der
+Menſchenſeele und an ein jenſeitiges Leben, endlich mit dem Daſein
+der Geiſter und ihrer Wirkſamkeit in der Natur zu beſchäftigen.
+Alle dieſe Fragen werden, wenn ſie mit Aufrichtigkeit, ohne vor
+gefaßte Meinungen, noch confeſſionelle Vorurtheile und nur in der reinen
+Abſicht, die Wahrheit zu erforſchen, erörtert werden, ſicher zu der
+erfreulichen Beſtätigung führen, daß dieſer ahnungsartige Glaube an
+einen Gott, an unſere Seele und an ein Jenſeits nicht nur als voll
+kommen richtig anerkannt ſein ſoll, ſondern daß der oft zu ſchwan
+kende Glaube durch die jetzt bewieſenen Thatſachen der geiſtigen Kund
+gebungen und die daraus erfolgten Belehrungen zu einer unerſchütter
+lichen Ueberzeugung erhoben wird, einer Ueberzeugung, die von nun
+an die allgemeine Baſis der Moral bildet, indem ſie aus dem nega
+tiven, unthätigen Charakter, den der Zweifel ihr zu oft einprägte,
+einen thätigeren, überzeugteren, wirkſameren macht.
+Nach dem, was wir jetzt erwähnt haben, wird es nicht mehr
+den ſpiritiſchen Geſellſchaften ſchwer ſein, den drittgegebenen Punkt zu
+erledigen, wenigſtens was die Grundſätze betrifft, welche wie von ſich
+ſelbſt aus den bisher erworbenen Erkenntniſſen fließen, wohl aber
+um dieſe Grundſätze zur thätigen Verwirklichung von Seite aller
+ihrer Mitglieder zu bringen. Und doch ohne dieſe letzte Bedingung
+erfüllt zu haben, kann der Spiritismus, die Spiriten und die ſpiri
+tiſchen Geſellſchaften auf etwas für die Menſchheit wahrhaft Erſprieß
+liches, keinen Anſpruch erheben; ſie werden eben dieſes edle Ziel er
+reichen können, wenn ſie dasſelbe als ihre höchſte Aufgabe hinſtellen,
+und die Verwirklichung der Moral als die Krone des, zum Ruhme
+Gottes, zur Ehre der Wahrheit und zum Glück des Menſchen neu zu
+erhebenden ſpiritiſchen Gebäudes der Zukunft mit allem Eifer, aller
+Beſtändigkeit und Aufopferung verfolgen, und ſtets des ſpiritiſchen
+Motto's: „Außer der Nächſtenliebe kein Heil“ eingedenk bleiben.
+– 361 –
+Mirette, von Elie Sauvage.
+(Fortſetzung. – Siehe das 11. Heft 1867.)
+II.
+Lucien's Eltern hatten ein großes Bäckergeſchäft im Stadt
+viertel der Markthallen. Obwol es noch kaum 6 Uhr war, fand
+Lucien ſeine Mutter doch bereits im Laden. Sie war eben damit
+beſchäftigt, den Geſellen die friſchgebackenen Brode aller Art und
+Größe aus der Hand zu nehmen und auf die Geſtelle zu legen,
+nachdem ſie jedes derſelben vorher genau beſichtigt hatte.
+– Da giebt's ſchon wieder zwei verbrannte! Das iſt unaus
+ſtehlich. Da ſieht man freilich, daß der Herr nicht zu Hauſe iſt. –
+Die kommen auf Deine Rechnung . . . .
+Ein Weib, das man an ihrer großen blauen Blouſe als Brot
+austrägerin erkannte, half der Frau Morel bei ihrer Arbeit. Ge
+ſchäftig hin und hergehend richtete die Bäckermeiſterin manchmal
+einige Worte an eine arme ſchwarz gekleidete Frau, welche traurig
+und niedergeſchlagen vor ihr ſtand. Ihr ganzes Aeußere trug den
+Stempel des tiefen, aber unverſchuldeten und geduldig ertragenen
+Elendes an ſich.
+– Sie ſchulden mir ſchon 15 Franken, ich kann Ihnen jetzt
+nichts mehr borgen.
+– Haben Sie nur noch einige Tage Geduld . . . . Eine
+mildthätige Frau hat mir Arbeit verſprochen, ſie wird mich gewiß
+gut bezahlen. -/
+– Ja, rechnen Sie nur darauf und einſtweilen können Sie
+Steine kochen!
+– Frau Bäckerin, wenn den Unglücklichen nicht einmal die
+Hoffnung bliebe, das wäre ja ſchrecklich.
+– Ich kann Ihnen nur Eines ſagen: zahlen Sie mir, was
+Sie mir ſchuldig ſind, und dann werde ich Ihnen wieder creditiren.
+– Hätte ich nicht arme kleine Kinder . . . .
+– Thut mir ſehr leid, jeder ſorgt für ſich. -
+– Und Gott fürAlle, antwortete die Wittwe, und ging ihrerWege.
+In dem Ausdrucke dieſer Frau lag ſo tiefer Kummer, daß
+Lucien dadurch auf's tiefſte gerührt wurde . . . . Er holte ſie auf
+der Straße ein und drückte ihr ein 5 Franken Stück in die Hand:
+– 362 –
+– Das iſt für Ihre Kinder, liſpelte er ihr zu und lief ſchnell
+zurück, als hätte er etwas Böſes gethan.
+Marguerite, die Brotausträgerin, hatte Lucien nicht aus den
+Augen verloren.
+– Frau Morel, Herr Lucien hat der Wittwe ſoeben Geld
+gegeben.
+– Der Junge wird uns noch an den Bettelſtab bringen, wenn
+wir nicht gut Acht geben.
+Lucien kam in den Laden zurück und umarmte ſeine Mutter.
+– Du fängſt recht zeitlich in der Frühe mit deinen Almoſen
+an, mein Sohn.
+– Ich denke, Mutter, die Armen haben ſchon in der Frühe
+Hunger . . . . und namentlich die kleinen Kinder . . . .
+– Der bleibt ihnen noch vom Vorabend übrig, bemerkte Mar
+guerite, welche aus Erfahrung wohl wußte, daß ſich in Paris viele
+Menſchen zu Bette legen, ohne geſpeiſt zu haben.
+– Ich hoffe, daß Du nicht der Meinung biſt, alle Armen der
+Gemeinde ernähren zu müſſen?
+– Ich wollte, Mutter, wir wären reich genug, um es thun
+zu können.
+– Es gibt kein Vermögen, das durch Unordnung nicht dar
+auf ginge.
+Die heilige Nächſtenliebe nannte ſie Unordnung, dieſe gute
+Frau Morel.
+– Bei ſolchem Aufwande, ſetzte ſie fort, müßten wir bald
+den Laden ſchließen, und unſere Schuldner kämen uns gewiß nicht
+zu Hilfe.
+– Durch Almoſengeben iſt noch Niemand zu Grunde gegan
+gen: das Geld, das man den Armen gibt, iſt bei Gott angelegt.
+– Aber Gott zahlt erſt im Paradieſe zurück und wir hier
+auf Erden hätten einſtweilen nichts zu beißen.
+Bei dieſem wenig chriſtlichen Witz platzte Marguerite in lautes
+Lachen aus. -
+– Was, Sie ſind noch hier, Marguerite? Schauen Sie, daß
+Sie ſich bald auf den Weg machen.
+– Ich bin ſchon bereit, antwortete Marguerite und nahm
+den vollen Tragkorb auf ihren Rücken.
+– 363 –
+– Der Monat für die Frau Vannier iſt aus: verlangen Sie
+das Geld . . . und auch von der Frau Duval . . . . die iſt immer
+mit dem Zahlen zurück!
+– Sie, gnädige Frau, wenn man mir beim Zahlen ſolche
+Paradieszettel geben will, ſoll ich ſie annehmen?
+– Da ſagen Sie nur, daß die Frau Morel bloß die Zettel
+der franzöſiſchen Bank annimmt.
+Die beiden Weiber trennten ſich lachend; ſie verſtanden ſich
+gut: die Meiſterin war eben ſo gemein wie die Dienerin.
+Was Lucien betrifft, ſo hatte ihn dieſe Szene tief bekümmert.
+Von den himmliſchen Höhen, in welchen ſein Geiſt in dieſer Nacht
+geſchwebt hatte, war er wieder in die Tiefe der irdiſchen Wirklichkeit
+herabgeſunken. Zu den peinlichſten Gefühlen gehört es, wenn man
+ein Weſen, das man zu lieben gewöhnt war, von der Stufe herab
+ſteigen ſieht, auf welche man es in ſeinem Geiſte geſtellt hatte. Jetzt,
+wo Lucien mehr als je einen klaren Einblick in das enge und
+egoiſtiſche Herz ſeiner Mutter gewonnen hatte, wurde er wahrhaft
+ängſtlich, wenn er ſich die Frage ſtellt: „Wie wird ſie die Nachricht
+aufnehmen, die ich ihr anzuvertrauen habe? Wird ſie zu würdigen
+wiſſen, wie ſchön und edel dieſer Greis handelte, indem er mir ſein
+Pflegekind anvertraute? Soll ich ihr von der Dazwiſchenkunft der
+Geiſter ſprechen, von den Ereigniſſen dieſer feierlichen Nacht? Sie
+würde glauben ich ſei krank, und würde um den Doctor ſchicken.
+Das traurige und blaſſe Geſicht Lucien's fiel der Frau Morel
+auf; ganz beſorgt ging ſie auf ihn zu; bei ihr war das Muttergefühl
+doch ſtärker als der Egoismus, oder beſſer, es war dies auch eine Art
+Egoismus. Ihr Mann, ihr Sohn, das war, ſo wie ihr Haus, ein
+Eigenthum, an dem ſie mit Leib und Seele hing. Weiter über dieſen
+beſchränkten Gefühlskreis hinaus konnte ſich ihr Verſtand nicht erſtrecken.
+– Was fehlt dir denn, mein Lucien, ſagte ſie ihm, du biſt ja
+kreidenbleich . . . .
+– Nichts Mutter; ich bin nur etwas müde von dem Wachen
+und von der Aufregung der verfloſſenen Nacht . . . .
+– Was für Aufregung? frug ſie ganz erſtaunt.
+– Unſer Miethmann, oben im fünften Stock, iſt geſtorben!
+– Was, der alte Dubuiſſon iſt geſtorben? Da haben wir's!
+Noch ein Zins beim Kuckuck! Ich hätte ihn ſollen gleich zahlen
+laſſen, wie er eingezogen iſt; ich bin nur immer viel zu gut!
+– 364 –
+– Ich war bei ſeinem Hinſcheiden zugegen, ſetzte Lucien hinzu.
+– Und warum denn? Was hat dich dazu gezwungen? Jetzt
+frage ich nur . . . . Ja freilich, dieſe Aufregung iſt es, die dich krank
+macht. -
+– Alle Menſchen ſind Brüder, namentlich dem Tode gegen
+über. . . . . O, meine Mutter! Der iſt geraden Wegs in den Himmel
+eingezogen.
+– Ja freilich, und dabei hat er mein Zinsgeld mitgenommen!
+Dieſer Schmerzensſchrei einer Hausfrau hätte wohl Lucien
+zum Lachen gebracht, wenn der Augenblick nicht ein ſo ernſter ge
+weſen wäre.
+– Das einzige weßhalb er bedauerte von dieſer Erde zu
+ſcheiden, war, ſein liebes Pflegekind ſo ganz verlaſſen zurückbleiben
+zu ſehen. Und – fügte Lucien nicht ohne Zaudern hinzu – da
+habe ich ihm in meinem wie in Deinem Namen verſprochen, für die
+arme Waiſe ſorgen zu wollen .
+– So, das hat noch gefehlt! rief Frau Morel aus . . . .
+Das wäre nicht ſchlecht! . . . . Dieſes Verſprechen hat keinen Sinn
+. es bindet uns nicht im mindeſten . . . . Dieſe Leute gehen
+uns nichts an . . . . ſie ſind weder Verwandte noch Freunde von
+uns. Das ſind unverſchämte Menſchen. . . . . Auf der Stelle
+werde ich dem Mädchen den Laufpaß geben laſſen . . . . und zwar
+durch den Gerichtsdiener . . . . die wird reißaus nehmen . . . . und
+wie . . . . hat man je ſo etwas geſehen! . . . dieſe Leute haben
+deine Unſchuld mißbraucht, mein armer Lucien; aber ich bin glück
+licher Weiſe da, um noch rechtzeitig Ordnung zu ſchaffen.
+Die Schleuſen waren geöffnet . . . . die kurzen, gedrängten
+Phraſen überſtürzten ſich wie die Waſſer eines Gießbaches, der hoch
+vom Felſen herabfällt. Aber Frau Morel hätte noch lange weiter
+reden können, Lucien hörte nichts mehr davon. Durch den groben
+Egoismus ſeiner Mutter tief im Herzen verletzt, und durch die
+ſchlafloſe ereignißvolle Nacht ganz ermattet, war der Aermſte von
+einer Art Ohnmacht überfallen. Frau Morel entdeckte dies erſt als
+ſie ihn auf der Bank zuſammenſinken ſah. Sie ſtieß einen Schrei
+aus, ſprang auf und erfaßte ihn mit beiden Armen. In dieſem Au
+genblicke trat Marguerite in's Zimmer, welche ihren erſten Rund
+gang beendet hatte.
+– 365 –
+– Raſch, Marguerite! Waſſer, Eſſig!
+– Ja, gnädige Frau, ja! antwortete die Magd und ſtellte
+ſchnell den Brodkorb auf den Boden. Oh, mein Gott, mein Gott,
+was fehlt denn dem armen Herrn Lucien ? . . .
+Marguerite ſchaffte behende den Krug und das Eſſigfläſchchen
+herbei; ſie beſpritzte Luciens Geſicht mit Waſſer, während Frau
+Morel ihm ein init Eſſig getränktes Tuch an die Schläfe hielt.
+– Aber mein lieber Lucien, mein gutes Kind, komm' doch zu
+Dir . . . . Ich verſpreche Dir ja gern Deinen Willen zu erfüllen . . . .
+Das junge Mädchen ſoll in unſerem Hauſe bleiben ſo lange es ihr
+gefällt, und wir werden ihr einen guten Platz ſuchen . . . .
+Lucien öffnete die Augen wieder, der Blick, den er ſeiner Mutter
+zuwarf, enthielt noch einen Zweifel.
+– Was, Du glaubſt meinen Worten nicht, Lucien? Gehen
+wir zuſammen zum jungen Mädchen hinauf. Ich bin bereit, das,
+was ich dir eben geſagt, vor ihr zu wiederholen. A
+Dieſe Verſicherung brachte Lucien wieder zu ſich; ſein Blut
+nahm allmählich wieder ſeinen regelmäßigen Lauf; er drückte ſeiner
+Mutter die Hand und ſtammelte einige Worte des Dankes!
+– Er iſt gerettet! rief Frau Morel.
+– Marguerite, thue ſchnell eine Suppe wärmen und ſtelle
+eine Flaſche Malaga in's Speiſezimmer auf den Tiſch.
+Marguerite ging ganz bedenklich zur Thüre hinaus, ſie wußte
+nicht, wie ſie dieſe kleine Familienſcene deuten ſollte.
+– Sollte Herr Lucien etwa verliebt ſein ? dachte ſie.
+Kaum war Körper und Geiſt durch die Pflege und namentlich
+durch die Verſprechungen der Mutter wieder geſtärkt, ſo dachte Lu
+cien daran, die traurigen Pflichten zu erfüllen, welche die Umſtände
+mit ſich brachten. Er hieß Marguerite eine barmherzige Schweſter
+herbeirufen, welche beim Leichname des Verſtorbenen wachen und beten
+ſollte, er ſelbſt ging zur Bezirksbehörde um den Todesfall anzuzeigen
+und um einen beſcheidenen Leichenzug zu beſtellen. Als er zurückkam,
+war eben auch die barmherzige Schweſter eingetroffen.
+– Wollen ſie uns nachfolgen, Schweſter, ſagte Lucien, meine
+Mutter und ich, wir werden Ihnen den Weg zeigen.
+In der Dachſtube fanden ſie Mirette vor dem Todtenbette
+knieen. Bei ihrem Herannahen erhob ſie ſich raſch; ihr blaſſes,
+durch ihr langes offenes Haar gleichſam verſchleiertes Geſicht zeugte
+– 366 –
+dermaßen von ihrem tiefen Schmerze, daß ſogar Frau Morel davon
+gerührt war: die wahren Gefühle verfehlen auch auf die gröbſten
+Naturen nicht ihren Eindruck. Die barmherzige Schweſter rief plötz
+lich aus:
+– Wie! Du biſt es, meine liebe Mirette?
+– Oh, Schweſter Joſephine! ſchluchzte das junge Mädchen
+und warf ſich in die Arme ihrer Freundin, welche ihr die Vorſehung
+zuſandte.
+– Liebes Kind! Gott iſt der Vater der Betrübten, vertraue
+auf Ihn.
+– Er iſt mein Troſt und meine Hoffnung.
+– Das höre ich gerne, mein Kind, ſo ſpricht eine gute Chriſtin.
+– Fräulein Mirette, ſagte Lucien, die Schweſter Joſephina
+iſt ſo gut, hier ihren Platz einzunehmen. Sie bedürfen der Ruhe
+nach ſo vielem kummervollen Wachen . . . ; nehmen ſie die Gaſt
+freundſchaft an, welche Ihnen meine Mutter gerne bietet.
+– Ja, mein Kind, ſetzte Frau Morel hinzu, kommen Sie,
+wir werden Sie gut pflegen.
+– Soll ich meinen Vater verlaſſen? Ich habe ja ohnedieß
+nur mehr kurze Zeit mit ihm zu verweilen !
+– Mein Kind, bemerkte Schweſter Joſephine, Du mußt
+Deine Kräfte ſchonen; nehme getroſt den Vorſchlag dieſer guten Frau
+an, ich werde an deiner Stelle wachen und beten.
+Und in's Ohr flüſterte ſie ihr weiter zu: -
+Vergiß nicht Dein offenes Haar und Deine Kleidung zu ordnen,
+ein chriſtliches Mädchen muß auch im größten Schmerze ſittſam er
+ſcheinen.
+– Ja, Sie haben Recht, Schweſter Joſephine, antwortete er
+röthend Mirette und zog ſich in ihre Schlafkammer zurück.
+– Sie kennen dieſes Mädchen ſchon ſeit langer Zeit, meine
+Schweſter? frug Frau Morel.
+– Mirette hat durch ſechs Jahre unſere Schule beſucht und
+hat uns erſt verlaſſen, nachdem ſie ihre erſte Communion gemacht.
+Bald ſind es zwanzig Jahre, daß ich mich der Erziehung der Jugend
+gewidmet habe und ich erinnere mich nicht, ein geſcheidteres, ſanf
+teres oder frömmeres Kind geſehen zu haben. Sie iſt von einem
+eigenthümlichen Reize umgeben, man kann ihm nicht widerſtehen. Sie
+iſt ein ganz bevorzugtes Weſen.
+– 367 –
+Lucien's Antlitz ſtrahlte vor Freude über dieſes Lob, während
+Frau Morel die mehr als beſcheidenen Möbel dieſer Dachwohnung
+muſterte und den Werth derſelben in ihrem Geiſte taxirte, mit einem
+Scharfblick, um welchen ſie gewiß jeder Schätzmeiſter beneidet hätte.
+Das Reſultat ihrer gewiſſenhaften Forſchung war folgendes:
+– Ich glaube, ſagte ſie, daß der Vater dieſem armen Mäd
+chen nicht viel hinterlaſſen hat.
+– Er hat ihr eine chriſtliche Erziehung und die Erinnerung
+an ſeine Tugenden hinterlaſſen, ſagte Schweſter Joſephine.
+– Das iſt das ſchönſte Gut, das ein Vater ſeinen Kindern
+vermachen kann, fügte Lucien hinzu.
+– Mit ſolchen Erbſchaften, mein guter Sohn, kann man ge
+radenwegs in's Spital gehen.
+– Aber von dort aus, Mutter, gelangt man leicht geradenwegs
+in den Himmel.
+Bei dieſer Antwort konnte Schweſter Joſephine ein zuſtimmen
+des Lächeln nicht verbergen; Frau Morel bemerkte es, verſtand es
+aber nicht.
+– Sie lachen über meinen Sohn, Schweſter, und das wun
+dert mich nicht. Er hat manchmal Einfälle, die mir unbegreiflich
+ſind. Von ſeinem Vater oder von mir hat er ſie gewiß nicht . . . .
+übrigens iſt er ein gutes Kind, nur ſeine Bücher machen ihm den
+Kopf verrückt.
+In dieſem Tone redete ſie noch länger weiter, trotz der Zeichen
+Lucien's, der ſehr darunter litt, zu ſehen, wie ſeine Mutter vor einer
+Fremden ihren niederen und beſchränkten Geiſt bloßſtellte. Dieſe Pein
+dauerte fort bis endlich Mirette in's Zimmer trat. Die Waiſe war
+ſchwarz gekleidet. Ein einfaches kleines Häubchen bedeckte zur Hälfte
+ihr ſchönes Haar und rahmte ihr ſanftes melancholiſches Geſicht
+allerliebſt ein.
+– Mein Kind, kommen Sie, wir warten ſchon, ſagte haſtig
+Frau Morel; ſie hatte Eile, in ihren Laden zurückzukehren.
+– Ach! gnädige Frau, erlauben Sie mir nur noch, von ihm
+zum letzten Male Abſchied zu nehmen! Liebe Schweſter Joſephine,
+ſehen Sie nur, wie ſchön er iſt.
+In der That, es lag etwas Ergreifendes in der Ruhe, welche
+der Tod dem Antlitze des Greiſes verliehen hatte. Es war, als
+– 368 –
+hätte dieſe edle Seele, als ſie den Körper verlaſſen, auf ihre ſterb
+liche Hülle einen Strahl ihrer Unſterblichkeit geworfen.
+– Mir dünkt, ſagte Lucien, ein ſolches Schauſpiel wäre ge
+eignet, den verſtockteſten Materialiſten zu bekehren.
+– Sie haben vollkommen Recht, bemerkte Schweſter Joſephine.
+Die heilige Schrift lehrt uns, wie heilſam es iſt, an den Tod zu
+denken. Es gibt wenige, die in ihrem Unglauben und in ihrer Ver
+ſtocktheit verharren könnten, wenn ſie geſehen hätten, was ich in
+mancher Nacht erlebt. Wenn ich auch mitunter bei Todten gewacht,
+deren Antlitz wie bei dieſem gleichſam von einem Heiligenſchein um
+geben war, ſo fand ich hingegen bei anderen deutliche Zeichen der
+Verdammung in ihren Zügen eingeſchrieben. Ich habe manchem ge
+heimnißvollen, ſchrecklichen Schauſpiele beigewohnt; ich habe Todte
+geſehen, welche ſelbſt die Verbrechen enthüllt, die der menſchlichen
+Gerechtigkeit entgangen waren . . . .
+– Ja, der Tod gibt oft über Geheimniſſe des Lebens Auf
+ſchluß, bemerkte Lucien.
+– Hier iſt es recht kalt, ſagte Frau Morel, gehen wir hinab.
+Es war die Angſt, welche ſie überkam.
+Mirette ſchnitt eine Locke der ſchönen, weißen Haare des Greiſes
+ab und bewahrte ſie ſorgfältig auf.
+– Leb' wohl, du ehrwürdiger väterlicher Freund, der du
+während fünfzehn Jahren mit ſo viel Liebe mich arme Waiſe gepflegt
+haſt. Mein einziges Ziel ſoll ſein, deinem Beiſpiele zu folgen, um
+deſſen würdig zu werden, Dich einſtens wieder zu finden. Mit ihrem
+letzten Kuſſe fiel noch eine warme Thräne auf die Stirne des
+Greiſes, welcher ihr zuzulächeln ſchien. „Ich empfehle Ihn ihrer
+Obhut“, gute Schweſter Joſephine, ſagte ſie, und indem ſie ſich Frau
+Morel zuwandte, fügte ſie hinzu: „Verzeihen Sie, wenn ich Sie habe
+warten laſſen.“
+Als ſie die ärmliche Dachwohnung verließ, warf ſie ihm noch
+einen dankbaren Blick zu und folgte in trauriger Stimmung der
+Frau Morel und ihrem Sohne nach. Schweſter Joſephine ſtellte ſich
+am Bette des Todten einen Stuhl zu recht, zog aus der Taſche
+ihren Roſenkranz, machte das Zeichen des heiligen Kreuzes und fing
+zu beten an.
+– 369 –
+III.
+Ehe wir in unſerer Erzählung weiter fortfahren, iſt es noth
+wendig, daß wir die Hauptperſonen, mit welchen wir uns beſchäfti
+gen, näher kennen lernen. Die Eheleute Morel waren nicht immer
+wohlhabende Bäcker geweſen, wie wir ſie jetzt ſehen mit ihrem reichen
+Laden, mit gutem altem Weine im Keller und mit einem ſchönen
+Landgute zu ihrem Sommeraufenthalte; in ihrer Jugend hatten ſie
+die Entbehrungen der Armuth gekannt. So war's auch gekommen,
+daß im Jahre 1806, als ſich Morel entſchloß zu heiraten, um den
+fortwährenden Rekrutirungen des Kaiſerreiches zu entgehen, ſeine
+Nachbaren mit Achſelzucken das traurige und ärmlich gekleidete Ehe
+paar zum Bürgermeiſteramte und zur Kirche gehen ſahen, mit dem
+Finger auf ihn zeigten und ſich zuflüſterten: „Hunger und Durſt
+halten heute Hochzeit! . . . . . .“ Clodine Boizart, welche ſpäter die
+dicke, rothwangige Frau Morel geworden war, ſtellte damals nur
+eine arme Handlangerin vor, welche ſich kaum fünf Groſchen im
+Tage verdiente, weder leſen noch ſchreiben konnte und deren Geiſt
+ſehr beſchränkt war, was der Leſer wohl bereits gemerkt hat. Aber,
+wenn Claudine jene Fähigkeiten nicht beſaß, welche eine höhere Beſtim
+mung in der geiſtigen Welt beurkunden, ſo war ſie dafür durch andere
+Fähigkeiten entſchädigt, welche aber der irdiſchen Welt angehören.
+Ein Schüler Gall's hätte die Erklärung hiezu in ihrer niedern
+Stirne und in ihrem breiten Oberkopfe gefunden; Desbardes hätte
+dies allein ſchon bei Beſichtigung ihrer breiten, ſpachtelförmigen
+Finger bemerkt, ohne die weiteren Unvollkommenheiten ihrer Hand
+zu prüfen.
+Jean Pierre Morel war der geeignete Mann für dieſe Haus
+frau. Sein Vater hatte ſeinerzeit als Verwalter bei den Grafen von
+Rouville, reichen Gutsherren in der Normandie, gedient; doch nach
+dem die Güter der Emigrirten verkauft worden, wurde er von dieſer
+Herrſchaft weggejagt, da der neue Beſitzer den Vater Morel ſeiner
+Anhänglichkeit an die frühern Herren wegen zu ariſtokratiſch fand.
+Dieſer alte Diener ſtarb aus Kummer einige Jahre nach dem Ein
+treffen dieſer Kataſtrofe, was aber dem Jean Pierre inſofern er
+wünſcht kam, als er, der älteſte Sohn einer Wittwe, nunmehr davon
+befreit war, ſeinen Altersgenoſſen zu folgen, welche alle, gern oder
+ungern, hinausziehen mußten, um für das Vaterland zu ſterben.
+24
+– 370 –
+Solch ein heldenmütbiger Tod war keineswegs das, was Jean Pierre
+ſuchte, im Gegentheile, er wollte für ſich leben und zwar ſo lange
+und ſo angenehm als nur möglich. Als ſeine Mutter geſtorben
+war, hielt ihn nichts mehr in ſeiner Gegend zurück, wo er ſich
+übrigens in einer doppelt ſchwierigen Stellung befand, da ihm im
+Gegenſatze zu ſeinem frühern Wolhaben gar nichts zum Leben übrig
+geblieben war. Eines ſchönen Tages hielt er ſeinen Einzug in Paris,
+indem er, wie Bias ſein ganzes Hab und Gut bei ſich trug. Paris iſt
+eine Sonne, welcher ſich alle Welt zuwendet, vom kleinen Auver
+gnaten angefangen, der ein Fleckchen Erde zu erwerben träumt, bis
+zum größten Manne dem ſein Genius keine Ruhe läßt. Jean Pierre
+beſaß alle Eigenſchaften des Auvergnaten: die Sparſamkeit, die Ge
+nügſamkeit, die Geduld und dies Alles mit ein wenig Argliſt ver
+miſcht, die von ſeinem normänniſchen Blute herrührte. Er konnte
+leſen und ſchreiben und auch rechnen, das hatte er von den Landleuten
+ſeines Zeitalters voraus und zwar verdankte er dies dem glücklichen Um
+ſtande, der Milchbruder des jungen Grafen von Rouville geweſen zu
+ſein. Als Geſpiele des kleinen Grafen nahm er an deſſen Unterrichts
+ſtunden Theil, und der Hofmeiſter war ſehr zufrieden, in ihm einen
+Sporn für ſeinen Zögling zu finden. Aber die Revolution unterbrach
+plötzlich dieſe Studien und zerſtörte die ehrgeizigen Pläne des Jean
+Pierre, welcher ſich ſchon für den künftigen Verwalter der großen
+Herrſchaft Rouville gehalten hatte.
+Mit wenigen Geldſtücken in der Taſche, ohne irgend jemanden
+zu kennen, wußte Jean Pierre gar bald nicht mehr, was er in Pa
+ris anfangen ſollte. Er lief die Straßen auf und ab und las alle
+Anſchlage-Zettel, welche die Mauern bedeckten und hoffte darin ſein
+Glück zu finden; aber dieſe Zettel waren von einer verzweiflungs
+vollen Eintönigkeit: „Haus und Hof zu verkaufen, Preis 50.000
+Franken!“ oder: „Man ſucht einen Militär-Erſatzmann.“ Dies
+Alles war nicht das, was Jean Morel brauchen konnte. Eines Ta
+ges trat er zufällig in die Getreidemarkthallen. Mit jenem melan
+choliſchen Blicke, welche einen Mann kennzeichnen, deſſen Beutel ſo
+leer iſt wie ſein Magen (Tags vorher hatte er den letzten Hellen ausge
+geben), bewunderte er die großen Pyramiden von Mehlſäcken, die da
+aufgeſpeichert waren; da hörte er plötzlich eine Baßſtimme, die ihm
+zurief: „Holla! Jean Pierre!“ Dieſer Ruf, ſo barſch er auch war,
+ſchien ihm in jenem kritiſchen Augenblicke die Stimme der Vorſehung
+– 371 –
+zu ſein. Die Vorſehung war aber diesmal ein kleiner, dicker, un
+terſetzter Mann mit rothem offenem Geſichte, vom Kopfe bis zum
+Fuße grau angezogen, wie die Getreidehändler ſich zu kleiden
+pflegen.
+– Wie, Sie ſind es, Herr Rigot! rief ſeinerſeits Jean
+Pierre aus.
+Er hatte den reichen Pariſer erkannt, welcher alle Jahre nach
+Rouville kam und meiſtens die ganze Ernte aufkaufte.
+– Ja, mein Junge, was haſt denn Du hier in Paris zu
+ſuchen?
+– Mein Gott, Herr Rigot, ich ſuche einen Platz, eine Be
+ſchäftigung.
+– Und haſt Du ſie gefunden?
+– Beileibe noch nicht.
+– Wenn Du hübſch ſchreiben und rechnen könnteſt, ſo hätte
+ich vielleicht ein Plätzchen für Dich.
+– Nun, Herr Rigot, ich kenne die vier Rechnungsarten und
+auch ein wenig die Brüche, und was die Schrift anbelangt, da ſtelle
+ich meinen Mann.
+Vater Rigot ſah ihm tief ins Geſicht, beſann ſich eine Weile
+und ſagte ihm ſchließlich: „Komm' mit mir.“ Er führte ihn in eine
+Art Glaskäfig, wo ſein Schreibepult ſtand und reichte ihm eine
+Feder:
+– Da ſetze Dich nieder, und ſchreibe was ich Dir dictiren
+werde: „Herr Bruneau, Bäckermeiſter in der Straße St. Honore
+ſchuldet dem H. Rigot fünfundzwanzig Säcke Mehls, erſter Qua
+lität . . ., das Pfund zu u. ſ. w.“
+– Und jetzt mache mir die Rechnung.
+Jean Pierre beſtand dieſe entſcheidende Prüfung in allen Ehren.
+Vater Rigot ſchien namentlich über die Schrift ganz entzückt, welche
+nett, ja ſogar elegant war. Er berechnete, daß er in ihm um we
+niges Geld einen intelligenten Schreiber finden könnte, der ihm gleich
+zeitig den Dienſt eines Hausknechts verſehen müßte. Nachdem er
+fünf Minuten nachgedacht, welche Jean Pierre eine Ewigkeit dünkten,
+bot er ihm 30 Franken und die freie Wohnung an.
+– Wenn ich mit Dir zufrieden bin, ſo werde ich den Lohn
+erhöhen.
+244
+– 372 –
+Jean Pierre ging mit ſolcher Bereitwilligkeit auf den ihm ge
+machten Vorſchlag ein, daß Vater Rigot es ſchon bereute, ſo groß
+müthig geweſen zu ſein.
+– Um 20 Franken hätte ich ihn auch haben können; dachte
+er ſich ganz ärgerlich.
+Nichtsdeſtoweniger hatte Rigot niemals Urſache, das eingegan
+gene Übereinkommen zu bereuen, denn Jean Pierre wußte ſich bald
+in ſeine Doppelſtelle zu ſchicken und leiſtete ſeinem Herrn erheb“
+liche Dienſte.
+Die Inſtallirung Jean Pierre's in der Getreide-Markthalle,
+fiel eben in jene Zeit, wo die Arretirung Cadoudals und ſeiner Mit
+verſchworenen in Paris ſo großes Aufſehen erregt hatte. Vater
+Rigot glaubte im Benehmen ſeines Factotums viel Auffallendes zu
+bemerken, denn dieſer empfing geheimnißvolle Beſuche und ſchien ſehr
+nachdenklich geſtimmt zu ſein. Einmal des Nachts, als Vater Rigot
+bei ſeinem Fenſter friſche Luft ſchöpfte, erblickte er am Hausthor
+einen großen Mann von vornehmer Haltung, der unter ſeinem Man
+tel etwas verborgen hielt und der ſich änglich nach allen Seiten
+umſah. Eine halbe Stunde ſpäter erſchien derſelbe Mann wieder
+und zwar in Begleitung Jean Pierre's. Sie ſprachen vertraut mit
+einander, und umarmten ſich; der Unbekannte erhob den Blick zum
+Himmel als wollte er ſagen: „Gott ſei uns gnädig“ und raſchen
+Schrittes entfernte er ſich. Jean Pierre folgte ihm einen Augenblick
+mit den Augen und kehrte dann in's Haus zurück. Dieſe nächtliche
+dramatiſche Szene beunruhigte ſehr den Vater Rigot, und ließ ihn
+die ganze Nacht nicht ſchlafen. Am nächſten Morgen nahm er Jean
+Pierre beiſeite und ſagte ihm:
+– Mein Kind, Du ſtehſt mit Emigrirten in Verbindung: der
+erſte Conſul und Fouché ſind pfiffig, die tragen ihre Augen nicht im
+Sack, und ihre Arme ſind gar lang; nehm' Dich in Acht! die
+Royaliſten werden Dir und meinem Hauſe Unglück bringen.
+– Beruhigen Sie ſich, Herr Rigot; derjenige, den Sie heute
+Nacht geſehen haben, iſt kein Aufwiegler, er kehrt ins Exil zurück
+und wartet auf beſſere Zeiten.
+– Du meinſt die Rückkehr der Bourbonen. Nun denn, da
+kann er lange warten. Ich halte auf dein Wort, und will dir glauben;
+ſonſt müßte ich dich entlaſſen. Der Teuſel! Ich will nichts mit
+Fouché oder dem erſten Conſul zu thun kriegen.
+– 373 –
+In der That, ſowie Jean Pierre es verſprochen hatte, blieb
+Alles bei ſeiner alten Ordnung, und zur vollen Zufriedenheit des
+Vaters Rigot hörten mit jenem Tage alle geheimnißvollen Beſuche auf.
+Jean Pierre hatte zur Nachbarin eine hübſche Magd, welche
+ſchon des Morgens in aller Frühe in ihre Arbeit ging, und erſt zu
+ſpäten Abendſtunden zurückkehrte. Wenn ſie ſich auf der Stiege be
+gegneten, ſo hieß es: Guten Morgen, guten Abend; aber ſeit den
+zwei Jahren, daß ſie nebeneinander wohnten, hatte ihre Bekanntſchaft
+keine weiteren Fortſchritte gemacht. Jean Pierre war zu jung, um
+an's Heiraten zu denken; von Liebe wollte er nichts wiſſen; das
+friſche jugendliche Geſicht Claudinens machte ihm keinen Eindruck;
+ſeine Stunde hatte noch nicht geſchlagen.
+Aber die Ereigniſſe, welche in Europa im Zuge waren, ſollten
+gar bald auf die ſociale Stellung Jean Pierre's Einfluß nehmen.
+Im Geheimen bereitete ſich eine große Coalition gegen das neue
+Kaiſerreich vor, welches in den Augen der alten Dynaſten den un
+verzeihlichen Fehler an ſich trug, aus der großen Revolution hervor
+gegangen zu ſein. Es galt als ausgemachte Thatſache, daß die Re
+volution nur Ungeheuer erzeugen könne, ſomit hieß es, dieſes Unge
+heuer noch im Keime erſticken. Napoleon bereitete ſich in aller Ruhe
+zum Kampfe vor; aber bald wurde es bekannt, daß außer der regel
+mäßigen Rekrutirung die kaiſerl. Regierung diesmal ein anderes neues
+Geſetz einführen würde, nach welchem alle unverheirateten jungen
+Leute von 20 bis 30 Jahren zu den Fahnen zu rufen ſeien. Dieſe
+Nachricht erſchreckte Jean Pierre. Die Furcht, Soldat zu werden,
+flößte ihm mit einem Male die Liebe ein und ſchnell hielt er um die
+Hand Claudinen's an, welche ſich ihrerſeits nicht lange bitten ließ,
+denn das arme Mädchen vertrocknete in ihrer Einſamkeit und in
+einem Cölibate, welches ſich auf unbeſtimmte Zeit hinaus zu dehnen
+drohte. Einen Monat ſpäter zählte das Kaiſerreich um einen Ehe
+mann mehr und um einen Soldaten weniger.
+Unter dieſen Umſtänden fühlte ſich Vater Rigot gezwungen,
+ſeinem Faktotum einen größeren Gehalt zu geben, der nunmehr auf
+50 Franken im Monat erhöht wurde. Aber dieſer Zuſchuß war zu
+karg bemeſſen, um die Auslagen der erſten Einrichtung des jungen
+Paares zu decken, und ihr tägliches Brod zu beſtreiten. Ueberdieß
+kam auch Claudine bald in geſegnete Umſtände und ihr Appetit nahm
+mit jedem Tage zu.
+– 374 –
+Jean Pierre verfiel in's Schuldenmachen; Alles ſah er ſchwarz
+und hoffnungslos vor ſich, und ſchon bedauerte er es, nicht lieber
+als Soldat ins Feld gezogen zu ſein.
+– Jetzt wäre ich todt, ohne Zweifel; ſo dachte er, und die
+Todten haben für nichts weiter zu ſorgen.
+Jean Pierre fehlte das Vertrauen in die Vorſehung.
+Eines Tages trug er eine Rechnung zu einem der beſten Clienten
+des Geſchäftes.
+– Das wird wohl die letzte Rechnung ſein, die ich dem Vater
+Rigot bezahle, ſagte der Bäckermeiſter, indem er ihm das Geld vor
+zählte. Ja, ich ziehe mich aus Mehl und Germ zurück und will
+lieber unabhängig auf einem kleinen Gute leben, das ich gekauft habe.
+– Oh! wie glücklich. Sie ſind! antwortete Jean Pierre, mit
+wehmüthiger Stimme.
+– Schade, daß Du nicht baare 10.000 Franken haſt, da
+könnte ich Dir mein Geſchäft verkaufen, den Reſt würdeſt Du mir
+ratenweiſe abzahlen . . . . Ich weiß, Du biſt ein ordentlicher und ge
+ſcheidter Burſche. Hier könnteſt Du Dein Glück machen.
+– Bei dieſen Worten erblaßte plötzlich Jean Pierre, aus
+ſeinen Zügen konnte man entnehmen, daß ein unheilvoller Gedanke
+in ihm erwachte. Einen Augenblick hielt er inne, das mag wohl der
+innere Kampf geweſen ſein. Dann aber ſagte er barſch: „Sie, Herr
+Lenoir“.
+Seine Stimme war ſo bewegt und ſo eigenthümlich, daß der
+Bäckermeiſter ihn mit Befremden anſah, als wollte er ſich erſt über
+zeugen, ob es wohl Jean Pierre ſei, der vor ihm ſtehe.
+– Ich habe einen alten, reichen Onkel, deſſen einziger Erbe
+ich bin. Ich bin überzeugt, er würde es mir nicht abſchlagen, mir
+einen Theil der Erbſchaft im Voraus zu übergeben . . . . . Heute
+noch will ich zu ihm auf's Land fahren; verſprechen Sie mir nur,
+vor meiner Rückkehr mit niemand Anderm abzuſchließen.
+– Das Verſprechen kann ich Dir ſchon geben und meinen
+Glückwunſch dazu.
+Acht Tage ſpäter kam Jean Pierre des Morgens zu Lenoir
+und redete ihn mit den Worten an:
+– Herr Lenoir, ich habe die 10.000 Franken, die Sie brauchen.
+Gilt der Handel noch?
+– 375 –
+– Da haben wir weiter kein Wort zu verlieren, mein Junge.
+Komm in 2 Stunden und frühſtücke mit mir und dann werden wir
+ſtracks zum Notar gehen, um den Vertrag aufzuſetzen . . . . . . Aber
+ſage mir, was haſt Du ? fügte er hinzu, indem er bemerkte, wie
+blaß und gealtert Jean Pierre ausſah. Was fehlt Dir denn? Du
+ſiehſt ja ganz verſtört aus?
+– Das iſt kein Wunder, antwortete dieſer ziemlich befangen.
+Ich bin matt und ermüdet; ſeitdem ich Sie geſehen, habe ich kein
+Auge zugedrückt.
+– Ja, ja, ich begreife; der Onkel wird ſich auch ſchön haben
+bitten laſſen. Die alten Leute halten feſt an ihrem Gelde, das kenn'
+ich. Aber gehe. Ruhe dich aus und um 10 Uhr komme wieder, wir
+werden zuſammen ein gutes Glas Wein trinken.
+Jean Pierre wollte weder ſeiner Frau noch Vater Rigot irgend
+etwas ſagen, bevor er nicht den Kaufvertrag unterſchrieben hätte.
+Dies geſchah aber noch im Laufe des Nachmittags. Als Claudine
+erfuhr, daß ſie vor Ablauf von 8 Tagen in einem Bäckerladen als
+Meiſterin thronen würde, machte ihr die Freude einen ſolchen Ein
+druck, daß ſie noch am ſelben Abende niederkam, und zwar mit einem
+geſunden Knaben, welcher jedoch, wie alle Kinder, die vorzeitig zur
+Welt kommen, etwas ſchwach und zart ausſah. Als Vater Rigot
+dieſe Nachricht erfuhr, war ihm, als hätte man ihn mit kaltem
+Waſſer übergoſſen. Seine Ueberraſchung und ſein Aerger war ſo
+groß, daß er kaum einige Worte hervorbringen konnte. Bald aber
+entſchädigte er ſich für dieſen zurückgehaltenen Aerger dadurch, daß
+er ſich mit ſeinen Nachbaren über den Urſprung von Jean Pierre's
+Vermögen luſtig machte. Sie lachten zuſammen nach Herzensluſt
+über den gewiſſen Onkel, den Rattenfänger, der ſich 10.000 Franken
+in ſchönen, blanken Louisd'or hätte erſparen ſollen u. dgl. Ja er be
+gnügte ſich nicht einmal damit, ſolche Läſterreden von Mund zu Mund
+zu verbreiten, er zahlte ſogar Gaſſenjunge, welche vor die Thür der
+Frau Morel hingehen und ſingen mußten:
+Die Frau Meiſt'rin hat viel Geld,
+Wie nur wen’ge auf der Welt;
+Woher hat ſie's denn bekommen?
+Woher hat ſie's denn genommen ?
+u. ſ. w.
+– 376 –
+Aber Vater Rigot war nicht unſterblich. Von Schlage gerührt
+verf+iet er eines Tages in der Mark:aue ſelbſt. Übrigens waren es auch
+die damals in Frankreich ſo ſchnell aufeinander folgenden politiſchen
+Ereigniſſe, welche die Leute beſchäftigten und ſie veranlaßten, das
+tägliche Geſchwätz mehr zu vergeſſen: und Jean Pierre ſelbſt, oder
+beſſer Herr Morel, machte ſeinem Geſchäfte nur Ehre; er zahlte re
+gelmäßig die Steuern, verkaufte gutes und vollgewichtiges Brod, ſo
+zwar, daß der böſe Leumund bald zu ſchwächen aufhörte und der Bä
+ckerladen in der Straße „des deux écus“ ſogar ſich eines gewiſſen
+Anſehens erfreute. Dieſes Anſehen war aber namentlich dem Kinde
+Morels zuzuſchreiben, das ſeit ſeiner früheſten Jugend eine ſeltene In
+telligenz und Herzensgüte beurkundete. Der kleine Lucien hatte ein
+blendend weißes Geſichtchen, ſeine Züge waren fein, ſeine Stirne
+breit und leicht gewölbt, ſeine großen Augen ſchienen ihr ſchönes
+Blau aus dem Himmel mitgebracht zu haben. Eine der Eigenſchaf
+ten, die ſich zu allererſt in Lucien entwickelten, war ein rührendes
+Mitgefühl für alle Unglücklichen. Jedes leidende Weſen zog ſeine Auf
+merkſamkeit auf ſich, er ſtreichelte und liebkoſte die armen Kinder,
+das war ſein erſtes Almoſen. Wenn ein Armer bittend die Hand
+durch die Thüre hielt, da brachte ihm der kleine Lucien ſchnell ein
+Stück Brod oder Geld, das er ſeiner Mutter durch ſeine liebliche
+Ungezwungenheit abgewonnen hatte. Die Armen nannten ihn den
+kleinen Engelsbäcker; als ſolcher war er weit und breit bekannt; den
+ganzen Tag hindurch wanderten ſie zu ihm hin. Frau Morel, welche
+nichts weniger denn mildthätig war, weinte oft aus Ärger darüber
+und ſchließlich verbot ſie ihrem Sohne ſich im Laden aufzuhalten.
+Morel aber, der doch freigebiger war, antwortete auf die Klagen
+ſeiner Frau, indem er ſagte:
+– Wir ſind reich genug, um unſerem Lucien ſeine Freude laſ
+ſen zu können.
+– Wenn er als kleiner Bube ſchon Groſchen vertheilt, ſo wird
+er, bis er erwachſen iſt, die Louisd'or hinauswerfen. Er kennt den
+Werth des Geldes nicht.
+– Um ſo beſſer für ihn, antwortete dann trocken Morel,
+nahm ſeinen Hut und ging zur Thüre hinaus.
+– Ich weiß nicht, was mit Jean Pierre vorgeht, ſagte Clau
+dine ganz ängſtlich, ſeitdem er reicher, iſt er nichts weniger als
+freundlicher geworden.
+– 377 –
+Lucien hatte allein das Vorrecht die trüben Wolken zu zer
+ſtreuen, welche ſo oft die Stirne Morels umhüllten. Der Vater
+bewunderte, ohne ſich darüber Rechenſchaft geben zu können, die mehr
+moraliſche als phyſiſche Schönheit ſeines Kindes, und namentlich
+dieſe reine, verklärte Unſchuld, die eben auf die Greiſe ſo mächtig
+wirkt und ſie ſo tiefſinnig und nachdenklich ſtimmt.
+– Sieh doch, Claudine, ſagte er öfters zu ſeiner Frau, wie
+ſchön unſer Lucien iſt!
+– Ja, er iſt recht nett, entgegnete die Bäckermeiſterin, aber er
+iſt zu mager.
+Für die gewöhnlichen Leute beſteht der Superlativ der Schön
+heit in dicken, rothen Backen.
+Morel ſchmiedete ſehr ehrgeizige Pläne für ſeinen Sohn; ſein
+geheimer Wunſch war, aus ihm einen Advokaten zu machen; er hatte
+den Geiſt ſeiner Zeit errathen. Während der Reſtauration bewieſen
+die Advokaten, in der Kammer ſowohl als in der Preſſe, daß ſie alles,
+was ſie wollten, erreichen konnten. Den neunjährigen Lucien ſchickte
+Morel in's Gymnaſium Henri IV., welches damals am populärſten
+war, weil damals der Herzog von Orleans, zur größten Freude der
+Liberalen und Bürger, ſeine Söhne dort ſtudieren ließ. Lucien war
+begabt und fleißig, mit dem beſten Erfolge machte er alle Klaſſen
+durch, und als er die philoſophiſchen Studien beendete, erwarb er
+ſich ſogar den großen Staatspreis für franzöſiſche Rhetorik. Das
+waren gute Auſpizien für den künftigen Advokaten.
+Mehr ſeinem Vater zu Liebe als aus eigenem Antriebe hörte
+er nun die Rechte. Da das Pflichtgefühl in ihm ſehr entwickelt
+war, ſo verfolgte er mit ſeltenem Fleiße dieſe Studien, obwohl er
+an dieſen Gegenſtänden an und für ſich wenig Gefallen fand.
+Seine natürliche Neigung, wie auch ſein erregbarer feinfühlen
+der Geiſt führten ihn der ſpiritualiſtiſchen Philoſophie zu. In der
+katholiſchen Religion auferzogen, hatte er dieſelbe bis zu ſeinem 16.
+Jahre, wie man zu ſagen pflegt, redlich befolgt. Als aber ſein
+Verſtand reifer und unabhängiger geworden, da gab es viele Zwei
+fel, und was ihm früher in ſeiner Naivität als Überzeugung geſchie
+nen hatte, wurde jetzt bis auf den Grund erſchüttert. Sein Herz
+und ſein Verſtand verſuchten vergebens die Gerechtigkeit und Güte
+Gottes mit der ungleichen Vertheilung des Guten und Böſen auf
+Erden in Einklang zu bringen, wie auch mit jenem Dogma der Erb
+– 378 –
+ſünte und der Ewigkeit der Strafe, dieſen ſo zu ſagen ſchrecklichen
+Problemen, welche ihm weder die Wiſſenſchaft, noch die größten
+Gelehrten der Kirche löſen konnten. – Aber früher oder ſpäter ent
+hüllt ſich die Wahrheit für denjenigen, der bemüht iſt, ſie ernſtlich
+und mit Ausdauer zu ſuchen. Eines Tages fielen ihm die Werke
+von Ballanche in die Hände. Dieſer eminent chriſtliche Philoſoph,
+dieſer Forſcher, dieſer göttliche Miſſionär, welcher die Welt be
+wohnte, welchen aber die Welt nicht kannte, enthüllte ihm
+alle Geheimniſſe des heidniſchen, wie auch des chriſtlichen Alter
+thums, trennte los den Geiſt von dem trockenen Buchſtaben, die
+Wahrheit vom Mythus, das Gold von der Schlacke. Er lehrte ihn
+den Menſchen kennen, dieſes wiedergeborene Weſen, welches
+ſeine jetzige Verwandlung, wie auch ſeine früheren Ver
+wandlungen nicht kennt, welches, nach einer langen Reihe
+von Prüfungen und Sühnen – denn nur was vollkommen
+iſt, ſoll ins Reich Gottes eingehen – endlich ſeine blei
+bende Beſtimmung erreicht.
+Nachdem Lucien Orpheus und die ſociale Palingeneſie geleſen
+hatte, konnte er, wie Paula, als ſie ſich durch den chriſtlichen Glauben
+erleuchtet fühlte, ausrufen:
+Ich ſehe, ich weiß, ich glaube.
+Da er an den myſtiſchen Gegenſtänden Gefallen fand, las er
+auch Saint-Martin und Swedenborg, und warf ſich in jenen Ocean
+von Licht und Leben, in welchem der Geiſt erblindet oder wahnſinnig
+wird, wenn er nicht verjüngt und wie neugeboren aus demſelben
+hervorgeht.
+(Fortſetzung im nächſten Hefte.)
+Spiritiſche Abhandlungen.
+Völker, gebt Acht!
+(Aus dem Revue spirite.)
+I.
+Wohin laufen dieſe Kinder angethan in weißen Kleidern! Die
+Freude beleuchtet ihre Herzen, ihr leichtfertiger Schwarm wird ſich
+– 379 –
+auf grünen Wieſen ergötzen, wo ſie eine reiche Ernte von Blumen
+machen nnd das glänzende Inſect, welches ſich in ihren Kelchen nährt,
+verfolgen werden. – O die Sorgloſen und Glücklichen, ſie ſehen
+nichts weiter als den blauen Horizont, der ſie umgibt; ihr Fall wird
+furchtbar ſein, wenn ihr Euch nicht beeilet, ihr Gemüth für ſpiritiſche
+Lehren vorzubereiten.
+Denn die Geiſter des Herrn haben die Wolken durcheilt und
+kommen Euch zu ermahnen; vernehmet ihre Stimmen, höret ſie auf
+merkſam an! – Völker, habt Acht!
+II.
+Sie ſind groß und ſtark geworden; die männliche Schönheit
+der Einen, die Liebenswürdigkeit und Sorgloſigkeit der Anderen er
+wecken in den väterlichen Herzen die angenehmen Erinnerungen
+einer bereits verſchwundenen Zeit, aber das Lächeln, welches ſchon
+um ihre welken Lippen ſchwebte, verſchwindet, um traurigen Sorgen
+Platz zu machen, weil ſie ſelbſt aus den bezaubernden Kelchen der
+jugendlichen Illuſionen mit langen Zügen getrunken, und das feine
+Gift derſelben ihr Blut arm gemacht, ihre Kräfte entnervt, ihre Ge
+ſichter gerunzelt, ihre Stirnen entblößt hat, und ſie möchten ihre
+Söhne verhindern, dieſen vergifteten Kelch zu koſten. – Brüder!
+der Spiritismus wird das Gegengift ſein, welches die neue Gene
+ration vor ſeinen Verwüſtungen bewahren ſoll!
+Denn die Geiſter des Herrn ſind über die Wolken geeilt und
+kommen Euch zu ermahnen; vernehmet ihre Stimmen, höret ſie auf
+merkſam an !
+Völker, gebt Acht!
+III.
+Sie haben das Mannesalter erreicht; ſie ſind Männer gewor
+den; ſie ſind ernſt und ſtreng, aber nicht glücklich; ihr Herz iſt ab
+geſtumpft, und beſitzt nur eine reizbare Seite: jene des Ehrgeizes.
+Sie wenden Alles, was ſie an Kraft und Energie haben, an, um
+irdiſche Güter zu erwerben. Für ſie beſteht kein Glück ohne Würden,
+Ehrenſtellen und Vermögen. Ihr Unſinnigen! Jeden Augenblick kann
+Euch der Engel der Befreiung berühren, und ihr werdet gezwungen
+ſein, alle dieſe Chimären zu verlaſſen; ihr ſeid Verbannte, welche
+Gott jeden Augenblick in das Vaterland zurückrufen kann. Bauet
+nicht Paläſte noch Monumente; ein Zelt, ein Gewand und Brod ge
+nügt; gebt Euch mit dieſem zufrieden, und von dem Ueberflüßigen
+ſchaffet Euren Brüdern, die es entbehren, das Dach, die Kleidung
+und das Brod. Der Spiritismus wird Euch lehren, daß die wahren
+Schätze, die ihr Euch ſammeln ſollt, die Liebe zu Gott und dem
+Nebenmenſchen ſind. Dieſe machen Euch für die Ewigkeit reich!
+Denn die Geiſter des Herrn ſind über die Wolken hergeeilt,
+Euch zu ermahnen; vernehmet ihre Stimmen; hört ſie aufmerkſam an.
+Völker, gebt Acht!
+IV.
+Mit gebeugter Stirne ſtehen ſie am Rande des Grabes; ſie
+haben Furcht und ſie möchten ihren Kopf erheben, aber die Zeit hat
+ihre Schultern gewölbt, ihre Muskeln und Sehnen ſtarr gemacht,
+und ſie vermögen nicht nach oben zu blicken. Ach! welche Angſt er
+greifet ſie! Sie überblicken im Geheimen ihrer Seele ihr unnützes
+und oft verbrecheriſches Leben; die Gewiſſenangſt nagt an ihnen wie
+ein hungriger Geier, weil ſie im Laufe dieſes Lebens, welches in
+Gleichgültigkeit verfloſſen iſt, ihren Gott oft verläugnet haben, und Er
+erſcheint ihnen am Rande des Grabes als ein unerbittlicher Rächer.
+Fürchtet nicht, Brüder, und betet. Wenn Gott in ſeiner Gerechtig
+keit Euch ſtraft, wird Eure Reue Gnade finden; denn der Spiri
+tismus lehrt Euch, daß die Ewigkeit der Strafen nicht beſteht, und
+daß ihr wiedergeboren werdet, Euch zu reinigen und abzubüßen.
+Deßhalb, Ihr, die Ihr müde ſeid Eurer Verbannung auf Erden,
+beſtrebet Euch möglichſt Euch zu verbeſſern, damit Ihr nicht mehr
+hieher zurückkehret.
+Denn die Geiſter des Herrn haben die Wolken durchbrochen,
+und kommen euch zu ermahnen; vernehmet ihre Stimmen, höret ſie
+aufmerkſam an!
+Völker, gebt Acht!
+Byron.
+– 381 –
+Chriſti-Geburtsfeſt.
+(25. Dezember 1867. – Medium: A. S.)
+Weihnachten iſt wieder da, ein neues Jahr beginnt für Euch
+Chriſten, ein Jahr voll Wichtigkeit, beſonders für Euch Spiriten ein
+Jahr voll Arbeit, voll Kampf und – voll Selbſtzufriedenheit –
+für das Gute gewirkt zu haben. Erlahmet nicht in Euren Anſtren
+gungen, kämpfet ungeſcheut für Eure gute Sache, laßt Euch den
+Spott derer nicht zu Herzen gehen, die ſelbſt nicht wiſſen, was ſie
+glauben ſollen.
+Vergeſſet nicht, daß Ihr nicht einzig ſeid, daß Euch die guten
+Geiſter beiſtehen und Euch die Kraft geben, das Bittere zu überwin
+den, das Euch manche Menſchen zu koſten geben. Vor Allem aber
+vergeſſet nicht, daß Chriſtus der Herr, deſſen Geburtsfeſt Ihr feiert,
+mit Euch iſt.
+Ein Schutzgeiſt.
+Stachelloſe Bienen. – Roſe ohne Dornen.
+(Medium Arm . . .)
+Kennt Ihr die Roſe, ſo ohne die Dornen?
+Oder die Biene, die ſtachellos lebt?
+Sucht Ihr den Segen, dem mühlos gebornen?
+Ach! ja das hieße nach Wahne geſtrebt.
+Ohne die Dornen, da wachſen nicht Roſen,
+Füllet den Kelch nicht balſamiſcher Duft;
+Laden den Schmetterling ſie nicht zum Koſen,
+Bleibt ohne Würze die ländliche Luft.
+Ohne den feindlichen Stachel der Bienen
+Schmecket den Honig, den ſüßen, Ihr nicht;
+Wer nur den lieblichen Freuden will dienen,
+Sucht ohne Schatten ſtets blendendes Licht.
+– 382 –
+Nein, nur der Mühe gelinget das Gute,
+Nein, nur dem Schmerze entſpringet das Heil;
+Wenn es zum Schaffen Euch fehlet am Muthe,
+Leget Euch ſchlafen und träumet die Weil'.
+Denn nur der Traum iſt's, der Wunder verkündet,
+Und nur im Schlafe entſtehet der Traum;
+Wer ſich im Zuſtand des Wachens befindet,
+Füllet mit lebenden Thaten den Raum.
+Wollen iſt Streben, und Streben iſt Mühen:
+Ohne die Mühe iſt Wollen nur Gier;
+Sollen im Garten Euch Blumen erblühen,
+Müßt Ihr ſie pflanzen und pflegen ſie hier.
+Nur in den finſteren Nächten der Blindheit
+Hat man die Menſchen mit Träumen geneckt;
+Seit ſie entſchwunden, die Schwächen der Kindheit,
+Werden vom Licht ſie der Wahrheit geweckt.
+Und ſie, die Wahrheit, ſie heißet ſie handeln,
+Lehret ſie lieben und thätig ſtets ſein,
+Lehret auf helleren Wegen ſie wandeln,
+Fliehen den falſchen, erheuchelten Schein.
+Darum, o ſcheut nicht die Dornen der Roſen,
+Fürchtet den Stachel der Bienen auch nicht,
+Weil Euch die Düfte, die ſanften, liebkoſen,
+Und Euch die Biene den Honig verſpricht.
+Wollt Ihr die Höhen des Lebens erſteigen,
+Scheuet die ſteinigen Wege auch nicht;
+Klimmet nur muthig! Der Herr wird Euch zeigen
+Strahlende Wahrheit, Sein heiliges Licht!
+Hillel.
+– 383 –
+Vergeſſen – und Erinnerung.
+(Medium Arm . . .)
+Der Schmerz bemißt ſich nach Verluſt –
+Doch tilget ihn die Zeit;
+Mit ſüßer Wehmuth füllt die Bruſt
+Was ſchied zur Seligkeit.
+Vergängliches verſchwindet ganz
+Aus der Erinn'rung Reich;
+Was Liebe wand zu einem Kranz,
+Die Seelen, die ſich gleich,
+Das duftet fort im Herzen ſpät,
+Es ſchlug die Wurzel tief;
+Und wenn auch Ein’s von dannen geht,
+Weil Gott es zu ſich rief,
+So lebt es hier und lebet dort
+Ein doppelt Leben gar : –
+Im Herzen hier des Freundes fort,
+Dort – in der Engel Schaar !
+Juan. Hillel.
+An unſere Collegen der öffentlichen Preſſe.
+Wir erſuchen freundlichſt die Herrn Redakteure und Heraus
+geber jener Journale, die unſere Zeitſchrift erhalten, da es doch der
+Beförderung der Wahrheit und der menſchlichen Eintracht gilt, in
+ihren geſchätzten Organen gütigſt mit einigen Worten erwähnen zu
+wollen, daß die ſpiritiſche Monatſchrift: „Licht des Jenſeits“ von
+Conſt. Delhez, mit Anfangs Jänner 1868, ihren 3. Jahrgang
+beginnt. Das jährliche Abonnement von 6 fl. ö. W. für Wien,
+von 7 fl. mit Poſtverſendung, für die Provinz, von 4 Thalern für
+Deutſchland, findet im Selbſtverlage des Herausgebers, Wien, Sin
+gerſtraße Nr. 7 ſtatt. -
+– 384 –
+An unſere theuren ſpiritiſchen Brüder und Abonnenten.
+Beſondere Verhältniſſe haben uns für eine Zeit gezwungen,
+neben unſeren im Winter ſchon großen Beſchäftigungen noch eine
+dringende literariſche Arbeit zu übernehmen, die leider unvermeidlich
+während einiger Monate die regelmäßige Erſcheinung unſerer Zeit
+ſchrift beeinträchtigt hat.
+Da es jedoch, obgleich indirekt, nur in dem Intereſſe der ſpi
+ritiſchen Sache geſchah, und es hoffentlich nicht über den 1. Februar
+1868 die erwähute Regelmäßigkeit ſtören wird, bitten wir unſere
+hochgeſchätzten Abonnenten und Brüder um gütige Nachſicht. So wie
+auch in Betreff unſerer ſcheinbaren Nachläſſigkeit im Briefwechſel.
+Es gebricht uns gewiß nicht an gutem Willen, dagegen oft an
+Zeit. – Nichts deſtoweniger werden die gütigen Nachrichten und
+nützlichen Notizen, die man uns in Bezug auf Spiritismus ſendet,
+dankbar empfangen und nach Thunlichkeit in ihrer Zeit benützt
+Werden.
+C. Delhez.
+Druck von Adolf Holzhauſen in Wien
+k. k. Univerſitäts-Buchdruckerei.
+

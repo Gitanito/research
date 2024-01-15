@@ -1,0 +1,1 @@
+{"type":"link","mylink":"history\/festrede.pdf","mytitle":"25","mylang":"de"}

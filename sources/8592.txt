@@ -1,0 +1,25 @@
+{"type":"link","mylink":"https:\/\/www.nderf.org\/NDERF\/Research\/number_nde_usa.htm","mytitle":"How many USA NDEs","mylang":"de"}
+          	How many USA NDEs                    	            		
+
+How Many NDEs Occur in the United States Every Day?    
+  Home Page  Current NDEs  Share NDE</span>     	</tr>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The   answer, with methodology presented below is    774    NDEs occurring daily in the United States. 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The prevalence   of NDE in the adult population has been estimated by several major surveys.&nbsp;   A Gallup Poll in   1992 led to an estimate that 13 million Americans had experienced a NDE.&nbsp; The   population of the United States in 1992 was approximately 260 million, leading   to an estimate of NDE prevalence of 13 million/260 million, or 5%.&nbsp; A survey in   Germany (Knoblauch H., Schmied, I. (2001).&nbsp; Different Kinds of Near-Death   Experience: A Report on a Survey of Near-Death Experiences in Germany.&nbsp; Journal   of Near-Death Studies, 20(1), 15-29.) found 4% of over 2000 people surveyed   reported having experienced a NDE.&nbsp; From these data, it is possible to estimate   the incidence of NDE, given certain assumptions.
+  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Statistics are often presented using the aforementioned terms prevalence   and incidence.&nbsp; Prevalence is the percentage of a population that is   affected at a given time.&nbsp; Prevalence is often expressed in units of   percentage.&nbsp; Incidence is rate of occurrence.&nbsp; Incidence is often expressed as a   number of occurrences per time period.&nbsp; The purpose of this essay is to estimate   the incidence of NDEs in the United States expressed as number of NDEs occurring   per day.  
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Gallup poll in 1992 was of    U.S.    adults, and found 5% had NDE: .05 = (number of those surveyed with a prior   history of NDE)/(total number surveyed).
+
+  Therefore:
+
+  Assuming Gallup did his job and   randomly sampled the adult population: .05 * (total adult population) = number   of adults with a prior history of NDE in total adult population.&nbsp; In 1993 the   U.S.    adult population was approximately 260,000,000, therefore: .05 * 260,000,000 =   13,000,000 = total number of individuals with a prior history of NDE in the   total adult population. 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The average age of those surveyed in the 1992    Gallup    Poll should have been approximately the average age of the adult population in   1993.&nbsp; This information may be available from some source I am not aware of.&nbsp; An   estimate of the average age of the adult population in 1993 may be made.&nbsp; Given   that 74 years old is the average U.S. live expectancy, and 18 years old is   adulthood, the average age of the adult population is probably close to (though   somewhat lower than) ((74 + 18)/2) = 46. So on the average, 46 years transpired   to yield 13,000,000 NDEs (note many had the experience as children, yet the   sampled population has all aged past childhood).&nbsp; The number of NDEs per day is   then: 13,000,000/(46 * 365.25) = 774 NDEs per day, given the previously   discussed assumptions.&nbsp; More precise data about the average age of the adult   population in 1993 would yield a more precise calculation.&nbsp; 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recognize this methodology has significant limitations which   include incorrectly assuming that 1) the number of adults is constant between 18   and 74, 2) overestimates the average adult age, and 3) assumes the probability   of NDE occurring is constant across all ages.&nbsp; In spite of these limitations,   this estimate of number of NDEs occurring per day is probably accurate within an   order of magnitude.&nbsp; I am not aware of any other methodology that has been used   to estimate the number of NDEs that occur in a given time period.&nbsp; The goal of   this article is not to definitively answer this question, but to encourage   further consideration of this interesting question.
+
+-Dr. Jeff   </b></body>  
+
+[1] https://www.nderf.org/NDERF/Research/number_nde_usa.htm

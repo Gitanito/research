@@ -1,0 +1,250 @@
+{"name":"Robert Thouless | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/robert-thouless","mytitle":"Robert Thouless | Psi Encyclopedia","mylang":"de"}
+                     Robert Thouless | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Robert Thouless                                                                                                                                                                                                                          Robert Thouless (1894-1984) was an English social psychologist and parapsychologist, best known for his cipher tests of postmortem survival and for introducing ‘psi’ as a collective term for psychic phenomena.    Contents   	Life and Career  	Psychical Research   	Introduction of ‘Psi’ 	Survival Cipher Tests 	Works  	Books  	Book Chapters 	Selected Articles 	Book Reviews   	Literature 	Endnotes     Life and Career
+
+Robert Henry Thouless was born in Norwich, England and studied at Cambridge University. His first publication, Introduction to the Psychology of Religion (1922), was based on his PhD thesis. After serving in World War I as a signals officer he lectured in psychology at the universities of Manchester and Glasgow. In 1938 he moved to Cambridge as a fellow of Corpus Christi College, winning a readership in the education department in 1945. He was president of the psychology section of the British Association and of the British Psychological Society (1949-50).
+
+In 1925 he published General and Social Psychology, which went through five editions. He is credited with important contributions to the experimental study of perception, notably with two 1931 papers in the British Journal of Psychology&nbsp;(1931), dealing with shape constancy.1 He also gained expertise in experimental method and the use of statistics in psychology. His best-known book is Straight and Crooked Thinking&nbsp;(1932) (How to Think Straight in the USA), a practical manual on critical thinking.2
+
+He was the father of David Thouless, a Nobel Prize laureate in physics.  Psychical Research
+
+Thouless first became interested in psychical research on the publication in 1934 of JB Rhine’s book Extra Sensory Perception.3 He later became somewhat sceptical of Rhine’s results, criticizing a lack of essential detail in his published reports.4
+
+He was elected to the council of the Society for Psychical Research (SPR) and served as its president between 1942 and 1944.
+
+Thouless carried out experiments in card-guessing, with only chance results, but obtained significant scores in dice-throwing tests.5 Unlike those who believed that strong concentration is the way to achieve high scores, he concluded that too strong a motivation is liable to create anxiety and lead to failure and that the ideal is to aim for an ‘effortless intention to succeed’.6
+
+He approached the subject of psi phenomena from the point of view of an experimental psychologist but held that observational methods were equally important.7  Introduction of ‘Psi’
+
+Thouless introduced the term ‘psi’ in a 1942 SPR address and an article in the same year in the British Journal of Psychology, crediting Bertold Wiesner, a physiologist who was interested in parapsychology, with having first proposed it.8 &nbsp;He argued that the existing terms ‘telepathy’, ‘clairvoyance’ and ‘precognition’ – also the term ‘extra-sensory perception’ that was adopted in their place by JB Rhine – were misleading, since they made assumptions that were likely wrong. &nbsp;He elaborated the concept in a 1947 paper co-authored with Wiesner,9 which, following the publication of results of successful dice-throwing experiments by Rhine’s team, extended psi to include psychokinesis. The authors’ further designations of ESP as ‘psi-gamma’ and PK as ‘psi-kappa’ are sometimes used by parapsychologists. &nbsp;
+
+In this paper, Thouless and Wiesner suggested that all four entities (telepathy, clairvoyance, precognition and psychokinesis) should be considered as aspects of essentially the same process. They further proposed that psi functions, hitherto considered abnormal, ‘are merely unusual forms of processes which are themselves usual and commonplace, and that in their usual and commonplace form, they are to be found as elements in the normal processes of perception and motor activity’.10  Survival Cipher Tests
+
+Thouless believed his most important work was in the question of postmortem survival.11 He maintained that the subject needed experimental clarification and multiple replications, stating, ‘The proper reason for trying to find scientific evidence on the problem of survival lies in its implications for science, not for religion’.12
+
+A common idea was that a medium, by communicating with a surviving deceased individual, might learn the contents of a sealed message left by that person for the purpose of proving survival. But such a test could only be attempted once. Accordingly, he developed the idea of an enciphered message that would remain unsolved until, having died, he was able to communicate the key through a medium, thus proving that he had survived death.13 &nbsp;
+
+In 1948, he published two such ciphers. The first, lines from Shakespeare’s Macbeth encrypted using the Playfair cipher, was quickly deciphered using the keyword SURPRISE, a considerable feat in the pre-computer age, but by whom and by what method remains unknown.14
+
+Thouless responded by creating a more complex third code, also based on Playfair but with two keywords. Both the second and third codes remained unsolved when Thouless died in 1984. However, no medium was able to provide the information needed to break the encryption, suggesting either that Thouless had been unable to transmit it successfully or that he had not survived death.
+
+The third code was solved by James J Gillogly in 1995 with the aid of a computer, the keywords revealed as BLACK BEAUTY.15
+
+The second code, based on a book cipher, was solved in 2019 by Richard Bean, an IT expert at the University of Queensland, who used computers to scan all 37,000 English-language books in Project Gutenberg. After about five days this revealed the source text as the poem The Hound of Heaven by Francis Thompson, and the deciphered message as ‘A number of successful experiments of this kind would give strong evidence for survival’.16  Works  Books
+
+An Introduction to the Psychology of Religion (1923). New York: Macmillan.
+
+Control of the Mind (1929). New York: Doubleday, Doran &amp; Company Inc.
+
+Psychical Research Past and Present (1952). London: Society for Psychical Research.
+
+Experimental Psychical Research (1963). London: Penguin.
+
+Mind and Consciousness in Experimental Psychology (1963). Cambridge: Cambridge University Press.
+
+Straight and Crooked Thinking (1968). London: Pan Books Ltd.
+
+From Anecdote to Experiment in psychical Research (1972). London: Routledge and Kegan Paul.  Book Chapters
+
+Implications for religious studies (1977). In Advances in Parapsychological Research, vol. I, 175-90, ed. by S. Krippner. New York: Plenum.  Selected Articles
+
+Correspondence: G. Murray’s experiments in telepathy (1925). Journal of the Society for Psychical Research 22, 51-54.
+
+Report: A demonstration of experiments on hypnotism by Mr Gustaf Wallencies (1928, with F.H.G. van Loon). Proceedings of the Society for Psychical Research 36, 437-54.
+
+Review of Dr Rhine’s recent experiments in telepathy and clairvoyance and a reconsideration of J.R. Coover’s conclusions on telepathy (1935). Proceedings of the Society for Psychical Research 43, 24-37.
+
+Correspondence: [Tyrrell and J.B. Rhine] (1935). Journal of the Society for Psychical Research 29, 108-9.
+
+Correspondence: [Whately Carington] (1935). Journal of the Society for Psychical Research 29, 128-30.
+
+Review of Mr Whately Carington’s work on trance personalities (1936-37). Proceedings of the Society for Psychical Research 44, 223-275.
+
+Correspondence: The quantitative study of séance personalities (1938). Journal of the Society for Psychical Research 30, 167-69.
+
+Report: Glasgow repetition of Dr Rhine’s experiments on ESP (1938-39). Proceedings of the Society for Psychical Research 45, 252-56.
+
+Correspondence: Mr Tyrrell’s electrical apparatus (1939). Journal of the Society for Psychical Research 31, 25-28.
+
+Review of a symposium of ESP methods at the meeting of the Southern Society for Philosophy and Psychology as published in the Journal of Parapsychology III/I June 1939 (1940). Journal of the Society for Psychical Research 31, 153-54.
+
+Presidential Address: The present position of experimental research into telepathy and related phenomena (1942). Proceedings of the Society for Psychical Research 47, 1-19.
+
+Experiments in paranormal guessing (1942). British Journal of Psychology 33/1, July, 15-27
+
+Correspondence: Dr Layard’s paper (1942). Proceedings of the Society for Psychical Research 47, 270.
+
+Correspondence: J. Layard (1944). Journal of the Society for Psychical Research 33, 82-83.
+
+Some experiments on PK effects in coin spinning (1945). Proceedings of the Society for Psychical Research 47, 277-81.
+
+Correspondence: D.J. West and further experiments on PK effects in coin spinning (1945). Proceedings of the Society for Psychical Research 47, 291-92.
+
+Correspondence: The sensitivity of card guessing (1945). Journal of the Society for Psychical Research 33, 175-76.
+
+Correspondence: [PK] (1947). Journal of the Society for Psychical Research 34, 55-58.
+
+Report: Experimental investigation by the Cambridge Psychical Research Group (1947). Journal of the Society for Psychical Research 34, 112-15.
+
+The psi process in normal and paranormal psychology (1947, with B.P. Wiesner). Proceedings of the Society for Psychical Research 48, 177-96.
+
+Correspondence: [Mr E. Cudden and pendulums] (1948). Journal of the Society for Psychical Research 34, 160.
+
+Correspondence: Random selectors for ESP experiments (1948). Journal of the Society for Psychical Research 34, 224-25.
+
+Correspondence: Pendulum experiment (1948). Journal of the Society for Psychical Research 34, 235-37.
+
+Correspondence: Psi process (1948). Journal of the Society for Psychical Research 34, 305-6.
+
+A test for survival (1948). Proceedings of the Society for Psychical Research 48, 253-63.
+
+Additional note on a test for survival (1948). Proceedings of the Society for Psychical Research 48, 342-43.
+
+A comparative study of performance in three psi tasks (1949). Journal of Parapsychology 13, 263-73.
+
+Report: An experiment in PK with dice (1951). Proceedings of the Society for Psychical Research 49, 107-30.
+
+Correspondence: Dr Geley’s reports on the medium Eva C. (1955). Journal of the Society for Psychical Research 38, 95-96.
+
+The Oliver Lodge posthumous test of survival (1955). Journal of the Society for Psychical Research 38, 172.75.
+
+Some problems of terminology and evidence (1957). Proceedings of four conferences of parapsychological studies. New York: Parapsychology Foundation.
+
+The empirical evidence for survival (1960). Journal of the American Society for Psychical Research 54, 23-32.
+
+Where does parapsychology go next? (1960). Journal of the Society for Psychical Research 40, 207-19.
+
+The repeated guessing technique (1960). International Journal of Parapsychology 2/3, 21-36.
+
+Correspondence: The ultrasonic whistle (1960). Journal of the Society for Psychical Research 40, 320-21.
+
+Correspondence: In The Observer (1961). Journal of the Society for Psychical Research 41, 214-15.
+
+Correspondence: The ‘Anderson Testimony’ (1963). Journal of the Society for Psychical Research 42, 140-43.
+
+Correspondence: Crookes and Cook (1963). Journal of the Society for Psychical Research 42, 203-8.
+
+Correspondence: K.R. Rao (1964). Journal of the Society for Psychical Research 42, 366-67.
+
+Report: The Parapsychology Association Convention at Oxford (1964). Journal of the Society for Psychical Research 42, 413-14.
+
+The picture completion test for ESP (1966). Journal of the Society for Psychical Research 43, 422-27.
+
+Review of periodical literature: America (1968). Journal of the Society for Psychical Research 44, 333-38.
+
+Correspondence: [Hansel and Soal] (1969). Journal of the Society for Psychical Research 45, 91-92.
+
+Correspondence: ESP cards (1969). Journal of the Society for Psychical Research 45, 187-88.
+
+Correspondence: Madame Blavatsky and the ‘Hodgson Report’ (1970). Journal of the Society for Psychical Research 45, 314-15.
+
+The measurement of efficiency of ESP (1970). Journal of the Society for Psychical Research 45, 323-25.
+
+Experiments in psi self-training with Dr Schmidt’s pre-cognitive apparatus (1971). Journal of the Society for Psychical Research 46, 15-21.
+
+Correspondence [telepathy] (1973). Journal of the Society for Psychical Research 47, 128.
+
+Fresh lights on the Shackleton experiments (1974). Proceedings of the Society for Psychical Research 56, 88-92.
+
+Correspondence: Cipher test (1975). Journal of the Society for Psychical Research 48, 185.
+
+The effect of the experimenter’s attitude in experimental results on parapsychology (1976). Journal of the Society for Psychical Research 48, 261-66.
+
+The effect of information given to the subject in card-guessing experiments with closed packs (1977). Journal of the Society for Psychical Research 49, 429-33.
+
+Correspondence: A. Parker’s doctoral degree (1978). Journal of the Society for Psychical Research 49, 902-3.
+
+Correspondence [Soal] (1978). Journal of the Society for Psychical Research 49, 965-68.
+
+Theories about survival (1979). Journal of the Society for Psychical Research 50, 1-9.
+
+Correspondence: Spiritualism (1980). Journal of the Society for Psychical Research 50, 319-20.
+
+Do we survive death? (1984). Proceedings of the Society for Psychical Research 57, 1-52.
+
+Reviews of The Journal of Parapsychology 1954-1965 (1955-66).
+
+Journal of the Society for Psychical Research 38-43.  Book Reviews
+
+Psychology Down the Ages by C. Spearman (1938-39). Proceedings of the Society for Psychical Research 45, 100-1.
+
+Telepathy: An Outline of its Facts, Theory and Implication by Whately Carington (1942-45). Proceedings of the Society for Psychical Research 47, 275-76.
+
+The Sixth Sense: An Enquiry into Extra Sensory Perception by R. Heywood (1959). Journal of the Society for Psychical Research 40, 140-42.
+
+The Enigma of Survival by H. Hart (1960). Journal of the Society for Psychical Research 40, 265-66.
+
+The Boy and the Brothers by Swami Omananda Puri (1960).&nbsp;Journal of the Society for Psychical Research 40, 312-14.
+
+The Mystical Life by J.H.M. Whiteman (1963). Journal of the Society for Psychical Research 42, 25-26.
+
+Swan on a Black Sea: A Study in Automatic Writing by G. Cummins (1966). Journal of the Society for Psychical Research 43, 267-70.
+
+Obituary: The ‘Hodgson Report’ on Madame Blavatsky by A.E. Waterman (1968). Journal of the Society for Psychical Research 44, 341-49.
+
+Towards the mysteries by Swami Omananda Puri (1969). Journal of the Society for Psychical Research 45, 25-27.
+
+Altered States of Consciousness, ed. C.T. Tart (1970). &nbsp;Journal of the Society for Psychical Research 45, 245-46.
+
+Exorcism: The findings of a Commission Convened by the Bishop of Exeter ed. Dom R. Petitpierre (1972). Journal of the Society for Psychical Research 46, 167-68.
+
+Essays in the Philosophy of Religion by H.H. Price (1972). Journal of the Society for Psychical Research 46, 209-10.
+
+Methods and Models for Education in Parapsychology by D. Scott Rogo (1973). Journal of the Society for Psychical Research 47, 260-61.
+
+The Mysterious Power of Linda Martel by R. Martel (1973). Journal of the Society for Psychical Research 47, 267.
+
+The Challenge of Chance by A. Hardy, R. Harvie and A. Koestler (1974). Journal of Parapsychology 38/4, 423.
+
+Life, Death and Psychical Research ed. D. Pearce-Higgins and G.S. Whitby (1974). Journal of the Society for Psychical Research 47, 329-31.
+
+Parapsychology: Sources of Information by R.A. White and L.A. Dale (1974). Journal of the Society for Psychical Research 47, 337-38.
+
+ESP and Psychology by C. Burt ed. A. Gregory (1975). Journal of the Society for Psychical Research 48, 179-82.
+
+Pitfalls in Human Research. Ten Pivotal Points by T.X. Barber (1977). Journal of the Society for Psychical Research 49, 452-53.
+
+Prophecy, Behaviour and Change: An Examination of Self-fulfilling Prophecies in Helping Relationships by G. Smale (1977). Journal of the Society for Psychical Research 49, 545-56.
+
+Psi: Scientific Studies of the Psychic Realm by C.T. Tart (1978). Journal of the Society for Psychical Research 49, 758-89.
+
+Cases of the Reincarnation Type Vol. II: Ten Cases in Sri Lanka by I. Stevenson (1978). Journal of the Society for Psychical Research 49, 894-95.
+
+Report to the Archbishop of Canterbury of the committee on spiritualism in the Christian Parapsychologist (1979). Journal of the Society for Psychical Research 50, 184-87.
+
+Cases of the Reincarnation Type Vol. III: Twelve Cases in Lebanon and Turkey by I. Stevenson (1981). Journal of the Society for Psychical Research 51, 101-2.
+
+Melvyn Willin  Literature
+
+Bean, R. (2019). How I cracked a 70-year-old coded message from beyond the grave. The Conversation, August 29. [web page]
+
+Beloff, J. (1985). Robert Henry Thouless: An appreciation. Journal of Parapsychology 49/3, 221-27.
+
+Berger, A.S. (1983). The man who invented psi. The Unexplained 13/147, 2938-40.
+
+Berger, A.S. (1985). In memory of Robert H. Thouless. Journal of the Society for Psychical Research 53, 56-59.
+
+Haynes, R. (1982). The Society for Psychical Research 1882-1982 a History. London: Macdonald &amp; Co.
+
+Thouless, R.H. (1935). Review of Dr Rhine’s recent experiments in telepathy and clairvoyance and a reconsideration of J.R. Coover’s conclusions on telepathy. Proceedings of the Society for Psychical Research 43, 24-37.
+
+Thouless, R.H. (1942a). Experiments in paranormal guessing. British Journal of Psychology 33/1, July, 15-27.
+
+Thouless, R.H. (1942b). Presidential Address: The present position of experimental research into telepathy and related phenomena. Proceedings of the Society for Psychical Research 47, 1-19.
+
+Thouless, R.H. and Wiesner, B.P. (1947). The psi process in normal and paranormal psychology. Proceedings of the Society for Psychical Research 48, 177-96.
+
+Thouless, R.H. (1948a). A test for survival. Proceedings of the Society for Psychical Research 48, 253-63.
+
+Thouless, R.H. (1948b). Additional note on a test for survival. Proceedings of the Society for Psychical Research 48, 342-43.
+
+Thouless, R.H. (1951). Report: An experiment in PK with dice. Proceedings of the Society for Psychical Research 49, 107-30.
+
+Thouless, R.H. (1952). Psychical Research Past and Present. London: Society for Psychical Research.   Endnotes 1. Beloff (1985), 221. 2. Beloff (1985), 221. 3. Berger (1985), 56. 4. Thouless (1935), 34-37. 5. Thouless (1951). 6. Beloff (1985), 222. 7. Haynes (1982), 212; Thouless (1942b). 8. Thouless (1942a, 1942b). 9. Thouless &amp; Wiesner (1947). 10. Thouless &amp; Wiesner (1947), 179. 11. Berger (1985), 57. 12. Thouless (1952), 19. 13. Thouless (1948a). 14. Bean (2019). 15. Bean (2019). 16. Bean (2019).           			  			     			This page was last updated on: February 10, 2023   			 			                                               	       Search form        Search                   Article Information           	Author: Melvyn Willin Word count: 2,700 Created: 30th December 2021 Last updated: 10th February 2023 May be cited as:Willin, M. (2021). &lsquo;Robert Thouless&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/robert-thouless&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/y4guv3zk                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/robert-thouless

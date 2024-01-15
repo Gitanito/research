@@ -1,0 +1,277 @@
+{"type":"link","mylink":"https:\/\/www.nderf.org\/NDERF\/Research\/purpose_lifereview.htm","mytitle":"Purpose\/Life Review","mylang":"de"}
+          	Purpose/Life Review                    	            		
+
+Life   Review, Changed Beliefs, Universal Order and Purpose, and the Near-Death   Experience, </font>Part 4 Soulmates     </o:p>
+  by Jody A.   Long, J.D.     
+  Home Page  Current NDEs  Share NDE</span>     	</tr>        </div>  </b>
+
+  ABSTRACT:&nbsp;    This study is a retrospective review of 319   NDErs responses to questions about the near-death experience and the life   review, changed beliefs, life changes, and universal order/purpose. &nbsp;From the   chi square test, all of these factors highly correlate with each other and make   more sense when studied as a group.&nbsp; This paper looks at the role of the life   review in helping to understand universal purpose and subsequently the changes   that people undergo after their experience.&nbsp;
+
+  KEY WORDS:&nbsp;    near-death experience; life review,   universal order, universal purpose, purpose, life purpose, changed beliefs,   lifestyle changes.
+  &nbsp;   
+
+Life   Review, Changed Beliefs, Universal Order and Purpose, and the Near-Death   Experience, Part 4 Soulmates         by  Jody </p>
+
+    Reprint requests may be sent to Jody A. Long, J.D. at
+
+  
+   INTRODUCTION
+  
+  One of society's most cherished beliefs is   that the universal purpose includes reuniting with our Soulmate, that twin-flame   of existence, born at the same time from the one spark of our being.&nbsp; Is this   folklore or is it based on a grain of truth?&nbsp; &nbsp;&nbsp;One way to gain insight into   this question is to look at how near-death experiencers (NDErs) answered   questions pertaining to the life review, universal order/purpose, and what   changes occurred in their lives after the NDE.&nbsp; 
+  
+  People who are near-death experiencers are people who have died or experienced   an imminent life-threatening event and subsequently come back to life.&nbsp; They   come back with a collection of memories that occurred during the time of death.   (Long, Jody 2003).&nbsp; Among these memories, many NDErs report experiencing a life   review.&nbsp; According to Bruce Greyson, in developing the Greyson NDE scale, he   indicates that the life review is unique to the NDE and reported by 22% of NDErs   in his study population of n=74. (Greyson, 1984, p.52)
+
+Another common   phenomenon is that while NDErs are on the other side, many report that they have   total knowledge.&nbsp; They understand the workings of the universe and the purpose   for being on earth.&nbsp; Some are even lucky enough to remember some of this   knowledge when they return to their body.&nbsp; Moreover, NDErs typically report many   life changes or changes of beliefs as a direct consequence of their NDE.&nbsp;   Therefore, this paper will look at the answers that NDErs gave in these three   areas and how these factors interrelate to each other.
+
+METHODOLOGY
+
+This study is a   retrospective review of data received from an Internet survey on the Near Death   Experience Research Foundation (NDERF) website     www.nderf.org    (Long, 2003). &nbsp;Out of a total of 660 experiences submitted to the   website, 319 of these experiences met the research definition of NDE as defined   as, &quot;A lucid experience associated with perceived consciousness apart from the   body occurring at the time of actual or threatened imminent death&quot;&nbsp;(Long).&nbsp; It   was then determined which of the 319 NDErs answered the questions about the life   review, universal order/purpose, and changes after the NDE.&nbsp; Four questions were   asked with a &quot;yes, &quot;no,&quot; &quot;uncertain,&quot; or &quot;no response&quot; (Y/N/U/NR) button   option.&nbsp; The &quot;no response&quot; button is the default response.&nbsp; A narrative box was   provided below the question to explain &quot;yes&quot; or &quot;uncertain&quot; responses.&nbsp; These   questions are: 1) Did you experience a review of past events in your life?; 2)   Did you have a sense of knowing special knowledge, universal order and/or   purpose?; 3) Did you have any changes of attitudes or beliefs following the   experience?; and 4) Has your life changed specifically as a result   of your experience?
+  
+  A coding system for the responses to each of the four open-ended questions   listed above was devised based on how NDErs answered the narrative box to each   question.&nbsp; The narrative results were tabulated according to words or concepts.&nbsp;   Although one answer might be scored in more than one category, there was only   one experiencer answer per category.&nbsp; This is relevant because some people had   many words or concepts to describe their answers, so may have counted in several   categories.&nbsp; However, only one NDE word or concept was counted in each   category.&nbsp; For instance, one NDEr may have answered a question with the   following words: &quot;purpose, interconnectedness, and learning.&quot;&nbsp; There would be   one mark for this particular answer in each of the three categories of 'sense of   purpose,' 'interconnectedness/oneness,' and 'lessons/learning.'
+
+Consequently, it is   valid to compare percentages of participants who answer in each category with   the total population who gave narratives answers to the question.&nbsp; However,   percentages calculated using a cross-comparison between the categories would not   be valid.
+
+Dr. Jeff   developed an Excel based chi-square calculation engine based on over 2,000 data   points.&nbsp; Calculations are automatically updated when new data is added.&nbsp;   Comparison data from this chi-square engine were used in analysis.
+
+RESULTS
+
+When looking at the   expected and observed outcomes, the chi square test shows whether the observed   difference is due to chance or if it is statistically significant.&nbsp; The lower   the p value, the less the difference is due to chance alone.&nbsp; A p value under   .01 is usually considered statistically significant.&nbsp; Here one can see that all   four questions have high correlations with each other.&nbsp; The chi square test   yields some fascinating correlations between the following:&nbsp; 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;___&nbsp;&nbsp;&nbsp; &nbsp;   p-value_
+  Life change and changed beliefs:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.28E-15
+  Universal order and life change&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.09E-12
+  Universal order and life review&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.61E-06
+  Universal order and changed beliefs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.75E-05
+  Life review and life change&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.36E-05
+  Life review and changed beliefs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.03E-05
+  Life review and life change &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.11E-04
+
+Life change and   changed beliefs highly correlate with each other.&nbsp; Even when tabulating results,   these questions were so similar that many people would answer the first question   on changed beliefs and then in the second question about life change, they would   leave it blank or say &quot;see above&quot; or &quot;already answered.&quot;&nbsp; There were 318 NDEr   participants for these questions.&nbsp; When asked, &quot;Did you have any changes of   attitudes or beliefs following the experience?,&quot; 255 (80.19%) of NDErs   responded.&nbsp; There were 241 NDErs (75.79%) who answered &quot;yes,&quot; 33 (10.38%) &quot;no,&quot;   12 (3.78%) &quot;uncertain,&quot; and 32 (10.06%) &quot;no response.&quot;&nbsp; Compare that with those   who were asked, &quot;Has your life changed specifically as a result of   your experience?,&quot; in which 169 (53.14%) NDErs responded.&nbsp; There were   185(58.18%) of the NDE participants who answered &quot;yes,&quot; 38 (11.95%)   &quot;no,&quot; 19 (5.97%) &quot;uncertain,&quot; and 76 (29.87%) &quot;no response.&quot;&nbsp; &nbsp;            
+
+Life       Change/Changed beliefs       
+
+      Changed Beliefs       
+
+n=255       
+
+Life       Change       
+
+n=169               
+
+      Religion, Spirituality, Increased belief in God/Jesus/Supreme being       
+
+      89       
+
+      34.90%       
+
+      20       
+
+      11.83%               
+
+      Continuity of life, lack of fear of death       
+
+      75       
+
+      29.41%       
+
+      19       
+
+      11.24%               
+
+      Lifestyle, Embrace life, Life is Precious       
+
+      27       
+
+      10.59%       
+
+      17       
+
+      10.06%               
+
+      Purpose       
+
+      13       
+
+      5.10%       
+
+      17       
+
+      10.06%               
+
+Look       at life differently       
+
+      12       
+
+      4.71%       
+
+      12       
+
+      7.10%               
+
+Accept       self, learn to love       
+
+      17       
+
+      6.67%       
+
+      10       
+
+      5.92%               
+
+Help       others       
+
+      12       
+
+      4.71%       
+
+      10       
+
+      5.92%               
+
+      Tolerance, forgiveness, compassion       
+
+      12       
+
+      4.71%       
+
+      9       
+
+      5.33%               
+
+      Gratitude, appreciation       
+
+      5       
+
+      1.96%       
+
+      7       
+
+      4.14%               
+
+Learn,       self-knowledge       
+
+      10       
+
+      3.92%       
+
+      6       
+
+      3.55%               
+
+      Relaxed, non-materialistic, things of this world don't matter       
+
+      22       
+
+      8.63%       
+
+      6       
+
+      3.55%               
+
+      Friends, people matter       
+
+      10       
+
+      3.92%       
+
+      5       
+
+      2.96%               
+
+      Greater awareness, empathy       
+
+      16       
+
+      6.27%       
+
+      5       
+
+      2.96% </span>   
+  Home Page  Current NDEs  Share NDE</span>
+
+As expected, the   highest two categories of belief and life changes are those pertaining to   religion/spirituality, and concerning the continuity of life and lack of fear of   death.&nbsp; The categories of answers can be further reduced to certain areas of   changes.&nbsp; The largest sections being categorized as the &quot;reality of our external   world&quot; and consists of such answers as religion, spirituality, increased belief   in God/Jesus/Supreme being, the continuity of life, lack of fear of death,   interconnectedness, oneness, disconnectedness, fragmented, not part of this   earthly world, and altered states.&nbsp; The category of &quot;life in general&quot; consists   of changes in lifestyle, embracing life, life is precious, sense of purpose,   look at life differently, and the NDE is a catalyst for change.&nbsp; Personality   changes consisted of the &quot;qualities&quot; of accepting self, and learning to love,   tolerance, forgiveness, compassion, gratitude, appreciation, learning, being a   student, self-knowledge, relaxed, non-materialistic, the attitude that things of   this world don't matter, a greater awareness, empathy, wanting to help others,   freedom, more to life, choices, giving up drugs/alcohol, fear or lack of fear.&nbsp;   The second to the last category consists of changes regarding people.&nbsp; These are   that &quot;people&quot; and friends matter, the importance of relationships, family, some   changed their relationships or careers.&nbsp; The last category is that of &quot;other&quot;   where the NDEr did not know or was too young to determine if the NDE caused the   changes.
+
+
+  Out of 319 NDErs, 186 (58.3%) responded to   the question participants who were asked, &quot;Did you have a sense of knowing,   special knowledge, universal order and/or purpose?&quot;&nbsp; There were 171 NDErs   (53.60%) who answered &quot;yes,&quot; 107 (33.54%) &quot;no,&quot; 23 (7.21%) &quot;uncertain,&quot; and 18   (5.64%) &quot;no response.&quot;&nbsp; There are a lot more people who answered &quot;no&quot; to this   question than to the question about life or belief changes.&nbsp; This may be an   indication that having a sense of knowing or purpose is not experienced by as   many people or perhaps as important in facilitating life changes as other   factors characteristic to the NDE.
+
+Again, we see the   same types of categories that other NDE studies show as important.&nbsp; The top   reason given for universal order (22.04%) is that it is part of the natural   cycle of birth and death as it relates to the continuity of life.&nbsp; The next part   of universal order is &quot;love,&quot; at 16.13%.&nbsp; There were 15.05% of NDErs who   understood that they had a purpose for being on earth because they were told to   come back to earth.&nbsp; Interestingly, 12.9% of the responses gave the universal   purpose in terms of being connected on a universal level, but then the earth   experience was one of learning to reconnect.&nbsp; Others indicated that they had the   lessons of acceptance (9.68%), helping others (8.06%), understanding that God   exists (7.53%), that we have freewill in making choices (3.23%) and that we   learn lessons by these choices (3.23%).
+
+Answers to the life   review were the most intriguing.&nbsp; Out of 319 NDErs, 143 (44.83%) responded to   the question.&nbsp; There were 85 NDErs (26.64%) who answered &quot;yes,&quot; 207 (64.89%)   &quot;no,&quot; 12 (3.76%) &quot;uncertain,&quot; and 15 (4.70%) &quot;no response.&quot;&nbsp; The top three   answers were: 1) our mission is to love/help one another 21 (14.69%); 2) it   'changed my life'20 (13.99%); and 3) 16 (11.19%) NDErs commented on how the life   review was like 'life events passed swiftly by.'&nbsp;
+
+There were four   different categories that the life review comments could be placed:&nbsp; 1) how the   life review physically happened; 2) content; 3) aftereffects; and 4) other.&nbsp;   There were (37) 25.87% NDErs who described how the life review occurred.&nbsp; Many   described the life review like a re-run of a play, a film, or watching it   on-screen.&nbsp; There were 31 (21.68%) of the NDErs commented on the content of the   life review.&nbsp; NDErs generally noted that they were the ones who judged themselves.&nbsp;   During the process, they saw the good, the bad, and cause and effect of their   choices.&nbsp; Many reported that they had a review of feelings,   rather than a review of events.&nbsp; Some say that their review   consisted of feeling others reactions to their earthly actions.&nbsp; The other large   category 90 (62.94%) were the aftereffects.&nbsp; Not only did participants state   that it was important to love and help others, but they (8.39%) also indicated   that their relationship with God/Jesus was more important to them.&nbsp; NDErs   appreciated life more, and 6.29% stated that it was important to have a sense of   purpose.&nbsp; The smallest category 14 (9.79%) was 'other' in which NDErs reported   not learning anything or they had a life review but couldn't remember it.
+
+DISCUSSION
+
+  &quot;My life was a piece of tapestry and I   realized a man with a cloak and a grey beard was looking at it with me, he asked   me if I would like to take a closer look at it and we zoomed into one of the   stitches and I saw myself in a past situation of my childhood like watching a   video in full color 3D . . whilst the event was being played, I realized I was   feeling ashamed of my actions and shown the outcome, I saw in all those stitches   every event of my life and the bearded man said it wasn't so bad and evened it   up with some of the nicer things I had done in my life. . . I saw the back of   the tapestry and I asked why there were so many loose strings, it looked untidy   and he said it wasn't finished yet. . .Now I know what they mean by Life's Rich   Pattern and the Tapestry of Life!!!'&nbsp; Vivienne
+
+From Vivienne's   comment, one can quickly understand the immensity of the life review, the vast   variety, and the amazing depth contained in one set of symbols.&nbsp; It is also easy   to understand why one might live the rest of their life with this vision as a   touchstone to future actions.&nbsp; Moreover, it also gives one a sense of universal   order/purpose and would be a catalyst for changed beliefs and consequently a   change in the way she lives her life.&nbsp;
+
+In a recent Dutch NDE   study headed by van Lommel, he noted that during the 8 year prospective study   that the life-change inventory had statistically significant values in the areas   of social attitude, religious attitude, attitude towards death and a category of   'others' (van Lommel, p. 2042).&nbsp; The social attitude listed the factors of   showing own feelings, acceptance of others, more loving, empathic, understanding   others, and involvement in family.&nbsp; Religious attitudes that were significant   included understanding the purpose of life, sense inner meaning of life, and an   interest in spirituality.&nbsp; The attitude to death showed a marked decline in the   fear of death and a belief in life after death.&nbsp; The other category consisted of   an interest in the meaning of life, understanding oneself, and an appreciation   of ordinary things.&nbsp; This study corroborates the findings of the Dutch study and   expands on these concepts.
+
+The top three   categories for both, changed beliefs and life changes, are the same: 1)   &quot;Religion/Spirituality&quot; 34.90% and 11.83% respectively; 2) &quot;Continuity of life,   lack of fear of death&quot; 29.41% and 11.24% respectively; and 3) &quot;Lifestyle and   embracing life&quot; 10.59% and 10.06% respectively.&nbsp; Interestingly &quot;love&quot; matters   and helping others is high on the list of changes, but not so many mention   specific people, groups of people, or relationships in their changes.&nbsp; One of   the findings of the study entitled, 'Another Look at Beings Encountered   During the Near Death Experience,' was the importance of blood relatives in   our spiritual growth. &nbsp;(Long, Jody 2002).&nbsp; Therefore, one would have expected a   higher response rate on changes by specifically mentioning the particular   relationships pertaining to blood relatives or family.&nbsp;
+
+The unifying concept   for universal order and purpose is that what we experience on earth is part of a   natural and continual evolution of our individual souls.&nbsp; There is birth here so   that we can learn lessons and help one another to grow.&nbsp; When we leave this   planet, we reunite with God/Jesus/Supreme Being to become one with the   universe.&nbsp; We are all interconnected on the soul level, but for some reason,   when we come to earth, we are fragmented or forget who we really are.&nbsp;
+
+There is a powerful   motivation to become reconnected with spirit while we are on earth.&nbsp; In The   Road Less Traveled, M. Scott Peck defines love as, 'The will to extend one's   self for the purpose of nurturing one's own or another's spiritual growth   (p.81)'&nbsp; This research also validates Peck's clinical observations.&nbsp; As   mentioned in Soulmates and Consciousness, New Understandings from Near-Death   Experience Research (Long, Jody 2002) and Emotions and the Near-Death   Experience (Long, Jody 2003) and supported by results from this study, love   and the will to extend love towards self and others is the key component of   spiritual growth.&nbsp; Emotions are a soul constant that exist in both worlds (Long,   Jody, 2003).&nbsp; Additionally, in Lessons from NDEs About the Fourth Dimension,   it is speculated that love is not just an emotion that we experience on earth   (Long, Jody 2002).&nbsp; It is possible from the evidence that love is actually a   part of a fourth dimensional communication matrix.&nbsp; If so, then perhaps part of   our purpose on earth is to strengthen our soul in a manner that increases our   so-called communication skills.&nbsp;
+
+A natural by-product   of learning to love ourselves and others is reconnecting with the other side.&nbsp;&nbsp;&nbsp;   Through exercising the choice to love, we grow precisely from our exposure to a   world filled with dualities.&nbsp; This type of soul-growth opportunity does not   exist on the other side where there is total love, knowledge, and understanding.
+
+As mentioned earlier,   the biggest catalyst for changes appears to be the life review. &nbsp;Not one person   who commented on this question said that anyone other then themselves was the   judge of their actions.&nbsp; Furthermore, they appeared to judge themselves on their   actions and how those actions made others or themselves feel.&nbsp; There were many   insightful comments:
+
+  'I felt as if life memories were running   out of me, they were like flashes of things.&quot; 
+  ' Sheri
+
+  &quot;No judgment other than how I felt about   the incident.' ' Bob A.
+
+  'Fear is at the core of our mistakes.'&nbsp; -   Sheila
+
+  &quot;What have you done to help your fellow   man?' - Susan
+
+  'I saw how my actions rippled through the   lives of others.' - Dee
+
+  'The car accident was not my fault, so I   understand that many tragic events may not be my fault.' - John
+
+  'I saw my childhood and felt the emotions   my action created in others.&nbsp; I learned that many of the things I thought I did   &quot;wrong&quot; were not necessarily wrong.&nbsp; I also learned of opportunities to love   others which I passed up.&nbsp; I learned that no matter what has been done to me,   there is more to the story that my ego might not see or understand.&nbsp; My life has   assisted because I take into account more the feelings of others when I act.'&nbsp; -   David O.
+
+From these comments   and others, it is striking that the life review does not happen like many people   are taught to believe.&nbsp; The notions of a higher being judging us on our actions   and then sending us to heaven, hell, or any other place, doesn't appear in any   of the 143 responses.&nbsp; Furthermore, the life review appears to be a loving act   and we individually choose to adjust our actions accordingly.&nbsp; Any other beings   present during the life review are there out of compassion and are only there to   help individuals.&nbsp; There is the element of correcting behavior in keeping with a   greater, predetermined purpose.&nbsp;
+
+Surprisingly,   emotions play a big part in the life review.&nbsp; Not only do NDErs talk about   how they feel during the life review, but they talk about how others felt as a   consequence of an individual's earthly actions.&nbsp; In many instances, it   wasn't the action that people mentioned, but rather how the action made   themselves and others feel.&nbsp; Life changing behavior on earth is   consequently adjusted to be more in keeping with this new knowledge.&nbsp; Many   people also change from the integration process in adjusting their belief system   to more accurately reflect the reality on the other side.&nbsp;
+
+From the answers that   NDErs give regarding universal purpose/order, life and belief changes, and the   life review, they all point towards love as being the key to life on earth.&nbsp;   Ways of strengthening love are in helping others collectively and in our   individual relationships.&nbsp; As we learn to love ourselves and to allow our love   to nurture our fellow human beings, we are able to reconnect with   God/Jesus/Supreme Being.&nbsp; Our soul is afforded a unique opportunity for growth   by incarnating on earth.&nbsp; Therefore, the meaning of life is really to be   uniquely human by exercising our free will and making the proper choices to   nourish one's self and others ' our ultimate tool for soul growth and   reconnection with the other side.
+
+
+  REFERENCES
+
+Greyson, B.   (1984). The Near-Death Experience Scale, B. Greyson and C. Flynn (Eds), The   Near-Death Experience, Problems, Prospects, Perspectives, (pp. 45-59).&nbsp;   Springfield, IL: Charles C. Thomas.
+
+Long,   Jody (2002) Another Look at Beings Encountered During the Near Death   Experience,     https://www.nderf.org/NDERF/Research/beingsstudy.htm
+
+Long,   Jody (2003) Emotions and the Near-Death Experience,     https://www.nderf.org/NDERF/Research/emotions.htm
+
+Long,   Jody (2002) Lessons from NDEs About the Fourth Dimension,     https://www.nderf.org/NDERF/Research/fourthdimensionanalysis.htm
+
+Long,   Jody (2002) Soulmates and Consciousness, New Understandings from Near-Death   Experience Research,     https://www.nderf.org/NDERF/Research/consciousness.htm
+
+Long,   Jody and Long, Jeffrey (2003)     https://www.nderf.org
+
+Long,   Jody (2002a) Near-Death Experience, Religion, and Spirituality,
+      https://www.nderf.org/NDERF/Research/religion_spirituality.htm
+
+Long,   Jody (2002) Soulmates and Consciousness,     https://www.nderf.org/NDERF/Research/consciousness.htm
+
+Ornstein, R.   (1991) The Evolution of Consciousness, The Origins of the Way We Think,   Simon &amp; Schuster, New York NY.
+  
+  Peck, M. Scott (1978) The Road Less Traveled, Touchstone, New York NY.
+
+  van   Lommel, P. et al.    (2001) Near Death   Experience In Survivors of Cardiac Arrest: A Prospective Study in the   Netherlands, The Lancet, 358, 2039-2042.
+
+&nbsp;
+
+        
+        
+        Web site last updated:         08/30/17 01:16:10 PM -0500
+
+We appreciate our  visitors:   		        
+  (Counter Set 2/13/02)          </body>  
+
+[1] https://www.nderf.org/NDERF/Research/purpose_lifereview.htm

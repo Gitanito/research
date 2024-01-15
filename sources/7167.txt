@@ -1,0 +1,81 @@
+{"name":"Gertrude Schmeidler | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/gertrude-schmeidler","mytitle":"Gertrude Schmeidler | Psi Encyclopedia","mylang":"de"}
+                     Gertrude Schmeidler | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Gertrude Schmeidler                                                                                                                                                                                                                          Gertrude Schmeidler (1912-2009) was an American experimental psychologist and parapsychologist, noted for her ‘sheep-goat’ theory that experimental subjects’ ESP ability relates to their belief or otherwise in the reality of psychic phenomena.   Contents   	Career 	Sheep-Goats Experiments 	Ingo Swann 	Cerebral Lateralization in ESP Scoring 	Out-of-Body Experiences 	Personal Values and ESP  	Meditation and ESP 	Ganzfeld Survey 	Haunting Investigation 	Therapy and ESP 	Feedback Effects 	Literature 	Endnotes     Career
+
+Gertrude Schmeidler was awarded a PhD in psychology at Harvard University in 1935. A lecture on ESP by&nbsp;Gardner Murphy set her on a new career path, and she was given funding to investigate the topic by Murphy himself. In 1947, Schmeidler obtained a professorship in psychology at City University, New York. There, she conducted numerous ESP and PK experiments aimed at understanding the sheep-goat variable, including a successful series with Ingo Swann. Many of her students’ degrees included work in parapsychology.  Sheep-Goats Experiments
+
+Beginning in 1942, Schmeidler tested the psi abilities of psychologists and students at Harvard. The test was a simple clairvoyance test in which participants guessed the sequence of closed packs of Zener cards placed in a separate room. Before testing, Schmeidler interviewed participants to ascertain if they were believers or disbelievers with regard to ESP. The former were termed ‘sheep’, the latter, ‘goats’. Schmeidler’s first experiment gave clear results: 46 sheep participants averaged 5.31 correct guesses where 5.00 is expected by chance (p = 0.001). Of particular note were the below-chance scores of the goats, suggesting they used ESP to avoid the correct targets and confirm their expectations.1
+
+A further 14 experiments conducted between 1945 and 1951 gave similar results: sheep scored above chance, goats scored below. The accumulated results give extremely high odds against the sheep-goat effect occurring by chance (p = 10 x 10-8).2 3 4 5&nbsp; &nbsp;Other researchers successfully replicated these findings.6   Ingo Swann
+
+In the early 1970s, Schmeidler turned her attention towards understanding psychokinesis (PK). Working with the American Society for Psychical Research &nbsp;she tested the PK abilities of well known clairvoyant Ingo Swann. Swann repeatedly produced significant PK changes in continuous, automatic recordings of temperature variations of graphite samples. Extensive controls included insulating the thermistor in a thermos twenty-five feet away and counterbalancing hot-versus-cold instructions in a rigid pre-set manner. Additional analyses indicated that the PK effect operated by changing the temperature in a field around the target while producing opposite changes in some area distant from the target. It also transpired that the size of the effect was determined by psychological variables rather than by physical variables such as distance.7  Cerebral Lateralization in ESP Scoring
+
+Schmeidler and Maher tested for brain hemisphere effects on ESP performance. In this experiment, 24 right-handed participants guessed ESP targets while engaged in an analytical task that was thought to be dominated by the left brain hemisphere, and a holistic task (pattern recognition) thought to be associated with the right hemisphere. Targets were physical objects or words; participants made their choices using the right or left hand. ESP scoring was significantly high for right-handed choices of word targets during pattern recognition, as predicted, freeing up the language centres in the left hemisphere to use ESP in this word task. However, the high scores that were expected in the mirror image of this condition (left-handed choices of concrete objects while solving syllogisms) were not found. Overall ESP scoring in the two conditions was significantly high, although somewhat separated by gender: males scored significantly high, while females obtained non-significant but trending evidence of ESP.8  Out-of-Body Experiences
+
+Schmeidler examined reports of out-of-body experiences to discover their characteristics and the situations in which they are likely to occur.9 She found that OBEs that happen spontaneously as a result of accident or illness (near-death experiences) exhibited a deeper phenomenology and longer-lasting spiritual impact than those that were self-induced. She concluded that some empirical support exists for OBEs as a real phenomenon, both from veridical reports in near-death accounts and the few laboratory studies extant at the time.  Personal Values and ESP
+
+Schmeidler investigated the impact of values as measured by the Allport-Vernon Study of Values.10 In this study, unselected participants were first asked whether they believed they could demonstrate success at an ESP task, then given the Allport-Vernon Study of Values before completing the test. Schmeidler predicted that those who accepted the possibility of success would show higher scores than those who did not, also that that this would be especially marked among participants with high theoretical scores on the Study of Values (one of six categories measured). Both predictions were comfortably supported (p = 0.01).  Meditation and ESP
+
+Working with an Indian Swami, Schmeidler tested for the impact of meditation on ESP performance. Prior to meditating, the Swami was given a standard ESP test, in which he scored at chance. When the test was repeated after a period of meditation he achieved comfortably significant results (p = 0.01). This success was repeated several times.11 In a subsequent review, Schmeidler found a significant effect in four out of nine similar meditation studies.12   Ganzfeld Survey
+
+Schmeidler and veteran researcher Hoyt Edge canvassed views from other parapsychologists with regard to the future of the ganzfeld ESP experiment. This call was motivated by the negative findings of the Milton and Wiseman meta-analysis published in 1999. A common response was that meta-analyses should not be used to deliver proof of a finding, but rather to delineate the processes underlining the effect. A large proportion of the responses criticised the methodology and interpretations of the Milton and Wiseman meta-analysis.13  Haunting Investigation
+
+With Michaeleen Maher, Schmeidler investigated a case reported by a young woman and her mother who claimed to have witnessed on more than one occasion an apparition in the hallway of the mother’s residence. &nbsp;Rather than conduct a typical field study, Schmeidler adopted a quantative approach. The apartment was divided into segments and mother and daughter were asked to indicate what kind of activity they observed in each. Schmeidler then invited a group made up of sceptics and psychic sensitives into the apartment and asked them to give their own impressions for each area. The sceptics would be expected to choose the areas that they imagined gullible individuals would ‘see’ apparitions, such as poorly lit areas. When a comparison was made, none of the sceptics’ indications were found to match those given by the mother and daughter, whereas those of two of the five sensitives matched significantly (p = 0.03, 0.04).  Therapy and ESP
+
+Schmeidler investigated the effect of therapy sessions on ESP scoring for a particular individual. Mood and psi ability were measured before and after each of 24 psychoanalytically-based therapy sessions. A (nearly significant) correlation was found between mood scores and ESP scores (p = 0.06). Interestingly, the variance of ESP scoring following therapy (a measure of how much the scores vary) was significantly reduced compared to scores achieved before therapy (p = 0.05) and very significantly reduced compared directly to chance (p = 0.002). Schmeidler interpreted the results as reflecting the subject’s ego-defenses.14  Feedback Effects
+
+Investigating the influence of feedback on ESP performance, Schmeidler and colleagues arranged for 40 student participants to guess the order of ESP targets, where, in half the runs, simple feedback was given (correct or incorrect) and in the other half no feedback was given. There was no difference in ESP scoring rates between the two conditions. However, there was an effect of feedback of present targets on the hit rates of the preceding trials as well as preceeding trials – a result that is difficult to explain by simple ESP models.15  Literature
+
+Lawrence, T. (1993). Gathering in the sheep and goats: A meta-analysis of forced-choice sheep/goat ESP studies, 1947-1993.&nbsp;Proceedings of the Parapsychological Association 36th Annual Convention, Toronto, 75-86.
+
+Oles, P., Hermans, H. (2010). Allport‐Vernon Study of Values. 10.1002/9780470479216.corpsy0038.&nbsp;
+
+Schmeidler, G. (1943). Predicting good and bad scores in a clairvoyance experiment: A preliminary report.&nbsp;Journal of the American Society for Psychical Research 37, 103-110.&nbsp;&nbsp;
+
+
+ 	Schmeidler, G. (1943). Predicting good and bad scores in a clairvoyance experiment: A final report.&nbsp;Journal of the American Society for Psychical Research 37, 210-221.&nbsp;
+
+Schmeidler, G. (1944). Position effects as psychological phenomena. Journal of Parapsychology 8, 110-124.&nbsp;&nbsp;
+
+Schmeidler, G. R. (1952). Personal values and ESP scores.&nbsp; Journal of Abnormal and Social Psychology 47/4, 757-761.
+
+Schmeidler, G. (1970). High ESP scores after a swami’s brief instruction in meditation and breathing. Journal of the American Society for Psychical Research 64, 100–103.
+
+Schmeidler, G. (1973). PK effects upon continuously recorded temperature.&nbsp;Journal of the American Society for Psychical Research 67, 325-340.&nbsp;&nbsp;
+
+Schmeidler, G. (1977). Methods for controlled research in ESP and PK. In B. Wolman (ed.).&nbsp;Handbook of Parapsychology. New York: Van Nostrand Reinhold, 131-159.&nbsp;
+
+Schmeidler, G. (1980). Research findings in psychokinesis. In S. Krippner (ed.).&nbsp;Advances in Parapsychological Research, Vol. 1. Psychokinesis.&nbsp;New York: Plenum Press, 79-132.&nbsp;
+
+Schmeidler, G. (1982). PK research: Findings and theories. In S. Krippner (ed.).&nbsp;Advances in Parapsychological Research, Volume 3. New York: Plenum Press, 115-146.&nbsp;&nbsp;
+
+Schmeidler, G. (1983). Interpreting reports of out of body experiences.&nbsp;Journal of the Society for Psychical Research 52, 102-104.&nbsp;
+
+Schmeidler, G. (1984). Further analysis of PK with continuous temperature recordings.&nbsp;Journal of the American Society for Psychical Research 78, 355-362.
+
+Schmeidler, G. (1984). Psychokinesis: The basic problem, research methods, and findings. In S. Krippner (ed.).&nbsp;Advances in Parapsychological Research, Volume 4. Jefferson, NC: McFarland, 12-30.&nbsp;&nbsp;
+
+Schmeidler, G. (1986). Subliminal perception and ESP: Order in diversity?&nbsp;Journal of the American Society for Psychical Research 80, 241-264.&nbsp;
+
+Schmeidler, G. (1987). Psychokinesis: Recent studies and a possible paradigm shift. In S. Krippner, (Ed.).&nbsp;Advances in Parapsychological Research 5.&nbsp;Jefferson, NC: McFarland, 76-88.&nbsp;
+
+Schmeidler, G. (1994). PK: Recent research reports and a comparison with ESP. In S. Krippner (Ed.).&nbsp;Advances in Parapsychological Research 7. Jefferson, NC: McFarland, 198-237.
+
+Schmeidler, G., Murphy, G. (1946). The influence of belief and disbelief in ESP upon individual scoring levels.&nbsp;Journal of Experimental Psychology 36, 271-276.&nbsp;
+
+Schmeidler, G., Maher, M. (1975). Quantitative investigation of a recurrent phenomenon.&nbsp;Journal of the American Society for Psychical Research 69, 341-352.
+
+Schmeidler, G., Hudesman, J. (1976). Changes in ESP scores after therapy sessions.&nbsp;Journal of the American Society for Psychical Research 70, 371-380.
+
+Schmeidler, G., Jackson, M., Franzoi, S. (1977). Effects of feedback on ESP: A curious partial replication.&nbsp;Journal of the American Society for Psychical Research 71, 147-155.
+
+Schmeidler, G., Maher, M. (1977). Cerebral lateralization effects in ESP processing.&nbsp;Journal of the American Society for Psychical Research 71, 261-271.&nbsp;
+
+Schmeidler, G., Edge, H. (1999) Should ganzfeld resarch continue to be crucial in the search for a replicable psi effect? Part II. Edited ganzfeld debate.&nbsp;Journal of Parapsychology 63, 335-388.&nbsp;   Endnotes 1. Schmeidler (1943). 2. Schmeidler (1943). 3. Schmeidler (1945). 4. Schmeidler (1946). 5. Schmeidler (1959). 6. Lawrence (1993). 7. Schmeidler (1973). 8. Maher and Schmeidler (1977). 9. Schmeidler (1983). 10. Herman and Oles (2010). 11. Schmeidler (1970). 12. Schmeidler (1986). 13. Schmeidler and Edge (1999). 14. Schmeidler and Hudesman (1976). 15. Schmeidler et al (1977).           			  			     			This page was last updated on: February 25, 2020   			 			                                               	       Search form        Search                   Article Information           	Author: Michael Duggan Word count: 1,700 Created: 25th February 2020 Last updated: 25th February 2020 May be cited as:Duggan, M. (2020). &lsquo;Gertrude Schmeidler&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/gertrude-schmeidler&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/w6jsm9q                   	                                                                              
+
+                      	                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/gertrude-schmeidler

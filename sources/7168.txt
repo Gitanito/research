@@ -1,0 +1,156 @@
+{"name":"Helmut Schmidt | Psi Encyclopedia","type":"link","mylink":"https:\/\/psi-encyclopedia.spr.ac.uk\/articles\/helmut-schmidt","mytitle":"Helmut Schmidt | Psi Encyclopedia","mylang":"de"}
+                     Helmut Schmidt | Psi Encyclopedia                                  Skip to main content                                                        	                  
+
+Follow&nbsp;                                     Toggle navigation                                                                                       Home About Contents A-Z Categories New To Psi Research? Nigel Buckmaster Contributors                                                                                                                           Helmut Schmidt                                                                                                                                                                                                                          Helmut Schmidt (1928-2011) was a German-born US-based parapsychologist who pioneered the use of random event generators in psychokinesis research, often achieving highly significant scoring rates in his experiments. He also contributed to theory, arguing that psi is not some transcendent property of mind but rather involves a natural neural quantum system.   Contents   	Life and Career  	Parapsychology   	Experimental Results 	Theory 	Criticisms  	Statistical Significance 	Replication 	Machine Bias 	Methodology 	Possibility of Fraud   	Works 	Literature 	Endnotes     Life and Career
+
+Helmut HW Schmidt was born in 1928 in Danzig, Germany (now Gdansk, Poland). He took his first degree (MA, 1953) from the University of Göttingen and earned a PhD (1958) in physics from the University of Cologne. He went on to teach theoretical physics at universities in several countries.
+
+In 1964 Schmidt emigrated to America, working first as university lecturer, and then as a senior research physicist at Boeing Science Research Laboratory (1966-69). At Boeing, Schmidt developed an electronic random number generator (RNG), a quantum-based device that emits a truly random stream of numbers arising from the decay of radioactive particles.  Parapsychology
+
+Schmidt wondered if his RNG might be perturbed by human intention, for instance by trying to influence a machine’s binary output to generate more ones than zeros.&nbsp; JB Rhine had investigated this type of psychokinesis (PK) effect at his parapsychology laboratory at Duke University, using falling dice as targets. Subsequently, there were two attempts to determine whether radioactive decay could be used instead: the first revealed no sign of psi, but a second attempt by others four years later did produce significance.1&nbsp; Schmidt’s first contribution in this regard seems to have been an internal report to Boeing.2 In the same year, he published in the American Journal of Parapsychology and the British popular science magazine New Scientist.3
+
+Falling victim to cutbacks in the aerospace industry, Schmidt (now married with children) moved to Rhine’s Foundation of Research on the Nature of Man (FRNM) and in the following year (1970) was appointed research director. There is some indication that Schmidt was not happy there: he was keen to extend physics into parapsychology, whereas Rhine and other colleagues considered psi to be ‘non-physical’.
+
+After three years (1973) Schmidt moved to the Mind Science Foundation in San Antonio, Texas, where he worked until his retirement in 1993.&nbsp; He continued to contribute actively to the field until his death in 2011, aged 83.  Experimental Results
+
+Schmidt was more interested in the physics than the psychology of psi. His strategy was to build all the relevant safeguards into a box, an approach common among physicists. Equipped with his RNG, Schmidt was able to explore possibilities which no one had thought of before. In the majority of psi studies the participants are volunteers or psychology students. Schmidt mostly selected his subjects by a two-step process, using his machine to test all comers at a local campus, then selecting high scorers for formal tests.
+
+Schmidt was remarkably prolific: for a number of years every new issue of the Journal of Parapsychology included some contribution by him. The scoring rate in Schmidt’s experiments for a binary RNG was typically a little below 52% (that is, around 2% above the chance mean of 50%), which is highly significant given the enormous number of trials.&nbsp; This size of deviation is rarely even approached in attempted replications, although at a lower level the same kinds of effects have been reported at statistically significant rates. One reason may be Schmidt’s practice of selecting subjects who showed high scoring in prior screening rather than unselected volunteers.&nbsp;
+
+Another possible explanation for Schmidt’s high scoring rate is an experimenter effect, whether psychological or psi-based.4 &nbsp;One person who acted as subject in one of Schmidt’s experiments said he found the task uninteresting and had little motivation, but this was not the case with Schmidt, who sat beside him and focused intently on the machine: ‘As it was counting he would say under his breath “go, go, go”. He was very enthusiastic about high counts. There was little question in my mind that any effects that were produced in these sessions were due to the experimenter.’5
+
+Among novel physical findings Schmidt claimed were:   	ESP and PK are fundamentally the same thing. 	The complexity of the machine is irrelevant (if it is based on quantum noise): exclusively important is the RNG display. 	The same scoring is obtained if feedback is delayed by an indefinite period (trans-temporal coupling). For psychological reasons, the participant is often given the false impression that he is trying to affect a local RNG in real time. 	There is some suggestion of psi interaction between successive observers of the same feedback. 	According to Schmidt’s experiments, not only humans can produce psi effects: animals as low on the phylogenetic scale as cockroaches can do it too.   Theory
+
+If psi is considered to be within the realms of possibility, the primary importance of Schmidt’s experiments was the influence they exerted on his theoretical explorations. Schmidt remarked:  
+
+Even with the help of many critics, I haven’t been able to find anything wrong with the experiments. It seems that human subjects can beat quantum theory: the theory is not correct when applied to systems containing a human subject. That result is certainly worrisome and you ask yourself: could there, in spite of all care taken, be some terrible error in the experiment?6
+
+Schmidt increasingly explored the possibility that standard quantum mechanics (QM) is wrong and his own findings right. To this end, he attempted to modify QM by creating a new mathematical model.7 A detailed examination lies outside the scope of this article but is available elsewhere, in the larger context of the so-called ‘observational’ theories.8 &nbsp;A brief overview is included here so the reader can get a feel for Schmidt’s ideas.
+
+A major unsolved area of quantum mechanics is the so-called measurement problem: at what point in time does a system cease to display quantum weirdness and begin to behave like the familiar everyday world of classical physics? In principle, standard QM should apply universally, but it is impractical to carry out calculations for other than the very simplest of systems. Schmidt does not attempt a direct solution: instead, he applies ad hoc weightings to conventional QM. This allows results to be derived with only elementary math, rather than directly involving the refined mathematical apparatus of QM. He demonstrates that his weighting scheme, on paper, gives rise to effects very like the psi of his own results.
+
+In Schmidt’s view, psi is not some transcendent property of mind but rather involves a natural neural quantum system. Schmidt called this the psi-source, though some people use the term psion to differentiate the device from the human. It would be difficult to realize functional quantum circuitry in such an uncongenial environment as the brain, which is much too warm and wet. Nonetheless, it is not unthinkable that nature developed this in the course of evolution because it conveys some survival advantage.
+
+Schmidt’s approach is a major conceptual break from the Rhinean school, for which psi lies at the core of the nature of man, a quasi-religious notion. The traditional Rhinean (sensorimotor) model is based on the analogy of ESP and PK with the operation of the senses and the motor system. This is an enticingly uncomplicated real-time transmission of a signal; the only unknown is the nature of the signal. Beloff tagged this the ‘communication model’ and went on to argue persuasively that it is quite untenable.9
+
+For Schmidt, psi works on quantum probabilities, rather than directly on human-scale events and it can operate only on systems with sufficient quantum noise. Feedback observation from the external quantum system is essential. Because feedback is necessarily later than target generation, psi superficially looks like retro-causation, but for Schmidt it is not causation of any kind: it is a non-local effect similar to entanglement. In both, no information is transferred: the psi effect manifests as a pure correlation between separated space-time regions. This trans-temporal coupling (or Walker/Schmidt-coupling) is considered to constitute the physical basis of all the diverse appearances of psi.
+
+If there is only correlation, with no associated signal, nothing can be done with it. In conventional entanglement, two particles race away in opposite directions in a vacuum. Let in a little air, or interact with the particles in any way and the entanglement breaks up. Psi is similar: it looks very like communication by signal but is in fact very different. Try to use precognition to bet successfully on horses, and psi simply stops working: interaction with the world destroys the labile (quantum) state on which the effect depends Even though psi is of great theoretical interest, direct practical applications are not to be expected.
+
+More than one person observes experimental outcomes and they must all be taken into account. The experimenter and the nominal subject often get the same feedback and can hardly be distinguished on a psi level. This, according to Schmidt, is the basis of psi experimenter effects. But the ‘psi-cloud’ of observers includes not only lab personnel: it may extend outside the experiment proper, conceivably even so far as readers of the ensuing Journal report.
+
+Like QM itself, Schmidt’s mathematical model gives rise to many counter-intuitive predictions. But almost the only experimental studies to investigate whether these are correct are those of Schmidt himself. If new studies should find that his theory has real predictive power, then Schmidt may well be heralded as the pre-eminent theoretical parapsychologist of the twentieth century.  Criticisms
+
+Sceptics of parapsychology have sought to deny Schmidt’s findings by alleging variously a lack of statistical significance and replication,10 machine bias and methodological flaws,11&nbsp; and the possibility of experimenter fraud.12  Statistical Significance
+
+As stated above, the scoring rate in Schmidt’s experiments for a binary RNG was highly significant, a little below 52%, around 2% above the chance mean of 50%.
+
+Psychologists routinely use the standard p = 0.05, z = 1.96, as significance threshold. Particle physicists apply the much more stringent criterion of z = 5 (standard deviation = 5) (for the Higgs boson, publication was delayed until the cumulative data met this strong criterion). Schmidt’s summary of his results up to 1984 (see Table 1) surpass the cumulative five standard deviation level already after his second experiment (Stouffer z = 8.6) Regardless of the value of significance criterion (2 or 5) preferred, these results are amply significant, as has been acknowledged by otherwise sceptical psychologists. James Alcock writes that Schmidt ‘has accumulated some pretty impressive evidence that something other than chance is influencing the subjects’ scores.’13
+
+  Replication
+
+Schmidt’s RNG technology was rapidly adopted as a standard part of the psi-researchers’ toolkit and hundreds of such experiments have been carried out with similar statistically significant results, although at a lower margin level.8 &nbsp;As stated above, one reason for the disparity may be that Schmidt selected subjects who scored strongly in prior screening sessions, whereas most of the attempted replications tested unselected volunteers; another reason may be the operation of the experimenter effect.  Machine Bias
+
+A commonly expressed concern is that the RNGs used in Schmidt’s experiments were in fact not truly random. If that is the case, the person attempting to influence a machine might have learned to exploit its bias.
+
+Schmidt published the circuitry of his RNG, which was a ‘state of the art’ design at the time and of greater quality than many current commercial RNGs.14 &nbsp;The 74xx series chip-set it used is now dated, but this only limits the speed of generation. Geiger-tubes have a short refractory period just after they fire, and the tube was automatically blocked out for a constant interval. On this basis, Schmidt calculated that the first order bias was negligible: true p lies within the tiny interval p=0.5±10-4. &nbsp;This leaves open the possibility that the machines might be affected by an intermittent component failure sufficient to cause bias. Schmidt constantly monitored his machines to guard against this, but to investigate the possibility, Palmer obtained data from Schmidt and analyzed it in detail: no evidence supporting short-term bias was found.15  Methodology
+
+James Alcock claimed to have identified flaws in Schmidt’s experimental procedures, notably in failing to take measures to eliminate the possibility that the machines might not have been truly random.16&nbsp; He argued, among other things, that Schmidt should have varied the target number within runs and had control groups working under different conditions. He objected to Schmidt acting both as experimenter and subject, which he considered a violation of sound research practice.&nbsp; He also criticized a lack of clarity in his reporting and further complained that Schmidt did not adhere fully to pre-stated goals, raising the possibility of optional stopping (ending an experiment when high scores had been achieved). Similar arguments were put forward by C.E.M. Hansel.17  Possibility of Fraud
+
+Much of the critical commentary centres on Schmidt having acted as the unsupervised subject of his own experiments. &nbsp;The much larger scoring rate obtained by Schmidt than other experimenters naturally gives rise to suspicion. &nbsp;An early criticism was that he used only resettable counters, as permanent storage in the early machines was not available – a weakness since it allowed motivated errors in Schmidt’s book-keeping.18 However, less obvious ways of faking were available to Schmidt if he wished to perpetrate a fraud, for instance by installing a hidden device in the machine that would allow him to influence its output on demand. &nbsp;
+
+Schmidt was well aware that no unsupervised work on this kind of topic could be taken as strong evidence for psi but, at least in the earlier experiments, he expected rapid confirmation by others. However, not all of Schmidt’s work was unsupervised: some of his later studies were co-authored. Furthermore, he introduced a novel method for high security, which involves spreading the responsibility between several people: five such studies were carried out, which yielded significant results.9
+
+See Rao &amp; Palmer (1987) for a discussion by parapsychologists of critical concerns.  Works
+
+Anomalous prediction of quantum processes by some human subjects (1969). Document No. Dl-82-082 1. Seattle, Washington: The Boeing Company.
+
+Precognition of a Quantum Process (1969). Journal of Parapsychology 33, 99-108.
+
+Quantum Processes Predicted? (1969). New Scientist, October 1969, 114-15.
+
+Clairvoyance tests with a machine (1969). Journal of Parapsychology 33, 300-306.
+
+Precognition of a quantum process (1969). Journal of Parapsychology 33, 99-108.
+
+Quantum-mechanical random-number generator (1970). Journal of Applied Physics 41/2, 462-68.
+
+A quantum mechanical random number generator for psi tests (1970). Journal of Parapsychology 34, 219-24.
+
+PK experiments with animals as subjects (1970). Journal of Parapsychology 34, 255-61.
+
+PK tests with a high-speed random number generator (1973). Journal of Parapsychology 37, 105-18.
+
+Comparison of PK action on two different random number generators (1974). &nbsp;Journal of Parapsychology 38, 47-55.
+
+Instrumentation in the Parapsychology Laboratory (1974). In J. Beloff, New Directions in Parapsychology, Scarecrow Press, New Jersey, 13-37.
+
+Toward a Mathematical Theory of Psi (1975). Journal of the American Society for Psychical Research 69, 302-19.
+
+PK effect on pre-recorded targets (1976). Journal of the American Society for Psychical Research 70, 267-91.
+
+Comparison of a teleological model with a quantum collapse model of psi (1984). Journal of Parapsychology 48, 261-76.
+
+Addition effect for PK on prerecorded targets (1985). Journal of Parapsychology 49, 229-44.
+
+Channeling evidence for a PK effect to observers (1986, with R.L. Nirrusm &amp; L. Rudolph). Journal of Parapsychology 50, 1-16.
+
+The strange properties of psychokinesis (1987). Journal of Scientific Exploration 1/2, 103-18.
+
+Correlation Between Mental Processes and External Random Events (1990). Journal of Scientific Exploration 4/2, 233-41.
+
+Search for a correlation between PK performance and heart rate (1991). Journal of the American Society for Psychical Research 85, 101-117.
+
+New PK tests with an independent observer (1993, with W. Braud). Journal of Parapsychology 57, 227-40.
+
+PK with prerecorded random events and the effects of preobservation(1993, with H. Stapp). Journal of Parapsychology 57, 331-49.
+
+Observation of a psychokinetic effect under highly controlled conditions (1993). Journal of Parapsychology 57, 351-72.
+
+Brian Millar  Literature
+
+Alcock, J. (1990). Science and Supernature: A Critical Appraisal of Parapsychology. Buffalo, NY: Prometheus, 89-110.
+
+Beloff, J. (1990). The Relentless Question: Reflections on the Paranormal. Jefferson, NC: McFarland.
+
+Beloff, J., &amp; Evans, L. (1961). A radioactivity test for PK. Journal of the Society for Psychical Research 41/4, 1-46.
+
+Chauvin, R., &amp; Genthon, J. (1965). Psychokinetische experimente mit uranium und geigerzahler. Zeitschrift fur Parapsychologie und Grenzgebiete der Psychologie 8, 140-47.
+
+Hansel, C.E.M. (1980).&nbsp;ESP and Parapsychology: A Critical Re-Evaluation. Buffalo, NY: Prometheus, 222-32.
+
+Kennedy, J.E. (2000). Do people guide psi or does psi guide people? Evidence and implications from life and lab. Journal of the American Society for Psychical Research 94, 130-50.
+
+Millar, B. (2019). Observational Theories of Psi. Psi Encyclopedia. London: SPR
+
+Palmer, J. (1996). Evaluation of a conventional interpretation of Helmut Schmidt’s automated precognition experiments. Journal of Parapsychology 60/2, 149,170.
+
+Palmer, J., &amp; Millar, B. (2015). Experimenter Effects in Parapsychological Research. In Cardena, E., Palmer, J. &amp; Marcusson-Clavertz. D. Parapsychology: A Handbook for the 21st Century. Jefferson, NC: MacFarland, 293-300.
+
+Rao, K.R., &amp; Palmer, J. (1987). The anomaly called psi: Recent research and criticism. Behavioral and Brain Sciences 10, 539-643.
+
+Schmidt, H. (1969a). Anomalous prediction of quantum processes by some human subjects. (Document No. Dl-82-082 1). Seattle, Washington: The Boeing Company.
+
+Schmidt, H. (1969b). Precognition of a Quantum Process. Journal of Parapsychology 33, 1969, 99-108.
+
+Schmidt, H. (1969c). Quantum Processes Predicted? New Scientist, October 1969, 114-15.
+
+Schmidt, H. (1970). Quantum-mechanical random-number generator. Journal of Applied Physics 41/2, 462-68.
+
+Schmidt, H. (1974). Instrumentation in the Parapsychology Laboratory. In J. Beloff, New Directions in Parapsychology, Scarecrow Press, New Jersey, 13-37.
+
+Schmidt, H. (1975). Toward a Mathematical Theory of Psi. Journal of the American Society for Psychical Research 69, 302-19.
+
+Schmidt, H. (1987). The strange properties of psychokinesis. Journal of Scientific Exploration 1/2, 103-18.
+
+Schmidt, H. (1990). Correlation Between Mental Processes and External Random Events. Journal of Scientific Exploration 4/2, 233-41.
+
+Schmidt, H. (1993). Observation of a psychokinetic effect under highly controlled conditions. Journal of Parapsychology 57, 351-72.
+
+Stenger, V.J. (2004).&nbsp;"Can Prayer Change the Past". Skeptical Inquirer 14/1, 1 March.   Endnotes 1. Beloff &amp; Evans (1961); Chauvin &amp; Genthon (1965). 2. Schmidt (1969a). 3. Schmidt (1969b); Schmidt (1969c). 4. Palmer &amp; Millar (2015). 5. Kennedy (2000). 6. Schmidt (1990), 236. 7. Schmidt (1975). 8. Millar (2019). 9. Beloff (1990). 10. Stenger (2004). 11. Alcock (1990), Hansel (1980). 12. Hansel (1980). 13. Alcock (1990), 90. 14. Schmidt, 1970, 1974. 15. Palmer (1996). 16. Alcock (1990). 17. Hansel (1980). 18. Hansel (1980), 222-232.           			  			     			This page was last updated on: March 01, 2022   			 			                                               	       Search form        Search                   Article Information           	Author: Brian  Millar Word count: 3,000 Created: 1st March 2022 Last updated: 1st March 2022 May be cited as:Millar, B.  (2022). &lsquo;Helmut Schmidt&rsquo;. Psi Encyclopedia. London: The Society for Psychical Research. &lt;https://psi-encyclopedia.spr.ac.uk/articles/helmut-schmidt&gt;. Retrieved 10 January 2024. Short URL:www.tinyurl.com/ycaaqhte                   	                                                                              
+
+                      	                                                                                                                                      	                                                                                            ESP                                        Psychokinesis                                        Psi Healing                                        Possession &amp; Past Lives                                                                          Mediums &amp; Psychics                                        Hauntings &amp; Apparitions                                        Poltergeists                                        Out-of-Body &amp; Near Death Experiences                                                                          Scientists &amp; Researchers                                        General Psi Topics                                        Other Phenomena                                        Organizations &amp; Publications                                                                               	 	About 	Contact 	Copyright 	Login                    
+
+Visit the Society for Psychical Research                
+
+[1] https://psi-encyclopedia.spr.ac.uk/articles/helmut-schmidt

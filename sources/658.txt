@@ -1,23 +1,22 @@
-{"name":"Revue Theurgique (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/revue_theurgique","mytitle":"Revue Theurgique (IAPSOP)","mylang":"de"}
-  Revue Theurgique (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"Les Forces Mentales (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/forces_mentales","mytitle":"Les Forces Mentales (IAPSOP)","mylang":"de"}
+  Les Forces Mentales (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  Revue Theurgique</I>       
+ &nbsp; &nbsp;     Periodical:  Les Forces Mentales</I>      
 
-    Summary: &nbsp;  From Pat Deveney's database:
+    Summary:&nbsp;  From Pat Deveney's database:
 
- Revue Theurgique, Scientifique, Psychologique et Philosophique.
- Traitant specialement de l'hygiene et de la guerison par les fluides et des dangers des pratiques medicales, clericales, magnetiques, hypnotiques, etc.
- 1888--1893?  Monthly
- Paris, France. 
- Language:  French. 
- Editor: Zouave Jacob (Auguste Henri Jacob).  1/1, May 1888-1893(?).  10 francs in France, 12 abroad, 48 pp.
+ Forces Mentales, Les.
+ Revue Mensuelle de Sciences Psychiques / Psychologie, Philosopie, Magnétisme, Hypnotisme, Force Pensee, Spiritisme.
+ 1907  Monthly
+ Paris, France.  Language:  French.  Publisher: Bureaux d’Etudes Psychiques.  Editor: Rene d'Hery.
+ 1/1, January 1907.  32 pp., 8 francs a year.
 
-  Auguste Henri Jacob (1828-1913) ("Zouave Jacob") was a musician in the Zouave Guard (he played the trombone) who turned to healing with his magnetic fluid in 1866.  He was one of a series of miraculous visionaries and healers (Maître Philippe in France, for example, and Jakob Lorber in Germany) of the period, specializing in bringing the dead back to life.  He attracted considerable attention in the press and in occult circles in France at the end of the century, and was the subject of a painting by Gauguin and a famous cartoon by Andre Gill.  Jacob attributed his cures to "theurgy," which he broadly equated with Mesmer's animal magnetism, Puysegur's somnambulism, and Kardec's spiritism, teaching that the powers of his "white [magnetic] fluids" came from the "Superior Spirits."  He was said to have refused money for his cures, although his father sold his picture to the crowds at a franc.  The journal carried lengthy, rambling articles on subjects as varied as cocaine and "The Great and the Small Pontiffs of Spiritisme" (Kardec and Leymarie), the indictment of P.-G. Leymarie and Jacob's own condemnation for practicing medicine without a license, Magnetism, etc.  Noted in exchanges of L'Initiation, April 1889.  BNF; Simon Fraser University; Libris (Stockholm);
+ This is a pure example of the audacious form of magical New Thought that was dominant in the United States at the time -- the journal recommended one of W.W. Atkinson’s works.  It seems to have been intended as a forum for the Bureaux d'Etudes Psychiques and its courses on Psychology, Hypnotism and Personal Magnetism.  The articles revealed the wonders of personal magnetism, concentration, self-confidence, mental powers, hypnotism, thought transference, and the journal also included longer, didactic articles on the Kabbala (replete with vague hints of its sexual elements) and phrenology, and short New thought novels.  Contributions by Hery, C.-R. Sadler, Georges Lange, Alexis Noel, Eugène Defrance, Theodule Branche, and others outside the mainstream of French occultism and spiritism.  The Mercure de France, in reviewing Hery’s and Sadler’s book on L'Education de la Pensee notes the influence on them of the hypnotists and magnetizers and of occultists like Prentice Mulford.  BNF.
 
-      Issues:Revue Theurgique V1 N1-12 May 1888-apr 1889 Revue Theurgique V2 N1-6 May-dec 1889 Revue Theurgique V3 N1-12 May 1890-apr 1891 Revue Theurgique V5 N1-12 May-1892-apr 1893              </p>
+       Issues:Les Forces Mentales V1 N10 1907 Oct Les Forces Mentales V1 N11 1907 Nov Les Forces Mentales V1 N12 1907 Dec Les Forces Mentales V1 N1 1907 Jan Les Forces Mentales V1 N2 1907 Feb Les Forces Mentales V1 N3 1907 Mar Les Forces Mentales V1 N4 1907 Apr Les Forces Mentales V1 N5 1907 May Les Forces Mentales V1 N6 1907 Jun Les Forces Mentales V1 N7 1907 Jul Les Forces Mentales V1 N8 1907 Aug      </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/revue_theurgique
+[1] http://iapsop.com/archive/materials/forces_mentales

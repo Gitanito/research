@@ -4,7 +4,7 @@ ini_set('display_errors', 'On');
 
 ini_set('memory_limit', '1024M');
 
-$cleanup = false;
+$cleanup = true;
 
 if ($cleanup) {
     $db->exec("UPDATE settings SET value='0' WHERE name='makingstartpoint';");

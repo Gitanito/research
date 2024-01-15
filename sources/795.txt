@@ -1,14 +1,21 @@
-{"name":"Le Spiritisme (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/le_spiritisme","mytitle":"Le Spiritisme (IAPSOP)","mylang":"de"}
-  Le Spiritisme (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
+{"name":"The Independent Pulpit (IAPSOP)","type":"link","mylink":"http:\/\/iapsop.com\/archive\/materials\/independent_pulpit\/","mytitle":"The Independent Pulpit (IAPSOP)","mylang":"de"}
+  The Independent Pulpit (IAPSOP)        About   Archives   Practices   Contribute   Contacts   Search
 
- &nbsp; &nbsp;     Periodical:  Le Spiritisme</I>      
+ &nbsp; &nbsp;     Periodical:  The Independent Pulpit</I>      
 
     Summary:&nbsp;  From Pat Deveney's database:
 
-       Issues:Le Spiritisme V1 1883-4 Le Spiritisme V2 1884-5 Le Spiritisme V3 1885-6 Le Spiritisme V4 1886-7 Le Spiritisme V5 1887 Le Spiritisme V6 1888 Le Spiritisme V7 1889 Le Spiritisme V8 1890 Le Spiritisme V9 1891 Le Spiritisme V10 1892 Le Spiritisme V11 1893 Le Spiritisme V12 1894 Le Spiritisme V13 1895      </p>
+ Independent Pulpit, The.
+ 1885  Weekly, January-May, October-December
+ Boston, MA.  Editor: George Chainey.
+ 1/1, January 10, 1885.
+
+ A series of pamphlets proposed to be issued eight times a year (except for the summer months when Chainey was to attend spiritualist camps).  This was Chainey's response to his conversion to spiritualism.  The first (and perhaps only) issue was "How and Why I became a Spiritualist," in which he recounts his conversion and his meeting with Anna Kimball.  On Chainey, see the notes under The Infidel Pulpit and The Gnostic.
+
+       Issues:Independent Pulpit V1 N1 Jan 10 1885       </p>
 
   
 IAPSOP materials are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
  IAPSOP respects people's privacy and personal data rights.             </HTML>
 
-[1] http://iapsop.com/archive/materials/le_spiritisme
+[1] http://iapsop.com/archive/materials/independent_pulpit/
