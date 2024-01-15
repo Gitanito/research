@@ -2,6 +2,8 @@
 include_once "header.php";
 include_once "functions_add.php";
 
+$alert = "";
+
 if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['mylink']) && trim($_POST['mylink']) != "" ) {
 
     if ($_POST['mydl'] == 'sv') {
@@ -23,11 +25,15 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
         $inlink = $_POST['mylink'];
         $intype = "video";
         add($intitle, $intext, $inlink, $intype, $_POST['mylang']);
+        $alert = '<div class="alert alert-success" role="alert">Das Video wurde importiert!</div>';
     } else if ($_POST['mydl'] == 'pl') {
-        shell_exec('cd temp/playlist/ && rm * && ../../yt-dlp --write-subs --write-auto-subs --sub-langs ' . $_POST['mylang'] . ' --sub-format ttml --no-download --yes-playlist "' . $_POST['mylink'] . '"');
+        $cmd = 'cd temp/playlist/ || true && rm * || true && ../../yt-dlp --write-subs --write-auto-subs --sub-langs ' . $_POST['mylang'] . ' --sub-format ttml --no-download --yes-playlist "' . $_POST['mylink'] . '"';
+        //echo $cmd;
+        shell_exec($cmd);
 
         $directory = 'temp/playlist/'; // Replace with the actual directory path
         $entries = scandir($directory);
+        $importcount = 0;
         foreach ($entries as $entry) {
             if ($entry !== '.' && $entry !== '..') {
                 $path = $directory . '/' . $entry;
@@ -56,12 +62,14 @@ if (isset($_POST['mytitle']) && trim($_POST['mytitle']) != "" && isset($_POST['m
                     $inlink = "https://www.youtube.com/watch?v=".$vidid;
                     $intype = "video";
                     add($intitle, $intext, $inlink, $intype, $_POST['mylang']);
+                    $importcount++;
                 }
             }
         }
-
+        $alert = '<div class="alert alert-success" role="alert"><b>'.$importcount.'</b> Videos wurden importiert!</div>';
     }
 }
+echo $alert;
 ?>
     <div class="card">
         <div class="card-header">

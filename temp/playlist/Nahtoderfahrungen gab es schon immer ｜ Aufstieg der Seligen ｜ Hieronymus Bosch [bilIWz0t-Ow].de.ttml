@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.550" end="00:00:06.520" style="s2">Viele alte Malereien deuten darauf hin, dass<br />Menschen weltweit immer schon Jenseitserfahrungen</p>
+<p begin="00:00:06.520" end="00:00:10.050" style="s2">hatten, wie sie auch heute erlebt und berichtet<br />werden.</p>
+<p begin="00:00:10.050" end="00:00:14.700" style="s2">Das Beispiel in diesem Video: Das Gemälde<br />mit dem Titel</p>
+<p begin="00:00:14.700" end="00:00:16.619" style="s2">AUFSTIEG DER SELIGEN.</p>
+<p begin="00:00:16.619" end="00:00:24.180" style="s2">Die meisten Experten gehen davon aus, dass<br />es ca. zwischen 1505 und 1515 von HIERONYMUS</p>
+<p begin="00:00:24.180" end="00:00:30.740" style="s2">BOSCH erschaffen wurde, einem niederländischen<br />Maler, der von 1450 bis 1516 lebte.</p>
+<p begin="00:00:30.740" end="00:00:37.650" style="s2">Das Original befindet sich im Museum GALLERIA<br />DELL’ACCADEMIA in Vendig ... ... als Teil</p>
+<p begin="00:00:37.650" end="00:00:43.559" style="s2">von 4 Bildtafeln mit dem übergeordneten Titel<br />VISIONEN DES JENSEITS.</p>
+<p begin="00:00:43.559" end="00:00:49.370" style="s2">Das Gemälde illustriert in vereinfachter<br />Weise ein paar wenige, aber häufig vorkommende</p>
+<p begin="00:00:49.370" end="00:00:56.579" style="s2">Elemente von NTEn: Den Tunnel, der zum göttlichen<br />Licht führt, wobei die Seelen, die soeben</p>
+<p begin="00:00:56.579" end="00:01:02.059" style="s2">ihre irdische Hülle hinter sich gelassen<br />haben, von liebevollen geistigen Wesen begleitet</p>
+<p begin="00:01:02.059" end="00:01:03.059" style="s2">werden.</p>
+<p begin="00:01:03.059" end="00:01:07.600" style="s2">Menschen, die das erlebten, sagen darüber<br />immer wieder, es sei ein unbeschreibliches</p>
+<p begin="00:01:07.600" end="00:01:12.869" style="s2">Glück und eine absolute Heimkehr in den menschlichen<br />Ursprung, wenn man sich diesem Licht nähert</p>
+<p begin="00:01:12.869" end="00:01:14.590" style="s2">und damit eins wird.</p>
+<p begin="00:01:14.590" end="00:01:22.400" style="s2">Daher ist es sehr zutreffend, wenn diese Seelen<br />im Titel als „Selige“ bezeichnet werden.</p>
+<p begin="00:01:22.400" end="00:01:30.869" style="s2">Auf den anderen 3 Teilen werden abgebildet:<br />• Das Paradies auf Erden • Der Abstieg</p>
+<p begin="00:01:30.869" end="00:01:34.330" style="s2">der Verdammten in die Hölle, und • Die<br />Hölle.</p>
+<p begin="00:01:34.330" end="00:01:39.939" style="s2">Bei nicht-bearbeiteten Fotos ist in der Mitte<br />eine Linie zu sehen, wahrscheinlich weil jede</p>
+<p begin="00:01:39.939" end="00:01:44.200" style="s2">der vier Bildtafeln aus zwei zusammengefügten<br />Malflächen besteht.</p>
+<p begin="00:01:44.200" end="00:01:52.670" style="s2">Nun kann man sich fragen: Was war zuerst in<br />der Geschichte der Menschheit?</p>
+<p begin="00:01:52.670" end="00:01:54.900" style="s2">Diese Malereien und dann die Erfahrungen?</p>
+<p begin="00:01:54.900" end="00:01:58.280" style="s2">Oder umgekehrt: Die Erfahrungen und dann die<br />Malereien?</p>
+<p begin="00:01:58.280" end="00:02:05.219" style="s2">Jene Menschen, die die heutigen Nahtoderfahrungen<br />nur als letzte Halluzinationen eines sterbenden</p>
+<p begin="00:02:05.219" end="00:02:11.330" style="s2">Gehirns verstehen wollen, neigen zu der Behauptung,<br />diese Erfahrungen gäbe es nur deshalb, weil</p>
+<p begin="00:02:11.330" end="00:02:18.080" style="s2">zuerst diese Malereien und Erzählungen bzw.<br />Narrative vorhanden waren, oder anders gesagt,</p>
+<p begin="00:02:18.080" end="00:02:22.280" style="s2">weil dies alles von Grund auf nur der Fantasie<br />des Menschen entspringt.</p>
+<p begin="00:02:22.280" end="00:02:27.410" style="s2">Das ist jedoch aus mindestens fünf Gründen<br />nicht sehr wahrscheinlich.</p>
+<p begin="00:02:27.410" end="00:02:32.510" style="s2">Erstens sind diese Malereien und Narrative<br />in der heutigen Zeit nicht sehr bekannt, weil</p>
+<p begin="00:02:32.510" end="00:02:38.190" style="s2">sie in den heutigen Kirchen und auch außerhalb<br />der Kirchen kaum oder nur in geringem Ausmaß</p>
+<p begin="00:02:38.190" end="00:02:39.190" style="s2">erscheinen.</p>
+<p begin="00:02:39.190" end="00:02:45.470" style="s2">Zweitens werden bei heutigen Jenseitserfahrungen<br />auch viele Details erlebt, die man bildnerisch</p>
+<p begin="00:02:45.470" end="00:02:50.800" style="s2">gar nicht abbilden kann und von denen auch<br />religiös geprägte Menschen zuvor von ihrer</p>
+<p begin="00:02:50.800" end="00:02:56.550" style="s2">Religion her entweder überhaupt nichts wussten,<br />oder nur sehr unzureichende Beschreibungen</p>
+<p begin="00:02:56.550" end="00:03:02.459" style="s2">kannten, die nicht ausreichen, damit die menschliche<br />Fantasie so konkrete Erlebnisse erschaffen</p>
+<p begin="00:03:02.459" end="00:03:03.459" style="s2">könnte.</p>
+<p begin="00:03:03.459" end="00:03:08.940" style="s2">So ist zwar beispielsweise in christlichen<br />Kirchen die Rede vom Ewigen Licht oder vom</p>
+<p begin="00:03:08.940" end="00:03:13.819" style="s2">Licht Gottes, aber dieses Licht wird dort<br />kaum so detailliert beschrieben wie es von</p>
+<p begin="00:03:13.819" end="00:03:16.330" style="s2">den Erfahrenen beschrieben wird.</p>
+<p begin="00:03:16.330" end="00:03:21.150" style="s2">Drittens existieren in den Kirchen aufgrund<br />verschiedener Fehlerquellen bei der Interpretation</p>
+<p begin="00:03:21.150" end="00:03:28.060" style="s2">der Schriften unterschiedliche Glaubensvorstellungen<br />zu religiösen Teilaspekten, die in diversen</p>
+<p begin="00:03:28.060" end="00:03:30.040" style="s2">Jenseitserfahrungen nicht vorkommen.</p>
+<p begin="00:03:30.040" end="00:03:35.940" style="s2">Das heißt: Wenn diese Erlebnisse nur religiöse<br />Hirngespinste wären, dann müssten sie entsprechend</p>
+<p begin="00:03:35.940" end="00:03:41.590" style="s2">der unterschiedlichen religiösen Glaubensüberzeugungen<br />auch viel unterschiedlicher ausfallen, als</p>
+<p begin="00:03:41.590" end="00:03:43.140" style="s2">es tatsächlich der Fall ist.</p>
+<p begin="00:03:43.140" end="00:03:50.120" style="s2">Diese Jenseitserfahrungen können zwar persönliche<br />Unterschiede aufweisen, aber sie enthalten</p>
+<p begin="00:03:50.120" end="00:03:55.380" style="s2">immer gewisse wiederkehrende Elemente, wie<br />etwa die spürbare Ablösung vom Körper,</p>
+<p begin="00:03:55.380" end="00:04:01.670" style="s2">die Sicht von oben auf den eigenen leblosen<br />Körper, die Lebensreflexion, oder die Elemente</p>
+<p begin="00:04:01.670" end="00:04:07.599" style="s2">im Gemälde von Bosch: Der Tunnel, das göttliche<br />Licht und dass die hinübergegangenen Seelen</p>
+<p begin="00:04:07.599" end="00:04:12.430" style="s2">von liebevollen Geistwesen in das Licht hinein<br />begleitet werden.</p>
+<p begin="00:04:12.430" end="00:04:17.820" style="s2">Daher ist auch die Behauptung falsch, Menschen<br />würden bei diesen Erfahrungen nur das erleben,</p>
+<p begin="00:04:17.820" end="00:04:19.579" style="s2">was ihrem Kulturkreis entspricht.</p>
+<p begin="00:04:19.579" end="00:04:25.820" style="s2">Es gibt zwar auch gewisse kulturspezifische<br />Unterschiede, aber im Grunde haben diese Erlebnisse</p>
+<p begin="00:04:25.820" end="00:04:30.190" style="s2">weltweit seit eh und je die gleichen Inhalte.</p>
+<p begin="00:04:30.190" end="00:04:34.610" style="s2">Viertens berichten immer wieder auch auch<br />jene Menschen über eigene Jenseits-Erfahrungen,</p>
+<p begin="00:04:34.610" end="00:04:41.300" style="s2">die von Kindheit an naturalistisch bzw. atheistisch<br />aufgewachsen sind und auch unbewusst nie in</p>
+<p begin="00:04:41.300" end="00:04:45.120" style="s2">ihrem Leben religiöse Überzeugungen übernommen<br />haben.</p>
+<p begin="00:04:45.120" end="00:04:50.470" style="s2">Daher gilt auch hierbei: Würden Menschen<br />eher das erleben, was ihrer weltanschaulichen</p>
+<p begin="00:04:50.470" end="00:04:56.530" style="s2">Prägung entspricht, dann dürften überzeugte<br />Atheisten keine solchen Erfahrungen haben,</p>
+<p begin="00:04:56.530" end="00:04:59.220" style="s2">was aber sehr wohl der Fall ist.</p>
+<p begin="00:04:59.220" end="00:05:04.259" style="s2">Und fünftens – wenn diese Erlebnisse nur<br />Hirngespinste wären – so müssten wohl</p>
+<p begin="00:05:04.259" end="00:05:09.710" style="s2">generell weitaus mehr Menschen solche Erfahrungen<br />in klinischer Todesnähe haben oder sich daran</p>
+<p begin="00:05:09.710" end="00:05:16.240" style="s2">erinnern, als es tatsächlich der Fall ist,<br />vor allem jene, die zum Zeitpunkt der Erfahrung</p>
+<p begin="00:05:16.240" end="00:05:18.680" style="s2">religiös geprägt waren.</p>
+<p begin="00:05:18.680" end="00:05:25.370" style="s2">Laut verschiedenen Studien können sich aber<br />nur etwa 15-25 % der Menschen, die klinisch</p>
+<p begin="00:05:25.370" end="00:05:30.069" style="s2">tot oder nahe dran waren, an solche Erlebnisse<br />erinnern.</p>
+<p begin="00:05:30.069" end="00:05:34.720" style="s2">Letztlich ist es viel wahrscheinlicher, dass<br />die authentischen Malereien und Narrative</p>
+<p begin="00:05:34.720" end="00:05:41.160" style="s2">deshalb existieren, weil ein Teil der Menschheit<br />diese Dinge immer schon erlebte.</p>
+<p begin="00:05:41.160" end="00:05:45.820" style="s2">Daher wurde darüber berichtet und versucht,<br />die Inhalte dieser Erlebnisse bildnerisch</p>
+<p begin="00:05:45.820" end="00:05:46.499" style="s2">darzustellen.</p>
+</div>
+</body>
+</tt>

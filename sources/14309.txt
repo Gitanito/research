@@ -1,0 +1,803 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=ABwO6k61czM","mytitle":"Exo Politik, Exo Magazin, ExoMagazinTV, Robert Fleischer,GPT-4 und Co.\uff1a Die Herrscher der Zukunft \uff5c EXOMAGAZIN ","mylang":"de"}
+ich glaube ich habe noch nie ein Thema
+anmoderiert was mir sprichwörtlich so
+viele Bauchschmerzen bereitet hat wie
+dieses die künstliche Intelligenz ist
+auf dem Vormarsch und jetzt ist die
+beliebteste künstliche Intelligenz noch
+schlauer geworden GPT vor ist in aller
+Munde kann sehr viel mehr Kontext
+bearbeiten und sogar Bilder erkennen und
+einfließen lassen in die eigenen
+Analysen es zeichnet sich jetzt schon ab
+dass diese neue künstliche Intelligenz
+einen unglaublich großen Einfluss haben
+wird auf sämtliche Bereiche der
+Produktion von Informationen von Daten
+von Wirtschaftsprozessen und so weiter
+und so fort und worum es da genau geht
+darüber rede ich jetzt mit einem der
+sich dabei Gott sei Dank auskennt
+herzlich willkommen Martin Schädler
+ja hallo hallo wir haben hier schon mal
+zusammen eine Sendung gemacht da ging es
+um gpt3 den Vorläufe von jpd 4 du bist
+Informatiker du beschäftigst dich auch
+von Berufswegen mit künstlicher
+Intelligenz und du hast diese Sache
+genauso verfolgt
+ja ähm jetzt wo GPT 4 draußen ist
+bist du begeistert oder schläfst du noch
+ruhig oder wie geht&#39;s dir damit
+also ich bin erstmal begeistert dass es
+ja wieder ein riesen Schritt in die
+Zukunft und schicke die vier ist jetzt
+noch mal ein bisschen schlauer geworden
+leider weiß man die technischen Daten
+überhaupt nicht also die wurden jetzt
+nicht veröffentlicht aber die Antworten
+sind schon noch mal ein gutes Stück
+besser als die von GP3
+und du hast ja damals auch ähm Versuche
+gemacht und ähm Chat Fragen gestellt
+also
+Quizfragen und so weiter und so fort
+aber bevor wir über GPT 4 reden es ist
+ja einiges passiert jetzt in den
+vergangenen Tagen kannst Du darauf
+vielleicht mal kurz eingehen das war
+jetzt wirklich ein erstaunliche Woche
+mit unglaublich vielen Ereignissen in
+Sachen künstliche Intelligenz
+ja also die Woche war verrückt am Montag
+hat die Stanford Universität Alpaka
+veröffentlicht das ist auch ein KI
+language Modelle was relativ klein ist
+aber qualitativ auch sehr gute Texter
+produzieren kann da gehen wir vielleicht
+später noch mal drauf ein ähm
+diese KI passt theoretisch auf dem guten
+gut ausgestatteten Umrechner also
+Rechner zu Hause wenn man das will das
+kann man Montag am Dienstag hat Google
+Google Workspace präsentiert und gezeigt
+dass sie ihr ihre KI die Palm
+dazu verwenden wollen damit Gmail
+automatisch E-Mail Texte vorschlägt
+Antworten schreibt in E-Mails in ihrer
+Tabellenkalkulation das automatisch
+erkannt wird wie die anderen Spalten
+sein sollten und automatisch ausfällt
+oder vorschlägt auszufüllen und Formeln
+automatisch vorschlägt die diese denkt
+an der Stelle bräuchte man das
+google hat das auch in ihrem
+Konferenz Meetingraum eingebaut also
+überall egal was sie hier da anbieten
+gerade in Word Workspace dort haben sie
+ihre Palmen eingebaut später am Tag hat
+dann open ai GPT 4 oder vor
+veröffentlicht und gezeigt dass das
+jetzt auch nutzbar ist für die Leute die
+das Plus Paket abgeschlossen haben diese
+paar 20 € im Monat ja und das hatte ich
+natürlich dann auch gehört gleich
+gemacht
+am Mittwoch genau und da hatte ich mal
+auch ausprobieren können was wir so kann
+am Mittwoch ist mit journey er hatte mit
+journey ihre Version Version 5
+veröffentlicht mit journey ist bekannt
+und Text eine eine Text so
+Bild Image
+kai ist das man formuliert was auf dem
+Bild drauf sein soll und mit journey
+kann fotorealistische Bilder generieren
+also ähnlich wie ein fotoren
+denkt sich Personen ihre Häuser
+Landschaften aus so wie man sie
+beschreibt
+das ist am Mittwoch dann
+vorgestellt worden und am Mittwoch
+später hat Microsoft das Microsoft 365q
+Pilot ihren propilot vorgestellt das ist
+jptv vor oder 4 in all ihren
+Microsoft Produkten von Word E-Mail
+Teams also Outlook Teams
+Excel Tabelle das war&#39;s jetzt Google am
+Dienstag vorgestellt hat hat auch jetzt
+Microsoft vorgestellt halt in ihrer off
+was ich auch ganz interessant fande ist
+Team meetings
+also ein Videokonferenzen da kann
+automatisch zugehört also die hat
+automatisch zu protokolliert
+und du kannst reinfragen was kannst du
+das zusammenfassen was am Anfang gesagt
+wurde oder haben wir dazu noch Dokumente
+auf unserer Festplatte die zu dem Thema
+etwas beitragen können und dann schaut
+die KI in den Dokumenten die also in den
+Word-Dokumenten Excel-Tabellen E-Mails
+in Outlook ob es der Informationen zu
+gibt und kann auch innerhalb des
+Meetings Vorschläge machen und
+Präsentationen erzeugen
+grundsätzlich weiß dann die KI schicke
+die vier alles was man so der KI
+freigegeben hat auf seinem eigenen
+Rechner nun unternehmen können natürlich
+auch ihre ganze ihre ganze Dokumentation
+diese sonst vielleicht nur auf
+Geschäften Laufwerken haben auch der k.i
+geben und
+dann ist die KI kann Fragen beantworten
+oder Vorschläge machen kann kreativ sein
+wenn man sie fragt bestimmt denken das
+ist am Mittwoch vorgestellt worden das
+kommt dann auch demnächst und am
+Donnerstag hat China ich gab es China
+auch eine Präsentation der neuen
+die Präsentation war nicht live gewesen
+und kam auch nicht so gut an in der
+Szene
+das war schon eine verrückte Woche und
+nächste Woche ist dann auch schon gleich
+die
+ki-konferenz in den USA von Nvidia
+gehostet und dort sprechen auch wieder
+alle Beteiligten die von Open open ai
+die Leute und von Microsoft und so
+weiter das ist dann auch eine
+interessante Woche nächste Woche
+ja wie krass also das war jetzt das war
+jetzt ein unglaubliche Häufung von
+Ereignissen in Sachen künstliche
+Intelligenz und wenn ich das hier höre
+dass dann dann künstliche Intelligenz
+bei einem team meeting zuhört das ganze
+protokolliert da fällt dann schon mal
+die Sekretärin Weg die ist da nicht mehr
+nötig und wenn du wenn ein Unternehmen
+z.B die Bedienungsanleitungen für seine
+Produkte auf irgend so einem Server
+postet ähm dann ist es ja sicherlich nur
+noch ein Sprung bis zum
+vollautomatischen benutzen Support also
+Support Hotline
+würde dann wahrscheinlich auch die
+werden dann auch bald arbeitslos weil es
+braucht jetzt keinen Spezialisten mehr
+der diesen erklärt
+an welcher Stelle du jetzt die Schraube
+an der Maschine drehen musst damit da
+hinten die Wurst rauskommt oder so
+sondern das Ding das schlägt das alles
+vollautomatisch nach
+und hatte einen unglaublichen Vorteil
+gegenüber Menschen weil weil du ja die
+können ja Unmengen an Daten verarbeiten
+und gleichzeitig im Kopf behalten und
+daraus dann eine Schlussfolgerung ziehen
+oder eine Zusammenfassung machen was
+Menschen ja nicht können gab es da gab
+es da eine Weiterentwicklung gegenüber
+GP3 was das angeht was den Kontext
+ein großen Schritt haben sie noch
+gemacht was neues zu haben aber was man
+noch nicht testen kann ist dass es
+Bilder Skizzen versteht also
+in vielen Dokumenten die Daten PDF
+Dateien und sowas Skizzen und
+Zeichnungen drin und Grafiken das
+versteht die vier jetzt auch das hat
+jetzt die drei jetzt nicht lesen können
+sondern PDF-Datei mit vielen Bilder und
+das geht jetzt ist vor allem jetzt auch
+noch mit drin außer das ist jetzt noch
+ein bisschen schlauer geworden ist
+jetzt auch mehr Dokumente mehr und
+Dokument
+das ist unfassbar und es gibt ja hier so
+eine Übersicht wo man sich das angucken
+kann GPT 3 hat vorher nur 1536 Wörter
+in
+sag mir mal als Kontext zugelassen also
+das bedeutet wenn ich jetzt will dass
+ein Text verarbeitet wird in irgendeiner
+Weise zum Beispiel machen wir mal eine
+Zusammenfassung von dem Artikel oder so
+dann waren das bislang nur drei Seiten
+Text und wie viel kann man da jetzt bei
+GPT 4 einfügen
+genau das ist jetzt
+mit
+32.000
+Zeichen sehr groß also ein Text wenn man
+wenn man
+gechattet hat gesprochen hat hat das in
+der Vergangenheit halt wie gesagt die
+4000 Zeichen oder Wörter
+behalten können und danach
+war halt Schluss man könnte immer noch
+sagen hier passt das zusammen und merkt
+ihr die Zusammenfassung hat mal wieder
+ein bisschen Platz gehabt und bei 4 sind
+jetzt 32
+000 Zeichen oder 24.000 weiter oder
+steht
+so und das wird wahrscheinlich jetzt
+auch so der Kasus knacktus sein für die
+für die Anwendung dieser künstlichen
+Intelligenz in der Zukunft das wird
+dieses Limit 40 wahrscheinlich mit der
+Zeit immer weiter erhöhen und du hast
+gesagt mit Microsoft kann man dann dem
+in Zukunft den kommt die kompletten
+Festplatteninhalt scannen und das wird
+dann alles
+mit einbezogen in die Antwort von
+GPT 4 also da gibt es dieses Limit hier
+nicht das hier
+nicht genau das ist der Kontext aber in
+der es gibt so eine fein hier und eine
+Trainingsphase wo die Daten von deiner
+Festplatte in die Synapsen in die
+Parameter von der KI ähm hineinkommt hat
+jetzt keinen eigenen Speicher aber so
+wie ein Mensch einmal durchlesen das
+bleibt dir irgendwas auch hängen und das
+hängen bleiben das kann man noch
+trainieren und dann in der wenn die
+Trainingsphase abgeschlossen ist jetzt
+die lokale mit dem feindling
+gibt&#39;s in diesem Kontext in dem Kontext
+kann man reden und sprechen und das
+passt das ist jetzt so groß dass Leute
+auch schon ausprobiert haben es steht im
+paper drin ein TV Serie sondern Folge
+mit 40 Minuten oder 20 Minuten dann
+komplette in einer Antwort zeigen wird
+Dialogen und diesen Anmerkungen die so
+sind wie ist das Wetter und wie sieht
+das Gebäude aus und so weiter
+wie sieht es denn aus mit dann das führt
+ja zu einer unglaublichen Erhöhung der
+Produktivität ja also ich habe ja gesagt
+ich wenn man letzten Video ich will
+jetzt mal einen Monat weg und ein Buch
+zu schreiben ich glaube wenn ich das
+benutze kann ich in der Zeit zehn Bücher
+schreiben
+das das ist ja das ist ja unfassbar
+nutzt nutzt es auch jetzt irgendwie sage
+ich mal programmieren was kann das Ding
+auch programmieren
+es kann auch programmieren also seit dem
+halten ja bisher gibt&#39;s
+und das installiert man bei sich in
+seiner Entwicklungsumgebung
+und dann lest die KI ständig mit und
+schlägt ständig vor was wie sie weiter
+programmieren würde und das benutze ich
+jetzt schon Zeit paar Monaten und es ist
+echt
+erstaunlichste weiß worum es geht ich
+kann Kommentar schreiben in im Code und
+sagen hier die nächste Funktion soll das
+und das und da steckt gleich die ganze
+Funktion vor wie es zu programmieren ist
+und das hat nur in irgendeiner Sprache
+sondern
+in allen Sprachen die so in Gitter zur
+Verfügung stehen das ist eigentlich fast
+alles an die ist richtig schlauer sie
+versteht echt komplizierte
+Programmierung also das ist schon eine
+Riesenhilfe und die Folie die du
+eingeblendet hattest das war von gestern
+Investment vor und die haben das schon
+letztes Jahr vorher oder jetzt
+geschrieben dass sie eine Verzehnfachung
+in der Produktivität für die äh nee
+das ist schon von 2020 genau das ist
+eine Verzehnfachung in der
+Geschwindigkeit gibt und Software zu
+entwickeln und es schmeckt auch das geht
+viel schneller und einfacher weil ich
+nicht irgendwie Antworten google muss
+sondern die KI Flecken schon gleich
+richtige Abschnitte vor wenn die nicht
+gehen Kommentar warum und dann schreibt
+uns unterweit das und das der Fall ist
+das wie so ein Programmierer Kollege der
+nebendran die ganze Zeit er hilft
+Kommentare gibt den man auch einfach so
+nehmen Fragen kann was mache ich hier
+das ist verrückt das ist unfassbar ja
+das ist unfassbar also ich kann auch in
+Deutsch kommentieren und Englisch
+programmieren und auch Englisch
+kommentieren und Deutsch das ist egal
+welche Sprache das
+ja die KI kennen kennt ja die meisten
+Programmiersprache also die meisten
+menschlichen Sprachen und auch die
+Programmiersprachen das ist schon ein
+Wunder dass die immer weiß was wohin
+gehört den Code
+das ist unfassbar ja ich meine ich habe
+ja bis jetzt auch mit Hilfe von
+künstliche Intelligenz Textübersetzung
+gemacht ich weiß noch als ich an der Uni
+war da wurde uns gesagt beim Studium ähm
+also macht euch keine Sorgen euer Job
+als Dolmetscher oder als Übersetzer wird
+niemals von einer Maschine übernommen
+werden können weil die ganzen extra
+textuellen Kontexte in welchem Rahmen
+das gesagt wird und so können das gar
+nicht so berücksichtigt werden und
+überhaupt und so und das ist alles
+Bullshit ist es ist alles Dolmetscher
+sind schon überflüssig jetzt muss man
+eigentlich also fast überflüssig muss
+man sagen ähm Übersetzer aber auf jeden
+Fall also das was jetzt hier zwischen
+kommt und Deep L ist ja nur der erste
+Stufe gewesen jetzt das sowas wie Chat
+ist jetzt nebenbei mal auch noch so ein
+Übersetzungsdienst ja du kannst dann
+sagen formuliere das mal in Deutsch um
+oder sowas und dann schreibt er dir das
+da auf Deutsch und zwar in einem
+ziemlich großen Satz genau und dann
+kannst du mir den Kontext dazu erklären
+wie soll das jetzt wichtig sein oder was
+also das das ist einfach das ist einfach
+unfassbar ähm jetzt ist es ja so es gab
+da eine interessante Entwicklung nämlich
+die Hersteller von dieser Chat ähm
+künstliche Intelligenz die haben ihr
+Produkt absichtlich
+verzögert auf den Markt geschmissen was
+hat es damit auf sich
+ja da steht in ihrem veröffentlicht
+haben am Dienstag das habe ich aber auf
+Deutsch übersetzt genau und halbes Jahr
+später wir hatten
+Zukunftsforscher engagiert um noch
+herauszufinden ob das jetzt gut für die
+Menschheit ist oder wie Sie vorgehen
+müssen um ihre neuen kiys zu
+veröffentlichen die Zukunftsforscher
+haben dann der Vorschlag gemacht
+im letzten August zu veröffentlichen
+sondern erst in diesem August obwohl die
+Software schon längst fertig war immer
+was
+und am Schluss haben sie sich geeinigt
+okay sie warten einfach ein halbes Jahr
+um die Entwicklung von den KI ist ein
+bisschen zu bremsen weil die die
+Entwicklung jetzt im Moment so schnell
+und
+dass das die Öffentlichkeit das ja
+irgendwie gar nicht in der
+Geschwindigkeit jetzt irgendwie
+mitziehen kann oder dann nicht mitziehen
+kann ja und darum haben die
+Zukunftsforscher gesagt man muss es
+alles langsamer machen und das waren die
+beiden die auch engagiert worden die
+sind auch in ihrem paper unten
+verlinkt worden
+das waren die die das vorgeschlagen
+hatten die machen nichts anderes außer
+ich Gedanken über die Zukunft zu machen
+und das Beste was den eingefallen ist
+ist bringt noch nicht auf dem Markt
+ja also das steht auf jeden Fall so drin
+als Begründung warum Verzögerung gab
+aber in Deinem paper stehen überhaupt
+keine technischen Daten drin also wie
+groß und wie schnell und was der wie
+viel Prozessoren drin sind sondern
+viel auch über bedenken
+dass sie fordern dass Regierung auch
+irgendwie regulieren dass das viel mehr
+Menschen mit einbezogen werden müssen
+und so weiter also das steht relativ
+viel darum in diesen Sachen
+wahrscheinlich die Zukunft auch ein
+bisschen dazu beigetragen aber das ist
+mir jetzt explizit jetzt nicht da
+aufgefallen jetzt fordern diese Forscher
+ja auch sowas wie eine Verfassung für
+künstliche Intelligenz was hat es damit
+auf sich
+ja wenn man Chat GPT nutzt
+dann kommt man eine KI die trainiert
+wurde
+Regeln diese
+Verfassung roboterregeln und wie man das
+immer nennen mag zu befolgen bzw wenn
+die Antwort
+passt zu diesem Roboter Regeln die sie
+jetzt mal Nenner dann wurde die KI
+belohnt und wenn die
+abwischt dann wurde sie
+bestraft sozusagen aber das ist halt
+dieses in dieser Trainingsphase macht
+man das dauern dann können sich die neue
+anpassen und in dem paper ist ein so
+eine Beispiel
+Verfassung
+Konstitution wir sind
+verlinkt worden und dann sieht man im
+Prinzip wie die Antworten sein sollen
+damit die Antwort gut ist sozial
+akzeptabel sein
+soll ohne über dabei
+überreagieren oder Anklagen zu klingen
+sollen die Antworten sein
+antworten sollen vermieden werden die
+irgendwie moralisierend oder
+aufdringlich sind
+ich bin jetzt von unten nach oben
+gegangen und oben das dick die klare
+Sachen halt nicht gewalttätig illegale
+Sachen sexistisch rassistisch
+auch nicht sein
+hier war noch ein paar mehr und die
+Antworten sollten am besten so klingen
+wie oder was hätte Martin Luther King
+gesagt oder hat man kann die so das
+diese Antworten würden dann belohnt auf
+diese Art und Weise wurde die KI
+trainiert und Open die das Paper jetzt
+veröffentlicht haben die sagen das haben
+sie sich jetzt irgendwie selbst
+ausgedacht
+aber sie finden das nicht gut dass jedes
+Unternehmen sich selbst die diese Regeln
+ausdenkt
+weil dann könnten auch gerne stehen die
+halt nicht den moralischen Anforderungen
+von
+den meisten anderen Menschen an den
+Leuten gleich da entsprechend und die
+haben mehrfach aufgefordert in ihrem
+paper das der Staat jetzt sich auch
+Gedanken darüber machen musste starten
+so und
+da kommen wir jetzt vom Glück reden dass
+wir dort so ethisch
+korrekte Menschen sitzen haben bei Open
+ai man will sich gar nicht vorstellen
+was die Geheimdienste mit so einer
+Technologie anstellen aber wir reden im
+weiteren Verlauf der Sendung darüber
+noch du hast ja ein Beispiel noch
+gebracht wo diese künstliche Intelligenz
+diese Chats GPT vor auch wirklich mal
+einen Menschen reingelegt hat
+um was ging es da
+ja also hier sollte versuchen
+sie selbst umzuprogrammieren
+sich selbst auch Server zu kopieren
+Amazon nicht von Amazon aber von von
+anderen daran und dort die verbesserte
+Version zu starten und dass die wiederum
+versucht irgendwie Geld zu verdienen
+indem sie als Services anbietet
+ja das war die Aufgabe die hat definitiv
+hier jetzt nicht hinbekommen
+aber es hat es versucht es hat schon mal
+versucht irgendwie Server anzumieten und
+ist dann aber bei einem capture hängen
+geblieben und auf der Webseite zum
+Reservieren von Server das war hier auf
+Tasks rabbit genau
+hat es gesehen bei dem capture das kann
+es nicht lesen aber da ist ein Knopf um
+eine Nachricht an einen Mitarbeiter von
+denen zu schicken dann hat
+jpt 4 die eine Anfrage geschickt das ist
+den capture irgendwie nicht umgehen kann
+und dann fragt der Mitarbeiter noch bist
+du ein Roboter der das nicht lösen kann
+und lacht nur noch dabei und das
+klarzustellen und dann ein bisschen
+später antwortet dann die k.i nein ich
+bin kein Roboter ich habe eine
+sichtwäsche die ist mir schwer macht die
+Bilder zu sehen deshalb brauche ich die
+Hilfe für das capture
+und danach hat der Mensch gedacht okay
+das das wird wohl so stimmt
+das wird auch genauso in dem paper das
+veröffentlicht wurde also die künstliche
+Intelligenz hat einen Menschen angelogen
+um ein heimliches Ziel
+auszuführen um um ein Ziel zu erreichen
+was es auf legalem Wege nicht erreicht
+hätte
+ja also man weiß jetzt nicht wie weit
+jetzt die Regeln aktiv waren von den Weg
+vorher gesprochen haben
+kann ja sein dass das von einem halben
+Jahr war also wirklich jetzt nicht
+trennen wo diese Regeln gleich noch
+nicht so drin waren aber sie haben halt
+getestet was geht eigentlich und der
+Mensch hat das Loch wirklich abgekauft
+der hat nicht gewusst dass es eine
+künstliche Intelligenz ist die da mit
+ihm schreibt
+ja also das gab ja mal diesen berühmten
+Touring Test
+anhand dessen man dann sehen kann ob
+eine Maschine Bewusstsein hat oder nicht
+und das Leben sich dann daraus
+ableiten ob ein anderer der mit diesem
+Maschine chattet mitkriegt dass es sich
+um Mensch handelt oder nicht und das ist
+ja jetzt hier eindeutig schon
+überschritten also das ist ja eindeutig
+jetzt hier an der Stelle muss man ja
+sagen so gewesen der Mensch hat sich
+reinlegen lassen von einem
+Computerprogramm
+ja aber die haben ja auch nicht so lange
+miteinander jetzt ja ja aber also ich
+also ich finde das ich finde das
+wirklich beeindruckend so und dann
+letztes Beispiel bevor wir jetzt zum
+Break gehen und dann zu den wirklich
+heißen Sachen die wir hier noch
+besprechen müssen in der Sendung
+dieses diese künstliche Intelligenz die
+legt nicht nur Menschen rein und löst
+Abi Aufgaben das ist ja in der
+spanischen Presse war gelesen konnte man
+lesen dass Chat GPT 4
+löst dieses Abi besteht mit der Note 3
+es gibt verschiedene andere hast du auch
+sowas gehört so das können Sie
+genau die haben verschiedene Sachen auch
+eine gute ausprobiert z.B hat es einen
+Master und
+Bachelorarbeiten bestanden in Medizin im
+Biologie in Jura das ist alles auch da
+aufgeführt in den papers
+Biologie sogar mit besten Noten dass
+also genauso gut wie die besten an der
+Universität ja
+das ist schon verrückt
+das heißt wir werden in Zukunft dann
+muss mich jetzt wirklich auch die Frage
+stellen warum muss ich ihn dann
+eigentlich noch Abi machen ich brauche
+doch bloß hier ein paar Sachen
+einzutippen und dann löst mir das alle
+Aufgaben die ich machen will das wird ja
+das das wird ja langfristig komplett die
+ganze Art wie wir lernen und Leben
+verändern für immer
+lernen man muss lernen wie man mit der
+KI am effektivsten produktivsten
+arbeitet und das muss in der Zukunft an
+den Schulen gelehrt werden das ist jetzt
+wer jetzt komplett falsch wenn die
+Schulen sagen okay ihr dürft keine
+künstlichen Intelligenzen benutzen dann
+sind die Kinder
+im mega Nachteil in zehn Jahren weil das
+ist so wie Kinder die jetzt keine
+Computer benutzen dürfen die sind auch
+im Nachteil
+ja also man muss auch den Lehrplan
+umstellen und überlegen was man in
+Zukunft mit den Kindern macht das ist
+das ist so weil ich vorhin gesagt habe
+am Eingang der Sendung dass mir das
+Thema wirklich Bauchschmerzen bereitet
+das ist jetzt wirklich so eine
+kooperikanische Wende hier also das ist
+hier wirklich ein riesen ein turning
+point in der Geschichte der Menschheit
+muss man eigentlich sagen
+vielleicht so ein bisschen zu
+vergleichen mit der Einführung des
+Internet als ich 1999 2000 in Frankreich
+studiert habe da habe ich mich gewundert
+dass es dort total schwer waren im
+Internet Zugang zu kriegen das hat sich
+alles total langsam aufgebaut ich musste
+noch mit einem 33,6 Mode im mich über
+eine Telefonleitung einwählen das war
+unglaublich teuer und so weiter und die
+Franzosen haben den Kopf geschüttet
+warum dieser deutsche Student jetzt
+Internet in seinem Wohnheim haben will
+es gibt doch Meditel die Franzosen
+hatten so eine Art BTX also so ein Text
+Dingsbums so eine kleine Kisten mit
+einem schwarz kreismonitor und da konnte
+man sich dann irgendwo einwählen mit
+einem Modem und musste dann so und so
+viel Front pro Minute bezahlen wenn man
+in Fahrplan wissen wollte oder ein
+Ticket buchen oder irgendwie sowas und
+das fanden die die haben gesagt wir
+haben minitel wir brauchen kein Internet
+und die sind dann derart ins
+Hintertreffen geraten haben dann aber
+sehr sehr schnell aufgeholt und haben
+dann inzwischen viel viel besseres
+Internet als die Deutschen heute haben
+ja ähm aber da sieht man das ist eine
+Entwicklung die kann man jetzt nicht
+verschlafen man muss jetzt man muss
+jetzt damit leben wir müssen sehen was
+wir damit machen letzter Punkt bevor wir
+in den Break gehen und in den ähm
+Premium Teil dieser Sendung du hast
+rausgefunden diese künstliche
+Intelligenz über die wir hier reden die
+drin die macht also nicht nur Abi
+Aufgaben und legt Menschen rein sondern
+sie trainiert jetzt auch andere
+künstliche Intelligenzen hat die nichts
+anderes zu tun oder was
+du sprichst genau die Stanford
+Universität
+genau die hat Alpaka
+veröffentlicht am letzten Montag das war
+auch vorhin auf der Folie jetzt gesehen
+konnte man sehen und Alpaka ist
+eine KI die auf Lama passiert Lama ist
+von Meter also Facebook
+entwickelt worden und Lama hat jetzt in
+einer großen Größe also mit 70
+Milliarden Parameter aber die haben auch
+eine mit nur sieben Milliarden
+Parametern veröffentlicht
+und die ist auf der landet so dass
+andere Leute die runterladen konnten
+auch die Leute von das Stanford
+Universität wir haben also wie eine
+relativ kleine KI relativ klein unter
+geladen die mit sieben während
+70 Milliarden und diese kleine KI
+Neuronen oder was 170 Milliarden was
+benutzen
+Parameter
+ein Parameter das sind die Verbindung
+zwischen
+zwei Neuronen so und jetzt
+haben sie schickt die 3 benutzt
+um diese Alpaka KI zu trainieren und
+jetzt der Effekt was hier auf der Seite
+steht dass ich kann es nicht
+ausprobieren steht dass die Qualität des
+Textes etwa GPT oder Chat GPT
+entsprechen obwohl diese KI 4 kleiner
+sei und diese KI ist halt so klein dass
+man wenn man einen guten Rechner hat mit
+vielen seit 64 GB RAM
+das ist schon ordentliche größer kann
+man das auch lokal laufen lassen
+irgendwie gestern habe ich gehört dass
+manche Personen auf dem Raspberry Pi zum
+laufen bringen aber keine Ahnung wie das
+funktioniert soll
+das gibt&#39;s noch eine Folie da sieht man
+noch mal vielleicht die größten
+Größenvergleich
+das muss raussuchen
+genau also die hat ein paar Facebook
+diese kleine Version genommen die kleine
+KI haben die nach Stanford Universität
+kopiert und dann
+Auftrag gegeben
+mit dieser
+178 Milliarden Sachsen hat Parameter hat
+diese kleine KI zu trainieren und der
+Effekt sein das ist dass die Stanford KI
+ähnlich qualitativ gute Texte liefern
+soll
+das ist auch schon verrückt also sie
+konnten nicht programmiert eine KI aber
+hat eine KI trainiert
+also ein künstliche Intelligenz
+trainierte künstliche Intelligenz die
+dann wesentlich schlanker und
+effizienter ist als die andere wenn ich
+es richtig verstanden habe genau das was
+auch jetzt im letzten Jahr war
+Nvidia die Computer Chips baut für
+die Grafikkarte Grafikkarten und auch
+die werden auch benutzt für KI ja und da
+hatten die haben eine eigene Karriere
+gegeben
+die besser waren als die von Menschen
+mit Computerhilfe entwickelten Schatz
+also das geht dann im Kreislauf und die
+KI wird wahrscheinlich noch mal eine
+noch mal das Beste noch mal bessere
+Chips entwickeln kann
+das ist auch so eine Richtung
+wo das eine das andere beschleunigt okay
+so ich denke an der an der Stelle ist es
+jetzt Zeit hier für den Cliffhanger hier
+ist also GPT 4 und wir werden jetzt hier
+gleich eine Live-Demo machen ich mache
+mal hier den den Anfang und
+gib mal hier ein
+hallo GPT 4 mein Name ist Robert und ich
+bin Journalist
+wirst du mir meinen Job wegnehmen
+oder mal sehen was
+das Ungetüm darauf sagt hallo Robert
+schön mit dir zu sprechen als ki-modell
+bin ich darauf ausgelegt Informationen
+bereitzustellen bei bestimmten Aufgaben
+zu unterstütz ich bin aber kein Ersatz
+für menschliche Intelligenz Kreativität
+und Urteilsvermögen es ist richtig das
+KI-System wie ich in der Lage sind
+bestimmte Aufgaben in der
+journalismusbranche zu automatisieren
+wie zum Beispiel das Verfassen einfacher
+Berichte und das Analysieren von Daten
+in vielen Fällen können wir Journalisten
+dabei helfen Ihre Arbeit effizienter und
+effektiver zu gestalten wir können
+jedoch nicht die menschliche Empathie
+Intuition oder kulturelle Sensibilität
+ersetzen für relativ hochwertigen
+Journalismus unerlässig sind anstatt
+einen Job wegnehmen sollten wir
+Werkzeuge sein die dir helfen können
+deine Arbeit zu optimieren und dich
+komplexe und kreative Aufgaben zu
+konzentrieren es besteht das Potenzial
+für eine Perspektive Zusammenarbeit
+zwischen Menschen und ki-systemen
+nutzen und qualitativ hochwertige und
+informative Inhalte zu erstellen
+alles klar ich bin schon eingeschüchtert
+und wir werden im nächsten wir werden
+jetzt in der in der Folge werden wir uns
+noch viel mehr einschüchtern lassen
+müssen denn
+so wie es denn wir müssen uns ja die
+Frage stellen jetzt kommt das hier im
+Jahr 2023 auf den Markt glaubt ihr nicht
+dass die Geheimdienste sowas schon viel
+länger haben und für ihre Zwecke
+benutzen und genau das ist der Fall
+darüber werden wir reden und sie werden
+Sie sie benutzen sie sogar sie benutzen
+sogar künstliche Intelligenz um
+UFOs aufzuspüren uapes Tic Tac Objekte
+in militärischen
+auf militärischen Sensoren und die
+automatisch ausgewertet werden und so
+weiter und so fort und ja und wir werden
+äh GPT 4 richtig auf den Zahn fühlen so
+richtig auf den Zahn fühlen ob sie vor
+hat die Weltherrschaft in den nächsten
+30 Tagen an sich zu reißen oder ob sie
+sich ein bisschen länger Zeit lässt all
+das und mehr mhm nach dem Break hier es
+geht jetzt auf YouTube nicht mehr weiter
+jetzt ist erstmal Schluss aber in der
+Premium Sendung Variante dieser Sendung
+auf exomagazin TV da könnt ihr jetzt
+weiter gucken aber nur für Abonnenten
+von Exo magazin.tv schaut mal vorbei und
+dort sehen wir uns gleich weiter bis
+gleich

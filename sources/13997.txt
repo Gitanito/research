@@ -1,0 +1,1609 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=NlYiS89_Q8E","mytitle":"Exo Politik, Exo Magazin, ExoMagazinTV, Robert Fleischer,1-kW Raumenergie-Konverter - Prof. Dr. Claus Turtur ","mylang":"de"}
+zunächst einmal möchte ich euch beiden
+arten von dinge ganz herzlich für diese
+wunderbaren kongresse danken ohne die
+ich sicherlich zwischendurch nicht mehr
+die seelische kraft gehabt hätte weiter
+zu machen und zwar lassen und neu
+entstanden ist seit dem letzten vortrag
+in zürich ist ein leistungsstarker raum
+energie converter im theoretischen
+konzept also ich habe es bisher noch
+nicht geschafft
+prototypen davon zu bauen aber von der
+fundamentalen theorie hier bis zu den
+fertigen konstruktionszeichnungen mit
+bemaßung steht inzwischen so ein
+bisschen schräg steht inzwischen alles
+so steht inzwischen alles im internet
+also ich arbeite open source wie die
+meisten von ihnen wissen das heißt meine
+ergebnisse erscheinen immer dran heißt
+sofort im internet
+sie können das abrufen bei der
+internetseite die hier steht auch der
+heutige vortrag ist dort schon
+verfügbaren möglichen geht irgendwie
+nicht machen so auch der heutige vortrag
+ist dort schon verfügbar und ich habe in
+der zwischenzeit auch auf dieser
+internetseite ein hörbuch raum energie
+von zwei stunden eingestellt das sind
+drei vorträge 20 30 und 60 minuten
+die gibt&#39;s auf deutschland die gibt es
+auch auf englisch einfach mal wer spaß
+daran hat angucken also bei mir kostet
+alles prinzipiell gar nichts sie rufen
+sie einfach ab und gucken sich so den
+heutigen vortrag möchte ich so als
+zusammenfassung über meine arbeiten der
+raum energien drei teile untergliedert
+zuerst erzähle ich mal das was in der
+schuld physik über raum energie schon
+bekannt ist also all die dinge die sie
+in den schulbüchern der standard physik
+abrufen können und dann werden sie
+nämlich sehen dass die raum energie
+erstaunlich gut in den köpfen der
+physiker drin ist und die nicht
+akzeptanz ist eigentlich kein
+inhaltliches sondern nur ein politisches
+problem
+28 zuerst noch mal soll der zweite teil
+ist dann mein grundlagen experiment in
+dem ich selber bewiesen habe dass man
+raum energie wandeln kann ich bin
+eigentlich gelernte experimentalphysiker
+und musste erstmal beweisen mir selber
+dass es die raum energie überhaupt gibt
+erzählen kann man fehler was man mit
+eigenen händen im labor misst das muss
+dann irgendwann geglaubt werden
+und der dritte teil ist die theoretische
+entwicklung der theorie von raum energie
+konversionen das was ihnen da vorstelle
+ist nicht einfach ein neu entwickelter
+raum energie converter davon gibt es
+schon dutzende sondern das ist die
+fundamentale theorie schlechthin
+also ich könnte im prinzip jeden denkbar
+möglichen raum energie converter damit
+rechnen wenn ich denn die zeit hätte zum
+beispiel in kohler apparat oder welche
+maschine auch immer das lässt sich alles
+in diese theorie hineinbringen
+und ich habe das rechenverfahren als
+dynamischen finite elemente algorithmus
+dfm verfahren auch mit den quellcodes
+ins internet gestellt damit im prinzip
+also wirklich jeder nutzt kann so was
+sagt die schul physik über die raum
+energie was wissen wir
+ich fange mal an mit der quantenmechanik
+und das ist zunächst noch keine raum
+energie sondern das heißt der
+harmonische oszillator kann niemals
+stillstehen
+also wenn sie ein pendler haben wir bei
+einer uhr so ein paar entwickelt er kann
+stillstehen
+das kennen sie in der quantenmechanik
+ist das anders der darf nie stillstehen
+das geht zurück auf die väter der
+quantenmechanik sie können also die
+quantenzustände durchnummerieren gleich
+null ist der grundzustand entgang 12 13
+angeregte zustände wenn sie allen gleich
+null einsetzen dann steht da ich die
+energie des schwimmfähigen körpers ist
+ein halb hardware omega das heißt da ist
+noch energie die kriegen sie nicht weg
+das heißt wir wissen so etwas ich sag
+das mal anschaulich für den nicht
+physiker ein pendel hat in der
+quantenphysik das verbot stillzustehen
+gilt das nur für ein händler
+dieses gebot der ruhelosigkeit oder gilt
+es auch für ganze wellen die durch den
+raum laufen und da gehe ich auf hendrik
+bucht gerhard kasimir 1948 zurück der
+dieses gedankengut auf wellen übernommen
+hat und zu der zu dem ergebnis kam
+wählen beliebiger wellenlänge müssen
+durch den raum laufen das geht auch
+zurückgeben auf diese nullpunkt
+oszillationen nullpunkt wellen
+elektromagnetische müssen also im raum
+existieren und den ganzen raum anfühlen
+ob das alles ist was die raum energie
+definiert ist eine ganz andere frage
+es kann sein dass die raum energie als
+als energie des raumes noch viel viel
+mehr komponenten hat aber zumindest
+soviel ist nach kasimir postuliert diese
+komponente muss dabei sein und kasimir
+wurde 1948 einfach nur verlacht wie kann
+man auch so ein quatsch kommen er hat
+auf diesem postulat basierend
+ausgerechnet dass ich zwei metallplatten
+gegenseitig anziehen müssten sie stellen
+zwei metallplatten nebeneinander und
+bemerken eine anziehende kraft auch wenn
+die beiden platten elektrischen neutral
+und geerdet sind also wenn keine cola um
+kräfte aus und im unterschied zum cool
+und gesetz stellt man auch fest ich
+nehme einfach mal die maus als zeiger
+wenn das andere dinge geht ist egal ob
+das klappt mit der maus recht schön dass
+kohl und gesetz hatten einziger quadrat
+gesetz und hier sehen sind 184 oder
+endlich den noch vier gesetz also die
+kraft geht in der vierten potenz mit den
+platten abstand nach oben wenn die
+platten einander sehr nahe kommen und
+dann hat man kann sie mir zunächst
+einmal ausgelacht und nicht ernst
+genommen und dann gab es in den 50er
+jahren eine russische arbeitsgruppe um
+dr
+sie haben versucht es nachzuweisen mit
+einer messunsicherheit von etwas über
+100 prozent also der effekt der könnte
+vielleicht existieren aber vielleicht
+auch nicht
+dann wurde das gelächter noch lauter bis
+schließlich steven lang höhe von der
+yale-universität 1997 den klimaeffekt
+mit einer mass präzision von fünf
+prozent nachweisen konnte also die
+formel die da oben stimmt diese hier die
+kasimir kraft formel die ist
+experimentell mit einer genauigkeit von
+plus minus fünf prozent bewiesen etwa
+ein halbes jahrhundert nachdem kasimir
+diese sache gemacht hat und dann hat man
+in posthum rehabilitiert hat halo noch
+gelebt okay ein verstand auf jeden fall
+er bekam nicht viel davon das witzige
+ist 2005 etwa habe ich mal ein vortrag
+gehört von der computer fertigung wo
+alles so stark miniaturisiert wird und
+die müssen heute in der praktischen
+fertigungstechnologie die kasimir kräfte
+mit berücksichtigen sonst klappt es
+nicht
+also inzwischen ist das allgemein üblich
+anerkannte technologie anschaulich für
+den nicht physiker müsste man sagen im
+quanten vacuum gibt es also
+elektromagnetische wellen unendlich
+vieler wellenlängen
+ich will jetzt nicht den kasimir effekt
+im einzelnen durch diskutieren das hast
+du gestern noch mal ein bisschen
+angesprochen thorsten ich will einfach
+mal so verschiedene effekte
+nebeneinanderstellen das was kasimir
+macht ist natürlich im wellenbild wir
+haben im vakuum diese wellen aber wie
+sich ein teilchen bild wir sprechen
+immer von dem teilchen welle dualismus
+und da gehe ich auf richard feynman
+zurück der war so genannte vakuum
+polarisations ereignisse benutzt als
+eine der stand säulen der von ihm ins
+leben gerufenen quantenelektrodynamik
+auch 1948 er hatte mehr glück als
+kasimir würde nicht von anfang an
+belächelt sondern man hat diese vakuum
+polarisations ereignisse sehr genau
+nachmessen können also feynman hatte
+jahrelang zeit sehr genau dass
+elektromagnetische moment des elektrons
+zu berechnen und die messungen des
+elektro magnetischen moments die man
+heute findet sie sehen die vielen
+stellen die da stehen gelten heute als
+eine der genauesten messungen die man
+weltweit je gemacht hat
+mit einer vollen bestätigung der
+quantenelektrodynamik so dass also die
+vakuum polarisations ereignisse als
+absolut gesichert gelten
+deswegen hat auch der verein den
+nobelpreis am ende dann dafür bekommen
+also da muss irgendetwas im vakuum sein
+sonst wäre da nichts was ich
+polarisieren lässt und das sind teilchen
+virtuelle teilchen virtuelle elektronen
+positronen paare die sich da plötzlich
+bilden können so viel aus der
+mikroskopischen physik wir kennen aber
+die vakuum energie und raum energie aus
+der makroskopischen physik und zwar aus
+der kosmologie noch größere maßstäbe
+können wir eigentlich nicht anwenden
+unser universum das weiß man aus
+messungen zur beschleunigten expansion
+also zur geschwindigkeit mit der die
+sterne auseinanderfliegen im universum
+oder mit der die galaxien
+auseinanderfliegen aus diesen messungen
+kann man schlussfolgern dass etwa zwei
+drittel des universums hier der
+löwenanteil aus sogenannter dunkler
+energie besteht dunkle energie nicht
+weil die dunkle schwarze kräfte oder
+sowas
+ich spreche hier wirklich von
+bodenständiger fundamentale physik
+sondern man bezeichnet sie einfach als
+dunkel wenn man sie im dunklen kann ich
+nicht sehen und die kräfte kann ich
+halte zählen das ist nur eine frage der
+ort prägung dazu kommen noch etwa 25%
+30% grob über den daumen geschätzt
+bisher unbekannte elementarteilchen und
+etwa fünf prozent das ist ja der kleine
+blaue abschnitt hier
+dieses kleine blaue segment drückt aus
+welchen anteil des universums wir sehen
+wahrnehmen ist als all die dinge die sie
+hier sehen von dem pult über das
+mikrofon und so weiter bis zur schwarzen
+löchern und sternen also schlage immer
+vor wir befassen uns einfach mal mit dem
+dominanten teil des universums
+das auch bitter glaubst du das nicht
+natürlich das ist keine frage von
+glauben natürlich also dass keine frage
+von glauben dass eine frage von wissen
+das ist in der kosmologie gemessen und
+zwar geht man her und misst die
+geschwindigkeit mit der die sterne sich
+vom von einem zentrum entfernen indem
+man den urknall vermutet und diese
+geschwindigkeit nur teilweise es ist ab
+da braucht man noch mehr und zwar man
+geht macht folgendes die sterne haben ja
+auch die bestehen aus atomen und die
+atom den fahrzeugen charakteristischen
+speck dran und diese spektren kann man
+vermessen und dann sieht man bei
+bewegung der sterne eine doppelschicht
+also doppler verschiebung darf der
+charakteristischen frequenzen und
+dadurch sind
+geschwindigkeitsunterschiede zwischen
+stern und uns sehr genau feststellbar
+also sind es in handfeste messungen und
+man beobachtet dass diese
+expansionsgeschwindigkeit permanent
+zunimmt
+es könnte aber aufgrund der gravitation
+nicht sein und deswegen zeigt du
+brauchst mehr als gravitation aufgrund
+der reinen gravitation müsste diese
+expansionsgeschwindigkeit abnehmen da
+muss also noch eine energiequelle
+dahinter sein die da energie zuführt und
+darauf basierend gibt es berechnungen
+die letztlich dahin kommen
+also die physik weiß dass der größte
+teil des universums unsichtbar ist und
+ich nenne einfach mal vacuum den raum wo
+alles raus genommen ist was menschen
+sehen anfassen bewegen können so wie
+immer man das nennen mag da gibt es
+viele begriffe das ist in den
+schulbüchern allerdings nicht mehr
+üblich solche begriffe zu zitieren
+damit mache ich so ein bisschen kleine
+anpassung an die tatsache dass hier doch
+eine raum energie gemeinde sitzt hier
+auch sehr viele sich mit solchen anderen
+begriffen befasst aber aber ich möchte
+wieder zurück auf wir so ein paar
+maschinen die man immer in den in der
+literatur findet die angeblich mal
+gelaufen sein sollen
+ich glaube es erst wenn da ein
+handfestes gutachten da ist oder wenn
+ich selber im labor messen kann oder
+selber bauen kann
+alles andere ist für mich irgendwie so
+angewandte mystik oder was auch immer
+also ich nehme es nur ernst wenn es zum
+beispiel wie dieses gerät hier mit den
+ordentlichen tüv gutachten existiert und
+wissenschaftler fordern auch immer ganz
+gern noch die reproduzierbarkeit durch
+zweite unabhängige experimente also
+bitteschön noch von anderer arbeiter
+laboratories daneben wenn man das also
+mit möglichen tüv-gutachten findet dann
+muss wohl was dran sein
+das nächste gerät findet man mit einem
+gutachten von sgs die firma sgs société
+générale des jubiläums ist eine der
+trainer ist die größte prüfanstalt der
+welt mit 59.000 mitarbeitern
+wir haben dieses alutec gerät geprüft
+und je nach betriebszustand
+wirkungsgrade bis über 1400 gefunden
+also auch wirklich amtlich wie auch
+immer seriös geprüft
+dann fängt man an und sagt da muss wohl
+was dran sein
+ludwig übrigens geht inzwischen hier in
+hong kong die serienproduktion dieser
+geräte vorzubereiten also wir können
+schlafen in deutschland das hier klickst
+bitte
+das hinten magneten und auch schulen mit
+drin also die da gibt es auf der
+internetseite von ludwig und blutig
+eintippen
+dann sehen sie impulse spulen und das
+ist das ist eine erklärung aus drei
+teilen drin ist können sie dort
+nachlesen ich möchte heute heute nicht
+im detail über den bluetec generator
+erzählen sondern über meinen ich zitiere
+nun mal solche die schon vom großen prüf
+und zertifizierungsstellen verifiziert
+sind einfach damit sie sehen dass das
+zeug also wirklich ernst zu nehmen ist
+das reicht mir aber als grundlagen
+wissenschaftler noch nicht also ich sage
+ich möchte dann auch gerne mal im
+eigenen labor hinkriegen das heißt ich
+weiß um die existenz der raum energie
+und ich weiß auch um die nutzbarkeit
+aber was mache ich im labor ich bloß
+so&#39;n ding auf und da hab ich bin aus der
+theorie her kommen da hab ich ein modell
+entwickelt stellen sie sich vor sie
+haben eine ladung das kann ein
+elementarteilchen sein das kann auch
+eine geladene kugel sein also eine
+stahlkugel mit ladung auf der oberfläche
+wie auch immer sie erzeugt ein feld ein
+elektrisches feld und dieses elektrische
+feld wird abgestrahlt der
+relativitätstheorie folgen mit
+lichtgeschwindigkeit es kann gar nicht
+anders
+die funktionsweise des herzens dipol
+strahler der die entstehung von photonen
+also von sichtbarem licht erklärt lässt
+sich in ähnlicher weise auch
+zurückführen also die ladung strahlt
+elektrisches feld mit
+lichtgeschwindigkeit ab und das
+elektrische feld hat eine wohl bestimmte
+energiedichte die können sie
+hinschreiben nach den lehrbüchern und
+dann können sie die ausrechnen und
+können sagen so ich bestimme jetzt die
+energie in einer bestimmten kugel schale
+um die zentrale lage ist jetzt meine
+ladung und hier nämlich eine kugel
+strahle jetzt mäßig oder an einige
+rechner aus jetzt rechne ich aus wie
+viel energiedichte in so einer kugel
+schade um die ladung enthalten ist
+aber jetzt kommt der erste der erste
+punkt wo kommt denn die energie her die
+die ladung permanent verstrahlt ist wenn
+die ladung ein perpetuum mobile
+also wenn die ladung habe bei energie
+abstrahlt müsste sie eigentlich ein
+seien ausser sie würde aus dem vakuum
+versorgt werden das ging natürlich auch
+aber da müssen die vakuum energie mit
+berücksichtigen
+auch hier schon wir wissen aus der
+energie haltung der physik dass die
+perpetuum mobile nicht gibt also muss
+die vakuum energie hier mit ihm in
+verbindung stehen sonst funktioniert das
+nicht
+und der zweite teil ist auch eine ganz
+witzige geschichte ich rechne jetzt aus
+da kann man so ein paar volumen
+integrale hinschreiben das ist oft auf
+den fachpublikationen die ich da
+hunderte seitenweise veröffentlicht habe
+auch prima nachzulesen ich rechne aus
+wie viel energie in der kugel schale
+drin ist und dann bleibe ich die kugel
+schale auf gleichsam einen luftballon
+also und jetzt frage ich sie glauben sie
+an die gummi erhaltung bleibt der
+luftballon ja ich schwer wenn sie an die
+gummi erhaltung glauben dann müsste ja
+die energie die sich nachher ausbreiten
+die äußere schale gleichviel bleiben und
+das witzige ist nach dem cool und gesetz
+passiert genau das nicht
+es muss also beim ausbreiten des feldes
+wieder fällt energie verloren gehen
+das ist einfach so nach dem col
+umgesetzt und deswegen stehen wir vor
+einem energiekreislauf das heißt dass
+fans gibt beim ausbreiten bei der pro
+patient in den raum energie ab und der
+raum nimmt das als bestandteil der raum
+energie auf versorgt aber andererseits
+auch wieder die ladung mit energie und
+seinem sind permanenten energiefluss und
+meine frage ist nun kann man aus diesem
+energiefluss etwas herausziehen lässt
+sich das übrigens nebenbei bemerkt das
+lässt sich mit elektrostatischen fällt
+genauso verifizieren wir mit den
+magnetischen feld das geht in beiden
+fällen kann man aus diesem energiefluss
+etwas raus ziehen und das habe ich ja
+ich nehme scheibe das einfach eine
+flache scheibe und kostengünstig zu
+arbeiten einfach küchen alufolie
+aufgespannt und auf elektrisches
+potenzial gebracht das sie machen paar
+tausend volt darauf und dann erzeugen
+sie damit ein elektrisches feld und
+dieses elektrische feld strömt in den
+raum und müsste dann eigentlich mit der
+strömung einen propeller antreiben durch
+das elektrische feld anziehen das werde
+ich auch gleich noch erklären
+das heißt sie stellen
+ist das vorbild staubsauger der saugt
+und deshalb den propeller herumdreht das
+sollte eigentlich niemanden wundern
+das elektrische feld bleibt er erhalten
+die ladung geht nicht verloren
+also sie haben die platte einmal
+aufgeladen und dann wird der propeller
+angetrieben immer weiter weiter weiter
+klassische energie zu ziehen nebenraum
+energie zu ziehen
+wenn man das verstehen wollen müssen uns
+einfach auf historischem hintergrund in
+erinnerung rufen dass etwa um 1800
+thompson die wärme als energieform
+entdeckt hat etwa 1900 einstein und
+madame curie materie als energieform
+entdeckt hat die unzählige kernkraft und
+etwa um 2000 herum die menschen jetzt
+die raum energie als energie vom anfang
+zu nutzen also alle 100 jahre entdecken
+entdecken die menschen halt eine neue
+energieformen das ist eben so
+die abmessungen die da oben stehen mit
+46 zentimeter durchmesser das war
+übrigens mein historisch erster roter
+inzwischen habe ich einiges umgebaut
+also jetzt wollte ihn noch erzählen wie
+diese anziehung zustande kommt sie
+kennen das wenn sie einen luftballon
+nehmen und mit dem lappen reiben
+dann können sie elektrostatisch aufladen
+bis es knistert und den hebel hoch dann
+kommen da immer näher an die zimmerdecke
+und die letzten zehn zentimeter macht
+davon alleine bis oben klebt die
+zimmerdecke ist aber nicht elektrisch
+geladen und trotzdem zieht den
+luftballon an
+also wenn man nur einfach sagt
+elektrische ladungen ziehen sich an
+so kenne ich das aus der kindheit papas
+hat mal warum wird der luftballon der
+hochgezogen ja das sind elektrische
+ladungen plus und minus zieht sich an
+da müsste ich heute gegen fangs hat mein
+papa wo ist eigentlich das plus also wir
+haben ja den luftballon elektrisch
+aufgeladen das sehe ich wohl aber wo ist
+eigentlich das plus da oben die andere
+lade und winters anzieht die der kästen
+elektrisch neutral
+das ist spiegel ladung was da passiert
+ist folgendes die ladung auf dem
+luftballon influenza bewegungen von
+ladungen in der decke und zwar genau
+derart dass die feldlinien senkrecht in
+die decke hinein müssen während sie
+schräg da müssten wieder ladungen
+entsprechend der waagerechten komponente
+fließen
+die decke muss leitfähig sind aber der
+reicht tapete durchaus aus das
+beobachtet man ja zu hause also mal
+völlig elektrostatisch arbeiten dann ist
+auch papier ganz gut leitfähig genug
+aber ich habe natürlich um mit dem
+mieter und ein seiner frage nach dem
+metall rechnung zu tragen die flügel
+hier aus metall gebaut wenn mir dann
+sicher bin dass es besonders gut geht
+dass da war also dann mein erster
+eurotopics hat 46 cm durchmesser das
+ganze ding aus alufolie auf basar
+holzrahmen aufgespannt nun sind die
+kräfte nicht gerade eben riesig ich gehe
+noch einmal kurz zurück
+das bild gezeigt ein drehmoment von 12
+micro newtonmeter 12 x 10 - fünf minuten
+mit im vergleich dazu muss ich meine
+autoreifen mit 180 newtonmetern anziehen
+also wenn ich winterreifen oder
+sommerreifen drauf schreibt schraube
+also das drehmoment es wirklich winzig
+und darum müssen sie eine sehr sehr
+reibungsarme ladung realisieren das
+kriegt man kostengünstig am besten hin
+hydrostatische wenn sie nämlich daran
+erinnern dass boote auf dem wasser sehr
+reibungsarmen laufen können dann sagen
+sie wir machen ein wasserläufer dass
+diese kleinen tierchen die machen das
+noch effizienter und dann mache ich das
+genauso ich lege den rother von man fünf
+gramm oder acht gramm also ein roter mit
+dem programm
+auf so ein paar fliegengewichte von
+styropor und legt es auf eine
+wasseroberfläche
+wo kriege ich kostengünstige
+wasseroberfläche ganz einfach ich nenne
+duschwanne und las ein laufen und dann
+haben sie sieben kv da dran und schauen
+mal ob sich das ding dreht und siehe da
+es geht also die zeit in sekunden 3600
+sekunden sind eine stunde ich habe eine
+gute stunde laufen lassen dann war es
+mir einfach langweilig geworden und habe
+zwischendurch protokolliert wie sich der
+rotor dreht 360 grad ist eine umdrehung
+haben etwa zehn umdrehungen in der
+stunde gesehen und dann war es mir
+langweilig übrigens die kurve geht so
+ein bisschen schräg das liegt daran ich
+hatte am anfang etwa sieben kilo volt
+und das gerät das das hat man kollegen
+pensionierter kollege für einen euro
+selber gelötet das rad während da
+während des betriebs ein bisschen
+gelitten
+roma die am ende nur noch viereinhalb kv
+weil die spannung sankt mang hat auch
+die umdrehungsgeschwindigkeit aber
+machen wir uns nichts draus das war
+schon alles in ordnung und dann sagen
+die ersten kollegen
+jetzt müsste man doch eigentlich mal
+nachprüfen ich publiziere das und denkt
+dann müsste die fachwelt hellhörig
+werden und die kollegen st jetzt müsste
+man eigentlich mal nach prüfen ob nicht
+die nationen der luft das ding zum
+laufen bringen sie können ja über die
+hochspannung die luft atomisieren und
+die machen rückstoß schlagen mehr auf
+den propeller drauf und davon gibt es
+natürlich eine drehung
+was macht der physiker gesagt ich bettle
+mich mal durch an eine universität die
+vakuum apparatur hat es war in magdeburg
+der fall otto-von-guericke-universität
+zu hören es am namen den der otto von
+guericke kennt man ja historisch vor
+über 200 jahren hat er mal das vakuum in
+deutschland eingeführt die original
+halbkugeln lagen übrigens noch im foyer
+des instituts fand die sehr witzig als
+ich da kam und dann hat man dann klappt
+es ja miteinander kooperiert bis das
+ding also soweit dann im vakuum
+angepasst war
+das hat dann alles prima funktioniert
+sie sehen hier unten so ein rotor hier
+oben sehen was einfällt quelle darüber
+steht und das hat sich dann im vakuum
+gedreht und zwar sie machen es so wie
+bei uns noch fotografieren sie können
+alles aus dem internet auch haut fragen
+steht alles im internet haben sich
+weiter okay sie machen so sie bringen
+den roten reihen sie montieren alles
+machen den deckel drauf pumpen zunächst
+mal noch nicht ab und legen die spannung
+an und gucken wie sich das ding an luft
+prima dreht und dann schalten sie die
+vakuumpumpen 1
+hochspannung bleibt drauf und wenn sie
+so langsam 1000 milliwatt etwa ist
+normaler zimmer luftdruck wenn sie dann
+so langsam runter punkten auf 1 23
+milliarden merken sie also wenn die
+vakuum 8 for vacuum macht muss man
+sondern bleibt stehen aber witzigerweise
+dann leuchtet also das pärchen gesetz
+ist bekannt in der physik hat das etwa
+bei 1 23 millionen der luft besonders
+stark wird das heißt in dem bereich wo
+es besonders viele jungen gibt da bleibt
+er stehen
+das heißt es spricht eigentlich nicht
+dafür dass die jungen den antreiben wenn
+es dann wirklich wissen wollen könnten
+sie es ab auf 6 x 10 - fünf milliwatt
+das konnte ich also
+dann sind die jungen weg da leuchtet
+auch nichts mehr und dann dreht er sich
+wieder
+also es sind definitiv keine jungen und
+dann sagen die kollegen natürlich moment
+mal wie ist das eigentlich das ist ja
+ganz schön und nett aber gibt es
+irgendwelche anderen vorstellbaren
+artefakte also ich müsste so war die
+aufgabenstellung erstmal alle denkbaren
+klassischen antriebsformen ausschließen
+auch wenn die zugrunde liegenden
+physikalischen effekte noch gar nicht
+entdeckt oder bekannt sind
+es ist einfacher als sie jetzt meinen so
+auf den ersten blick zum essen nämlich
+nur die leistung
+das ist spezielles vakuum öl wasser kann
+viel zu hohen dampfdruck das war im
+wagner buback 12 es mit einem dampfdruck
+von 10 - 8 milliarden ganz einfach eine
+leistungsmessung also ich hänge
+elektrische leistung ich brauche
+elektrische energie um die feld quelle
+oben aufzuladen ich möchte also die
+elektrische energie die der rotor kriegt
+brotzeit dass eine leistungsmessung und
+gleichzeitig mäßig die mechanische
+leistung die der rother braucht um auf
+dem relativ 10 lässt sich drehen zu
+können und die beiden vergleiche ich
+also man baut eine feine torsion zwar
+gewann zum glück semester fehlen da
+hatte ich die zeit dafür dass alles
+selber zu machen und misst die
+abhängigkeit dass die rote kurve misst
+die abhängigkeit der leistung beim
+drehen dieses jahr nach oben aufgetragen
+mechanische leistung beim drehen in watt
+als funktion der umlauf dauert also der
+dauer für eine umdrehung das ist die
+rote kurve hier die blauen kurve die
+blauen punkte sind als einzige mal
+intervalle nachgemessen und das rot ist
+einfach eine ausgangs kurve und dann
+sagen sie also die elektrischen
+antriebsleistung müsste kleiner sein als
+das was mechanisch rauskommt das rote
+kommt mechanisch raus und das grüne ist
+die elektrische antriebs leistung und
+wenn sie sich jetzt in
+erinnerung rufen dass das hier eine
+logarithmische skala ist doppelt
+logarithmisch also dass die leistung
+hier bei einem nova 10 an über 100 mal
+900.000 einander wirklich hochskaliert
+dann wissen sie dass ich 150 watt
+mechanisch rauskriegen aber nur drei
+elektrische rheinstrecke die messung ist
+nicht ganz einfach sie brauchen pico am
+perimeter dafür weil sie einen strom von
+10 -12 ampere unterbieten müssen weil es
+in dänischen widerstand von 615 euro
+überbieten müssen das geht nur wenn sie
+die luft weg pumpen damit keine jungen
+mehr stört und was wir am ende messen
+konnten
+ich sollte einer 5 p compare ich war bei
+0,1 pico ampeln wir sind uns einig dass
+0,1 kleiner ist als 5 das heißt ich leg
+nicht nur um 1 23 sigma auf der sicheren
+seite sondern um einen faktor 50 auf der
+sicheren seite es kommt 50 mal so viel
+mechanische leistung raus wie elektrisch
+rein steckt also drei nano watt
+elektrische leistungsverluste stehen 150
+mechanischen leistungsgewinn gegenüber
+und die drei nanovation nach meinem
+dafürhalten ladungs verluste aufgrund
+weniger rest gas atome aufgrund von von
+bisschen öl was dann
+dann auf den isolatoren war irgendwann
+also ist es eindeutig gerade das ding
+ist im prinzip ein selbstläufer
+und damit war für mich zunächst einmal
+die geschichte erledigt meine
+philosophie im ein philosophischer
+hunger nach wissen war befriedigt also
+man kann die raum energie nutzen ich
+hab&#39;s im labor nachgewiesen und den rest
+machen die ingenieure
+nur zu meinem großen kummer machen die
+ingenieure gar nix wirst es waren
+traurig dass die ingenieure schlichtweg
+gar nichts machen außer mir zu erzählen
+wir bräuchten das um unsere umwelt uns
+um unsere umwelt etwas gutes zu tun wenn
+man da nämlich eine energiequelle von
+bauen könnte dann hätten wir plötzlich
+sauberen ist im moment jetzt macht klick
+jetzt kapiert was raum in raum energie
+zu nutzen hat ich kann mir aus der
+philosophischen seite her
+also ich wollte philosophisch verstehen
+was ist raum also als gläubiger mensch
+muss ich wissen dass es einfach nötig
+ist jetzt was gutes zu tun also ob die
+ingenieurin und was machen oder nicht
+jetzt muss ich halt selber ran
+also kann man dass wir das wissen
+praktisch nutzen ja oder nein
+und wenn es die anderen tun dann muss
+ich halt machen und da war mir natürlich
+auch sehr schnell 350 nano war das ist
+viel zu wenig leistung also damit fangen
+sie nichts an außer nur
+wissenschaftlicher grundlagen beweis
+also was die welt braucht ist 1500 extra
+schub sagt die statistik jährlich das
+steht im internet also die deutsche
+physikalische gesellschaft als
+berufsvereinigung der physiker die hat
+auch passagen energie diagramm gezeigt
+energieverbrauch der welt wie das
+ansteigt so 2000 2010 20 bis 2060
+und dann fragt man sich natürlich bei
+dem mixed wo soll das alles her kommen
+und dann sage ich würde mir da was
+anderes wünschen ich würde ihnen viel
+steileren anstieg wünschen
+bitte benutzt raum energie dann könnt
+ihr den ganzen anderen dreck wie
+kernkraft weg machen und das einzige ist
+man muss es nur leistungsfähig
+hinkriegen also kleine 150 nanovation
+dann bitteschön richtig leistung und
+deswegen habe ich muss mich jetzt auf
+den weg machen wie grundsätzliche
+theorie der konversion von raum energie
+zu verstehen also ich erzähle ihnen
+heute nicht wie ich meine energie
+converter entwickelt ob das nur ein
+rechenbeispiel sondern ich erzähle ihnen
+die grundlegende theorie der raum
+energie wand und kann damit jedem
+beliebigen converter im prinzip rechnen
+darum geht&#39;s
+und deswegen stelle ich damit sie mal
+anfangen darüber nachzudenken die frage
+versuchen zu meinem nachbarn zu erklären
+was ist eigentlich ein elektrisches feld
+ein elektrisches feld oder ein
+magnetisches feld da baut nicht der
+bauer seine kartoffeln an der fed
+begriff ist etwas anderes
+und wenn sie versuchen das ihrem
+nachbarn zu erklären dann werden sie
+sehr schnell merken da ist noch etwas
+dahinter was keiner so wirklich versteht
+oder weisen habe ich mir mal gedanken
+gemacht was ist eigentlich ein
+elektrisches feld das fängt an wieder
+bei heisenberg man muss ja immer
+irgendwie auf die sicheren fundamente
+zurückgehen heisenberg hat den lack
+operator das elektrische des des photons
+im elektrischen und magnetischen feld
+damals zusammen mit eurer irgendwann in
+den 30er jahren hin geschrieben
+hier steht das elektrisch und hier steht
+das magnetische feld und wir kommen zu
+der erkenntnis dass elektromagnetische
+wellen in elektrischen und magnetischen
+feldern langsamer laufen als im feld
+freien vakuum das ganz wichtig also in
+sennfeld anlegen läuft liegt langsamer
+und auch den nullpunkt wellen tun dass
+die cigna genauso elektromagnetische
+wellen wie das licht also der
+quantenzustand 0 für den grundzustand
+das ist unsere nullpunkt fälle aus der
+raum energie läuft in elektrischen und
+magnetischen feldern genauso langsamer
+wie die sichtbaren photonen übrigens
+fans fotografieren könnt ihr natürlich
+gerne machen gebe ihnen auch ein tipp
+das steht schon im internet also mit sie
+kriegen das auch mit klarer schärfe wenn
+sie sich selber runter laden ganz bequem
+und jetzt kommen nämlich da die
+hintergrund erklärung warum diese
+spiegel ladung den luftballon hochzieht
+als ich das verstanden hatte wusste ich
+wie weitermachen musste zum raum
+energiekennwerte also hier ist eine
+geladene kugel und die erzeugt ein feld
+und deswegen läuft die nullpunkt quelle
+des kleinen vakuums hier mit reduzierter
+wellen länger so langsam bisschen
+zusammengestaucht die läuft langsamer
+jetzt habe ich da eine metallplatte und
+metallplatten haben die angewohnheit
+elektrische felder abzuschirmen das
+wissen sie sie brauchen einfach mehr
+metallplatten des feldes abgeschirmte
+missfällt freies vakuum da läuft wieder
+die große wellenlänge schneller aber in
+der zusammengestellten welle da steckt
+auch eine höhere frequenz
+die energie ist damit also höher das
+heißt hier drüben haben die nullpunkt
+wellen des quanten vakuums eine höhere
+energie als auf der rechten seite und wo
+bleibt die energie wenn die wellen auf
+die metallplatte laufen die bleibt in
+der metallplatte ist doch klar das feld
+staucht mir die null punktuellen
+zusammen in der metallplatte bleibt die
+energie stecken das ist unsere spiegel
+ladungs kraft die den luftballon
+hochzeit saugt ganz einfach also was ist
+ein feld einfällt ist eine physikalische
+entität die nichts weiter macht heißt
+die null punkten ein wenig zu
+komprimieren und wenn sie die konzeption
+kriegen dann können hier zum beispiel
+auch noch einmal für eine ladung die
+ladung hat ja ganz dicht bei eine sehr
+große feldstärke nach dem kohle- und
+gesetz nimmt die feldstärke mit einem
+quadrat ab das heißt hier komprimieren
+sie die null punktuellen ganz neu und
+dann wird&#39;s immer weniger wie es
+komprimiert wird nach außen gehen sie
+immer mehr zur wellenlänge des felt
+freien vakuums
+dass die spiegel ladungs methode die
+habe ich eben schon erzählt das heißt
+das entscheidende ist elektrische und
+magnetische felder sind entitäten die
+die null punktuellen des kranken vakuums
+verändern und aus dieser veränderung
+dann muss die energie raus unter
+geschickter benutzung der felder muss
+ich eben in der lage sein aus dieser
+veränderung ein raum energie converter
+anzutreiben
+so jetzt hatte ich vor ihm ein elektro
+statisches system vorgestellt und muss
+zu meinem kummer zu geben wenn sie eine
+typische feldstärke wie sie die im labor
+erzeugen können von 30 kv ansetzen das
+ist so
+30 kv pro zentimeter tschuldigung wenn
+sie also eine typische feldstärke von 30
+kv prozent in ansätzen wie sie im labor
+vernünftig machen können dann kriegst
+energiedichte von gerade mal eben 40
+joule pro kubikmeter das ist zu niedrig
+um eine maschine ordentlich anzutreiben
+also mit dem bisschen leistung da können
+sie vielleicht mal 150 einander watt
+machen vielleicht auch ein paar
+mikrowatt aber das war&#39;s dann
+ich möchte gerne kilowatt die menschheit
+braucht keinen erwarte braucht kilowatt
+also gehen sie in den in den
+magnetischen bereich und da können sie
+im feld von zwei tesla ungefähr machen
+wenn sie einen tesla einsetzen haben wir
+ein bisschen - macht nicht viel
+unterschied so jetzt rechne ich auch
+danach den büchern der physik die
+energiedichte aus und kommen auf 16
+millionen joule pro kubikmeter
+das ist mehr als 40 also würde ich sagen
+also würde ich sagen der zukunft gehört
+nicht der elektrostatische roter der
+zukunft gehört der magnetische rotor
+schlichtweg weil da die energiedichte
+größer ist und man versteht dass auch
+aus der hintergrund physik wenn sie
+nämlich im elektrostatischen fällt eine
+bewegung machen und eine lorenz
+transformation aufsetzen im sinne von
+hendrik anton lorenz der für die lorenz
+transformation verantwortlich zeichnet
+die wiederum der der relativitätstheorie
+zugrunde legt dann kriegen sie durch
+eine bewegung relativ zum elektrischen
+feldern magnetisches dazu und die loren
+diese lohr anfangsformation der steckt
+ein faktor wie die lichtgeschwindigkeit
+mit drin und dadurch kriegen sie diese
+größeren werte also das passt schon
+alles irgendwie ins bild der physik so
+sauber rein
+das heißt für die technische anwendung
+entscheidend ist die verwendung eines
+magnetischen feldes und dann muss ich
+deren ausbreitungsgeschwindigkeit durch
+den raum berücksichtigen so wie ich
+vorhin gesagt habe
+elektrostatischen feld breitet sich die
+feldstärke mit lichtgeschwindigkeit in
+den raum hinein aus so ist er bei
+magnetischen feld auch ich meine
+elektromagnetische wellen laufen mit
+lichtgeschwindigkeit
+jetzt möchte ich mal folgen das machen
+ich habe hier links eine kugel das ist
+jetzt eine aufnahme von mehreren
+schritten hintereinander ich zwecks
+einmal ganz kurz
+mehrere schritte hintereinander so und
+ich spreche jetzt mal step by step durch
+dann sehen sie wie ich den weg sehe um
+die magnetischen felder für die raum
+energiewandlung zu benutzen also ich hab
+mir links eine grüne kugel die könnte
+elektrostatisch geladen seien
+ist sie aber nicht das könnt ihr mit
+magneten in analogie erzählen aber egal
+welches der beiden beispiele ich nehme
+ich mach mal für die einfachheit halber
+dass es sich vorstellen elektrostatisch
+also ich habe hier eine kugel die könnte
+elektrostatisch geladen sein ich sie
+aber nicht das heißt die nullpunkt
+wählen die laufen dadurch und werden
+nicht in ihrer wellenlänge verändert
+daher keine ladung vorhanden ist und
+jetzt gehe ich im nächsten schritt er
+und bring ladung auf die grüne kugel
+diskus und dadurch werden die nullpunkt
+zellen gebremst und ein bisschen
+gestaucht das heißt die rote welle die
+schon da bevor die ladung da war die
+läuft natürlich mit lichtgeschwindigkeit
+weiter aber die blau gezeichnete die
+läuft jetzt etwas langsamer weil dadurch
+fällt gebremst wird
+und jetzt kommt nämlich der clou sehen
+sie hier das ist keine zeichen
+ungenauigkeit sondern an der stelle
+da ist ein loch zwischen zwischen den
+beiden eine lücke ist klar weil die rote
+welle ja schneller läuft als die blaue
+also live die rote davon
+und wenn sie das ganze durch die zeit
+sehr zeit verfolgen wir die lücke größer
+logisch ist nämlich die ladung wieder
+runter von der kugel
+natürlich muss ich hier drüben gucken
+wie das feld immer weiter nach rechts
+läuft und die lücke immer größer wird
+aber hier läuft ja jetzt die fetteste
+die fettfreie welle noch und an der
+stelle gibt es dann einen überlauf ich
+glaube die die schnellere feld freie
+bälle wieder läuft
+über holt sich sozusagen klar noch ein
+zweiter sehen sie das ganz deutlich
+jetzt ist er hatte die rechte lücke
+schon raus gelaufen
+aber ja die rote die blaue noch mehr
+überholt und der trick ist nämlich
+folgende wenn sie in dem alter in dem
+moment hier messen also müssen jetzt auf
+die zeit gucken wenn sie in genau dem
+moment hier gucken dann sehen sie
+plötzlich keine culum kraft ist weg
+jetzt können sie die beiden körper
+kräfte frei zueinander bewegen
+es geht mit magnetfeld natürlich analog
+das heißt ich habe zwei anziehende
+magneten wie willig kräfte frei
+auseinander ziehen
+das meint genau in dem moment und dann
+warte ich ein bisschen an der stelle wo
+sie nämlich überlassen da haben sie die
+doppelte magnetkraft oder doppelte
+columbo sie kommen zweimal das heißt in
+dem moment ist die anziehungskraft
+richtiger höherklassig die wieder
+kräftig zusammen und dann warte ich bis
+zur nächsten brücke und wieder kraft
+frei auseinander
+also es müsste sich eigentlich wie eine
+feder dazwischen macht richtig auf
+schaukeln lassen das war die erste idee
+das wäre dann sozusagen diese feder hier
+das müsste sich aufschaukeln ich kann
+das weil erklären aus anderer sicht
+weise veranschaulicht auch noch mal von
+einer anderen seite betrachten oder
+beleuchten nämlich folgendes nehmen sie
+wieder zwei elektrostatisch geladenen
+körper oder zwei magneten ganz egal wie
+bewegen sich und zwar dieser körper 1
+der bewegt sich nach rechts ich habe
+nach oben eine zeitskala und der körper
+1 der bewegt sich hier nach rechts der
+körper 2 er bewegt sich nach links ganz
+offensichtlich die roten pfeile
+symbolisieren die wechsel wird weil das
+feld was die wechselwirkung vermittelt
+das heißt der körper 1 endet hier oben
+zum zeitpunkt ta
+ein feld aus das den körper 2
+zum zeitpunkt pc erreicht das heißt
+dieses feld hat die blaue strecke
+passiert was also der körper eigentlich
+spürt ist die welt für wirkungskraft
+entsprechend der länge des blauen files
+würden sie das statische culum gesetz
+einsetzen ohne berücksichtigung der
+ausbreitungsgeschwindigkeit der felder
+also praktisch mit unendlicher feld
+geschwindigkeit
+dann würden sie nur so und kurzen
+abstand sehen und das der entscheidende
+unterschied auch hier habe wieder diesen
+fall da ist aufgrund der bewegung ist
+die kohlekraft jetzt verringert bei der
+wechselwirkung größer ist so wie wenn
+die wellen babbel kommen haben sie eine
+stärkere anziehungskraft zu können sie
+jetzt sagen hier in dem moment durch die
+anderen abstände sie müssen ja mit
+rechnung wie lange das feld läuft haben
+sie jetzt hier eine verringerte wechsel
+wirkungskraft mindest ganzes system
+umdrehen und die körper auseinander
+laufen lassen dann wird das feld von
+hier nach hier eben auch mit den blauen
+pfeil folgen aber das staatliche gesetz
+würde den grünen pfeil folgen klassische
+ingenieure mit klassischen
+elektromotoren so wie sie es im
+elektromotor draußen kaufen können
+baumaschinen aus dem baumarkt die
+rechnen immer das statische kohl
+umgesetzt die sagen das was da an zeiten
+in denen die zeit kann abgeordneter dass
+da was da an zeit verloren geht es sind
+bruchteile von nanosekunden die nehrung
+bruchteile von sekunden einfach mal zu
+ignorieren schade drum weil diese tolle
+superguten ehrung uns natürlich den
+blick auf die wandlung der raum energie
+verstellt freundlicherweise aber die
+computerindustrie mit den
+hochgeschwindigkeits prozessor sind
+irgendwo bei 2 3 gigahertz heute bei den
+prozessoren schon so weit gekommen
+wie müssen die
+ausbreitungsgeschwindigkeit der signale
+mit berücksichtigen sowie die auch den
+kasimir effekt mit berücksichtigen
+mussten die müssen sich plötzlich um das
+zeug hier kümmern was sie ihnen daher
+zeit sonst gehabt nämlich die die
+taktung des prozessors nicht also sie
+brauchen mit namen beweis wollen sie
+haben ihn schon gucken sie nur ihre
+computer alle an
+das sind also meine zwei zum beispiel
+magneten und eine feder dazwischen die
+jetzt eben in der vorhin beschrieben und
+weise sich von alleine
+also gespeist aus raum energie auf
+schaukeln kann ich hab mal die
+differentialgleichungen von harmonischen
+oszillator darunter geschrieben spaß
+fall war also die feder mit den kugeln
+hinten dran wenn sie denn nicht
+elektrostatisch aufgeladen während das
+des geben harmonische schwingungen sowas
+rächt sich typischerweise mit studenten
+im dritten semester
+aber jetzt kommt eben der trick jetzt
+fangen sie an die kugel elektrisch
+aufzuladen oder magneten rein zu machen
+und dann kriegen sie einen zusätzlichen
+termin die differentialgleichungen und
+hier unten steht plötzlich der abstand
+in seiner ganz komischen funktionen des
+reichen sehen nicht mehr mit studenten
+das müssen sie schon selber machen
+das ist nicht analytisch lösbar sein das
+müssen sie interaktiv lösen also mit
+einem rechenverfahren ich hab selber
+eins entwickelt um es gleich zu sagen
+weil ich zu faul war in der literatur zu
+gucken und als ich meine ganzen
+ergebnisse publiziert hatte schrieb mir
+ein mathematiker kollege von einer
+universität aber sie müssen das doch mit
+runge kutter machen und die woche darauf
+schreiber ich habe das jetzt mit runge
+kutter reproduziert und da kommt ihr das
+selbe raus warum sagt uns denn das alles
+niemand da kann man doch tolle sachen
+mitmachen
+also es geht auch mit den offiziellen
+verfahren aber ich erzähle ihnen einfach
+mal die ergebnisse keine harmonische
+schwingungen der harmonische
+schwingungen werden sinus aber wenn sie
+magneten haben dann geht es natürlich
+hier an der stelle wo die sich anziehen
+langsamer als hier ganz außen da ist
+jetzt lediglich die magnetkraft mit
+aufgenommen das heißt die feder die
+stets senkrecht hier auf dem bild und
+die violette und die blaue linie die
+themen sie machen praktisch so die
+schwingung des magneten als funktion der
+zeit dass ich diese schwingungen und
+wenn ich jetzt als funktion derzeit
+laufen erst dann sehen sie so die
+direktorin und die fehler ist enkel der
+zwischen gespannt dann können sie sich
+gut vorstellen
+und jetzt gehe ich her und bringt das
+ganze in resonanz
+das dürfen sich der trick die feder
+konstante zu einer schwingung führt so
+dass die schwingungsfrequenz der
+harmonischen schwingung genau passt zur
+laufzeit der wechsel wirkungsfelder so
+zur lichtgeschwindigkeit der laufzeit
+der wechsel wirkungsfelder und dann
+können sie diesen trick nehmen in dem
+moment wo es anzieht habe ich die
+anziehungskraft doppelt und in dem
+moment wo es auseinander geht habe ich
+die anziehungskraft gar nicht oder
+verringert und dann schaukelt sich das
+ding von alleine ganz prima auf so wie
+sie es hier sehen wenn sie das etwas
+verstimmen dann können sie natürlich
+auch umgekehrt arbeiten moment das habe
+ich darauf also wenn es etwas verstehen
+können sie es auch umgekehrt arbeiten
+dass sie dass sie ohne reibung dass ich
+die schwingung abschaffel immer kleiner
+wird
+was sie können das je nachdem wie sie es
+betreiben zur wandlung von raum energie
+in mechanische energie nutzen oder auch
+umgekehrt mechanische energie im raum
+energie waren sie können plötzlich nicht
+raum energie nutzen sollen raum energie
+vermehren
+das macht natürlich keinen anwendungs
+hin aber das auch nur der beweis dass
+man halt in beide richtungen rechnen
+kann
+schauen sie die gute alte wärmekraft
+maschine des james ward die hat ein
+minister styling weiterentwicklung in
+stirling motor können sie auch längere
+rechtsform und links rum laufen lassen
+und dann haben sie einmal wärme in
+mechanische energie des andermal
+umgekehrten das kann der raum energie
+genauso tun
+je nachdem wie es halt einstimmen da
+habe ich nochmal die folie mieter mit
+ernährung eine bohrmaschine von zehn
+zentimeter durchmesser
+wenn sie jetzt anfangen dass die lorenz
+kraft so zu rechnen wie die ingenieure
+dann müsse oder das so zu rechnen mit
+der genauigkeit die ich hier fordert
+dann haben sie einen unterschied im
+bereich
+von 10 - 10 sekunden und es ist klar
+dass merkt keiner wenn die bohrmaschine
+um 10 uhr - 10 sekunden irgendwie anders
+eingeschaltet wird
+deswegen sagen sie es sagen die
+ingenieure und küchenmixer können sie
+ohne das zeug der rechnung
+das ist auch so die neuerung ist auch
+wirklich klasse super gut wie gesagt nur
+schade dass sie uns den blick auf die
+renergie verstellt er merkt schon 0,39
+sekunden
+die merken sie weiß nicht weil die
+romanik ihn nicht benutzt wird also die
+taktfrequenzen im gigahertz bereich in
+der computerindustrie
+die merken dass deswegen kommt auch
+heute die welt drauf dass es wirklich
+nötig ist es zu berücksichtigen denn
+herzen dipol strahler die auch schon
+entwickelt jetzt möchte ich ihnen mal
+ein bisschen mehr erzählen wie kann man
+aus dem was sie ihnen jetzt an
+fundamentalen verständnis erklärt aber
+auch mal spaß halben raum energie
+converter berechnen wo sich können jetzt
+in motion das generator berechnet so was
+wie den cola apparat oder oder denn den
+tomb ihren also können wir alles mal in
+die rechnungen reinstecken wenn man die
+zeit dafür hatte hätte oder ich habe
+eben soll ich nehme mal ein mit einer
+bewegung drin einfach weil es mir
+persönlich angenehm war mit spielen und
+sich drehenden magneten zu rechnen dann
+können sie ein magnetfeld schön
+emulieren und back koordinaten
+transformation reinpacken das rechnet
+sich einfach bequem
+wichtig ist dabei sie kommen aus der
+linearen dynamik raus also die lineare
+dynamik sie kennen die nichtlineare
+dynamik auch unter dem namen
+chaostheorie das ist aber keine kaufte
+aber sie müssen nicht linearität mit
+berücksichtigen hier 1 1 durch csx
+quadratischen nicht zehn jahre dynamik
+also das heißt sie kommen natürlich über
+einen typischen anfänger stoff hinaus
+und jetzt habe ich damals so einfach
+unterschiedliche justage beispiele dass
+des oszillators gezeigt hier schauten
+sich auf da drüben bleibt bei geeigneter
+einstellung ist völlig verstellt wenn
+ich sage ich mache es wie eine
+bohrmaschine im baumarkt ignoriert ist
+dann kriege ich die energie erhaltung
+und ich kann es auch einstellen dass ich
+die raum energie waren all diese
+geschichten die erzählt auch so das
+problem ist dass die
+lichtgeschwindigkeit ein bisschen groß
+ist um sie technisch zu handhaben
+also da steckt noch ein problem also ich
+kann mit dem konverter sowie ist bis
+jetzt gezeigt hat zwei magneten mit
+einer feder leider keine nano wandeln
+sondern nach der rechnung mikrowatt also
+nochmal faktor 1000 weniger
+das war immer noch nicht die lösung ich
+weiß ich bin auf dem weg das spüre ich
+das sagt mir mein bauchgefühl
+aber die lichtgeschwindigkeit ist zu
+groß ich muss es irgendwie schaffen die
+signal geschwindigkeit die
+laufgeschwindigkeit der felder zu
+steuern
+also gehe ich her und sagt ich mache
+zusätzlichen draht obenrum also ich habe
+hier meine meine fehler mit den beiden
+kondensator platten sind einfach zwei
+runde kondensator platten groß an
+georges der hat die runden kondensator
+platten vorgeschlagen das ist jetzt auch
+dabei mit einer spule und die
+ladungsträger die müssen durch die
+schule laufen also ich hab elektronen
+die zwischen den kondensator platten
+eine kapazität aufladen oder in der
+schule eine spule aufladen und die
+energie die schwingt dann immer zwischen
+der schule und im kondensator hin und
+her wie in einem ganz normalen lc
+schwing kreis und jetzt kann ich über
+die kapazität tag des kondensators und
+über die induktivität der spule die
+geschwindigkeit dieser die
+laufgeschwindigkeit prima steuern das
+ist eine feine sache
+und dann kommen sie auch weg von der
+viel zu großen lichtgeschwindigkeit und
+in dem moment fangen sie an dem ganzen
+dinge auch eine vernünftige menge
+energie entnehmen zu können weil ich
+muss ja jetzt die
+ausbreitungsgeschwindigkeit des feldes
+an die mechanische
+bewegungsgeschwindigkeit der kunden
+anpassen und das kann ich jetzt die
+differentialgleichungen wiederum und
+herrn komplizierter da schlage ihnen
+vorlesen sich das einschließlich der
+lösungs algorithmen mal im internet
+durch wer sich dafür interessiert ich
+habe ja auch die ganzen quellcodes alle
+ins internet gestellt wie man das zeug
+löst prima können sie wieder das
+aufschaukeln des systems erkennen
+und siehe da ich bin schon im
+megawattbereich in intensiver
+theoretischer entwicklungsarbeit aber
+ein milliwatt krieg ich immer noch nicht
+zu fassen warum weil die elektronen im
+lc schwingen kreis natürlich viel
+leichter sind als die schweren massaker
+behafteten kugeln das konto des
+kondensators also
+ich muss die fehler so einstellen dass
+jemand noch nicht dahin kommen wo ich
+will
+was macht mann mann sagt entfernt das
+was stört es glauben irgendwann stört
+muss es weg also ich habe ja im prinzip
+ein kondensator bei dem essen für die
+elektriker und wenig haben kondensator
+rc schwing kreis mit einem kondensator
+dessen kondensator platten durch die
+variation des abstandes ständig die
+kapazität ändern
+und da liegt das problem also muss ich
+sagen ich mache es anders
+ich gehe von der variablen kapazität weg
+ich gehe auf eine variable spule ich
+habe ja nur die zwei komponenten und mir
+denn vielleicht eine variable spule
+bessere bedingungen liefert um dann mehr
+energie herauszuziehen
+und dann mache ich eben genau das da ich
+habe hier die spule und laster an nach
+neben drehen drehen nachdem induktions
+gesetz wird der drehende magnet in der
+schule entspannung induzieren und den
+kondensator lasse ich jetzt einfach
+konstant und diese induzierte spannung
+die geht dann zwischen dem kondensatoren
+der spule hin und her
+der trick ist nämlich der bei den
+kondensator platten hat ihnen fehler
+drin und mit fehler definiert man eine
+mechanische resonanzfrequenz komme ich
+weg weil mit drehung auch eine beliebige
+tre geschwindigkeit eingestellt werden
+kann dann muss ich immer rücksicht
+nehmen auf die federte die mich zwingt
+in frequenz einzustellen
+und im prinzip ist ja eine drehung wenn
+sie an die liste figuren denken nichts
+anderes als eine zweidimensionale
+überlagerung zweier schwingungen sind
+die zwei sind nur schwingungen in xy
+richtung projizieren dann haben sie eben
+eben genau die drehung
+also ich habe auch hier im prinzip
+wieder meine schwingung drin und bin von
+der feder weg die mit der mechanischen
+resonanzfrequenz auf wert fixiert hat
+den ich nicht brauchen konnte und bester
+habe jetzt mal durch meinen differenz
+algorithmus durchlaufen lassen und siehe
+da ich kriegen ganzes kilowatt daraus
+jetzt bin ich da wo ich will
+sie brauchen nur 30.000 50 50.000
+drehungen einstellen dann dadurch die
+hohe frequenz geht geht natürlich die
+energien und her entsprechend hoch und
+sind damit auch die leistung
+jetzt auf die zeit beziehe und dann
+haben sie das weizen beispiel wann haben
+sie hier so ein ding ich fange an ich
+schieb den magneten an sich neben
+anlasser sie können ja vom auftauchen
+anlass und den können sie an lassen mit
+einer bestimmten geschwindigkeit also
+der lc schwing kreis als elektrisches
+als elektrische komponente hat keine
+energie ich fange an ohne elektrisch was
+drin zu haben und bringt einfach mit dem
+anlass hat den drehenden magnet auf eine
+stadt drehzahl und durch das induktions
+gesetz bringt der magnet in die spule
+spannung rein und dann fängt der lc
+schwingt schon an zu schwingen und dann
+nehme ich den anlasser weg den man nur
+initial und dann beobachtet wie sich das
+ganze durch verwandlung von raum energie
+aufschaukelt es eine theoretische
+simulation aber das geht recht schön in
+einer sekunde haben sie da 20 ampere in
+der schule dringend nötigen draht
+die winkel geschwindigkeit des magneten
+läuft auch hoch ist klar ich kriege
+energie in die schule rein die wahren
+traum energie und beschleunigt haben
+wieder den drehenden magnet und dann
+schaukelt sich das gegenseitig auf bis
+ein fertigungs zustand erreicht ist
+elektriker unter ihnen wissen dass da
+immer phasen differenz zwischen der
+mechanischen und elektrischen bewegung
+da sein muss das erzähle ich auch gleich
+noch mal bis hin detailliert damit viel
+zeit habe ich noch da muss ich dir
+energie in der schule wenn sie nur
+gucken wie schnell sich das aufschaukelt
+gerechnet für eine sekunde aber bei
+30.000 umdrehung jetzt habe ich sah dass
+es waren allererste algorithmus ich
+möchte das auch noch mal genauer kriegen
+ich habe also jetzt angefangen ein
+richtiges system zu simulieren mit
+mehrerer mit mehreren spuren wo man kann
+ja jeder geometrie rechnung und magneten
+da rein zu machen und magnet emulation
+spulen zu rechnen hat die rechen
+genauigkeit sehr wesentlich erhöht auch
+ein bisschen angestachelt durch den
+runge kutter algorithmus weil der
+mathematiker nämlich meinte der
+hungertod algorithmus als das was die
+offizielle mathematik so will er gibt
+ein bestimmtes ergebnis der mobilität
+wenn ihr mit guter rechen genauigkeit
+rangehe ob das passt auch deswegen habe
+ich da die rechen genauigkeit nochmal
+ordentlich erhöht und das ganze was ihn
+jetzt als en dr
+spaßeshalber als beispiel vorstellen das
+ist das ding jeder ist ein staat
+magnetar in einer spule dreht da dreht
+sich immer weiter rum und macht eben
+genau das in dem moment wo oben sind die
+spulen bindungen anwender magnet an den
+spulen winter und vorbei kommt dann wird
+eine spannung induziert und dass die
+spannung geht in die kapazität und wenn
+die kapazität die spannung in die schule
+zurück wirft dann ist ein
+elektromagnetisches feld da was den
+magneten wieder beschleunigt und so geht
+es bei geeigneter justage hin und her
+sie müssen nur die mechanische bewegung
+auf die laufzeit oder
+laufgeschwindigkeit der felder justieren
+damit sie mit dem dynamischen kohl
+abgesetzt zurechtkommen ich hab das dann
+spaß halb mal ausgelegt 101 7 micro
+fahrrad widerstand von 640 millionen ist
+übrigens beim zentimeter dicken draht
+kein problem also dieser trat hier der
+blaue hatten durchmesser von zehn
+millimetern also da können sie schon
+canon um nehmen sie einfach so eine
+kupfer stange aus dem baumarkt
+da können sie schon ordentliche ströme
+durch lassen dass kein problem bei
+30.000 dreh und anlaufgeschwindigkeit
+geht das ding mit 30.100 umdrehungen
+nach meiner rechnung in die sättigung
+bringt elektrisch über den last
+widerstand den ihnen gezeigt habe
+bisschen über 50 watt aber satte 500
+watt mechanisch sie können also die
+drehachse des magneten mechanisch durch
+reibung bremsen und da können sie eine
+lichtmaschine dranhängen und die 520
+watt wenn sie denn möchten auch noch in
+elektrizität umwandeln
+du sagst ich habe nur noch ein paar
+minuten erkläre ich die phasen differenz
+mal nicht also einfach aus zeitgründen
+ich wollte ihn jetzt noch erklären warum
+45 grad phasen differenz zwischen der
+magnetischen und elektrischen schwingung
+die diejenige lösung in der
+differentialgleichungen bringt die uns
+das maximum an an leistungsgewinn zeigt
+und dabei kommt auch aus ohne
+mechanische belastung geht nicht also
+sie müssen es mechanisch wirklich
+belasten und die phasen differenz
+aufrecht zu erhalten
+das heißt sie können praktisch eine
+lichtmaschine gerne stromgenerator dran
+machen wenn ihr jetzt im haus wenn licht
+ausschalten ist keine belastung dann
+läuft er aber er läuft weiter mit 30.100
+in dem moment wo das licht einschaltet
+bleibt die drehzahl konstant das ding
+wird belastet kriegt seine phasen
+differenz die er braucht um die 80 watt
+für die glühbirne zu machen und
+anlieferer 80 watt schalten neuen
+kühlschrank dazu dann brauche ich 200
+watt dann wird die phasen differenz noch
+ein bisschen größer und da machte als
+200 watt und es können sie so lange
+bleiben bis die phasen differenz 45 grad
+wird werden sie noch mehr leistungen
+müssen sie die maschine größer paaren
+handlich ist das ding auch also das
+ganze ist der staat markt ist zehn
+zentimeter lang also das passt denn so
+eine kiste rein ungefähr den kondensator
+müsste man halt noch ein bisschen da zu
+tun habe ich würde sagen im kühlschrank
+kühlschrank format mit 10 kw ist
+durchaus realistisch ich habe hier noch
+ein bisschen die ergebnisse winkel
+geschwindigkeit und mechanische
+leistungs entnahme unseren traum auch
+mal aufgeschrieben die ladung im cup
+team im presseteam kondensator führt
+einem strom von ungefähr 60 ampere das
+ist für einen draht von 10 mm
+durchmesser kein gegner also das können
+sie ohne not machen
+ich kriegte an den kondensator spannung
+von knapp 200 volt also das lässt sich
+auch einstellen wenn sie denn lust haben
+auf 230 also das hält das problem liegen
+auf dauer spulen spannung kondensator
+spannung knapp 200 volt also ist
+durchaus handhabbar und auch kaufbar mit
+mit ordentlichen größen ist es gibt noch
+ein paar offene fragen der ganze reihe
+offener fragen prototypen zu bauen und
+mein herz blutet aufgrund der tatsache
+dass ich das nicht machen kann also ich
+habe schlichtweg keine möglichkeiten
+kein labor kein zelt keinen assistenten
+keine zeit und auch sonst keinerlei
+möglichkeiten den prototypen wirklich zu
+bauen
+inzwischen gibt es ein paar bastler die
+rumprobieren der eine ruft mich an wenn
+das ausreißen gebaut und wundern uns
+warum der magnet plötzlich nur noch nach
+dem eisen zeigen kann
+und sonst nirgends mehr hinkommt klar
+dass der magnet ameisen hängen bleibt
+kein wunder dass könnten natürlich nicht
+machen
+also es gibt ein paar bastler die sich
+da probieren ich würde mir wünschen dass
+seiner schafft aber ich bin der
+überzeugung man braucht an der stelle
+nun endlich mal professionelle
+forschungsbedingungen
+ich glaube nicht dass ein halbes jahr da
+reicht dass man bräuchte wahrscheinlich
+ein bisschen wenn sie kennen den spruch
+test last er meint wir werden uns an das
+räderwerk der natur anschließen und
+deswegen bedanke ich mich nun für elf
+eineinhalb jahre schöne zeit in der raum
+energien verabschiede mich aus der
+branche
+die arbeitsbedingungen
+wenn die arbeitsbedingungen sehen und
+das weiterzumachen
+sie ist mein abschied aus es findet sich
+jemand der mehr arbeitsbedingungen geben
+kann das würde die sache grundlegende
+ändern und mein herz zum hüpfen bringen
+dann komme ich mit freuden wieder

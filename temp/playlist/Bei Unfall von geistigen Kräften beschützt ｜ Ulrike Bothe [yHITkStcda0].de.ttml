@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.300" end="00:00:08.940" style="s2">[Musik]</p>
+<p begin="00:00:12.080" end="00:00:18.420" style="s2">Verbote sie hatten eine außerkörperliche</p>
+<p begin="00:00:14.759" end="00:00:23.240" style="s2">Erfahrung durch einen Verkehrsunfall wie</p>
+<p begin="00:00:18.420" end="00:00:27.720" style="s2">kam das ich bin Januar diesen Jahres</p>
+<p begin="00:00:23.240" end="00:00:31.320" style="s2">bin ich auf der Autobahn gewesen abends</p>
+<p begin="00:00:27.720" end="00:00:33.000" style="s2">um zehn und bin auf einer dreispurigen</p>
+<p begin="00:00:31.320" end="00:00:36.840" style="s2">Autobahn gewesen und bin nach Hause</p>
+<p begin="00:00:33.000" end="00:00:39.899" style="s2">gefahren und habe ein Auto überholt</p>
+<p begin="00:00:36.840" end="00:00:42.180" style="s2">mit 140 bis 160 Stundenkilometer und</p>
+<p begin="00:00:39.899" end="00:00:44.700" style="s2">dann bin ich auf die Mittelspur</p>
+<p begin="00:00:42.180" end="00:00:47.820" style="s2">zurückgefahren und in dem Moment wo ich</p>
+<p begin="00:00:44.700" end="00:00:49.200" style="s2">auf der Mittelspur war hat sich eine</p>
+<p begin="00:00:47.820" end="00:00:51.899" style="s2">weiße Wand vor mich geschoben also als</p>
+<p begin="00:00:49.200" end="00:00:54.719" style="s2">wenn nee nicht weiße Band zwar ein</p>
+<p begin="00:00:51.899" end="00:00:57.000" style="s2">viereckiger Kasten kastenartiger Wagen</p>
+<p begin="00:00:54.719" end="00:00:58.739" style="s2">der mich geschnitten hat ich war schon</p>
+<p begin="00:00:57.000" end="00:01:00.539" style="s2">länger auf der Mittelspur und dann kam</p>
+<p begin="00:00:58.739" end="00:01:02.760" style="s2">die Wand rüber und ich musste einfach</p>
+<p begin="00:01:00.539" end="00:01:05.700" style="s2">zur Seite drüber ich konnte musste</p>
+<p begin="00:01:02.760" end="00:01:07.439" style="s2">ausweichen drauf gebrettert der hat mich</p>
+<p begin="00:01:05.700" end="00:01:10.920" style="s2">halt verdrängt und geschnitten und hat</p>
+<p begin="00:01:07.439" end="00:01:14.159" style="s2">mich nicht gesehen und dann ähm hat das</p>
+<p begin="00:01:10.920" end="00:01:17.580" style="s2">Auto angefangen zu tanzen zu wackeln und</p>
+<p begin="00:01:14.159" end="00:01:21.240" style="s2">zwar richtig so also das war unfassbar</p>
+<p begin="00:01:17.580" end="00:01:22.680" style="s2">und dann hatte ich einen Moment ähm an</p>
+<p begin="00:01:21.240" end="00:01:25.500" style="s2">dem ich gemerkt habe ich habe keinen</p>
+<p begin="00:01:22.680" end="00:01:28.740" style="s2">Kontrolle mehr das machte</p>
+<p begin="00:01:25.500" end="00:01:30.420" style="s2">und es war Ruhe es war total Ruhe ich</p>
+<p begin="00:01:28.740" end="00:01:32.280" style="s2">habe nichts mehr gehört ich habe nichts</p>
+<p begin="00:01:30.420" end="00:01:34.259" style="s2">mehr gespürt ich habe nichts ich habe</p>
+<p begin="00:01:32.280" end="00:01:36.720" style="s2">alles gesehen aber nichts mehr gefühlt</p>
+<p begin="00:01:34.259" end="00:01:40.619" style="s2">also dieses wackeln schütteln war ruhig</p>
+<p begin="00:01:36.720" end="00:01:42.659" style="s2">war gar nichts mehr da es war etwas</p>
+<p begin="00:01:40.619" end="00:01:44.759" style="s2">wenn ich sagen würde es war eine Nuance</p>
+<p begin="00:01:42.659" end="00:01:46.740" style="s2">heller aber nicht wirklich eine Licht</p>
+<p begin="00:01:44.759" end="00:01:49.140" style="s2">Erscheinung das habe ich nicht aber es</p>
+<p begin="00:01:46.740" end="00:01:51.540" style="s2">war eine Nuance heller aber ich war in</p>
+<p begin="00:01:49.140" end="00:01:53.399" style="s2">totaler Ruhe in Totalen Frieden das</p>
+<p begin="00:01:51.540" end="00:01:57.020" style="s2">drehte alles sich um mich rum ich habe</p>
+<p begin="00:01:53.399" end="00:02:00.740" style="s2">das alles gesehen und wahrgenommen und</p>
+<p begin="00:01:57.020" end="00:02:00.740" style="s2">dann war es so dass ich</p>
+<p begin="00:02:01.140" end="00:02:05.280" style="s2">ja wie gesagt ich habe alles gesehen</p>
+<p begin="00:02:03.060" end="00:02:07.979" style="s2">irgendwann kam was was helles in mein</p>
+<p begin="00:02:05.280" end="00:02:10.440" style="s2">Gesicht und dann verrutschte meine Linse</p>
+<p begin="00:02:07.979" end="00:02:11.760" style="s2">auf dem Auge und ich war einfach nur ich</p>
+<p begin="00:02:10.440" end="00:02:13.020" style="s2">bin Kontaktlinsenträger und ich war</p>
+<p begin="00:02:11.760" end="00:02:14.459" style="s2">einfach nur besorgt darum dass ich</p>
+<p begin="00:02:13.020" end="00:02:16.020" style="s2">gleich wieder was sehen kann also ich</p>
+<p begin="00:02:14.459" end="00:02:20.420" style="s2">hätte nicht eine Sekunde Angst dass mir</p>
+<p begin="00:02:16.020" end="00:02:20.420" style="s2">was passiert oder dass ich sterbe oder</p>
+<p begin="00:02:21.180" end="00:02:25.500" style="s2">dass ich verletzt im Krankenhaus</p>
+<p begin="00:02:22.440" end="00:02:27.660" style="s2">aufwache ich hatte 0,0 Angst und ich</p>
+<p begin="00:02:25.500" end="00:02:29.220" style="s2">fühlte mich wie in einem Watte Kokon</p>
+<p begin="00:02:27.660" end="00:02:32.540" style="s2">gepackt also so ein energetischen</p>
+<p begin="00:02:29.220" end="00:02:36.120" style="s2">gepackt und das war eine</p>
+<p begin="00:02:32.540" end="00:02:40.140" style="s2">unbeschreibliches Erlebnis von geschützt</p>
+<p begin="00:02:36.120" end="00:02:43.160" style="s2">sein und sich ja keine Sorgen machen</p>
+<p begin="00:02:40.140" end="00:02:46.560" style="s2">müssen und ähm</p>
+<p begin="00:02:43.160" end="00:02:48.780" style="s2">dann kam ich irgendwann zum Stehen</p>
+<p begin="00:02:46.560" end="00:02:50.220" style="s2">und was passiert war war ich war links</p>
+<p begin="00:02:48.780" end="00:02:52.440" style="s2">gegen die Mauer gefahren von der</p>
+<p begin="00:02:50.220" end="00:02:53.780" style="s2">dreispurigen Autobahn quer über alle</p>
+<p begin="00:02:52.440" end="00:02:56.220" style="s2">drei</p>
+<p begin="00:02:53.780" end="00:02:57.540" style="s2">Fahrbahn rüber rechts gegen die</p>
+<p begin="00:02:56.220" end="00:02:59.700" style="s2">Leitplanke und von da aus wieder</p>
+<p begin="00:02:57.540" end="00:03:01.500" style="s2">abgeprallt und der Airbag war</p>
+<p begin="00:02:59.700" end="00:03:02.760" style="s2">aufgegangen und das war das graue was in</p>
+<p begin="00:03:01.500" end="00:03:04.860" style="s2">mein Gesicht kam und auch das habe ich</p>
+<p begin="00:03:02.760" end="00:03:06.720" style="s2">nicht gefühlt ich habe nur gemerkt</p>
+<p begin="00:03:04.860" end="00:03:08.420" style="s2">irgendwas rauskommt weil meine Linse war</p>
+<p begin="00:03:06.720" end="00:03:10.620" style="s2">verrutscht und dann</p>
+<p begin="00:03:08.420" end="00:03:13.200" style="s2">sind sie ich und dann war die sind sie</p>
+<p begin="00:03:10.620" end="00:03:16.340" style="s2">wieder drauf und ähm genau und dann</p>
+<p begin="00:03:13.200" end="00:03:19.019" style="s2">stand ich irgendwann und ähm</p>
+<p begin="00:03:16.340" end="00:03:21.180" style="s2">kurze Zeit später ging die Autotür auf</p>
+<p begin="00:03:19.019" end="00:03:23.159" style="s2">und jemand fragt ob alles okay ist ich</p>
+<p begin="00:03:21.180" end="00:03:25.080" style="s2">ja ja kein Problem er dann raus raus</p>
+<p begin="00:03:23.159" end="00:03:26.519" style="s2">hinter die Leitplanke ich habe noch</p>
+<p begin="00:03:25.080" end="00:03:29.819" style="s2">schnell mein Handy das war ein Fußraum</p>
+<p begin="00:03:26.519" end="00:03:31.800" style="s2">gerutscht klar genommen und meine Brille</p>
+<p begin="00:03:29.819" end="00:03:33.180" style="s2">meine Lesebrille die war irgendwo bei</p>
+<p begin="00:03:31.800" end="00:03:35.159" style="s2">der Windschutzscheibe und meine Tasche</p>
+<p begin="00:03:33.180" end="00:03:37.140" style="s2">und dann bin ich über die Leitplanke</p>
+<p begin="00:03:35.159" end="00:03:39.120" style="s2">unterstanden dann auch schon andere</p>
+<p begin="00:03:37.140" end="00:03:41.099" style="s2">und wir haben uns alle beglückwünscht</p>
+<p begin="00:03:39.120" end="00:03:43.140" style="s2">dass wir wahnsinnige Schutzengel hatten</p>
+<p begin="00:03:41.099" end="00:03:45.840" style="s2">und das überhaupt uns niemand was</p>
+<p begin="00:03:43.140" end="00:03:47.959" style="s2">passiert ist also es war</p>
+<p begin="00:03:45.840" end="00:03:51.500" style="s2">ja waren unfassbares Erlebnis für mich</p>
+<p begin="00:03:47.959" end="00:03:51.500" style="s2">und das war</p>
+<p begin="00:03:51.720" end="00:03:56.340" style="s2">sehr sehr</p>
+<p begin="00:03:54.299" end="00:04:00.659" style="s2">faszinierend</p>
+<p begin="00:03:56.340" end="00:04:02.400" style="s2">dieses schnips von und jetzt auf gleich</p>
+<p begin="00:04:00.659" end="00:04:04.799" style="s2">nichts mehr zu hören nichts mehr zu</p>
+<p begin="00:04:02.400" end="00:04:05.879" style="s2">fühlen und in Watte gepackt und</p>
+<p begin="00:04:04.799" end="00:04:07.879" style="s2">geschützt zu sein weil ich hatte auch</p>
+<p begin="00:04:05.879" end="00:04:10.260" style="s2">nichts ich hatte gar nichts</p>
+<p begin="00:04:07.879" end="00:04:13.439" style="s2">und sie haben gesagt sie haben das alles</p>
+<p begin="00:04:10.260" end="00:04:15.360" style="s2">noch gesehen haben sie das aus der</p>
+<p begin="00:04:13.439" end="00:04:17.400" style="s2">Perspektive ihrer körperlichen Augen</p>
+<p begin="00:04:15.360" end="00:04:20.639" style="s2">gesehen oder irgendwie anders von</p>
+<p begin="00:04:17.400" end="00:04:22.860" style="s2">außerhalb oder von oben nee ich war voll</p>
+<p begin="00:04:20.639" end="00:04:25.680" style="s2">drin also ich war ich habe eher mehr</p>
+<p begin="00:04:22.860" end="00:04:27.600" style="s2">dieses Gefühl gehabt ich bin wirklich in</p>
+<p begin="00:04:25.680" end="00:04:29.520" style="s2">Watte gepackt und alles passiert in</p>
+<p begin="00:04:27.600" end="00:04:31.560" style="s2">einer etwas verlangsamten</p>
+<p begin="00:04:29.520" end="00:04:33.419" style="s2">Geschwindigkeit also es war nicht nicht</p>
+<p begin="00:04:31.560" end="00:04:34.680" style="s2">so schnell wie es dann tatsächlich wohl</p>
+<p begin="00:04:33.419" end="00:04:37.320" style="s2">passiert ist das weiß ich nicht also es</p>
+<p begin="00:04:34.680" end="00:04:38.759" style="s2">war relativ schnell noch aber nicht wie</p>
+<p begin="00:04:37.320" end="00:04:42.180" style="s2">man sich das so vorstellt wenn man es</p>
+<p begin="00:04:38.759" end="00:04:43.699" style="s2">von außen betrachten würde und ähm es</p>
+<p begin="00:04:42.180" end="00:04:45.720" style="s2">hat sich</p>
+<p begin="00:04:43.699" end="00:04:47.699" style="s2">nee ich habe aus meinen Augen alles</p>
+<p begin="00:04:45.720" end="00:04:50.160" style="s2">gesehen ich habe aus meinen meinem ich</p>
+<p begin="00:04:47.699" end="00:04:51.479" style="s2">rausgeguckt ich war nicht außerhalb von</p>
+<p begin="00:04:50.160" end="00:04:54.300" style="s2">mir</p>
+<p begin="00:04:51.479" end="00:04:55.919" style="s2">also dann würden sie es selber gar nicht</p>
+<p begin="00:04:54.300" end="00:04:59.639" style="s2">als außerkörperliche Erfahrung</p>
+<p begin="00:04:55.919" end="00:05:01.440" style="s2">bezeichnen nee das hatten sie als Info</p>
+<p begin="00:04:59.639" end="00:05:02.940" style="s2">gerade gesagt aber das</p>
+<p begin="00:05:01.440" end="00:05:06.419" style="s2">für mich nicht so an für mich war es</p>
+<p begin="00:05:02.940" end="00:05:08.840" style="s2">eher als ein Gefühl von ich bin hier auf</p>
+<p begin="00:05:06.419" end="00:05:12.479" style="s2">dieser Welt und etwas energetisches</p>
+<p begin="00:05:08.840" end="00:05:15.300" style="s2">großartiges schützt mich in einem Kokon</p>
+<p begin="00:05:12.479" end="00:05:17.720" style="s2">und sorgt dafür dass mir nichts aber</p>
+<p begin="00:05:15.300" end="00:05:21.440" style="s2">auch wirklich gar nichts passiert</p>
+<p begin="00:05:17.720" end="00:05:23.460" style="s2">würden Sie sagen das war eine</p>
+<p begin="00:05:21.440" end="00:05:27.259" style="s2">übersinnliche Erfahrung oder eine</p>
+<p begin="00:05:23.460" end="00:05:31.199" style="s2">Erfahrung die über unsere Körperlichkeit</p>
+<p begin="00:05:27.259" end="00:05:33.120" style="s2">hinausgeht auf jeden Fall</p>
+<p begin="00:05:31.199" end="00:05:36.080" style="s2">auf jeden Fall also das ist nichts was</p>
+<p begin="00:05:33.120" end="00:05:38.539" style="s2">ich selber reproduzieren könnte das</p>
+<p begin="00:05:36.080" end="00:05:42.960" style="s2">war etwas was</p>
+<p begin="00:05:38.539" end="00:05:45.979" style="s2">mir ja ich würde sagen es war ein</p>
+<p begin="00:05:42.960" end="00:05:49.560" style="s2">Schutzengel die mich geschützt haben und</p>
+<p begin="00:05:45.979" end="00:05:53.160" style="s2">diese Schutzengel sind halt ich denke</p>
+<p begin="00:05:49.560" end="00:05:55.259" style="s2">mal um jeden drumrum der sie braucht und</p>
+<p begin="00:05:53.160" end="00:05:58.320" style="s2">bei mir war es ganz klar dass ich sie</p>
+<p begin="00:05:55.259" end="00:06:01.340" style="s2">erleben durfte und ich bin da unendlich</p>
+<p begin="00:05:58.320" end="00:06:04.800" style="s2">dankbar für dass sie</p>
+<p begin="00:06:01.340" end="00:06:06.740" style="s2">für sich also sich gezeigt haben dadurch</p>
+<p begin="00:06:04.800" end="00:06:10.440" style="s2">durch diese dieses</p>
+<p begin="00:06:06.740" end="00:06:14.460" style="s2">fühlen durch diese Wahrnehmung</p>
+<p begin="00:06:10.440" end="00:06:16.199" style="s2">denn es war also das was so wirklich wo</p>
+<p begin="00:06:14.460" end="00:06:17.699" style="s2">ich echt wochenlang hinterher immer noch</p>
+<p begin="00:06:16.199" end="00:06:20.880" style="s2">darüber nachgedacht habe ist war dieses</p>
+<p begin="00:06:17.699" end="00:06:23.340" style="s2">Gefühl von jetzt auf gleich ich saß da</p>
+<p begin="00:06:20.880" end="00:06:25.639" style="s2">und es hat gerüttelt und geschüttelt und</p>
+<p begin="00:06:23.340" end="00:06:27.180" style="s2">ich habe den Moment das</p>
+<p begin="00:06:25.639" end="00:06:28.860" style="s2">Loslassens gehabt also ich habe wirklich</p>
+<p begin="00:06:27.180" end="00:06:30.660" style="s2">gesagt scheiße ich habe hier keine</p>
+<p begin="00:06:28.860" end="00:06:32.639" style="s2">Kontrolle mehr und in dem Moment macht</p>
+<p begin="00:06:30.660" end="00:06:36.720" style="s2">es schnips weil ich innerlich irgendwie</p>
+<p begin="00:06:32.639" end="00:06:38.639" style="s2">losgelassen hatte und ähm ich werde</p>
+<p begin="00:06:36.720" end="00:06:41.400" style="s2">nicht mehr rausgekommen also nicht nicht</p>
+<p begin="00:06:38.639" end="00:06:44.940" style="s2">mit meinem mit meinem Körper mit allem</p>
+<p begin="00:06:41.400" end="00:06:47.880" style="s2">was ich gespürt habe ich hatte überhaupt</p>
+<p begin="00:06:44.940" end="00:06:50.160" style="s2">keine Kontrolle mehr und das war so</p>
+<p begin="00:06:47.880" end="00:06:52.800" style="s2">dieser Moment das ist gefühlten</p>
+<p begin="00:06:50.160" end="00:06:54.060" style="s2">loslassen wo dann ja sag mal die</p>
+<p begin="00:06:52.800" end="00:06:56.460" style="s2">Schutzengel wer auch immer sie alle</p>
+<p begin="00:06:54.060" end="00:06:58.800" style="s2">waren übernommen haben</p>
+<p begin="00:06:56.460" end="00:07:01.919" style="s2">also könnte man sagen es ist vorher</p>
+<p begin="00:06:58.800" end="00:07:04.259" style="s2">schon eine Art Schock eingetreten durch</p>
+<p begin="00:07:01.919" end="00:07:06.479" style="s2">dieses plötzliche schleudern durch das</p>
+<p begin="00:07:04.259" end="00:07:08.539" style="s2">Schleuder geschehen weil manche sagen ja</p>
+<p begin="00:07:06.479" end="00:07:11.460" style="s2">diese plötzliche außer Körperlichkeit</p>
+<p begin="00:07:08.539" end="00:07:13.080" style="s2">passiert durch Schock aber viele</p>
+<p begin="00:07:11.460" end="00:07:14.360" style="s2">Menschen sagen ihm auch im immer wieder</p>
+<p begin="00:07:13.080" end="00:07:19.099" style="s2">so wie sie</p>
+<p begin="00:07:14.360" end="00:07:21.960" style="s2">das war der Moment des Loslassens</p>
+<p begin="00:07:19.099" end="00:07:22.919" style="s2">ich war mit einem tun also es hat</p>
+<p begin="00:07:21.960" end="00:07:24.419" style="s2">gerüttelt und geschüttelt und ich habe</p>
+<p begin="00:07:22.919" end="00:07:26.400" style="s2">getan ich habe versucht mein Lenkrad zu</p>
+<p begin="00:07:24.419" end="00:07:27.660" style="s2">halten und und das Auto wieder ruhig zu</p>
+<p begin="00:07:26.400" end="00:07:30.120" style="s2">kriegen und ich war eigentlich voll da</p>
+<p begin="00:07:27.660" end="00:07:31.560" style="s2">und dann war der Moment da wo ich sage</p>
+<p begin="00:07:30.120" end="00:07:33.440" style="s2">scheiße ich kriege das immer hin also</p>
+<p begin="00:07:31.560" end="00:07:37.340" style="s2">wirklich</p>
+<p begin="00:07:33.440" end="00:07:37.340" style="s2">gerne aber das war scheiße</p>
+<p begin="00:07:38.340" end="00:07:42.599" style="s2">ja also Schock ist vielleicht nicht der</p>
+<p begin="00:07:40.380" end="00:07:44.400" style="s2">richtige Ausdruck aber ein eine Art</p>
+<p begin="00:07:42.599" end="00:07:46.199" style="s2">Schrecken man wenn man merkt man</p>
+<p begin="00:07:44.400" end="00:07:49.440" style="s2">verliert die Kontrolle über das Auto hat</p>
+<p begin="00:07:46.199" end="00:07:51.240" style="s2">man ja man erschrickt ja aber das war</p>
+<p begin="00:07:49.440" end="00:07:53.520" style="s2">jetzt noch nicht der Moment wo sie diese</p>
+<p begin="00:07:51.240" end="00:07:55.819" style="s2">diesen Zustand erlebt haben sondern wie</p>
+<p begin="00:07:53.520" end="00:07:59.479" style="s2">sie sagen eben erst durch das Loslassen</p>
+<p begin="00:07:55.819" end="00:07:59.479" style="s2">ja in dem Moment</p>
+<p begin="00:08:01.139" end="00:08:06.599" style="s2">loslassen sofort also war war dieses</p>
+<p begin="00:08:03.840" end="00:08:07.800" style="s2">Gefühl von warte als ich das quasi für</p>
+<p begin="00:08:06.599" end="00:08:09.419" style="s2">mich</p>
+<p begin="00:08:07.800" end="00:08:11.340" style="s2">ausgedacht hatte ich habe keine</p>
+<p begin="00:08:09.419" end="00:08:14.160" style="s2">Kontrolle mehr ich kann hier gar nichts</p>
+<p begin="00:08:11.340" end="00:08:17.520" style="s2">tun als dass der Gedanke zu Ende war war</p>
+<p begin="00:08:14.160" end="00:08:20.520" style="s2">das da kam da auch der Gedanke dass sie</p>
+<p begin="00:08:17.520" end="00:08:22.139" style="s2">jetzt vielleicht sterben nee nicht eine</p>
+<p begin="00:08:20.520" end="00:08:25.319" style="s2">Sekunde</p>
+<p begin="00:08:22.139" end="00:08:27.860" style="s2">also es war wirklich ich war wie in</p>
+<p begin="00:08:25.319" end="00:08:30.419" style="s2">einem Kokon ich bin bin</p>
+<p begin="00:08:27.860" end="00:08:32.520" style="s2">quasi dadurch getragen worden ich habe</p>
+<p begin="00:08:30.419" end="00:08:35.219" style="s2">vorher noch bei dem Loslassen also bei</p>
+<p begin="00:08:32.520" end="00:08:36.599" style="s2">diesen Gedanken loszulassen da wussten</p>
+<p begin="00:08:35.219" end="00:08:39.180" style="s2">sie ja noch nicht dass jetzt dieser</p>
+<p begin="00:08:36.599" end="00:08:41.279" style="s2">Zustand kommt kam mir da nicht auch der</p>
+<p begin="00:08:39.180" end="00:08:43.380" style="s2">Gedanke dass das jetzt vielleicht ihr</p>
+<p begin="00:08:41.279" end="00:08:48.120" style="s2">Lebensende sein könnte</p>
+<p begin="00:08:43.380" end="00:08:49.800" style="s2">nee der der Gedanke war</p>
+<p begin="00:08:48.120" end="00:08:53.339" style="s2">also der hatte gar keinen Raum mehr weil</p>
+<p begin="00:08:49.800" end="00:08:54.899" style="s2">das ging so schnell dann mit diesem nach</p>
+<p begin="00:08:53.339" end="00:08:57.779" style="s2">dem Gedanken ich habe keine Kontrolle</p>
+<p begin="00:08:54.899" end="00:08:59.940" style="s2">mehr dass das da war ich hatte keinen</p>
+<p begin="00:08:57.779" end="00:09:01.560" style="s2">weiteren Gedanken mehr da</p>
+<p begin="00:08:59.940" end="00:09:05.040" style="s2">also ich konnte gar keinen weiteren</p>
+<p begin="00:09:01.560" end="00:09:07.680" style="s2">Gedanken mehr denken in dem Moment außer</p>
+<p begin="00:09:05.040" end="00:09:09.600" style="s2">dass ich dann wahrgenommen habe hier ist</p>
+<p begin="00:09:07.680" end="00:09:12.120" style="s2">alles ganz</p>
+<p begin="00:09:09.600" end="00:09:15.420" style="s2">ja alles um mich herum geschützt und und</p>
+<p begin="00:09:12.120" end="00:09:18.360" style="s2">zwar richtig und es passiert ist drehte</p>
+<p begin="00:09:15.420" end="00:09:19.380" style="s2">sich und passierte ich hätte auch nicht</p>
+<p begin="00:09:18.360" end="00:09:21.899" style="s2">sagen können ob ich mich hätte</p>
+<p begin="00:09:19.380" end="00:09:23.700" style="s2">überschlagen oder so weil ich war so</p>
+<p begin="00:09:21.899" end="00:09:26.820" style="s2">geschützt dass ich nichts gespürt habe</p>
+<p begin="00:09:23.700" end="00:09:29.040" style="s2">nichts mehr kein rütteln kann schütteln</p>
+<p begin="00:09:26.820" end="00:09:31.800" style="s2">ich habe keinen Ton mehr gehört ich habe</p>
+<p begin="00:09:29.040" end="00:09:33.360" style="s2">nur noch alles irgendwie so gesehen</p>
+<p begin="00:09:31.800" end="00:09:37.040" style="s2">wie gesagt mit einer ich möchte</p>
+<p begin="00:09:33.360" end="00:09:39.180" style="s2">behaupten Nuance heller also nicht nicht</p>
+<p begin="00:09:37.040" end="00:09:41.399" style="s2">das irgendwo ein Lichtschein oder sowas</p>
+<p begin="00:09:39.180" end="00:09:44.820" style="s2">gewesen wäre das hatte ich nicht aber</p>
+<p begin="00:09:41.399" end="00:09:46.560" style="s2">ich war war klar da und das der Gedanke</p>
+<p begin="00:09:44.820" end="00:09:48.540" style="s2">der dann wirklich real noch war war als</p>
+<p begin="00:09:46.560" end="00:09:50.279" style="s2">meine Linse durch die durch den Airbag</p>
+<p begin="00:09:48.540" end="00:09:51.720" style="s2">irgendwie verrutscht ist im Auge und ich</p>
+<p begin="00:09:50.279" end="00:09:54.000" style="s2">die blinzelt habe das habe ich natürlich</p>
+<p begin="00:09:51.720" end="00:09:55.380" style="s2">gemerkt das Blinzeln und dann kam die</p>
+<p begin="00:09:54.000" end="00:09:56.640" style="s2">Linse wieder auf mein Auge und dann</p>
+<p begin="00:09:55.380" end="00:10:00.360" style="s2">konnte ich wieder klar gucken und dann</p>
+<p begin="00:09:56.640" end="00:10:01.339" style="s2">stand ich also es war keine außer</p>
+<p begin="00:10:00.360" end="00:10:03.180" style="s2">körperlich keine typische</p>
+<p begin="00:10:01.339" end="00:10:04.560" style="s2">außergewöhnliche Erfahrung wie so oft</p>
+<p begin="00:10:03.180" end="00:10:05.839" style="s2">berichtet wird dass man sich von oben</p>
+<p begin="00:10:04.560" end="00:10:09.360" style="s2">sieht aber</p>
+<p begin="00:10:05.839" end="00:10:11.220" style="s2">man kann auch sagen außer körperlich in</p>
+<p begin="00:10:09.360" end="00:10:14.880" style="s2">dem Sinne dass man vielleicht auch sagt</p>
+<p begin="00:10:11.220" end="00:10:17.220" style="s2">außer sinnlich weil es über ihre normale</p>
+<p begin="00:10:14.880" end="00:10:18.660" style="s2">sinnliche Wahrnehmung hinausgegangen ist</p>
+<p begin="00:10:17.220" end="00:10:21.600" style="s2">und dann hatten sie das Gefühl sie</p>
+<p begin="00:10:18.660" end="00:10:24.300" style="s2">werden da beschützt hatten sie da das</p>
+<p begin="00:10:21.600" end="00:10:29.360" style="s2">Gefühl da ist irgendwie eine Kraft mit</p>
+<p begin="00:10:24.300" end="00:10:29.360" style="s2">einer Absicht und mit einem Bewusstsein</p>
+<p begin="00:10:30.620" end="00:10:34.140" style="s2">das kann ich so nicht sagen das habe ich</p>
+<p begin="00:10:32.760" end="00:10:36.180" style="s2">in dem Moment nicht wahrgenommen ich</p>
+<p begin="00:10:34.140" end="00:10:39.120" style="s2">habe nur gemerkt ich war in ich war</p>
+<p begin="00:10:36.180" end="00:10:40.140" style="s2">total eingehüllt in Watte also es ist</p>
+<p begin="00:10:39.120" end="00:10:42.660" style="s2">jetzt nicht dass jemand zu mir</p>
+<p begin="00:10:40.140" end="00:10:43.860" style="s2">gesprochen hätte oder mir in den</p>
+<p begin="00:10:42.660" end="00:10:46.620" style="s2">Botschaft übermittelt hätte oder sowas</p>
+<p begin="00:10:43.860" end="00:10:48.740" style="s2">das war gar nicht es war einfach nur das</p>
+<p begin="00:10:46.620" end="00:10:50.880" style="s2">Gefühl von wirklich</p>
+<p begin="00:10:48.740" end="00:10:54.060" style="s2">schutzcoupon den ich hatte und zwar</p>
+<p begin="00:10:50.880" end="00:10:55.740" style="s2">komplett und ich kann noch mal dazu</p>
+<p begin="00:10:54.060" end="00:10:57.480" style="s2">erzählen zwei Tage später also ich habe</p>
+<p begin="00:10:55.740" end="00:10:59.640" style="s2">dann Fotos auch gemacht von der</p>
+<p begin="00:10:57.480" end="00:11:01.320" style="s2">Unfallstelle als ich dann hinter der</p>
+<p begin="00:10:59.640" end="00:11:03.000" style="s2">Leitplanke war habe ich direkt ein Foto</p>
+<p begin="00:11:01.320" end="00:11:05.339" style="s2">geschossen und zwei Stunden später als</p>
+<p begin="00:11:03.000" end="00:11:07.380" style="s2">dann der Abschleppwagen da war konnte</p>
+<p begin="00:11:05.339" end="00:11:08.640" style="s2">ich dann noch mal ein Foto schießen weil</p>
+<p begin="00:11:07.380" end="00:11:10.320" style="s2">der einen Rückstrahler hatte und mein</p>
+<p begin="00:11:08.640" end="00:11:11.700" style="s2">Blitz hat gar nichts ich wollte mein</p>
+<p begin="00:11:10.320" end="00:11:14.220" style="s2">Auto aufnehmen und gucken wie kaputt das</p>
+<p begin="00:11:11.700" end="00:11:16.560" style="s2">ist und das konnte ich gar nicht sehen</p>
+<p begin="00:11:14.220" end="00:11:19.019" style="s2">und dann</p>
+<p begin="00:11:16.560" end="00:11:20.459" style="s2">habe ich zwei Tage später meiner</p>
+<p begin="00:11:19.019" end="00:11:21.660" style="s2">Freundin erzählt dass ich einen Unfall</p>
+<p begin="00:11:20.459" end="00:11:23.880" style="s2">hatte und habt ihr die Bilder gezeigt</p>
+<p begin="00:11:21.660" end="00:11:25.500" style="s2">und dann war sie ganz aufgeregt und</p>
+<p begin="00:11:23.880" end="00:11:29.300" style="s2">sagte guck mal guck mal da sitzt einer</p>
+<p begin="00:11:25.500" end="00:11:31.519" style="s2">hinter da ist jemand im Auto und das</p>
+<p begin="00:11:29.300" end="00:11:34.380" style="s2">haben wir dann</p>
+<p begin="00:11:31.519" end="00:11:36.540" style="s2">alle also meine ganze Familie und auch</p>
+<p begin="00:11:34.380" end="00:11:38.040" style="s2">Freunde und Bekannte den habe ich</p>
+<p begin="00:11:36.540" end="00:11:39.360" style="s2">natürlich auch jetzt über das ganze Jahr</p>
+<p begin="00:11:38.040" end="00:11:43.140" style="s2">die Fotos gezeigt und die Geschichte</p>
+<p begin="00:11:39.360" end="00:11:45.120" style="s2">erzählt und alle die da Blick drauf</p>
+<p begin="00:11:43.140" end="00:11:47.940" style="s2">geworfen haben haben auch erkannt dass</p>
+<p begin="00:11:45.120" end="00:11:49.740" style="s2">das mein Vater ist der dahinten im Auto</p>
+<p begin="00:11:47.940" end="00:11:52.640" style="s2">auf der Rücksitzbank hinter dem</p>
+<p begin="00:11:49.740" end="00:11:55.800" style="s2">Fahrersitz sitzt und</p>
+<p begin="00:11:52.640" end="00:11:57.540" style="s2">alle die ihn kennen erkennen ihn da auch</p>
+<p begin="00:11:55.800" end="00:11:59.579" style="s2">auf dem auf dem Foto das ist wirklich</p>
+<p begin="00:11:57.540" end="00:12:03.440" style="s2">spannend</p>
+<p begin="00:11:59.579" end="00:12:03.440" style="s2">das zu sehen und</p>
+<p begin="00:12:03.540" end="00:12:09.360" style="s2">ja also das kam erst zwei Tage später</p>
+<p begin="00:12:06.360" end="00:12:11.579" style="s2">raus mir war das nicht klar als ich von</p>
+<p begin="00:12:09.360" end="00:12:12.899" style="s2">dem Unfall also als ich quasi hinter der</p>
+<p begin="00:12:11.579" end="00:12:14.339" style="s2">Leitplanke stand wusste ich nur</p>
+<p begin="00:12:12.899" end="00:12:16.620" style="s2">irgendwie ich bin geschützt worden das</p>
+<p begin="00:12:14.339" end="00:12:18.420" style="s2">war ein ich hatte eine hocheuphorische</p>
+<p begin="00:12:16.620" end="00:12:20.279" style="s2">Stimmung hinterher ich war nicht traurig</p>
+<p begin="00:12:18.420" end="00:12:22.459" style="s2">darüber dass mein Auto kaputt war ich</p>
+<p begin="00:12:20.279" end="00:12:22.459" style="s2">habe</p>
+<p begin="00:12:22.620" end="00:12:28.380" style="s2">also ich war einfach nur dankbar dass</p>
+<p begin="00:12:25.980" end="00:12:29.820" style="s2">ich das erleben durfte bei mir völlig</p>
+<p begin="00:12:28.380" end="00:12:32.760" style="s2">klar war in dem Moment das war jetzt</p>
+<p begin="00:12:29.820" end="00:12:34.500" style="s2">gerade was ganz Besonderes weil wie</p>
+<p begin="00:12:32.760" end="00:12:36.500" style="s2">gesagt ich hatte nichts gar nichts ich</p>
+<p begin="00:12:34.500" end="00:12:38.880" style="s2">bin auch noch untersucht worden im RTW</p>
+<p begin="00:12:36.500" end="00:12:40.680" style="s2">äh ich habe am nächsten Tag kein</p>
+<p begin="00:12:38.880" end="00:12:42.079" style="s2">Muskelkater keinen Nackenschmerzen gar</p>
+<p begin="00:12:40.680" end="00:12:44.399" style="s2">nicht was man so typisch nach so einer</p>
+<p begin="00:12:42.079" end="00:12:47.220" style="s2">schleudertraumatik gehabt hätte ich</p>
+<p begin="00:12:44.399" end="00:12:49.680" style="s2">hatte nichts und das ist natürlich eine</p>
+<p begin="00:12:47.220" end="00:12:51.959" style="s2">Sache irgendwie das geht einem schon so</p>
+<p begin="00:12:49.680" end="00:12:55.620" style="s2">auch nachhaltig durch dass man denkt so</p>
+<p begin="00:12:51.959" end="00:12:58.620" style="s2">boah wahnsinn was was da für Kräfte an</p>
+<p begin="00:12:55.620" end="00:12:59.890" style="s2">Wirkungen sein können die einen Schützen</p>
+<p begin="00:12:58.620" end="00:13:01.200" style="s2">und</p>
+<p begin="00:12:59.890" end="00:13:03.779" style="s2">[Musik]</p>
+<p begin="00:13:01.200" end="00:13:05.760" style="s2">wie gesagt definitiv definiert habe ich</p>
+<p begin="00:13:03.779" end="00:13:07.740" style="s2">sie als Schutzengel bis zu dem Zeitpunkt</p>
+<p begin="00:13:05.760" end="00:13:09.180" style="s2">dass meine Nachbarin oder besser meine</p>
+<p begin="00:13:07.740" end="00:13:11.220" style="s2">Freundin dann gesehen hat dass das wohl</p>
+<p begin="00:13:09.180" end="00:13:13.320" style="s2">mein Vater ist und die Bilder sagen</p>
+<p begin="00:13:11.220" end="00:13:15.600" style="s2">sehen sehr eindeutig aus und alle Leute</p>
+<p begin="00:13:13.320" end="00:13:18.540" style="s2">die ihn kennen können auch erkennen auf</p>
+<p begin="00:13:15.600" end="00:13:20.220" style="s2">den Fotos also das die sagen eindeutig</p>
+<p begin="00:13:18.540" end="00:13:22.560" style="s2">da sitzt da</p>
+<p begin="00:13:20.220" end="00:13:24.959" style="s2">und das bestätigt noch mal für mich auch</p>
+<p begin="00:13:22.560" end="00:13:28.100" style="s2">meine eigene Wahrnehmung aber ich finde</p>
+<p begin="00:13:24.959" end="00:13:31.339" style="s2">es auch sehr sehr eindeutig ja aussieht</p>
+<p begin="00:13:28.100" end="00:13:33.779" style="s2">ja und die Mediziner waren die</p>
+<p begin="00:13:31.339" end="00:13:36.139" style="s2">verwundert dass sie keine Verletzungen</p>
+<p begin="00:13:33.779" end="00:13:36.139" style="s2">hatten</p>
+<p begin="00:13:36.600" end="00:13:42.060" style="s2">das weiß ich nicht das haben die nicht</p>
+<p begin="00:13:38.100" end="00:13:43.980" style="s2">so klar für sich gesagt oder bedeutet</p>
+<p begin="00:13:42.060" end="00:13:45.300" style="s2">also darüber hatten Eva ich fand es nur</p>
+<p begin="00:13:43.980" end="00:13:47.399" style="s2">merkwürdig muss ich mal ganz klar</p>
+<p begin="00:13:45.300" end="00:13:49.079" style="s2">anmerken sie hatten kein Wasser im Auto</p>
+<p begin="00:13:47.399" end="00:13:51.240" style="s2">und ich habe von diesem von diesem</p>
+<p begin="00:13:49.079" end="00:13:53.220" style="s2">Airbag dieses Puder was da wohl</p>
+<p begin="00:13:51.240" end="00:13:57.000" style="s2">explodiert eingeatmet und hatte die</p>
+<p begin="00:13:53.220" end="00:13:58.200" style="s2">ganze Zeit im kratzen Halt und das RTW</p>
+<p begin="00:13:57.000" end="00:14:00.300" style="s2">hatte noch nicht mal eine Flasche Wasser</p>
+<p begin="00:13:58.200" end="00:14:03.300" style="s2">am Bord das fand ich ein bisschen mager</p>
+<p begin="00:14:00.300" end="00:14:04.620" style="s2">aber ansonsten nein also die haben mich</p>
+<p begin="00:14:03.300" end="00:14:06.420" style="s2">ganz normal untersucht und haben eben</p>
+<p begin="00:14:04.620" end="00:14:08.339" style="s2">nichts festgestellt und habe mich dann</p>
+<p begin="00:14:06.420" end="00:14:10.260" style="s2">wieder rausgelassen und dann habe ich</p>
+<p begin="00:14:08.339" end="00:14:11.579" style="s2">halt da gestanden hinter der Leitplanke</p>
+<p begin="00:14:10.260" end="00:14:14.000" style="s2">dass der Abschleppwagen kam zwei Stunden</p>
+<p begin="00:14:11.579" end="00:14:16.399" style="s2">später</p>
+<p begin="00:14:14.000" end="00:14:18.959" style="s2">und glauben Sie wenn Sie diesen</p>
+<p begin="00:14:16.399" end="00:14:20.820" style="s2">außergewöhnlichen Zustand nicht erlebt</p>
+<p begin="00:14:18.959" end="00:14:24.240" style="s2">hätten dass ihnen dann körperlich etwas</p>
+<p begin="00:14:20.820" end="00:14:27.300" style="s2">passiert wäre auf jeden Fall</p>
+<p begin="00:14:24.240" end="00:14:30.600" style="s2">auf jeden Fall also</p>
+<p begin="00:14:27.300" end="00:14:33.680" style="s2">mein Auto war ja ein total Schaden und</p>
+<p begin="00:14:30.600" end="00:14:36.720" style="s2">vorne die ganze</p>
+<p begin="00:14:33.680" end="00:14:39.480" style="s2">Motorbereich war ja auf jeder Seite</p>
+<p begin="00:14:36.720" end="00:14:41.579" style="s2">irgendwie kaputt</p>
+<p begin="00:14:39.480" end="00:14:43.920" style="s2">gequetscht oder von dem Aufprall und</p>
+<p begin="00:14:41.579" end="00:14:46.320" style="s2">zwei Stützen von der Leitplanke waren</p>
+<p begin="00:14:43.920" end="00:14:48.480" style="s2">rausgerissen also davon habe ich auch</p>
+<p begin="00:14:46.320" end="00:14:51.839" style="s2">noch ein Foto gemacht und</p>
+<p begin="00:14:48.480" end="00:14:55.980" style="s2">da werden wir normalerweise was passiert</p>
+<p begin="00:14:51.839" end="00:14:57.800" style="s2">also das sehe ich so</p>
+<p begin="00:14:55.980" end="00:15:00.779" style="s2">diese diese</p>
+<p begin="00:14:57.800" end="00:15:02.339" style="s2">Erlebnis ist schon so nachhaltig für</p>
+<p begin="00:15:00.779" end="00:15:05.040" style="s2">mich dass ich einfach weiß also und</p>
+<p begin="00:15:02.339" end="00:15:07.040" style="s2">jeder Mensch hat mir ich bin mir völlig</p>
+<p begin="00:15:05.040" end="00:15:09.300" style="s2">sicher und jeder Mensch hat Schutzengel</p>
+<p begin="00:15:07.040" end="00:15:10.860" style="s2">aber es weiß oder nicht sie sind</p>
+<p begin="00:15:09.300" end="00:15:13.040" style="s2">trotzdem da und wenn es irgendwie</p>
+<p begin="00:15:10.860" end="00:15:15.899" style="s2">brenzlig wird und</p>
+<p begin="00:15:13.040" end="00:15:18.800" style="s2">jemand in Not gerät und es soll nicht</p>
+<p begin="00:15:15.899" end="00:15:22.560" style="s2">sein oder es ist</p>
+<p begin="00:15:18.800" end="00:15:24.420" style="s2">es soll ihm nichts passieren weil</p>
+<p begin="00:15:22.560" end="00:15:26.399" style="s2">weil das nicht dran ist für ihn im Leben</p>
+<p begin="00:15:24.420" end="00:15:28.500" style="s2">dadurch eine Erfahrung zu machen und</p>
+<p begin="00:15:26.399" end="00:15:30.720" style="s2">dann wird man halt auch so genauso</p>
+<p begin="00:15:28.500" end="00:15:32.279" style="s2">geschützt dass einem nichts passiert und</p>
+<p begin="00:15:30.720" end="00:15:33.899" style="s2">das können die und das machen die</p>
+<p begin="00:15:32.279" end="00:15:38.459" style="s2">einfach so also nicht einfach so sondern</p>
+<p begin="00:15:33.899" end="00:15:41.100" style="s2">das machen wie ganz ganz toll</p>
+<p begin="00:15:38.459" end="00:15:44.899" style="s2">also ich weiß man braucht von nichts</p>
+<p begin="00:15:41.100" end="00:15:44.899" style="s2">Angst haben im Leben dadurch das ist</p>
+<p begin="00:15:45.959" end="00:15:50.459" style="s2">das wenn wenn brenzlig ist dann ich das</p>
+<p begin="00:15:48.779" end="00:15:54.000" style="s2">habe ich nicht voraussehen können dass</p>
+<p begin="00:15:50.459" end="00:15:55.980" style="s2">ich da ausweichen musste dass die</p>
+<p begin="00:15:54.000" end="00:15:57.600" style="s2">Mittelspur war frei</p>
+<p begin="00:15:55.980" end="00:15:59.100" style="s2">also ich bin auf die Mittelspur gefahren</p>
+<p begin="00:15:57.600" end="00:16:02.699" style="s2">und die war frei und dann bin ich</p>
+<p begin="00:15:59.100" end="00:16:06.420" style="s2">geschnitten worden und aus für mich</p>
+<p begin="00:16:02.699" end="00:16:08.100" style="s2">war da kein richtiger Grund dafür später</p>
+<p begin="00:16:06.420" end="00:16:09.600" style="s2">habe ich rausgefunden die ist auch einer</p>
+<p begin="00:16:08.100" end="00:16:11.639" style="s2">Unfallstelle ausgewichen die vorher</p>
+<p begin="00:16:09.600" end="00:16:15.260" style="s2">schon da war die hatte ich von weitem</p>
+<p begin="00:16:11.639" end="00:16:17.459" style="s2">gesehen aber die war auf der auf der</p>
+<p begin="00:16:15.260" end="00:16:19.019" style="s2">also ich war ja auf der Mittelspur also</p>
+<p begin="00:16:17.459" end="00:16:20.699" style="s2">ich hatte mit dem Unfall auf dem rechten</p>
+<p begin="00:16:19.019" end="00:16:22.940" style="s2">Seitenstreifen oder besser gesagt auch</p>
+<p begin="00:16:20.699" end="00:16:26.279" style="s2">dem der war schon auf dem</p>
+<p begin="00:16:22.940" end="00:16:29.699" style="s2">notstreifen hatte ich nichts zu tun und</p>
+<p begin="00:16:26.279" end="00:16:31.320" style="s2">deswegen war das so überraschend dass</p>
+<p begin="00:16:29.699" end="00:16:33.260" style="s2">ich da überhaupt nicht reagieren konnte</p>
+<p begin="00:16:31.320" end="00:16:35.459" style="s2">außer ausweichen</p>
+<p begin="00:16:33.260" end="00:16:38.120" style="s2">waren sie vor dieser Erfahrung auch</p>
+<p begin="00:16:35.459" end="00:16:40.800" style="s2">schon davon überzeugt dass es eine</p>
+<p begin="00:16:38.120" end="00:16:42.480" style="s2">überkörperliche nicht körperliche Welt</p>
+<p begin="00:16:40.800" end="00:16:45.300" style="s2">gibt</p>
+<p begin="00:16:42.480" end="00:16:48.000" style="s2">ja ja</p>
+<p begin="00:16:45.300" end="00:16:50.759" style="s2">das bin ich schon sehr sehr lange</p>
+<p begin="00:16:48.000" end="00:16:52.980" style="s2">und deswegen bin ich umso dankbarer dass</p>
+<p begin="00:16:50.759" end="00:16:54.779" style="s2">ich sie so habe erleben dürfen und dass</p>
+<p begin="00:16:52.980" end="00:16:56.540" style="s2">ich das so habe erfahren dürfen weil es</p>
+<p begin="00:16:54.779" end="00:16:59.779" style="s2">einfach</p>
+<p begin="00:16:56.540" end="00:17:03.680" style="s2">sehr nachhaltige eine sehr nachhaltige</p>
+<p begin="00:16:59.779" end="00:17:03.680" style="s2">tolle Erfahrung für mich war</p>
+<p begin="00:17:05.520" end="00:17:10.140" style="s2">hat wirklich also ich kann nur sagen ich</p>
+<p begin="00:17:08.400" end="00:17:13.319" style="s2">bin aus dem Auto ausgestiegen und war</p>
+<p begin="00:17:10.140" end="00:17:16.640" style="s2">hoch euphorisiert ob diese Erfahrung des</p>
+<p begin="00:17:13.319" end="00:17:16.640" style="s2">geschützt worden Seins und</p>
+<p begin="00:17:16.860" end="00:17:21.540" style="s2">was was die geistige Welt so möchte sie</p>
+<p begin="00:17:19.380" end="00:17:22.679" style="s2">jetzt mal nennen was die für Kräfte und</p>
+<p begin="00:17:21.540" end="00:17:24.660" style="s2">Mächte hat und was sie alles</p>
+<p begin="00:17:22.679" end="00:17:27.360" style="s2">bewerkstelligen kann wenn etwas sein</p>
+<p begin="00:17:24.660" end="00:17:30.240" style="s2">soll oder nicht sein soll das finde ich</p>
+<p begin="00:17:27.360" end="00:17:32.240" style="s2">irgendwie toll zu wissen und gespürt zu</p>
+<p begin="00:17:30.240" end="00:17:32.240" style="s2">haben</p>
+<p begin="00:17:32.520" end="00:17:37.799" style="s2">Verbote vielen Dank für ihre</p>
+<p begin="00:17:34.500" end="00:17:38.600" style="s2">Schilderungen zu diesem Erlebnis sehr</p>
+<p begin="00:17:37.799" end="00:18:20.329" style="s2">sehr gerne</p>
+<p begin="00:17:38.600" end="00:18:20.329" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

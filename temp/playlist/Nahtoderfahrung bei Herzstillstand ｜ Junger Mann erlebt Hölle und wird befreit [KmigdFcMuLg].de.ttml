@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:02.890" style="s2">Negativ-positive Nahtoderfahrung.</p>
+<p begin="00:00:02.890" end="00:00:07.932" style="s2">Dieser Bericht enthält potenziell beängstigende Elemente, ist jedoch lehrreich über die geistige Welt und das menschliche Leben.</p>
+<p begin="00:00:07.932" end="00:00:11.266" style="s2">Konsumieren Sie ihn nur bei entsprechendem Interesse.</p>
+<p begin="00:00:11.266" end="00:00:16.485" style="s2">Ein junger Mann findet sich nach seinem Herzstillstand in einer Art Hölle und wird von einem goldenen Licht errettet.</p>
+<p begin="00:00:16.485" end="00:00:21.453" style="s2">Er berichtete dem Kanalbetreiber darüber, möchte jedoch anonym bleiben.</p>
+<p begin="00:00:21.453" end="00:00:27.652" style="s2">Dieser Kanal ist religiös neutral. Derartige Berichte sollen keine einseitigen Ideen einer »ewigen Hölle« bestätigen,</p>
+<p begin="00:00:27.652" end="00:00:33.790" style="s2">sondern aufklären helfen. Gesprochen von Andreas Herejk.</p>
+<p begin="00:00:33.799" end="00:00:38.460" style="s2">Im Alter von 15 Jahren hatte ich eine außerkörperliche<br />Erfahrung. </p>
+<p begin="00:00:38.460" end="00:00:42.450" style="s2">Damals wusste ich bereits vom Arzt her, dass<br />ich Herzrhythmusstörungen habe.</p>
+<p begin="00:00:42.450" end="00:00:44.930" style="s2">Ich kam von der Schule zurück nach Hause.</p>
+<p begin="00:00:44.930" end="00:00:46.370" style="s2">Niemand war da.</p>
+<p begin="00:00:46.370" end="00:00:47.980" style="s2">Plötzlich wurde mir sehr schwindelig.</p>
+<p begin="00:00:47.980" end="00:00:50.730" style="s2">Ich kippte um und lag auf dem Boden.</p>
+<p begin="00:00:50.730" end="00:00:53.250" style="s2">Ich war in einer Art Schock.</p>
+<p begin="00:00:53.250" end="00:00:57.260" style="s2">Mein ganzer Körper war wie erstarrt und ich<br />spürte mein Herz nicht mehr schlagen.</p>
+<p begin="00:00:57.260" end="00:01:00.960" style="s2">Ich versuchte zu atmen, aber es ging einfach<br />nicht.</p>
+<p begin="00:01:00.960" end="00:01:04.600" style="s2">Plötzlich sah ich meinen Körper von oben<br />auf dem Boden liegen.</p>
+<p begin="00:01:04.600" end="00:01:06.790" style="s2">Das war sehr schockierend für mich.</p>
+<p begin="00:01:06.790" end="00:01:09.310" style="s2">Es fühlte sich an, als wäre ich eins mit<br />dem Raum.</p>
+<p begin="00:01:09.310" end="00:01:16.170" style="s2">Ich sah die Situation von oben, wie aus der<br />Sicht einer Kamera, die an der Zimmerdecke montiert ist.</p>
+<p begin="00:01:16.170" end="00:01:20.113" style="s2">Ab diesem Moment war mir klar, dass ich dieses<br />Leben verlassen muss.</p>
+<p begin="00:01:20.113" end="00:01:24.706" style="s2">Dann wurde es plötzlich sehr dunkel und ich<br />befand mich in einer Art Tunnel.</p>
+<p begin="00:01:24.706" end="00:01:30.531" style="s2">Außerdem wurde mir ein Film über mein bisheriges<br />irdisches Leben gezeigt. Es war zwar mein Leben,</p>
+<p begin="00:01:30.531" end="00:01:36.164" style="s2">aber ich nahm es in diesem Zustand ganz anders wahr als bisher. Viel realistischer.</p>
+<p begin="00:01:36.164" end="00:01:40.729" style="s2">Mein Leben wurde mir auf eine andere Art bewusst,<br />wie es vorher nie der Fall war.</p>
+<p begin="00:01:40.729" end="00:01:45.193" style="s2">Ich war sehr, sehr traurig darüber, wie ich<br />dieses Leben gelebt hatte.</p>
+<p begin="00:01:45.193" end="00:01:48.652" style="s2">Als der Film vorbei war, war ich in einer<br />anderen Welt.</p>
+<p begin="00:01:48.652" end="00:01:53.672" style="s2">Da gab es schwarzes Feuer und Wesen, die von<br />den Umrissen her wie Menschen aussahen.</p>
+<p begin="00:01:53.672" end="00:01:57.986" style="s2">Dieses Feuer war so kalt, dass es sich anfühlte,<br />als würde es brennen.</p>
+<p begin="00:01:57.986" end="00:02:01.610" style="s2">Diese Menschen waren wie verweste Leichen,<br />wie Zombies.</p>
+<p begin="00:02:01.610" end="00:02:04.619" style="s2">Bei einigen von ihnen fehlten Körperteile.</p>
+<p begin="00:02:04.619" end="00:02:07.993" style="s2">Es sah aus, als würden Körperteile einfach<br />abfallen.</p>
+<p begin="00:02:07.993" end="00:02:11.714" style="s2">Sie schreiten und flehten und bettelten und<br />zerrten.</p>
+<p begin="00:02:11.714" end="00:02:15.290" style="s2">Sie griffen mich an, zerrten an mir herum<br />und bissen mich.</p>
+<p begin="00:02:15.290" end="00:02:19.019" style="s2">Ich wollte sie irgendwie abschütteln, habe<br />sie weggestoßen.</p>
+<p begin="00:02:19.019" end="00:02:22.976" style="s2">Aber es sah für mich so aus, als ob sie davon<br />amüsiert waren.</p>
+<p begin="00:02:22.976" end="00:02:26.070" style="s2">Es war der Horror und ich hatte sehr viel<br />Angst.</p>
+<p begin="00:02:26.070" end="00:02:30.586" style="s2">Es fühlte sich ungefähr so an, als ob meine<br />Gliedmaßen an Pferde angebunden seien,</p>
+<p begin="00:02:30.586" end="00:02:33.210" style="s2">alle in verschiedene Richtungen laufen.</p>
+<p begin="00:02:33.210" end="00:02:35.908" style="s2">Es hat mich so richtig zerrissen und zerstört.</p>
+<p begin="00:02:35.908" end="00:02:39.456" style="s2">Anfangs hatte ich mich total gegen diesen<br />Zustand gewehrt.</p>
+<p begin="00:02:39.456" end="00:02:43.641" style="s2">Aber nach einer Weile konnte ich nicht mehr,<br />weil ich keine Kraft mehr hatte.</p>
+<p begin="00:02:43.641" end="00:02:45.786" style="s2">Ich hörte auf zu rebellieren.</p>
+<p begin="00:02:45.786" end="00:02:50.108" style="s2">Irgendwann hatte ich dann eine komplette Akzeptanz<br />für diese Situation.</p>
+<p begin="00:02:50.108" end="00:02:54.499" style="s2">Ich akzeptierte diese Ausweglosigkeit – dass<br />es kein Entkommen mehr gibt.</p>
+<p begin="00:02:54.499" end="00:02:57.630" style="s2">Ich dachte, ich habe es verdient, wie es jetzt<br />ist.</p>
+<p begin="00:02:57.630" end="00:03:02.580" style="s2">Da war auch eine tiefe Reue über mein bisheriges<br />irdisches Leben und ich dachte, ich habe nur</p>
+<p begin="00:03:02.580" end="00:03:05.551" style="s2">ein wertloses, egoistisches Leben gelebt.</p>
+<p begin="00:03:05.551" end="00:03:10.578" style="s2">Dann plötzlich, wie eine Bombe, explodierte<br />direkt neben mir ein goldenes Licht.</p>
+<p begin="00:03:10.578" end="00:03:14.833" style="s2">Diese dunklen Gestalten sind davon weggesprungen<br />und weggeflogen.</p>
+<p begin="00:03:14.833" end="00:03:17.312" style="s2">Sie fluchten dieses Licht auch an.</p>
+<p begin="00:03:17.312" end="00:03:20.428" style="s2">Ich war wie niedergeschlagen und heulend auf<br />dem Boden.</p>
+<p begin="00:03:20.428" end="00:03:25.237" style="s2">Das Licht half mir auf, wie wenn mich jemand<br />am Arm packt und aufrichtet.</p>
+<p begin="00:03:25.237" end="00:03:27.271" style="s2">Es sprach auch zu mir.</p>
+<p begin="00:03:27.271" end="00:03:30.541" style="s2">Es sagte, ich sei der Letzte, der hier her<br />gehört.</p>
+<p begin="00:03:30.541" end="00:03:33.710" style="s2">Dann brachte mich dieses Licht weg von diesem<br />Ort.</p>
+<p begin="00:03:33.710" end="00:03:36.427" style="s2">Es war, als hätte es mich weg teleportiert.</p>
+<p begin="00:03:36.427" end="00:03:41.740" style="s2">Dann war ich wieder in einer anderen Welt,<br />die vollkommen aus diesem goldenen Licht bestand.</p>
+<p begin="00:03:41.740" end="00:03:44.280" style="s2">Es war einfach unbeschreiblich schön.</p>
+<p begin="00:03:44.280" end="00:03:48.941" style="s2">Es war mir auch völlig klar, dass es die<br />absolute Liebe war, der völlige Friede, die</p>
+<p begin="00:03:48.941" end="00:03:51.700" style="s2">totale Geborgenheit und Perfektion.</p>
+<p begin="00:03:51.700" end="00:03:54.267" style="s2">Dieser Zustand war mir sehr vertraut.</p>
+<p begin="00:03:54.267" end="00:03:58.130" style="s2">Für mich bestand auch kein Zweifel, dass<br />dies der Ort war, an den ich mich schon als</p>
+<p begin="00:03:58.130" end="00:04:00.000" style="s2">kleines Kind erinnerte.</p>
+<p begin="00:04:00.000" end="00:04:04.130" style="s2">In meinem irdischen Leben konnte ich mich<br />von klein auf an etwas erinnern, ohne genau</p>
+<p begin="00:04:04.130" end="00:04:06.112" style="s2">zu wissen, an was.</p>
+<p begin="00:04:06.112" end="00:04:09.787" style="s2">Aber jetzt wusste ich, dass es dieser wunderschöne<br />Zustand war.</p>
+<p begin="00:04:09.787" end="00:04:12.830" style="s2">Ich wusste, dass dieses Licht mein Ursprung<br />ist.</p>
+<p begin="00:04:12.830" end="00:04:15.209" style="s2">Das war für mich eindeutig.</p>
+<p begin="00:04:15.209" end="00:04:19.319" style="s2">Es fühlte sich auch so an, dass ich selbst<br />dieses Licht bin.</p>
+<p begin="00:04:19.319" end="00:04:22.993" style="s2">Es gab absolut keine Trennung zwischen mir<br />und diesem Licht.</p>
+<p begin="00:04:22.993" end="00:04:27.629" style="s2">Dann gab es zwischen mir und dem Licht eine<br />telepathische Kommunikation.</p>
+<p begin="00:04:27.629" end="00:04:31.992" style="s2">Es wurde mir auch eine Katastrophe gezeigt,<br />die in Zukunft geschehen wird.</p>
+<p begin="00:04:31.992" end="00:04:35.655" style="s2">Aber das meiste davon ist aus meinem Bewusstsein<br />ausgeblendet.</p>
+<p begin="00:04:35.655" end="00:04:40.581" style="s2">Ich weiß nur noch, dass dieses Ereignis irgendetwas<br />mit Explosionen zu hat.</p>
+<p begin="00:04:40.581" end="00:04:44.980" style="s2">Dann sollte ich wieder zurück auf die Erde<br />gehen und mein Bestes geben, um diese Katastrophe</p>
+<p begin="00:04:44.980" end="00:04:46.911" style="s2">zu verhindern.</p>
+<p begin="00:04:46.911" end="00:04:51.529" style="s2">Mir wurde zwar gesagt, dass ich dieses Ereignis<br />wahrscheinlich nicht verhindern werden kann,</p>
+<p begin="00:04:51.529" end="00:04:55.986" style="s2">dass ich aber zumindest meinen Teil zur Vermeidung<br />so gut wie möglich leisten soll.</p>
+<p begin="00:04:55.986" end="00:05:00.315" style="s2">Es wurde mir auch gesagt, ich solle nicht<br />so viel an mir selbst zweifeln.</p>
+<p begin="00:05:00.315" end="00:05:06.090" style="s2">Außerdem wurden mir ein paar weitere Dinge<br />mitgeteilt, über die ich hier nicht sprechen darf und kann.</p>
+<p begin="00:05:06.090" end="00:05:09.476" style="s2">Dann war ich plötzlich wieder zurück in<br />meinem irdischen Körper.</p>
+<p begin="00:05:09.476" end="00:05:13.530" style="s2">Ich weiß noch sicher, dass mir entsprechende<br />Dinge mitgeteilt wurden, da ich aber nicht</p>
+<p begin="00:05:13.530" end="00:05:17.472" style="s2">darüber sprechen darf, sind sie aus meiner<br />Erinnerung ausgeblendet.</p>
+<p begin="00:05:17.472" end="00:05:22.559" style="s2">Alles worüber ich nicht sprechen darf, ist<br />wie versiegelt und aus meinem Gedächtnis gelöscht.</p>
+<p begin="00:05:22.559" end="00:05:26.617" style="s2">Daher könnte ich nicht darüber sprechen,<br />auch wenn ich es noch so sehr wollte.</p>
+<p begin="00:05:26.617" end="00:05:30.621" style="s2">Mir war klar, dass dieses goldene Licht das<br />ewige Leben ist.</p>
+<p begin="00:05:30.621" end="00:05:34.433" style="s2">Es ist nicht nur irgendwo dort, sondern permanent<br />und überall.</p>
+<p begin="00:05:34.433" end="00:05:38.523" style="s2">Das heißt, es ist auch für uns als irdische<br />Menschen zugänglich.</p>
+<p begin="00:05:38.523" end="00:05:41.766" style="s2">Von Natur aus wurzelt jeder Mensch in diesem<br />Licht.</p>
+<p begin="00:05:41.766" end="00:05:45.302" style="s2">Ich war zum Zeitpunkt dieser Erfahrung nicht<br />religiös.</p>
+<p begin="00:05:45.302" end="00:05:49.520" style="s2">Ich wurde nicht religiös erzogen und hatte<br />auch kein Interesse an Religion.</p>
+<p begin="00:05:49.520" end="00:05:52.539" style="s2">Ich dachte damals, dass Religionen Schwindel<br />sind.</p>
+<p begin="00:05:52.539" end="00:05:57.059" style="s2">Ich habe zwar daran geglaubt, dass es eine<br />Art Gott gibt, dass aber Religionen völlig</p>
+<p begin="00:05:57.059" end="00:05:59.427" style="s2">falsche Vorstellungen davon hätten.</p>
+<p begin="00:05:59.427" end="00:06:04.300" style="s2">Also vielleicht war ich irgendwie gläubig,<br />aber auf meine ganz eigene Art und Weise.</p>
+<p begin="00:06:04.300" end="00:06:08.639" style="s2">Zuerst habe ich mit anderen Menschen über<br />dieses Erlebnis gesprochen, aber die meisten</p>
+<p begin="00:06:08.639" end="00:06:12.700" style="s2">stempelten mich als Spinner, als Verrückten<br />oder als Lügner ab.</p>
+<p begin="00:06:12.700" end="00:06:17.214" style="s2">Viele Beziehungen gingen dadurch kaputt und<br />ich bekam auch Depressionen.</p>
+<p begin="00:06:17.214" end="00:06:21.499" style="s2">Dann versuchte ich, das Ganze zu vergessen,<br />aber das war auf Dauer nicht möglich.</p>
+<p begin="00:06:21.499" end="00:06:25.692" style="s2">Also versuchte ich wieder, mehr über diese<br />Erfahrung herauszufinden.</p>
+<p begin="00:06:25.692" end="00:06:29.930" style="s2">Ich habe mir dann irgendwann religiöse und<br />spirituelle Schriften gesucht, aber ich würde</p>
+<p begin="00:06:29.930" end="00:06:33.189" style="s2">mich keinesfalls als religiösen Menschen<br />bezeichnen.</p>
+<p begin="00:06:33.189" end="00:06:35.616" style="s2">Religionen sind für mich ein Irrtum.</p>
+<p begin="00:06:35.616" end="00:06:39.240" style="s2">Durch dieses Ereignis wurde ich jedenfalls<br />ein anderer Mensch.</p>
+<p begin="00:06:39.240" end="00:06:42.665" style="s2">Es stellte mein ganzes Leben auf den Kopf.  </p>
+<p begin="00:06:42.665" end="00:06:51.757" style="s2">Die besten Bücher über Nahtoderfahrungen, verlinkt in der Videobeschreibung und im ersten Kommentar.</p>
+<p begin="00:06:51.757" end="00:06:55.878" style="s2">Sie unterstützen die Verbreitung dieser Videos im Internet, wenn Sie sie positiv bewerten,</p>
+<p begin="00:06:55.878" end="00:06:58.321" style="s2">kommentieren und diesen Kanal abonnieren. Vielen Dank.</p>
+<p begin="00:06:58.321" end="00:07:06.000" style="s2">Wollen Sie über Ihre eigene übersinnliche Erfahrung berichten? Schreiben Sie uns gerne darüber im Kommentarbereich oder</p>
+<p begin="00:07:06.000" end="00:07:12.239" style="s2">vertraulich per E-Mail, die Adresse befindet sich in der Videobeschreibung und im ersten Kommentar. Vielen Dank.</p>
+</div>
+</body>
+</tt>

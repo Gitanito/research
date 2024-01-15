@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:15.240" end="00:00:21.180" style="s2">ich hatte zum Beispiel</p>
+<p begin="00:00:17.900" end="00:00:24.720" style="s2">als da war schon glaube ich 2008 war das</p>
+<p begin="00:00:21.180" end="00:00:25.859" style="s2">glaube ich schon ja 2008 oder 2009 so um</p>
+<p begin="00:00:24.720" end="00:00:31.080" style="s2">den Dreh</p>
+<p begin="00:00:25.859" end="00:00:33.540" style="s2">ich träumte dass ich kein Körper habe</p>
+<p begin="00:00:31.080" end="00:00:36.140" style="s2">sondern dass ich ein aus reinem Licht</p>
+<p begin="00:00:33.540" end="00:00:38.879" style="s2">bestehe es war so ein gelblich</p>
+<p begin="00:00:36.140" end="00:00:42.140" style="s2">schimmernder Nebel diese Gesetze von</p>
+<p begin="00:00:38.879" end="00:00:45.660" style="s2">einem Körper war zwar zu erkennen aber</p>
+<p begin="00:00:42.140" end="00:00:49.640" style="s2">ich hatte also keine Hände Arme Beine so</p>
+<p begin="00:00:45.660" end="00:00:49.640" style="s2">sondern wieso Nebel war das praktisch</p>
+<p begin="00:00:50.280" end="00:00:57.660" style="s2">ja und ich träumte dass ich durch eine</p>
+<p begin="00:00:53.660" end="00:00:57.660" style="s2">Wohnungsflur Schwebe</p>
+<p begin="00:00:57.719" end="00:01:01.500" style="s2">und</p>
+<p begin="00:00:58.699" end="00:01:05.539" style="s2">am Ende des Flurs war eine Türe</p>
+<p begin="00:01:01.500" end="00:01:05.539" style="s2">angelehnt und da bin ich durchgeschleppt</p>
+<p begin="00:01:06.420" end="00:01:10.200" style="s2">und dann komme ich in ein riesengroßen</p>
+<p begin="00:01:08.460" end="00:01:12.140" style="s2">Raum</p>
+<p begin="00:01:10.200" end="00:01:15.060" style="s2">der sie kennen sicher diese alten</p>
+<p begin="00:01:12.140" end="00:01:18.360" style="s2">Wohnungen mit diesem hohen Decken gibt</p>
+<p begin="00:01:15.060" end="00:01:22.020" style="s2">es ja und so ein Bruno war das auch es</p>
+<p begin="00:01:18.360" end="00:01:26.460" style="s2">hatte so eine riesengroße hohe Decke</p>
+<p begin="00:01:22.020" end="00:01:28.880" style="s2">und dieser Raum war zweigeteilt die eine</p>
+<p begin="00:01:26.460" end="00:01:32.159" style="s2">Seite des Raumes die diente als Küche</p>
+<p begin="00:01:28.880" end="00:01:34.640" style="s2">und die andere Seite des Raums diente</p>
+<p begin="00:01:32.159" end="00:01:34.640" style="s2">als Wohnzimmer</p>
+<p begin="00:01:36.720" end="00:01:43.560" style="s2">und dazwischen war eine Mauer die diese</p>
+<p begin="00:01:40.860" end="00:01:45.320" style="s2">beiden Teile unterteilt hat dass man das</p>
+<p begin="00:01:43.560" end="00:01:47.100" style="s2">genau abgesteckt war</p>
+<p begin="00:01:45.320" end="00:01:49.320" style="s2">diese Mauer war in der Mitte</p>
+<p begin="00:01:47.100" end="00:01:51.540" style="s2">unterbrochen damit man halt eben zu</p>
+<p begin="00:01:49.320" end="00:01:54.079" style="s2">Küche rein oder wieder Fische ins</p>
+<p begin="00:01:51.540" end="00:01:54.079" style="s2">Wohnzimmer kam</p>
+<p begin="00:01:54.180" end="00:01:59.219" style="s2">vor diesem kleinen auf dieser kleinen</p>
+<p begin="00:01:55.860" end="00:02:01.380" style="s2">Mauer die ungefähr 120 hoch war das ein</p>
+<p begin="00:01:59.219" end="00:02:04.200" style="s2">kleiner Junge etwa drei Jahre alt und</p>
+<p begin="00:02:01.380" end="00:02:06.060" style="s2">der spielte mit seinem Matchbox Autos</p>
+<p begin="00:02:04.200" end="00:02:07.979" style="s2">in der Küche stand eine Dame</p>
+<p begin="00:02:06.060" end="00:02:12.619" style="s2">hochschwanger</p>
+<p begin="00:02:07.979" end="00:02:12.619" style="s2">und bereits das Essen zu</p>
+<p begin="00:02:14.060" end="00:02:21.000" style="s2">der kleine Junge konnte mich sehen</p>
+<p begin="00:02:17.340" end="00:02:24.959" style="s2">er blickte ganz erstaunt nach oben</p>
+<p begin="00:02:21.000" end="00:02:26.700" style="s2">so irgendetwas und sagte es war nichts</p>
+<p begin="00:02:24.959" end="00:02:29.099" style="s2">das wird man seine Lippen bewegten sich</p>
+<p begin="00:02:26.700" end="00:02:31.920" style="s2">nicht und dann habe ich konnte aber</p>
+<p begin="00:02:29.099" end="00:02:35.599" style="s2">seine Gedanken hören und er sagte also</p>
+<p begin="00:02:31.920" end="00:02:35.599" style="s2">dachte wer bist du</p>
+<p begin="00:02:36.060" end="00:02:41.040" style="s2">dann habe ich mich selber sagen hören</p>
+<p begin="00:02:39.000" end="00:02:42.720" style="s2">ich bin deine kleine ich bin deine</p>
+<p begin="00:02:41.040" end="00:02:46.200" style="s2">kleine Schwester</p>
+<p begin="00:02:42.720" end="00:02:48.720" style="s2">guckte ja so nach oben und unten</p>
+<p begin="00:02:46.200" end="00:02:50.519" style="s2">und fing an zu lächeln</p>
+<p begin="00:02:48.720" end="00:02:54.180" style="s2">und dann guckt er ganz verstohlen auf</p>
+<p begin="00:02:50.519" end="00:02:57.239" style="s2">seine Mutter ja hochschwanger war</p>
+<p begin="00:02:54.180" end="00:02:58.739" style="s2">und ich habe sein seine Frage voraus und</p>
+<p begin="00:02:57.239" end="00:03:00.959" style="s2">habe gesagt nein nein das bin ich nicht</p>
+<p begin="00:02:58.739" end="00:03:04.640" style="s2">aber ich komme später das ist unser</p>
+<p begin="00:03:00.959" end="00:03:04.640" style="s2">Bruder heiße in willkommen</p>
+<p begin="00:03:05.099" end="00:03:09.120" style="s2">ja und dann bin ich aus diesem Traum</p>
+<p begin="00:03:07.860" end="00:03:11.640" style="s2">erwacht</p>
+<p begin="00:03:09.120" end="00:03:12.680" style="s2">ich muss nur noch dazu sagen in dieser</p>
+<p begin="00:03:11.640" end="00:03:14.700" style="s2">Wohnung</p>
+<p begin="00:03:12.680" end="00:03:16.140" style="s2">die habe ich neben meinen physischen</p>
+<p begin="00:03:14.700" end="00:03:17.760" style="s2">Augen gesehen</p>
+<p begin="00:03:16.140" end="00:03:20.400" style="s2">niemals</p>
+<p begin="00:03:17.760" end="00:03:21.959" style="s2">weil meine Eltern haben damals nur die</p>
+<p begin="00:03:20.400" end="00:03:24.420" style="s2">haben zwar damals Düsseldorf dort</p>
+<p begin="00:03:21.959" end="00:03:26.819" style="s2">gewohnt in dieser Wohnung aber mein</p>
+<p begin="00:03:24.420" end="00:03:30.500" style="s2">Vater hat dann ein Haus gebaut</p>
+<p begin="00:03:26.819" end="00:03:30.500" style="s2">in einem kleinen Dörfchen</p>
+<p begin="00:03:30.659" end="00:03:35.400" style="s2">und da bin ich dann aufgewachsen</p>
+<p begin="00:03:34.080" end="00:03:38.360" style="s2">so</p>
+<p begin="00:03:35.400" end="00:03:42.780" style="s2">als ich aus diesem Traum erwacht bin</p>
+<p begin="00:03:38.360" end="00:03:45.599" style="s2">hatte ich eine brennende Frage im Kopf</p>
+<p begin="00:03:42.780" end="00:03:47.400" style="s2">und deswegen bin ich sofort ans Telefon</p>
+<p begin="00:03:45.599" end="00:03:49.739" style="s2">gelaufen</p>
+<p begin="00:03:47.400" end="00:03:51.420" style="s2">und habe meinen Bruder angerufen</p>
+<p begin="00:03:49.739" end="00:03:53.959" style="s2">und habe ihm dann erzählt was ich</p>
+<p begin="00:03:51.420" end="00:03:53.959" style="s2">geträumt habe</p>
+<p begin="00:03:54.239" end="00:03:58.560" style="s2">und am anderen Ende des der Leitung</p>
+<p begin="00:03:56.519" end="00:04:01.260" style="s2">wurde es plötzlich ganz still man hörte</p>
+<p begin="00:03:58.560" end="00:04:03.120" style="s2">gar nichts mehr dann habe ich sag mal</p>
+<p begin="00:04:01.260" end="00:04:07.040" style="s2">bist du noch da</p>
+<p begin="00:04:03.120" end="00:04:10.620" style="s2">ja sagte ich bin noch da aber</p>
+<p begin="00:04:07.040" end="00:04:14.700" style="s2">oder weißt du das ich sag was was meinst</p>
+<p begin="00:04:10.620" end="00:04:17.639" style="s2">Du aber das Licht ich sag was denn ja</p>
+<p begin="00:04:14.700" end="00:04:19.259" style="s2">das Licht woher weißt du das und und die</p>
+<p begin="00:04:17.639" end="00:04:22.680" style="s2">Wohnung die die du hast sie noch nie</p>
+<p begin="00:04:19.259" end="00:04:24.120" style="s2">gesehen wie kannst du das wissen</p>
+<p begin="00:04:22.680" end="00:04:25.919" style="s2">ist so ich habe dir das doch gerade</p>
+<p begin="00:04:24.120" end="00:04:29.060" style="s2">gesagt ich habe davon geträumt das ist</p>
+<p begin="00:04:25.919" end="00:04:32.040" style="s2">letzte Nacht gewesen ich weiß dass</p>
+<p begin="00:04:29.060" end="00:04:34.320" style="s2">diese ganzen Details der das das alles</p>
+<p begin="00:04:32.040" end="00:04:36.740" style="s2">war der rote linienborn ich habe doch</p>
+<p begin="00:04:34.320" end="00:04:39.360" style="s2">gesehen die</p>
+<p begin="00:04:36.740" end="00:04:42.120" style="s2">Sowjet das dass das stimmt alles sagte</p>
+<p begin="00:04:39.360" end="00:04:46.680" style="s2">wer weiß das alles</p>
+<p begin="00:04:42.120" end="00:04:48.900" style="s2">ich sag noch mal ich habe davon geträumt</p>
+<p begin="00:04:46.680" end="00:04:50.340" style="s2">ihr könnt das gar nicht fassen dann ist</p>
+<p begin="00:04:48.900" end="00:04:52.440" style="s2">das sagt was ich jetzt wissen will von</p>
+<p begin="00:04:50.340" end="00:04:56.759" style="s2">Dir habe erinnerst du dich danach dran</p>
+<p begin="00:04:52.440" end="00:04:58.520" style="s2">sagte ja ja das Licht das weiß ich dass</p>
+<p begin="00:04:56.759" end="00:05:00.780" style="s2">daran</p>
+<p begin="00:04:58.520" end="00:05:02.759" style="s2">weißt du was ich dir gesagt habe nein</p>
+<p begin="00:05:00.780" end="00:05:04.800" style="s2">das nicht mehr aber das Licht daran</p>
+<p begin="00:05:02.759" end="00:05:06.259" style="s2">erinnere ich mich ich habe nie davon</p>
+<p begin="00:05:04.800" end="00:05:09.660" style="s2">jemanden erzählt</p>
+<p begin="00:05:06.259" end="00:05:11.340" style="s2">mit Bettina wer weißt du das ich soll</p>
+<p begin="00:05:09.660" end="00:05:14.060" style="s2">ich sag jetzt doch mal ich habe das</p>
+<p begin="00:05:11.340" end="00:05:14.060" style="s2">geträumt</p>
+<p begin="00:05:14.220" end="00:05:18.440" style="s2">und das warst du ich sag ja</p>
+<p begin="00:05:19.100" end="00:05:24.020" style="s2">der konnte gar nichts mehr sagen der war</p>
+<p begin="00:05:21.840" end="00:05:24.020" style="s2">total</p>
+<p begin="00:05:24.120" end="00:05:28.440" style="s2">und das hatte ich meine Bestätigung das</p>
+<p begin="00:05:26.639" end="00:05:30.180" style="s2">ganze denn das ist das was ich wollte</p>
+<p begin="00:05:28.440" end="00:05:32.600" style="s2">mit den erreichen wollte mit diesem</p>
+<p begin="00:05:30.180" end="00:05:32.600" style="s2">anrufen</p>
+<p begin="00:05:32.759" end="00:05:40.039" style="s2">ich war also vor meiner Geburt</p>
+<p begin="00:05:36.720" end="00:05:40.039" style="s2">in der Wohnung meiner Eltern</p>
+<p begin="00:05:40.440" end="00:05:45.360" style="s2">und das sagt mir dass wir alle also ich</p>
+<p begin="00:05:43.800" end="00:05:47.639" style="s2">bin da nicht alleine dass wir alle</p>
+<p begin="00:05:45.360" end="00:05:50.060" style="s2">unsere Leben vor unserem Wohnort</p>
+<p begin="00:05:47.639" end="00:05:50.060" style="s2">aussuchen</p>
+<p begin="00:05:52.560" end="00:05:57.840" style="s2">was ich dann auch noch hatte ist</p>
+<p begin="00:05:55.100" end="00:06:00.259" style="s2">Vorahnung Todes vor also von Leuten die</p>
+<p begin="00:05:57.840" end="00:06:00.259" style="s2">sterben würden</p>
+<p begin="00:06:01.860" end="00:06:07.940" style="s2">meine Tante die Schwester meiner Mutter</p>
+<p begin="00:06:04.620" end="00:06:07.940" style="s2">ist 2010 verstorben</p>
+<p begin="00:06:08.419" end="00:06:14.699" style="s2">ja und ich hatte sie in dem Serbian noch</p>
+<p begin="00:06:12.479" end="00:06:15.740" style="s2">im Oktober besucht</p>
+<p begin="00:06:14.699" end="00:06:18.660" style="s2">und</p>
+<p begin="00:06:15.740" end="00:06:20.880" style="s2">als sie als sie sich von mir</p>
+<p begin="00:06:18.660" end="00:06:22.319" style="s2">verabschiedet hat da wusste ich schon da</p>
+<p begin="00:06:20.880" end="00:06:25.139" style="s2">hatte ich schon die Ahnung dass ich sie</p>
+<p begin="00:06:22.319" end="00:06:27.120" style="s2">nicht noch mal sehen würde</p>
+<p begin="00:06:25.139" end="00:06:28.500" style="s2">sie hat auch gesagt dass sie Angst hat</p>
+<p begin="00:06:27.120" end="00:06:31.139" style="s2">vom Sterben und dann habe ich ihr gesagt</p>
+<p begin="00:06:28.500" end="00:06:32.600" style="s2">du brauchst dafür keine Angst haben das</p>
+<p begin="00:06:31.139" end="00:06:35.460" style="s2">ist nichts was</p>
+<p begin="00:06:32.600" end="00:06:37.160" style="s2">du wirst auch jeden alle Menschen die</p>
+<p begin="00:06:35.460" end="00:06:40.520" style="s2">vor dir gegangen sind alle wiedersehen</p>
+<p begin="00:06:37.160" end="00:06:44.240" style="s2">habe ich ihr gesagt</p>
+<p begin="00:06:40.520" end="00:06:46.380" style="s2">ja und dann waren es paar Monate später</p>
+<p begin="00:06:44.240" end="00:06:49.020" style="s2">und dann wurde ich plötzlich ganz</p>
+<p begin="00:06:46.380" end="00:06:52.759" style="s2">unruhig innerlich und muss sagen sie</p>
+<p begin="00:06:49.020" end="00:06:52.759" style="s2">denken also ganz intensiv</p>
+<p begin="00:06:52.800" end="00:06:58.500" style="s2">und deswegen habe ich dann auch versucht</p>
+<p begin="00:06:56.039" end="00:07:01.680" style="s2">sie zu erreichen habe also sie lebte zu</p>
+<p begin="00:06:58.500" end="00:07:05.039" style="s2">der Zeit in einem Heim im Altersheim</p>
+<p begin="00:07:01.680" end="00:07:08.039" style="s2">und habe dann dort angerufen und</p>
+<p begin="00:07:05.039" end="00:07:10.160" style="s2">stattdessen ging dann ihre Freundin ans</p>
+<p begin="00:07:08.039" end="00:07:10.160" style="s2">Telefon</p>
+<p begin="00:07:10.680" end="00:07:15.440" style="s2">und das war dann im Dezember meine ich</p>
+<p begin="00:07:12.780" end="00:07:15.440" style="s2">ja genau</p>
+<p begin="00:07:16.199" end="00:07:21.360" style="s2">und ihre Freundin sagte mir</p>
+<p begin="00:07:18.500" end="00:07:23.220" style="s2">ich weiß nicht ob ich das jetzt mal so</p>
+<p begin="00:07:21.360" end="00:07:25.560" style="s2">sagen kann und es tut mir auch sehr leid</p>
+<p begin="00:07:23.220" end="00:07:29.520" style="s2">dass ich das so sagen muss aber ihre</p>
+<p begin="00:07:25.560" end="00:07:32.280" style="s2">Tante ist letzte Nacht verstorben</p>
+<p begin="00:07:29.520" end="00:07:35.240" style="s2">also das war genau an dem Tag darauf</p>
+<p begin="00:07:32.280" end="00:07:37.880" style="s2">habe ich sie also angeguckt hatte dieses</p>
+<p begin="00:07:35.240" end="00:07:41.580" style="s2">diese innere Unruhe dieses Gefühl</p>
+<p begin="00:07:37.880" end="00:07:44.960" style="s2">irgendwas ist nicht richtig</p>
+<p begin="00:07:41.580" end="00:07:50.300" style="s2">ja das war das das eine dann habe ich</p>
+<p begin="00:07:44.960" end="00:07:51.780" style="s2">bei meinem Vater der ist 2014 verstorben</p>
+<p begin="00:07:50.300" end="00:07:53.879" style="s2">[Musik]</p>
+<p begin="00:07:51.780" end="00:07:55.379" style="s2">damals ist wohl auch irgendwie also als</p>
+<p begin="00:07:53.879" end="00:07:57.000" style="s2">ich diese Einheitserfahrung gemacht habe</p>
+<p begin="00:07:55.379" end="00:07:59.039" style="s2">es wurde irgendwie auch einen Tor</p>
+<p begin="00:07:57.000" end="00:08:02.900" style="s2">aufgestoßen worden</p>
+<p begin="00:07:59.039" end="00:08:02.900" style="s2">weshalb ich auch diese Vorahnung habe</p>
+<p begin="00:08:03.259" end="00:08:11.360" style="s2">2014 bevor mein Vater verstarb</p>
+<p begin="00:08:08.039" end="00:08:11.360" style="s2">hat sich da auch einen Traum</p>
+<p begin="00:08:12.139" end="00:08:18.479" style="s2">a in der Nacht als sein Vater verstarb</p>
+<p begin="00:08:16.020" end="00:08:20.720" style="s2">und ich träumte von dem meinem</p>
+<p begin="00:08:18.479" end="00:08:23.699" style="s2">Elternhaus</p>
+<p begin="00:08:20.720" end="00:08:26.160" style="s2">und alles war dunkel also die ganze</p>
+<p begin="00:08:23.699" end="00:08:27.900" style="s2">Straße alles war dunkel</p>
+<p begin="00:08:26.160" end="00:08:29.460" style="s2">nur das Elternhaus das war hell</p>
+<p begin="00:08:27.900" end="00:08:32.459" style="s2">erleuchtet und nicht nur die Fenster</p>
+<p begin="00:08:29.460" end="00:08:34.800" style="s2">sondern auch jede einzelne Stein aus dem</p>
+<p begin="00:08:32.459" end="00:08:36.919" style="s2">es bestand waren heller leuchtet in dem</p>
+<p begin="00:08:34.800" end="00:08:36.919" style="s2">Traum</p>
+<p begin="00:08:37.200" end="00:08:40.560" style="s2">und</p>
+<p begin="00:08:38.120" end="00:08:41.820" style="s2">als ich morgens aufwachte wusste ich</p>
+<p begin="00:08:40.560" end="00:08:44.099" style="s2">ganz einfach mein Vater ist verstorben</p>
+<p begin="00:08:41.820" end="00:08:47.640" style="s2">ich wusste das</p>
+<p begin="00:08:44.099" end="00:08:50.700" style="s2">das war so ein tiefes inneres Wissen</p>
+<p begin="00:08:47.640" end="00:08:53.339" style="s2">und zu dem Zeitpunkt war ich noch mit</p>
+<p begin="00:08:50.700" end="00:08:56.220" style="s2">meinem Ex-Mann also jetzt extra valuiert</p>
+<p begin="00:08:53.339" end="00:08:58.260" style="s2">und der kam damit ein Telefon zu mir in</p>
+<p begin="00:08:56.220" end="00:08:59.880" style="s2">ans Schlafzimmer</p>
+<p begin="00:08:58.260" end="00:09:01.459" style="s2">als ich gerade erwacht bin aus diesem</p>
+<p begin="00:08:59.880" end="00:09:03.980" style="s2">Traum</p>
+<p begin="00:09:01.459" end="00:09:06.720" style="s2">und da war meine Schwägerin am Telefon</p>
+<p begin="00:09:03.980" end="00:09:10.100" style="s2">und die erzählte dann dass mein Vater</p>
+<p begin="00:09:06.720" end="00:09:10.100" style="s2">die Nacht zuvor gestorben ist</p>
+<p begin="00:09:13.620" end="00:09:18.839" style="s2">dann muss ich noch mal ein Stück</p>
+<p begin="00:09:16.019" end="00:09:22.160" style="s2">zurückgehen um ich hatte nämlich auch</p>
+<p begin="00:09:18.839" end="00:09:25.620" style="s2">eine außerkörperliche Erfahrung</p>
+<p begin="00:09:22.160" end="00:09:29.360" style="s2">und zwar war das Jahr 2009 als ich</p>
+<p begin="00:09:25.620" end="00:09:29.360" style="s2">gerade umgezogen war</p>
+<p begin="00:09:29.540" end="00:09:34.080" style="s2">zu dem Zeitpunkt habe ich ziemlich</p>
+<p begin="00:09:32.339" end="00:09:35.880" style="s2">stressig und harte Zeit hinter mir</p>
+<p begin="00:09:34.080" end="00:09:37.339" style="s2">gehabt und war dem versprecht</p>
+<p begin="00:09:35.880" end="00:09:39.200" style="s2">entsprechend auch sehr müde</p>
+<p begin="00:09:37.339" end="00:09:42.320" style="s2">und</p>
+<p begin="00:09:39.200" end="00:09:44.339" style="s2">ich habe mir dann hier</p>
+<p begin="00:09:42.320" end="00:09:46.019" style="s2">auf Youtube habe ich mir ein Video</p>
+<p begin="00:09:44.339" end="00:09:47.279" style="s2">angeschaut was ich sehr interessant hat</p>
+<p begin="00:09:46.019" end="00:09:48.360" style="s2">was ich mir das nicht brennend</p>
+<p begin="00:09:47.279" end="00:09:50.839" style="s2">interessiert habe was ich unbedingt</p>
+<p begin="00:09:48.360" end="00:09:50.839" style="s2">gucken wollte</p>
+<p begin="00:09:52.320" end="00:09:57.120" style="s2">und ich merkte aber dass ich die ganze</p>
+<p begin="00:09:54.720" end="00:09:58.920" style="s2">Zeit war wegzudriften wollte das aber</p>
+<p begin="00:09:57.120" end="00:10:00.779" style="s2">nicht ich habe dann gesagt nee ich würde</p>
+<p begin="00:09:58.920" end="00:10:03.420" style="s2">das jetzt gucken ist ganz egal wie ich</p>
+<p begin="00:10:00.779" end="00:10:05.399" style="s2">will das einfach gucken</p>
+<p begin="00:10:03.420" end="00:10:08.959" style="s2">und ich war dann die ganze Zeit gebannt</p>
+<p begin="00:10:05.399" end="00:10:08.959" style="s2">auf dieses Video bei YouTube</p>
+<p begin="00:10:09.899" end="00:10:14.279" style="s2">und dann merkte ich auf einmal dass die</p>
+<p begin="00:10:11.579" end="00:10:16.260" style="s2">Müdigkeit Weg ist ich dachte das ist so</p>
+<p begin="00:10:14.279" end="00:10:17.839" style="s2">komisch eben war ich noch so total müde</p>
+<p begin="00:10:16.260" end="00:10:21.200" style="s2">und jetzt</p>
+<p begin="00:10:17.839" end="00:10:21.200" style="s2">die Möglichkeit weg</p>
+<p begin="00:10:21.720" end="00:10:25.500" style="s2">und</p>
+<p begin="00:10:23.700" end="00:10:27.180" style="s2">auch die Sinner schienen mir irgendwie</p>
+<p begin="00:10:25.500" end="00:10:28.920" style="s2">verschärft zu sein ich war zwar immer</p>
+<p begin="00:10:27.180" end="00:10:31.500" style="s2">noch in denselben Zimmer indem ich da</p>
+<p begin="00:10:28.920" end="00:10:33.320" style="s2">auch gesessen habe aber alles schien</p>
+<p begin="00:10:31.500" end="00:10:37.500" style="s2">irgendwie klarer zu sein</p>
+<p begin="00:10:33.320" end="00:10:38.640" style="s2">schärfer es waren die also die Farben</p>
+<p begin="00:10:37.500" end="00:10:41.700" style="s2">alles war</p>
+<p begin="00:10:38.640" end="00:10:43.560" style="s2">viel deutlicher für mich zu sehen da</p>
+<p begin="00:10:41.700" end="00:10:45.899" style="s2">haben sie das aus der Perspektive der</p>
+<p begin="00:10:43.560" end="00:10:47.940" style="s2">körperlichen Augen wahrgenommen</p>
+<p begin="00:10:45.899" end="00:10:51.420" style="s2">ja so meinte ich zu dem Zeitpunkt noch</p>
+<p begin="00:10:47.940" end="00:10:53.220" style="s2">ja aber dass dir nicht so war habe ich</p>
+<p begin="00:10:51.420" end="00:10:56.220" style="s2">dann erst ein paar Minuten später</p>
+<p begin="00:10:53.220" end="00:11:00.019" style="s2">erfahren also ich konnte auch verschärft</p>
+<p begin="00:10:56.220" end="00:11:00.019" style="s2">hören also alle Sinne waren verschärft</p>
+<p begin="00:11:00.140" end="00:11:06.980" style="s2">dann hatte ich so eine innere sonst</p>
+<p begin="00:11:02.339" end="00:11:06.980" style="s2">innere Impuls dreh dich mal um</p>
+<p begin="00:11:07.320" end="00:11:12.000" style="s2">dann habe ich mich umgedreht und mein</p>
+<p begin="00:11:09.959" end="00:11:14.160" style="s2">Oberkörper lag zusammengesogen hinter</p>
+<p begin="00:11:12.000" end="00:11:16.980" style="s2">mir also mein physischer Oberkörper war</p>
+<p begin="00:11:14.160" end="00:11:20.899" style="s2">zusammen so hinter mir und mit den</p>
+<p begin="00:11:16.980" end="00:11:20.899" style="s2">Beinen steckte ich noch in meinem Körper</p>
+<p begin="00:11:21.260" end="00:11:27.000" style="s2">und dann habe ich</p>
+<p begin="00:11:24.440" end="00:11:28.740" style="s2">schoss es mir wie ein wie ein Blitz</p>
+<p begin="00:11:27.000" end="00:11:31.079" style="s2">durch meinen Kopf wie komme ich jetzt</p>
+<p begin="00:11:28.740" end="00:11:33.300" style="s2">wieder zurück also ich hatte richtig</p>
+<p begin="00:11:31.079" end="00:11:35.399" style="s2">eine Schreck und Schock Schrecken um wie</p>
+<p begin="00:11:33.300" end="00:11:38.040" style="s2">komme ich jetzt da wieder zurück und</p>
+<p begin="00:11:35.399" end="00:11:39.779" style="s2">dieser Schreck der hat mich gerade total</p>
+<p begin="00:11:38.040" end="00:11:41.760" style="s2">platziert also wir haben Gummiband</p>
+<p begin="00:11:39.779" end="00:11:43.860" style="s2">wieder zurück in meinen Körper</p>
+<p begin="00:11:41.760" end="00:11:45.720" style="s2">es war ich konnte gar nicht so schnell</p>
+<p begin="00:11:43.860" end="00:11:47.579" style="s2">gucken so schnell war ich wieder in</p>
+<p begin="00:11:45.720" end="00:11:49.320" style="s2">meinem Körper drin ich machte die Augen</p>
+<p begin="00:11:47.579" end="00:11:52.260" style="s2">auf und hatte dann so ein Schmerz genau</p>
+<p begin="00:11:49.320" end="00:11:54.480" style="s2">in der Mitte meines Kopfes da wo die</p>
+<p begin="00:11:52.260" end="00:11:57.300" style="s2">Zirbeldrüse sitzt und ich schloss daraus</p>
+<p begin="00:11:54.480" end="00:12:00.779" style="s2">dass das wohl aus allen ausgangstorf für</p>
+<p begin="00:11:57.300" end="00:12:03.480" style="s2">die Seele in unseren Körper ist dass wir</p>
+<p begin="00:12:00.779" end="00:12:05.660" style="s2">darüber mit unserem Körper verbunden</p>
+<p begin="00:12:03.480" end="00:12:05.660" style="s2">sind</p>
+<p begin="00:12:09.720" end="00:12:14.820" style="s2">und dann hatte ich dann noch einen</p>
+<p begin="00:12:12.200" end="00:12:16.740" style="s2">nachguckt nach tut Kontakt mit meinem</p>
+<p begin="00:12:14.820" end="00:12:19.320" style="s2">Bruder der ist ja im letzten Jahr</p>
+<p begin="00:12:16.740" end="00:12:20.880" style="s2">verstorben also die Umstände möchte ich</p>
+<p begin="00:12:19.320" end="00:12:22.740" style="s2">jetzt nicht näher beschreiben auf jeden</p>
+<p begin="00:12:20.880" end="00:12:25.440" style="s2">Fall ist ja sehr früh verstorben mit nur</p>
+<p begin="00:12:22.740" end="00:12:28.260" style="s2">60 Jahren das war natürlich für uns alle</p>
+<p begin="00:12:25.440" end="00:12:31.200" style="s2">nicht ein großer Schock aber der hatte</p>
+<p begin="00:12:28.260" end="00:12:33.420" style="s2">ja den Lungenkrebs schon ja besiegt kann</p>
+<p begin="00:12:31.200" end="00:12:37.200" style="s2">man nicht sagen also er war schon sehr</p>
+<p begin="00:12:33.420" end="00:12:39.899" style="s2">angeschlagen also der hatte sehr viel</p>
+<p begin="00:12:37.200" end="00:12:41.639" style="s2">abgenommen also war noch ein Schatten</p>
+<p begin="00:12:39.899" end="00:12:43.380" style="s2">seiner selbst er war sowieso nie</p>
+<p begin="00:12:41.639" end="00:12:45.440" style="s2">besonders dick</p>
+<p begin="00:12:43.380" end="00:12:47.820" style="s2">ja jedenfalls</p>
+<p begin="00:12:45.440" end="00:12:49.740" style="s2">war dann im Krankenhaus auf der</p>
+<p begin="00:12:47.820" end="00:12:52.260" style="s2">Intensivstation</p>
+<p begin="00:12:49.740" end="00:12:55.680" style="s2">und man hat ihm da auch beatmet und</p>
+<p begin="00:12:52.260" end="00:12:58.440" style="s2">während dieser Zeit habe ich ihn schon</p>
+<p begin="00:12:55.680" end="00:13:00.180" style="s2">verloren also ich bin durch das Erlebnis</p>
+<p begin="00:12:58.440" end="00:13:03.360" style="s2">dass ich jetzt schon geschildert hatte</p>
+<p begin="00:13:00.180" end="00:13:04.920" style="s2">mit bin ich sehr offen für diese für die</p>
+<p begin="00:13:03.360" end="00:13:07.320" style="s2">geistige Welt ich kann viele Dinge</p>
+<p begin="00:13:04.920" end="00:13:10.860" style="s2">wahrnehmen die ich vorher so nicht</p>
+<p begin="00:13:07.320" end="00:13:12.899" style="s2">wahrnehmen konnte und somit habe ich</p>
+<p begin="00:13:10.860" end="00:13:14.959" style="s2">auch meinen die Seele meines Bruders</p>
+<p begin="00:13:12.899" end="00:13:17.579" style="s2">vernommen</p>
+<p begin="00:13:14.959" end="00:13:19.980" style="s2">ich konnte Ihnen also praktisch von</p>
+<p begin="00:13:17.579" end="00:13:23.420" style="s2">meinem geistigen Auge sehen also wie ihr</p>
+<p begin="00:13:19.980" end="00:13:26.420" style="s2">da in seinem Bett liegt mit der der</p>
+<p begin="00:13:23.420" end="00:13:26.420" style="s2">Suchmaschine</p>
+<p begin="00:13:26.480" end="00:13:30.959" style="s2">Schläuchen und so weiter und so fort ich</p>
+<p begin="00:13:29.459" end="00:13:32.639" style="s2">konnte ihn aber nicht nur in seinen</p>
+<p begin="00:13:30.959" end="00:13:35.000" style="s2">Körper sonst liegen sehen sondern auch</p>
+<p begin="00:13:32.639" end="00:13:39.120" style="s2">seine Seele</p>
+<p begin="00:13:35.000" end="00:13:42.420" style="s2">er zeigte es mir also das</p>
+<p begin="00:13:39.120" end="00:13:45.180" style="s2">ja nicht wegkommt ja also er kam dann zu</p>
+<p begin="00:13:42.420" end="00:13:48.240" style="s2">mir und zeigte mir dass also bei so</p>
+<p begin="00:13:45.180" end="00:13:50.100" style="s2">einem schreit und Hilfe schreibt bitte</p>
+<p begin="00:13:48.240" end="00:13:51.839" style="s2">Bettina hilft mir doch bitte ich komme</p>
+<p begin="00:13:50.100" end="00:13:53.459" style="s2">mir nicht weg und ich kann auch schon</p>
+<p begin="00:13:51.839" end="00:13:56.279" style="s2">alle sehen ich kann schon unsere Mutter</p>
+<p begin="00:13:53.459" end="00:13:59.220" style="s2">sehen ich kann er hatte auch Kinder</p>
+<p begin="00:13:56.279" end="00:14:04.100" style="s2">verloren also meine Nichte ist gestorben</p>
+<p begin="00:13:59.220" end="00:14:06.180" style="s2">mit nur sieben Monaten dann von meiner</p>
+<p begin="00:14:04.100" end="00:14:09.420" style="s2">wachsenden Nichte die hatte dann auch</p>
+<p begin="00:14:06.180" end="00:14:11.720" style="s2">einen Totgeburt gehabt die die konnte er</p>
+<p begin="00:14:09.420" end="00:14:14.459" style="s2">auch schon sehen also das</p>
+<p begin="00:14:11.720" end="00:14:16.019" style="s2">und er hat mich gebeten ich soll doch</p>
+<p begin="00:14:14.459" end="00:14:20.100" style="s2">bitte ihm helfen dass er da weg kommt</p>
+<p begin="00:14:16.019" end="00:14:21.899" style="s2">damit er dorthin kommt wo die ganzen wo</p>
+<p begin="00:14:20.100" end="00:14:25.260" style="s2">die ganzen Seelen die ja da sieht also</p>
+<p begin="00:14:21.899" end="00:14:27.000" style="s2">auch unseren Vater der ja auch 2014</p>
+<p begin="00:14:25.260" end="00:14:28.320" style="s2">verstorben ist er konnte die alle schon</p>
+<p begin="00:14:27.000" end="00:14:33.300" style="s2">sehen</p>
+<p begin="00:14:28.320" end="00:14:34.940" style="s2">und ja ist doch toll was du bist toll</p>
+<p begin="00:14:33.300" end="00:14:37.139" style="s2">bist und wie soll ich das jetzt machen</p>
+<p begin="00:14:34.940" end="00:14:40.500" style="s2">deine seine Tochter die war nicht</p>
+<p begin="00:14:37.139" end="00:14:42.480" style="s2">besonders offen für solche Dinge man ist</p>
+<p begin="00:14:40.500" end="00:14:44.160" style="s2">es auch bis jetzt nicht offen dafür ich</p>
+<p begin="00:14:42.480" end="00:14:46.139" style="s2">sage wie soll ich dir jetzt schon helfen</p>
+<p begin="00:14:44.160" end="00:14:48.660" style="s2">also ich kann jetzt nicht zu deiner</p>
+<p begin="00:14:46.139" end="00:14:52.320" style="s2">Tochter gehen die zu der Zeit war auch</p>
+<p begin="00:14:48.660" end="00:14:54.660" style="s2">hoch schwanger war und sagen sag mal</p>
+<p begin="00:14:52.320" end="00:14:57.620" style="s2">lass mal deinen Vater mal ebenso sterben</p>
+<p begin="00:14:54.660" end="00:15:00.660" style="s2">also nimm dir mal von der Maschine und</p>
+<p begin="00:14:57.620" end="00:15:03.360" style="s2">das kann ich nicht man hat ja gesagt</p>
+<p begin="00:15:00.660" end="00:15:05.820" style="s2">doch bitte bitte lass dir was einfallen</p>
+<p begin="00:15:03.360" end="00:15:07.680" style="s2">du kannst das schon du weißt ganz genau</p>
+<p begin="00:15:05.820" end="00:15:10.139" style="s2">was für Wörter du benutzen kannst damit</p>
+<p begin="00:15:07.680" end="00:15:13.199" style="s2">ich hier wegkomme</p>
+<p begin="00:15:10.139" end="00:15:16.639" style="s2">ich so ja ich tue mein Bestes</p>
+<p begin="00:15:13.199" end="00:15:21.000" style="s2">dann habe ich meine Nichte geschrieben</p>
+<p begin="00:15:16.639" end="00:15:22.680" style="s2">du weißt Liebe also ich weiß nicht ob</p>
+<p begin="00:15:21.000" end="00:15:25.459" style="s2">ich einen Namen nennen darf also sie</p>
+<p begin="00:15:22.680" end="00:15:25.459" style="s2">möchten das bestimmt nicht</p>
+<p begin="00:15:26.699" end="00:15:30.839" style="s2">ja</p>
+<p begin="00:15:28.040" end="00:15:33.019" style="s2">fast vergessen zu erzählen ich hatte</p>
+<p begin="00:15:30.839" end="00:15:35.820" style="s2">gerade ein</p>
+<p begin="00:15:33.019" end="00:15:39.480" style="s2">Einnahmen darf ich schon nennen und das</p>
+<p begin="00:15:35.820" end="00:15:42.060" style="s2">ist der Name meiner Freundin leer</p>
+<p begin="00:15:39.480" end="00:15:43.980" style="s2">die hatte mir nämlich auch mit mir</p>
+<p begin="00:15:42.060" end="00:15:46.920" style="s2">telefoniert während der Zeit als er noch</p>
+<p begin="00:15:43.980" end="00:15:49.440" style="s2">an den Sträuchen und so weiter hängt ich</p>
+<p begin="00:15:46.920" end="00:15:51.240" style="s2">habe mit ihr auch gesprochen dass er</p>
+<p begin="00:15:49.440" end="00:15:52.680" style="s2">dass ich den auch vernehmen kann und</p>
+<p begin="00:15:51.240" end="00:15:55.199" style="s2">dann hat sie gesagt weißt du was ich</p>
+<p begin="00:15:52.680" end="00:15:58.620" style="s2">höre dein dein Bruder auch ich sag was</p>
+<p begin="00:15:55.199" end="00:16:01.440" style="s2">denn der möchtegern dass du ihn loslässt</p>
+<p begin="00:15:58.620" end="00:16:03.959" style="s2">ich sage das ist aber nicht leicht für</p>
+<p begin="00:16:01.440" end="00:16:06.480" style="s2">mich habe ich gesagt weil die Eltern</p>
+<p begin="00:16:03.959" end="00:16:08.339" style="s2">gehen zu sehen ist eine Sache aber die</p>
+<p begin="00:16:06.480" end="00:16:10.259" style="s2">eigenen Brüder oder den eigenen Bruder</p>
+<p begin="00:16:08.339" end="00:16:13.160" style="s2">gehen zu sehen ist eine andere Sache ist</p>
+<p begin="00:16:10.259" end="00:16:16.740" style="s2">nur ganz anderes Ding als</p>
+<p begin="00:16:13.160" end="00:16:19.440" style="s2">bei den Eltern weil ist ja das ist</p>
+<p begin="00:16:16.740" end="00:16:23.519" style="s2">natürlich wenn man die Eltern vor einem</p>
+<p begin="00:16:19.440" end="00:16:25.620" style="s2">gehen das ist ja das das damit kann man</p>
+<p begin="00:16:23.519" end="00:16:27.300" style="s2">eher umgehen also ich persönlich war das</p>
+<p begin="00:16:25.620" end="00:16:29.519" style="s2">was für mich war das dann in dem Moment</p>
+<p begin="00:16:27.300" end="00:16:33.560" style="s2">so aber den eigenen Bruder das war schon</p>
+<p begin="00:16:29.519" end="00:16:33.560" style="s2">es war das war die eigene Generation</p>
+<p begin="00:16:33.660" end="00:16:38.519" style="s2">dann hat er dann Lea zu mir gesagt du</p>
+<p begin="00:16:36.720" end="00:16:42.300" style="s2">Bettina aber der möchte gerne dass du</p>
+<p begin="00:16:38.519" end="00:16:44.339" style="s2">ihn bestattest das ergehen darf</p>
+<p begin="00:16:42.300" end="00:16:46.139" style="s2">und dann habe ich einen schweren Herzens</p>
+<p begin="00:16:44.339" end="00:16:47.880" style="s2">dazu gestimmt ja und wie gesagt danach</p>
+<p begin="00:16:46.139" end="00:16:50.040" style="s2">war das erst gewesen dass mein Bruder</p>
+<p begin="00:16:47.880" end="00:16:52.459" style="s2">dann noch zu mir kam und sagte ich komme</p>
+<p begin="00:16:50.040" end="00:16:52.459" style="s2">mir nicht weg</p>
+<p begin="00:16:52.860" end="00:16:57.500" style="s2">dann war das nicht gewesen dass ich dann</p>
+<p begin="00:16:54.959" end="00:17:02.420" style="s2">meiner Nichte</p>
+<p begin="00:16:57.500" end="00:17:02.420" style="s2">geschrieben habe du also über WhatsApp</p>
+<p begin="00:17:02.759" end="00:17:09.120" style="s2">was glaubst du was dein Vater gerne</p>
+<p begin="00:17:04.679" end="00:17:11.059" style="s2">möchte dein Vater so dahin vegetieren an</p>
+<p begin="00:17:09.120" end="00:17:15.240" style="s2">den Maschinen und</p>
+<p begin="00:17:11.059" end="00:17:17.100" style="s2">außerdem sein Leben der lebte zu dem</p>
+<p begin="00:17:15.240" end="00:17:18.480" style="s2">Zeitpunkt schon ein Pflegeheim war ja</p>
+<p begin="00:17:17.100" end="00:17:20.100" style="s2">selber sich gar nicht mehr helfen konnte</p>
+<p begin="00:17:18.480" end="00:17:22.459" style="s2">weil er überhaupt nicht mehr belastet</p>
+<p begin="00:17:20.100" end="00:17:24.919" style="s2">war war</p>
+<p begin="00:17:22.459" end="00:17:27.740" style="s2">so im Rollstuhl und</p>
+<p begin="00:17:24.919" end="00:17:30.120" style="s2">hatte wirklich</p>
+<p begin="00:17:27.740" end="00:17:33.059" style="s2">Schwierigkeiten überhaupt irgendwie am</p>
+<p begin="00:17:30.120" end="00:17:34.980" style="s2">Leben zu bleiben und darum habe ich dir</p>
+<p begin="00:17:33.059" end="00:17:36.780" style="s2">geschrieben möchtest du wirklich dein</p>
+<p begin="00:17:34.980" end="00:17:39.620" style="s2">Vater so und die ganze Zeit leiden sehen</p>
+<p begin="00:17:36.780" end="00:17:43.080" style="s2">oder wäre es nicht besser wenn du</p>
+<p begin="00:17:39.620" end="00:17:45.660" style="s2">und wenn du das ganze dann Ende setzt</p>
+<p begin="00:17:43.080" end="00:17:48.840" style="s2">und dann war ja quasi total frustriert</p>
+<p begin="00:17:45.660" end="00:17:50.660" style="s2">und total ärgerlich und voller Angst und</p>
+<p begin="00:17:48.840" end="00:17:53.760" style="s2">Panik hat sie mir dann als das alles</p>
+<p begin="00:17:50.660" end="00:17:54.720" style="s2">gegengeschrien hat auch gesagt nein ich</p>
+<p begin="00:17:53.760" end="00:17:58.919" style="s2">lang bin ich die Maschine nicht</p>
+<p begin="00:17:54.720" end="00:18:01.440" style="s2">abstellen solange Chance besteht und ja</p>
+<p begin="00:17:58.919" end="00:18:03.780" style="s2">wollte das einfach nicht</p>
+<p begin="00:18:01.440" end="00:18:06.720" style="s2">ja und dann war mein Bruder danach</p>
+<p begin="00:18:03.780" end="00:18:08.580" style="s2">diesen Gespräch mit meiner Nichte noch</p>
+<p begin="00:18:06.720" end="00:18:09.860" style="s2">mal bei mir gewesen und dann habe ich zu</p>
+<p begin="00:18:08.580" end="00:18:12.660" style="s2">ihm gesagt du</p>
+<p begin="00:18:09.860" end="00:18:13.700" style="s2">angelogen das ist der Name meines</p>
+<p begin="00:18:12.660" end="00:18:16.200" style="s2">Bruders</p>
+<p begin="00:18:13.700" end="00:18:18.960" style="s2">ich kenne da jemand der dir helfen kann</p>
+<p begin="00:18:16.200" end="00:18:21.240" style="s2">denn meine Mutter wurde damals ja auch</p>
+<p begin="00:18:18.960" end="00:18:23.360" style="s2">durch den Erzengel Michael das habe ich</p>
+<p begin="00:18:21.240" end="00:18:26.160" style="s2">auch später erfahren dass das der Engel</p>
+<p begin="00:18:23.360" end="00:18:29.700" style="s2">Erzengel Michael war der dieser blaue</p>
+<p begin="00:18:26.160" end="00:18:33.240" style="s2">mit diesem blauen Gewand und den blauen</p>
+<p begin="00:18:29.700" end="00:18:35.660" style="s2">Schwert ja und dann habe ich gesagt der</p>
+<p begin="00:18:33.240" end="00:18:38.600" style="s2">Erzengel Michael der ist für solche</p>
+<p begin="00:18:35.660" end="00:18:42.840" style="s2">Fälle sage ich jetzt mal</p>
+<p begin="00:18:38.600" end="00:18:45.299" style="s2">da wenn du ihn anrufst und in ihrem Bett</p>
+<p begin="00:18:42.840" end="00:18:47.660" style="s2">ist dass er dir helfen möge dann wird er</p>
+<p begin="00:18:45.299" end="00:18:47.660" style="s2">dir helfen</p>
+<p begin="00:18:47.940" end="00:18:52.740" style="s2">ja und dann hat es nur ein paar Tage</p>
+<p begin="00:18:50.700" end="00:18:55.020" style="s2">gedauert dann kriege ich einen Anruf von</p>
+<p begin="00:18:52.740" end="00:18:58.380" style="s2">meiner Nichte</p>
+<p begin="00:18:55.020" end="00:19:00.260" style="s2">die also bzw die hatte eine</p>
+<p begin="00:18:58.380" end="00:19:02.940" style="s2">Sprachnachricht geschickt über WhatsApp</p>
+<p begin="00:19:00.260" end="00:19:07.080" style="s2">wo sie mir weinend mitteilte das jetzt</p>
+<p begin="00:19:02.940" end="00:19:09.840" style="s2">mein Bruder gegangen ist und das war</p>
+<p begin="00:19:07.080" end="00:19:11.220" style="s2">morgens früh schon das der ist da so in</p>
+<p begin="00:19:09.840" end="00:19:12.660" style="s2">der Nacht gestorben und ich bin morgens</p>
+<p begin="00:19:11.220" end="00:19:16.260" style="s2">aufgewacht und hatte dann diese</p>
+<p begin="00:19:12.660" end="00:19:18.780" style="s2">Sprachnachricht auf dem Handy und als</p>
+<p begin="00:19:16.260" end="00:19:21.799" style="s2">ich das abkürzte sah ich dann von meinen</p>
+<p begin="00:19:18.780" end="00:19:24.960" style="s2">geistigen Auge wie mein Bruder</p>
+<p begin="00:19:21.799" end="00:19:28.320" style="s2">wie ein kleiner Junge zu seiner Mutter</p>
+<p begin="00:19:24.960" end="00:19:30.500" style="s2">rannte in seiner in die Arme meiner</p>
+<p begin="00:19:28.320" end="00:19:30.500" style="s2">Mutter</p>
+</div>
+</body>
+</tt>

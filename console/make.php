@@ -192,7 +192,7 @@ file_put_contents("../wiki/index.html", $out);
                 $out .= '<br>' . join("<br>" . PHP_EOL, $sources);
 
             } else {
-                $out = "Es handelt sich um ein Buch. Bitte nutzen Sie den Link: <a target=_blank href='".$entry['mylink']."'>".$entry['mylink']."</a>";
+                $out = "Es handelt sich um ein Buch oder PDF. Bitte nutzen Sie den Link: <a target=_blank href='".$entry['mylink']."'>".$entry['mylink']."</a>";
             }
 
             $out_wordcloud = [];

@@ -1,0 +1,484 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=NmzziFU_uhQ","mytitle":"Kieler Akademie f\u00fcr Thanatologie,Projekt-Skizze 1\uff1a Soziotechnische Systeme in Seelsorge, Sterbebegleitung und Trauerbewa\u0308ltigung ","mylang":"de"}
+guten tag ich begrüße sie herzlich zur
+nächsten einheit der kieler akademie für
+pathologie und dem was für digitale
+pathologie bezeichnen und heute wollen
+wir einen keinen prospekt ihm geben
+nämlich sie wollen erläutern welche
+projekte wir folgen und zwar zum einen
+im tiefen zu hören dem stimmen vor
+fangen
+streng genommen wobei den freiburg aber
+sie arbeiten an der hochschule
+furtwangen im stadtgebiet und dominic
+lammert und zu machen was wir im hohen
+norden verfolgen nämlich mein kollege
+ulrich schüler und ich zum einen mit der
+kinderakademie und anatol ogi und das
+was wir den begriff er kann fördern
+müssten verbergen wir beginnen im tiefen
+süden und jetzt werden sich zunächst
+stefan beetz und dominic lammert
+vorstellen ich ihnen gleich sagen ohne
+die beiden wehren will ich hier
+initiative ging nämlich aus noch einen
+namen geklammert der uns damals
+kontaktiert hat der auch im namen von
+stefanie backs den kontakt aufgebaut hat
+all das sind jetzt die folgen jener
+gespräche die wir damals hatten deshalb
+zunächst das ist digitale welt springen
+währung verlor kilometer in den süden
+nach freiburg streng genommen
+der wohn beide und ihr bein kann durch
+jetzt erst mal vorstellen dann kommt ihr
+zu euren und unserem projekt vielen dank
+grüße aus dem süden und ich freue mich
+sehr dass sie so zahlreich heute
+erschienen sind bei diesen wunderbaren
+besser dass wir auf jeden fall im süden
+haben ich nehme an es ist es überall
+blinkt wollte ein wirklich schöner tag
+deswegen freue ich mich umso mehr dass
+sie sich eingefunden haben
+wie gesagt mein name ist stefanie beetz
+und ich bin professorin für soziale
+format ick was das genau ist werde ich
+gleich noch mal ein bisschen erläutern
+damit sie eine vorstellung haben womit
+ich mich mit ihnen beschäftige und dann
+werde ich noch ein bisschen stärker
+darauf eingehen was wir zusammen mit dem
+ende auch mit dem ulrich im zusammenhang
+mit digitaler teil anthologie machen ja
+ich bin mitarbeiter an der fakultät
+informatik angesiedelt bei stephanie
+also auch in der sozialen formate und ja
+dazu promoviert über das thema
+nachhaltige software-entwicklung also
+genauer gesagt interessiere mich nicht
+für die gesellschaftlichen auswirkungen
+von sozial technischen system und zuge
+dessen versuche ich die frage zu
+beantworten
+diese auswirkungen besser in die
+softwareentwicklung am besten schon in
+der gestaltungs phase berücksichtigt
+werden können jetzt geht es richtig
+spannend denn jetzt werden sie gleich
+kennenlernen
+auf den ersten blick eventuell eines
+langweilig klingt digitale potenziale
+und hanno loewy sich gegenseitig
+inspirieren können
+ich sag mal so vor zehn jahren wäre das
+was wir jetzt hier machen mich denkbar
+gewesen mal schauen was kind zehn jahren
+denkbar
+deshalb kommen wir jetzt zu den
+spannenden projekten
+ja ich möchte kurz ein bisschen kleines
+bisschen ausholen
+was ist eigentlich so zu sagen so zu
+informatik womit beschäftigen wir uns
+damit
+da werde ich mit den wechselwirkungen
+zwischen software systemen und menschen
+und zwar individuen und der gesellschaft
+und zurück warum das wichtig ja
+digitalisierung umgibt uns auch der
+systeme sind überall
+wenn sie sich überlegen sie haben ja
+sogar ein kleines gerät haben einen
+mobilfunk dass sie immer mit rumtragen
+dass zum beispiel verändert schon die
+art wie wir kommunizieren wie wir auch
+mit unseren freundschaften umgehen im
+guten wie im schlechten
+es verändert auch wenn die
+digitalisierung ist neue geschäftsfelder
+man tun sich auf wer geht denn jetzt
+noch zur bank
+wer bucht auch noch reißen im moment das
+ist natürlich sowieso schwierig aber
+dafür braucht man auch kein reisebüro
+mehr als es verändert sich ganz ganz
+viel und software system ist sozusagen
+haben der auswirkung auf uns wenn man
+sich das auch betrachter das gibt einen
+berühmten satz den ein dringender
+software entwickler mann gesagt der
+trainer jede jede zeile code hat eine
+soziale implikation hat eine auswirkung
+und das ist ganz ganz wichtig dass das
+ein dass wir die software entwicklern
+das auch bewusst ist dass sie
+wie verantwortungsvoll software
+entwickeln
+weil wenn man das nicht tut können sich
+ganz ganz viele negative auswirkungen
+realisieren
+ein beispiel und manchmal ist das auch
+so das problem ist dass man die nicht
+sofort bemerkt haben gutes beispiel
+dafür ist die software kennen sie
+vielleicht airbnb erst moment schöne
+system es ermöglicht einem individuum ja
+unabhängig quasi von den existierenden
+und fair systemen auch im privaten
+bereich eine buchung zu machen
+sehr schön dann aber im zweiten schritt
+was passiert wenn einige leute die es
+die die systeme nutzen da war eine
+gewisse zeit
+dann entwickeln sich geschäftsmodelle
+diese geschäftsmodelle haben dann dazu
+geführt dass in größeren städten
+beliebtere ziele viel stärker über
+airbnb gebucht wurden wozu führte dass
+das führte dazu dass die mieten in den
+großstädten gestiegen sind und es führte
+auch dazu dass dann letzten endes sogar
+die politik eingegriffen hat und ihre
+gesetzgebung geändert habe aufgrund
+dieses diese software systems und das
+sind so systemischen effekte über die
+zeit und die gilt dass quasi vor jetzt
+schon zu antizipieren wenn möglich und
+sich bei dir sein fonds auf der system
+shock gedanken worden und jetzt stellt
+sich natürlich die frage
+wir kommen jetzt digital digitalen
+technologie was hat es denn jetzt wieder
+mit
+was hat es mit dem tod zu tun und daher
+ist einfach auch der punkt auch hier
+also ganz platt gesagt die
+digitalisierung macht auch vor dem tod
+nicht halt und da kann man sich zum
+einen kann man ganz extrem gehen ja also
+sehen sie sich in film und fernsehen um
+ich weiß nicht ob das jemand von ihnen
+gesehen hat den film exit sind cds villa
+der neueren zeit da ging es im prinzip
+darum dass das die ja dass menschen nach
+dem tode als virtuelle personen weiter
+gelebt haben und es war den beteiligten
+nicht klar ob die personen gestorben
+sind oder nicht so weit sind wir
+technisch noch nicht aber wir sind auf
+dem weg
+dahin ja es gibt zum beispiel es gibt
+systeme tatsächlich da kann ich mich nur
+dann hört der werden können sie den chat
+protokolle und die verläufe wenn sich
+jemand unterhalten hat
+die kann ich da hoch laden und dann habe
+ich einen virtuellen board mit eines
+verstorbenen und versehen mit dem
+verstorbenen unterhalten das ist die
+eine richtung und da stellt sich eben
+dann stellt sich jetzt die frage wie
+geht man damit um wie will man wenn man
+sowas lösen wie an der sozialen von
+martek noch mal ein schritt zurück haben
+wir haben bestimmte mit boden und
+versuchen so zu sagen diese
+diese auswirkungen diese
+wechselwirkungen zwischen software
+systemen und gesellschaft zu untersuchen
+das eine zum beispiel ist partizipatives
+design partizipatives design bedeutet
+dass man mit allen den stakeholdern
+gemeinsam und zwar nicht nur die direkt
+betroffenen sowie den enten nutzer sind
+noch indirekte betroffen versucht
+anforderungen an ein system zu
+definieren zu definieren wie soll dieses
+system denn aussehen ja das könnte man
+sich jetzt zum beispiel auch in diesem
+zusammenhand dann vorstellen dass es
+eben nicht nur darum geht mit den mit
+dem trauernden zu sprechen und
+vielleicht auch mit denen zu sprechen
+die indirekt betroffenen dass zum
+beispiel auch mit kirchen oder mit
+ärzten also mit diesen ganzen großen
+feld das war betroffen ist die zum mit
+einzubeziehen wenn man dann solche
+systeme bauen möchte um nach zu finden
+nicht nur einen engen kreis zu
+berücksichtigen sondern hatte den weiten
+betreibt betroffen
+um die anforderungen von solchen
+systemen abzusagen und die andere andere
+punkt passieren der sozialen format ich
+auch was es eben zu antizipieren wie
+verändert sich eine gesellschaft und wie
+veränderte quasi auch eine gesellschaft
+im zusammenhang mit software systemen
+das heißt verändert sich sozusagen auch
+dass das erinnern und das trauern durch
+software systeme durch zum beispiel
+dieses extremen beispiel mit den avatar
+trauern wir dann vielleicht anders und
+was würde das im rückblick dann wieder
+das system wird bedeuten dafür gibt es
+dann auch methoden ja technikfolgen
+abschätzung der dann auch im prinzip
+gemeinsam versuchen zu erarbeiten ja
+also es gibt ja es gibt ja auch
+auswirken da kann dann gibt es
+möglichkeiten was kann ich denn
+technisch umsetzen und was kann nicht
+technisch nicht umsetzen kann ich quasi
+kann nicht genauso digital wie analog
+trauer oder gibt es da unterschiede auch
+die frage wem gehört dann das trauern
+wenn ich das im prinzip das ist jetzt
+mit mit dem grab und dem ort wo ich
+hingehe so meist familien gebunden wenn
+ich online gedenkseiten habe kann
+irgendjemand ein online gedenkseite
+irgendwie schon für einen wenn dann
+fällen war von jemanden der es gestorben
+mache ich ein online gedenkseite wollen
+wir das wollen wir das nicht auch diese
+wechselwirkung zwischen was mit einigen
+wie dem was wir die gesellschaft kann
+man betrachten sollte man betrachten was
+man in dem zusammenhang auch wissen muss
+ist zum beispiel das ist forschungs
+technisch nicht so betrachtet wird aber
+das ist tatsächlich firmen gibt die da
+auch ein geschäftsmodell sehen
+ja das ist auch etwas das man
+berücksichtigen muss
+er hat ist das geschäftsmodell ja das
+sind einfach sehr sehr viel persönliche
+daten die auch im bereich des trauerns
+auf den zugriff gewährt wird
+doch das ist was was man berücksichtigen
+muss im rahmen der so zu informatik
+betrachten bin und es gibt natürlich
+auch mal rein einen schritt vorher also
+es gibt ja quasi das trauern aber es war
+die auch das sterben auch da ist ja
+heutzutage natürlich jetzt auch im
+rahmen von von kobe dass es nun das
+sterben verändert sich auch und auch da
+ist die frage wie kann ich das begleiten
+kann ich das zum beispiel unterstützen
+falls sie da tief ein system entwickeln
+das tatsächlich auch die die die sterben
+dann sterben unterstützt und das sind
+einfach fragen mit denen wir uns hier
+gemeinsam beschäftigen wollen jetzt
+würde ich aber das wort freue mich dann
+später auch die fragen
+das wort an wenn dominik weiter geht es
+zu weiteren die digitalisierung geht
+wirklich ganz gerne was zum hintergrund
+sagen für die zuordnung warum das thema
+digitalisierung da überhaupt auf den
+tisch gehört und zwar wenn man sich die
+zahlen vom statistischen bundesamt in
+deutschland mal anguckt dann kann man
+sehen dass überraschender weise jährlich
+900.000 menschen sterben und das ist
+überraschend deshalb weil diese hohe
+zeiger nicht auffällt so dass jeder von
+uns im laufe seines lebens mit dem tod
+konfrontiert wird den der anderen dem
+eigenen und in unserem alltag nehmen wir
+das nicht sehr bewusst wahr ist wird
+gesellschaftlich verdrängt und sogar
+auch tabuisiert und deutlich wird das
+wenn man sich zum beispiel unsere
+großeltern generation anschaut und das
+vergleicht da war der tod präsenter es
+gab beispielsweise kriege oder
+unheilbare krankheiten die stunde im
+anfangsstadium also nie an ersten
+symptomen den tod angekündigt haben all
+das hat die sterblichkeit noch mal
+erhöht aber zum anderen und das ist
+genauso wichtig ging das sterben und das
+trauern mit dutzenden ritualen einher
+also totenbett besucher gab es dinge wie
+dass das fenster geöffnet wurde damit
+die seele nach draußen entweichen kann
+das macht man in krankenhäusern zum teil
+immer noch oder der tote wurde zu hause
+aufbewahrt das wird dieser sarg wurde
+dann von zu hause zum friedhof getragen
+also den ganzen rituale von denen es so
+viele gab
+wir haben den tod zu einer art
+gemeinschaftserlebnis gemacht und heute
+hingegen dürfte die these dass der
+selbstverständliche umgang mit dem tod
+erlernt wurde nur schwer zu widerlegen
+sein
+und jetzt stellt sich die frage warum
+warum ist das so
+also wir würden ja sagen dass ich dieses
+ausreichende verhältnis zum tod in
+erster linie durch eine räumliche
+distanz auszeichnet also
+zu sterbenden und verstorbenen mann nur
+selten in den eigenen vier wänden
+sondern den altenheim in krankenhäusern
+in hospizen und ist dabei zum teil auch
+nicht mehr ganz ansprechbar sowie
+additive behandlung zum beispiel mit
+starten in die kanten erfolgt oder die
+menschen so alt werden dass die geistige
+fitness mit abnimmt und die korona
+pandemie die stephanie schon gesagt hat
+die sozialen folgen von hier die
+verstärkung das nochmal in dem der
+besuch von sterbenden verweigert wird
+die teilnahme an beerdigungen wird
+eingeschränkt
+also dieser ganze umgang mit sterbenden
+und toten gehört jetzt nicht mehr zu dem
+was man in unsere standard erlebnisse
+ein kategorisieren würde um es mal so zu
+sagen und die sterbebegleitung und die
+trauerbewältigung werden dadurch nicht
+einfacher ganzen gegend und in der
+psychologie da weiß man dass dieses
+trauer erleben also die
+auseinandersetzung damit sehr wichtig
+ist um verluste zu verarbeiten und auch
+dadurch entstandene wunden zu heilen
+also das leben die das leben der trauer
+das ist sehr individuell
+er hat mehr dass die gemeinsamkeit aber
+in den phasen immer unterschiedlich und
+in diesem dschungel weiß würden dass die
+trauerbewältigung dreier leitfähigkeit
+voraussetzt das ist zum einen die
+fähigkeit sich auf den prozess einlassen
+zu können
+die fed hat ihn emotional zu ertragen
+und die fähigkeit ihnen dann auch zu
+beenden also auch abschließen zu können
+und wenn die diese gesamte
+auseinandersetzung mit der thematik so
+weit auf distanz gehalten wird man da
+unterschwellig um behindert dann hat man
+es in diesem prozess einfach schwerer
+und da können digitale systeme
+hilfreiche instrumente seien
+wenn sie die auseinandersetzung fördern
+und auch wenn es jetzt auf den ersten
+blick widersprüchlich klingen mag auch
+die nähe und die frage nach dem ob
+digitale systeme diejenigen die
+stephanie aufgezählt hat ob sie zum
+einsatz kommen oder nicht die stellt
+sich gar nicht mehr
+also natürlich werden sie das schon
+jetzt wir haben mehr die frage es geht
+mehr das wie also soll die software
+gestaltet sein dass sie angemessen und
+hilfreich unterstützen kann und lassen
+sich insbesondere drei bereiche benennen
+in der sozial- technische systeme zum
+einsatz kommen es ist zum einen in der
+kommunikation also es gibt online
+therapieform mit hilfe von
+beispielsweise videotelefonie software
+dann an soziale netzwerke kommen zum
+einsatz
+blogs youtube könnte man auch hier
+dann gibt es noch einen dritten bereich
+dass ich keiner klaren überschrift
+zuordnen lässt also man arbeitet mit
+begriffen wie sterben 2.0 oder trauern
+2.0
+das sind eben online gedenkseiten also
+das sind dass websites die gebaut werden
+können von hinterbliebenen ohne jegliche
+programmierkenntnisse nach der
+gestaltung mit texten bildern videos und
+musik und so weiter können die
+hinterbliebenen hier zum beispiel
+digitale kerzen anzünden in ein
+kondolenzbuch schreiben oder zu einer
+trauerfeier einladen also hier in
+freiburg ist zb die badische zeitung die
+das anbietet aber das gehört so ein
+produktportfolio zahlreicher zeitung
+mittlerweile in ganz deutschland auch
+von bestattungsunternehmen virtuelle
+friedhöfe gibt es die fungieren als
+ergänzung oder sogar als ersatz zu
+realen friedhöfen sind das klassische
+graf wird ja immer
+lehrer und vogue sind gerade bald
+friedhöfe und das ist ein spektrum an
+funktionen fällt hier je nach anbieter
+unterschiedlich groß aus dass es kann
+sich um nach website handeln
+es kann sich aber auch meine an
+videospiele erinnernde 360° welt handeln
+die mit vr brille betreten wird
+und dann gibt es noch das was am
+stefanie auch schon erwähnt hatte die
+erinnerungs avatare und die zielen
+wirklich darauf ab den anschein zu
+erwecken als würde die verstorbene
+person noch beziehungsweise wieder unter
+den lebenden weilen und diese
+erscheinungen also die stimme die
+wortwahl die gesprächsthemen das
+aussehen es wird nach gewarnt und es
+wird auch an der entwicklung von
+erinnerungsorten gearbeitet die den
+einsatz von v r brillen unterstützen und
+auch von haptik hardware so dass
+beispielsweise umarmungen ich werden und
+suiten avataren und dann komme ich noch
+zum schluss möchte ich ihnen kurz ein
+wild zeigen dazu teile ich mal mein gilt
+wenn eine sekunde kann das sehen also
+was wir hier sehen das ist eine mutter
+die ihre tochter verloren hat sie trägt
+eine brille mit einer entsprechenden
+taktik hat der rat an den händen
+das heißt sie kann den recht
+lebensechten avatar ihrer tochter nicht
+nur sehen sondern auch berühren und da
+stellt sich doch in der sozialen format
+in jedem menschen automatisch die frage
+ist das hilfreich für diese frau oder
+widerspricht der einsatz dieser
+technologie
+mit dem was man über das trauern weiß
+und das loslassen und wir halten uns
+jedenfalls sehr wichtig diese frage
+nicht der wirtschaft allein zu
+überlassen sondern von der wissenschaft
+und von experten von von betroffenen vor
+allem antwort zu lassen genau den noch
+lebenden offen soviel dazu so zunächst
+erstmal besten dank und wieder alle die
+personen jetzt jahren wie spannend es
+ist werden wir jetzt im zweiten bereich
+noch mal vor heben warum das für unsere
+forschung von grundlegender bedeutung
+ist wieso vor jetzt haben die skizze der
+südlichen projekte gesehen bei seinem
+gehört jetzt werden wir sozusagen
+beginnen gegen nördlichen projekte zu
+erläutern wie die damit zusammenhängen
+dass hinweis ulrich schiller lief wo wir
+beide im wunderschönen eckernförde und
+stefanie beetz und dominic lammert
+werden im sommer hier vorbeikommen
+werden seine gedanken werkstatt
+das machen die ganz konkreten
+umsetzungen dieser projekt erläutern

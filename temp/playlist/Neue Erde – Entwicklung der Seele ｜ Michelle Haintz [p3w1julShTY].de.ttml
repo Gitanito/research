@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:11.120" end="00:00:16.119" style="s2">willkommen zu einem neuen Video dieses</p>
+<p begin="00:00:13.320" end="00:00:18.199" style="s2">Mal wieder mit Michelle Heinz aus Wien</p>
+<p begin="00:00:16.119" end="00:00:20.760" style="s2">liebe Michelle danke dass du dir Zeit</p>
+<p begin="00:00:18.199" end="00:00:22.400" style="s2">nimmst für dieses heutige Gespräch ich</p>
+<p begin="00:00:20.760" end="00:00:24.599" style="s2">freue mich und sag Danke für die</p>
+<p begin="00:00:22.400" end="00:00:27.439" style="s2">Einladung ist ein ganz wichtiges Thema</p>
+<p begin="00:00:24.599" end="00:00:29.519" style="s2">das mir am Herzen liegt und zwar</p>
+<p begin="00:00:27.439" end="00:00:30.720" style="s2">sprechen wir heute über das Thema neue</p>
+<p begin="00:00:29.519" end="00:00:33.040" style="s2">er</p>
+<p begin="00:00:30.720" end="00:00:35.040" style="s2">wobei es im Grunde um die seelische</p>
+<p begin="00:00:33.040" end="00:00:37.440" style="s2">Entwicklung des Menschen geht dieser</p>
+<p begin="00:00:35.040" end="00:00:39.840" style="s2">Begriff neue Erde taucht momentan</p>
+<p begin="00:00:37.440" end="00:00:42.559" style="s2">häufiger auf wenn man sich mit</p>
+<p begin="00:00:39.840" end="00:00:44.440" style="s2">Spiritualität befasst kannst du uns mal</p>
+<p begin="00:00:42.559" end="00:00:47.239" style="s2">im Wesentlichen kurz beschreiben was man</p>
+<p begin="00:00:44.440" end="00:00:49.840" style="s2">darunter verstehen kann und woher du</p>
+<p begin="00:00:47.239" end="00:00:53.960" style="s2">diese Informationen</p>
+<p begin="00:00:49.840" end="00:00:56.359" style="s2">hast ja also ich kann gern erklären was</p>
+<p begin="00:00:53.960" end="00:00:58.920" style="s2">ich unter der neuen Erde verstehe und da</p>
+<p begin="00:00:56.359" end="00:01:01.160" style="s2">gibt&#39;s wahrscheinlich auch andere</p>
+<p begin="00:00:58.920" end="00:01:02.840" style="s2">Sichtweisen und wo ich das her habe ich</p>
+<p begin="00:01:01.160" end="00:01:05.880" style="s2">bin seit</p>
+<p begin="00:01:02.840" end="00:01:09.439" style="s2">1987 direkt angebunden also ich kann</p>
+<p begin="00:01:05.880" end="00:01:12.200" style="s2">jederzeit anbinden bin Medium Channel</p>
+<p begin="00:01:09.439" end="00:01:15.880" style="s2">wie auch immer man das nennt und meine</p>
+<p begin="00:01:12.200" end="00:01:18.640" style="s2">geistigen Begleiter haben mich auch dazu</p>
+<p begin="00:01:15.880" end="00:01:21.759" style="s2">motiviert ein Buch zu diesem Thema zu</p>
+<p begin="00:01:18.640" end="00:01:24.439" style="s2">schreiben und der Arbeitstitel ist die</p>
+<p begin="00:01:21.759" end="00:01:27.680" style="s2">neue Erde wartet auf dich denn ich</p>
+<p begin="00:01:24.439" end="00:01:30.520" style="s2">glaube eben Hinweis aus der geistigen</p>
+<p begin="00:01:27.680" end="00:01:32.759" style="s2">Welt die Neue Erde ist schon da</p>
+<p begin="00:01:30.520" end="00:01:34.920" style="s2">die ist nicht irgendwo anders und sie</p>
+<p begin="00:01:32.759" end="00:01:37.320" style="s2">ist nicht irgendwo in der Zukunft so wie</p>
+<p begin="00:01:34.920" end="00:01:39.520" style="s2">die fünfte Dimension von der ja auch</p>
+<p begin="00:01:37.320" end="00:01:42.240" style="s2">gesprochen wird nicht irgendwo da oben</p>
+<p begin="00:01:39.520" end="00:01:45.880" style="s2">ist höhere Schwingung sondern es ist</p>
+<p begin="00:01:42.240" end="00:01:47.759" style="s2">alles hier präsent wobei hier und</p>
+<p begin="00:01:45.880" end="00:01:50.799" style="s2">präsent eigentlich beides absurd ist</p>
+<p begin="00:01:47.759" end="00:01:54.360" style="s2">gibt ja weder Zeit noch Raum linear</p>
+<p begin="00:01:50.799" end="00:01:55.640" style="s2">zumindest aber äh es ist einfach eine</p>
+<p begin="00:01:54.360" end="00:01:57.840" style="s2">höhere</p>
+<p begin="00:01:55.640" end="00:02:00.600" style="s2">Schwingungsebene und diese</p>
+<p begin="00:01:57.840" end="00:02:05.920" style="s2">Schwingungsebene erwartet uns uns auch</p>
+<p begin="00:02:00.600" end="00:02:08.200" style="s2">auf dem wovon wir eben als die Neue Erde</p>
+<p begin="00:02:05.920" end="00:02:10.640" style="s2">sprechen was für mich das</p>
+<p begin="00:02:08.200" end="00:02:13.239" style="s2">allerwichtigste ist auf der neuen Erde</p>
+<p begin="00:02:10.640" end="00:02:17.120" style="s2">in dem Zusammenhang ist dass über all</p>
+<p begin="00:02:13.239" end="00:02:19.519" style="s2">dem so quasi als riesentitel Liebe steht</p>
+<p begin="00:02:17.120" end="00:02:21.879" style="s2">und zwar jetzt nicht liebe klein</p>
+<p begin="00:02:19.519" end="00:02:23.920" style="s2">geschrieben als tauschprodukt ich habe</p>
+<p begin="00:02:21.879" end="00:02:28.760" style="s2">dich lieb wenn du meine Erwartungen</p>
+<p begin="00:02:23.920" end="00:02:31.400" style="s2">erfüllst sondern wirklich Liebe im Sinne</p>
+<p begin="00:02:28.760" end="00:02:34.280" style="s2">von dem was ich als galaktische Liebe</p>
+<p begin="00:02:31.400" end="00:02:35.959" style="s2">bezeichne also einfach liebe die</p>
+<p begin="00:02:34.280" end="00:02:39.519" style="s2">wirklich echte Liebe ist die</p>
+<p begin="00:02:35.959" end="00:02:42.400" style="s2">bedingungslos ist soweit wir es schaffen</p>
+<p begin="00:02:39.519" end="00:02:44.200" style="s2">und diese Liebe hat sehr vieles in sich</p>
+<p begin="00:02:42.400" end="00:02:47.280" style="s2">also sehr viele</p>
+<p begin="00:02:44.200" end="00:02:48.840" style="s2">vercetten dazu gehört z.B auch</p>
+<p begin="00:02:47.280" end="00:02:52.920" style="s2">Dankbarkeit</p>
+<p begin="00:02:48.840" end="00:02:55.400" style="s2">Wertschätzung Fürsorge Bewunderung</p>
+<p begin="00:02:52.920" end="00:02:59.959" style="s2">Begeisterung also für mich sind es alles</p>
+<p begin="00:02:55.400" end="00:03:02.640" style="s2">Aspekte der Liebe und die tragen quasi</p>
+<p begin="00:02:59.959" end="00:03:05.120" style="s2">das was wir als neue Erde</p>
+<p begin="00:03:02.640" end="00:03:08.280" style="s2">bezeichnen also da geht&#39;s jetzt nicht um</p>
+<p begin="00:03:05.120" end="00:03:09.400" style="s2">eine physische Erde aus deiner Sicht</p>
+<p begin="00:03:08.280" end="00:03:13.519" style="s2">sondern um</p>
+<p begin="00:03:09.400" end="00:03:15.840" style="s2">ein um sozusagen um einen Hintergrund</p>
+<p begin="00:03:13.519" end="00:03:18.200" style="s2">hinter unserer oder der über unserer</p>
+<p begin="00:03:15.840" end="00:03:21.560" style="s2">physischen Welt steht du hast das Wort</p>
+<p begin="00:03:18.200" end="00:03:22.760" style="s2">Schwingung verwendet da geht&#39;s eher um</p>
+<p begin="00:03:21.560" end="00:03:24.400" style="s2">einen schwingungs und</p>
+<p begin="00:03:22.760" end="00:03:28.040" style="s2">Bewusstseinszustand kann man das zu</p>
+<p begin="00:03:24.400" end="00:03:30.519" style="s2">sagen es ist ein anderer schwingungs und</p>
+<p begin="00:03:28.040" end="00:03:33.519" style="s2">Bewusstseinszustand als wir in also die</p>
+<p begin="00:03:30.519" end="00:03:36.200" style="s2">meisten von uns hier und jetzt haben</p>
+<p begin="00:03:33.519" end="00:03:39.200" style="s2">äh aber es ist sehr wohl ein ein</p>
+<p begin="00:03:36.200" end="00:03:42.400" style="s2">physisches Phänomen also ich glaube dass</p>
+<p begin="00:03:39.200" end="00:03:45.519" style="s2">wir auf der neuen Erde auch physisch</p>
+<p begin="00:03:42.400" end="00:03:47.920" style="s2">präsent sind nur wird also ich glaub das</p>
+<p begin="00:03:45.519" end="00:03:50.239" style="s2">allerwichtigste nämlich als Gegensatz</p>
+<p begin="00:03:47.920" end="00:03:53.840" style="s2">zur Liebe ist dass es auf der neuen Erde</p>
+<p begin="00:03:50.239" end="00:03:57.040" style="s2">keinen Stress mehr gibt und Stress ist</p>
+<p begin="00:03:53.840" end="00:04:00.560" style="s2">das was uns ja hier festhält in dieser</p>
+<p begin="00:03:57.040" end="00:04:03.319" style="s2">eher niedrigen Schwingung also im Grunde</p>
+<p begin="00:04:00.560" end="00:04:05.560" style="s2">sind alle ich spreche nicht gern von</p>
+<p begin="00:04:03.319" end="00:04:07.760" style="s2">negativen Emotionen sondern niedrig</p>
+<p begin="00:04:05.560" end="00:04:10.720" style="s2">schwingenden Emotionen also Emotionen</p>
+<p begin="00:04:07.760" end="00:04:14.480" style="s2">die sich auch nicht gut anfühlen</p>
+<p begin="00:04:10.720" end="00:04:17.400" style="s2">äh schwingungszustände die uns unten</p>
+<p begin="00:04:14.480" end="00:04:19.519" style="s2">halten also in nicht nur in der</p>
+<p begin="00:04:17.400" end="00:04:22.840" style="s2">niedrigen Schwingung die sich unangenehm</p>
+<p begin="00:04:19.519" end="00:04:25.400" style="s2">anfühlt sondern wirklich auf 3D wobei</p>
+<p begin="00:04:22.840" end="00:04:27.560" style="s2">man ja dazu sagen muss das für viele</p>
+<p begin="00:04:25.400" end="00:04:30.440" style="s2">Menschen fühlt sich das ja meiner</p>
+<p begin="00:04:27.560" end="00:04:33.160" style="s2">Ansicht nach nicht direkt unangenehm an</p>
+<p begin="00:04:30.440" end="00:04:35.880" style="s2">weil sie ja so sehr daran gewöhnt sind</p>
+<p begin="00:04:33.160" end="00:04:38.360" style="s2">also ich glaube dass das ja ein Problem</p>
+<p begin="00:04:35.880" end="00:04:40.720" style="s2">sagen wir mal des Bösen auch ist dass</p>
+<p begin="00:04:38.360" end="00:04:43.039" style="s2">man so sehr darin verstrickt sein kann</p>
+<p begin="00:04:40.720" end="00:04:44.840" style="s2">dass man es als normal erachtet und dass</p>
+<p begin="00:04:43.039" end="00:04:47.639" style="s2">man das andere dass dass man den</p>
+<p begin="00:04:44.840" end="00:04:51.240" style="s2">Unterschied den Kontrast gar nicht mehr</p>
+<p begin="00:04:47.639" end="00:04:53.600" style="s2">spürt ja wobei also wenn ich von von</p>
+<p begin="00:04:51.240" end="00:04:57.919" style="s2">fühlen spreche dann spreche ich vom</p>
+<p begin="00:04:53.600" end="00:05:00.360" style="s2">Herzen äh und im Herzen spüren wir alle</p>
+<p begin="00:04:57.919" end="00:05:02.560" style="s2">also auch die die sehr in der Dunkelheit</p>
+<p begin="00:05:00.360" end="00:05:05.360" style="s2">gefangen sind was uns gut tut und was</p>
+<p begin="00:05:02.560" end="00:05:07.280" style="s2">uns nicht gut tut und es ist vor allem</p>
+<p begin="00:05:05.360" end="00:05:08.880" style="s2">meine ich bin ursprünglich Medizinerin</p>
+<p begin="00:05:07.280" end="00:05:11.440" style="s2">und es ist vor allem leicht</p>
+<p begin="00:05:08.880" end="00:05:14.080" style="s2">körperchemisch zu erklären also wenn wir</p>
+<p begin="00:05:11.440" end="00:05:15.840" style="s2">unter der Kontrolle der Stresshormone</p>
+<p begin="00:05:14.080" end="00:05:18.919" style="s2">stehen da gibt&#39;s ja verschiedene dann</p>
+<p begin="00:05:15.840" end="00:05:20.280" style="s2">sind wir auf hirnebene aber auch auf</p>
+<p begin="00:05:18.919" end="00:05:22.520" style="s2">körperlicher Ebene im</p>
+<p begin="00:05:20.280" end="00:05:25.479" style="s2">höhlenmenschenmodus gefangen und eben</p>
+<p begin="00:05:22.520" end="00:05:29.720" style="s2">auch in all diesen Emotionen wie Hass</p>
+<p begin="00:05:25.479" end="00:05:31.800" style="s2">wie Angst wie wie Trauer wie Wut wie wie</p>
+<p begin="00:05:29.720" end="00:05:34.720" style="s2">wie Rache und so weiter ja das sind</p>
+<p begin="00:05:31.800" end="00:05:37.560" style="s2">Emotionen also es stimmt schon dass</p>
+<p begin="00:05:34.720" end="00:05:40.039" style="s2">viele sich daran gewöhnt haben aber</p>
+<p begin="00:05:37.560" end="00:05:43.199" style="s2">trotzdem fühlt sich das wirklich im</p>
+<p begin="00:05:40.039" end="00:05:45.680" style="s2">Herzen nicht gut an ja vielleicht ist es</p>
+<p begin="00:05:43.199" end="00:05:48.600" style="s2">so in dieser alten Schwingung</p>
+<p begin="00:05:45.680" end="00:05:50.880" style="s2">etwas ja man hat sich dran gewöhnt und</p>
+<p begin="00:05:48.600" end="00:05:52.639" style="s2">es ist die die Bequemlichkeitszone aber</p>
+<p begin="00:05:50.880" end="00:05:55.039" style="s2">trotzdem fühlt sich im Herzen nicht gut</p>
+<p begin="00:05:52.639" end="00:05:56.160" style="s2">an also ich glaube unser Körper sagt uns</p>
+<p begin="00:05:55.039" end="00:05:58.400" style="s2">schon sehr</p>
+<p begin="00:05:56.160" end="00:06:01.280" style="s2">deutlich wenn wir auf die richtigen</p>
+<p begin="00:05:58.400" end="00:06:02.960" style="s2">Instanzen hören also z.B das</p>
+<p begin="00:06:01.280" end="00:06:05.639" style="s2">höhlenmenschenhirn also wir haben im</p>
+<p begin="00:06:02.960" end="00:06:07.360" style="s2">Hirn mehrere Schichten und in der Tiefe</p>
+<p begin="00:06:05.639" end="00:06:09.240" style="s2">ist das höhlenmenschenhirn das haben wir</p>
+<p begin="00:06:07.360" end="00:06:12.880" style="s2">mit den Höhlenmenschen gemeinsam und in</p>
+<p begin="00:06:09.240" end="00:06:14.800" style="s2">diesem Hirn sind die sag jetzt trotzdem</p>
+<p begin="00:06:12.880" end="00:06:17.720" style="s2">negativen also die niedrig schwingenden</p>
+<p begin="00:06:14.800" end="00:06:19.560" style="s2">Emotionen duraus okay weil sie uns ja</p>
+<p begin="00:06:17.720" end="00:06:23.520" style="s2">vor Gefahr</p>
+<p begin="00:06:19.560" end="00:06:25.880" style="s2">warnen aber die Gefahr vor der uns unser</p>
+<p begin="00:06:23.520" end="00:06:28.479" style="s2">höhlenmenschenhirn warnen möchte gibt&#39;s</p>
+<p begin="00:06:25.880" end="00:06:31.440" style="s2">ja nicht mehr es gibt kein sbelzahntiger</p>
+<p begin="00:06:28.479" end="00:06:34.800" style="s2">und keine andere Steinzeitmenschen ja</p>
+<p begin="00:06:31.440" end="00:06:38.240" style="s2">und all das eben all dieses Stress</p>
+<p begin="00:06:34.800" end="00:06:40.680" style="s2">Gehabe diese dieses Rückfallen auf den</p>
+<p begin="00:06:38.240" end="00:06:43.960" style="s2">höhlenmenschenmodus die Beraubung</p>
+<p begin="00:06:40.680" end="00:06:46.280" style="s2">unserer höheren mentalen Zentren aber</p>
+<p begin="00:06:43.960" end="00:06:48.199" style="s2">auch unseres Anschlusses eben weil wann</p>
+<p begin="00:06:46.280" end="00:06:50.240" style="s2">wir im höhlenmenschenmodus Schwingern</p>
+<p begin="00:06:48.199" end="00:06:52.599" style="s2">dann haben wir keinen Anschluss an</p>
+<p begin="00:06:50.240" end="00:06:54.360" style="s2">unsere geistigen Begleiter an die Quelle</p>
+<p begin="00:06:52.599" end="00:06:57.280" style="s2">an an Gott wie auch immer man nennen</p>
+<p begin="00:06:54.360" end="00:06:59.560" style="s2">möchte ja und da glaube ich ist wichtig</p>
+<p begin="00:06:57.280" end="00:07:02.840" style="s2">anzusetzen und das ist auch das was wir</p>
+<p begin="00:06:59.560" end="00:07:03.560" style="s2">tun können um uns quasi vorzubereiten</p>
+<p begin="00:07:02.840" end="00:07:07.599" style="s2">und</p>
+<p begin="00:07:03.560" end="00:07:09.440" style="s2">einzustimmen denn es gibt viele Menschen</p>
+<p begin="00:07:07.599" end="00:07:11.440" style="s2">mittlerweile ja was ist viele aber ich</p>
+<p begin="00:07:09.440" end="00:07:15.440" style="s2">glaube es gibt doch einige Menschen</p>
+<p begin="00:07:11.440" end="00:07:19.199" style="s2">viele Menschen die schon naschen auf 5D</p>
+<p begin="00:07:15.440" end="00:07:21.160" style="s2">also die bereits dort Besuche machen</p>
+<p begin="00:07:19.199" end="00:07:23.039" style="s2">zumindest ja also ich habe auch das</p>
+<p begin="00:07:21.160" end="00:07:25.080" style="s2">Gefühl dass ich manchmal wenn es mir</p>
+<p begin="00:07:23.039" end="00:07:27.720" style="s2">sehr gut geht und wenn ich wirklich mich</p>
+<p begin="00:07:25.080" end="00:07:30.039" style="s2">aus meinem Stress befreien konnte</p>
+<p begin="00:07:27.720" end="00:07:32.840" style="s2">einfach mich dort ein</p>
+<p begin="00:07:30.039" end="00:07:35.240" style="s2">und ich glaub unsere Aufgabe ist es eben</p>
+<p begin="00:07:32.840" end="00:07:37.440" style="s2">ohne jetzt die niedrig schwingenden</p>
+<p begin="00:07:35.240" end="00:07:40.440" style="s2">Emotionen zu leugnen oder zu</p>
+<p begin="00:07:37.440" end="00:07:43.319" style="s2">unterdrücken aber einfach danach zu</p>
+<p begin="00:07:40.440" end="00:07:45.759" style="s2">trachten in die Liebe zu kommen ja in</p>
+<p begin="00:07:43.319" end="00:07:49.879" style="s2">nennes in in Liebe sein oder in der</p>
+<p begin="00:07:45.759" end="00:07:52.440" style="s2">Liebe sein wenn wir z.B dankbar sind ja</p>
+<p begin="00:07:49.879" end="00:07:54.759" style="s2">wenn wir wertschätzen können wenn wir</p>
+<p begin="00:07:52.440" end="00:07:57.400" style="s2">eben all diese hochschwingenden</p>
+<p begin="00:07:54.759" end="00:08:00.199" style="s2">Emotionen uns zugänglich machen können</p>
+<p begin="00:07:57.400" end="00:08:03.199" style="s2">und es ist unsere ver worortung also wir</p>
+<p begin="00:08:00.199" end="00:08:04.520" style="s2">können durch eine bewusste Disziplin in</p>
+<p begin="00:08:03.199" end="00:08:06.919" style="s2">unseren</p>
+<p begin="00:08:04.520" end="00:08:10.479" style="s2">Gedanken unsere</p>
+<p begin="00:08:06.919" end="00:08:13.159" style="s2">Gefühlswelt Steuern ne und ich glaub das</p>
+<p begin="00:08:10.479" end="00:08:15.080" style="s2">ist zumindest mal ein guter Weg in</p>
+<p begin="00:08:13.159" end="00:08:18.440" style="s2">Richtung in die richtige</p>
+<p begin="00:08:15.080" end="00:08:20.680" style="s2">Richtung es gibt ja auch andere Begriffe</p>
+<p begin="00:08:18.440" end="00:08:23.400" style="s2">z.B die sind vielleicht schon länger</p>
+<p begin="00:08:20.680" end="00:08:25.960" style="s2">bekannt das goldene Zeitalter oder das</p>
+<p begin="00:08:23.400" end="00:08:28.280" style="s2">Wassermann Zeitalter das ist ja immer</p>
+<p begin="00:08:25.960" end="00:08:31.599" style="s2">wieder angekündigt worden würdest du</p>
+<p begin="00:08:28.280" end="00:08:34.120" style="s2">sagen es gibt also aus unserer</p>
+<p begin="00:08:31.599" end="00:08:37.680" style="s2">zeitlichen Sicht es gibt sozusagen eine</p>
+<p begin="00:08:34.120" end="00:08:40.599" style="s2">Deadline oder so oder sowas bis dieser</p>
+<p begin="00:08:37.680" end="00:08:43.599" style="s2">diese Verwandlung abgeschlossen</p>
+<p begin="00:08:40.599" end="00:08:45.640" style="s2">ist ja also Wassermann Zeitalter da</p>
+<p begin="00:08:43.599" end="00:08:48.360" style="s2">gibt&#39;s völlig verschiedene Angaben und</p>
+<p begin="00:08:45.640" end="00:08:50.120" style="s2">ich beschäftige mir seit bald 50 Jahren</p>
+<p begin="00:08:48.360" end="00:08:52.160" style="s2">mit der Astrologie und es gibt einen</p>
+<p begin="00:08:50.120" end="00:08:54.279" style="s2">Astrologen einen amerikanischen den ich</p>
+<p begin="00:08:52.160" end="00:08:57.160" style="s2">sehr schätze und der sagt das Wassermann</p>
+<p begin="00:08:54.279" end="00:09:00.560" style="s2">Zeitalter beginnt eigentlich erst in 200</p>
+<p begin="00:08:57.160" end="00:09:02.800" style="s2">Jahren oder so aber es ist ist richtig</p>
+<p begin="00:09:00.560" end="00:09:04.760" style="s2">also astrologisch gesehen Pluto geht</p>
+<p begin="00:09:02.800" end="00:09:06.760" style="s2">demnächst in den Wassermann und bleibt</p>
+<p begin="00:09:04.760" end="00:09:10.040" style="s2">dann für 40 Jahre dort und das ist</p>
+<p begin="00:09:06.760" end="00:09:11.839" style="s2">sicher eine Zeit ganz wichtige</p>
+<p begin="00:09:10.040" end="00:09:14.680" style="s2">transformationsplanet und es ist sicher</p>
+<p begin="00:09:11.839" end="00:09:18.000" style="s2">eine Zeit wo wir uns einschwingern ich</p>
+<p begin="00:09:14.680" end="00:09:20.640" style="s2">glaube auch nicht dass wir alle</p>
+<p begin="00:09:18.000" end="00:09:23.279" style="s2">zugleich aufsteigen ist auch wieder so</p>
+<p begin="00:09:20.640" end="00:09:25.240" style="s2">ein ein ein ein ein wertender Begriff es</p>
+<p begin="00:09:23.279" end="00:09:28.399" style="s2">ist einfach zwischen der dritten</p>
+<p begin="00:09:25.240" end="00:09:32.320" style="s2">Dimension vierten fünft ist einfach eine</p>
+<p begin="00:09:28.399" end="00:09:34.720" style="s2">eine Änderung sagen mal so ja und ich</p>
+<p begin="00:09:32.320" end="00:09:37.839" style="s2">glaube nicht dass wir kollektiv alle</p>
+<p begin="00:09:34.720" end="00:09:40.560" style="s2">gemeinsam gehen sondern ich glaube dass</p>
+<p begin="00:09:37.839" end="00:09:43.279" style="s2">eben einige schon drüben sind nicht nur</p>
+<p begin="00:09:40.560" end="00:09:46.720" style="s2">zu Besuch sondern wirklich schon die die</p>
+<p begin="00:09:43.279" end="00:09:47.600" style="s2">quas die Pioniere schon vorbereiten aber</p>
+<p begin="00:09:46.720" end="00:09:50.720" style="s2">je</p>
+<p begin="00:09:47.600" end="00:09:53.839" style="s2">mehr sich quasi öffnen für dieses</p>
+<p begin="00:09:50.720" end="00:09:56.240" style="s2">goldene Zeitalter umso leichter wird&#39;s</p>
+<p begin="00:09:53.839" end="00:10:00.839" style="s2">auch für die die nach Nachkommen also</p>
+<p begin="00:09:56.240" end="00:10:02.920" style="s2">ich glaub ein eine Deadline ein ein eine</p>
+<p begin="00:10:00.839" end="00:10:04.560" style="s2">Jahreszahl weiß ich nicht also aus</p>
+<p begin="00:10:02.920" end="00:10:06.720" style="s2">meiner Sicht gibt&#39;s die nicht aber es</p>
+<p begin="00:10:04.560" end="00:10:09.240" style="s2">ist sicher so dass wir bereits auf einem</p>
+<p begin="00:10:06.720" end="00:10:12.000" style="s2">guten Weg sind das glaube ich ganz stark</p>
+<p begin="00:10:09.240" end="00:10:18.440" style="s2">und auch wieder aus astrologischer Sicht</p>
+<p begin="00:10:12.000" end="00:10:21.680" style="s2">das heißt also das 2026 27 28 29 30 ist</p>
+<p begin="00:10:18.440" end="00:10:24.399" style="s2">also ganz was wichtiges schon geschafft</p>
+<p begin="00:10:21.680" end="00:10:27.240" style="s2">also ich glaube ich hoffe auch dass wir</p>
+<p begin="00:10:24.399" end="00:10:30.240" style="s2">so quasi das Schlimmste hinter uns haben</p>
+<p begin="00:10:27.240" end="00:10:31.880" style="s2">2023 war für uns sehr</p>
+<p begin="00:10:30.240" end="00:10:34.640" style="s2">anspruchsvoll</p>
+<p begin="00:10:31.880" end="00:10:37.279" style="s2">2024 wird nicht nur leicht aber es wird</p>
+<p begin="00:10:34.640" end="00:10:41.880" style="s2">leichter definitiv da bin ich ganz ganz</p>
+<p begin="00:10:37.279" end="00:10:44.360" style="s2">sicher und 25 26 wer man schon sehr</p>
+<p begin="00:10:41.880" end="00:10:47.600" style="s2">spüren dass ich da viel getan hat also</p>
+<p begin="00:10:44.360" end="00:10:50.440" style="s2">ich habe so das Gefühl dass immer mehr</p>
+<p begin="00:10:47.600" end="00:10:52.920" style="s2">immer öfter</p>
+<p begin="00:10:50.440" end="00:10:57.320" style="s2">quasi die Neue</p>
+<p begin="00:10:52.920" end="00:10:59.959" style="s2">Erde besuchen sich dort aufhalten dann W</p>
+<p begin="00:10:57.320" end="00:11:02.560" style="s2">also dieses hin und her Schwingern wird</p>
+<p begin="00:10:59.959" end="00:11:05.519" style="s2">glaube ich immer mehr für immer mehr</p>
+<p begin="00:11:02.560" end="00:11:08.519" style="s2">Menschen möglich werden ja und</p>
+<p begin="00:11:05.519" end="00:11:11.720" style="s2">äh ja je mehr wir in unserer Liebe sind</p>
+<p begin="00:11:08.519" end="00:11:13.839" style="s2">und da gehört z.B auch dazu dass wir</p>
+<p begin="00:11:11.720" end="00:11:17.680" style="s2">wenn wir eine Entscheidung zu treffen</p>
+<p begin="00:11:13.839" end="00:11:21.600" style="s2">haben uns fragen was würde die Liebe tun</p>
+<p begin="00:11:17.680" end="00:11:23.800" style="s2">ja oder wenn wir Menschen beurteilen</p>
+<p begin="00:11:21.600" end="00:11:26.279" style="s2">dass wir eher auf Seiten der</p>
+<p begin="00:11:23.800" end="00:11:29.920" style="s2">Wertschätzung sind oder dass wir auch</p>
+<p begin="00:11:26.279" end="00:11:33.519" style="s2">uns selbst gegenüber eher mög ichst</p>
+<p begin="00:11:29.920" end="00:11:35.880" style="s2">nicht so kritisch wie viele von uns sind</p>
+<p begin="00:11:33.519" end="00:11:39.320" style="s2">mit uns umgehen sondern eher nachsichtig</p>
+<p begin="00:11:35.880" end="00:11:43.040" style="s2">eher fürsorglich eher liebevoll ja also</p>
+<p begin="00:11:39.320" end="00:11:45.079" style="s2">in dieses Liebe leben ist ja in allen</p>
+<p begin="00:11:43.040" end="00:11:47.240" style="s2">Lebensbereichen und das ist ja nicht ich</p>
+<p begin="00:11:45.079" end="00:11:48.720" style="s2">weiß der Begriff ist leider abgelutscht</p>
+<p begin="00:11:47.240" end="00:11:51.040" style="s2">und viele können den schon nicht mehr</p>
+<p begin="00:11:48.720" end="00:11:54.680" style="s2">hören genauso wie den Begriff Gott aber</p>
+<p begin="00:11:51.040" end="00:11:58.200" style="s2">es ist nun mal gott ist Liebe und Liebe</p>
+<p begin="00:11:54.680" end="00:12:00.839" style="s2">ist das wo wir hingehen und wo wo auf</p>
+<p begin="00:11:58.200" end="00:12:03.279" style="s2">unser Herz hin möchte und es ist ja so</p>
+<p begin="00:12:00.839" end="00:12:05.800" style="s2">dass die Neue Erde ja bereits existiert</p>
+<p begin="00:12:03.279" end="00:12:08.279" style="s2">sie existiert erstens mal auf den</p>
+<p begin="00:12:05.800" end="00:12:10.639" style="s2">Zeitlinien die nicht in der Zukunft sind</p>
+<p begin="00:12:08.279" end="00:12:12.920" style="s2">sondern eben parallel schon existent</p>
+<p begin="00:12:10.639" end="00:12:16.480" style="s2">aber sie existiert vor allem in so</p>
+<p begin="00:12:12.920" end="00:12:20.320" style="s2">vielen Herzen ja also so viele Menschen</p>
+<p begin="00:12:16.480" end="00:12:23.279" style="s2">haben Sehnsucht nach dieser Erde wo eben</p>
+<p begin="00:12:20.320" end="00:12:25.800" style="s2">nicht mehr Hass und Polarität und</p>
+<p begin="00:12:23.279" end="00:12:29.079" style="s2">Widerstand herrscht und eben Stress</p>
+<p begin="00:12:25.800" end="00:12:31.920" style="s2">sondern in der wir miteinander</p>
+<p begin="00:12:29.079" end="00:12:33.920" style="s2">füreinander da sind ja das klingt so</p>
+<p begin="00:12:31.920" end="00:12:36.880" style="s2">romantisch aber ich glaube das ist in</p>
+<p begin="00:12:33.920" end="00:12:39.600" style="s2">uns allen quasi als Sehnsucht</p>
+<p begin="00:12:36.880" end="00:12:41.160" style="s2">eingepflanzt und so wie der kleine Prinz</p>
+<p begin="00:12:39.600" end="00:12:42.800" style="s2">in dem Buch</p>
+<p begin="00:12:41.160" end="00:12:45.560" style="s2">vom</p>
+<p begin="00:12:42.800" end="00:12:47.560" style="s2">sintexyperie sagt man sieht nur mit dem</p>
+<p begin="00:12:45.560" end="00:12:49.480" style="s2">Herzen gut ich glaube man hört nur mit</p>
+<p begin="00:12:47.560" end="00:12:51.959" style="s2">dem Herzen gut man entscheidet nur mit</p>
+<p begin="00:12:49.480" end="00:12:55.240" style="s2">dem Herzen gut also im Endeffekt unser</p>
+<p begin="00:12:51.959" end="00:12:57.360" style="s2">Herz nicht die Pumpe sondern der Teil in</p>
+<p begin="00:12:55.240" end="00:12:59.360" style="s2">uns der auch mit unserer Seele verbunden</p>
+<p begin="00:12:57.360" end="00:13:02.680" style="s2">ist führt uns</p>
+<p begin="00:12:59.360" end="00:13:05.480" style="s2">dahin und ich glaube also zumindest die</p>
+<p begin="00:13:02.680" end="00:13:09.120" style="s2">Mehrzahl der Menschen spürt genau im</p>
+<p begin="00:13:05.480" end="00:13:12.480" style="s2">Herzen was uns gut tut gab&#39;s</p>
+<p begin="00:13:09.120" end="00:13:14.360" style="s2">nicht ich würde sagen jedes Wesen hat</p>
+<p begin="00:13:12.480" end="00:13:17.160" style="s2">grundsätzlich die Fähigkeit das zu</p>
+<p begin="00:13:14.360" end="00:13:18.600" style="s2">spüren diesen Kontrast zwischen richtig</p>
+<p begin="00:13:17.160" end="00:13:21.040" style="s2">und falsch und Gut und Böse und so</p>
+<p begin="00:13:18.600" end="00:13:22.959" style="s2">weiter aber es kann glaube ich schon</p>
+<p begin="00:13:21.040" end="00:13:25.839" style="s2">sein dass man wenn man da eine gewisse</p>
+<p begin="00:13:22.959" end="00:13:28.839" style="s2">Schwelle nach unten mal unterschritten</p>
+<p begin="00:13:25.839" end="00:13:31.360" style="s2">hat dass ist dann ganz schwierig wird</p>
+<p begin="00:13:28.839" end="00:13:34.680" style="s2">oder fast mal unmöglich ist dass man das</p>
+<p begin="00:13:31.360" end="00:13:37.560" style="s2">noch spürt ja also also ich sprech von</p>
+<p begin="00:13:34.680" end="00:13:40.480" style="s2">von herzblockade ja herzpanzer also</p>
+<p begin="00:13:37.560" end="00:13:43.040" style="s2">viele haben einen Herz einen Panzer um</p>
+<p begin="00:13:40.480" end="00:13:45.079" style="s2">ihr Herz gelegt oft aus Verletzungen</p>
+<p begin="00:13:43.040" end="00:13:47.920" style="s2">also z.B bei Schwerverbrechern kann man</p>
+<p begin="00:13:45.079" end="00:13:50.759" style="s2">ja oft wirklich nachverfolgen warum ein</p>
+<p begin="00:13:47.920" end="00:13:53.320" style="s2">Mensch zum Schwerverbrecher wird</p>
+<p begin="00:13:50.759" end="00:13:56.720" style="s2">aber ich glaube wir alle so wie du auch</p>
+<p begin="00:13:53.320" end="00:13:59.199" style="s2">sagst wir alle können Zugang finden und</p>
+<p begin="00:13:56.720" end="00:14:03.000" style="s2">ich glaube eben es braucht braucht ja</p>
+<p begin="00:13:59.199" end="00:14:04.600" style="s2">nicht so viele wie wie wir oft glauben</p>
+<p begin="00:14:03.000" end="00:14:07.480" style="s2">also es gibt da so ein ganz</p>
+<p begin="00:14:04.600" end="00:14:11.079" style="s2">interessanten Prozentsatz das je mehr</p>
+<p begin="00:14:07.480" end="00:14:14.160" style="s2">Leute Erwachen quasi und ihr Herz öffnen</p>
+<p begin="00:14:11.079" end="00:14:16.600" style="s2">wenn man schon beim herzpanzer sind umso</p>
+<p begin="00:14:14.160" end="00:14:19.399" style="s2">leichter wird&#39;s auch für die anderen ne</p>
+<p begin="00:14:16.600" end="00:14:23.800" style="s2">da gibt&#39;s die doloris kenn diese drei</p>
+<p begin="00:14:19.399" end="00:14:26.639" style="s2">Phasen der der der die da hereinkommen</p>
+<p begin="00:14:23.800" end="00:14:28.800" style="s2">auf die Erde die da inkarnieren und da</p>
+<p begin="00:14:26.639" end="00:14:30.519" style="s2">gibt&#39;s die Pioniere und dann gibt&#39;s die</p>
+<p begin="00:14:28.800" end="00:14:32.839" style="s2">die die Energie halten und dann gibt&#39;s</p>
+<p begin="00:14:30.519" end="00:14:35.800" style="s2">die neuen Menschen die die jetzt die</p>
+<p begin="00:14:32.839" end="00:14:38.000" style="s2">Jungen die einfach das Ruder herumdrehen</p>
+<p begin="00:14:35.800" end="00:14:40.240" style="s2">aber die Pioniere also zu denen ich</p>
+<p begin="00:14:38.000" end="00:14:43.720" style="s2">wahrscheinlich in meinem Alter Gehör die</p>
+<p begin="00:14:40.240" end="00:14:46.399" style="s2">haben einfach die Vorarbeit geleistet ja</p>
+<p begin="00:14:43.720" end="00:14:50.240" style="s2">also wir haben auch sehr viel aus der</p>
+<p begin="00:14:46.399" end="00:14:53.040" style="s2">andenreihe quasi geputzt geklärt gelöst</p>
+<p begin="00:14:50.240" end="00:14:55.519" style="s2">geläutert befreit das war ganz wichtige</p>
+<p begin="00:14:53.040" end="00:14:57.680" style="s2">Aufgabe für uns und die nächsten</p>
+<p begin="00:14:55.519" end="00:14:59.560" style="s2">Generationen tun sich leicht also all</p>
+<p begin="00:14:57.680" end="00:15:02.199" style="s2">das ist ja eine</p>
+<p begin="00:14:59.560" end="00:15:05.079" style="s2">Vorbereitung auf die neue Erde ja also</p>
+<p begin="00:15:02.199" end="00:15:08.399" style="s2">z.B diese ganzen kriegstraumen ja und</p>
+<p begin="00:15:05.079" end="00:15:10.519" style="s2">das kann man energetisch lösen ja und</p>
+<p begin="00:15:08.399" end="00:15:13.160" style="s2">viele von uns machen sich dran und ich</p>
+<p begin="00:15:10.519" end="00:15:16.680" style="s2">glaube es gibt täglich mehr Menschen die</p>
+<p begin="00:15:13.160" end="00:15:19.240" style="s2">offen sind für Spiritualität und die</p>
+<p begin="00:15:16.680" end="00:15:21.480" style="s2">bereit sind auch umzudenken nicht die</p>
+<p begin="00:15:19.240" end="00:15:24.399" style="s2">ganz dunklen ja aber ich glaube auch</p>
+<p begin="00:15:21.480" end="00:15:27.000" style="s2">dass die irgendwann mal ja vielleicht</p>
+<p begin="00:15:24.399" end="00:15:30.680" style="s2">aufwachen oder kommen die auf einem</p>
+<p begin="00:15:27.000" end="00:15:32.160" style="s2">anderen Planeten dann äh wieder wieder</p>
+<p begin="00:15:30.680" end="00:15:35.759" style="s2">zu bewusst ich weiß es nicht aber</p>
+<p begin="00:15:32.160" end="00:15:36.680" style="s2">jedenfalls glaube ich dass da schon sehr</p>
+<p begin="00:15:35.759" end="00:15:39.560" style="s2">viel</p>
+<p begin="00:15:36.680" end="00:15:41.959" style="s2">Bewegung in die richtige Richtung ins</p>
+<p begin="00:15:39.560" end="00:15:43.639" style="s2">Licht geht und dass wir auf einem guten</p>
+<p begin="00:15:41.959" end="00:15:46.440" style="s2">Weg sind</p>
+<p begin="00:15:43.639" end="00:15:49.000" style="s2">ja wenn man jetzt davon ausgeht dass</p>
+<p begin="00:15:46.440" end="00:15:52.000" style="s2">diese Welt hier diese was wir als die</p>
+<p begin="00:15:49.000" end="00:15:54.759" style="s2">physische Welt bezeichnen sozusagen ein</p>
+<p begin="00:15:52.000" end="00:15:56.759" style="s2">Objektive eine objektive Welt also eine</p>
+<p begin="00:15:54.759" end="00:16:00.319" style="s2">Welt ist die man objektiv feststellen</p>
+<p begin="00:15:56.759" end="00:16:04.360" style="s2">kann was hier vor sich geht ja</p>
+<p begin="00:16:00.319" end="00:16:06.440" style="s2">ähm was würdest du sagen wie sieht&#39;s</p>
+<p begin="00:16:04.360" end="00:16:09.600" style="s2">dann in der Zukunft auf dieser Welt hier</p>
+<p begin="00:16:06.440" end="00:16:11.959" style="s2">aus gibt&#39;s dann hier beides das Gute und</p>
+<p begin="00:16:09.600" end="00:16:14.560" style="s2">das Böse das wurde auch schon im Zuge</p>
+<p begin="00:16:11.959" end="00:16:18.399" style="s2">außerkörperlicher Erfahrungen erwähnt</p>
+<p begin="00:16:14.560" end="00:16:22.839" style="s2">dass hier noch einige Zeit beides</p>
+<p begin="00:16:18.399" end="00:16:24.680" style="s2">koexistieren wird also das</p>
+<p begin="00:16:22.839" end="00:16:27.560" style="s2">knüpft an das an was ich vorhin gesagt</p>
+<p begin="00:16:24.680" end="00:16:31.600" style="s2">habe also ich glaube dass wir die</p>
+<p begin="00:16:27.560" end="00:16:33.519" style="s2">Pioniere äh immer wieder quasi zu Besuch</p>
+<p begin="00:16:31.600" end="00:16:36.959" style="s2">gehen und dann kann schon was passieren</p>
+<p begin="00:16:33.519" end="00:16:39.199" style="s2">dass uns zurückwirft ja ähm also ich</p>
+<p begin="00:16:36.959" end="00:16:41.759" style="s2">glaube nicht dass es so einen Schnitt</p>
+<p begin="00:16:39.199" end="00:16:44.279" style="s2">gibt also so wie du sagst der Deadline</p>
+<p begin="00:16:41.759" end="00:16:48.000" style="s2">wo wir dann ganz drüben sind also ich</p>
+<p begin="00:16:44.279" end="00:16:51.279" style="s2">glaube das wird so ein ein ein ja hin</p>
+<p begin="00:16:48.000" end="00:16:53.920" style="s2">und her sein eine Weile ja bis wir die</p>
+<p begin="00:16:51.279" end="00:16:56.759" style="s2">restlichen bis wir den Diamanten fein</p>
+<p begin="00:16:53.920" end="00:17:01.480" style="s2">geschliffen und poliert haben und dort</p>
+<p begin="00:16:56.759" end="00:17:03.480" style="s2">wo ich quasi dann die Neue Erde sehe und</p>
+<p begin="00:17:01.480" end="00:17:05.079" style="s2">spüre vor allem also bei mir ist es vor</p>
+<p begin="00:17:03.480" end="00:17:09.520" style="s2">allem ein spüren ich habe natürlich</p>
+<p begin="00:17:05.079" end="00:17:11.480" style="s2">Bilder auch dazu aber das Spüren dort</p>
+<p begin="00:17:09.520" end="00:17:14.000" style="s2">gibt&#39;s dann auch die Polarität nicht</p>
+<p begin="00:17:11.480" end="00:17:16.480" style="s2">mehr ja weil die Polarität ist eben</p>
+<p begin="00:17:14.000" end="00:17:19.559" style="s2">diese spezielle Erfahrung auf der Erde</p>
+<p begin="00:17:16.480" end="00:17:21.880" style="s2">auf der 3derde und die ist wertvoll ja</p>
+<p begin="00:17:19.559" end="00:17:25.439" style="s2">weil wir haben uns ja alle bewusst dafür</p>
+<p begin="00:17:21.880" end="00:17:29.000" style="s2">entschieden aber ich glaube wenn wir mal</p>
+<p begin="00:17:25.439" end="00:17:32.880" style="s2">also so quasi ganz drüben angekommen s</p>
+<p begin="00:17:29.000" end="00:17:34.120" style="s2">weil uns nichts mehr zurückwirft</p>
+<p begin="00:17:32.880" end="00:17:36.240" style="s2">dann glaube ich brauchen wir die</p>
+<p begin="00:17:34.120" end="00:17:38.679" style="s2">Polarität nicht mehr und ich glaube auch</p>
+<p begin="00:17:36.240" end="00:17:41.360" style="s2">nicht dass es uns langweilig wird dann</p>
+<p begin="00:17:38.679" end="00:17:46.160" style="s2">gibt&#39;s einfach ein ein Miteinander ein</p>
+<p begin="00:17:41.360" end="00:17:47.880" style="s2">füreinander ein ein Hand in Hand</p>
+<p begin="00:17:46.160" end="00:17:50.880" style="s2">einfach</p>
+<p begin="00:17:47.880" end="00:17:53.799" style="s2">manifestieren und zwar das Potential in</p>
+<p begin="00:17:50.880" end="00:17:57.400" style="s2">uns weil jeder von uns ist ein Geschenk</p>
+<p begin="00:17:53.799" end="00:18:00.240" style="s2">aber das Problem ist dass in dieser</p>
+<p begin="00:17:57.400" end="00:18:03.240" style="s2">Reduktion der dritten Dimension die</p>
+<p begin="00:18:00.240" end="00:18:05.080" style="s2">meisten von uns ihr Potenzial ja gar</p>
+<p begin="00:18:03.240" end="00:18:07.840" style="s2">nicht erkennen aber dann auch gar nicht</p>
+<p begin="00:18:05.080" end="00:18:11.400" style="s2">entfalten können also durch diese</p>
+<p begin="00:18:07.840" end="00:18:13.159" style="s2">Reduktion auch in in in der Negativität</p>
+<p begin="00:18:11.400" end="00:18:15.640" style="s2">eben im Stress ich komme immer wieder</p>
+<p begin="00:18:13.159" end="00:18:18.320" style="s2">auf dem Stress zurück leider Gottes aber</p>
+<p begin="00:18:15.640" end="00:18:22.480" style="s2">das ist unsere große KUS und durch</p>
+<p begin="00:18:18.320" end="00:18:24.440" style="s2">diesen Stress können wir dieses Potenial</p>
+<p begin="00:18:22.480" end="00:18:27.280" style="s2">das in uns schlummert überhaupt nicht</p>
+<p begin="00:18:24.440" end="00:18:30.480" style="s2">entfalten und da genau darum geht&#39;s aber</p>
+<p begin="00:18:27.280" end="00:18:32.840" style="s2">ja in der in der ne Erde wir wir haben</p>
+<p begin="00:18:30.480" end="00:18:34.760" style="s2">so riesen auch z.B auf hirnebene wir</p>
+<p begin="00:18:32.840" end="00:18:38.200" style="s2">haben ja viel hätten ja viel mehr</p>
+<p begin="00:18:34.760" end="00:18:41.120" style="s2">Potenzial zu Verfügung und das wird dann</p>
+<p begin="00:18:38.200" end="00:18:44.919" style="s2">frei das wird dann wirklich frei</p>
+<p begin="00:18:41.120" end="00:18:48.000" style="s2">aufzublühen und ich glaube dann brauchen</p>
+<p begin="00:18:44.919" end="00:18:50.919" style="s2">wir diese Negativität nicht mehr weil</p>
+<p begin="00:18:48.000" end="00:18:53.720" style="s2">man einfach erkannt haben dass das ist</p>
+<p begin="00:18:50.919" end="00:18:54.880" style="s2">auch ohne ganz gut geht also ich hab ich</p>
+<p begin="00:18:53.720" end="00:18:58.880" style="s2">hab</p>
+<p begin="00:18:54.880" end="00:19:00.880" style="s2">da wie gesagt es ist ein übergangsstad</p>
+<p begin="00:18:58.880" end="00:19:02.919" style="s2">aber ich glaube dann wenn wir wirklich</p>
+<p begin="00:19:00.880" end="00:19:07.400" style="s2">angekommen sind und</p>
+<p begin="00:19:02.919" end="00:19:09.360" style="s2">bleiben dann brauchen wir die das dunkle</p>
+<p begin="00:19:07.400" end="00:19:11.960" style="s2">die Dunkelheit man ja vielleicht</p>
+<p begin="00:19:09.360" end="00:19:13.880" style="s2">Dunkelheit im Gegensatz zu Licht um um</p>
+<p begin="00:19:11.960" end="00:19:15.320" style="s2">schlafen zu können aber das dunkle was</p>
+<p begin="00:19:13.880" end="00:19:17.480" style="s2">du meinst glaube ich brauchen wir dann</p>
+<p begin="00:19:15.320" end="00:19:19.240" style="s2">nicht mehr es geht ja auch dann noch</p>
+<p begin="00:19:17.480" end="00:19:21.159" style="s2">weiter die fünfte Dimension ist ja nicht</p>
+<p begin="00:19:19.240" end="00:19:22.600" style="s2">die letzte ja wir wir schwingen uns ja</p>
+<p begin="00:19:21.159" end="00:19:25.280" style="s2">immer höher</p>
+<p begin="00:19:22.600" end="00:19:27.240" style="s2">ja und aus verschiedenen Quellen da</p>
+<p begin="00:19:25.280" end="00:19:30.440" style="s2">kommen ja doch auch immer wieder so</p>
+<p begin="00:19:27.240" end="00:19:33.080" style="s2">Andeutungen dass es doch so eine Art</p>
+<p begin="00:19:30.440" end="00:19:38.400" style="s2">Deadline gibt wie z.B da gibt&#39;s den</p>
+<p begin="00:19:33.080" end="00:19:41.679" style="s2">Begriff der Entrückung oder</p>
+<p begin="00:19:38.400" end="00:19:43.240" style="s2">bestimmte ich sag mal Wahrsager wie z.B</p>
+<p begin="00:19:41.679" end="00:19:45.919" style="s2">al irlmeier die haben auch diese</p>
+<p begin="00:19:43.240" end="00:19:49.280" style="s2">dreidägige finstnis erwähnt</p>
+<p begin="00:19:45.919" end="00:19:51.640" style="s2">und da schwingen oft so Andeutungen mit</p>
+<p begin="00:19:49.280" end="00:19:54.200" style="s2">dass es dass es</p>
+<p begin="00:19:51.640" end="00:19:57.320" style="s2">eben ein Teil der Menschheit sozusagen</p>
+<p begin="00:19:54.200" end="00:20:00.600" style="s2">den Aufstieg nicht schafft und dass dass</p>
+<p begin="00:19:57.320" end="00:20:02.640" style="s2">das dann mal eine Zeitlang so bleibt</p>
+<p begin="00:20:00.600" end="00:20:05.840" style="s2">sozusagen was hältst du von solchen</p>
+<p begin="00:20:02.640" end="00:20:08.360" style="s2">Aussagen also soweit ich weiß wurde IRL</p>
+<p begin="00:20:05.840" end="00:20:10.559" style="s2">Meer schon sehr oft widerlegt also</p>
+<p begin="00:20:08.360" end="00:20:13.120" style="s2">geradeade von ihm habe ich gehört da</p>
+<p begin="00:20:10.559" end="00:20:15.600" style="s2">gibt&#39;s also andere Wahrsager die das</p>
+<p begin="00:20:13.120" end="00:20:17.480" style="s2">ganz anders sehen und bei den Wahrsagern</p>
+<p begin="00:20:15.600" end="00:20:20.200" style="s2">ist ja immer so dass die das erst no aus</p>
+<p begin="00:20:17.480" end="00:20:23.520" style="s2">ihrer Zeit und aus ihrem Filter ja ich</p>
+<p begin="00:20:20.200" end="00:20:26.440" style="s2">meine jeder Wahrsager hat einen Filter</p>
+<p begin="00:20:23.520" end="00:20:27.799" style="s2">und das mit der dreitägigen Dunkelheit</p>
+<p begin="00:20:26.440" end="00:20:29.960" style="s2">ist auch so eine Geschichte da gibt&#39;s</p>
+<p begin="00:20:27.799" end="00:20:32.480" style="s2">auch wiederlegungen also ich kann ich</p>
+<p begin="00:20:29.960" end="00:20:34.919" style="s2">habe ja am Anfang gesagt das ist meine</p>
+<p begin="00:20:32.480" end="00:20:36.520" style="s2">Sichtweise also ich glaube daran nicht</p>
+<p begin="00:20:34.919" end="00:20:39.080" style="s2">da gibt&#39;s auch die Geschichte mit dem</p>
+<p begin="00:20:36.520" end="00:20:42.880" style="s2">Polsprung ja da ist der Dieter bröers</p>
+<p begin="00:20:39.080" end="00:20:45.039" style="s2">ganz stark ähm aber da gibt&#39;s auch</p>
+<p begin="00:20:42.880" end="00:20:48.320" style="s2">Meinungen die dann sagen nein der kommt</p>
+<p begin="00:20:45.039" end="00:20:52.159" style="s2">nicht den haben wir also quasi</p>
+<p begin="00:20:48.320" end="00:20:54.400" style="s2">übersprungen wie gesagt also aus meinem</p>
+<p begin="00:20:52.159" end="00:20:57.280" style="s2">Gefühl nach gehen wir in die richtige</p>
+<p begin="00:20:54.400" end="00:21:01.679" style="s2">Richtung es wird sicher Seelen geben die</p>
+<p begin="00:20:57.280" end="00:21:04.559" style="s2">die entscheiden zu gehen und die für</p>
+<p begin="00:21:01.679" end="00:21:07.480" style="s2">diesen Aufstieg nicht bereit sind klar</p>
+<p begin="00:21:04.559" end="00:21:09.799" style="s2">aber es ist also ich glaube auf</p>
+<p begin="00:21:07.480" end="00:21:12.480" style="s2">Seelenebene ist es unser aller</p>
+<p begin="00:21:09.799" end="00:21:14.840" style="s2">Entscheidung ob wir quasi noch Runden</p>
+<p begin="00:21:12.480" end="00:21:16.640" style="s2">drehen in der Polarität also noch mal</p>
+<p begin="00:21:14.840" end="00:21:18.279" style="s2">inkarnieren und und noch einmal diese</p>
+<p begin="00:21:16.640" end="00:21:20.520" style="s2">ganzen Erfahrungen machen</p>
+<p begin="00:21:18.279" end="00:21:22.640" style="s2">Kriegserfahrungen z.B auch ich glaube</p>
+<p begin="00:21:20.520" end="00:21:24.559" style="s2">dass wir alle irgendwann</p>
+<p begin="00:21:22.640" end="00:21:27.240" style="s2">Kriegserfahrungen gemacht haben sowohl</p>
+<p begin="00:21:24.559" end="00:21:29.480" style="s2">als Täter als auch als Opfer ja weil es</p>
+<p begin="00:21:27.240" end="00:21:32.279" style="s2">einfach zu Seelenentwicklung offenbar</p>
+<p begin="00:21:29.480" end="00:21:35.240" style="s2">dazu kommt oder dass wir einfach uns aus</p>
+<p begin="00:21:32.279" end="00:21:38.320" style="s2">der aus der akrascha Chronik quasi</p>
+<p begin="00:21:35.240" end="00:21:40.159" style="s2">Erfahrungen Leihen von anderen ja also</p>
+<p begin="00:21:38.320" end="00:21:42.440" style="s2">alles was wir erfahren speisen wir ja</p>
+<p begin="00:21:40.159" end="00:21:45.279" style="s2">ein in die Akas Chronik und da gibt&#39;s</p>
+<p begin="00:21:42.440" end="00:21:47.080" style="s2">eben Meinungen die sagen ja also wir</p>
+<p begin="00:21:45.279" end="00:21:49.400" style="s2">müssen nicht alles selber erleben</p>
+<p begin="00:21:47.080" end="00:21:53.840" style="s2">sondern manches können wir uns quasi als</p>
+<p begin="00:21:49.400" end="00:21:56.279" style="s2">Prägungen mitnehmen ne aber ich glaube</p>
+<p begin="00:21:53.840" end="00:21:58.679" style="s2">eben da gibt&#39;s einige die sagen nein ich</p>
+<p begin="00:21:56.279" end="00:22:01.279" style="s2">dreh noch ein paar Runden ist auch okay</p>
+<p begin="00:21:58.679" end="00:22:04.480" style="s2">aber die die wirklich sagen ich möchte</p>
+<p begin="00:22:01.279" end="00:22:06.880" style="s2">jetzt weiter in die nächsten Dimensionen</p>
+<p begin="00:22:04.480" end="00:22:08.679" style="s2">mich bewegen haben die Möglichkeit und</p>
+<p begin="00:22:06.880" end="00:22:13.120" style="s2">ich glaub für die braucht&#39;s auch keine</p>
+<p begin="00:22:08.679" end="00:22:15.240" style="s2">drei Tage Dunkelheit also ja aus meiner</p>
+<p begin="00:22:13.120" end="00:22:17.960" style="s2">Sicht auch die Geschichte mit dem</p>
+<p begin="00:22:15.240" end="00:22:21.720" style="s2">dritten Weltkrieg ja da gibt&#39;s ja immer</p>
+<p begin="00:22:17.960" end="00:22:24.480" style="s2">verschiedene Sichtweisen und es gibt ja</p>
+<p begin="00:22:21.720" end="00:22:26.120" style="s2">verschiedene timelines also ich glaube</p>
+<p begin="00:22:24.480" end="00:22:28.279" style="s2">auch dass wir entscheiden können und</p>
+<p begin="00:22:26.120" end="00:22:30.480" style="s2">zwar jetzt nicht nur se im Kopf sondern</p>
+<p begin="00:22:28.279" end="00:22:32.240" style="s2">durch unsere Ausstrahlung ja also wir</p>
+<p begin="00:22:30.480" end="00:22:34.880" style="s2">treffen Entscheidungen ja einerseits</p>
+<p begin="00:22:32.240" end="00:22:36.919" style="s2">indem wir eine Wahl treffen vor allem</p>
+<p begin="00:22:34.880" end="00:22:39.679" style="s2">aber durch unsere Ausstrahlung die uns</p>
+<p begin="00:22:36.919" end="00:22:41.840" style="s2">resonant macht ja da gibt&#39;s diese</p>
+<p begin="00:22:39.679" end="00:22:44.440" style="s2">angebotswellen und die echowellen da</p>
+<p begin="00:22:41.840" end="00:22:47.279" style="s2">gibt&#39;s ja Quantenphysiker Joe grer sagt</p>
+<p begin="00:22:44.440" end="00:22:50.840" style="s2">das ja also wir schicken angebotswellen</p>
+<p begin="00:22:47.279" end="00:22:53.120" style="s2">in die Zukunft und dort wo echowellen zu</p>
+<p begin="00:22:50.840" end="00:22:56.559" style="s2">unseren angebotswellen passen und in</p>
+<p begin="00:22:53.120" end="00:22:58.200" style="s2">Resonanz Tritten treten kommt z</p>
+<p begin="00:22:56.559" end="00:23:02.320" style="s2">ereigniswahrscheinlichkeit also wir</p>
+<p begin="00:22:58.200" end="00:23:03.960" style="s2">wählen über unsere Ausstrahlung die oder</p>
+<p begin="00:23:02.320" end="00:23:06.360" style="s2">oder sagen wir vielleicht auch über</p>
+<p begin="00:23:03.960" end="00:23:08.400" style="s2">unsere Gefühle und über unsere</p>
+<p begin="00:23:06.360" end="00:23:11.960" style="s2">Gemütszustände genau das ist ja das was</p>
+<p begin="00:23:08.400" end="00:23:14.600" style="s2">wir ausstrahlen über unser Herz fät</p>
+<p begin="00:23:11.960" end="00:23:16.840" style="s2">genau das ist das was uns resonan macht</p>
+<p begin="00:23:14.600" end="00:23:18.799" style="s2">ja manche sprechen da vom Gesetz der</p>
+<p begin="00:23:16.840" end="00:23:22.799" style="s2">Anziehung was du vorhin auch erwähnt</p>
+<p begin="00:23:18.799" end="00:23:25.799" style="s2">hast diese resonanzsache mhm genau</p>
+<p begin="00:23:22.799" end="00:23:27.960" style="s2">Gesetz der Resonanz macht uns mit der</p>
+<p begin="00:23:25.799" end="00:23:30.760" style="s2">also wir alle haben immer verschiedene</p>
+<p begin="00:23:27.960" end="00:23:32.159" style="s2">eine Zukünfte zur zur Wahl ja ich kann</p>
+<p begin="00:23:30.760" end="00:23:34.200" style="s2">in jedem Moment kann ich mich</p>
+<p begin="00:23:32.159" end="00:23:37.039" style="s2">entscheiden mache ich das oder mache ich</p>
+<p begin="00:23:34.200" end="00:23:39.640" style="s2">das das ist die eine äh die eine</p>
+<p begin="00:23:37.039" end="00:23:41.559" style="s2">Möglichkeit mich für eine Zukunft zu</p>
+<p begin="00:23:39.640" end="00:23:43.520" style="s2">entscheiden aber für wichtiger ist eben</p>
+<p begin="00:23:41.559" end="00:23:46.080" style="s2">diese so wie du sagst die Gefühle die</p>
+<p begin="00:23:43.520" end="00:23:48.760" style="s2">Einstellung also all das was wir über</p>
+<p begin="00:23:46.080" end="00:23:51.080" style="s2">unser Herzfeld ausstrahlen und das</p>
+<p begin="00:23:48.760" end="00:23:53.720" style="s2">Herzfeld wissen wir ja seit der hartmth</p>
+<p begin="00:23:51.080" end="00:23:56.840" style="s2">Institute Forschung dass das Herzfeld</p>
+<p begin="00:23:53.720" end="00:24:00.679" style="s2">viel stärker ist als das Feld um unser</p>
+<p begin="00:23:56.840" end="00:24:03.559" style="s2">Hirn also Gefühle Emotionen sind viel</p>
+<p begin="00:24:00.679" end="00:24:06.320" style="s2">stärker wirksam magnetisch eben im Sinne</p>
+<p begin="00:24:03.559" end="00:24:08.400" style="s2">des resonanzgesetzes als unsere Gedanken</p>
+<p begin="00:24:06.320" end="00:24:10.159" style="s2">ja das heißt ein ein Gedanke allein</p>
+<p begin="00:24:08.400" end="00:24:12.559" style="s2">genügt nicht sondern es wichtig ist zu</p>
+<p begin="00:24:10.159" end="00:24:14.840" style="s2">fühlen und darum finde ich so schön wenn</p>
+<p begin="00:24:12.559" end="00:24:17.760" style="s2">wir uns im Herzen quasi immer wieder</p>
+<p begin="00:24:14.840" end="00:24:21.840" style="s2">Einfühlen in die Neue Erde weil damit</p>
+<p begin="00:24:17.760" end="00:24:23.600" style="s2">verwirklichen wir sie ja ja und das ist</p>
+<p begin="00:24:21.840" end="00:24:26.799" style="s2">glaube ich auch so ein wichtiger Punkt</p>
+<p begin="00:24:23.600" end="00:24:30.440" style="s2">weil du das ansprichst gehirnh hererz</p>
+<p begin="00:24:26.799" end="00:24:32.000" style="s2">ähm also gerade wenn man so einen Kanal</p>
+<p begin="00:24:30.440" end="00:24:34.720" style="s2">betreibt</p>
+<p begin="00:24:32.000" end="00:24:37.320" style="s2">und und Rückmeldungen bekommt also das</p>
+<p begin="00:24:34.720" end="00:24:39.159" style="s2">zeigt mir eben schon diese Schwierigkeit</p>
+<p begin="00:24:37.320" end="00:24:41.720" style="s2">man kann schnell mal intellektuell</p>
+<p begin="00:24:39.159" end="00:24:44.720" style="s2">spirituell sein während das Herz aber</p>
+<p begin="00:24:41.720" end="00:24:46.720" style="s2">noch gar nicht wirklich dabei ist mM ja</p>
+<p begin="00:24:44.720" end="00:24:49.159" style="s2">das ist das was sie vorhin angesprochen</p>
+<p begin="00:24:46.720" end="00:24:52.000" style="s2">hab die Wertung ja also ein Mensch der</p>
+<p begin="00:24:49.159" end="00:24:54.399" style="s2">der wirklich spirituell erwacht ist</p>
+<p begin="00:24:52.000" end="00:24:56.360" style="s2">wertet nicht mehr sondern der sagt das</p>
+<p begin="00:24:54.399" end="00:24:58.960" style="s2">ist deine Meinung das ist meine Meinung</p>
+<p begin="00:24:56.360" end="00:25:02.320" style="s2">die dürfen nebeneinander es ist ja auch</p>
+<p begin="00:24:58.960" end="00:25:04.679" style="s2">dieses von diesem entweder oder geht&#39;s</p>
+<p begin="00:25:02.320" end="00:25:07.440" style="s2">in der fünften Dimension in das sowohl</p>
+<p begin="00:25:04.679" end="00:25:09.559" style="s2">als auch ja da gibt so viele Wahrheiten</p>
+<p begin="00:25:07.440" end="00:25:11.760" style="s2">und es gibt so viele Zeitlinien ich gaub</p>
+<p begin="00:25:09.559" end="00:25:14.760" style="s2">gar nicht dass es eine neue Erde gibt ja</p>
+<p begin="00:25:11.760" end="00:25:18.320" style="s2">sondern es gibt sehr viele verschiedene</p>
+<p begin="00:25:14.760" end="00:25:20.120" style="s2">und dort wo sich diese also unsere neuen</p>
+<p begin="00:25:18.320" end="00:25:22.600" style="s2">Erden überschneiden so wie in der</p>
+<p begin="00:25:20.120" end="00:25:25.000" style="s2">Mengenlehre ja dort werden wir einander</p>
+<p begin="00:25:22.600" end="00:25:28.039" style="s2">begegnen oder D begegnen wir einander</p>
+<p begin="00:25:25.000" end="00:25:31.000" style="s2">gibt ja ke Zukunft ja aber es richtig</p>
+<p begin="00:25:28.039" end="00:25:33.039" style="s2">Wertung ist etwas was eindeutig und es</p>
+<p begin="00:25:31.000" end="00:25:34.960" style="s2">ich muss ehrlich sagen es passiert mir</p>
+<p begin="00:25:33.039" end="00:25:37.440" style="s2">auch noch obwohl ich so wirklich drauf</p>
+<p begin="00:25:34.960" end="00:25:40.520" style="s2">achte ja aber das ist das wo ich sag ich</p>
+<p begin="00:25:37.440" end="00:25:43.279" style="s2">bin oft wirklich 5D schon unterwegs ja</p>
+<p begin="00:25:40.520" end="00:25:46.559" style="s2">dann passiert irgendetwas wo</p>
+<p begin="00:25:43.279" end="00:25:49.200" style="s2">unser Stressor und genau das ist es ja</p>
+<p begin="00:25:46.559" end="00:25:51.840" style="s2">in die Wertung geht ja und dann sind wir</p>
+<p begin="00:25:49.200" end="00:25:55.120" style="s2">schon wieder auf 3D zurück also das ist</p>
+<p begin="00:25:51.840" end="00:25:58.039" style="s2">genau diese Phase ja und also im wenn</p>
+<p begin="00:25:55.120" end="00:26:00.720" style="s2">wir ehrlich sind passiert uns allen</p>
+<p begin="00:25:58.039" end="00:26:02.720" style="s2">zwischendurch aber immer weniger und das</p>
+<p begin="00:26:00.720" end="00:26:04.279" style="s2">ist das wo wo ich dann immer ganz</p>
+<p begin="00:26:02.720" end="00:26:06.279" style="s2">dankbar bin also ich bin dann nicht</p>
+<p begin="00:26:04.279" end="00:26:09.840" style="s2">stolz sondern ich bin wirklich dankbar</p>
+<p begin="00:26:06.279" end="00:26:12.880" style="s2">wenn es mir gelingt etwas was ich früher</p>
+<p begin="00:26:09.840" end="00:26:16.240" style="s2">sofort wo ich sofort getriggert worden</p>
+<p begin="00:26:12.880" end="00:26:18.159" style="s2">bin ja und sofort explodiert bin</p>
+<p begin="00:26:16.240" end="00:26:20.600" style="s2">wo ich jetzt gelasten nehmen kann und</p>
+<p begin="00:26:18.159" end="00:26:23.159" style="s2">sagen ja man kann so oder so sehen ja es</p>
+<p begin="00:26:20.600" end="00:26:25.279" style="s2">gibt ja die Geschicht mit dem Elefanten</p>
+<p begin="00:26:23.159" end="00:26:26.960" style="s2">fünf blinde beschreiben einen Elefanten</p>
+<p begin="00:26:25.279" end="00:26:30.640" style="s2">ja und jeder beschreibt was anderes ja</p>
+<p begin="00:26:26.960" end="00:26:33.200" style="s2">aber ist alles der Elefant also wir alle</p>
+<p begin="00:26:30.640" end="00:26:36.039" style="s2">dürfen wenn wir die anderen lassen und</p>
+<p begin="00:26:33.200" end="00:26:38.240" style="s2">das istimmer das ja tu einem anderen</p>
+<p begin="00:26:36.039" end="00:26:40.440" style="s2">nicht das an was Du nicht möchtest dass</p>
+<p begin="00:26:38.240" end="00:26:42.760" style="s2">man dir antut wobei ich glaube es ist</p>
+<p begin="00:26:40.440" end="00:26:46.640" style="s2">schon ein Problem für viele gerade auch</p>
+<p begin="00:26:42.760" end="00:26:48.640" style="s2">die sich mit dieser Thematik befassen</p>
+<p begin="00:26:46.640" end="00:26:50.720" style="s2">dass man überhaupt nicht bewertet also</p>
+<p begin="00:26:48.640" end="00:26:52.480" style="s2">ich glaube wird schon sagen dass es</p>
+<p begin="00:26:50.720" end="00:26:54.720" style="s2">wichtig ist dass man das Schlechte</p>
+<p begin="00:26:52.480" end="00:26:56.679" style="s2">erkennt und ich stelle das immer wieder</p>
+<p begin="00:26:54.720" end="00:26:59.360" style="s2">fest eben was ich vorhin angesprochen</p>
+<p begin="00:26:56.679" end="00:27:00.720" style="s2">habe einerseits spirituelle oder</p>
+<p begin="00:26:59.360" end="00:27:03.399" style="s2">Menschen die sich damit befassen die</p>
+<p begin="00:27:00.720" end="00:27:06.559" style="s2">lernen ja nicht werten und dann kaum ist</p>
+<p begin="00:27:03.399" end="00:27:08.679" style="s2">irgendwas z.B was politisches oder Krieg</p>
+<p begin="00:27:06.559" end="00:27:10.440" style="s2">dann sind sie voll im werten weil das</p>
+<p begin="00:27:08.679" end="00:27:12.760" style="s2">glaube ich was ist was viele nicht so</p>
+<p begin="00:27:10.440" end="00:27:15.440" style="s2">auf die Reihe bekommen einerseits soll</p>
+<p begin="00:27:12.760" end="00:27:17.600" style="s2">man nicht werten andererseits sind doch</p>
+<p begin="00:27:15.440" end="00:27:20.600" style="s2">diese diese Trigger und diese Emotionen</p>
+<p begin="00:27:17.600" end="00:27:22.679" style="s2">da also also meiner Erfahrung nach</p>
+<p begin="00:27:20.600" end="00:27:26.080" style="s2">geht&#39;s glaube ich eher darum dass man</p>
+<p begin="00:27:22.679" end="00:27:28.480" style="s2">schon schlechtes erkennt aber dass man</p>
+<p begin="00:27:26.080" end="00:27:30.360" style="s2">eben nicht so in den has oder in die</p>
+<p begin="00:27:28.480" end="00:27:33.039" style="s2">Verurteilung hineinkommt auch die</p>
+<p begin="00:27:30.360" end="00:27:34.880" style="s2">Wertung nicht werten ja also wenn das</p>
+<p begin="00:27:33.039" end="00:27:38.000" style="s2">ist so wichtig ja wenn wenn mich etwas</p>
+<p begin="00:27:34.880" end="00:27:40.120" style="s2">in eine negative niedrig schwingende</p>
+<p begin="00:27:38.000" end="00:27:42.320" style="s2">Emotion versetzt und das passiert mir</p>
+<p begin="00:27:40.120" end="00:27:45.320" style="s2">ich bin noch lange nicht erleuchtet ja</p>
+<p begin="00:27:42.320" end="00:27:47.240" style="s2">dann ist aber das was anders ist zu</p>
+<p begin="00:27:45.320" end="00:27:49.880" style="s2">früher früher habe ich das dann auch</p>
+<p begin="00:27:47.240" end="00:27:52.320" style="s2">noch bewertet ja und jetzt sage ich ja</p>
+<p begin="00:27:49.880" end="00:27:54.880" style="s2">es ist mir passiert ja weil und ich weiß</p>
+<p begin="00:27:52.320" end="00:27:57.000" style="s2">ja ich meine ich habe Hirnphysiologie</p>
+<p begin="00:27:54.880" end="00:27:59.480" style="s2">studiert habe was für Hirne hier dass</p>
+<p begin="00:27:57.000" end="00:28:01.799" style="s2">mich si damit auseinandergesetzt</p>
+<p begin="00:27:59.480" end="00:28:05.039" style="s2">zwischen den Ohren sitzt unser größter</p>
+<p begin="00:28:01.799" end="00:28:07.880" style="s2">Feind ja weil da eben sehr viel</p>
+<p begin="00:28:05.039" end="00:28:09.519" style="s2">äh destruktives gespeichert ist sagen</p>
+<p begin="00:28:07.880" end="00:28:12.440" style="s2">mal so ja ich will kann nicht sagen</p>
+<p begin="00:28:09.519" end="00:28:15.000" style="s2">negative das was uns herunterzieht ja</p>
+<p begin="00:28:12.440" end="00:28:19.000" style="s2">und die Mutter die ihr Kind schützen</p>
+<p begin="00:28:15.000" end="00:28:22.360" style="s2">möchte glaube ich kann ihr Kind besser</p>
+<p begin="00:28:19.000" end="00:28:24.480" style="s2">schützen wenn sie im Moment nicht wertet</p>
+<p begin="00:28:22.360" end="00:28:26.480" style="s2">sondern erkennt Moment da ist eine</p>
+<p begin="00:28:24.480" end="00:28:29.279" style="s2">Gefahr was kann ich machen um das Kind</p>
+<p begin="00:28:26.480" end="00:28:31.080" style="s2">zu schützen ja weil wenn sie wenn sie w</p>
+<p begin="00:28:29.279" end="00:28:33.080" style="s2">also weißt du was ich meinen das ist es</p>
+<p begin="00:28:31.080" end="00:28:35.919" style="s2">ist ein Unterschied ob ich erkenne dass</p>
+<p begin="00:28:33.080" end="00:28:37.880" style="s2">eine Situation gefährlich ist wo ich</p>
+<p begin="00:28:35.919" end="00:28:39.360" style="s2">etwas tun sollte und wenn ich es auch</p>
+<p begin="00:28:37.880" end="00:28:41.559" style="s2">kann</p>
+<p begin="00:28:39.360" end="00:28:44.320" style="s2">oder ob ich mich fürchterlich aufreg</p>
+<p begin="00:28:41.559" end="00:28:46.880" style="s2">drüber ja also schön wäre wenn man dann</p>
+<p begin="00:28:44.320" end="00:28:49.559" style="s2">quasi in einer</p>
+<p begin="00:28:46.880" end="00:28:52.440" style="s2">in die beobachterpition geht und aus der</p>
+<p begin="00:28:49.559" end="00:28:55.640" style="s2">nämlich klüger reagieren kann als im</p>
+<p begin="00:28:52.440" end="00:28:59.039" style="s2">Stress aber das ist das Stress ist</p>
+<p begin="00:28:55.640" end="00:29:01.320" style="s2">sicher unser Haupt Feind auf dem Weg auf</p>
+<p begin="00:28:59.039" end="00:29:04.240" style="s2">die Neue Erde ja aber so wie sagt also</p>
+<p begin="00:29:01.320" end="00:29:06.440" style="s2">wir alle haben Rückfälle und das macht</p>
+<p begin="00:29:04.240" end="00:29:08.080" style="s2">auch nichts das dürf wir ja drum also</p>
+<p begin="00:29:06.440" end="00:29:10.480" style="s2">ich glaub da gibt&#39;s ke Deadline wo man</p>
+<p begin="00:29:08.080" end="00:29:14.120" style="s2">sagen son jetzt hab wir 5D sondern das</p>
+<p begin="00:29:10.480" end="00:29:16.080" style="s2">geht hin und her und und mehr drüben</p>
+<p begin="00:29:14.120" end="00:29:18.320" style="s2">dann mal wieder ein kleiner Rückfall</p>
+<p begin="00:29:16.080" end="00:29:20.880" style="s2">also wird noch eine Weile dauern bis wir</p>
+<p begin="00:29:18.320" end="00:29:23.960" style="s2">ganz drüben sind aber zu Besuch können</p>
+<p begin="00:29:20.880" end="00:29:26.080" style="s2">wir schon gehen ich bin auch persönlich</p>
+<p begin="00:29:23.960" end="00:29:28.080" style="s2">zu dieser Ansicht gekommen dass eben</p>
+<p begin="00:29:26.080" end="00:29:30.080" style="s2">diese Herausforderung</p>
+<p begin="00:29:28.080" end="00:29:32.080" style="s2">diese Ärgernisse und all diese</p>
+<p begin="00:29:30.080" end="00:29:34.480" style="s2">Unliebsamkeiten oder was wir so als</p>
+<p begin="00:29:32.080" end="00:29:36.919" style="s2">Unliebsamkeiten</p>
+<p begin="00:29:34.480" end="00:29:41.000" style="s2">gewohntermaßen beurteilen dass man das</p>
+<p begin="00:29:36.919" end="00:29:45.360" style="s2">eben vielleicht so lang braucht bis man</p>
+<p begin="00:29:41.000" end="00:29:47.840" style="s2">sozusagen mehr immun wird dagegen bis</p>
+<p begin="00:29:45.360" end="00:29:50.200" style="s2">man eben wirklich sow weit ist dass man</p>
+<p begin="00:29:47.840" end="00:29:52.399" style="s2">nicht mehr in den has geht und in die</p>
+<p begin="00:29:50.200" end="00:29:55.919" style="s2">Verurteilung und in in den Ärger und in</p>
+<p begin="00:29:52.399" end="00:29:59.399" style="s2">die Wut und die oder gar in so Dinge wie</p>
+<p begin="00:29:55.919" end="00:30:01.919" style="s2">in eine Rachsucht und sol Dinge also ich</p>
+<p begin="00:29:59.399" end="00:30:04.120" style="s2">glaub man braucht das einfach so lang</p>
+<p begin="00:30:01.919" end="00:30:07.159" style="s2">bis man persönlich s weit ist dass man</p>
+<p begin="00:30:04.120" end="00:30:09.799" style="s2">davon ablassen kann so wie des</p>
+<p begin="00:30:07.159" end="00:30:11.919" style="s2">sensibilisierungstherapie ja also wenn</p>
+<p begin="00:30:09.799" end="00:30:14.360" style="s2">es eine Therapie gegen Allergie ist ja</p>
+<p begin="00:30:11.919" end="00:30:16.440" style="s2">oder oder gegen irgendwelche Phobien</p>
+<p begin="00:30:14.360" end="00:30:18.720" style="s2">dass man sich damit konfrontiert immer</p>
+<p begin="00:30:16.440" end="00:30:21.279" style="s2">wieder ja solange bis bis quasi bis dem</p>
+<p begin="00:30:18.720" end="00:30:23.000" style="s2">Hirn langweilig wird ja das kann</p>
+<p begin="00:30:21.279" end="00:30:25.640" style="s2">funktionieren und wie gesagt wir haben</p>
+<p begin="00:30:23.000" end="00:30:27.600" style="s2">es gewählt wir wollten eben aus der</p>
+<p begin="00:30:25.640" end="00:30:29.960" style="s2">Polarität wieder in die Einheit</p>
+<p begin="00:30:27.600" end="00:30:31.799" style="s2">zurückfinden und dass das nicht einfach</p>
+<p begin="00:30:29.960" end="00:30:34.320" style="s2">war haben wir glaube ich auf auf</p>
+<p begin="00:30:31.799" end="00:30:36.039" style="s2">Seelenebene ziemlich genau gewusst was</p>
+<p begin="00:30:34.320" end="00:30:38.360" style="s2">wir uns entschieden haben gerade jetzt</p>
+<p begin="00:30:36.039" end="00:30:40.760" style="s2">zu inkarnieren das ist ja eine ganz</p>
+<p begin="00:30:38.360" end="00:30:43.559" style="s2">spannende Phase ja also diesen Aufstieg</p>
+<p begin="00:30:40.760" end="00:30:45.840" style="s2">haben ja glaube ich das berichten viele</p>
+<p begin="00:30:43.559" end="00:30:48.200" style="s2">aber das glaube ich auch hat&#39;s ja noch</p>
+<p begin="00:30:45.840" end="00:30:50.440" style="s2">nicht gegeben ja dass so so viele und</p>
+<p begin="00:30:48.200" end="00:30:52.559" style="s2">vor allem auch die Erde aufsteigt ja wie</p>
+<p begin="00:30:50.440" end="00:30:55.679" style="s2">genau das funktioniert weiß ich nicht</p>
+<p begin="00:30:52.559" end="00:30:57.840" style="s2">aber ich spüren schon dass das eine ganz</p>
+<p begin="00:30:55.679" end="00:30:59.960" style="s2">besondere Zeit ist besonders</p>
+<p begin="00:30:57.840" end="00:31:03.200" style="s2">anspruchsvoll aber letztlich auch schön</p>
+<p begin="00:30:59.960" end="00:31:05.720" style="s2">ja hat irgendwer hat meinen schönen</p>
+<p begin="00:31:03.200" end="00:31:08.559" style="s2">Vergleich gebracht gesagt stell davor du</p>
+<p begin="00:31:05.720" end="00:31:12.480" style="s2">läufst einen Marathon</p>
+<p begin="00:31:08.559" end="00:31:14.600" style="s2">und die letzten was weiß ich 5 km trägt</p>
+<p begin="00:31:12.480" end="00:31:16.799" style="s2">dich dann wer ja würdest du nicht wollen</p>
+<p begin="00:31:14.600" end="00:31:18.799" style="s2">ja und so weil immer heißt na ja warum</p>
+<p begin="00:31:16.799" end="00:31:20.799" style="s2">kommen die lichten Wesen nicht und</p>
+<p begin="00:31:18.799" end="00:31:23.559" style="s2">retten uns ja erstens mal glaube ich</p>
+<p begin="00:31:20.799" end="00:31:26.000" style="s2">dass die viel mehr Einfluss nehmen als</p>
+<p begin="00:31:23.559" end="00:31:29.519" style="s2">wir wissen aber wir wollten sie ja</p>
+<p begin="00:31:26.000" end="00:31:31.799" style="s2">selber schaffen ja und drum wie gesagt</p>
+<p begin="00:31:29.519" end="00:31:34.200" style="s2">der Marathonläufer möchte gern selber</p>
+<p begin="00:31:31.799" end="00:31:36.360" style="s2">ins Ziel kommen und dann von mir aus</p>
+<p begin="00:31:34.200" end="00:31:38.880" style="s2">zusambrechen wer man nicht weil wir</p>
+<p begin="00:31:36.360" end="00:31:40.639" style="s2">werden einfach aufatmen ja also ich</p>
+<p begin="00:31:38.880" end="00:31:43.720" style="s2">spürre das so stark und für mich ist das</p>
+<p begin="00:31:40.639" end="00:31:46.320" style="s2">wirklich eine Vision ja eine Vision die</p>
+<p begin="00:31:43.720" end="00:31:48.840" style="s2">ganz stark im Herzen trag und drum und</p>
+<p begin="00:31:46.320" end="00:31:52.519" style="s2">die hält mich aufrecht ja auch auch wenn</p>
+<p begin="00:31:48.840" end="00:31:55.639" style="s2">es mal anspruchsvoll</p>
+<p begin="00:31:52.519" end="00:32:00.360" style="s2">wird liebe Michelle danke für dieses</p>
+<p begin="00:31:55.639" end="00:32:00.360" style="s2">Gespräch und alles Gute dir ich danke</p>
+<p begin="00:32:12.100" end="00:32:15.450" style="s2">[Musik]</p>
+<p begin="00:32:26.080" end="00:32:29.080" style="s2">dir</p>
+</div>
+</body>
+</tt>

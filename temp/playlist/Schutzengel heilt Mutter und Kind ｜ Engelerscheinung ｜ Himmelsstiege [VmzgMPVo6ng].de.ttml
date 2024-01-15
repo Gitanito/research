@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.798" end="00:00:14.790" style="s2">Im Jahr 1999, als ich 4 Jahre alt war, hatte ich <br />ein einzigartiges Erlebnis, bei dem meine Mutter  </p>
+<p begin="00:00:14.790" end="00:00:19.050" style="s2">und ich eine Heilung durch eine Lichtgestalt <br />erfahren durften. Um das zu verstehen,  </p>
+<p begin="00:00:19.050" end="00:00:24.960" style="s2">ist es nötig, die Vorgeschichte zu erzählen.<br />Ich war ein sehr ängstliches und unsicheres Kind.  </p>
+<p begin="00:00:24.960" end="00:00:31.260" style="s2">Eine Ursache dafür war, dass ich bereits im Alter <br />von ca. 2 Jahren ein Geistwesen wahrnehmen konnte,  </p>
+<p begin="00:00:31.260" end="00:00:36.630" style="s2">das immer wieder in meinem Elternhaus auftauchte. <br />Es war eine alte Frau mit Kopftuch und einer  </p>
+<p begin="00:00:36.630" end="00:00:42.090" style="s2">bäuerlichen Bekleidung. Ich hatte den Eindruck, <br />sie würde im Haus verloren herumirren und sie sei  </p>
+<p begin="00:00:42.090" end="00:00:47.070" style="s2">irgendwie belastet und auf der Suche nach etwas. <br />Soweit ich mich erinnere, hatte ich das Gefühl,  </p>
+<p begin="00:00:47.070" end="00:00:52.620" style="s2">als würde sie mich nicht oder kaum wahrnehmen.<br />Ich hatte schreckliche Angst vor ihr, erschrak  </p>
+<p begin="00:00:52.620" end="00:00:57.330" style="s2">immer, wenn sie mir plötzlich erschien, und suchte <br />stets die Nähe meiner Eltern, die diesen Geist  </p>
+<p begin="00:00:57.330" end="00:01:02.160" style="s2">zwar selbst nicht sehen konnten, mir allerdings <br />glaubten und mich fragten, wen ich denn sah.  </p>
+<p begin="00:01:02.160" end="00:01:08.400" style="s2">Ich antwortete stets: „Mutter, Mutter!“, was meine <br />Eltern sehr seltsam fanden und sich nicht erklären  </p>
+<p begin="00:01:08.400" end="00:01:13.740" style="s2">konnten. Da das Haus, in dem wir wohnten, erst <br />ein paar Jahre vor meiner Geburt gebaut wurde,  </p>
+<p begin="00:01:13.740" end="00:01:18.930" style="s2">blieb zunächst unklar, wer diese Frau war und <br />wieso sie fast täglich zu allen möglichen Zeiten  </p>
+<p begin="00:01:18.930" end="00:01:24.270" style="s2">erschien. Auch meinte meine Mama später, dass sie <br />nicht wusste, woher ich gerade das Wort „Mutter“  </p>
+<p begin="00:01:24.270" end="00:01:28.800" style="s2">herhatte, da mein Wortschatz damals noch recht <br />begrenzt war und ich zu meiner Mama selbst nie  </p>
+<p begin="00:01:28.800" end="00:01:34.410" style="s2">„Mutter“ sagte. Später erzählte sie mir, dass <br />sie ihre Großmutter, also meine Urgroßmutter,  </p>
+<p begin="00:01:34.410" end="00:01:38.970" style="s2">die längst vor meiner Geburt verstorben war, <br />selbst immer nur „Mutter“ nannte. Womöglich  </p>
+<p begin="00:01:38.970" end="00:01:43.860" style="s2">war also der Geist, den ich immer wieder sah, <br />meine Urgroßmutter, die ich aber in diesem Leben  </p>
+<p begin="00:01:43.860" end="00:01:49.170" style="s2">nie kannte. Das war zum damaligen Zeitpunkt <br />allerdings noch unklar. Diese Erscheinungen  </p>
+<p begin="00:01:49.170" end="00:01:54.240" style="s2">waren jedenfalls traumatisierend für mich, da ich <br />kaum allein gelassen werden konnte, ohne dass ich  </p>
+<p begin="00:01:54.240" end="00:01:59.520" style="s2">furchtbare Angst hatte und zu weinen begann.<br />Erst später im Erwachsenenalter sah ich zum  </p>
+<p begin="00:01:59.520" end="00:02:04.650" style="s2">ersten Mal ein Bild von meiner Urgroßmutter. <br />Dieses Bild weckte Erinnerungen in mir und  </p>
+<p begin="00:02:04.650" end="00:02:08.540" style="s2">sie schien mir durchaus vertraut, ich kann <br />aber nicht mit völliger Sicherheit sagen,  </p>
+<p begin="00:02:08.540" end="00:02:13.370" style="s2">dass dieser Geist meine Urgroßmutter war, da <br />ich mich an sein genaues Aussehen nicht erinnern  </p>
+<p begin="00:02:13.370" end="00:02:18.290" style="s2">konnte. Ich hätte diese Erscheinung vermutlich <br />komplett vergessen oder verdrängt, wenn meine  </p>
+<p begin="00:02:18.290" end="00:02:23.510" style="s2">Eltern mich nicht immer wieder daran erinnert <br />hätten. Es gibt sogar ein Video, in dem ich  </p>
+<p begin="00:02:23.510" end="00:02:29.300" style="s2">im Alter von ca. zweieinhalb Jahren am Esstisch <br />sitze, etwas esse, und plötzlich gedankenabwesend  </p>
+<p begin="00:02:29.300" end="00:02:33.980" style="s2">aber fixiert auf einen unbestimmten Punkt <br />im Raum starre. Plötzlich schrecke ich hoch,  </p>
+<p begin="00:02:33.980" end="00:02:39.050" style="s2">beginne zu weinen, zeige mit dem Finger in <br />den Raum und schreie mehrmals „Mutter“. Diese  </p>
+<p begin="00:02:39.050" end="00:02:43.970" style="s2">Erscheinung zeigte sich mir wirklich sehr oft, nur <br />konnte ich damals überhaupt nicht damit umgehen.</p>
+<p begin="00:02:43.970" end="00:02:47.780" style="s2">Aufgrund Grund der Bezeichnung „Mutter“ <br />und auch der äußerlichen Erscheinung,  </p>
+<p begin="00:02:47.780" end="00:02:52.460" style="s2">also Kopftuch und bäuerliche Schürze, lag die <br />Vermutung nahe, dass es sich tatsächlich um  </p>
+<p begin="00:02:52.460" end="00:02:57.110" style="s2">meine Urgroßmutter gehandelt haben könnte, <br />da diese sich zu Lebzeiten ebenso kleidete. </p>
+<p begin="00:02:57.110" end="00:03:02.720" style="s2">Die andere Sache, die mich sehr belastete, war <br />die psychische Verfassung meiner Mama. Sie war,  </p>
+<p begin="00:03:02.720" end="00:03:07.010" style="s2">seit ich denken kann, psychisch labil <br />und selbstmordgefährdet. Schon bei  </p>
+<p begin="00:03:07.010" end="00:03:12.080" style="s2">kleinen Streitereien oder Problemen innerhalb der <br />Familie drohte sie uns damit, sich auf der Stelle  </p>
+<p begin="00:03:12.080" end="00:03:16.850" style="s2">umzubringen. Sie meinte oft, sie würde gleich <br />ins Auto steigen und gegen einen Baum fahren,  </p>
+<p begin="00:03:16.850" end="00:03:22.190" style="s2">oder sie nahm sich ein Messer und sperrte sich <br />stundenlang im Badezimmer ein. Ich kann mich  </p>
+<p begin="00:03:22.190" end="00:03:27.140" style="s2">noch gut erinnern, wie es war, mit meinem Bruder <br />zusammen mit aller Kraft Mamas Hand festzuhalten,  </p>
+<p begin="00:03:27.140" end="00:03:32.600" style="s2">und zu weinen und zu flehen, dass sie hierbleiben <br />soll. Das war sehr schwer für mich und meinen  </p>
+<p begin="00:03:32.600" end="00:03:38.990" style="s2">älteren Bruder, da sich diese Ereignisse häuften.<br />Dazu kam, dass ich im Alter von ca. 3-4 Jahren  </p>
+<p begin="00:03:38.990" end="00:03:43.910" style="s2">jede Nacht einen wiederkehrenden Albtraum hatte, <br />in dem ich das Gesicht meiner Mama vor mir sah,  </p>
+<p begin="00:03:43.910" end="00:03:50.120" style="s2">das bösartig dreinblickte und mit tiefen Furchen <br />versehen war. Es war ein angsteinflößender und  </p>
+<p begin="00:03:50.120" end="00:03:54.500" style="s2">ungewöhnlicher Traum, da ich nur ihr verzogenes <br />Gesicht sah, wie bei einem Hologramm,  </p>
+<p begin="00:03:54.500" end="00:04:00.350" style="s2">und das ausschließlich in Schwarz-Weiß. Es war, <br />als würde das Gesicht von dämonischer Natur sein,  </p>
+<p begin="00:04:00.350" end="00:04:05.240" style="s2">da es hasserfüllt zu mir sprach und mich <br />beschimpfte. Ich weiß noch, dass ich diesen  </p>
+<p begin="00:04:05.240" end="00:04:10.790" style="s2">Traum beinahe jede Nacht hatte und ich meine Mama <br />dadurch zwiegespalten wahrnahm. Sie war einerseits  </p>
+<p begin="00:04:10.790" end="00:04:15.680" style="s2">liebevoll zu mir, trotz ihrer psychischen <br />Verfassung, andererseits hatte ich Angst vor  </p>
+<p begin="00:04:15.680" end="00:04:20.360" style="s2">ihr. Es war, als wäre sie von einem dunklen <br />Wesen oder einer dunklen Macht beeinflusst,  </p>
+<p begin="00:04:20.360" end="00:04:24.200" style="s2">allerdings wurde mir dies erst später <br />bewusst, denn zum damaligen Zeitpunkt  </p>
+<p begin="00:04:24.200" end="00:04:29.900" style="s2">konnte ich das noch nicht ganz einordnen.<br />Eines Nachts, im Frühling 1999, geschah  </p>
+<p begin="00:04:29.900" end="00:04:35.060" style="s2">dann etwas sehr Besonderes. Ich schlief, wie jede <br />Nacht, neben meiner Mama im Bett, da ich alleine  </p>
+<p begin="00:04:35.060" end="00:04:41.000" style="s2">Angst hatte. Mein Papa schlief in einem anderen <br />Zimmer. Ich war irgendwie unruhig und konnte nicht  </p>
+<p begin="00:04:41.000" end="00:04:46.130" style="s2">richtig einschlafen. Ich lag auf der Bettseite <br />neben der Tür, die sich rechts von mir befand,  </p>
+<p begin="00:04:46.130" end="00:04:51.110" style="s2">und blickte nach links zum Fenster hin, zu der <br />Seite, wo meine Mama schon tief und fest schlief.  </p>
+<p begin="00:04:51.110" end="00:04:56.780" style="s2">Plötzlich sah ich, wie eine tiefrote, leuchtende <br />Lichtkugel ganz langsam und sachte durch das  </p>
+<p begin="00:04:56.780" end="00:05:01.400" style="s2">Fenster schwebte. Das war sehr faszinierend <br />für mich, und aus irgendeinem Grund war ich  </p>
+<p begin="00:05:01.400" end="00:05:06.500" style="s2">nur gespannt, allerdings keineswegs ängstlich.<br />Die Kugel war meiner Einschätzung nach recht  </p>
+<p begin="00:05:06.500" end="00:05:12.170" style="s2">groß und hatte einen Durchmesser von ca. 30 <br />cm-n. Das Rot war sehr intensiv und kräftig.  </p>
+<p begin="00:05:12.170" end="00:05:17.660" style="s2">Die Kugel bewegte sich sehr langsam ins Zimmer <br />und machte innen vor dem Fenster Halt, also dort,  </p>
+<p begin="00:05:17.660" end="00:05:22.460" style="s2">wo meine Mama schlief. Auf einmal verformte <br />sich die Kugel und verwandelte sich in ein  </p>
+<p begin="00:05:22.460" end="00:05:28.520" style="s2">wunderschönes Lichtwesen. Es war unglaublich für <br />mich. Das Lichtwesen strahlte ein weiß-goldenes  </p>
+<p begin="00:05:28.520" end="00:05:34.130" style="s2">Licht aus, das aber überhaupt nicht blendete.<br />Auch ging davon eine unglaubliche Liebe, Wärme,  </p>
+<p begin="00:05:34.130" end="00:05:39.350" style="s2">und Ruhe aus, weshalb ich ruhig liegenblieb und <br />das alles beobachten konnte, ohne zu erschrecken.  </p>
+<p begin="00:05:39.350" end="00:05:44.720" style="s2">Ich nahm es eindeutig als ein weibliches Wesen <br />wahr, da es lange Locken aus Licht hatte und ein  </p>
+<p begin="00:05:44.720" end="00:05:51.000" style="s2">strahlendes Lichtkleid trug. Ich wusste sofort, <br />das war ein Engel. Er lächelte mich liebevoll und  </p>
+<p begin="00:05:51.000" end="00:05:56.820" style="s2">sanftmütig an, und ich war sehr ergriffen davon. <br />Ich wusste intuitiv, dass es ein mächtiges Wesen  </p>
+<p begin="00:05:56.820" end="00:06:02.010" style="s2">war, weshalb ich mit Gefühlen von Demut und <br />Bewunderung reagierte. Der Engel bewegte sich  </p>
+<p begin="00:06:02.010" end="00:06:07.440" style="s2">zunächst nicht von der Stelle. Es war auch, als <br />hätte es keine Zeit gegeben. Mir kam es so vor,  </p>
+<p begin="00:06:07.440" end="00:06:12.330" style="s2">als wäre er stundenlang dagestanden, weshalb <br />ich beinahe müde wurde und mir die Augen immer  </p>
+<p begin="00:06:12.330" end="00:06:17.580" style="s2">wieder zufielen. Ich konnte aber nicht schlafen, <br />da ich zu neugierig war, und so schaute ich immer  </p>
+<p begin="00:06:17.580" end="00:06:22.290" style="s2">wieder zur Fensterseite, um mich zu vergewissern, <br />dass der Engel noch hier war. Und er blieb lange  </p>
+<p begin="00:06:22.290" end="00:06:27.750" style="s2">hier. In der Anwesenheit dieses Engels fühlte ich <br />mich zum ersten Mal wirklich sicher und geborgen. </p>
+<p begin="00:06:27.750" end="00:06:33.540" style="s2">Der Engel kommunizierte mit mir und übermittelte <br />mir Botschaften. Diese Kommunikation erfolgte  </p>
+<p begin="00:06:33.540" end="00:06:39.150" style="s2">nonverbal und doch hörte ich die Botschaften klar <br />und deutlich in mir. Die erste Botschaft war:  </p>
+<p begin="00:06:39.150" end="00:06:43.890" style="s2">„Du wirst immer geliebt und beschützt!“ Die <br />zweite war, “Du brauchst keine Angst zu haben, sei  </p>
+<p begin="00:06:43.890" end="00:06:49.020" style="s2">mutig!“ Es gab auch noch eine weitere Botschaft, <br />an deren Inhalt ich mich allerdings nicht erinnern  </p>
+<p begin="00:06:49.020" end="00:06:54.510" style="s2">kann. Es ist, als wäre sie absichtlich aus meinem <br />Gedächtnis gelöscht worden. Ich glaube, ich sollte  </p>
+<p begin="00:06:54.510" end="00:06:59.190" style="s2">sie vielleicht vergessen, um Entscheidungen später <br />frei und unvoreingenommen treffen zu können. </p>
+<p begin="00:06:59.190" end="00:07:04.440" style="s2">Das Interessante an der Kommunikation war, dass <br />wir „gleichgeschalten“ waren, d.h., sobald die  </p>
+<p begin="00:07:04.440" end="00:07:09.360" style="s2">Botschaft ausgesandt war, war sie vollständig <br />und sofortig, also ohne Verzögerung, in meinem  </p>
+<p begin="00:07:09.360" end="00:07:14.910" style="s2">Bewusstsein angekommen. Es war, als ob ich keine <br />Sekunde darüber nachdenken musste, was gesagt  </p>
+<p begin="00:07:14.910" end="00:07:20.670" style="s2">wurde und gemeint war. Ich verstand sofort, als <br />hätte ich es schon immer gewusst, „ja, so ist es“. </p>
+<p begin="00:07:20.670" end="00:07:25.860" style="s2">Dann geschah noch etwas. Der Engel bewegte <br />sich langsam näher zu meiner Mama hin und  </p>
+<p begin="00:07:25.860" end="00:07:31.290" style="s2">blieb in etwa auf ihrer Kopfhöhe stehen. Er legte <br />seine Hände über Mamas Kopf und ich konnte sehen,  </p>
+<p begin="00:07:31.290" end="00:07:35.520" style="s2">wie sich weißes Licht durch die Hände des <br />Engels hinüber zu meiner Mama bewegte,  </p>
+<p begin="00:07:35.520" end="00:07:41.370" style="s2">die immer noch fest schlief. Es war, als würde <br />der Engel heilende Kräfte fließen lassen. Dabei  </p>
+<p begin="00:07:41.370" end="00:07:46.440" style="s2">lächelte er meine Mama mit solch einer Liebe und <br />Güte an, und ich hatte absolutes Vertrauen zu ihm,  </p>
+<p begin="00:07:46.440" end="00:07:50.670" style="s2">so dass ich nicht einmal im Entferntesten <br />etwas hinterfragte oder mir dachte, ich  </p>
+<p begin="00:07:50.670" end="00:07:55.650" style="s2">müsste meine Mama wecken. Ich ließ es geschehen <br />und war immer wieder kurz vor dem Einschlafen. </p>
+<p begin="00:07:55.650" end="00:08:00.540" style="s2">Als der Engel damit fertig war – was mir <br />wie eine Ewigkeit vorkam –, war es Zeit,  </p>
+<p begin="00:08:00.540" end="00:08:05.760" style="s2">sich zu verabschieden. Ich sah ihn noch einmal an <br />und dann verformte er sich wieder in die gleiche  </p>
+<p begin="00:08:05.760" end="00:08:11.430" style="s2">rote Kugel, wie ich sie vorher wahrgenommen habe.<br />Wie auch zuvor, schwebte sie ganz langsam aus dem  </p>
+<p begin="00:08:11.430" end="00:08:14.880" style="s2">Fenster, dort wo sie hergekommen war, <br />und ich war enttäuscht, dass sie weg  </p>
+<p begin="00:08:14.880" end="00:08:19.980" style="s2">war. Allerdings konnte ich danach ganz schnell <br />einschlafen und hatte auch keine Albträume mehr. </p>
+<p begin="00:08:19.980" end="00:08:24.720" style="s2">Am nächsten Morgen erzählte ich meiner Familie <br />davon, allerdings sagte mir mein Gefühl,  </p>
+<p begin="00:08:24.720" end="00:08:30.180" style="s2">die Sache mit den aufgelegten Händen über Mamas <br />Kopf sollte ich lieber für mich behalten. Meine  </p>
+<p begin="00:08:30.180" end="00:08:35.220" style="s2">Familie war überrascht, aber sie glaubte mir. Ich <br />konnte im Nachhinein feststellen, wie sich die  </p>
+<p begin="00:08:35.220" end="00:08:41.070" style="s2">familiäre Situation nach und nach besserte. Vor <br />allem waren seit diesem Erlebnis meine früheren  </p>
+<p begin="00:08:41.070" end="00:08:46.230" style="s2">Albträume gänzlich verschwunden. Meiner Mama <br />ging es innerhalb weniger Wochen immer besser,  </p>
+<p begin="00:08:46.230" end="00:08:51.300" style="s2">sie wurde wieder lebensfroh und auch ich lebte <br />tatsächlich angstfreier. Vor allem verbesserte  </p>
+<p begin="00:08:51.300" end="00:08:55.410" style="s2">sich die Beziehung zwischen meiner Mama und <br />mir, und ich konnte wieder ihre Liebe spüren,  </p>
+<p begin="00:08:55.410" end="00:08:59.340" style="s2">die vorher nicht wirklich fließen konnte. <br />Ich hatte plötzlich das Vertrauen,  </p>
+<p begin="00:08:59.340" end="00:09:03.690" style="s2">dass alles gut ist und so konnte ich die <br />traumatischen Geschehnisse ganz gut verarbeiten. </p>
+<p begin="00:09:03.690" end="00:09:09.360" style="s2">Seit diesem Erlebnis bin ich von der Existenz <br />von Engeln überzeugt. Ich war schon vor dieser  </p>
+<p begin="00:09:09.360" end="00:09:14.160" style="s2">Erfahrung fasziniert von Schutzengeln und weiß <br />nun, dass es sie gibt und dass sie heilen können.  </p>
+<p begin="00:09:14.160" end="00:09:19.830" style="s2">Ich bin äußerst dankbar für diese Erfahrung.<br />Mein Vater erzählte mir später, dass auch er im  </p>
+<p begin="00:09:19.830" end="00:09:25.530" style="s2">Alter von ca. 4 Jahren etwas Außergewöhnliches <br />erlebte. Bei ihm ereignete sich das Erlebnis  </p>
+<p begin="00:09:25.530" end="00:09:30.780" style="s2">ebenfalls am Abend vor dem Schlafengehen. Er war <br />alleine im Zimmer und lag schon im Bett, als ihm  </p>
+<p begin="00:09:30.780" end="00:09:35.880" style="s2">ganz plötzlich inmitten des Raumes eine Treppe <br />erschien. Auch er verspürte dabei keine Angst,  </p>
+<p begin="00:09:35.880" end="00:09:41.280" style="s2">sondern eine extreme Neugierde und Faszination, <br />so dass er aufstand, direkt vor die Treppe trat  </p>
+<p begin="00:09:41.280" end="00:09:46.030" style="s2">und hinaufblickte. Er nahm wahr, dass die <br />Treppe ausschließlich aus Licht bestand,  </p>
+<p begin="00:09:46.030" end="00:09:50.650" style="s2">und dass sie umso heller wurde, je weiter sie <br />nach oben ging. Es war auch, als hätte sich  </p>
+<p begin="00:09:50.650" end="00:09:55.570" style="s2">die Zimmerdecke an der Stelle aufgetan, an der er <br />die lange Treppe mit den vielzähligen Stufen sah. </p>
+<p begin="00:09:55.570" end="00:10:00.430" style="s2">Je näher die Treppe am Boden des Zimmers war, <br />desto dunkler waren die Stufen, und weiter  </p>
+<p begin="00:10:00.430" end="00:10:05.110" style="s2">oben wurden sie immer heller und heller. Ganz <br />oben, also schon relativ weit von ihm entfernt,  </p>
+<p begin="00:10:05.110" end="00:10:10.180" style="s2">sah er ein unglaublich schönes, kräftiges, und <br />liebevolles Licht, das ihn so sehr faszinierte  </p>
+<p begin="00:10:10.180" end="00:10:14.950" style="s2">und anzog, dass er direkt nach oben gehen <br />wollte. Er hatte das starke Bedürfnis,  </p>
+<p begin="00:10:14.950" end="00:10:20.530" style="s2">genauer nachzusehen, was es bei diesem Licht alles <br />zu sehen gäbe, und die Welt dort oben zu erkunden,  </p>
+<p begin="00:10:20.530" end="00:10:24.880" style="s2">und er beschloss tatsächlich, nach <br />oben zu gehen. Allerdings befanden  </p>
+<p begin="00:10:24.880" end="00:10:30.670" style="s2">sich drei Lichtgestalten verteilt auf den Treppen.<br />Eine von ihnen stand eher im Vordergrund und die  </p>
+<p begin="00:10:30.670" end="00:10:36.310" style="s2">anderen zwei, verteilt auf den oberen Treppen, im <br />Hintergrund. Die Gestalten kamen ihm vertraut vor,  </p>
+<p begin="00:10:36.310" end="00:10:40.960" style="s2">und obwohl von ihnen eine enorme Liebe und <br />Güte ausging, strahlten sie gleichzeitig  </p>
+<p begin="00:10:40.960" end="00:10:45.550" style="s2">eine gewisse Strenge aus. Die Gestalt im <br />Vordergrund sagte plötzlich sehr bestimmt:  </p>
+<p begin="00:10:45.550" end="00:10:50.140" style="s2">„Nein! Du darfst jetzt noch nicht nach oben! <br />Deine Zeit ist noch nicht gekommen.“ Die  </p>
+<p begin="00:10:50.140" end="00:10:55.060" style="s2">Kommunikation erfolgte ebenfalls nonverbal. <br />Mein Vater hatte großen Respekt vor den  </p>
+<p begin="00:10:55.060" end="00:11:00.160" style="s2">Gestalten und wusste, dass er gehorchen muss.<br />Daraufhin war alles bald wieder verschwunden.  </p>
+<p begin="00:11:00.160" end="00:11:05.770" style="s2">Er meinte, diese Erscheinung dauerte insgesamt <br />nur in etwa zwei Minuten. Auch er kann diese  </p>
+<p begin="00:11:05.770" end="00:11:10.460" style="s2">Erscheinung bis heute nicht vergessen und <br />sieht sie als Beweis für eine jenseitige Welt.</p>
+</div>
+</body>
+</tt>

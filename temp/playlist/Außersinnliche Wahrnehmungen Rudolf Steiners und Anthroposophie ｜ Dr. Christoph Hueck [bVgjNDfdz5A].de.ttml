@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:15.920" end="00:00:20.640" style="s2">[Musik]</p>
+<p begin="00:00:17.960" end="00:00:22.740" style="s2">Herr Hug wir sprechen heute über die</p>
+<p begin="00:00:20.640" end="00:00:25.320" style="s2">außersinnlichen Wahrnehmungen Rudolf</p>
+<p begin="00:00:22.740" end="00:00:28.199" style="s2">Steiners der unter anderem aufgrund</p>
+<p begin="00:00:25.320" end="00:00:30.840" style="s2">dieser Wahrnehmungen eine metaphysische</p>
+<p begin="00:00:28.199" end="00:00:33.000" style="s2">Weltanschauung ins Leben gerufen hat die</p>
+<p begin="00:00:30.840" end="00:00:35.340" style="s2">Anthroposophie</p>
+<p begin="00:00:33.000" end="00:00:37.920" style="s2">bevor wir darauf eingehen wie kam es</p>
+<p begin="00:00:35.340" end="00:00:40.760" style="s2">dass sie sich selbst für dieses Thema</p>
+<p begin="00:00:37.920" end="00:00:40.760" style="s2">interessiert haben</p>
+<p begin="00:00:41.879" end="00:00:44.480" style="s2">also ich habe mich schon als</p>
+<p begin="00:00:43.200" end="00:00:47.100" style="s2">Jugendlicher</p>
+<p begin="00:00:44.480" end="00:00:49.920" style="s2">mit verschiedenen behälternschaulichen</p>
+<p begin="00:00:47.100" end="00:00:51.899" style="s2">Richtungen auseinandergesetzt hat mich</p>
+<p begin="00:00:49.920" end="00:00:54.059" style="s2">immer interessiert</p>
+<p begin="00:00:51.899" end="00:00:57.360" style="s2">wie man die Welt verstehen kann wie</p>
+<p begin="00:00:54.059" end="00:00:59.579" style="s2">versteht man überhaupt etwas was ist die</p>
+<p begin="00:00:57.360" end="00:01:02.879" style="s2">Welt wo kommen wir her</p>
+<p begin="00:00:59.579" end="00:01:06.000" style="s2">und habe dann in meinem cw-dienst mit</p>
+<p begin="00:01:02.879" end="00:01:08.700" style="s2">Anfang 20 da war ich gerade 21 zu meinem</p>
+<p begin="00:01:06.000" end="00:01:11.299" style="s2">Geburtstag oder Steiner kennengelernt</p>
+<p begin="00:01:08.700" end="00:01:14.100" style="s2">damals bei einer in einer anderen</p>
+<p begin="00:01:11.299" end="00:01:17.840" style="s2">Dorfgemeinschaft mit Erwachsenen</p>
+<p begin="00:01:14.100" end="00:01:21.299" style="s2">Behinderten im hofgutsassen wo ein</p>
+<p begin="00:01:17.840" end="00:01:24.060" style="s2">Dozent kam und der arbeitete aus mit</p>
+<p begin="00:01:21.299" end="00:01:26.880" style="s2">Texten oder Steiners und als wir die</p>
+<p begin="00:01:24.060" end="00:01:29.040" style="s2">ersten Texte da uns Vornamen da war mir</p>
+<p begin="00:01:26.880" end="00:01:31.680" style="s2">eigentlich sehr schnell klar dass das</p>
+<p begin="00:01:29.040" end="00:01:34.560" style="s2">jenige ist was ich gesucht hatte und</p>
+<p begin="00:01:31.680" end="00:01:37.439" style="s2">seitdem beschäftige ich mich damit</p>
+<p begin="00:01:34.560" end="00:01:39.180" style="s2">warum ist es das dass jenige was ich</p>
+<p begin="00:01:37.439" end="00:01:42.420" style="s2">gesucht hatte warum war mir das damals</p>
+<p begin="00:01:39.180" end="00:01:44.720" style="s2">schon klar weil ich ähm da gesehen habe</p>
+<p begin="00:01:42.420" end="00:01:47.700" style="s2">das ist ein Weg ein</p>
+<p begin="00:01:44.720" end="00:01:49.820" style="s2">Weg in die geistige Welt rein ein</p>
+<p begin="00:01:47.700" end="00:01:53.880" style="s2">spiritueller Weg der aber zugleich</p>
+<p begin="00:01:49.820" end="00:01:56.420" style="s2">Gedanken zu verstehen ist und dieses</p>
+<p begin="00:01:53.880" end="00:01:57.960" style="s2">Motiv der der gedanklichen</p>
+<p begin="00:01:56.420" end="00:02:00.659" style="s2">Nachvollziehbarkeit und sogar</p>
+<p begin="00:01:57.960" end="00:02:03.060" style="s2">Wissenschaftlichkeit und gleichzeitig</p>
+<p begin="00:02:00.659" end="00:02:05.280" style="s2">der Esoterik das ist eigentlich das was</p>
+<p begin="00:02:03.060" end="00:02:06.899" style="s2">mich sehr stark damals schon</p>
+<p begin="00:02:05.280" end="00:02:09.119" style="s2">angesprochen hat und mein ganzes Leben</p>
+<p begin="00:02:06.899" end="00:02:10.979" style="s2">weiter begleitet</p>
+<p begin="00:02:09.119" end="00:02:14.060" style="s2">wobei man vielleicht zu sagen muss dass</p>
+<p begin="00:02:10.979" end="00:02:16.760" style="s2">wir hier unter Esoterik nicht so eine</p>
+<p begin="00:02:14.060" end="00:02:20.360" style="s2">Jahrmarkt ist direkt verstehen also</p>
+<p begin="00:02:16.760" end="00:02:23.220" style="s2">esoterisch bzw Esoterik hatte</p>
+<p begin="00:02:20.360" end="00:02:26.400" style="s2">verschiedene Bedeutungen sondern wir</p>
+<p begin="00:02:23.220" end="00:02:30.020" style="s2">meinen hier eine andere sagen wir mal</p>
+<p begin="00:02:26.400" end="00:02:33.959" style="s2">eine seriösere Form von Esoterik ja eine</p>
+<p begin="00:02:30.020" end="00:02:36.540" style="s2">Esoterik in dem Sinne ein für das</p>
+<p begin="00:02:33.959" end="00:02:40.020" style="s2">normale Bewusstsein verborgenes Wissen</p>
+<p begin="00:02:36.540" end="00:02:41.640" style="s2">was aber tiefere Zusammenhänge in der</p>
+<p begin="00:02:40.020" end="00:02:44.099" style="s2">Welt und im Leben erhellen kann</p>
+<p begin="00:02:41.640" end="00:02:46.440" style="s2">erleuchten kann</p>
+<p begin="00:02:44.099" end="00:02:49.260" style="s2">und was durch eine vertiefte Erfahrung</p>
+<p begin="00:02:46.440" end="00:02:51.180" style="s2">zugänglich ist und etwas eben eine</p>
+<p begin="00:02:49.260" end="00:02:53.160" style="s2">Erfahrung die geistlich ist muss ich</p>
+<p begin="00:02:51.180" end="00:02:55.200" style="s2">vielleicht noch dazu sagen also die</p>
+<p begin="00:02:53.160" end="00:02:58.019" style="s2">letztlich dazu führt zu dem Bewusstsein</p>
+<p begin="00:02:55.200" end="00:03:00.840" style="s2">wir sind eben keine materialistischen</p>
+<p begin="00:02:58.019" end="00:03:02.879" style="s2">bloß Körper bloß Gehirn bloß Gene</p>
+<p begin="00:03:00.840" end="00:03:04.260" style="s2">sondern wir sind seelisch geistige</p>
+<p begin="00:03:02.879" end="00:03:07.319" style="s2">gewesen</p>
+<p begin="00:03:04.260" end="00:03:09.180" style="s2">und deswegen konnte die sich reden die</p>
+<p begin="00:03:07.319" end="00:03:11.480" style="s2">mit der geistigen Welt in Kontakt stehen</p>
+<p begin="00:03:09.180" end="00:03:15.900" style="s2">innerlich bewusst immer</p>
+<p begin="00:03:11.480" end="00:03:17.459" style="s2">also insofern schon esoterisch als nicht</p>
+<p begin="00:03:15.900" end="00:03:19.879" style="s2">auch als das Gegenteil von</p>
+<p begin="00:03:17.459" end="00:03:22.319" style="s2">materialistisch</p>
+<p begin="00:03:19.879" end="00:03:25.080" style="s2">gehen wir dann auf die außersinnliche</p>
+<p begin="00:03:22.319" end="00:03:27.860" style="s2">Wahrnehmungen Rudolf Steiners ein können</p>
+<p begin="00:03:25.080" end="00:03:30.720" style="s2">Sie uns in chronologischer Reihenfolge</p>
+<p begin="00:03:27.860" end="00:03:34.319" style="s2">beschreiben was Steiner wahrgenommen hat</p>
+<p begin="00:03:30.720" end="00:03:38.040" style="s2">was man so im Allgemeinen als paranormal</p>
+<p begin="00:03:34.319" end="00:03:41.760" style="s2">oder übersinnlich bezeichnet</p>
+<p begin="00:03:38.040" end="00:03:44.280" style="s2">ja ich kann das beschreiben was wir von</p>
+<p begin="00:03:41.760" end="00:03:48.659" style="s2">Rudolf Steiner selber wissen er hat das</p>
+<p begin="00:03:44.280" end="00:03:51.360" style="s2">im er war äußerst zurückhaltend in</p>
+<p begin="00:03:48.659" end="00:03:53.099" style="s2">Mitteilungen über sich selbst weil er</p>
+<p begin="00:03:51.360" end="00:03:54.480" style="s2">sich selbst nicht in den Vordergrund</p>
+<p begin="00:03:53.099" end="00:03:56.760" style="s2">stellen wollte er hat aber in seiner</p>
+<p begin="00:03:54.480" end="00:03:58.519" style="s2">Autobiografie und dann einmal einen</p>
+<p begin="00:03:56.760" end="00:04:01.739" style="s2">wichtigen autobiografischen Vortrag</p>
+<p begin="00:03:58.519" end="00:04:05.420" style="s2">einiges geschildert und wir wissen dass</p>
+<p begin="00:04:01.739" end="00:04:08.519" style="s2">er schon als Kind als</p>
+<p begin="00:04:05.420" end="00:04:10.580" style="s2">mit fünf sechs sieben acht Jahren kann</p>
+<p begin="00:04:08.519" end="00:04:14.519" style="s2">man nicht so genau zuordnen die Zeit</p>
+<p begin="00:04:10.580" end="00:04:16.560" style="s2">dass er schon eine weltunterschied</p>
+<p begin="00:04:14.519" end="00:04:19.139" style="s2">jemand sehen kann und eine Welt die man</p>
+<p begin="00:04:16.560" end="00:04:22.380" style="s2">nicht sehen kann und er hat er dann ein</p>
+<p begin="00:04:19.139" end="00:04:25.259" style="s2">sehr wichtiges Erlebnis Übersinnliches</p>
+<p begin="00:04:22.380" end="00:04:26.300" style="s2">Erlebnis was er auch genau beschreibt</p>
+<p begin="00:04:25.259" end="00:04:29.280" style="s2">und zwar</p>
+<p begin="00:04:26.300" end="00:04:31.860" style="s2">war er in einer bahnhofsstation</p>
+<p begin="00:04:29.280" end="00:04:33.840" style="s2">aufgewachsen in Niederösterreich sehr</p>
+<p begin="00:04:31.860" end="00:04:35.520" style="s2">ehrliche Verhältnisse der Vater war da</p>
+<p begin="00:04:33.840" end="00:04:37.699" style="s2">der Bahnwärter und in dieser</p>
+<p begin="00:04:35.520" end="00:04:39.840" style="s2">Bahnhofshalle in der leeren bahnhofsale</p>
+<p begin="00:04:37.699" end="00:04:43.220" style="s2">als junge</p>
+<p begin="00:04:39.840" end="00:04:46.639" style="s2">und hat dann die Erscheinung einer</p>
+<p begin="00:04:43.220" end="00:04:50.400" style="s2">bekannten Person erlebt einer</p>
+<p begin="00:04:46.639" end="00:04:52.860" style="s2">Kante die da im übersinnlicher Schienen</p>
+<p begin="00:04:50.400" end="00:04:55.139" style="s2">ist und die das muss sehr eindrücklich</p>
+<p begin="00:04:52.860" end="00:04:58.020" style="s2">für ihn gewesen sein diese Tante hat zu</p>
+<p begin="00:04:55.139" end="00:05:01.259" style="s2">ihm gesagt er soll jetzt und später so</p>
+<p begin="00:04:58.020" end="00:05:02.759" style="s2">viel als erkannt für sie tun es hat ihn</p>
+<p begin="00:05:01.259" end="00:05:06.060" style="s2">natürlich unglaublich erschüttert als</p>
+<p begin="00:05:02.759" end="00:05:09.600" style="s2">Kind und er hat aber gewusst dass er da</p>
+<p begin="00:05:06.060" end="00:05:12.240" style="s2">nicht drüber sprechen kann mit seiner</p>
+<p begin="00:05:09.600" end="00:05:14.400" style="s2">Familie mit den Menschen da in der</p>
+<p begin="00:05:12.240" end="00:05:17.580" style="s2">Gegend weil die in eine für ein bisschen</p>
+<p begin="00:05:14.400" end="00:05:19.919" style="s2">deppert gehalten haben dann er hat aber</p>
+<p begin="00:05:17.580" end="00:05:22.380" style="s2">von dieser spätestens seit dieser Zeit</p>
+<p begin="00:05:19.919" end="00:05:24.720" style="s2">eben ganz klare übersinnliche Erlebnisse</p>
+<p begin="00:05:22.380" end="00:05:27.060" style="s2">gehabt und er hat dann einige Tage</p>
+<p begin="00:05:24.720" end="00:05:29.160" style="s2">später erfahren dass diese Tante in dem</p>
+<p begin="00:05:27.060" end="00:05:32.039" style="s2">Moment wo sie wo er diese Erscheinung</p>
+<p begin="00:05:29.160" end="00:05:34.860" style="s2">hatte Selbstmord begangen hat</p>
+<p begin="00:05:32.039" end="00:05:38.100" style="s2">also er hatte diese Tante er hat die</p>
+<p begin="00:05:34.860" end="00:05:39.479" style="s2">Frau gekannt als biologische Person das</p>
+<p begin="00:05:38.100" end="00:05:42.600" style="s2">heißt in dieser Erscheinung hat das</p>
+<p begin="00:05:39.479" end="00:05:44.340" style="s2">sofort gewusst wer das war also ich wenn</p>
+<p begin="00:05:42.600" end="00:05:46.080" style="s2">ich das richtig in Erinnerung habe dann</p>
+<p begin="00:05:44.340" end="00:05:48.479" style="s2">heißt die Formulierung nur eine ihm</p>
+<p begin="00:05:46.080" end="00:05:51.060" style="s2">bekannte Person</p>
+<p begin="00:05:48.479" end="00:05:53.820" style="s2">ja also ich habe es jetzt nicht ganz</p>
+<p begin="00:05:51.060" end="00:05:55.380" style="s2">genau im Detail oder stand immer sehr</p>
+<p begin="00:05:53.820" end="00:05:58.259" style="s2">wichtig wäre das direkt beschreibt</p>
+<p begin="00:05:55.380" end="00:06:00.780" style="s2">müsste man noch mal nachlesen das ist in</p>
+<p begin="00:05:58.259" end="00:06:03.360" style="s2">seiner Autobiografie beschrieben</p>
+<p begin="00:06:00.780" end="00:06:06.840" style="s2">und sie haben gesagt zu sie hat ihn</p>
+<p begin="00:06:03.360" end="00:06:10.139" style="s2">darum gebeten dass er für sie was macht</p>
+<p begin="00:06:06.840" end="00:06:11.880" style="s2">wissen Sie mehr darüber nein weiß ich</p>
+<p begin="00:06:10.139" end="00:06:14.820" style="s2">leider nicht ich habe das immer so</p>
+<p begin="00:06:11.880" end="00:06:17.220" style="s2">verstanden für mich dass er es ist wie</p>
+<p begin="00:06:14.820" end="00:06:19.680" style="s2">eine Aufforderung war für sie vielleicht</p>
+<p begin="00:06:17.220" end="00:06:21.960" style="s2">zu beten</p>
+<p begin="00:06:19.680" end="00:06:23.340" style="s2">also das wäre meine Interpretation so</p>
+<p begin="00:06:21.960" end="00:06:25.919" style="s2">habe ich das verstanden das ist auch</p>
+<p begin="00:06:23.340" end="00:06:27.840" style="s2">meine Art wie ich mit oder Steiners</p>
+<p begin="00:06:25.919" end="00:06:29.580" style="s2">Darstellung umgehe dass immer auf der</p>
+<p begin="00:06:27.840" end="00:06:31.259" style="s2">einen Seite die eine Hälfte sind seine</p>
+<p begin="00:06:29.580" end="00:06:33.419" style="s2">Darstellung die andere Hälfte ist das</p>
+<p begin="00:06:31.259" end="00:06:36.360" style="s2">was man selbst dazu trägt als</p>
+<p begin="00:06:33.419" end="00:06:39.199" style="s2">Verständnis und das natürlich ergänzt</p>
+<p begin="00:06:36.360" end="00:06:39.199" style="s2">sich immer gegenseitig</p>
+<p begin="00:06:39.440" end="00:06:46.259" style="s2">und wie ging es dann weiter mit diesen</p>
+<p begin="00:06:42.139" end="00:06:49.139" style="s2">anderen Erlebnissen die er hatte ja dann</p>
+<p begin="00:06:46.259" end="00:06:51.840" style="s2">gibt es eben noch eine Schilderung wo er</p>
+<p begin="00:06:49.139" end="00:06:53.699" style="s2">mal an einem Herbstabend auf ich glaube</p>
+<p begin="00:06:51.840" end="00:06:57.500" style="s2">auf Kapuze nach Hause gefahren ist der</p>
+<p begin="00:06:53.699" end="00:07:01.280" style="s2">Pendel der immer zwischen Wien und</p>
+<p begin="00:06:57.500" end="00:07:03.900" style="s2">seinem Wohnsitz und hat dann in diesem</p>
+<p begin="00:07:01.280" end="00:07:06.060" style="s2">Herbstabend erlebt wie auf einmal die</p>
+<p begin="00:07:03.900" end="00:07:09.539" style="s2">ganze Natur für ihn wie durchsichtig</p>
+<p begin="00:07:06.060" end="00:07:12.120" style="s2">wurde wie er erlebt hat wie Naturgeister</p>
+<p begin="00:07:09.539" end="00:07:14.340" style="s2">von unten nach oben aufgestiegen sind</p>
+<p begin="00:07:12.120" end="00:07:16.860" style="s2">von oben nach unten herunter wie die in</p>
+<p begin="00:07:14.340" end="00:07:18.600" style="s2">Kommunikation miteinander waren und eben</p>
+<p begin="00:07:16.860" end="00:07:21.060" style="s2">dieses dass unser normales</p>
+<p begin="00:07:18.600" end="00:07:22.860" style="s2">gegenständliches Bewusstsein für dich</p>
+<p begin="00:07:21.060" end="00:07:24.840" style="s2">jetzt in meiner Sprache ausdrücken</p>
+<p begin="00:07:22.860" end="00:07:28.099" style="s2">überwunden war plötzlich und er sich da</p>
+<p begin="00:07:24.840" end="00:07:31.319" style="s2">in der Geistlichkeit der Natur</p>
+<p begin="00:07:28.099" end="00:07:33.680" style="s2">drin gefühlt hat das erlebt hat wobei</p>
+<p begin="00:07:31.319" end="00:07:36.419" style="s2">diese Schilderung wahrscheinlich nur</p>
+<p begin="00:07:33.680" end="00:07:37.919" style="s2">eins ein Erlebnis ist von vielen die er</p>
+<p begin="00:07:36.419" end="00:07:40.620" style="s2">gehabt haben muss in dieser Zeit aber</p>
+<p begin="00:07:37.919" end="00:07:41.080" style="s2">die wir eben nicht kennen dann hat er</p>
+<p begin="00:07:40.620" end="00:07:42.199" style="s2">eben</p>
+<p begin="00:07:41.080" end="00:07:45.479" style="s2">[Musik]</p>
+<p begin="00:07:42.199" end="00:07:47.580" style="s2">als er hat schon in der Schule sich sehr</p>
+<p begin="00:07:45.479" end="00:07:50.819" style="s2">intensiv mit Philosophie beschäftigt da</p>
+<p begin="00:07:47.580" end="00:07:53.280" style="s2">hat mit 16 Jahren kalt gelesen unter dem</p>
+<p begin="00:07:50.819" end="00:07:55.440" style="s2">Tisch und hat sich mit der Frage</p>
+<p begin="00:07:53.280" end="00:07:57.800" style="s2">beschäftigt wie kann das was ich</p>
+<p begin="00:07:55.440" end="00:08:01.680" style="s2">übersinnliche erlebe wie kann ich das</p>
+<p begin="00:07:57.800" end="00:08:06.780" style="s2">gedanklich begreifen und wie kann ich</p>
+<p begin="00:08:01.680" end="00:08:09.660" style="s2">das ähm wie kann ich das auch gedanklich</p>
+<p begin="00:08:06.780" end="00:08:12.000" style="s2">darstellen nach außen also wie kann ich</p>
+<p begin="00:08:09.660" end="00:08:13.680" style="s2">das verständlich machen und hat dann</p>
+<p begin="00:08:12.000" end="00:08:15.319" style="s2">Naturwissenschaften studiert in Wien</p>
+<p begin="00:08:13.680" end="00:08:16.560" style="s2">also sehr breites</p>
+<p begin="00:08:15.319" end="00:08:20.580" style="s2">naturwissenschaftliches Studium</p>
+<p begin="00:08:16.560" end="00:08:22.199" style="s2">gleichzeitig ganz intensiv mit deutscher</p>
+<p begin="00:08:20.580" end="00:08:23.940" style="s2">Philosophie und deutscher Literatur</p>
+<p begin="00:08:22.199" end="00:08:26.539" style="s2">beschäftigt</p>
+<p begin="00:08:23.940" end="00:08:29.340" style="s2">muss ein unglaublich</p>
+<p begin="00:08:26.539" end="00:08:32.820" style="s2">schnell Lernender Mensch gewesen sein</p>
+<p begin="00:08:29.340" end="00:08:36.120" style="s2">eine riesige Fülle von von Inhalten</p>
+<p begin="00:08:32.820" end="00:08:39.300" style="s2">verarbeitet und hat dann sich sehr</p>
+<p begin="00:08:36.120" end="00:08:41.180" style="s2">intensiv mit einmal mit der deutschen</p>
+<p begin="00:08:39.300" end="00:08:44.039" style="s2">Philosophie mit</p>
+<p begin="00:08:41.180" end="00:08:46.020" style="s2">Philosophen wie Schilling und Fichte</p>
+<p begin="00:08:44.039" end="00:08:48.600" style="s2">beschäftigt und diese Philosophen hatten</p>
+<p begin="00:08:46.020" end="00:08:51.660" style="s2">einen philosophisch einen gedanklichen</p>
+<p begin="00:08:48.600" end="00:08:53.940" style="s2">Zugang zum geistigen beschrieben den er</p>
+<p begin="00:08:51.660" end="00:08:56.100" style="s2">für sich selber auch nachvollzogen hat</p>
+<p begin="00:08:53.940" end="00:08:58.860" style="s2">und auch erlebnismäßig nachvollzogen hat</p>
+<p begin="00:08:56.100" end="00:09:03.240" style="s2">gibt es einen berühmten Brief</p>
+<p begin="00:08:58.860" end="00:09:05.640" style="s2">da war er 18,5 19 Jahre alt da hat er</p>
+<p begin="00:09:03.240" end="00:09:08.459" style="s2">nachts beschreibt er wie ein nachts</p>
+<p begin="00:09:05.640" end="00:09:10.440" style="s2">Schelling studiert hat und wie Schilling</p>
+<p begin="00:09:08.459" end="00:09:14.940" style="s2">dann in einem Text beschreibt es gibt in</p>
+<p begin="00:09:10.440" end="00:09:16.800" style="s2">uns die Fähigkeit und innerlich in einem</p>
+<p begin="00:09:14.940" end="00:09:19.740" style="s2">in das innerste Allerheiligste</p>
+<p begin="00:09:16.800" end="00:09:21.420" style="s2">zurückzuziehen und dort das ewige in uns</p>
+<p begin="00:09:19.740" end="00:09:23.820" style="s2">anzuschauen</p>
+<p begin="00:09:21.420" end="00:09:26.459" style="s2">dieses Erlebnis muss Rudolf Steiner in</p>
+<p begin="00:09:23.820" end="00:09:30.240" style="s2">dieser Nacht auch ganz intensiv erlebt</p>
+<p begin="00:09:26.459" end="00:09:32.040" style="s2">haben so dass er am total erschüttert</p>
+<p begin="00:09:30.240" end="00:09:34.339" style="s2">war davon auch noch mal und am nächsten</p>
+<p begin="00:09:32.040" end="00:09:36.660" style="s2">Tag dann muss ein bisschen</p>
+<p begin="00:09:34.339" end="00:09:38.580" style="s2">trottelig gewesen sein als junger Mann</p>
+<p begin="00:09:36.660" end="00:09:41.519" style="s2">am nächsten Tag hat er sich aus Versehen</p>
+<p begin="00:09:38.580" end="00:09:43.560" style="s2">ich glaube sogar auf eine Brille gesetzt</p>
+<p begin="00:09:41.519" end="00:09:45.660" style="s2">im Zug von einer Dame weil es gar nicht</p>
+<p begin="00:09:43.560" end="00:09:48.600" style="s2">weil er so erfüllt war von diesem</p>
+<p begin="00:09:45.660" end="00:09:50.779" style="s2">geistigen Erlebnis und beschreibt er das</p>
+<p begin="00:09:48.600" end="00:09:54.959" style="s2">nicht näher was er da erlebt hat</p>
+<p begin="00:09:50.779" end="00:09:56.940" style="s2">doch er beschreibt nein das beschreibt</p>
+<p begin="00:09:54.959" end="00:09:58.800" style="s2">er da nicht mehr also er beschreibt nur</p>
+<p begin="00:09:56.940" end="00:10:00.420" style="s2">dass er so ein spirituelles Erlebnis</p>
+<p begin="00:09:58.800" end="00:10:03.240" style="s2">gehabt hat also man könnte vielleicht</p>
+<p begin="00:10:00.420" end="00:10:06.240" style="s2">jetzt in moderner Sprache sagen</p>
+<p begin="00:10:03.240" end="00:10:10.140" style="s2">in dem was man heute weiß ein Erlebnis</p>
+<p begin="00:10:06.240" end="00:10:12.360" style="s2">ist der das Leid fallen Bewusstseins ist</p>
+<p begin="00:10:10.140" end="00:10:14.760" style="s2">ja oder manche würden vielleicht sagen</p>
+<p begin="00:10:12.360" end="00:10:17.700" style="s2">es war ein mystisches Erlebnis ein</p>
+<p begin="00:10:14.760" end="00:10:19.140" style="s2">mystisches Erlebnis und dann hat er aber</p>
+<p begin="00:10:17.700" end="00:10:22.500" style="s2">das wollte ich auch sagen dann hat er</p>
+<p begin="00:10:19.140" end="00:10:24.899" style="s2">den Weg gesucht durch die in der</p>
+<p begin="00:10:22.500" end="00:10:26.399" style="s2">Philosophie oder die Frage wie komme ich</p>
+<p begin="00:10:24.899" end="00:10:28.279" style="s2">jetzt aus diesen inneren mystischen</p>
+<p begin="00:10:26.399" end="00:10:31.279" style="s2">Erlebnissen die für ihn eine</p>
+<p begin="00:10:28.279" end="00:10:34.200" style="s2">unbezweifelbare Wirklichkeit waren</p>
+<p begin="00:10:31.279" end="00:10:36.660" style="s2">da kann ich das ist ich Erlebnis da kann</p>
+<p begin="00:10:34.200" end="00:10:38.399" style="s2">ich nicht dran rütteln wie komme ich von</p>
+<p begin="00:10:36.660" end="00:10:40.200" style="s2">da aus zu dem geistigen zu dem</p>
+<p begin="00:10:38.399" end="00:10:42.080" style="s2">spirituellen in der Welt und in der</p>
+<p begin="00:10:40.200" end="00:10:45.000" style="s2">Natur</p>
+<p begin="00:10:42.080" end="00:10:47.459" style="s2">und mit dieser Frage hat er angeknüpft</p>
+<p begin="00:10:45.000" end="00:10:49.980" style="s2">an Goethe er hat sich dann 14 Jahre lang</p>
+<p begin="00:10:47.459" end="00:10:51.120" style="s2">als Herausgeber intensivst mit Goethe</p>
+<p begin="00:10:49.980" end="00:10:52.500" style="s2">beschäftigt hat Goethes</p>
+<p begin="00:10:51.120" end="00:10:55.440" style="s2">naturwissenschaftliche Schriften</p>
+<p begin="00:10:52.500" end="00:10:58.500" style="s2">herausgegeben und hat eben dann einen</p>
+<p begin="00:10:55.440" end="00:11:01.079" style="s2">Weg entwickelt beschrieben den man</p>
+<p begin="00:10:58.500" end="00:11:03.720" style="s2">anhand von Goethes Naturforschung gehen</p>
+<p begin="00:11:01.079" end="00:11:05.100" style="s2">kann der aus der Naturerfahrung in des</p>
+<p begin="00:11:03.720" end="00:11:07.079" style="s2">geistige in die Spiritualität</p>
+<p begin="00:11:05.100" end="00:11:09.000" style="s2">hineinführt</p>
+<p begin="00:11:07.079" end="00:11:10.620" style="s2">und das ist so ich erzähle dass du</p>
+<p begin="00:11:09.000" end="00:11:12.540" style="s2">ausführlich weil es so die Grundlage der</p>
+<p begin="00:11:10.620" end="00:11:15.660" style="s2">Anthroposophie ist ist es eben nicht</p>
+<p begin="00:11:12.540" end="00:11:18.839" style="s2">eine Weltanschauung die oder eine</p>
+<p begin="00:11:15.660" end="00:11:22.140" style="s2">Methode die jetzt ins Geistige abhebt</p>
+<p begin="00:11:18.839" end="00:11:24.120" style="s2">sozusagen sondern die den Weg sucht ihn</p>
+<p begin="00:11:22.140" end="00:11:26.399" style="s2">zum geistigen in der Welt in der Natur</p>
+<p begin="00:11:24.120" end="00:11:28.260" style="s2">im anderen Menschen nicht nur in der</p>
+<p begin="00:11:26.399" end="00:11:30.420" style="s2">eigenen inneren Erfahrung</p>
+<p begin="00:11:28.260" end="00:11:32.480" style="s2">in der Konsequenz sind letzten Endes</p>
+<p begin="00:11:30.420" end="00:11:34.680" style="s2">daraus eben dann auch die praktischen</p>
+<p begin="00:11:32.480" end="00:11:37.320" style="s2">Anwendung der Anthroposophie entstanden</p>
+<p begin="00:11:34.680" end="00:11:38.779" style="s2">also die Waldorfpädagogik die für die</p>
+<p begin="00:11:37.320" end="00:11:42.300" style="s2">dynamische Landwirtschaft die andere</p>
+<p begin="00:11:38.779" end="00:11:45.860" style="s2">Medizin die alle dazu geschaffen sind</p>
+<p begin="00:11:42.300" end="00:11:47.880" style="s2">und nicht nur das geistige Grundlage der</p>
+<p begin="00:11:45.860" end="00:11:49.860" style="s2">Erkenntnis des geistigen in der Welt</p>
+<p begin="00:11:47.880" end="00:11:52.339" style="s2">aber um jetzt auf auf dieser Grundlage</p>
+<p begin="00:11:49.860" end="00:11:55.140" style="s2">dieser Erkenntnisse positiv</p>
+<p begin="00:11:52.339" end="00:11:56.940" style="s2">konstruktiv Zukunft schaffen und in der</p>
+<p begin="00:11:55.140" end="00:11:58.860" style="s2">Welt zu werden und das war eben die</p>
+<p begin="00:11:56.940" end="00:12:01.079" style="s2">Steine großes Anliegen es gingen nicht</p>
+<p begin="00:11:58.860" end="00:12:03.540" style="s2">primär und die Spiritualität sondern um</p>
+<p begin="00:12:01.079" end="00:12:07.579" style="s2">die Verwandlung des Menschen und der</p>
+<p begin="00:12:03.540" end="00:12:07.579" style="s2">Welt durch die Spiritualität</p>
+<p begin="00:12:08.300" end="00:12:12.200" style="s2">und diese</p>
+<p begin="00:12:10.700" end="00:12:15.180" style="s2">Anthroposophie ist ja relativ</p>
+<p begin="00:12:12.200" end="00:12:18.360" style="s2">umfangreich mit vielen verschiedenen</p>
+<p begin="00:12:15.180" end="00:12:21.540" style="s2">Aspekten also</p>
+<p begin="00:12:18.360" end="00:12:23.700" style="s2">harte Steine dann nicht auch noch</p>
+<p begin="00:12:21.540" end="00:12:27.779" style="s2">ständig eine eine Verbindung sozusagen</p>
+<p begin="00:12:23.700" end="00:12:31.140" style="s2">zum geistigen ja absolut also das hat er</p>
+<p begin="00:12:27.779" end="00:12:33.000" style="s2">auch immer betont dass er auf der einen</p>
+<p begin="00:12:31.140" end="00:12:34.740" style="s2">Seite eben an die deutsche Philosophie</p>
+<p begin="00:12:33.000" end="00:12:36.839" style="s2">anknüpft an den deutschen Idealismus</p>
+<p begin="00:12:34.740" end="00:12:38.700" style="s2">oder sagen wir einen mitteleuropäischen</p>
+<p begin="00:12:36.839" end="00:12:40.800" style="s2">Idealismus und mitteleuropäische</p>
+<p begin="00:12:38.700" end="00:12:42.600" style="s2">Philosophie</p>
+<p begin="00:12:40.800" end="00:12:45.180" style="s2">und er hat dann aber nach der</p>
+<p begin="00:12:42.600" end="00:12:47.760" style="s2">Jahrhundertwende genau eigentlich zwei</p>
+<p begin="00:12:45.180" end="00:12:50.399" style="s2">Jahrhundertwende 1900 in Berlin</p>
+<p begin="00:12:47.760" end="00:12:52.620" style="s2">angefangen auf Einladung in der</p>
+<p begin="00:12:50.399" end="00:12:55.019" style="s2">Theosophischen Gesellschaft Vorträge zu</p>
+<p begin="00:12:52.620" end="00:12:57.360" style="s2">halten und diese Tier so Fische</p>
+<p begin="00:12:55.019" end="00:13:00.240" style="s2">Gesellschaft war sehr stark inspiriert</p>
+<p begin="00:12:57.360" end="00:13:02.180" style="s2">durch östliche Theologie</p>
+<p begin="00:13:00.240" end="00:13:05.279" style="s2">also aus Indien</p>
+<p begin="00:13:02.180" end="00:13:07.680" style="s2">uralte Weisheitslehren und Steine hat</p>
+<p begin="00:13:05.279" end="00:13:10.220" style="s2">aber gesagt ich bleibe ich knüpfen die</p>
+<p begin="00:13:07.680" end="00:13:12.959" style="s2">europäische esoterische Tradition an</p>
+<p begin="00:13:10.220" end="00:13:15.600" style="s2">aber ich habe hier Menschen die sich</p>
+<p begin="00:13:12.959" end="00:13:17.760" style="s2">dafür interessieren die dafür offen sind</p>
+<p begin="00:13:15.600" end="00:13:19.980" style="s2">und er hat immer von Anfang an gesagt</p>
+<p begin="00:13:17.760" end="00:13:22.139" style="s2">ich stelle nur das da was ich aus</p>
+<p begin="00:13:19.980" end="00:13:23.880" style="s2">eigener Erfahrung durchdrungen habe was</p>
+<p begin="00:13:22.139" end="00:13:26.300" style="s2">ich selber gesehen habe und selber</p>
+<p begin="00:13:23.880" end="00:13:26.300" style="s2">verstanden</p>
+<p begin="00:13:26.339" end="00:13:31.560" style="s2">insofern das man kann das wenn man sich</p>
+<p begin="00:13:29.940" end="00:13:33.300" style="s2">intensiv damit beschäftigt oder</p>
+<p begin="00:13:31.560" end="00:13:36.420" style="s2">vielleicht sogar auch schon beim ersten</p>
+<p begin="00:13:33.300" end="00:13:38.880" style="s2">Lesen von Steiner spüren dass da eine</p>
+<p begin="00:13:36.420" end="00:13:41.579" style="s2">unglaubliche Verantwortlichkeit steckt</p>
+<p begin="00:13:38.880" end="00:13:44.459" style="s2">in jedem jeder Formulierung in jedem</p>
+<p begin="00:13:41.579" end="00:13:46.740" style="s2">Wort wo man das Gefühl hat haben kann</p>
+<p begin="00:13:44.459" end="00:13:48.300" style="s2">und auch immer stärker bekommen kann ich</p>
+<p begin="00:13:46.740" end="00:13:50.100" style="s2">habe das zum Beispiel immer stärker</p>
+<p begin="00:13:48.300" end="00:13:53.339" style="s2">ausgebaut im Laufe meines Lebens dass</p>
+<p begin="00:13:50.100" end="00:13:55.500" style="s2">man in der vertrauen kann wenn er sagt</p>
+<p begin="00:13:53.339" end="00:13:58.380" style="s2">er hat es selber erforscht hat selber</p>
+<p begin="00:13:55.500" end="00:14:00.660" style="s2">gesehen was er da beschreibt und könnten</p>
+<p begin="00:13:58.380" end="00:14:02.959" style="s2">sie das noch etwas näher beschreiben wie</p>
+<p begin="00:14:00.660" end="00:14:05.459" style="s2">man seinen Erkenntnis gewinnt</p>
+<p begin="00:14:02.959" end="00:14:06.899" style="s2">sich vorstellen kann also abgesehen von</p>
+<p begin="00:14:05.459" end="00:14:10.820" style="s2">diesen konkreten übersinnlichen</p>
+<p begin="00:14:06.899" end="00:14:13.860" style="s2">Erlebnissen hat der er hatte nicht jetzt</p>
+<p begin="00:14:10.820" end="00:14:16.380" style="s2">wie ein Einheit Medium oder so das</p>
+<p begin="00:14:13.860" end="00:14:19.639" style="s2">niedergeschrieben aber wie wie dieser</p>
+<p begin="00:14:16.380" end="00:14:19.639" style="s2">auf diese Erkenntnisse gekommen</p>
+<p begin="00:14:20.040" end="00:14:26.339" style="s2">ja also Rudolf Steiner konnte bei sich</p>
+<p begin="00:14:22.800" end="00:14:29.760" style="s2">ich drücke das jetzt auch in meinem in</p>
+<p begin="00:14:26.339" end="00:14:32.459" style="s2">meinem Verständnis aus ähm er konnte bei</p>
+<p begin="00:14:29.760" end="00:14:35.540" style="s2">sich Zustände herbeiführen wo er sich</p>
+<p begin="00:14:32.459" end="00:14:37.680" style="s2">mit seinem Bewusstsein aus seiner</p>
+<p begin="00:14:35.540" end="00:14:39.920" style="s2">leiblichen Verankerung herausheben</p>
+<p begin="00:14:37.680" end="00:14:39.920" style="s2">konnte</p>
+<p begin="00:14:40.339" end="00:14:46.500" style="s2">ich kann das nicht genau beurteilen wie</p>
+<p begin="00:14:44.160" end="00:14:48.959" style="s2">lange das für ihn möglich war es gibt</p>
+<p begin="00:14:46.500" end="00:14:50.579" style="s2">verschiedene Hinweise das Steiner darauf</p>
+<p begin="00:14:48.959" end="00:14:52.920" style="s2">Hinweis diese übersinnlichen Erfahrung</p>
+<p begin="00:14:50.579" end="00:14:55.079" style="s2">sind sehr schnell und man muss sie halt</p>
+<p begin="00:14:52.920" end="00:14:56.459" style="s2">ganz bewusst greifen wenn man sie hat er</p>
+<p begin="00:14:55.079" end="00:14:58.199" style="s2">sagt sogar mal die meisten Menschen</p>
+<p begin="00:14:56.459" end="00:14:59.519" style="s2">haben dauernd solche Erfahrungen sie</p>
+<p begin="00:14:58.199" end="00:15:01.560" style="s2">kriegen und nicht mit was zu schnell</p>
+<p begin="00:14:59.519" end="00:15:04.699" style="s2">gehen</p>
+<p begin="00:15:01.560" end="00:15:07.500" style="s2">und er konnte das aufgrund einer ganz</p>
+<p begin="00:15:04.699" end="00:15:09.300" style="s2">strengen inneren meditativen Schulung</p>
+<p begin="00:15:07.500" end="00:15:11.579" style="s2">der durchlaufen hat noch mal ganz</p>
+<p begin="00:15:09.300" end="00:15:14.940" style="s2">bewusst für sich konnte er diese</p>
+<p begin="00:15:11.579" end="00:15:18.019" style="s2">Zustände eben sagen wir mal bewusst</p>
+<p begin="00:15:14.940" end="00:15:21.360" style="s2">dabei fühlen induzieren und dann</p>
+<p begin="00:15:18.019" end="00:15:23.699" style="s2">beschreibt es so dass er mit bestimmten</p>
+<p begin="00:15:21.360" end="00:15:26.639" style="s2">Fragen in die geistige Welt</p>
+<p begin="00:15:23.699" end="00:15:28.980" style="s2">hineingegangen ist und durch die Frage</p>
+<p begin="00:15:26.639" end="00:15:30.899" style="s2">ist man in dem geistigen orientiert und</p>
+<p begin="00:15:28.980" end="00:15:34.139" style="s2">kann dann das was man da erlebt als</p>
+<p begin="00:15:30.899" end="00:15:36.240" style="s2">Antwort wieder zurückholen wobei gerade</p>
+<p begin="00:15:34.139" end="00:15:39.079" style="s2">diese Fähigkeit ist als Antwort wieder</p>
+<p begin="00:15:36.240" end="00:15:42.480" style="s2">zurückzuholen ganz besonders</p>
+<p begin="00:15:39.079" end="00:15:43.820" style="s2">oder Steine ausgebildet war</p>
+<p begin="00:15:42.480" end="00:15:46.680" style="s2">weil</p>
+<p begin="00:15:43.820" end="00:15:50.220" style="s2">er hat dann das z.B immer sofort</p>
+<p begin="00:15:46.680" end="00:15:51.660" style="s2">aufgeschrieben nicht ums hinterher noch</p>
+<p begin="00:15:50.220" end="00:15:54.920" style="s2">mal anzuschauen sondern um es richtig</p>
+<p begin="00:15:51.660" end="00:15:54.920" style="s2">auf die sozusagen</p>
+<p begin="00:15:56.040" end="00:16:01.260" style="s2">also vielleicht kann ich das so erklären</p>
+<p begin="00:15:58.920" end="00:16:03.740" style="s2">wenn man wenn man was träumt nachts wenn</p>
+<p begin="00:16:01.260" end="00:16:06.120" style="s2">man nicht sehr gutes Gedächtnis hat dann</p>
+<p begin="00:16:03.740" end="00:16:07.860" style="s2">verrät das geht das weg und Steiner</p>
+<p begin="00:16:06.120" end="00:16:10.079" style="s2">konnte das Wasser da erlebt hat in</p>
+<p begin="00:16:07.860" end="00:16:12.980" style="s2">diesem nicht traumähnlichen sondern ganz</p>
+<p begin="00:16:10.079" end="00:16:16.019" style="s2">bewussten Zustand konnte das eben wieder</p>
+<p begin="00:16:12.980" end="00:16:17.579" style="s2">dann ins normale Bewusstsein holen und</p>
+<p begin="00:16:16.019" end="00:16:21.139" style="s2">formulieren und dann hat er das noch</p>
+<p begin="00:16:17.579" end="00:16:21.139" style="s2">eine philosophische Sprache gebracht</p>
+<p begin="00:16:21.660" end="00:16:25.610" style="s2">also insofern</p>
+<p begin="00:16:23.600" end="00:16:27.779" style="s2">hat er dann eben</p>
+<p begin="00:16:25.610" end="00:16:29.820" style="s2">[Musik]</p>
+<p begin="00:16:27.779" end="00:16:32.279" style="s2">das ist das eine was man sagen kann und</p>
+<p begin="00:16:29.820" end="00:16:33.560" style="s2">das andere ist dass er eine unglaublich</p>
+<p begin="00:16:32.279" end="00:16:36.660" style="s2">starke</p>
+<p begin="00:16:33.560" end="00:16:38.759" style="s2">Wache Beobachtungsgabe weiß ich immer</p>
+<p begin="00:16:36.660" end="00:16:40.560" style="s2">fortgeschult hat für alles was er</p>
+<p begin="00:16:38.759" end="00:16:42.980" style="s2">gesehen hat für sie Kinder entwickeln</p>
+<p begin="00:16:40.560" end="00:16:45.680" style="s2">für wie Pflanzen wachsen was ihre sind</p>
+<p begin="00:16:42.980" end="00:16:48.240" style="s2">die Natur arbeitet</p>
+<p begin="00:16:45.680" end="00:16:50.459" style="s2">wie die Gesellschaft arbeitet was</p>
+<p begin="00:16:48.240" end="00:16:52.320" style="s2">Krankheiten sind also Stein aber ein</p>
+<p begin="00:16:50.459" end="00:16:54.420" style="s2">unglaublich intensiver Beobachter und</p>
+<p begin="00:16:52.320" end="00:16:56.720" style="s2">dieses Material was er da beobachtet hat</p>
+<p begin="00:16:54.420" end="00:17:00.959" style="s2">hat er dann</p>
+<p begin="00:16:56.720" end="00:17:04.920" style="s2">ja geistlich befragt und und durch</p>
+<p begin="00:17:00.959" end="00:17:04.920" style="s2">geistige Erfahrung durchleuchtet</p>
+<p begin="00:17:05.100" end="00:17:09.900" style="s2">und sie haben sich ja auch mit NATO</p>
+<p begin="00:17:07.260" end="00:17:12.500" style="s2">Erfahrungen befasst ja würden Sie sagen</p>
+<p begin="00:17:09.900" end="00:17:16.199" style="s2">dass sie da eher Gemeinsamkeiten sehen</p>
+<p begin="00:17:12.500" end="00:17:17.939" style="s2">zwischen NATO Erfahrungen und der</p>
+<p begin="00:17:16.199" end="00:17:22.860" style="s2">Anthroposophie</p>
+<p begin="00:17:17.939" end="00:17:25.500" style="s2">ja unbedingt also ich habe ja im Anfang</p>
+<p begin="00:17:22.860" end="00:17:27.059" style="s2">Juni einen Vortrag dazu gehalten in</p>
+<p begin="00:17:25.500" end="00:17:28.319" style="s2">Stuttgart der auch im Netz zur Verfügung</p>
+<p begin="00:17:27.059" end="00:17:30.960" style="s2">ist vielleicht können sie das ja mit</p>
+<p begin="00:17:28.319" end="00:17:34.860" style="s2">einblenden in dem Video</p>
+<p begin="00:17:30.960" end="00:17:37.559" style="s2">und das ist tatsächlich aus meiner Sicht</p>
+<p begin="00:17:34.860" end="00:17:40.020" style="s2">so dass das was von den Menschen</p>
+<p begin="00:17:37.559" end="00:17:42.240" style="s2">beschrieben wird die Nahtoderfahrungen</p>
+<p begin="00:17:40.020" end="00:17:47.700" style="s2">durchmachen</p>
+<p begin="00:17:42.240" end="00:17:50.340" style="s2">dass das ganz genau zu verstehen ist</p>
+<p begin="00:17:47.700" end="00:17:52.760" style="s2">durch die Darstellung oder Steiners also</p>
+<p begin="00:17:50.340" end="00:17:54.600" style="s2">wir haben dazu</p>
+<p begin="00:17:52.760" end="00:17:56.700" style="s2">Verständnismöglichkeiten warum das</p>
+<p begin="00:17:54.600" end="00:17:58.700" style="s2">überhaupt möglich ist was dabei passiert</p>
+<p begin="00:17:56.700" end="00:18:01.679" style="s2">welche Teile des Menschen dabei</p>
+<p begin="00:17:58.700" end="00:18:03.140" style="s2">betroffen sind warum man sich daran</p>
+<p begin="00:18:01.679" end="00:18:06.240" style="s2">erinnern kann</p>
+<p begin="00:18:03.140" end="00:18:08.340" style="s2">wie der Ablauf ist das sind alles Dinge</p>
+<p begin="00:18:06.240" end="00:18:09.900" style="s2">was mit diesem lebensrückblick ist woher</p>
+<p begin="00:18:08.340" end="00:18:12.140" style="s2">der kommt es in alles Dinge die man</p>
+<p begin="00:18:09.900" end="00:18:14.580" style="s2">tatsächlich mit andere philosophischen</p>
+<p begin="00:18:12.140" end="00:18:17.640" style="s2">Konzepten sage ich mal jetzt verstehen</p>
+<p begin="00:18:14.580" end="00:18:19.380" style="s2">kann und umgekehrt ist es für mich auch</p>
+<p begin="00:18:17.640" end="00:18:21.299" style="s2">persönlich so gewesen die Beschäftigung</p>
+<p begin="00:18:19.380" end="00:18:22.860" style="s2">mit NATO das Erlebnissen hat noch mal</p>
+<p begin="00:18:21.299" end="00:18:25.260" style="s2">für mich ganz stark bestätigt die</p>
+<p begin="00:18:22.860" end="00:18:27.360" style="s2">Wirklichkeit des spirituellen und dann</p>
+<p begin="00:18:25.260" end="00:18:29.000" style="s2">auch die Wirklichkeit dessen wovon oder</p>
+<p begin="00:18:27.360" end="00:18:33.059" style="s2">Steiner wirklich</p>
+<p begin="00:18:29.000" end="00:18:35.340" style="s2">und in der Philosophie Rudolf Steiners</p>
+<p begin="00:18:33.059" end="00:18:37.799" style="s2">hat ja auch der Apostel Paulus eine</p>
+<p begin="00:18:35.340" end="00:18:41.640" style="s2">Rolle gespielt hat sich Steiner selbst</p>
+<p begin="00:18:37.799" end="00:18:43.620" style="s2">auch als Christ bezeichnet ja</p>
+<p begin="00:18:41.640" end="00:18:46.200" style="s2">können Sie da das ungefähr beschreiben</p>
+<p begin="00:18:43.620" end="00:18:48.419" style="s2">wie ist da der Zusammenhang zu Paulus</p>
+<p begin="00:18:46.200" end="00:18:51.960" style="s2">und zum Christentum</p>
+<p begin="00:18:48.419" end="00:18:53.940" style="s2">also der Zusammenhang natürlich hohe</p>
+<p begin="00:18:51.960" end="00:18:56.400" style="s2">fragen</p>
+<p begin="00:18:53.940" end="00:18:58.320" style="s2">der Zusammenhang ist so dass oder Steine</p>
+<p begin="00:18:56.400" end="00:19:00.900" style="s2">oft sich auf Paulus bezogen hat auf</p>
+<p begin="00:18:58.320" end="00:19:02.360" style="s2">dieses Erlebnis vor Damaskus vor Paulus</p>
+<p begin="00:19:00.900" end="00:19:05.580" style="s2">ja eine</p>
+<p begin="00:19:02.360" end="00:19:09.020" style="s2">ganz klare übersinnliche Erscheinung des</p>
+<p begin="00:19:05.580" end="00:19:09.020" style="s2">auferstandenen Christus hatte</p>
+<p begin="00:19:09.539" end="00:19:11.940" style="s2">und</p>
+<p begin="00:19:10.380" end="00:19:14.360" style="s2">[Musik]</p>
+<p begin="00:19:11.940" end="00:19:14.360" style="s2">diese</p>
+<p begin="00:19:14.840" end="00:19:19.799" style="s2">Wahrnehmung hat oder Steine auch gehabt</p>
+<p begin="00:19:17.660" end="00:19:22.860" style="s2">er beschreibt auch in seiner</p>
+<p begin="00:19:19.799" end="00:19:25.140" style="s2">Autobiografie das ist im Ende des 19</p>
+<p begin="00:19:22.860" end="00:19:28.620" style="s2">Jahrhunderts in einer Krisenphase die er</p>
+<p begin="00:19:25.140" end="00:19:31.440" style="s2">durchlaufen hat eine absolut zentrales</p>
+<p begin="00:19:28.620" end="00:19:34.220" style="s2">Erlebnis seiner ganzen Erkenntnis seines</p>
+<p begin="00:19:31.440" end="00:19:36.900" style="s2">ganzen Erkenntnis Weges war dass er</p>
+<p begin="00:19:34.220" end="00:19:40.160" style="s2">sagt das so dass er vor dem Mysterium</p>
+<p begin="00:19:36.900" end="00:19:42.120" style="s2">von Golgatha gestanden ist innerlich</p>
+<p begin="00:19:40.160" end="00:19:44.520" style="s2">man könnte sagen dass er eine</p>
+<p begin="00:19:42.120" end="00:19:47.220" style="s2">christuserfahrung gehabt hat</p>
+<p begin="00:19:44.520" end="00:19:48.960" style="s2">und die ganze Anthroposophie ist von</p>
+<p begin="00:19:47.220" end="00:19:50.640" style="s2">dieser Kraft des Christentums</p>
+<p begin="00:19:48.960" end="00:19:53.160" style="s2">durchleuchtet also Rudolf Steiner hat</p>
+<p begin="00:19:50.640" end="00:19:54.840" style="s2">auch sehr oft sich auf den Ausbruch des</p>
+<p begin="00:19:53.160" end="00:19:57.799" style="s2">Paulus bezogen nicht ich sondern</p>
+<p begin="00:19:54.840" end="00:19:57.799" style="s2">Christus in mir</p>
+<p begin="00:19:58.080" end="00:20:02.580" style="s2">so dass</p>
+<p begin="00:19:59.480" end="00:20:05.100" style="s2">[Musik]</p>
+<p begin="00:20:02.580" end="00:20:07.200" style="s2">das hier ein esoterisches man kann sagen</p>
+<p begin="00:20:05.100" end="00:20:09.059" style="s2">die auch für mich persönlich die</p>
+<p begin="00:20:07.200" end="00:20:11.760" style="s2">Anthroposophie hat mir einen Zugang zum</p>
+<p begin="00:20:09.059" end="00:20:14.220" style="s2">Christentum ermöglicht und zwar auch</p>
+<p begin="00:20:11.760" end="00:20:16.500" style="s2">insbesondere zum zum esoterischen</p>
+<p begin="00:20:14.220" end="00:20:19.260" style="s2">Verständnis des Christen</p>
+<p begin="00:20:16.500" end="00:20:21.740" style="s2">t und das sieht Steiner eben auch bei</p>
+<p begin="00:20:19.260" end="00:20:23.940" style="s2">Paulus also zumindest in diesem Erlebnis</p>
+<p begin="00:20:21.740" end="00:20:26.039" style="s2">er bezieht sich aber nicht nur auf</p>
+<p begin="00:20:23.940" end="00:20:28.860" style="s2">Paulus sondern intensiv auch auf das</p>
+<p begin="00:20:26.039" end="00:20:30.419" style="s2">Johannesevangelium auf Johannes und hat</p>
+<p begin="00:20:28.860" end="00:20:31.700" style="s2">überhaupt viele auch über die Evangelien</p>
+<p begin="00:20:30.419" end="00:20:33.900" style="s2">insgesamt gesprochen</p>
+<p begin="00:20:31.700" end="00:20:36.000" style="s2">[Musik]</p>
+<p begin="00:20:33.900" end="00:20:37.820" style="s2">denn beim Johannes Evangelium kommt noch</p>
+<p begin="00:20:36.000" end="00:20:39.919" style="s2">dazu bei Paulus kommt ja diese</p>
+<p begin="00:20:37.820" end="00:20:43.020" style="s2">persönliche</p>
+<p begin="00:20:39.919" end="00:20:45.240" style="s2">Umwandlung des Menschen vom alten Adam</p>
+<p begin="00:20:43.020" end="00:20:47.280" style="s2">in den neuen Adam oder zieht den den</p>
+<p begin="00:20:45.240" end="00:20:49.679" style="s2">neuen Adam an oder nicht kennen die</p>
+<p begin="00:20:47.280" end="00:20:51.059" style="s2">Formulierung ganz genau und im</p>
+<p begin="00:20:49.679" end="00:20:53.280" style="s2">Johannesevangelium ist eben dieser</p>
+<p begin="00:20:51.059" end="00:20:55.140" style="s2">Aspekt auch das Lagers der sich im</p>
+<p begin="00:20:53.280" end="00:20:56.940" style="s2">Christentum oder in Christus inkariert</p>
+<p begin="00:20:55.140" end="00:20:58.620" style="s2">hat aus dem die ganze Welt</p>
+<p begin="00:20:56.940" end="00:21:00.600" style="s2">hervorgegangen ist und das wäre eben</p>
+<p begin="00:20:58.620" end="00:21:02.580" style="s2">eine andere Formulierung für das was ich</p>
+<p begin="00:21:00.600" end="00:21:05.360" style="s2">am Anfang versucht habe darzustellen für</p>
+<p begin="00:21:02.580" end="00:21:08.820" style="s2">das geistige in der Welt</p>
+<p begin="00:21:05.360" end="00:21:10.620" style="s2">und war Steiner auch Mitglied einer</p>
+<p begin="00:21:08.820" end="00:21:11.720" style="s2">Konfession</p>
+<p begin="00:21:10.620" end="00:21:14.419" style="s2">nein</p>
+<p begin="00:21:11.720" end="00:21:16.220" style="s2">also</p>
+<p begin="00:21:14.419" end="00:21:19.500" style="s2">nein</p>
+<p begin="00:21:16.220" end="00:21:22.740" style="s2">hat er sich geäußert zu den Kirchen zu</p>
+<p begin="00:21:19.500" end="00:21:27.059" style="s2">den insbesondere zur katholischen Kirche</p>
+<p begin="00:21:22.740" end="00:21:28.799" style="s2">oder zum Protestantismus viel aber damit</p>
+<p begin="00:21:27.059" end="00:21:30.480" style="s2">habe ich mich nicht sehr ausführlich</p>
+<p begin="00:21:28.799" end="00:21:33.960" style="s2">beschäftigt</p>
+<p begin="00:21:30.480" end="00:21:36.120" style="s2">also ein Aspekt der Steiner kritisch</p>
+<p begin="00:21:33.960" end="00:21:40.760" style="s2">gesehen hat in der katholischen Kirche</p>
+<p begin="00:21:36.120" end="00:21:40.760" style="s2">ist der römisch-katholische macht oder</p>
+<p begin="00:21:40.820" end="00:21:46.860" style="s2">macht Impuls ja genau</p>
+<p begin="00:21:43.940" end="00:21:50.520" style="s2">und er hat viel über das auch über das</p>
+<p begin="00:21:46.860" end="00:21:54.179" style="s2">irische Christentum gesprochen</p>
+<p begin="00:21:50.520" end="00:21:56.400" style="s2">über die das stärker mit der Natur mit</p>
+<p begin="00:21:54.179" end="00:21:58.559" style="s2">der auch mit der esoterischen Anschauung</p>
+<p begin="00:21:56.400" end="00:22:00.860" style="s2">der Natur verbunden war und viel stärker</p>
+<p begin="00:21:58.559" end="00:22:03.480" style="s2">auch auf die</p>
+<p begin="00:22:00.860" end="00:22:05.539" style="s2">nicht so eine Organisationsstruktur</p>
+<p begin="00:22:03.480" end="00:22:07.320" style="s2">hatte sondern mehr auf die individuelle</p>
+<p begin="00:22:05.539" end="00:22:08.580" style="s2">Persönlichkeit geistige Erfahrung</p>
+<p begin="00:22:07.320" end="00:22:10.380" style="s2">ausgerichtet</p>
+<p begin="00:22:08.580" end="00:22:12.299" style="s2">und wissen Sie ob es damals auch</p>
+<p begin="00:22:10.380" end="00:22:14.820" style="s2">Reaktionen von der Kirche gab auf</p>
+<p begin="00:22:12.299" end="00:22:16.039" style="s2">steinern weil mich erinnert das ein</p>
+<p begin="00:22:14.820" end="00:22:18.840" style="s2">bisschen an</p>
+<p begin="00:22:16.039" end="00:22:20.600" style="s2">Emanuels wedenburg der hat ja auch so</p>
+<p begin="00:22:18.840" end="00:22:23.419" style="s2">eine Technik</p>
+<p begin="00:22:20.600" end="00:22:25.500" style="s2">herausgefunden wodurch er seine</p>
+<p begin="00:22:23.419" end="00:22:27.179" style="s2">außerkörperlichen Erlebnisse hatte und</p>
+<p begin="00:22:25.500" end="00:22:28.919" style="s2">der hat dann auch die Kirche kritisiert</p>
+<p begin="00:22:27.179" end="00:22:33.299" style="s2">und dann wurde er sogar von der Kirche</p>
+<p begin="00:22:28.919" end="00:22:35.820" style="s2">bedroht ja nicht persönlich bedroht</p>
+<p begin="00:22:33.299" end="00:22:38.299" style="s2">worden aber es gab ein katholischen</p>
+<p begin="00:22:35.820" end="00:22:40.500" style="s2">Pfarrer ein glaubeischen katholisch</p>
+<p begin="00:22:38.299" end="00:22:43.400" style="s2">Entschuldigung vielleicht war nicht da</p>
+<p begin="00:22:40.500" end="00:22:47.460" style="s2">weiß katholisch in alles Heim der</p>
+<p begin="00:22:43.400" end="00:22:50.039" style="s2">da wurde das Zentrum der anderen gebaut</p>
+<p begin="00:22:47.460" end="00:22:52.559" style="s2">und da gab es massive öffentliche Kritik</p>
+<p begin="00:22:50.039" end="00:22:54.179" style="s2">gerade von diesem Fahrrad aus an der</p>
+<p begin="00:22:52.559" end="00:22:57.360" style="s2">Kirche oder immer wieder angeheizt an</p>
+<p begin="00:22:54.179" end="00:22:59.600" style="s2">einer Anthroposophie</p>
+<p begin="00:22:57.360" end="00:23:02.720" style="s2">wissen Sie auch etwas über seine</p>
+<p begin="00:22:59.600" end="00:23:05.460" style="s2">Herkunftsfamilie war die eher</p>
+<p begin="00:23:02.720" end="00:23:08.460" style="s2">konfessionell geprägt</p>
+<p begin="00:23:05.460" end="00:23:10.740" style="s2">also das war soweit ich weiß katholische</p>
+<p begin="00:23:08.460" end="00:23:13.140" style="s2">Leute aus Österreich</p>
+<p begin="00:23:10.740" end="00:23:15.419" style="s2">herr Steiner hat auch als Kind schon da</p>
+<p begin="00:23:13.140" end="00:23:17.760" style="s2">in der Nähe gab es einen Kloster die</p>
+<p begin="00:23:15.419" end="00:23:19.740" style="s2">Mönche haben ihn sehr beeindruckt er</p>
+<p begin="00:23:17.760" end="00:23:21.840" style="s2">hatte auch in seiner Wiener</p>
+<p begin="00:23:19.740" end="00:23:25.760" style="s2">Studentenzeit intensiven Kontakt mit</p>
+<p begin="00:23:21.840" end="00:23:25.760" style="s2">hochgebildeten katholischen Menschen</p>
+<p begin="00:23:26.120" end="00:23:30.740" style="s2">hat die sehr geschätzt für ihre Bildung</p>
+<p begin="00:23:31.620" end="00:23:36.980" style="s2">und ihr Vater war eben eisenbahnbeamter</p>
+<p begin="00:23:34.860" end="00:23:41.120" style="s2">und die Mutter war</p>
+<p begin="00:23:36.980" end="00:23:44.159" style="s2">jägerstochter also ganz einfache Leute</p>
+<p begin="00:23:41.120" end="00:23:47.100" style="s2">in einem kleinen winzig kleinen Flecken</p>
+<p begin="00:23:44.159" end="00:23:50.159" style="s2">in Niederösterreich auch gewachsen und</p>
+<p begin="00:23:47.100" end="00:23:52.740" style="s2">wie ist das so bei Ihnen persönlich also</p>
+<p begin="00:23:50.159" end="00:23:55.080" style="s2">sie sind ja Akademiker sie sind auch in</p>
+<p begin="00:23:52.740" end="00:23:57.299" style="s2">der Forschung tätig gewesen haben</p>
+<p begin="00:23:55.080" end="00:23:59.039" style="s2">Kollegen von ihnen Akademiker Kollegen</p>
+<p begin="00:23:57.299" end="00:24:01.380" style="s2">das mitbekommen dass Sie sich für diese</p>
+<p begin="00:23:59.039" end="00:24:03.679" style="s2">Thematik interessieren und wenn ja wie</p>
+<p begin="00:24:01.380" end="00:24:05.760" style="s2">wie sind die damit umgegangen</p>
+<p begin="00:24:03.679" end="00:24:08.720" style="s2">naja man ist dann schon ein bisschen</p>
+<p begin="00:24:05.760" end="00:24:08.720" style="s2">Außenseite</p>
+<p begin="00:24:09.120" end="00:24:13.260" style="s2">also das ist mein einfach ja man ist ja</p>
+<p begin="00:24:11.760" end="00:24:15.120" style="s2">schon ein Außenseiter ich bin ein</p>
+<p begin="00:24:13.260" end="00:24:19.320" style="s2">waldorfpädagoge geworden weil das Lehrer</p>
+<p begin="00:24:15.120" end="00:24:21.860" style="s2">und später Dozent auf Pädagogik und man</p>
+<p begin="00:24:19.320" end="00:24:21.860" style="s2">ist einfach</p>
+<p begin="00:24:24.020" end="00:24:28.860" style="s2">das werden sie ja auch kennen die</p>
+<p begin="00:24:26.340" end="00:24:31.440" style="s2">meisten Menschen die also die wenigen</p>
+<p begin="00:24:28.860" end="00:24:33.299" style="s2">von den Menschen die sich mit Esoterik</p>
+<p begin="00:24:31.440" end="00:24:34.799" style="s2">beschäftigen wenn die in anderen Kreisen</p>
+<p begin="00:24:33.299" end="00:24:37.260" style="s2">unterwegs sind das wird ja meistens</p>
+<p begin="00:24:34.799" end="00:24:39.440" style="s2">nicht ernst genommen aber ich habe ein</p>
+<p begin="00:24:37.260" end="00:24:41.760" style="s2">paar gute Freunde die</p>
+<p begin="00:24:39.440" end="00:24:44.280" style="s2">finden das auch ganz interessant wenn</p>
+<p begin="00:24:41.760" end="00:24:48.659" style="s2">ich da mal erzähle</p>
+<p begin="00:24:44.280" end="00:24:50.460" style="s2">aber das ist dann relativ also das geht</p>
+<p begin="00:24:48.659" end="00:24:52.919" style="s2">nicht besonders tief die Gespräche über</p>
+<p begin="00:24:50.460" end="00:24:55.080" style="s2">die andere Sophie</p>
+<p begin="00:24:52.919" end="00:24:57.539" style="s2">also Rudolf Steiner das haben sie vorher</p>
+<p begin="00:24:55.080" end="00:24:59.280" style="s2">schon erwähnt dem ging es ja auch darum</p>
+<p begin="00:24:57.539" end="00:25:01.679" style="s2">dass das jetzt nicht irgendeinen</p>
+<p begin="00:24:59.280" end="00:25:04.980" style="s2">abgehoben ist theoretisches Konzept über</p>
+<p begin="00:25:01.679" end="00:25:07.140" style="s2">das Jenseits ist sondern dass das auch</p>
+<p begin="00:25:04.980" end="00:25:10.020" style="s2">einen Sinn hat für die Menschen hier in</p>
+<p begin="00:25:07.140" end="00:25:13.140" style="s2">der irdischen Welt also wie hat sich das</p>
+<p begin="00:25:10.020" end="00:25:15.059" style="s2">dann auch noch entwickelt mit dieser</p>
+<p begin="00:25:13.140" end="00:25:16.100" style="s2">Anthroposophie dass sie auch anwendbar</p>
+<p begin="00:25:15.059" end="00:25:20.039" style="s2">wurde</p>
+<p begin="00:25:16.100" end="00:25:22.980" style="s2">das ist eine wichtige Frage also ich</p>
+<p begin="00:25:20.039" end="00:25:25.200" style="s2">hatte erzählt dass Steiner dann ab 1900</p>
+<p begin="00:25:22.980" end="00:25:28.620" style="s2">eben wirklich man kann sagen wirklich</p>
+<p begin="00:25:25.200" end="00:25:32.820" style="s2">esoterische Inhalte dargestellt hat und</p>
+<p begin="00:25:28.620" end="00:25:35.220" style="s2">zwar in einer unglaublichen Fülle also</p>
+<p begin="00:25:32.820" end="00:25:38.000" style="s2">es war wie ein als ob eine Schleuse</p>
+<p begin="00:25:35.220" end="00:25:40.940" style="s2">geöffnet wurde und dann kam</p>
+<p begin="00:25:38.000" end="00:25:43.740" style="s2">[Musik]</p>
+<p begin="00:25:40.940" end="00:25:47.159" style="s2">da dargestellt hat aus der inneren</p>
+<p begin="00:25:43.740" end="00:25:50.039" style="s2">geistigen Erfahrung heraus esoterischer</p>
+<p begin="00:25:47.159" end="00:25:52.260" style="s2">und hat eben da sehr viel angefangen in</p>
+<p begin="00:25:50.039" end="00:25:54.799" style="s2">der Theosophischen Gesellschaft hat dann</p>
+<p begin="00:25:52.260" end="00:25:57.240" style="s2">über Kosmologie</p>
+<p begin="00:25:54.799" end="00:25:59.640" style="s2">überreden kann Nationen über die</p>
+<p begin="00:25:57.240" end="00:26:02.659" style="s2">Evangelien über die alten Weisheit</p>
+<p begin="00:25:59.640" end="00:26:05.400" style="s2">Traditionen also Buddhismus und</p>
+<p begin="00:26:02.659" end="00:26:07.799" style="s2">über die persische Religion über</p>
+<p begin="00:26:05.400" end="00:26:09.600" style="s2">ägyptische und griechische Mysterien und</p>
+<p begin="00:26:07.799" end="00:26:11.240" style="s2">so weiter ganz viel gesprochen über die</p>
+<p begin="00:26:09.600" end="00:26:14.520" style="s2">Evangelien</p>
+<p begin="00:26:11.240" end="00:26:16.400" style="s2">und hatte aber schon von Anfang an auch</p>
+<p begin="00:26:14.520" end="00:26:19.320" style="s2">auf der einen Seite</p>
+<p begin="00:26:16.400" end="00:26:21.720" style="s2">esoterische Übungen angeregt und auch</p>
+<p begin="00:26:19.320" end="00:26:24.720" style="s2">Meditationen gegeben und auf der anderen</p>
+<p begin="00:26:21.720" end="00:26:26.520" style="s2">Seite immer auch gesagt schon 1954 zum</p>
+<p begin="00:26:24.720" end="00:26:28.820" style="s2">Beispiel Vorträge über Schule über</p>
+<p begin="00:26:26.520" end="00:26:31.280" style="s2">Pädagogik gehalten</p>
+<p begin="00:26:28.820" end="00:26:32.640" style="s2">1911 über Medizin</p>
+<p begin="00:26:31.280" end="00:26:35.159" style="s2">[Musik]</p>
+<p begin="00:26:32.640" end="00:26:37.080" style="s2">und das war aber damals nicht bei den</p>
+<p begin="00:26:35.159" end="00:26:38.940" style="s2">Menschen so wirklich auf Interesse</p>
+<p begin="00:26:37.080" end="00:26:40.620" style="s2">gestoßen weil die sich doch eher für</p>
+<p begin="00:26:38.940" end="00:26:43.440" style="s2">spirituelle interessiert hatten das</p>
+<p begin="00:26:40.620" end="00:26:47.159" style="s2">waren groß bürgerliche Leute die hatten</p>
+<p begin="00:26:43.440" end="00:26:50.460" style="s2">keine Sorgen im Leben und dann war nach</p>
+<p begin="00:26:47.159" end="00:26:52.260" style="s2">dem Ersten Weltkrieg die not so groß in</p>
+<p begin="00:26:50.460" end="00:26:53.840" style="s2">Deutschland dass dann zum Beispiel in</p>
+<p begin="00:26:52.260" end="00:26:57.140" style="s2">Stuttgart von dem</p>
+<p begin="00:26:53.840" end="00:26:58.860" style="s2">Fabrikanten der Waldorf Astoria</p>
+<p begin="00:26:57.140" end="00:27:01.380" style="s2">Zigarettenfabrik die der war</p>
+<p begin="00:26:58.860" end="00:27:04.740" style="s2">Anthroposoph er kannte Steiner schon</p>
+<p begin="00:27:01.380" end="00:27:07.559" style="s2">seit Jahren und der wollte der kriegte</p>
+<p begin="00:27:04.740" end="00:27:09.179" style="s2">von seinem Betriebsrat die Anfrage ob er</p>
+<p begin="00:27:07.559" end="00:27:10.679" style="s2">was für die Kinder machen kann ob er</p>
+<p begin="00:27:09.179" end="00:27:12.910" style="s2">eine Schule einrichten kann für die</p>
+<p begin="00:27:10.679" end="00:27:14.900" style="s2">Kinder denn damals</p>
+<p begin="00:27:12.910" end="00:27:18.240" style="s2">[Musik]</p>
+<p begin="00:27:14.900" end="00:27:20.360" style="s2">gefragt nach der Pädagogik nach einer</p>
+<p begin="00:27:18.240" end="00:27:20.360" style="s2">Schule</p>
+<p begin="00:27:21.000" end="00:27:26.880" style="s2">also es war Anfrage das war später bei</p>
+<p begin="00:27:24.539" end="00:27:28.620" style="s2">der Medizin auch so auch bei der</p>
+<p begin="00:27:26.880" end="00:27:30.539" style="s2">Landwirtschaft es kamen Anfragen von</p>
+<p begin="00:27:28.620" end="00:27:33.120" style="s2">Menschen an oder Steiner können wir das</p>
+<p begin="00:27:30.539" end="00:27:35.039" style="s2">praktisch umsetzen in unserem Feld</p>
+<p begin="00:27:33.120" end="00:27:36.779" style="s2">können Sie uns dazu Anregungen geben und</p>
+<p begin="00:27:35.039" end="00:27:38.700" style="s2">dann hat Steiner eben Kurse gehalten</p>
+<p begin="00:27:36.779" end="00:27:40.260" style="s2">sogenannte Kurse hat das in meinen</p>
+<p begin="00:27:38.700" end="00:27:43.740" style="s2">Vortragsform gemacht weil er gar nicht</p>
+<p begin="00:27:40.260" end="00:27:46.260" style="s2">die Zeit hatte die Dinge aufzuschreiben</p>
+<p begin="00:27:43.740" end="00:27:48.679" style="s2">und diese Vorträge also für die</p>
+<p begin="00:27:46.260" end="00:27:51.600" style="s2">Pädagogik sind das</p>
+<p begin="00:27:48.679" end="00:27:55.500" style="s2">ich habe sie nicht gezählt werden so um</p>
+<p begin="00:27:51.600" end="00:27:57.419" style="s2">die 150 Vorträge sein zur Pädagogik das</p>
+<p begin="00:27:55.500" end="00:28:00.659" style="s2">ist die Grundlage dann der weltweiten</p>
+<p begin="00:27:57.419" end="00:28:03.600" style="s2">weil heute also das war so anregend dass</p>
+<p begin="00:28:00.659" end="00:28:06.120" style="s2">man dadurch eben diese diese Schulen</p>
+<p begin="00:28:03.600" end="00:28:10.140" style="s2">Aufbau konnte weil da wirklich ist</p>
+<p begin="00:28:06.120" end="00:28:12.900" style="s2">esoterische Wissen die geistige der</p>
+<p begin="00:28:10.140" end="00:28:15.779" style="s2">geistige trifft in bis in die Praxis</p>
+<p begin="00:28:12.900" end="00:28:18.480" style="s2">rein dargestellt wurde</p>
+<p begin="00:28:15.779" end="00:28:20.460" style="s2">und das nicht als Rezept sondern als</p>
+<p begin="00:28:18.480" end="00:28:21.070" style="s2">Anregung für die Menschen selber damit</p>
+<p begin="00:28:20.460" end="00:28:22.580" style="s2">zu arbeiten</p>
+<p begin="00:28:21.070" end="00:28:24.779" style="s2">[Musik]</p>
+<p begin="00:28:22.580" end="00:28:27.419" style="s2">insofern ist es ganz interessant wenn</p>
+<p begin="00:28:24.779" end="00:28:29.460" style="s2">man Stein als Biografie überschaut dass</p>
+<p begin="00:28:27.419" end="00:28:32.279" style="s2">er sozusagen mit ganz spirituellen</p>
+<p begin="00:28:29.460" end="00:28:34.620" style="s2">Erlebnissen begonnen hat dann ganz stark</p>
+<p begin="00:28:32.279" end="00:28:36.960" style="s2">philosophisch gearbeitet hat und das zu</p>
+<p begin="00:28:34.620" end="00:28:40.919" style="s2">verstehen und verständlich machen zu</p>
+<p begin="00:28:36.960" end="00:28:42.659" style="s2">können dann eine Phase hatte also man</p>
+<p begin="00:28:40.919" end="00:28:46.200" style="s2">kann praktisch von einer philosophischen</p>
+<p begin="00:28:42.659" end="00:28:48.720" style="s2">Phase sprechen dann eine esoterische</p>
+<p begin="00:28:46.200" end="00:28:51.299" style="s2">Phase in der auch viel anthroposophische</p>
+<p begin="00:28:48.720" end="00:28:53.159" style="s2">Kunst entwickelt wurde Architektur</p>
+<p begin="00:28:51.299" end="00:28:54.500" style="s2">Malerei die Eurythmie vielleicht haben</p>
+<p begin="00:28:53.159" end="00:28:57.299" style="s2">Sie davon auch schon gehört</p>
+<p begin="00:28:54.500" end="00:28:59.520" style="s2">Bewegungskunst und dann eine dritte</p>
+<p begin="00:28:57.299" end="00:29:01.320" style="s2">Phase nach dem Ersten Weltkrieg wurde es</p>
+<p begin="00:28:59.520" end="00:29:04.279" style="s2">in die Praxis reingegangen ist in ganz</p>
+<p begin="00:29:01.320" end="00:29:06.840" style="s2">viele verschiedene Praxisfelder</p>
+<p begin="00:29:04.279" end="00:29:09.320" style="s2">und könnten sie noch kurz darauf</p>
+<p begin="00:29:06.840" end="00:29:14.580" style="s2">eingehen was ich so der Unterschied</p>
+<p begin="00:29:09.320" end="00:29:17.220" style="s2">zwischen der Waldorfpädagogik und sagen</p>
+<p begin="00:29:14.580" end="00:29:19.500" style="s2">wir mal der herkömmlichen öffentlichen</p>
+<p begin="00:29:17.220" end="00:29:20.550" style="s2">Schule also so von dem pädagogischen</p>
+<p begin="00:29:19.500" end="00:29:22.500" style="s2">Konzepten her</p>
+<p begin="00:29:20.550" end="00:29:25.440" style="s2">[Musik]</p>
+<p begin="00:29:22.500" end="00:29:30.559" style="s2">also der grundsätzliche Unterschied ist</p>
+<p begin="00:29:25.440" end="00:29:30.559" style="s2">sicher dass wir in der Waldorfpädagogik</p>
+<p begin="00:29:32.640" end="00:29:37.340" style="s2">in der richtig verstanden dann war doch</p>
+<p begin="00:29:34.740" end="00:29:43.340" style="s2">Pädagogik möchte ich gerne dazu sagen</p>
+<p begin="00:29:37.340" end="00:29:46.140" style="s2">davon ausgehen dass wir es hier mit</p>
+<p begin="00:29:43.340" end="00:29:49.020" style="s2">der bei den Kindern bei den Jugendlichen</p>
+<p begin="00:29:46.140" end="00:29:52.559" style="s2">mit Persönlichkeiten zu tun haben die</p>
+<p begin="00:29:49.020" end="00:29:54.539" style="s2">schon viele Male gelebt haben und den</p>
+<p begin="00:29:52.559" end="00:29:56.279" style="s2">wir jetzt in diese Inkarnation</p>
+<p begin="00:29:54.539" end="00:29:58.799" style="s2">hineinhelfen</p>
+<p begin="00:29:56.279" end="00:30:00.799" style="s2">damit sie ihren Lebensweg entsprechend</p>
+<p begin="00:29:58.799" end="00:30:03.840" style="s2">ihrer inneren seelisch geistigen</p>
+<p begin="00:30:00.799" end="00:30:07.740" style="s2">Intentionen erfolgen können so gut wie</p>
+<p begin="00:30:03.840" end="00:30:09.779" style="s2">möglich und das versuchen wir indem wir</p>
+<p begin="00:30:07.740" end="00:30:11.760" style="s2">ihnen nicht Wissen vermitteln primär</p>
+<p begin="00:30:09.779" end="00:30:13.559" style="s2">darum geht es nicht in der wolfpädagogik</p>
+<p begin="00:30:11.760" end="00:30:17.700" style="s2">es gibt natürlich das folgt natürlich</p>
+<p begin="00:30:13.559" end="00:30:19.200" style="s2">auch aber es primäre ist den Kindern und</p>
+<p begin="00:30:17.700" end="00:30:22.020" style="s2">Jugendlichen zu helfen sich gesund</p>
+<p begin="00:30:19.200" end="00:30:25.580" style="s2">körperlich gesund zu entwickeln und</p>
+<p begin="00:30:22.020" end="00:30:28.440" style="s2">seelisch Reich sich auszubilden</p>
+<p begin="00:30:25.580" end="00:30:31.520" style="s2">geistige Klarheit zu entwickeln damit</p>
+<p begin="00:30:28.440" end="00:30:34.080" style="s2">Sie später an ihrer</p>
+<p begin="00:30:31.520" end="00:30:35.880" style="s2">Körperlichkeit und an ihren seelischen</p>
+<p begin="00:30:34.080" end="00:30:38.240" style="s2">Eigenschaften nicht so viel Hindernisse</p>
+<p begin="00:30:35.880" end="00:30:41.399" style="s2">haben sondern ihren eigenen Weg</p>
+<p begin="00:30:38.240" end="00:30:42.779" style="s2">Sicherheit durchs Leben finden kann</p>
+<p begin="00:30:41.399" end="00:30:44.460" style="s2">und das ist eine andere Haltung</p>
+<p begin="00:30:42.779" end="00:30:46.679" style="s2">verstehen Sie diese Haltung macht ganz</p>
+<p begin="00:30:44.460" end="00:30:49.140" style="s2">viel im Unterschied dann konkret aus in</p>
+<p begin="00:30:46.679" end="00:30:52.559" style="s2">der Praxis natürlich was die was die</p>
+<p begin="00:30:49.140" end="00:30:55.020" style="s2">Schulen angeht also es gibt sehr viele</p>
+<p begin="00:30:52.559" end="00:30:56.460" style="s2">verschiedene praktische Unterschiede das</p>
+<p begin="00:30:55.020" end="00:30:58.320" style="s2">Entscheidende ist aber die</p>
+<p begin="00:30:56.460" end="00:31:00.000" style="s2">unterschiedliche Sicht auf den sich</p>
+<p begin="00:30:58.320" end="00:31:02.880" style="s2">entwickelnden Menschen</p>
+<p begin="00:31:00.000" end="00:31:06.440" style="s2">wir werden dann in einem späteren Video</p>
+<p begin="00:31:02.880" end="00:31:08.460" style="s2">mal noch konkreter über die</p>
+<p begin="00:31:06.440" end="00:31:10.740" style="s2">reinkarnationsthematik sprechen die in</p>
+<p begin="00:31:08.460" end="00:31:13.080" style="s2">der Anthroposophie enthalten ist also</p>
+<p begin="00:31:10.740" end="00:31:15.120" style="s2">was hat Rudolf Steiner über die</p>
+<p begin="00:31:13.080" end="00:31:18.120" style="s2">Inkarnation bzw ihre Inkarnation</p>
+<p begin="00:31:15.120" end="00:31:18.120" style="s2">ausgesagt</p>
+<p begin="00:31:18.419" end="00:31:23.340" style="s2">ansonsten für dieses Video heute vielen</p>
+<p begin="00:31:20.820" end="00:31:26.700" style="s2">Dank Herr Dr Huck</p>
+<p begin="00:31:23.340" end="00:31:29.000" style="s2">und alles Gute ihnen danke für die</p>
+<p begin="00:31:26.700" end="00:31:29.000" style="s2">Fragen</p>
+</div>
+</body>
+</tt>

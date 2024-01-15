@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.819" end="00:00:09.540" style="s2">dass ich mich erinnere ist dass ich da</p>
+<p begin="00:00:07.319" end="00:00:10.920" style="s2">unten auf dem Boden lag ich war etwa</p>
+<p begin="00:00:09.540" end="00:00:13.860" style="s2">vier Meter über mir und war geschockt</p>
+<p begin="00:00:10.920" end="00:00:16.260" style="s2">dass da unten bin ja ich da stand eine</p>
+<p begin="00:00:13.860" end="00:00:17.820" style="s2">Frau und ein Mann in graue Hose und</p>
+<p begin="00:00:16.260" end="00:00:19.680" style="s2">blauer Jacke war dabei mir den Helm vom</p>
+<p begin="00:00:17.820" end="00:00:21.840" style="s2">Kopf zu ziehen dann kam ein</p>
+<p begin="00:00:19.680" end="00:00:23.220" style="s2">Rettungswagen angefahren und da stiegen</p>
+<p begin="00:00:21.840" end="00:00:24.960" style="s2">zwei Jungs aus die ich in der Nacht</p>
+<p begin="00:00:23.220" end="00:00:28.039" style="s2">schon gesehen hatte in den Krankenhaus</p>
+<p begin="00:00:24.960" end="00:00:28.039" style="s2">in dem ich arbeitete</p>
+<p begin="00:00:30.199" end="00:00:34.320" style="s2">ich war morgens auf dem Weg zur Arbeit</p>
+<p begin="00:00:32.460" end="00:00:36.300" style="s2">und ich kam als erste zu der</p>
+<p begin="00:00:34.320" end="00:00:37.920" style="s2">Unfallstelle da lag der Junge auf der</p>
+<p begin="00:00:36.300" end="00:00:40.520" style="s2">Straße er hatte die Augen geschlossen</p>
+<p begin="00:00:37.920" end="00:00:43.320" style="s2">und war bewusstlos</p>
+<p begin="00:00:40.520" end="00:00:45.420" style="s2">da kam noch ein anderer her dazu der hat</p>
+<p begin="00:00:43.320" end="00:00:47.160" style="s2">ihm den Helm abgenommen ich habe ihn</p>
+<p begin="00:00:45.420" end="00:00:48.960" style="s2">doch gesagt lass den Helm sitzen man</p>
+<p begin="00:00:47.160" end="00:00:51.239" style="s2">weiß ja nicht was mit dem Jungen los ist</p>
+<p begin="00:00:48.960" end="00:00:52.739" style="s2">ich habe da noch gewartet bis die Ärzte</p>
+<p begin="00:00:51.239" end="00:00:55.340" style="s2">und die Ambulanz kam und dann bin ich</p>
+<p begin="00:00:52.739" end="00:00:55.340" style="s2">weiter gefahren</p>
+</div>
+</body>
+</tt>

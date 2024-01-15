@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.280" end="00:00:02.560" style="s2">[Musik]</p>
+<p begin="00:00:13.620" end="00:00:17.760" style="s2">Faust Carter wir sprechen heute über</p>
+<p begin="00:00:15.839" end="00:00:20.460" style="s2">ihre Erfahrungen die sie mit einem</p>
+<p begin="00:00:17.760" end="00:00:22.320" style="s2">Jenseits Medium gemacht haben und welche</p>
+<p begin="00:00:20.460" end="00:00:24.480" style="s2">wertvollen Informationen sie dadurch</p>
+<p begin="00:00:22.320" end="00:00:26.279" style="s2">erhalten haben</p>
+<p begin="00:00:24.480" end="00:00:28.859" style="s2">dieses Medium war die inzwischen</p>
+<p begin="00:00:26.279" end="00:00:31.140" style="s2">verstorbene Vera luxinger aus Gröbenzell</p>
+<p begin="00:00:28.859" end="00:00:33.420" style="s2">bei München sie hatten Aussagen</p>
+<p begin="00:00:31.140" end="00:00:36.960" style="s2">getroffen die sie als biologische Person</p>
+<p begin="00:00:33.420" end="00:00:38.940" style="s2">nicht wissen konnte dadurch bestätigte</p>
+<p begin="00:00:36.960" end="00:00:40.860" style="s2">sich für Sie dass diese Informationen</p>
+<p begin="00:00:38.940" end="00:00:43.739" style="s2">vom Geist eines verstorbenen Menschen</p>
+<p begin="00:00:40.860" end="00:00:45.600" style="s2">stammen mussten</p>
+<p begin="00:00:43.739" end="00:00:48.059" style="s2">wir können natürlich hier nicht beweisen</p>
+<p begin="00:00:45.600" end="00:00:50.160" style="s2">dass das alles so genauso war wie wir es</p>
+<p begin="00:00:48.059" end="00:00:52.739" style="s2">hier besprechen so sie können es glauben</p>
+<p begin="00:00:50.160" end="00:00:54.960" style="s2">oder auch nicht aber eine Sache ist auch</p>
+<p begin="00:00:52.739" end="00:00:57.239" style="s2">klar wer so etwas erlebt weiß dass es</p>
+<p begin="00:00:54.960" end="00:00:58.980" style="s2">real ist und wer es nicht glauben kann</p>
+<p begin="00:00:57.239" end="00:01:00.840" style="s2">aber wissen will kann es selbst</p>
+<p begin="00:00:58.980" end="00:01:03.600" style="s2">probieren</p>
+<p begin="00:01:00.840" end="00:01:05.880" style="s2">zuerst zu ihrer Vorgeschichte wie kam es</p>
+<p begin="00:01:03.600" end="00:01:08.540" style="s2">überhaupt dazu dass sie so ein Medium</p>
+<p begin="00:01:05.880" end="00:01:08.540" style="s2">aufgesucht haben</p>
+<p begin="00:01:08.580" end="00:01:13.799" style="s2">ich</p>
+<p begin="00:01:09.560" end="00:01:16.080" style="s2">war lange befreundet 42 Jahren mit eben</p>
+<p begin="00:01:13.799" end="00:01:20.040" style="s2">den prozessionisten Werner wir waren</p>
+<p begin="00:01:16.080" end="00:01:22.200" style="s2">auch mal zehn Jahre ein Paar und verlobt</p>
+<p begin="00:01:20.040" end="00:01:24.240" style="s2">und dann haben wir uns getrennt und dann</p>
+<p begin="00:01:22.200" end="00:01:25.619" style="s2">sind wir aber auch auf sehr</p>
+<p begin="00:01:24.240" end="00:01:29.280" style="s2">freundschaftlicher Basis wieder</p>
+<p begin="00:01:25.619" end="00:01:33.060" style="s2">zusammengekommen dann erlitt eben dieser</p>
+<p begin="00:01:29.280" end="00:01:36.000" style="s2">Werner im mit knapp 40 Jahren einen</p>
+<p begin="00:01:33.060" end="00:01:37.759" style="s2">schweren kopfunfall was zur Folge hatte</p>
+<p begin="00:01:36.000" end="00:01:42.479" style="s2">dass er</p>
+<p begin="00:01:37.759" end="00:01:46.439" style="s2">psychisch sehr krank wurde und ich dann</p>
+<p begin="00:01:42.479" end="00:01:49.640" style="s2">nach ein zwei Jahren die Betreuung im</p>
+<p begin="00:01:46.439" end="00:01:53.340" style="s2">juristischen Sinne übernommen habe und</p>
+<p begin="00:01:49.640" end="00:01:57.659" style="s2">dann der Werner nach weiteren sechs</p>
+<p begin="00:01:53.340" end="00:02:00.180" style="s2">Jahren in einem in ein Langzeit nicht</p>
+<p begin="00:01:57.659" end="00:02:03.299" style="s2">Pflegeheim in einen langzeitheim für</p>
+<p begin="00:02:00.180" end="00:02:06.860" style="s2">psychisch Kranke gezogen ist wo es ihm</p>
+<p begin="00:02:03.299" end="00:02:11.340" style="s2">auch sehr gut ging und dann ist</p>
+<p begin="00:02:06.860" end="00:02:14.959" style="s2">Werners Seelen im Anfang April 2015</p>
+<p begin="00:02:11.340" end="00:02:19.640" style="s2">davon geflogen allerdings haben wir</p>
+<p begin="00:02:14.959" end="00:02:23.280" style="s2">etwas sechs Tage vor seinem</p>
+<p begin="00:02:19.640" end="00:02:26.459" style="s2">Sterben noch mal darüber gesprochen dass</p>
+<p begin="00:02:23.280" end="00:02:30.200" style="s2">wenn er dann tatsächlich gehen muss und</p>
+<p begin="00:02:26.459" end="00:02:33.480" style="s2">Werner war immer der Meinung Energie</p>
+<p begin="00:02:30.200" end="00:02:36.900" style="s2">der Geist ist Energie und Energie kann</p>
+<p begin="00:02:33.480" end="00:02:39.720" style="s2">man nicht töten und haben verabredet</p>
+<p begin="00:02:36.900" end="00:02:43.340" style="s2">dass wenn er dann gehen muss und davon</p>
+<p begin="00:02:39.720" end="00:02:46.860" style="s2">fliegt sich hier bemerkbar machen soll</p>
+<p begin="00:02:43.340" end="00:02:51.300" style="s2">damit wir einen Beweis haben also nur</p>
+<p begin="00:02:46.860" end="00:02:55.260" style="s2">für uns verstehen sie und ja und dann</p>
+<p begin="00:02:51.300" end="00:02:57.680" style="s2">ist deren sehr leicht und ohne Groll und</p>
+<p begin="00:02:55.260" end="00:03:00.260" style="s2">harder davon geflogen</p>
+<p begin="00:02:57.680" end="00:03:03.120" style="s2">und dann</p>
+<p begin="00:03:00.260" end="00:03:05.400" style="s2">wenige Tage später also ich bin dann in</p>
+<p begin="00:03:03.120" end="00:03:07.160" style="s2">dieses Heim ich war einen Tag vorher</p>
+<p begin="00:03:05.400" end="00:03:10.260" style="s2">noch dort</p>
+<p begin="00:03:07.160" end="00:03:12.000" style="s2">freitags nachmittags ist er gegangen ich</p>
+<p begin="00:03:10.260" end="00:03:13.640" style="s2">bin dann abends noch mal hingefahren und</p>
+<p begin="00:03:12.000" end="00:03:15.720" style="s2">habe auch</p>
+<p begin="00:03:13.640" end="00:03:18.540" style="s2">ein paar Sachen von ihm schon</p>
+<p begin="00:03:15.720" end="00:03:20.180" style="s2">mitgenommen die da so in diesem</p>
+<p begin="00:03:18.540" end="00:03:23.459" style="s2">nachtkaster</p>
+<p begin="00:03:20.180" end="00:03:26.040" style="s2">standen und lagen und der anderen seinen</p>
+<p begin="00:03:23.459" end="00:03:29.280" style="s2">geliebten Knobelbecher so ein</p>
+<p begin="00:03:26.040" end="00:03:32.700" style="s2">Würfelbecher und seine Brille und seine</p>
+<p begin="00:03:29.280" end="00:03:36.440" style="s2">Uhr und sein Handy und was man halt so</p>
+<p begin="00:03:32.700" end="00:03:38.840" style="s2">in der Aufregung mitnimmt und dann</p>
+<p begin="00:03:36.440" end="00:03:41.220" style="s2">einige Tage später</p>
+<p begin="00:03:38.840" end="00:03:43.040" style="s2">sitze ich hier in meinem Arbeitszimmer</p>
+<p begin="00:03:41.220" end="00:03:46.560" style="s2">wo ich auch jetzt sitze</p>
+<p begin="00:03:43.040" end="00:03:48.959" style="s2">abends beim Schreiben beim Arbeiten also</p>
+<p begin="00:03:46.560" end="00:03:51.780" style="s2">ich konzipiere das Seminare und schreibe</p>
+<p begin="00:03:48.959" end="00:03:53.780" style="s2">sehr viel und höre nebenan im Wohnzimmer</p>
+<p begin="00:03:51.780" end="00:03:57.000" style="s2">so und kleinen</p>
+<p begin="00:03:53.780" end="00:04:00.060" style="s2">ja ein Geräusch aber es ist ja niemand</p>
+<p begin="00:03:57.000" end="00:04:02.120" style="s2">hier außer und dann bin ich je nach</p>
+<p begin="00:04:00.060" end="00:04:05.400" style="s2">drüben und sehe</p>
+<p begin="00:04:02.120" end="00:04:07.500" style="s2">dass der Knobelbecher von den dem Stuhl</p>
+<p begin="00:04:05.400" end="00:04:09.659" style="s2">gefallen ist ich muss dazu sagen ich</p>
+<p begin="00:04:07.500" end="00:04:12.920" style="s2">habe eben diese paar</p>
+<p begin="00:04:09.659" end="00:04:17.160" style="s2">Utensilien da auf einen</p>
+<p begin="00:04:12.920" end="00:04:19.260" style="s2">alten antiken Stuhl im drapiert und habe</p>
+<p begin="00:04:17.160" end="00:04:22.079" style="s2">das da erste mal stehen lassen so und</p>
+<p begin="00:04:19.260" end="00:04:24.360" style="s2">dann hier ist auch dieser Knobel Becher</p>
+<p begin="00:04:22.079" end="00:04:27.780" style="s2">so ein handelsüblicher Knobelbecher mit</p>
+<p begin="00:04:24.360" end="00:04:30.419" style="s2">sechs Würfeln drin und das ist der im</p>
+<p begin="00:04:27.780" end="00:04:32.160" style="s2">Original Knobel Becher auf jeden Fall</p>
+<p begin="00:04:30.419" end="00:04:34.820" style="s2">dieser Knobel Becher hat sich</p>
+<p begin="00:04:32.160" end="00:04:37.139" style="s2">selbstständig gemacht und ist da</p>
+<p begin="00:04:34.820" end="00:04:39.960" style="s2">mitten im Wohnzimmer gelegen und dann</p>
+<p begin="00:04:37.139" end="00:04:43.440" style="s2">habe ich die Würfel die Augenzahl der</p>
+<p begin="00:04:39.960" end="00:04:44.120" style="s2">Würfel gezählt es gab 33 ähm wer ein</p>
+<p begin="00:04:43.440" end="00:04:47.460" style="s2">bisschen</p>
+<p begin="00:04:44.120" end="00:04:49.500" style="s2">numerologisch bewandert ist weiß 33 ist</p>
+<p begin="00:04:47.460" end="00:04:51.360" style="s2">die Meisterzahl und dann habe ich die</p>
+<p begin="00:04:49.500" end="00:04:53.520" style="s2">Würfel wieder in den Knobelbecher und</p>
+<p begin="00:04:51.360" end="00:04:57.840" style="s2">haben selber noch mal gewürfelt das gab</p>
+<p begin="00:04:53.520" end="00:05:01.259" style="s2">auch 33 und ich sagte aha Werner du bist</p>
+<p begin="00:04:57.840" end="00:05:03.440" style="s2">da und gibst mir ein Zeichen sehr</p>
+<p begin="00:05:01.259" end="00:05:09.020" style="s2">interessant</p>
+<p begin="00:05:03.440" end="00:05:11.220" style="s2">und dann und fand das also naja</p>
+<p begin="00:05:09.020" end="00:05:13.320" style="s2">Wissens wir sind ja Menschen wir sind ja</p>
+<p begin="00:05:11.220" end="00:05:16.800" style="s2">noch hier auf der Erde und sind ja auch</p>
+<p begin="00:05:13.320" end="00:05:20.300" style="s2">und hinterfragen und denke na ja dann</p>
+<p begin="00:05:16.800" end="00:05:22.620" style="s2">wenige Tage später</p>
+<p begin="00:05:20.300" end="00:05:24.840" style="s2">es ging meine Waschmaschine in der Küche</p>
+<p begin="00:05:22.620" end="00:05:29.160" style="s2">was heißt kaputt sie hat das Wasser</p>
+<p begin="00:05:24.840" end="00:05:30.259" style="s2">nicht mehr abgepumpt und ich denke und</p>
+<p begin="00:05:29.160" end="00:05:33.000" style="s2">da ich habe</p>
+<p begin="00:05:30.259" end="00:05:36.259" style="s2">etliche Male müssen sie dann müssen wir</p>
+<p begin="00:05:33.000" end="00:05:38.880" style="s2">unten an dem Ablauf des Wasser abpumpen</p>
+<p begin="00:05:36.259" end="00:05:40.860" style="s2">rauslassen und den Waschgang wieder</p>
+<p begin="00:05:38.880" end="00:05:42.780" style="s2">betätigen dass die Wäsche geschleudert</p>
+<p begin="00:05:40.860" end="00:05:44.880" style="s2">wird auf jeden Fall ist das alles nicht</p>
+<p begin="00:05:42.780" end="00:05:46.740" style="s2">gegangen das heißt ich habe x-mal das</p>
+<p begin="00:05:44.880" end="00:05:48.600" style="s2">Wasser abgepumpt habe die Waschmaschine</p>
+<p begin="00:05:46.740" end="00:05:52.139" style="s2">wieder im Betrieb gesetzt und sie hat</p>
+<p begin="00:05:48.600" end="00:05:56.300" style="s2">nicht abgepumpt und irgendwann wenige</p>
+<p begin="00:05:52.139" end="00:05:58.800" style="s2">Tage später war ich so entnervt dass ich</p>
+<p begin="00:05:56.300" end="00:06:00.600" style="s2">Werners werkzeugbeutel er hat immer so</p>
+<p begin="00:05:58.800" end="00:06:02.160" style="s2">ein Stoffbeutel mit dem Notwendigsten</p>
+<p begin="00:06:00.600" end="00:06:05.180" style="s2">Werkzeug auf diese Waschmaschine</p>
+<p begin="00:06:02.160" end="00:06:08.539" style="s2">gestellt habe im abends und habe gedacht</p>
+<p begin="00:06:05.180" end="00:06:10.979" style="s2">Werner wenn du</p>
+<p begin="00:06:08.539" end="00:06:12.960" style="s2">meinst deine Energie ist noch da dann</p>
+<p begin="00:06:10.979" end="00:06:15.600" style="s2">mach repariere die Waschmaschine dazu</p>
+<p begin="00:06:12.960" end="00:06:17.180" style="s2">muss ich sagen der Werner war eben zu</p>
+<p begin="00:06:15.600" end="00:06:20.520" style="s2">Lebzeiten der</p>
+<p begin="00:06:17.180" end="00:06:23.460" style="s2">außer dass er it im Softwareentwickler</p>
+<p begin="00:06:20.520" end="00:06:25.860" style="s2">war ein Open hervorragender Handwerker</p>
+<p begin="00:06:23.460" end="00:06:28.199" style="s2">und hat also mir immer über die vielen</p>
+<p begin="00:06:25.860" end="00:06:31.319" style="s2">Jahre hier irgend solche Dinge repariert</p>
+<p begin="00:06:28.199" end="00:06:34.919" style="s2">wenn die kaputt gehen darum eben und da</p>
+<p begin="00:06:31.319" end="00:06:37.680" style="s2">sagte Werner mach und habe das einfach</p>
+<p begin="00:06:34.919" end="00:06:41.400" style="s2">stehen lassen und habe das ignoriert so</p>
+<p begin="00:06:37.680" end="00:06:42.840" style="s2">24 Stunden 24 Stunden später abends</p>
+<p begin="00:06:41.400" end="00:06:46.680" style="s2">wieder gehe ich in die Küche und denke</p>
+<p begin="00:06:42.840" end="00:06:48.539" style="s2">okay okay letzter Versuch ich stelle</p>
+<p begin="00:06:46.680" end="00:06:51.660" style="s2">diese Waschmaschine wieder auf einen</p>
+<p begin="00:06:48.539" end="00:06:54.240" style="s2">Waschgang ein beobachte die und was soll</p>
+<p begin="00:06:51.660" end="00:06:57.479" style="s2">ich ihm sagen wenn es dann zum Ende</p>
+<p begin="00:06:54.240" end="00:06:59.699" style="s2">kommt die waschmaschine pumpt das Wasser</p>
+<p begin="00:06:57.479" end="00:07:04.380" style="s2">ab ich glaube es ja nicht</p>
+<p begin="00:06:59.699" end="00:07:07.160" style="s2">und und sie aus so aus den Augen Winkeln</p>
+<p begin="00:07:04.380" end="00:07:10.500" style="s2">am Küchentisch den Werner so für für</p>
+<p begin="00:07:07.160" end="00:07:12.720" style="s2">Zehntelsekunde Dreh um 4 und sitzen und</p>
+<p begin="00:07:10.500" end="00:07:14.520" style="s2">denke ich glaube es nicht das glaubt mir</p>
+<p begin="00:07:12.720" end="00:07:19.139" style="s2">eh kein Mensch auf jeden Fall die</p>
+<p begin="00:07:14.520" end="00:07:22.500" style="s2">Waschmaschine gingen wieder und und dann</p>
+<p begin="00:07:19.139" end="00:07:25.500" style="s2">hatte ich auch eben in diesem sagen wir</p>
+<p begin="00:07:22.500" end="00:07:27.840" style="s2">im achten neun Tagen nach seinem Tod</p>
+<p begin="00:07:25.500" end="00:07:31.259" style="s2">ständig das Gefühl der ist hier ab und</p>
+<p begin="00:07:27.840" end="00:07:36.180" style="s2">zu da ich kann diese Energie spüren und</p>
+<p begin="00:07:31.259" end="00:07:37.340" style="s2">dann ist mir eingefallen dass zwei Jahre</p>
+<p begin="00:07:36.180" end="00:07:41.759" style="s2">zuvor</p>
+<p begin="00:07:37.340" end="00:07:46.020" style="s2">mir eine Kollegin von einem Medium</p>
+<p begin="00:07:41.759" end="00:07:49.699" style="s2">erzählt hat und dass sie dieses Medium</p>
+<p begin="00:07:46.020" end="00:07:52.380" style="s2">in Anspruch genommen hat um mit ihrer</p>
+<p begin="00:07:49.699" end="00:07:56.039" style="s2">vorher verstorbenen Mutter zu sprechen</p>
+<p begin="00:07:52.380" end="00:07:58.199" style="s2">und ich mir diesem Namen und</p>
+<p begin="00:07:56.039" end="00:07:59.819" style="s2">Telefonnummer aufgeschrieben habe hatte</p>
+<p begin="00:07:58.199" end="00:08:02.699" style="s2">und ich habe den Zettel dann auch wieder</p>
+<p begin="00:07:59.819" end="00:08:06.060" style="s2">gefunden das muss ich sagen ich war</p>
+<p begin="00:08:02.699" end="00:08:09.599" style="s2">vorher noch nie bei einem Medium ich</p>
+<p begin="00:08:06.060" end="00:08:10.940" style="s2">weiß zwar dass es sowas gibt aber und</p>
+<p begin="00:08:09.599" end="00:08:14.160" style="s2">habe</p>
+<p begin="00:08:10.940" end="00:08:18.199" style="s2">spontan diese Dame eben diese Vera</p>
+<p begin="00:08:14.160" end="00:08:22.560" style="s2">luxinger angerufen und ihr</p>
+<p begin="00:08:18.199" end="00:08:27.379" style="s2">sie gefragt ob ich einen eine Sitzung</p>
+<p begin="00:08:22.560" end="00:08:30.720" style="s2">bei ihr buchen kann und sie hat gefragt</p>
+<p begin="00:08:27.379" end="00:08:32.339" style="s2">wer denn der Verstorbene sein bzw in</p>
+<p begin="00:08:30.720" end="00:08:36.899" style="s2">welcher Beziehung ich zu diesem</p>
+<p begin="00:08:32.339" end="00:08:40.080" style="s2">Verstorbenen stehe und wann er gegangen</p>
+<p begin="00:08:36.899" end="00:08:43.320" style="s2">ist und dann und das war eben so sechs</p>
+<p begin="00:08:40.080" end="00:08:47.220" style="s2">Wochen nach später als der Werner</p>
+<p begin="00:08:43.320" end="00:08:50.040" style="s2">gegangen ist und dann sagte sie ah das</p>
+<p begin="00:08:47.220" end="00:08:51.959" style="s2">ist eigentlich noch viel zu früh mit dem</p>
+<p begin="00:08:50.040" end="00:08:54.300" style="s2">verstorbene Seelen müssen sie müssen</p>
+<p begin="00:08:51.959" end="00:08:56.700" style="s2">sich erst einmal ausruhen und ich habe</p>
+<p begin="00:08:54.300" end="00:09:00.420" style="s2">aber dann drauf gedrängt nein nein sage</p>
+<p begin="00:08:56.700" end="00:09:02.779" style="s2">ich ich bin sicher der Werner will mir</p>
+<p begin="00:09:00.420" end="00:09:05.880" style="s2">etwas mitteilen und</p>
+<p begin="00:09:02.779" end="00:09:08.839" style="s2">das einzige ich habe dann gefragt ob sie</p>
+<p begin="00:09:05.880" end="00:09:11.880" style="s2">irgendwelche Angaben Foto oder so</p>
+<p begin="00:09:08.839" end="00:09:14.339" style="s2">brauchen nein eines sie will nur den</p>
+<p begin="00:09:11.880" end="00:09:16.800" style="s2">Vornamen wissen und in welcher Beziehung</p>
+<p begin="00:09:14.339" end="00:09:18.380" style="s2">ich zu ihm stand und ansonsten möchte</p>
+<p begin="00:09:16.800" end="00:09:22.399" style="s2">sie gar nichts wissen</p>
+<p begin="00:09:18.380" end="00:09:26.339" style="s2">gut und dann bin ich eben erster juli</p>
+<p begin="00:09:22.399" end="00:09:29.880" style="s2">2015 ganz aufgeregt zu diesem Medium</p>
+<p begin="00:09:26.339" end="00:09:33.500" style="s2">gefahren was westlich in einem kleinen</p>
+<p begin="00:09:29.880" end="00:09:37.700" style="s2">Ort von München lebte und</p>
+<p begin="00:09:33.500" end="00:09:41.880" style="s2">dann hat grüßt du mich eine</p>
+<p begin="00:09:37.700" end="00:09:44.279" style="s2">hochgewachsene Dame so mit 40 und führte</p>
+<p begin="00:09:41.880" end="00:09:46.740" style="s2">mich in einem so hellen Raum und ich</p>
+<p begin="00:09:44.279" end="00:09:51.019" style="s2">habe gefragt und wie funktioniert das</p>
+<p begin="00:09:46.740" end="00:09:54.480" style="s2">jetzt mit dieser Sitzung und sie sagte</p>
+<p begin="00:09:51.019" end="00:09:58.560" style="s2">sie hat eine seit 20 Jahren eine</p>
+<p begin="00:09:54.480" end="00:10:01.339" style="s2">Wesenheit in der anderen Welt mit Namen</p>
+<p begin="00:09:58.560" end="00:10:04.500" style="s2">Tallinn und</p>
+<p begin="00:10:01.339" end="00:10:09.240" style="s2">mit der wird sie in Kontakt treten weil</p>
+<p begin="00:10:04.500" end="00:10:12.260" style="s2">diese Tallinn auch rausfiltern kann dass</p>
+<p begin="00:10:09.240" end="00:10:15.240" style="s2">wir mit dem richtigen Werner sprechen</p>
+<p begin="00:10:12.260" end="00:10:17.160" style="s2">das hat mir eingeleuchtet also ich habe</p>
+<p begin="00:10:15.240" end="00:10:19.140" style="s2">mich schon ein bisschen über die vielen</p>
+<p begin="00:10:17.160" end="00:10:21.720" style="s2">Jahre immer wieder mit diesem Thema</p>
+<p begin="00:10:19.140" end="00:10:23.700" style="s2">beschäftigt aber das läuft ist mir</p>
+<p begin="00:10:21.720" end="00:10:26.300" style="s2">eingeleuchtet und sie hat dann gesagt</p>
+<p begin="00:10:23.700" end="00:10:29.940" style="s2">wir machen jetzt eine kleine</p>
+<p begin="00:10:26.300" end="00:10:31.160" style="s2">Reinigungsprozedur und und gehen ein</p>
+<p begin="00:10:29.940" end="00:10:33.860" style="s2">bisschen in</p>
+<p begin="00:10:31.160" end="00:10:36.980" style="s2">eine meditative</p>
+<p begin="00:10:33.860" end="00:10:39.839" style="s2">Stimmung und sie</p>
+<p begin="00:10:36.980" end="00:10:42.200" style="s2">schaltet dann ach ja auch interessant</p>
+<p begin="00:10:39.839" end="00:10:45.540" style="s2">sie sagt sie nimmt dieses Gespräch auf</p>
+<p begin="00:10:42.200" end="00:10:48.240" style="s2">auf ihrem Handy und wenn wir fertig sind</p>
+<p begin="00:10:45.540" end="00:10:49.860" style="s2">kriege ich eben eine CD eine Audio CD</p>
+<p begin="00:10:48.240" end="00:10:52.680" style="s2">und kann mir das alles noch mal anhören</p>
+<p begin="00:10:49.860" end="00:10:54.720" style="s2">was ich dann sehr erstaunt zur Kenntnis</p>
+<p begin="00:10:52.680" end="00:10:57.360" style="s2">genommen haben denke oh sie ist sich</p>
+<p begin="00:10:54.720" end="00:10:58.980" style="s2">jeder Sache ja sehr sicher auf jeden</p>
+<p begin="00:10:57.360" end="00:11:03.060" style="s2">Fall</p>
+<p begin="00:10:58.980" end="00:11:05.820" style="s2">ist ging dann diese Sitzung los und ach</p>
+<p begin="00:11:03.060" end="00:11:07.620" style="s2">ja und sie hat mir im am Telefon vorher</p>
+<p begin="00:11:05.820" end="00:11:09.540" style="s2">gesagt ich soll mir ein paar Fragen</p>
+<p begin="00:11:07.620" end="00:11:12.660" style="s2">aufschreiben die sie aber nicht wissen</p>
+<p begin="00:11:09.540" end="00:11:15.000" style="s2">will und dann während eben der</p>
+<p begin="00:11:12.660" end="00:11:19.860" style="s2">salaufenden Sitzung habe ich meine</p>
+<p begin="00:11:15.000" end="00:11:23.160" style="s2">Fragen gestellt und alles eben Tallinn</p>
+<p begin="00:11:19.860" end="00:11:25.200" style="s2">schon da war und sagte ja ja hier ist</p>
+<p begin="00:11:23.160" end="00:11:29.779" style="s2">ein Werner der wartet schon ganz</p>
+<p begin="00:11:25.200" end="00:11:34.560" style="s2">aufgeregt dass er zu Wort kommt und dann</p>
+<p begin="00:11:29.779" end="00:11:38.459" style="s2">gab es eben sehr lange auf meine Fragen</p>
+<p begin="00:11:34.560" end="00:11:40.500" style="s2">hin lange im Monologe und Dialoge ich</p>
+<p begin="00:11:38.459" end="00:11:43.940" style="s2">habe ja dann immer wieder zwischendurch</p>
+<p begin="00:11:40.500" end="00:11:45.500" style="s2">meine Fragen stellen dürfen was</p>
+<p begin="00:11:43.940" end="00:11:49.620" style="s2">völlig</p>
+<p begin="00:11:45.500" end="00:11:50.839" style="s2">ja ich muss sagen nach was weiß ich 40</p>
+<p begin="00:11:49.620" end="00:11:56.279" style="s2">Minuten</p>
+<p begin="00:11:50.839" end="00:11:58.920" style="s2">war dieses Gespräch zu Ende und diese</p>
+<p begin="00:11:56.279" end="00:12:01.860" style="s2">Vera sagte sie geht jetzt und brennt mir</p>
+<p begin="00:11:58.920" end="00:12:04.560" style="s2">diese CD und ich war völlig völlig</p>
+<p begin="00:12:01.860" end="00:12:06.660" style="s2">durcheinander gebe ich zu und habe dann</p>
+<p begin="00:12:04.560" end="00:12:09.000" style="s2">meine Zähne genommen und bin ins Auto</p>
+<p begin="00:12:06.660" end="00:12:11.700" style="s2">wie ein Trance nach Hause gefahren und</p>
+<p begin="00:12:09.000" end="00:12:14.279" style="s2">habe zwei Tage gebraucht bis ich mich</p>
+<p begin="00:12:11.700" end="00:12:17.880" style="s2">getraut habe diese CD nochmal anzuhören</p>
+<p begin="00:12:14.279" end="00:12:21.959" style="s2">oder mehrmals anzuhören und denke das</p>
+<p begin="00:12:17.880" end="00:12:25.440" style="s2">ist der Wahnsinn aber wenn es leichte</p>
+<p begin="00:12:21.959" end="00:12:28.380" style="s2">Zweifel bleiben ja immer nur es sind da</p>
+<p begin="00:12:25.440" end="00:12:31.320" style="s2">Dinge zu Sprache gekommen auch eben mit</p>
+<p begin="00:12:28.380" end="00:12:34.500" style="s2">dem Knobelbecher weil die Werner sagte</p>
+<p begin="00:12:31.320" end="00:12:37.320" style="s2">du erinnerst dich wir hatten verabredet</p>
+<p begin="00:12:34.500" end="00:12:38.820" style="s2">dass wir uns ein Zeichen geben das hat</p>
+<p begin="00:12:37.320" end="00:12:41.399" style="s2">die Vera ja gar nicht wissen können</p>
+<p begin="00:12:38.820" end="00:12:43.320" style="s2">dieses Gespräch am Krankenbett vom</p>
+<p begin="00:12:41.399" end="00:12:45.800" style="s2">werner hat überhaupt niemand gewusst</p>
+<p begin="00:12:43.320" end="00:12:51.000" style="s2">außer der Werner und ich selbst</p>
+<p begin="00:12:45.800" end="00:12:52.980" style="s2">und und er sagte dann aber den weil in</p>
+<p begin="00:12:51.000" end="00:12:55.139" style="s2">diesem Gespräch am Krankenbett sagte</p>
+<p begin="00:12:52.980" end="00:12:59.700" style="s2">naja sage ich blas halt irgendeine Kerze</p>
+<p begin="00:12:55.139" end="00:13:01.500" style="s2">aus oder oder sowas und er könnte dann</p>
+<p begin="00:12:59.700" end="00:13:03.480" style="s2">während der laufen Sitzung aber das mit</p>
+<p begin="00:13:01.500" end="00:13:05.660" style="s2">dem Knobelbecher hätte ihm viel mehr</p>
+<p begin="00:13:03.480" end="00:13:09.180" style="s2">Freude gemacht den</p>
+<p begin="00:13:05.660" end="00:13:12.540" style="s2">von dem Stuhl zu werfen aber es kostet</p>
+<p begin="00:13:09.180" end="00:13:14.700" style="s2">sehr viel Energie sagte er wenn man und</p>
+<p begin="00:13:12.540" end="00:13:17.459" style="s2">erst müsste er begreifen dass er ja gar</p>
+<p begin="00:13:14.700" end="00:13:19.800" style="s2">keine Finger mehr hat die in diesen</p>
+<p begin="00:13:17.459" end="00:13:22.459" style="s2">Knobelbecher runter schubsen können und</p>
+<p begin="00:13:19.800" end="00:13:25.880" style="s2">denke oh Gott</p>
+<p begin="00:13:22.459" end="00:13:28.980" style="s2">das also es hat mich ziemlich</p>
+<p begin="00:13:25.880" end="00:13:30.860" style="s2">mitgenommen das sage ich mal so also</p>
+<p begin="00:13:28.980" end="00:13:34.139" style="s2">entscheidend ist ja jetzt</p>
+<p begin="00:13:30.860" end="00:13:36.300" style="s2">dass die Frau luxinger als biologische</p>
+<p begin="00:13:34.139" end="00:13:38.839" style="s2">Person diese Sache mit dem Knobelbecher</p>
+<p begin="00:13:36.300" end="00:13:41.279" style="s2">gar nicht wissen konnte und diese</p>
+<p begin="00:13:38.839" end="00:13:42.620" style="s2">umfangreichen Durchsagen haben sie in</p>
+<p begin="00:13:41.279" end="00:13:46.380" style="s2">ihrem Buch</p>
+<p begin="00:13:42.620" end="00:13:48.180" style="s2">aufgeschrieben da heißt es an einer</p>
+<p begin="00:13:46.380" end="00:13:49.620" style="s2">Stelle über diesen Knobelbecher ich</p>
+<p begin="00:13:48.180" end="00:13:52.440" style="s2">zitiere das jetzt</p>
+<p begin="00:13:49.620" end="00:13:54.839" style="s2">und jawohl ich habe dir ganz bewusst den</p>
+<p begin="00:13:52.440" end="00:13:57.180" style="s2">Becher fast vor die Füße geworfen weil</p>
+<p begin="00:13:54.839" end="00:13:59.399" style="s2">es mich zum einen amüsiert hat dass ich</p>
+<p begin="00:13:57.180" end="00:14:01.139" style="s2">dazu in der Lage bin und zum anderen</p>
+<p begin="00:13:59.399" end="00:14:03.899" style="s2">wollte ich dir ein kleines Zeichen geben</p>
+<p begin="00:14:01.139" end="00:14:08.100" style="s2">so wie wir es verabredet haben Zitat</p>
+<p begin="00:14:03.899" end="00:14:09.899" style="s2">Ende genau und das sieht das vor Werners</p>
+<p begin="00:14:08.100" end="00:14:11.459" style="s2">Tod verabredet haben dass er ihnen</p>
+<p begin="00:14:09.899" end="00:14:13.920" style="s2">Zeichen schicken soll das konnte Frau</p>
+<p begin="00:14:11.459" end="00:14:16.139" style="s2">luxinger ebenfalls nicht wissen denn</p>
+<p begin="00:14:13.920" end="00:14:18.360" style="s2">darüber haben sie ja nicht mit dir</p>
+<p begin="00:14:16.139" end="00:14:19.820" style="s2">gesprochen und dann gibt es noch eine</p>
+<p begin="00:14:18.360" end="00:14:22.440" style="s2">Stelle</p>
+<p begin="00:14:19.820" end="00:14:24.480" style="s2">wegen der Waschmaschine ich zitiere das</p>
+<p begin="00:14:22.440" end="00:14:26.279" style="s2">jetzt hier auch aus dem Buch</p>
+<p begin="00:14:24.480" end="00:14:28.440" style="s2">denn das was mit der Waschmaschine</p>
+<p begin="00:14:26.279" end="00:14:30.660" style="s2">passiert ist hat mir große Freude</p>
+<p begin="00:14:28.440" end="00:14:32.760" style="s2">bereitet wenn wir das jemand zu</p>
+<p begin="00:14:30.660" end="00:14:34.920" style="s2">Lebzeiten erzählt hätte hätte ich ihn</p>
+<p begin="00:14:32.760" end="00:14:37.079" style="s2">nur ausgelacht</p>
+<p begin="00:14:34.920" end="00:14:39.000" style="s2">aber jetzt stehe ich hier und weiß dass</p>
+<p begin="00:14:37.079" end="00:14:41.760" style="s2">ich tatsächlich in der Materie noch</p>
+<p begin="00:14:39.000" end="00:14:44.760" style="s2">etwas bewegen kann obwohl ich selbst nur</p>
+<p begin="00:14:41.760" end="00:14:47.760" style="s2">noch Geist bin also sie haben mit der</p>
+<p begin="00:14:44.760" end="00:14:49.560" style="s2">Frau luxinger vorher nie darüber</p>
+<p begin="00:14:47.760" end="00:14:51.959" style="s2">gesprochen dass da etwas mit der</p>
+<p begin="00:14:49.560" end="00:14:54.360" style="s2">Waschmaschine war oder mit diesem</p>
+<p begin="00:14:51.959" end="00:14:55.620" style="s2">Knobelbecher oder mit all diesen anderen</p>
+<p begin="00:14:54.360" end="00:14:57.899" style="s2">Dingen die wir jetzt dann noch</p>
+<p begin="00:14:55.620" end="00:15:00.720" style="s2">besprechen also das konnte sie nicht</p>
+<p begin="00:14:57.899" end="00:15:03.060" style="s2">wissen überhaupt nicht überhaupt nicht</p>
+<p begin="00:15:00.720" end="00:15:05.820" style="s2">ich habe es niemandem mehr erzählt weil</p>
+<p begin="00:15:03.060" end="00:15:07.980" style="s2">ich habe ja schon an mir denke ich wenn</p>
+<p begin="00:15:05.820" end="00:15:09.199" style="s2">ich das jemandem erzähle die glauben ich</p>
+<p begin="00:15:07.980" end="00:15:12.180" style="s2">spinne</p>
+<p begin="00:15:09.199" end="00:15:16.320" style="s2">und habe das für mich behalten aber dann</p>
+<p begin="00:15:12.180" end="00:15:19.639" style="s2">war eben ja dieses erste Gespräch und</p>
+<p begin="00:15:16.320" end="00:15:22.860" style="s2">ich sollte meine Fragen aufschreiben und</p>
+<p begin="00:15:19.639" end="00:15:25.139" style="s2">ohne die vorher jemanden mitzuteilen</p>
+<p begin="00:15:22.860" end="00:15:28.440" style="s2">genauso ist es gelaufen es ist also in</p>
+<p begin="00:15:25.139" end="00:15:31.260" style="s2">der laufenden Sitzung passiert</p>
+<p begin="00:15:28.440" end="00:15:35.060" style="s2">und diesem laufende Sitzung wenn ich das</p>
+<p begin="00:15:31.260" end="00:15:37.880" style="s2">Anfügen darf ist im ersten hier als</p>
+<p begin="00:15:35.060" end="00:15:40.459" style="s2">audioprotokoll und zweitens habe ich</p>
+<p begin="00:15:37.880" end="00:15:43.380" style="s2">diesem diesen</p>
+<p begin="00:15:40.459" end="00:15:45.899" style="s2">Inhalt also den Text der laufenden</p>
+<p begin="00:15:43.380" end="00:15:48.120" style="s2">Sitzung eins zu eins in diesem Buch</p>
+<p begin="00:15:45.899" end="00:15:50.579" style="s2">niedergeschrieben</p>
+<p begin="00:15:48.120" end="00:15:52.620" style="s2">also nicht verschönt nicht da</p>
+<p begin="00:15:50.579" end="00:15:53.660" style="s2">weggenommen einfach so wie es gelaufen</p>
+<p begin="00:15:52.620" end="00:15:56.699" style="s2">ist</p>
+<p begin="00:15:53.660" end="00:15:59.160" style="s2">eine weitere Sache war dann die mit der</p>
+<p begin="00:15:56.699" end="00:16:01.920" style="s2">Schultafel was war damit</p>
+<p begin="00:15:59.160" end="00:16:04.139" style="s2">ja ich wie gesagt nach der ersten</p>
+<p begin="00:16:01.920" end="00:16:06.139" style="s2">Sitzung war ich dann hier und ein</p>
+<p begin="00:16:04.139" end="00:16:09.240" style="s2">bisschen verwirrt und durcheinander und</p>
+<p begin="00:16:06.139" end="00:16:12.720" style="s2">denke na ja</p>
+<p begin="00:16:09.240" end="00:16:15.060" style="s2">euer schauen wir mal und hatte den Plan</p>
+<p begin="00:16:12.720" end="00:16:19.079" style="s2">auch das hatte ich und das wusste auch</p>
+<p begin="00:16:15.060" end="00:16:22.160" style="s2">niemand mit dem Werner verabredet kurz</p>
+<p begin="00:16:19.079" end="00:16:25.380" style="s2">vor seinem weggehen</p>
+<p begin="00:16:22.160" end="00:16:28.139" style="s2">und habe ihn gefragt auch darüber gibt</p>
+<p begin="00:16:25.380" end="00:16:30.800" style="s2">es ein kleines Handy Video ob er</p>
+<p begin="00:16:28.139" end="00:16:32.639" style="s2">einverstanden ist dass ich seine</p>
+<p begin="00:16:30.800" end="00:16:34.040" style="s2">Lebensgeschichte seine Geschichte auch</p>
+<p begin="00:16:32.639" end="00:16:37.019" style="s2">die Geschichte der Krankheit</p>
+<p begin="00:16:34.040" end="00:16:38.820" style="s2">niederschreiben darf und in einem Buch</p>
+<p begin="00:16:37.019" end="00:16:43.199" style="s2">veröffentlichen darf</p>
+<p begin="00:16:38.820" end="00:16:46.139" style="s2">und er zugestimmt so dann ist es aber so</p>
+<p begin="00:16:43.199" end="00:16:49.680" style="s2">müssen sie vergehen dann die Wochen nach</p>
+<p begin="00:16:46.139" end="00:16:52.740" style="s2">dem Dahinscheiden ein eines lieben</p>
+<p begin="00:16:49.680" end="00:16:55.199" style="s2">Menschen und ich habe natürlich so an</p>
+<p begin="00:16:52.740" end="00:16:57.600" style="s2">das Buch gedacht und denke na ja</p>
+<p begin="00:16:55.199" end="00:17:01.940" style="s2">irgendwann wenn ich dann Zeit habe und</p>
+<p begin="00:16:57.600" end="00:17:04.079" style="s2">Muse habe ich das Buch und dann</p>
+<p begin="00:17:01.940" end="00:17:07.380" style="s2">passierte ich kann jetzt müsste</p>
+<p begin="00:17:04.079" end="00:17:11.160" style="s2">nachgucken vielleicht im August oder im</p>
+<p begin="00:17:07.380" end="00:17:14.040" style="s2">September ich sitze wieder wie oft hier</p>
+<p begin="00:17:11.160" end="00:17:17.720" style="s2">in meinem Arbeitszimmer schreibe abends</p>
+<p begin="00:17:14.040" end="00:17:21.480" style="s2">und höre aus der Küche abends um zehn</p>
+<p begin="00:17:17.720" end="00:17:24.660" style="s2">wieder ein Geräusch</p>
+<p begin="00:17:21.480" end="00:17:27.660" style="s2">und ich gehe in die Küche und da ist ein</p>
+<p begin="00:17:24.660" end="00:17:31.260" style="s2">Regal und ganz oben auf dem Regal steht</p>
+<p begin="00:17:27.660" end="00:17:33.419" style="s2">seit 30 Jahren meine Schultafel die ich</p>
+<p begin="00:17:31.260" end="00:17:35.720" style="s2">das ist ich bin in einem Alter wo im</p>
+<p begin="00:17:33.419" end="00:17:39.539" style="s2">ersten Schuljahr noch Schultafeln</p>
+<p begin="00:17:35.720" end="00:17:43.400" style="s2">genommen wurden und und Brüssel ich kann</p>
+<p begin="00:17:39.539" end="00:17:47.220" style="s2">die auch hier zeigen steht ihr diese</p>
+<p begin="00:17:43.400" end="00:17:49.500" style="s2">Schultafel oben im Regal samt eben hier</p>
+<p begin="00:17:47.220" end="00:17:51.080" style="s2">so diesen griffelkästchen aus meinem</p>
+<p begin="00:17:49.500" end="00:17:54.480" style="s2">ersten Schuljahr und genau diesen</p>
+<p begin="00:17:51.080" end="00:17:57.179" style="s2">stuhltafel liegt in der Küche unten auf</p>
+<p begin="00:17:54.480" end="00:18:01.980" style="s2">dem Boden samt diesem diesen Kästchen</p>
+<p begin="00:17:57.179" end="00:18:03.780" style="s2">und ich starre darauf und denke das</p>
+<p begin="00:18:01.980" end="00:18:06.660" style="s2">gibt&#39;s nicht das gibt es ja überhaupt</p>
+<p begin="00:18:03.780" end="00:18:10.440" style="s2">nicht 30 Jahre steht das Ding da oben</p>
+<p begin="00:18:06.660" end="00:18:12.539" style="s2">und und dann denke ich okay Schultafel</p>
+<p begin="00:18:10.440" end="00:18:15.059" style="s2">schreiben Buch</p>
+<p begin="00:18:12.539" end="00:18:17.220" style="s2">klar wir haben vom Buch gesprochen und</p>
+<p begin="00:18:15.059" end="00:18:19.500" style="s2">ich sage laut wäre eigentlich bist du</p>
+<p begin="00:18:17.220" end="00:18:21.480" style="s2">hier oder lege die Tafel auf den Tisch</p>
+<p begin="00:18:19.500" end="00:18:22.220" style="s2">sage ich und was passiert jetzt schreibt</p>
+<p begin="00:18:21.480" end="00:18:24.660" style="s2">jetzt</p>
+<p begin="00:18:22.220" end="00:18:27.120" style="s2">irgendeine unsichtbare Hand irgendwas da</p>
+<p begin="00:18:24.660" end="00:18:30.240" style="s2">drauf nein passiert natürlich nicht auf</p>
+<p begin="00:18:27.120" end="00:18:33.480" style="s2">jeden Fall war ich aber völlig</p>
+<p begin="00:18:30.240" end="00:18:35.100" style="s2">völlig durcheinander und denken ja also</p>
+<p begin="00:18:33.480" end="00:18:38.240" style="s2">das hier ist alles schon sehr</p>
+<p begin="00:18:35.100" end="00:18:41.220" style="s2">bemerkwürdig um ein paar Tage später</p>
+<p begin="00:18:38.240" end="00:18:44.039" style="s2">habe ich mir gedacht ich rufe jetzt noch</p>
+<p begin="00:18:41.220" end="00:18:47.059" style="s2">mal bei dieser Vera luxinger an und</p>
+<p begin="00:18:44.039" end="00:18:51.419" style="s2">bitte sie um einen weiteren Termin</p>
+<p begin="00:18:47.059" end="00:18:53.480" style="s2">habe ich getan und und gleiches</p>
+<p begin="00:18:51.419" end="00:18:56.580" style="s2">Prozedere und sie sagt okay</p>
+<p begin="00:18:53.480" end="00:18:58.860" style="s2">macht sie ich soll mir bitte wieder ein</p>
+<p begin="00:18:56.580" end="00:19:02.820" style="s2">paar Fragen aufschreiben die ich während</p>
+<p begin="00:18:58.860" end="00:19:06.620" style="s2">der laufenden Sitzung Stelle so und dann</p>
+<p begin="00:19:02.820" end="00:19:08.880" style="s2">gab es eben einen zweiten</p>
+<p begin="00:19:06.620" end="00:19:12.679" style="s2">Sitzungstermin ich muss gucken 22</p>
+<p begin="00:19:08.880" end="00:19:16.799" style="s2">oktober also drei Monate später</p>
+<p begin="00:19:12.679" end="00:19:18.559" style="s2">bei dieser viraluxina gleiches Prozedere</p>
+<p begin="00:19:16.799" end="00:19:20.820" style="s2">wir gehen ein bisschen in einem</p>
+<p begin="00:19:18.559" end="00:19:23.299" style="s2">meditative Grundstufe ich muss dazu</p>
+<p begin="00:19:20.820" end="00:19:25.460" style="s2">sagen ich habe</p>
+<p begin="00:19:23.299" end="00:19:28.280" style="s2">Meditation gelernt</p>
+<p begin="00:19:25.460" end="00:19:31.080" style="s2">und und und</p>
+<p begin="00:19:28.280" end="00:19:32.700" style="s2">talim hat sich wieder verbündet und sagt</p>
+<p begin="00:19:31.080" end="00:19:34.740" style="s2">ja ja der Werner steht schon ganz</p>
+<p begin="00:19:32.700" end="00:19:39.240" style="s2">aufgeregt hier und will zu Wort kommen</p>
+<p begin="00:19:34.740" end="00:19:42.120" style="s2">und dann ist der Dialog losgegangen und</p>
+<p begin="00:19:39.240" end="00:19:45.840" style="s2">ich habe eben während der Sitzung meine</p>
+<p begin="00:19:42.120" end="00:19:48.780" style="s2">Fragen gestellt warum wohl warum ob er</p>
+<p begin="00:19:45.840" end="00:19:53.100" style="s2">diese Schultafel vom Regal in der Küche</p>
+<p begin="00:19:48.780" end="00:19:55.980" style="s2">geworfen hat und er sagte ja ja ich</p>
+<p begin="00:19:53.100" end="00:19:57.740" style="s2">wollte dich erinnern du weißt wir hatten</p>
+<p begin="00:19:55.980" end="00:20:02.179" style="s2">verabredet</p>
+<p begin="00:19:57.740" end="00:20:04.860" style="s2">dass du ein Buch schreibst und ich denke</p>
+<p begin="00:20:02.179" end="00:20:07.380" style="s2">das kann ja diese Vera gar nicht wissen</p>
+<p begin="00:20:04.860" end="00:20:09.539" style="s2">das kann ja überhaupt niemand wissen das</p>
+<p begin="00:20:07.380" end="00:20:12.900" style="s2">war eine Abmachung zwischen dem Werner</p>
+<p begin="00:20:09.539" end="00:20:18.120" style="s2">und mir sechs Tage oder acht Tage vor</p>
+<p begin="00:20:12.900" end="00:20:21.000" style="s2">seinem dahin schreiben und habe das zwar</p>
+<p begin="00:20:18.120" end="00:20:23.039" style="s2">im Hinterkopf gehabt aber wie gesagt und</p>
+<p begin="00:20:21.000" end="00:20:25.380" style="s2">habe das so vor mich hingeschoben und</p>
+<p begin="00:20:23.039" end="00:20:27.900" style="s2">dann</p>
+<p begin="00:20:25.380" end="00:20:30.240" style="s2">kommt explizit der Hinweis dass ich mich</p>
+<p begin="00:20:27.900" end="00:20:32.220" style="s2">sputen soll und anfangen dieses Buch zu</p>
+<p begin="00:20:30.240" end="00:20:33.600" style="s2">schreiben</p>
+<p begin="00:20:32.220" end="00:20:36.299" style="s2">an dieser Stelle sollten wir vielleicht</p>
+<p begin="00:20:33.600" end="00:20:39.299" style="s2">kurz erwähnen dass das hier keine</p>
+<p begin="00:20:36.299" end="00:20:41.340" style="s2">Werbung ist fürs Buch weil das wird</p>
+<p begin="00:20:39.299" end="00:20:43.860" style="s2">manchmal in den Kommentaren kritisch</p>
+<p begin="00:20:41.340" end="00:20:46.559" style="s2">erwähnt sondern das Buch wird hier</p>
+<p begin="00:20:43.860" end="00:20:50.580" style="s2">einerseits nur verwendet damit ich diese</p>
+<p begin="00:20:46.559" end="00:20:52.500" style="s2">Textstellen zitieren kann und für jene</p>
+<p begin="00:20:50.580" end="00:20:53.820" style="s2">Menschen die einfach näher dran</p>
+<p begin="00:20:52.500" end="00:20:56.039" style="s2">interessiert sind es ist sehr</p>
+<p begin="00:20:53.820" end="00:20:56.900" style="s2">umfangreich sind viele Durchsagen und</p>
+<p begin="00:20:56.039" end="00:20:59.100" style="s2">viele</p>
+<p begin="00:20:56.900" end="00:21:01.080" style="s2">interessante Dinge enthalten also nur</p>
+<p begin="00:20:59.100" end="00:21:05.960" style="s2">für diejenigen die daran interessiert</p>
+<p begin="00:21:01.080" end="00:21:09.020" style="s2">sind ja und dann eine weitere Sache die</p>
+<p begin="00:21:05.960" end="00:21:12.780" style="s2">das Medium auch nicht wissen konnte</p>
+<p begin="00:21:09.020" end="00:21:15.660" style="s2">betrifft die Cousine von Werner ja was</p>
+<p begin="00:21:12.780" end="00:21:18.860" style="s2">hat es damit auf sich anders ist aber</p>
+<p begin="00:21:15.660" end="00:21:22.860" style="s2">dann ich habe dann begonnen</p>
+<p begin="00:21:18.860" end="00:21:25.280" style="s2">in dieses Buch zu schreiben und habe</p>
+<p begin="00:21:22.860" end="00:21:28.440" style="s2">aber</p>
+<p begin="00:21:25.280" end="00:21:30.360" style="s2">es gab eine Krankengeschichte von 19</p>
+<p begin="00:21:28.440" end="00:21:33.419" style="s2">Jahren von dem Werner und ich habe</p>
+<p begin="00:21:30.360" end="00:21:36.299" style="s2">angefangen so die ersten 30 Seiten zu</p>
+<p begin="00:21:33.419" end="00:21:39.419" style="s2">schreiben und wollte eben diese auch</p>
+<p begin="00:21:36.299" end="00:21:44.120" style="s2">fatalen Fehler die passiert sind in der</p>
+<p begin="00:21:39.419" end="00:21:47.120" style="s2">Behandlung niederschreiben und dann</p>
+<p begin="00:21:44.120" end="00:21:47.120" style="s2">ist</p>
+<p begin="00:21:47.179" end="00:21:52.799" style="s2">dreiviertel Jahr später aber niemand hat</p>
+<p begin="00:21:49.260" end="00:21:54.020" style="s2">davon gewusst wohlgemerkt und dann habe</p>
+<p begin="00:21:52.799" end="00:21:56.880" style="s2">ich</p>
+<p begin="00:21:54.020" end="00:21:59.640" style="s2">Werners Cousine also er hat eine Cousine</p>
+<p begin="00:21:56.880" end="00:22:01.500" style="s2">die im elterlichen Haus lebt wo auch</p>
+<p begin="00:21:59.640" end="00:22:04.320" style="s2">Werners Eltern oder wo er auch gelebt</p>
+<p begin="00:22:01.500" end="00:22:06.900" style="s2">habt gerne beide und die hatte</p>
+<p begin="00:22:04.320" end="00:22:09.600" style="s2">inzwischen dieses elterliche Hausübung</p>
+<p begin="00:22:06.900" end="00:22:12.260" style="s2">übernommen und ich wusste diese Cousine</p>
+<p begin="00:22:09.600" end="00:22:14.900" style="s2">Brigitte mit der ich aber nicht eng</p>
+<p begin="00:22:12.260" end="00:22:17.220" style="s2">verwandelt war</p>
+<p begin="00:22:14.900" end="00:22:19.559" style="s2">hat möglicherweise ist ein bisschen</p>
+<p begin="00:22:17.220" end="00:22:23.400" style="s2">offen und die habe ich angerufen und</p>
+<p begin="00:22:19.559" end="00:22:24.780" style="s2">habe ihr kurz am Telefon erklärt dass</p>
+<p begin="00:22:23.400" end="00:22:27.960" style="s2">ich</p>
+<p begin="00:22:24.780" end="00:22:30.320" style="s2">ist ein Medium mit ihrem Cousin Werner</p>
+<p begin="00:22:27.960" end="00:22:34.500" style="s2">in Kontakt stehe sie wusste ja dass ich</p>
+<p begin="00:22:30.320" end="00:22:37.580" style="s2">dass wir lange zusammen waren und sie</p>
+<p begin="00:22:34.500" end="00:22:40.200" style="s2">hierher gebeten so und dann haben wir</p>
+<p begin="00:22:37.580" end="00:22:42.480" style="s2">beim Essen gesessen hier bei mir im</p>
+<p begin="00:22:40.200" end="00:22:46.440" style="s2">Wohnzimmer und ich habe eben von diesen</p>
+<p begin="00:22:42.480" end="00:22:50.640" style="s2">beiden Sitzungen erzählt und auch ganz</p>
+<p begin="00:22:46.440" end="00:22:51.559" style="s2">gespannt ob sie sagt ich bin völlig</p>
+<p begin="00:22:50.640" end="00:22:54.960" style="s2">durch</p>
+<p begin="00:22:51.559" end="00:22:58.020" style="s2">völlig daneben aber hatte dann eben den</p>
+<p begin="00:22:54.960" end="00:23:00.120" style="s2">Eindruck dass diese Brigitte sehr wohl</p>
+<p begin="00:22:58.020" end="00:23:02.280" style="s2">wusste von was ich rede und dass sie</p>
+<p begin="00:23:00.120" end="00:23:04.380" style="s2">auch eben eine spirituelle Ader hat und</p>
+<p begin="00:23:02.280" end="00:23:07.080" style="s2">das also nicht als Humbug vom Tisch</p>
+<p begin="00:23:04.380" end="00:23:08.940" style="s2">geworfen hat und haben halt dann eben</p>
+<p begin="00:23:07.080" end="00:23:10.679" style="s2">über die früheren Zeiten gesprochen und</p>
+<p begin="00:23:08.940" end="00:23:12.900" style="s2">dass wir uns jetzt ein bisschen öfter</p>
+<p begin="00:23:10.679" end="00:23:16.380" style="s2">drehen so</p>
+<p begin="00:23:12.900" end="00:23:18.299" style="s2">all das hat dieses Medium ja gar nicht</p>
+<p begin="00:23:16.380" end="00:23:20.240" style="s2">wissen können das hat niemand gewusst</p>
+<p begin="00:23:18.299" end="00:23:22.159" style="s2">wissen das waren von mir so ganz</p>
+<p begin="00:23:20.240" end="00:23:26.539" style="s2">vorsichtige</p>
+<p begin="00:23:22.159" end="00:23:30.659" style="s2">Aktionen um jemanden</p>
+<p begin="00:23:26.539" end="00:23:34.260" style="s2">einzuweihen also gerade eben die einzige</p>
+<p begin="00:23:30.659" end="00:23:38.520" style="s2">Cousine die vielleicht das versteht was</p>
+<p begin="00:23:34.260" end="00:23:41.460" style="s2">ihr gerade vor sich geht und dann gab es</p>
+<p begin="00:23:38.520" end="00:23:45.380" style="s2">eben und dann habe ich eben die diese</p>
+<p begin="00:23:41.460" end="00:23:48.360" style="s2">Vera zum dritten Mal angerufen und habe</p>
+<p begin="00:23:45.380" end="00:23:50.760" style="s2">um eine Sitzung gebeten und bin dann zu</p>
+<p begin="00:23:48.360" end="00:23:52.080" style="s2">ihr hingefahren gleiches Prozedere ich</p>
+<p begin="00:23:50.760" end="00:23:53.640" style="s2">soll meine Fragen wieder aufschreiben</p>
+<p begin="00:23:52.080" end="00:23:56.520" style="s2">sie will aber die Fragen nicht wissen</p>
+<p begin="00:23:53.640" end="00:24:00.380" style="s2">und habe auch diese Wera gefragt wie das</p>
+<p begin="00:23:56.520" end="00:24:04.260" style="s2">denn normalerweise abläuft wenn</p>
+<p begin="00:24:00.380" end="00:24:07.799" style="s2">Menschen zu ihr kommen die mit einem</p>
+<p begin="00:24:04.260" end="00:24:12.000" style="s2">Verstorbenen sprechen wollen und die</p>
+<p begin="00:24:07.799" end="00:24:14.220" style="s2">sagt na ja die kommen einmal Fragen noch</p>
+<p begin="00:24:12.000" end="00:24:17.460" style="s2">was jetzt das sagen was sie zu sagen</p>
+<p begin="00:24:14.220" end="00:24:19.140" style="s2">haben und gehen wieder und kommen die</p>
+<p begin="00:24:17.460" end="00:24:22.080" style="s2">wieder das sage ich jetzt bin ich schon</p>
+<p begin="00:24:19.140" end="00:24:24.919" style="s2">das dritte Mal hier und ich habe das</p>
+<p begin="00:24:22.080" end="00:24:27.720" style="s2">Gefühl dass</p>
+<p begin="00:24:24.919" end="00:24:31.679" style="s2">wir uns nicht zum letzten Mal treffen</p>
+<p begin="00:24:27.720" end="00:24:35.520" style="s2">also und dann gingen wir eben in diese</p>
+<p begin="00:24:31.679" end="00:24:38.580" style="s2">Sitzung hinein und auch da im hat der</p>
+<p begin="00:24:35.520" end="00:24:41.780" style="s2">Werner unter anderem gesagt dass er das</p>
+<p begin="00:24:38.580" end="00:24:44.159" style="s2">Treffen mit seiner Cousine doch sehr</p>
+<p begin="00:24:41.780" end="00:24:46.679" style="s2">schön fand und dass sich die mit</p>
+<p begin="00:24:44.159" end="00:24:48.980" style="s2">einbezogen habe ja da gibt es jetzt eine</p>
+<p begin="00:24:46.679" end="00:24:51.840" style="s2">Textstelle und zwar heißt es hier Zitat</p>
+<p begin="00:24:48.980" end="00:24:54.000" style="s2">wir sind eigentlich immer da der eine</p>
+<p begin="00:24:51.840" end="00:24:57.059" style="s2">mehr der andere weniger oder intensiver</p>
+<p begin="00:24:54.000" end="00:24:58.799" style="s2">und weniger intensiv so wie der Tag an</p>
+<p begin="00:24:57.059" end="00:25:00.059" style="s2">dem du dich getroffen hast mit meiner</p>
+<p begin="00:24:58.799" end="00:25:02.280" style="s2">Cousine</p>
+<p begin="00:25:00.059" end="00:25:04.260" style="s2">es war ein interessantes zusammentreffen</p>
+<p begin="00:25:02.280" end="00:25:06.179" style="s2">und eure beiden Energien zusammen zu</p>
+<p begin="00:25:04.260" end="00:25:08.340" style="s2">sehen und ich habe mich auch darüber</p>
+<p begin="00:25:06.179" end="00:25:11.460" style="s2">gefreut wie sie jetzt die Dinge gelöst</p>
+<p begin="00:25:08.340" end="00:25:13.919" style="s2">hat es ist sicherlich ein gutes Werk und</p>
+<p begin="00:25:11.460" end="00:25:15.900" style="s2">eine gute Entscheidung dieses Haus zu</p>
+<p begin="00:25:13.919" end="00:25:18.600" style="s2">behalten also das sind auch wieder</p>
+<p begin="00:25:15.900" end="00:25:20.280" style="s2">Informationen die die wäre luxinger auf</p>
+<p begin="00:25:18.600" end="00:25:23.580" style="s2">keinen Fall wissen konnte überhaupt</p>
+<p begin="00:25:20.280" end="00:25:25.140" style="s2">nicht überhaupt nicht das war ein ja</p>
+<p begin="00:25:23.580" end="00:25:27.059" style="s2">auch eine strenge eine</p>
+<p begin="00:25:25.140" end="00:25:29.580" style="s2">Familienangelegenheit also es gibt da</p>
+<p begin="00:25:27.059" end="00:25:34.260" style="s2">nur noch zwei Schwestern vom Werner die</p>
+<p begin="00:25:29.580" end="00:25:36.240" style="s2">aber sich eben also drei Nachkommen zwei</p>
+<p begin="00:25:34.260" end="00:25:39.360" style="s2">Schwestern vom Werner eine Cousine</p>
+<p begin="00:25:36.240" end="00:25:42.740" style="s2">Brigitte die sich danke einigt haben das</p>
+<p begin="00:25:39.360" end="00:25:46.320" style="s2">Brigitte das Haus übernimmt dieses</p>
+<p begin="00:25:42.740" end="00:25:48.659" style="s2">elterliche Haus und die beiden</p>
+<p begin="00:25:46.320" end="00:25:51.980" style="s2">Schwestern von Werner auszahlt wieso</p>
+<p begin="00:25:48.659" end="00:25:56.400" style="s2">aber das ist ja eine ganz enge</p>
+<p begin="00:25:51.980" end="00:26:00.360" style="s2">Familiengeschichte die niemand weiß</p>
+<p begin="00:25:56.400" end="00:26:02.279" style="s2">also eben mir in dem Gespräch mit bei</p>
+<p begin="00:26:00.360" end="00:26:04.380" style="s2">dem Besuch von der Brigitte aber sonst</p>
+<p begin="00:26:02.279" end="00:26:06.600" style="s2">niemand</p>
+<p begin="00:26:04.380" end="00:26:08.400" style="s2">und eine weitere Sache die Frau luxinger</p>
+<p begin="00:26:06.600" end="00:26:10.860" style="s2">nicht wissen konnte betrifft den</p>
+<p begin="00:26:08.400" end="00:26:13.520" style="s2">Leidensweg von Werner also warum es zu</p>
+<p begin="00:26:10.860" end="00:26:15.539" style="s2">diesem häuslichen Unfall kam und dem</p>
+<p begin="00:26:13.520" end="00:26:17.760" style="s2">darauffolgenden Leidensweg und</p>
+<p begin="00:26:15.539" end="00:26:20.159" style="s2">schließlich zeigt sich damit auch dass</p>
+<p begin="00:26:17.760" end="00:26:22.260" style="s2">dieses Buch einen anderen Sinn hat als</p>
+<p begin="00:26:20.159" end="00:26:25.080" style="s2">es ursprünglich von ihnen Frau Skater</p>
+<p begin="00:26:22.260" end="00:26:27.360" style="s2">gedacht war es kam in der dritten</p>
+<p begin="00:26:25.080" end="00:26:31.100" style="s2">Sitzung zur Sprache</p>
+<p begin="00:26:27.360" end="00:26:31.100" style="s2">hier heißt es zum Beispiel</p>
+<p begin="00:26:33.360" end="00:26:40.220" style="s2">auf Seite 169 das Ziel ist es nicht die</p>
+<p begin="00:26:38.279" end="00:26:43.140" style="s2">Tragik in den Vordergrund zu stellen</p>
+<p begin="00:26:40.220" end="00:26:46.559" style="s2">sondern die Akzeptanz dass jeder Mensch</p>
+<p begin="00:26:43.140" end="00:26:49.080" style="s2">einen Seelenplan hat und das ich diesem</p>
+<p begin="00:26:46.559" end="00:26:52.020" style="s2">Seelenplan gefolgt bin also zuerst mal</p>
+<p begin="00:26:49.080" end="00:26:54.900" style="s2">noch zur Frage was war der ursprüngliche</p>
+<p begin="00:26:52.020" end="00:26:57.240" style="s2">Zweck des Buches aus ihrer Sicht aus</p>
+<p begin="00:26:54.900" end="00:27:01.320" style="s2">meiner Sicht will ich eben schon sagte</p>
+<p begin="00:26:57.240" end="00:27:05.419" style="s2">ich habe über die Jahre wo ich den</p>
+<p begin="00:27:01.320" end="00:27:07.799" style="s2">Werner betreut habe ja auch ganz viel</p>
+<p begin="00:27:05.419" end="00:27:10.380" style="s2">Katastrophen oder auch die Kontakte</p>
+<p begin="00:27:07.799" end="00:27:12.419" style="s2">gehabt zu den Ärzten zu den Pflegeheimen</p>
+<p begin="00:27:10.380" end="00:27:14.880" style="s2">zu den Krankenhäusern und es sind so</p>
+<p begin="00:27:12.419" end="00:27:19.080" style="s2">viele Dinge auch da im schief gelaufen</p>
+<p begin="00:27:14.880" end="00:27:21.840" style="s2">und ich wollte das alles in einem Buch</p>
+<p begin="00:27:19.080" end="00:27:25.980" style="s2">niederschreiben was eben jemanden</p>
+<p begin="00:27:21.840" end="00:27:28.799" style="s2">passieren kann der einen einen Sturz von</p>
+<p begin="00:27:25.980" end="00:27:31.500" style="s2">der Haustür Treppe er leidet und innere</p>
+<p begin="00:27:28.799" end="00:27:34.500" style="s2">Kopfverletzungen hat das war meine</p>
+<p begin="00:27:31.500" end="00:27:36.980" style="s2">Intention und dann kriege ich eben in</p>
+<p begin="00:27:34.500" end="00:27:41.100" style="s2">dieser dritten Sitzung eine klare</p>
+<p begin="00:27:36.980" end="00:27:43.140" style="s2">Hinweis dass es kein Buch des Leidens</p>
+<p begin="00:27:41.100" end="00:27:44.700" style="s2">werden soll</p>
+<p begin="00:27:43.140" end="00:27:48.360" style="s2">und es ging ja nicht nur um dieses</p>
+<p begin="00:27:44.700" end="00:27:50.220" style="s2">Leiden sondern auch um gewisse Fehler</p>
+<p begin="00:27:48.360" end="00:27:51.480" style="s2">die in den Krankenhäusern passiert sind</p>
+<p begin="00:27:50.220" end="00:27:54.179" style="s2">also diagnostische Fehler</p>
+<p begin="00:27:51.480" end="00:27:57.080" style="s2">Behandlungsfehler</p>
+<p begin="00:27:54.179" end="00:28:00.720" style="s2">genau und dann</p>
+<p begin="00:27:57.080" end="00:28:03.720" style="s2">bin ich heim gefahren und habe mir eben</p>
+<p begin="00:28:00.720" end="00:28:07.380" style="s2">meine ersten 30 40 Seiten angeguckt und</p>
+<p begin="00:28:03.720" end="00:28:10.559" style="s2">denke okay dann ist das der völlig</p>
+<p begin="00:28:07.380" end="00:28:15.720" style="s2">falsche Ansatz weil das hier ist ja eine</p>
+<p begin="00:28:10.559" end="00:28:18.840" style="s2">klare ja ein klarer Hinweis dass das</p>
+<p begin="00:28:15.720" end="00:28:22.620" style="s2">Buch eben Hoffnung vermitteln soll Mut</p>
+<p begin="00:28:18.840" end="00:28:26.159" style="s2">machen soll und nicht an einem eine</p>
+<p begin="00:28:22.620" end="00:28:28.320" style="s2">Geschichte der der Leiden der Dramatik</p>
+<p begin="00:28:26.159" end="00:28:31.700" style="s2">und der ärztlichen Fehler werden soll</p>
+<p begin="00:28:28.320" end="00:28:36.000" style="s2">und auch da muss ich noch mal</p>
+<p begin="00:28:31.700" end="00:28:38.940" style="s2">einwerfen die Vera luxinger hat von mir</p>
+<p begin="00:28:36.000" end="00:28:42.179" style="s2">keine aber auch gar keine Biografie von</p>
+<p begin="00:28:38.940" end="00:28:45.200" style="s2">dem Werner die wusste nicht mal wie von</p>
+<p begin="00:28:42.179" end="00:28:48.299" style="s2">dieser von diesem langen Weg</p>
+<p begin="00:28:45.200" end="00:28:50.400" style="s2">nur ich habe dann hier gesessen und habe</p>
+<p begin="00:28:48.299" end="00:28:53.900" style="s2">mir meine 30 oder 40 Seiten angeguckt</p>
+<p begin="00:28:50.400" end="00:28:57.179" style="s2">und denke okay das ist jetzt</p>
+<p begin="00:28:53.900" end="00:29:01.799" style="s2">völlig falsch ich muss von vorne</p>
+<p begin="00:28:57.179" end="00:29:05.279" style="s2">beginnen neu beginnen und dann habe ich</p>
+<p begin="00:29:01.799" end="00:29:07.820" style="s2">mich eines Abends hingesetzt und ich</p>
+<p begin="00:29:05.279" end="00:29:10.140" style="s2">muss dazu sagen ich bin schreiben</p>
+<p begin="00:29:07.820" end="00:29:11.820" style="s2">einigermaßen gut gewöhnt seit vielen</p>
+<p begin="00:29:10.140" end="00:29:13.620" style="s2">Jahren ich schreibe Fachartikel ich</p>
+<p begin="00:29:11.820" end="00:29:15.720" style="s2">schreibe Seminar Skripte ich habe auch</p>
+<p begin="00:29:13.620" end="00:29:17.640" style="s2">ein Fachbuch geschrieben und das erste</p>
+<p begin="00:29:15.720" end="00:29:20.539" style="s2">was man macht ist ein Inhaltsverzeichnis</p>
+<p begin="00:29:17.640" end="00:29:23.779" style="s2">mal so und habe dann</p>
+<p begin="00:29:20.539" end="00:29:26.940" style="s2">innerhalb von zehn Minuten es ist mir</p>
+<p begin="00:29:23.779" end="00:29:28.740" style="s2">zugeflogen es ist mir eingegeben worden</p>
+<p begin="00:29:26.940" end="00:29:31.740" style="s2">oder wie soll ich das sagen innerhalb</p>
+<p begin="00:29:28.740" end="00:29:35.760" style="s2">von zehn Minuten ein Inhaltsverzeichnis</p>
+<p begin="00:29:31.740" end="00:29:38.640" style="s2">gehabt und denke aha okay das ist jetzt</p>
+<p begin="00:29:35.760" end="00:29:41.460" style="s2">der Fahrplan</p>
+<p begin="00:29:38.640" end="00:29:43.080" style="s2">durch diese Durchsagen von Werner über</p>
+<p begin="00:29:41.460" end="00:29:45.000" style="s2">das Medium konnten sie also dann</p>
+<p begin="00:29:43.080" end="00:29:49.140" style="s2">letztlich die ganze Leidensgeschichte</p>
+<p begin="00:29:45.000" end="00:29:50.940" style="s2">besser verstehen also im Alter von 39</p>
+<p begin="00:29:49.140" end="00:29:53.520" style="s2">Jahren hat er diesen schrecklichen</p>
+<p begin="00:29:50.940" end="00:29:55.880" style="s2">Unfall dann diese ganzen Fehler im</p>
+<p begin="00:29:53.520" end="00:30:00.620" style="s2">Krankenhaus und so weiter</p>
+<p begin="00:29:55.880" end="00:30:03.659" style="s2">und dann waren sehr letztlich 21 Jahre</p>
+<p begin="00:30:00.620" end="00:30:05.220" style="s2">ist er im Alter von 60 Jahren verstorben</p>
+<p begin="00:30:03.659" end="00:30:08.399" style="s2">ist</p>
+<p begin="00:30:05.220" end="00:30:11.159" style="s2">und durch diese Durchsagen was würden</p>
+<p begin="00:30:08.399" end="00:30:15.659" style="s2">Sie sagen ist dann so eine der</p>
+<p begin="00:30:11.159" end="00:30:17.640" style="s2">hauptlektionen daraus also warum musste</p>
+<p begin="00:30:15.659" end="00:30:18.740" style="s2">er das ganze erleben war das irgendwie</p>
+<p begin="00:30:17.640" end="00:30:23.640" style="s2">geplant</p>
+<p begin="00:30:18.740" end="00:30:25.860" style="s2">worum ging es da ich habe durch die</p>
+<p begin="00:30:23.640" end="00:30:28.260" style="s2">Durchsagen von Werner gelernt dass die</p>
+<p begin="00:30:25.860" end="00:30:32.700" style="s2">Seele einen Plan hat und dass dieser</p>
+<p begin="00:30:28.260" end="00:30:36.960" style="s2">Plan ja schon vorgezeichnet ist also hat</p>
+<p begin="00:30:32.700" end="00:30:40.159" style="s2">er aber man hat ja immer die Möglichkeit</p>
+<p begin="00:30:36.960" end="00:30:42.840" style="s2">noch auf dem Weg rechts oder nach links</p>
+<p begin="00:30:40.159" end="00:30:45.659" style="s2">auszuweichen trotzdem es gibt einen</p>
+<p begin="00:30:42.840" end="00:30:48.480" style="s2">Grundplan und so ist eben auch diese</p>
+<p begin="00:30:45.659" end="00:30:52.440" style="s2">Geschichte von Werner verlaufen und ich</p>
+<p begin="00:30:48.480" end="00:30:56.220" style="s2">habe eben gelernt ein paar Dinge erstens</p>
+<p begin="00:30:52.440" end="00:30:59.159" style="s2">während auch dieser Phase der Krankheit</p>
+<p begin="00:30:56.220" end="00:31:01.919" style="s2">dass man dass wir in die Akzeptanz gehen</p>
+<p begin="00:30:59.159" end="00:31:05.159" style="s2">sollten Dinge die ich nicht mehr ändern</p>
+<p begin="00:31:01.919" end="00:31:08.700" style="s2">kann auch zu akzeptieren und das Beste</p>
+<p begin="00:31:05.159" end="00:31:10.980" style="s2">zu machen was wir eben in diesem Leiden</p>
+<p begin="00:31:08.700" end="00:31:13.880" style="s2">oder in diesem krankheitsweg ja auch</p>
+<p begin="00:31:10.980" end="00:31:18.380" style="s2">immer wieder versucht haben und</p>
+<p begin="00:31:13.880" end="00:31:18.380" style="s2">außerdem habe ich gelernt dass</p>
+<p begin="00:31:18.980" end="00:31:25.380" style="s2">die ganzen die vielen materiellen Dinge</p>
+<p begin="00:31:22.200" end="00:31:27.480" style="s2">worauf der Mensch ja so oft so groß und</p>
+<p begin="00:31:25.380" end="00:31:31.740" style="s2">Wert legt wissen sie das schicke Auto</p>
+<p begin="00:31:27.480" end="00:31:34.820" style="s2">die tolle Wohnung die die zwei Urlaube</p>
+<p begin="00:31:31.740" end="00:31:39.380" style="s2">im Jahr alt all diese Dinge</p>
+<p begin="00:31:34.820" end="00:31:44.220" style="s2">ja absolut zweitrangig sind</p>
+<p begin="00:31:39.380" end="00:31:46.980" style="s2">sondern es ist weil wir können nichts</p>
+<p begin="00:31:44.220" end="00:31:50.840" style="s2">davon mitnehmen aber auch gar nichts</p>
+<p begin="00:31:46.980" end="00:31:54.240" style="s2">aber wir können uns</p>
+<p begin="00:31:50.840" end="00:31:57.440" style="s2">heute sagt man neudeutsch ist Soft</p>
+<p begin="00:31:54.240" end="00:32:00.559" style="s2">Skills oder wir können unseren</p>
+<p begin="00:31:57.440" end="00:32:03.179" style="s2">Erfahrungen die wir aus solchen</p>
+<p begin="00:32:00.559" end="00:32:07.140" style="s2">Aufgaben beziehen die können wir</p>
+<p begin="00:32:03.179" end="00:32:09.620" style="s2">mitnehmen verstehen da wäre relevant zu</p>
+<p begin="00:32:07.140" end="00:32:12.419" style="s2">erwähnen dass er der Werner und sie auch</p>
+<p begin="00:32:09.620" end="00:32:15.360" style="s2">das hat sich in ihrem Leben so ergeben</p>
+<p begin="00:32:12.419" end="00:32:19.020" style="s2">dass plötzlich die Karriere sehr wichtig</p>
+<p begin="00:32:15.360" end="00:32:20.760" style="s2">war also er hat Karriere gemacht hier am</p>
+<p begin="00:32:19.020" end="00:32:22.460" style="s2">Karriere gemacht und das hatte schon</p>
+<p begin="00:32:20.760" end="00:32:25.799" style="s2">einen sehr</p>
+<p begin="00:32:22.460" end="00:32:27.419" style="s2">großen Stellenwert bei ihnen so dass man</p>
+<p begin="00:32:25.799" end="00:32:31.020" style="s2">es vielleicht auch so interpretieren</p>
+<p begin="00:32:27.419" end="00:32:32.120" style="s2">könnte dass dieser Unfall von Werner</p>
+<p begin="00:32:31.020" end="00:32:33.779" style="s2">sozusagen</p>
+<p begin="00:32:32.120" end="00:32:36.720" style="s2">[Musik]</p>
+<p begin="00:32:33.779" end="00:32:38.700" style="s2">ein aufschreitendes Lebens war damit er</p>
+<p begin="00:32:36.720" end="00:32:41.059" style="s2">in eine andere Richtung geht also dass</p>
+<p begin="00:32:38.700" end="00:32:44.720" style="s2">er geistig in eine andere Richtung kommt</p>
+<p begin="00:32:41.059" end="00:32:48.919" style="s2">so ist es und und</p>
+<p begin="00:32:44.720" end="00:32:52.940" style="s2">es hat ja auch mein Leben tangiert</p>
+<p begin="00:32:48.919" end="00:32:55.559" style="s2">so dass ich auch</p>
+<p begin="00:32:52.940" end="00:32:57.360" style="s2">gelernt habe sie müssen sich vorstellen</p>
+<p begin="00:32:55.559" end="00:32:59.399" style="s2">ich komme aus dem schon und</p>
+<p begin="00:32:57.360" end="00:33:03.179" style="s2">Veranstaltungs Business es war wie</p>
+<p begin="00:32:59.399" end="00:33:06.440" style="s2">manchmal ein ein kurioser Film ich bin</p>
+<p begin="00:33:03.179" end="00:33:08.220" style="s2">ich betreue am Abend eine eine tolle</p>
+<p begin="00:33:06.440" end="00:33:10.980" style="s2">Gala-Veranstaltung was ist sie mit</p>
+<p begin="00:33:08.220" end="00:33:15.120" style="s2">glitzerklemmer und so weiter und am</p>
+<p begin="00:33:10.980" end="00:33:18.120" style="s2">nächsten Tag betreue ich den Werner der</p>
+<p begin="00:33:15.120" end="00:33:20.960" style="s2">da über um seinen geistiges Überleben</p>
+<p begin="00:33:18.120" end="00:33:23.940" style="s2">kämpft also das sind schon die krassen</p>
+<p begin="00:33:20.960" end="00:33:25.799" style="s2">Hinweise und und Unterschiede von einer</p>
+<p begin="00:33:23.940" end="00:33:28.500" style="s2">Welt in die andere schlüpfen und habe</p>
+<p begin="00:33:25.799" end="00:33:32.640" style="s2">eben für mich die Erkenntnis getroffen</p>
+<p begin="00:33:28.500" end="00:33:36.380" style="s2">dass eben dieses</p>
+<p begin="00:33:32.640" end="00:33:40.980" style="s2">von meiner Branche dieses glitterklemmer</p>
+<p begin="00:33:36.380" end="00:33:43.559" style="s2">Gabe und eben dieses Streben nach Erfolg</p>
+<p begin="00:33:40.980" end="00:33:46.220" style="s2">und rechtung völlig zwei Tage sind</p>
+<p begin="00:33:43.559" end="00:33:48.899" style="s2">völlig unwichtig</p>
+<p begin="00:33:46.220" end="00:33:50.519" style="s2">ehrlich gesagt</p>
+<p begin="00:33:48.899" end="00:33:53.059" style="s2">also man könnte jetzt nicht sagen dass</p>
+<p begin="00:33:50.519" end="00:33:54.799" style="s2">dieser Leidensweg an sich geplant war</p>
+<p begin="00:33:53.059" end="00:33:57.960" style="s2">sondern</p>
+<p begin="00:33:54.799" end="00:34:00.000" style="s2">ein gewisser seelischer Lernprozess aber</p>
+<p begin="00:33:57.960" end="00:34:02.039" style="s2">das sozusagen der Unfall mit dem</p>
+<p begin="00:34:00.000" end="00:34:04.980" style="s2">Leidensweg dazu das Mittel war und</p>
+<p begin="00:34:02.039" end="00:34:09.119" style="s2">diesen seelischen Lernprozess zu</p>
+<p begin="00:34:04.980" end="00:34:10.980" style="s2">vollenden so ist es so ist es und ich</p>
+<p begin="00:34:09.119" end="00:34:15.080" style="s2">muss auch sagen was den Werner</p>
+<p begin="00:34:10.980" end="00:34:18.659" style="s2">anbetrifft nach den ersten Jahren auch</p>
+<p begin="00:34:15.080" end="00:34:21.599" style="s2">tiefer Depression bei ihm als er gemerkt</p>
+<p begin="00:34:18.659" end="00:34:24.659" style="s2">hat es schwimmt ihm alles davon er ist</p>
+<p begin="00:34:21.599" end="00:34:28.760" style="s2">auf ein Minimum sowohl finanziell als</p>
+<p begin="00:34:24.659" end="00:34:33.179" style="s2">auch wohnungsmäßige reduziert dass er</p>
+<p begin="00:34:28.760" end="00:34:34.280" style="s2">dann in mehr und mehr in die Akzeptanz</p>
+<p begin="00:34:33.179" end="00:34:37.139" style="s2">gegangen ist</p>
+<p begin="00:34:34.280" end="00:34:39.480" style="s2">und Werner war auch in den gesunden</p>
+<p begin="00:34:37.139" end="00:34:43.919" style="s2">Jahren schon so ein Lebenskünstler und</p>
+<p begin="00:34:39.480" end="00:34:46.919" style="s2">Optimist und und sagte dann nach gut</p>
+<p begin="00:34:43.919" end="00:34:50.639" style="s2">dann warte ich eben keine Großreichen</p>
+<p begin="00:34:46.919" end="00:34:54.839" style="s2">Anlagen mehr sondern baue Vogel toll und</p>
+<p begin="00:34:50.639" end="00:34:57.540" style="s2">und ist ja hat sich eingeschränkt auf</p>
+<p begin="00:34:54.839" end="00:35:01.500" style="s2">ein Minimum und wie gesagt nach einigen</p>
+<p begin="00:34:57.540" end="00:35:03.680" style="s2">Jahren auch mit medikamentöser Hilfe</p>
+<p begin="00:35:01.500" end="00:35:08.000" style="s2">gebe ich zu und mit</p>
+<p begin="00:35:03.680" end="00:35:13.440" style="s2">psychotherapeutischen Sitzungen hat er</p>
+<p begin="00:35:08.000" end="00:35:17.040" style="s2">sich ja sein ist er in die Balance</p>
+<p begin="00:35:13.440" end="00:35:20.579" style="s2">gekommen verstehen sie und war durchaus</p>
+<p begin="00:35:17.040" end="00:35:22.740" style="s2">glücklich kann mich gut erinnern die der</p>
+<p begin="00:35:20.579" end="00:35:25.260" style="s2">erste heimaufhang Aufenthalt über viele</p>
+<p begin="00:35:22.740" end="00:35:28.020" style="s2">Jahre war in Tittmoning innerhalb der</p>
+<p begin="00:35:25.260" end="00:35:30.240" style="s2">österreichischen Grenze und und er hat</p>
+<p begin="00:35:28.020" end="00:35:32.820" style="s2">dann gesagt und es war eine nette</p>
+<p begin="00:35:30.240" end="00:35:35.400" style="s2">Wohngruppe und sagt Gabi ich kann</p>
+<p begin="00:35:32.820" end="00:35:39.680" style="s2">endlich wieder lachen und es leben macht</p>
+<p begin="00:35:35.400" end="00:35:42.440" style="s2">mir Freude eben auch auf diesem</p>
+<p begin="00:35:39.680" end="00:35:44.960" style="s2">reduzierten level</p>
+<p begin="00:35:42.440" end="00:35:47.760" style="s2">bewundernswert toll</p>
+<p begin="00:35:44.960" end="00:35:49.920" style="s2">foscada vielen Dank für die Einblicke in</p>
+<p begin="00:35:47.760" end="00:35:53.640" style="s2">diese Erfahrungen mit dem Medium und in</p>
+<p begin="00:35:49.920" end="00:35:57.180" style="s2">ihre gemeinsame Geschichte mit Werner</p>
+<p begin="00:35:53.640" end="00:35:59.520" style="s2">ich danke Ihnen für das tolle Interview</p>
+<p begin="00:35:57.180" end="00:36:02.720" style="s2">und der Werner dankt ihnen auch ich bin</p>
+<p begin="00:35:59.520" end="00:36:06.060" style="s2">mir sicher der war mit uns und</p>
+<p begin="00:36:02.720" end="00:36:09.300" style="s2">freue mich mit Ihnen gesprochen zu haben</p>
+<p begin="00:36:06.060" end="00:36:10.480" style="s2">über diesem für mich doch wichtige</p>
+<p begin="00:36:09.300" end="00:36:52.219" style="s2">Erkenntnis</p>
+<p begin="00:36:10.480" end="00:36:52.219" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

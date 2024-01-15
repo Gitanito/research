@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.290" end="00:00:05.009" style="s2">willkommen zu diesem video dieses mal</p>
+<p begin="00:00:02.909" end="00:00:07.410" style="s2">wird am beispiel einer tv sendung von</p>
+<p begin="00:00:05.009" end="00:00:09.420" style="s2">art die vor kurzem veröffentlicht wurde</p>
+<p begin="00:00:07.410" end="00:00:11.040" style="s2">beispielhaft gezeigt auf welche art und</p>
+<p begin="00:00:09.420" end="00:00:13.380" style="s2">weise in den medien immer wieder</p>
+<p begin="00:00:11.040" end="00:00:15.719" style="s2">einseitig und irreführend über nahtod</p>
+<p begin="00:00:13.380" end="00:00:17.100" style="s2">erfahrungen berichtet wird dazu werden</p>
+<p begin="00:00:15.719" end="00:00:19.350" style="s2">ein paar sequenzen der sendung</p>
+<p begin="00:00:17.100" end="00:00:21.420" style="s2">kommentiert und zwar jene wo es um die</p>
+<p begin="00:00:19.350" end="00:00:23.430" style="s2">zentrale frage geht ob das gehirn</p>
+<p begin="00:00:21.420" end="00:00:27.000" style="s2">während des herzstillstandes noch lebt</p>
+<p begin="00:00:23.430" end="00:00:29.130" style="s2">bzw funktioniert solche sendungen sind</p>
+<p begin="00:00:27.000" end="00:00:30.630" style="s2">besonders deshalb problematisch weil sie</p>
+<p begin="00:00:29.130" end="00:00:32.820" style="s2">den anschein von wissenschaftlichkeit</p>
+<p begin="00:00:30.630" end="00:00:35.250" style="s2">erwecken so werden sie dann von vielen</p>
+<p begin="00:00:32.820" end="00:00:36.960" style="s2">unkritischen und unkundigen zu sichern</p>
+<p begin="00:00:35.250" end="00:00:38.100" style="s2">konsumiert die dann einfach weiter</p>
+<p begin="00:00:36.960" end="00:00:40.710" style="s2">behaupten es sei wissenschaftlich</p>
+<p begin="00:00:38.100" end="00:00:42.540" style="s2">bewiesen nahtoderfahrungen würden nur im</p>
+<p begin="00:00:40.710" end="00:00:44.460" style="s2">gehirn entstehen oder das gehirn sei</p>
+<p begin="00:00:42.540" end="00:00:47.039" style="s2">nach dem herzstillstand noch lebendig</p>
+<p begin="00:00:44.460" end="00:00:48.920" style="s2">dieses video zeigt warum davon keine</p>
+<p begin="00:00:47.039" end="00:00:51.360" style="s2">rede sein kann</p>
+<p begin="00:00:48.920" end="00:00:53.370" style="s2">ähnliche erfahrungen können zwar auch</p>
+<p begin="00:00:51.360" end="00:00:55.140" style="s2">bei stabilen kreislauf eintreten die</p>
+<p begin="00:00:53.370" end="00:00:56.910" style="s2">meisten typischen nahtoderfahrungen</p>
+<p begin="00:00:55.140" end="00:00:59.760" style="s2">passieren jedoch dann wenn das herz</p>
+<p begin="00:00:56.910" end="00:01:01.890" style="s2">stillsteht nun da diese phänomene immer</p>
+<p begin="00:00:59.760" end="00:01:04.199" style="s2">bekannter werden sind manche personen</p>
+<p begin="00:01:01.890" end="00:01:06.060" style="s2">besonders darum bemüht zu beweisen das</p>
+<p begin="00:01:04.199" end="00:01:08.760" style="s2">gehirn sei nach dem herzstillstand noch</p>
+<p begin="00:01:06.060" end="00:01:10.950" style="s2">lebendig es ist zwar völlig legitim und</p>
+<p begin="00:01:08.760" end="00:01:13.619" style="s2">sinnvoll mögliche körperliche ursachen</p>
+<p begin="00:01:10.950" end="00:01:15.330" style="s2">zu suchen diese angebliche lebendigkeit</p>
+<p begin="00:01:13.619" end="00:01:17.189" style="s2">des gehirns wird jedoch immer wieder</p>
+<p begin="00:01:15.330" end="00:01:19.259" style="s2">falsch dargestellt und um das zu</p>
+<p begin="00:01:17.189" end="00:01:21.420" style="s2">erkennen muss man kein mediziner sein</p>
+<p begin="00:01:19.259" end="00:01:22.830" style="s2">man muss sich nur eingehend mit dem</p>
+<p begin="00:01:21.420" end="00:01:25.320" style="s2">thema befassen denn die informationen</p>
+<p begin="00:01:22.830" end="00:01:27.930" style="s2">sind verfügbar unter umständen wenn man</p>
+<p begin="00:01:25.320" end="00:01:31.170" style="s2">herztod ist noch gehirn aktiviert haben</p>
+<p begin="00:01:27.930" end="00:01:32.759" style="s2">und auch dinge wahrnehmen dass es nach</p>
+<p begin="00:01:31.170" end="00:01:35.130" style="s2">dem herzstillstand noch eine gewisse</p>
+<p begin="00:01:32.759" end="00:01:37.680" style="s2">messbare aktivität im gehirn geben kann</p>
+<p begin="00:01:35.130" end="00:01:39.720" style="s2">ist nicht besonders neu bisher ist</p>
+<p begin="00:01:37.680" end="00:01:41.640" style="s2">jedoch nur belegt dass in teilen des</p>
+<p begin="00:01:39.720" end="00:01:43.890" style="s2">gehirns irgendwann nach dem letzten</p>
+<p begin="00:01:41.640" end="00:01:46.259" style="s2">herzschlag für lediglich zehn bis 30</p>
+<p begin="00:01:43.890" end="00:01:48.090" style="s2">sekunden eine messbare aktivität in form</p>
+<p begin="00:01:46.259" end="00:01:50.130" style="s2">von gamma wellen erscheinen kann wer</p>
+<p begin="00:01:48.090" end="00:01:51.750" style="s2">nicht das wird im grunde auch in dieser</p>
+<p begin="00:01:50.130" end="00:01:53.610" style="s2">sendung ausgesagt aber vier</p>
+<p begin="00:01:51.750" end="00:01:55.350" style="s2">entscheidende dinge werden wie auch</p>
+<p begin="00:01:53.610" end="00:01:59.070" style="s2">sonst so oft bei solchen darstellungen</p>
+<p begin="00:01:55.350" end="00:02:00.899" style="s2">nicht dazu erwähnt dazu gehört erstens</p>
+<p begin="00:01:59.070" end="00:02:03.240" style="s2">dass der herzstillstand bei überlebenden</p>
+<p begin="00:02:00.899" end="00:02:05.640" style="s2">menschen mehrere minuten dauern kann und</p>
+<p begin="00:02:03.240" end="00:02:07.170" style="s2">auch bei endgültig sterben kann es</p>
+<p begin="00:02:05.640" end="00:02:09.690" style="s2">einige minuten dauern bis diese</p>
+<p begin="00:02:07.170" end="00:02:11.340" style="s2">gehirnwellen wenn überhaupt aktiv werden</p>
+<p begin="00:02:09.690" end="00:02:13.410" style="s2">das heißt wenn die phase zwischen</p>
+<p begin="00:02:11.340" end="00:02:15.510" style="s2">herzstillstand mit beginn dieser kurzen</p>
+<p begin="00:02:13.410" end="00:02:17.430" style="s2">velde mehrere minuten dauert dann ist</p>
+<p begin="00:02:15.510" end="00:02:20.420" style="s2">für diese zeit bisher überwiegend keine</p>
+<p begin="00:02:17.430" end="00:02:22.830" style="s2">wesentliche aktivität im gehirn belegt</p>
+<p begin="00:02:20.420" end="00:02:24.360" style="s2">zweitens beginnen nahtoderfahrungen</p>
+<p begin="00:02:22.830" end="00:02:26.010" style="s2">meistens sofort mit dem herzstillstand</p>
+<p begin="00:02:24.360" end="00:02:29.430" style="s2">und sie können dann mehrere minuten</p>
+<p begin="00:02:26.010" end="00:02:31.530" style="s2">dauern auch ohne regen animation manche</p>
+<p begin="00:02:29.430" end="00:02:33.420" style="s2">scheinbaren nato forscher wissen davon</p>
+<p begin="00:02:31.530" end="00:02:35.700" style="s2">einfach deshalb nichts weil sie sich mit</p>
+<p begin="00:02:33.420" end="00:02:37.530" style="s2">diesen erfahrungen zu wenig befassen und</p>
+<p begin="00:02:35.700" end="00:02:39.300" style="s2">sich stattdessen lieber bemühen irgend</p>
+<p begin="00:02:37.530" end="00:02:41.790" style="s2">welche biochemischen prozesse im körper</p>
+<p begin="00:02:39.300" end="00:02:43.709" style="s2">zu finden und damit scheinbar eine</p>
+<p begin="00:02:41.790" end="00:02:46.440" style="s2">lebendigkeit des gehirns beweisen zu</p>
+<p begin="00:02:43.709" end="00:02:48.239" style="s2">können so ist es kein wunder dass sie so</p>
+<p begin="00:02:46.440" end="00:02:50.610" style="s2">vieles über diese phänomene gar nicht</p>
+<p begin="00:02:48.239" end="00:02:52.470" style="s2">wissen wenn man also meint die</p>
+<p begin="00:02:50.610" end="00:02:54.989" style="s2">nahtoderfahrung würde auf dieser kurzen</p>
+<p begin="00:02:52.470" end="00:02:56.700" style="s2">aktivität beruhen dann müsste man auch</p>
+<p begin="00:02:54.989" end="00:02:58.769" style="s2">eine zeitliche übereinstimmung zwischen</p>
+<p begin="00:02:56.700" end="00:03:00.840" style="s2">dieser aktivität und die nato und</p>
+<p begin="00:02:58.769" end="00:03:02.519" style="s2">erleben beweisen uns diesen beweis hat</p>
+<p begin="00:03:00.840" end="00:03:05.190" style="s2">bisher niemand erbracht auch diese</p>
+<p begin="00:03:02.519" end="00:03:07.050" style="s2">sendung nicht von arte es ist zwar</p>
+<p begin="00:03:05.190" end="00:03:08.970" style="s2">korrekt dass nahtoderfahrungen nur</p>
+<p begin="00:03:07.050" end="00:03:11.580" style="s2">wenige sekunden dauern können es gibt</p>
+<p begin="00:03:08.970" end="00:03:13.200" style="s2">jedoch auch zahlreiche berichte aus</p>
+<p begin="00:03:11.580" end="00:03:15.300" style="s2">denen man schließen kann dass diese</p>
+<p begin="00:03:13.200" end="00:03:17.160" style="s2">erlebnisse mehrere minuten während des</p>
+<p begin="00:03:15.300" end="00:03:19.110" style="s2">herzstillstandes gedauert haben müssen</p>
+<p begin="00:03:17.160" end="00:03:20.970" style="s2">weil die erfahrenen menschen nach dem</p>
+<p begin="00:03:19.110" end="00:03:23.850" style="s2">aufwachen oft detailliert beschreiben</p>
+<p begin="00:03:20.970" end="00:03:25.980" style="s2">was lokal in der nähe ihres körpers aber</p>
+<p begin="00:03:23.850" end="00:03:27.690" style="s2">auch weit davon entfernt über viele</p>
+<p begin="00:03:25.980" end="00:03:29.940" style="s2">minuten hinweg in der tatsächlichen</p>
+<p begin="00:03:27.690" end="00:03:32.160" style="s2">reihenfolge geschieden ist und diese</p>
+<p begin="00:03:29.940" end="00:03:34.079" style="s2">zeit phase ist dann meistens genau jene</p>
+<p begin="00:03:32.160" end="00:03:35.700" style="s2">in der das herz nicht geschlagen hat</p>
+<p begin="00:03:34.079" end="00:03:38.190" style="s2">auch dann wenn diese menschen</p>
+<p begin="00:03:35.700" end="00:03:40.230" style="s2">gleichzeitig in vollnarkose waren die</p>
+<p begin="00:03:38.190" end="00:03:42.450" style="s2">erfahrenen beschreiben zum beispiel was</p>
+<p begin="00:03:40.230" end="00:03:44.370" style="s2">das klinische personal in anderen räumen</p>
+<p begin="00:03:42.450" end="00:03:47.250" style="s2">wo der eigene körper gar nicht anwesend</p>
+<p begin="00:03:44.370" end="00:03:49.320" style="s2">war gesagt und getan hat oder welche</p>
+<p begin="00:03:47.250" end="00:03:51.690" style="s2">gegenstände dort waren von denen sie</p>
+<p begin="00:03:49.320" end="00:03:53.310" style="s2">vorher nichts gewusst haben können man</p>
+<p begin="00:03:51.690" end="00:03:56.280" style="s2">hat zwar während einer nahtoderfahrung</p>
+<p begin="00:03:53.310" end="00:03:58.230" style="s2">ein zeitliches empfinden aber aus der</p>
+<p begin="00:03:56.280" end="00:04:00.180" style="s2">beschreibung der lokalen abläufe kann</p>
+<p begin="00:03:58.230" end="00:04:01.799" style="s2">man ihn direkt feststellen dass diese</p>
+<p begin="00:04:00.180" end="00:04:04.739" style="s2">zustände auch mehrere minuten dauern</p>
+<p begin="00:04:01.799" end="00:04:06.750" style="s2">können ein klassisches beispiel dafür</p>
+<p begin="00:04:04.739" end="00:04:10.019" style="s2">ist der fall der amerikanerin barbara</p>
+<p begin="00:04:06.750" end="00:04:12.000" style="s2">bartolomé exakt in dem moment als ihr</p>
+<p begin="00:04:10.019" end="00:04:14.220" style="s2">herz zum stillstand kam nahm sie die</p>
+<p begin="00:04:12.000" end="00:04:16.620" style="s2">situation klar von oben und außerhalb</p>
+<p begin="00:04:14.220" end="00:04:19.109" style="s2">ihres körpers war bis zu dem zeitpunkt</p>
+<p begin="00:04:16.620" end="00:04:21.239" style="s2">als ein anwesender arzt sagte das ganze</p>
+<p begin="00:04:19.109" end="00:04:23.759" style="s2">würde mit acht minuten schon zu lange</p>
+<p begin="00:04:21.239" end="00:04:25.289" style="s2">dauern er versucht es dann zweimal mit</p>
+<p begin="00:04:23.759" end="00:04:27.360" style="s2">einem sogenannten pre cordiale</p>
+<p begin="00:04:25.289" end="00:04:29.250" style="s2">faustschlag sofort mit dem zweiten</p>
+<p begin="00:04:27.360" end="00:04:31.380" style="s2">schlag in das herz der patientin wieder</p>
+<p begin="00:04:29.250" end="00:04:32.819" style="s2">an zu schlagen sie öffnete die augen und</p>
+<p begin="00:04:31.380" end="00:04:34.130" style="s2">sei wieder alles aus der legenden</p>
+<p begin="00:04:32.819" end="00:04:36.330" style="s2">perspektive</p>
+<p begin="00:04:34.130" end="00:04:38.490" style="s2">drittens wird in dieser sendung wieder</p>
+<p begin="00:04:36.330" end="00:04:40.680" style="s2">nichts davon erwähnt dass diese tsunami</p>
+<p begin="00:04:38.490" end="00:04:42.479" style="s2">welle oder todesfälle wie sie auch</p>
+<p begin="00:04:40.680" end="00:04:45.270" style="s2">manchmal genannt wird bei überlebenden</p>
+<p begin="00:04:42.479" end="00:04:47.130" style="s2">möglicherweise gar nicht aktiv wird denn</p>
+<p begin="00:04:45.270" end="00:04:49.229" style="s2">bisher wurde sie vor allem bei endgültig</p>
+<p begin="00:04:47.130" end="00:04:51.060" style="s2">verstorbenen lebewesen gemessen und</p>
+<p begin="00:04:49.229" end="00:04:52.979" style="s2">gemäß der aussagen mancher experten</p>
+<p begin="00:04:51.060" end="00:04:55.319" style="s2">beginnt gleichzeitig mit der aktif</p>
+<p begin="00:04:52.979" end="00:04:57.930" style="s2">wertung dieser kurzen welle der schnelle</p>
+<p begin="00:04:55.319" end="00:05:00.150" style="s2">reversible zelltod die sogenannte löse</p>
+<p begin="00:04:57.930" end="00:05:02.539" style="s2">das wird auch in einer anderen sendung</p>
+<p begin="00:05:00.150" end="00:05:05.669" style="s2">auf der basis von jens dreyer ausgesagt</p>
+<p begin="00:05:02.539" end="00:05:07.320" style="s2">die welle tobt durch das gehirn und</p>
+<p begin="00:05:05.669" end="00:05:08.659" style="s2">tötet die nervenzellen</p>
+<p begin="00:05:07.320" end="00:05:11.659" style="s2">[Musik]</p>
+<p begin="00:05:08.659" end="00:05:11.659" style="s2">jetzt</p>
+<p begin="00:05:12.399" end="00:05:16.879" style="s2">jens dreyer sagt auch selbst wenn diese</p>
+<p begin="00:05:15.110" end="00:05:18.589" style="s2">welle aktiv wie dazu gibt es nur noch</p>
+<p begin="00:05:16.879" end="00:05:21.289" style="s2">ein kurzes zeitfenster um den</p>
+<p begin="00:05:18.589" end="00:05:22.699" style="s2">endgültigen tod zu verhindern daher ist</p>
+<p begin="00:05:21.289" end="00:05:25.369" style="s2">es fraglich ob diese welle bei</p>
+<p begin="00:05:22.699" end="00:05:26.599" style="s2">überlebenden überhaupt aktiv wird wer</p>
+<p begin="00:05:25.369" end="00:05:30.289" style="s2">uns aber über eine nahtoderfahrung</p>
+<p begin="00:05:26.599" end="00:05:32.149" style="s2">berichtet hat auch überlebt und viertens</p>
+<p begin="00:05:30.289" end="00:05:34.309" style="s2">besteht dieser sogenannte tsunami</p>
+<p begin="00:05:32.149" end="00:05:36.469" style="s2">hauptsächlich aus gamma wellen im</p>
+<p begin="00:05:34.309" end="00:05:38.479" style="s2">normalen wach bewusstsein und in ruhe</p>
+<p begin="00:05:36.469" end="00:05:40.789" style="s2">hat das gehirn jedoch keine gamma wellen</p>
+<p begin="00:05:38.479" end="00:05:42.860" style="s2">sondern delta tätern alpha und beta</p>
+<p begin="00:05:40.789" end="00:05:44.749" style="s2">wellen gamma wellen zeigt das gehirn</p>
+<p begin="00:05:42.860" end="00:05:46.189" style="s2">sonst nur bei spannungszustände bei</p>
+<p begin="00:05:44.749" end="00:05:48.020" style="s2">angst und bei körperlichen und geistigen</p>
+<p begin="00:05:46.189" end="00:05:50.300" style="s2">höchstleistungen das würde zum beispiel</p>
+<p begin="00:05:48.020" end="00:05:52.039" style="s2">nicht dazu passen wenn menschen bei</p>
+<p begin="00:05:50.300" end="00:05:54.709" style="s2">nahtoderfahrungen wie es oft der fall</p>
+<p begin="00:05:52.039" end="00:05:57.319" style="s2">ist eine vorher nie dagewesene ruhe</p>
+<p begin="00:05:54.709" end="00:05:59.300" style="s2">erleben wenn nahtoderfahrungen nur im</p>
+<p begin="00:05:57.319" end="00:06:01.369" style="s2">gehirn entstehen würden dann müsste eine</p>
+<p begin="00:05:59.300" end="00:06:03.499" style="s2">entsprechende aktivität im gehirn nicht</p>
+<p begin="00:06:01.369" end="00:06:05.990" style="s2">nur aus gamma wellen bestehen sondern</p>
+<p begin="00:06:03.499" end="00:06:09.529" style="s2">zumindest auch aus alpha und beta wellen</p>
+<p begin="00:06:05.990" end="00:06:11.839" style="s2">der klinische tod ist ganz anders der</p>
+<p begin="00:06:09.529" end="00:06:13.909" style="s2">patient ist noch lebendig einer klinisch</p>
+<p begin="00:06:11.839" end="00:06:15.589" style="s2">tot ist hat einen</p>
+<p begin="00:06:13.909" end="00:06:17.860" style="s2">herz-kreislauf-stillstand einen</p>
+<p begin="00:06:15.589" end="00:06:21.379" style="s2">atemstillstand die pupillen werden weit</p>
+<p begin="00:06:17.860" end="00:06:23.839" style="s2">flexen ausgefallen aber der gesamte</p>
+<p begin="00:06:21.379" end="00:06:26.029" style="s2">mensch inklusive seiner nerven seien es</p>
+<p begin="00:06:23.839" end="00:06:28.009" style="s2">noch lebendig in dieser sendung wird</p>
+<p begin="00:06:26.029" end="00:06:29.749" style="s2">abgesehen von diesen zehn bis 30</p>
+<p begin="00:06:28.009" end="00:06:31.759" style="s2">sekunden gamma aktivität diese</p>
+<p begin="00:06:29.749" end="00:06:34.069" style="s2">angebliche pauschale lebendigkeit des</p>
+<p begin="00:06:31.759" end="00:06:36.169" style="s2">gehirns nach dem herzstillstand kein</p>
+<p begin="00:06:34.069" end="00:06:38.509" style="s2">einziges mal näher definiert geschweige</p>
+<p begin="00:06:36.169" end="00:06:40.309" style="s2">denn bewiesen stattdessen wird sie immer</p>
+<p begin="00:06:38.509" end="00:06:42.379" style="s2">nur spekulativ und pauschal behauptet</p>
+<p begin="00:06:40.309" end="00:06:44.269" style="s2">nur weil für wenige sekunden nach dem</p>
+<p begin="00:06:42.379" end="00:06:46.029" style="s2">herzstillstand eine bio elektrische</p>
+<p begin="00:06:44.269" end="00:06:48.319" style="s2">aktivität erscheinen kann</p>
+<p begin="00:06:46.029" end="00:06:49.240" style="s2">bei diesen ratten wurde die</p>
+<p begin="00:06:48.319" end="00:06:50.949" style="s2">hirnaktivität</p>
+<p begin="00:06:49.240" end="00:06:54.840" style="s2">aufgezeichnet</p>
+<p begin="00:06:50.949" end="00:06:56.410" style="s2">mit einem interessanten ergebnis</p>
+<p begin="00:06:54.840" end="00:06:58.729" style="s2">[Musik]</p>
+<p begin="00:06:56.410" end="00:07:01.130" style="s2">es konnte gezeigt werden dass für etwa</p>
+<p begin="00:06:58.729" end="00:07:02.840" style="s2">30 sekunden nach dem herzstillstand die</p>
+<p begin="00:07:01.130" end="00:07:05.150" style="s2">elektrische aktivität im gehirn stark</p>
+<p begin="00:07:02.840" end="00:07:07.039" style="s2">zunimmt auch das ist eine typische</p>
+<p begin="00:07:05.150" end="00:07:09.530" style="s2">falschdarstellung die später von jens</p>
+<p begin="00:07:07.039" end="00:07:11.600" style="s2">dreyer relativiert wird demnach geht die</p>
+<p begin="00:07:09.530" end="00:07:14.720" style="s2">aktivität im gehirn zuerst einmal nach</p>
+<p begin="00:07:11.600" end="00:07:17.660" style="s2">unten der punkt ist der dass in der</p>
+<p begin="00:07:14.720" end="00:07:20.240" style="s2">initial phase das eeg alle schon sagen</p>
+<p begin="00:07:17.660" end="00:07:22.400" style="s2">kann aber die nervenzellen noch lebendig</p>
+<p begin="00:07:20.240" end="00:07:23.810" style="s2">sagt jens dreyer korrigiert hier zwar</p>
+<p begin="00:07:22.400" end="00:07:25.699" style="s2">die vorherige darstellung mit der</p>
+<p begin="00:07:23.810" end="00:07:27.650" style="s2">bioelektrischen messungen in dem er</p>
+<p begin="00:07:25.699" end="00:07:29.270" style="s2">aussagt dass das eeg einem</p>
+<p begin="00:07:27.650" end="00:07:31.520" style="s2">herzstillstand zuerst erlischt aber</p>
+<p begin="00:07:29.270" end="00:07:33.530" style="s2">wieder will er den eindruck erwecken als</p>
+<p begin="00:07:31.520" end="00:07:35.599" style="s2">seien die zellen in der ganzen zeit des</p>
+<p begin="00:07:33.530" end="00:07:38.000" style="s2">herzstillstandes generell noch lebendig</p>
+<p begin="00:07:35.599" end="00:07:41.120" style="s2">ohne dies näher zu definieren und zu</p>
+<p begin="00:07:38.000" end="00:07:43.280" style="s2">belegen nach allem was bisher vorgelegt</p>
+<p begin="00:07:41.120" end="00:07:45.050" style="s2">wurde war das gehirn überleben der</p>
+<p begin="00:07:43.280" end="00:07:47.630" style="s2">menschen während des herzstillstandes</p>
+<p begin="00:07:45.050" end="00:07:50.449" style="s2">der einige minuten oder länger dauerte</p>
+<p begin="00:07:47.630" end="00:07:52.160" style="s2">überwiegend ohne messbare funktion daher</p>
+<p begin="00:07:50.449" end="00:07:54.020" style="s2">ist es völlig realitätsfremd und</p>
+<p begin="00:07:52.160" end="00:07:55.849" style="s2">irreführend einfach pauschal zu</p>
+<p begin="00:07:54.020" end="00:07:57.620" style="s2">behaupten das gehirn sei in der ganzen</p>
+<p begin="00:07:55.849" end="00:07:59.389" style="s2">zeit noch lebendig nur weil die</p>
+<p begin="00:07:57.620" end="00:08:01.430" style="s2">hirnströme zuerst innerhalb von zehn</p>
+<p begin="00:07:59.389" end="00:08:02.510" style="s2">sekunden nach unten gehen und dann</p>
+<p begin="00:08:01.430" end="00:08:04.639" style="s2">später ein teil der möglichen</p>
+<p begin="00:08:02.510" end="00:08:06.889" style="s2">gehirnwellen gerade einmal für weitere</p>
+<p begin="00:08:04.639" end="00:08:09.400" style="s2">zehn bis 30 sekunden wieder aktiv werden</p>
+<p begin="00:08:06.889" end="00:08:11.300" style="s2">können dennoch wird diese sogenannte</p>
+<p begin="00:08:09.400" end="00:08:13.070" style="s2">tsunamiwelle in einseitigen</p>
+<p begin="00:08:11.300" end="00:08:14.900" style="s2">darstellungen über nahtod erfahrungen</p>
+<p begin="00:08:13.070" end="00:08:17.539" style="s2">immer wieder als mögliche oder sogar</p>
+<p begin="00:08:14.900" end="00:08:19.250" style="s2">definitiven ursache aufgeblasen und es</p>
+<p begin="00:08:17.539" end="00:08:21.800" style="s2">wird meistens nichts von vielen weiteren</p>
+<p begin="00:08:19.250" end="00:08:23.960" style="s2">fakten erwähnt die zusätzlich dafür</p>
+<p begin="00:08:21.800" end="00:08:26.570" style="s2">sprechen dass diese erlebnisse nicht im</p>
+<p begin="00:08:23.960" end="00:08:28.400" style="s2">gehirn entstehen können denn genau das</p>
+<p begin="00:08:26.570" end="00:08:31.340" style="s2">ist der moment in dem die nahtod</p>
+<p begin="00:08:28.400" end="00:08:35.560" style="s2">erfahrungen gemacht werden und wenn</p>
+<p begin="00:08:31.340" end="00:08:39.279" style="s2">dieser nahtoderfahrung irgendwo eine</p>
+<p begin="00:08:35.560" end="00:08:43.279" style="s2">reale bedeutung haben und tatsächlich</p>
+<p begin="00:08:39.279" end="00:08:45.260" style="s2">auftreten dann sind es diese phänomene</p>
+<p begin="00:08:43.279" end="00:08:47.150" style="s2">die das verursachen dass diese so</p>
+<p begin="00:08:45.260" end="00:08:49.640" style="s2">genannte tsunami die neurologische</p>
+<p begin="00:08:47.150" end="00:08:51.740" style="s2">grundlage der nahtoderfahrung sei ist</p>
+<p begin="00:08:49.640" end="00:08:53.180" style="s2">also reine spekulation auf die man auch</p>
+<p begin="00:08:51.740" end="00:08:55.730" style="s2">nur kommen kann wenn man diese</p>
+<p begin="00:08:53.180" end="00:08:57.290" style="s2">erfahrungen zu wenig kennt und am ende</p>
+<p begin="00:08:55.730" end="00:08:59.000" style="s2">der sendung wird behauptet man könne</p>
+<p begin="00:08:57.290" end="00:09:00.829" style="s2">diese erlebnisse medizinisch gut</p>
+<p begin="00:08:59.000" end="00:09:02.510" style="s2">erklären und es gebe keine hinweise</p>
+<p begin="00:09:00.829" end="00:09:03.410" style="s2">darauf dass sie nicht im gehirn</p>
+<p begin="00:09:02.510" end="00:09:05.660" style="s2">entstehen</p>
+<p begin="00:09:03.410" end="00:09:07.399" style="s2">viele andere experten die das ganz</p>
+<p begin="00:09:05.660" end="00:09:09.319" style="s2">anders sehen und auch gut begründen</p>
+<p begin="00:09:07.399" end="00:09:11.329" style="s2">können wollte man aber bei dieser</p>
+<p begin="00:09:09.319" end="00:09:13.850" style="s2">sendung offenbar nicht zu wort kommen</p>
+<p begin="00:09:11.329" end="00:09:15.949" style="s2">lassen auch bei anderen themen</p>
+<p begin="00:09:13.850" end="00:09:17.870" style="s2">durchschauen viele menschen dass medien</p>
+<p begin="00:09:15.949" end="00:09:19.699" style="s2">falsch und mit fragwürdigen experten</p>
+<p begin="00:09:17.870" end="00:09:20.810" style="s2">berichten daher ist es nicht</p>
+<p begin="00:09:19.699" end="00:09:22.430" style="s2">verwunderlich dass gegenüber</p>
+<p begin="00:09:20.810" end="00:09:24.019" style="s2">journalisten und wissenschaftlichen</p>
+<p begin="00:09:22.430" end="00:09:26.300" style="s2">angestellten oft eine hohe skepsis</p>
+<p begin="00:09:24.019" end="00:09:27.949" style="s2">herrscht es werden weiter wurden stoffe</p>
+<p begin="00:09:26.300" end="00:09:29.839" style="s2">freigesetzt das kann man vielleicht</p>
+<p begin="00:09:27.949" end="00:09:32.509" style="s2">nicht als normale aktivität bezeichnet</p>
+<p begin="00:09:29.839" end="00:09:35.180" style="s2">aber es ist noch eine mini rest</p>
+<p begin="00:09:32.509" end="00:09:37.399" style="s2">aktivität vor dass diese spekulative</p>
+<p begin="00:09:35.180" end="00:09:39.439" style="s2">nicht näher definierte und in dieser</p>
+<p begin="00:09:37.399" end="00:09:41.810" style="s2">sendung nicht bewiesene mini rest</p>
+<p begin="00:09:39.439" end="00:09:43.569" style="s2">aktivität derart klare erlebnisse wie</p>
+<p begin="00:09:41.810" end="00:09:45.589" style="s2">nahtoderfahrungen erzeugen könnte</p>
+<p begin="00:09:43.569" end="00:09:47.509" style="s2">entspricht nicht der herrschenden</p>
+<p begin="00:09:45.589" end="00:09:49.579" style="s2">meinung in der neurologie dass nämlich</p>
+<p begin="00:09:47.509" end="00:09:52.279" style="s2">das eeg nicht nur eine chaotische</p>
+<p begin="00:09:49.579" end="00:09:53.959" style="s2">caravelle sondern eher ein geordnetes</p>
+<p begin="00:09:52.279" end="00:09:55.879" style="s2">ihren strom bild mit beta wellen</p>
+<p begin="00:09:53.959" end="00:09:58.009" style="s2">aufzeigen muss damit es ein klares</p>
+<p begin="00:09:55.879" end="00:10:00.110" style="s2">bewusstsein erzeugen kann und wenn die</p>
+<p begin="00:09:58.009" end="00:10:01.430" style="s2">messbare hirnfunktion völlig fehlt dann</p>
+<p begin="00:10:00.110" end="00:10:03.470" style="s2">dürfte die wahrnehmung über die</p>
+<p begin="00:10:01.430" end="00:10:05.000" style="s2">körperlichen sinne komplett ausgefallen</p>
+<p begin="00:10:03.470" end="00:10:07.220" style="s2">seien daher dürfte dann auch ein</p>
+<p begin="00:10:05.000" end="00:10:08.899" style="s2">biochemischer cocktail im gehirn der oft</p>
+<p begin="00:10:07.220" end="00:10:11.569" style="s2">als ursache für nahtoderfahrungen</p>
+<p begin="00:10:08.899" end="00:10:14.329" style="s2">behauptet wird keine subjektiv spürbare</p>
+<p begin="00:10:11.569" end="00:10:16.370" style="s2">wirkung haben ein weiterer wichtiger</p>
+<p begin="00:10:14.329" end="00:10:18.920" style="s2">aspekt der bei solchen darstellungen</p>
+<p begin="00:10:16.370" end="00:10:21.319" style="s2">meistens nicht diskutiert wird ist die</p>
+<p begin="00:10:18.920" end="00:10:23.000" style="s2">tatsache dass nur 10 bis 20 prozent der</p>
+<p begin="00:10:21.319" end="00:10:25.130" style="s2">menschen nach einem herzstillstand von</p>
+<p begin="00:10:23.000" end="00:10:26.779" style="s2">nahtoderfahrungen berichten wenn das</p>
+<p begin="00:10:25.130" end="00:10:29.089" style="s2">immer so biologisch wirksam diese</p>
+<p begin="00:10:26.779" end="00:10:30.829" style="s2">caravelle ein sauerstoffmangel oder</p>
+<p begin="00:10:29.089" end="00:10:32.870" style="s2">endorphine werden wie es immer wieder</p>
+<p begin="00:10:30.829" end="00:10:34.550" style="s2">behauptet wird so könnte man davon</p>
+<p begin="00:10:32.870" end="00:10:36.430" style="s2">ausgehen dass deutlich mehr menschen</p>
+<p begin="00:10:34.550" end="00:10:39.019" style="s2">über solche erfahrungen berichten würden</p>
+<p begin="00:10:36.430" end="00:10:41.029" style="s2">das aber nur ein kleinerer teil solche</p>
+<p begin="00:10:39.019" end="00:10:43.180" style="s2">erfahrungen hat oder sich daran erinnert</p>
+<p begin="00:10:41.029" end="00:10:46.339" style="s2">kann gänzlich andere ursachen haben</p>
+<p begin="00:10:43.180" end="00:10:48.110" style="s2">diese sendung von arte ist ein extremes</p>
+<p begin="00:10:46.339" end="00:10:49.790" style="s2">beispiel einer einseitigen und</p>
+<p begin="00:10:48.110" end="00:10:52.250" style="s2">irreführenden darstellung zu diesem</p>
+<p begin="00:10:49.790" end="00:10:54.319" style="s2">thema vieles was entscheidend wäre kommt</p>
+<p begin="00:10:52.250" end="00:10:55.720" style="s2">überhaupt nicht zur sprache und dafür</p>
+<p begin="00:10:54.319" end="00:10:57.939" style="s2">gibt es auf der basis bisheriger</p>
+<p begin="00:10:55.720" end="00:11:00.589" style="s2">wissenschaftliche meinungen auch keine</p>
+<p begin="00:10:57.939" end="00:11:02.569" style="s2">zufriedenstellenden erklärungen trotzdem</p>
+<p begin="00:11:00.589" end="00:11:04.459" style="s2">wird am ende der sendung behauptet dass</p>
+<p begin="00:11:02.569" end="00:11:06.410" style="s2">vorhandene medizinische wissen würde</p>
+<p begin="00:11:04.459" end="00:11:08.709" style="s2">bereits genügen um nahtod erfahrungen</p>
+<p begin="00:11:06.410" end="00:11:11.600" style="s2">als körperliche erzeugnisse zu erklären</p>
+<p begin="00:11:08.709" end="00:11:12.829" style="s2">die zu wort kommenden personen scheinen</p>
+<p begin="00:11:11.600" end="00:11:14.499" style="s2">nicht wirklich an den phänomenen</p>
+<p begin="00:11:12.829" end="00:11:16.449" style="s2">interessiert zu sein</p>
+<p begin="00:11:14.499" end="00:11:18.039" style="s2">sondern eher daran sie so schnell wie</p>
+<p begin="00:11:16.449" end="00:11:20.079" style="s2">möglich als die hirngespinste zu</p>
+<p begin="00:11:18.039" end="00:11:22.059" style="s2">erledigen das könnte auch als ein</p>
+<p begin="00:11:20.079" end="00:11:24.059" style="s2">unbewusster oder bewusster missbrauch</p>
+<p begin="00:11:22.059" end="00:11:26.259" style="s2">der wissenschaft beurteilt werden</p>
+<p begin="00:11:24.059" end="00:11:28.059" style="s2">korrekt ist jedoch die aussage</p>
+<p begin="00:11:26.259" end="00:11:29.979" style="s2">nahtoderfahrungen sein als nicht</p>
+<p begin="00:11:28.059" end="00:11:32.049" style="s2">körperliche erlebnisse wissenschaftlich</p>
+<p begin="00:11:29.979" end="00:11:34.419" style="s2">nicht verifiziert weil die wahrnehmungen</p>
+<p begin="00:11:32.049" end="00:11:36.039" style="s2">lokaler irdischer details von außerhalb</p>
+<p begin="00:11:34.419" end="00:11:38.079" style="s2">des körpers nicht wissenschaftlich</p>
+<p begin="00:11:36.039" end="00:11:40.059" style="s2">belegt sind es gibt zwar viele</p>
+<p begin="00:11:38.079" end="00:11:42.639" style="s2">persönliche berichte darüber teilweise</p>
+<p begin="00:11:40.059" end="00:11:44.229" style="s2">auch von anderen personen bezeugt aber</p>
+<p begin="00:11:42.639" end="00:11:46.749" style="s2">diese berichte können nicht als</p>
+<p begin="00:11:44.229" end="00:11:48.879" style="s2">wissenschaftliche beweise gelten solange</p>
+<p begin="00:11:46.749" end="00:11:50.739" style="s2">aber die technik nicht in der lage ist</p>
+<p begin="00:11:48.879" end="00:11:53.229" style="s2">die menschliche wahrnehmung direkt zu</p>
+<p begin="00:11:50.739" end="00:11:54.309" style="s2">messen und zu vermitteln können diese</p>
+<p begin="00:11:53.229" end="00:11:55.749" style="s2">immer wieder berichteten</p>
+<p begin="00:11:54.309" end="00:11:57.519" style="s2">außergewöhnlichen wahrnehmungen</p>
+<p begin="00:11:55.749" end="00:11:58.109" style="s2">wissenschaftlich auch nicht widerlegt</p>
+<p begin="00:11:57.519" end="00:12:00.819" style="s2">werden</p>
+<p begin="00:11:58.109" end="00:12:02.679" style="s2">in späteren videos auf diesem kanal</p>
+<p begin="00:12:00.819" end="00:12:04.899" style="s2">werden weitere falschdarstellungen</p>
+<p begin="00:12:02.679" end="00:12:06.939" style="s2">solcher sendungen besprochen das wird</p>
+<p begin="00:12:04.899" end="00:12:09.159" style="s2">auch gezeigt wie man falsche persönliche</p>
+<p begin="00:12:06.939" end="00:12:10.809" style="s2">nato berichte erkennen kann so wird</p>
+<p begin="00:12:09.159" end="00:12:12.999" style="s2">beispielsweise für diese sendung von</p>
+<p begin="00:12:10.809" end="00:12:15.459" style="s2">arte der deutsche biologe gerhard roth</p>
+<p begin="00:12:12.999" end="00:12:17.409" style="s2">als angeblicher nato erfahrener experte</p>
+<p begin="00:12:15.459" end="00:12:19.809" style="s2">präsentiert der trotz einer angeblichen</p>
+<p begin="00:12:17.409" end="00:12:21.609" style="s2">eigenen nahtoderfahrung nicht von der</p>
+<p begin="00:12:19.809" end="00:12:24.039" style="s2">existenz des jenseits überzeugt sein</p>
+<p begin="00:12:21.609" end="00:12:26.079" style="s2">will in wirklichkeit hatte er gar eine</p>
+<p begin="00:12:24.039" end="00:12:27.970" style="s2">nahtoderfahrung und den späteren videos</p>
+<p begin="00:12:26.079" end="00:12:29.739" style="s2">wird gezeigt wie man derart falsch</p>
+<p begin="00:12:27.970" end="00:12:31.599" style="s2">eingeschätzte oder möglicherweise sogar</p>
+<p begin="00:12:29.739" end="00:12:34.689" style="s2">bewusst vorgegaukelte eigenen</p>
+<p begin="00:12:31.599" end="00:12:36.189" style="s2">erfahrungen erkennen kann die aussagen</p>
+<p begin="00:12:34.689" end="00:12:37.959" style="s2">die in diesem video über nahtod</p>
+<p begin="00:12:36.189" end="00:12:40.779" style="s2">erfahrungen getroffen wurden stammen</p>
+<p begin="00:12:37.959" end="00:12:42.729" style="s2">unter anderem von forschern die weitaus</p>
+<p begin="00:12:40.779" end="00:12:45.069" style="s2">genauer und vollständiger mit diesem</p>
+<p begin="00:12:42.729" end="00:12:47.519" style="s2">thema umgehen deren literatur wird nun</p>
+<p begin="00:12:45.069" end="00:12:50.349" style="s2">am ende des videos noch eingeblendet</p>
+<p begin="00:12:47.519" end="00:12:52.739" style="s2">damit vielen dank für ihr interesse und</p>
+<p begin="00:12:50.349" end="00:12:52.739" style="s2">bis bald</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:17.800" end="00:00:21.330" style="s2">1984 durfte ich das große Erlebnis haben.</p>
+<p begin="00:00:21.330" end="00:00:27.339" style="s2">Ich musste wegen einem Zwerchfellriss, bei<br />dem der Magen durchkam, als Notfall ins Spital.</p>
+<p begin="00:00:27.339" end="00:00:33.450" style="s2">Der Arzt lieferte mich ein und sagte sofort,<br />dass es eine sehr schwierige Operation werden</p>
+<p begin="00:00:33.450" end="00:00:36.340" style="s2">wird.</p>
+<p begin="00:00:36.340" end="00:00:41.410" style="s2">Es wurde dann eine Operation in Vollnarkose<br />gemacht, aber während der Operation sind</p>
+<p begin="00:00:41.410" end="00:00:44.490" style="s2">mir gemäß den Ärzten die Lungenflügel<br />zusammengefallen.</p>
+<p begin="00:00:44.490" end="00:00:49.829" style="s2">Ich habe von der Decke herab als Seele zugeschaut.</p>
+<p begin="00:00:49.829" end="00:00:54.940" style="s2">Ich habe mich auf dem Tisch liegen sehen und<br />alles gehört, was die Ärzte redeten.</p>
+<p begin="00:00:54.940" end="00:00:59.949" style="s2">Und ich konnte danach beschreiben, wer dabei<br />war – um mich herum, alles.</p>
+<p begin="00:00:59.949" end="00:01:04.519" style="s2">Das musste ich ihnen danach erzählen, als<br />ich wieder zurück war.</p>
+<p begin="00:01:04.519" end="00:01:08.400" style="s2">Ich habe also genau gesehen, was sie da aufgeschnitten<br />haben.</p>
+<p begin="00:01:08.400" end="00:01:12.259" style="s2">Mir selber hat es gar nicht weh getan, gar<br />nicht.</p>
+<p begin="00:01:12.259" end="00:01:18.150" style="s2">Nicht wegen der Narkose, sondern weil meine<br />Seele schon ausgetreten war und von oben herab</p>
+<p begin="00:01:18.150" end="00:01:19.150" style="s2">zugeschaut hat.</p>
+<p begin="00:01:19.150" end="00:01:25.439" style="s2">Die Ärzte hatten meiner Frau gesagt, während<br />der Operation sei der Geist schon ausgetreten</p>
+<p begin="00:01:25.439" end="00:01:26.439" style="s2">gewesen.</p>
+<p begin="00:01:26.439" end="00:01:28.270" style="s2">Das hat sie mir später erzählt.</p>
+<p begin="00:01:28.270" end="00:01:34.490" style="s2">Während der ganzen Zeit, als ich weg war,<br />so sagten es die Ärzte, hatte ich katzgraue</p>
+<p begin="00:01:34.490" end="00:01:36.579" style="s2">Haare, als die Seele draußen war.</p>
+<p begin="00:01:36.579" end="00:01:40.070" style="s2">Sobald die Seele wieder drinnen war, wurden<br />sie wieder schwarz.</p>
+<p begin="00:01:40.070" end="00:01:46.850" style="s2">Ich konnte also während der Operation zusehen,<br />trotz Vollnarkose, und nach der Operation</p>
+<p begin="00:01:46.850" end="00:01:51.740" style="s2">brachten sie mich sofort vom OP-Saal auf die<br />Intensivstation.</p>
+<p begin="00:01:51.740" end="00:01:55.750" style="s2">Dann kam bei mir das Lebensbuch.</p>
+<p begin="00:01:55.750" end="00:02:02.320" style="s2">Ich sah mich von klein auf, als ich angefangen<br />hatte zu laufen, alles, was ich gemacht habe,</p>
+<p begin="00:02:02.320" end="00:02:06.859" style="s2">Gutes und Schlechtes, so deutlich wie wir<br />uns jetzt anschauen.</p>
+<p begin="00:02:06.859" end="00:02:10.250" style="s2">Man hätte nicht sagen können, dass das nicht<br />real gewesen wäre.</p>
+<p begin="00:02:10.250" end="00:02:14.849" style="s2">Und als das Lebensbuch vorbei war, wurde mir<br />plötzlich so leicht.</p>
+<p begin="00:02:14.849" end="00:02:21.660" style="s2">Ich dachte, „ach, jetzt kann ich sterben,<br />kann die Erde verlassen.“ Und plötzlich</p>
+<p begin="00:02:21.660" end="00:02:27.650" style="s2">stellte ich dann fest, „oh, du hast ja keinen<br />Körper mehr.“ Dann sah ich mich als kleine</p>
+<p begin="00:02:27.650" end="00:02:28.650" style="s2">Seele.</p>
+<p begin="00:02:28.650" end="00:02:30.019" style="s2">Wie eine kleine Flamme.</p>
+<p begin="00:02:30.019" end="00:02:34.099" style="s2">Da waren sieben Strahlen, wie vergoldete Sonnenstrahlen.</p>
+<p begin="00:02:34.099" end="00:02:39.379" style="s2">Dann ging es dort hinaus, in diese Strahlen,<br />zuerst durch das Dunkel hindurch.</p>
+<p begin="00:02:39.379" end="00:02:45.010" style="s2">In diesem Dunkel sah ich Unmengen von Seelen,<br />die den Weg nicht nach oben fanden.</p>
+<p begin="00:02:45.010" end="00:02:51.129" style="s2">Das ist mir später sogar erklärt worden,<br />von meinem Lehr-Engel, dass das Seelen sind.</p>
+<p begin="00:02:51.129" end="00:02:58.330" style="s2">Dann ging es nach oben, aber ich brauchte<br />keinen Tunnel, ich kam direkt gerade hinaus.</p>
+<p begin="00:02:58.330" end="00:03:01.580" style="s2">Bei den unteren vier Himmeln war es nur ein<br />kleiner Besuch.</p>
+<p begin="00:03:01.580" end="00:03:08.409" style="s2">Nach dem vierten Himmel kam dann schon das<br />Licht, ein leuchtendes Nebelwäldchen.</p>
+<p begin="00:03:08.409" end="00:03:10.170" style="s2">Dann ging es weiter nach oben.</p>
+<p begin="00:03:10.170" end="00:03:13.519" style="s2">Von dort aus ist es immer Tag, nie Nacht.</p>
+<p begin="00:03:13.519" end="00:03:15.700" style="s2">Dort oben kennt man das nicht mehr.</p>
+<p begin="00:03:15.700" end="00:03:20.260" style="s2">Und von dort aus ist das Gesetz von Ursache<br />und Wirkung aufgehoben.</p>
+<p begin="00:03:20.260" end="00:03:24.099" style="s2">Dort ist nur noch das Positive, die Liebe.</p>
+<p begin="00:03:24.099" end="00:03:29.799" style="s2">Und als ich da nach oben kam, dachte ich mir,<br />„hey, wo bin ich denn da auf einmal?“</p>
+<p begin="00:03:29.799" end="00:03:33.980" style="s2">Dort, wo es nur Tag war, habe ich selbst staunen<br />müssen.</p>
+<p begin="00:03:33.980" end="00:03:39.950" style="s2">Dann sah ich da viele Menschen-Gestalten,<br />die sahen aus wie wir, haben aber alle geleuchtet</p>
+<p begin="00:03:39.950" end="00:03:42.409" style="s2">und sind geschwebt, wunderbar schön.</p>
+<p begin="00:03:42.409" end="00:03:50.440" style="s2">Und plötzlich merke ich, „ich habe ja auch<br />einen Körper, der mitschwebt.“ Und dann</p>
+<p begin="00:03:50.440" end="00:03:56.430" style="s2">dachte ich, „hey, wieso redet da niemand?“<br />Und dann sah ich, dass die immer so Strahlen</p>
+<p begin="00:03:56.430" end="00:03:57.430" style="s2">aufeinander richten.</p>
+<p begin="00:03:57.430" end="00:04:01.180" style="s2">Auf der Erde würde man Telepathie dazu sagen.</p>
+<p begin="00:04:01.180" end="00:04:02.569" style="s2">Gedankenübertragung.</p>
+<p begin="00:04:02.569" end="00:04:05.550" style="s2">Dort machen sie es mit Strahlen.</p>
+<p begin="00:04:05.550" end="00:04:10.879" style="s2">Plötzlich, von einer Distanz von dort oben,<br />wurde ein Strahl auf mich gerichtet.</p>
+<p begin="00:04:10.879" end="00:04:15.990" style="s2">Dann steht da vor mir meine eigene Mutter,<br />die 1950 starb.</p>
+<p begin="00:04:15.990" end="00:04:22.449" style="s2">Ich dachte nur, „das ist doch nicht möglich<br />– oder doch?“ Sie sah aus wie mit etwa</p>
+<p begin="00:04:22.449" end="00:04:30.790" style="s2">20, 21 Jahren – wie Jesus sagte: »Ich mache<br />alles wieder neu.« Dann teilte sie mir mit:</p>
+<p begin="00:04:30.790" end="00:04:34.990" style="s2">»Du bist nur vorübergehend hier oben, du<br />darfst wieder auf die Erde zurück.</p>
+<p begin="00:04:34.990" end="00:04:38.310" style="s2">Du wirst noch belehrt und bekommst dann einen<br />Auftrag.</p>
+<p begin="00:04:38.310" end="00:04:44.020" style="s2">Du musst den Menschen auf der Erde noch helfen.«<br />Dann hat sie sich wieder entfernt.</p>
+<p begin="00:04:44.020" end="00:04:48.800" style="s2">Plötzlich stand eine riesige Gestalt neben<br />mir, eine männliche.</p>
+<p begin="00:04:48.800" end="00:04:51.930" style="s2">Da kam eine Ausstrahlung aus ihm heraus.</p>
+<p begin="00:04:51.930" end="00:04:56.220" style="s2">Er war etwa 2,7 Meter groß.</p>
+<p begin="00:04:56.220" end="00:05:00.760" style="s2">Er stellte sich dann vor: „Ich bin der Lehrengel,<br />der dich belehren wird.</p>
+<p begin="00:05:00.760" end="00:05:02.340" style="s2">Du musst auf der Erde helfen.</p>
+<p begin="00:05:02.340" end="00:05:04.710" style="s2">Das zeige ich dir jetzt.</p>
+<p begin="00:05:04.710" end="00:05:08.490" style="s2">Den Menschen helfen, die Depressionen und<br />psychische Probleme haben.</p>
+<p begin="00:05:08.490" end="00:05:10.789" style="s2">Und ich sage dir wie das geht.“</p>
+<p begin="00:05:10.789" end="00:05:16.419" style="s2">Dann sagte er mir, du musst allen Menschen<br />klar machen: „Das Ego, der Ich-Wahn, muss</p>
+<p begin="00:05:16.419" end="00:05:21.030" style="s2">sofort abgebaut werden.“ Das ist das größte<br />Hindernis für jeden Menschen.</p>
+<p begin="00:05:21.030" end="00:05:27.759" style="s2">Und vor allem, als zweites sagte er mir, ist<br />das Verzeihen enorm wichtig, sonst sei man</p>
+<p begin="00:05:27.759" end="00:05:29.139" style="s2">aneinander gebunden.</p>
+<p begin="00:05:29.139" end="00:05:36.889" style="s2">Man sei nicht frei sonst.</p>
+<p begin="00:05:36.889" end="00:05:39.100" style="s2">Dann gab er mir noch verschiedene Erklärungen.</p>
+<p begin="00:05:39.100" end="00:05:44.100" style="s2">Man müsse den Neid abbauen, Hass, Eifersucht,<br />Selbstsucht.</p>
+<p begin="00:05:44.100" end="00:05:46.350" style="s2">All das müsse man abbauen.</p>
+<p begin="00:05:46.350" end="00:05:49.630" style="s2">Und vor allem den Zorn, hat er mir erklärt.</p>
+<p begin="00:05:49.630" end="00:05:56.069" style="s2">Kein Mensch, der die Geduld nicht hat, der<br />ungeduldig ist, und der Zorn und Hass und</p>
+<p begin="00:05:56.069" end="00:06:01.580" style="s2">Neid hat, und Begierden nach irdischen Gütern,<br />wird nicht hindurchschreiten, weil das die</p>
+<p begin="00:06:01.580" end="00:06:10.970" style="s2">eigentliche Himmelspforte ist.</p>
+<p begin="00:06:10.970" end="00:06:12.780" style="s2">Es sind insgesamt 7 Himmel.</p>
+<p begin="00:06:12.780" end="00:06:18.060" style="s2">Die unteren 4 Himmel sind Vorhimmel, in denen<br />man was lernen muss.</p>
+<p begin="00:06:18.060" end="00:06:22.310" style="s2">Das, was man im Lebensbuch sieht, muss man<br />dort lernen.</p>
+<p begin="00:06:22.310" end="00:06:25.430" style="s2">Ich war aber dort nur kurz auf Besuch.</p>
+<p begin="00:06:25.430" end="00:06:31.500" style="s2">Und dort gibt es so Seelen – ich rate jedem<br />Menschen an, er soll die Starrköpfigkeit</p>
+<p begin="00:06:31.500" end="00:06:33.620" style="s2">auf der Erde ablegen, jetzt schon.</p>
+<p begin="00:06:33.620" end="00:06:38.130" style="s2">Das soll er versuchen, gemäß dem, was die<br />Lehrengel den Seelen beibringen.</p>
+<p begin="00:06:38.130" end="00:06:50.490" style="s2">All die, die starrköpfig sind und die Belehrungen<br />nicht annehmen, kommen immer wieder mit den</p>
+<p begin="00:06:50.490" end="00:06:53.100" style="s2">gleichen zusammen und machen keine Fortschritte.</p>
+<p begin="00:06:53.100" end="00:06:59.230" style="s2">Und von Zeit zu Zeit werden sie wieder geholt<br />von den Lehrengeln.</p>
+<p begin="00:06:59.230" end="00:07:03.590" style="s2">Und jene, die dort keine Fortschritte machen,<br />leiden dort Seelenqualen.</p>
+<p begin="00:07:03.590" end="00:07:06.220" style="s2">Das ist das sogenannte Fegefeuer.</p>
+<p begin="00:07:06.220" end="00:07:08.210" style="s2">Hat aber nichts mit einem Feuer zu tun.</p>
+<p begin="00:07:08.210" end="00:07:13.990" style="s2">Und erst, wenn sie eine gewisse Kraft bekommen<br />und dann annehmen, was sie lernen sollen,</p>
+<p begin="00:07:13.990" end="00:07:16.759" style="s2">können sie in den nächst folgenden Himmel<br />aufsteigen.</p>
+<p begin="00:07:16.759" end="00:07:23.759" style="s2">Jeder Himmel hat 7 Unterstufen und jede Stufe<br />muss man sich erarbeiten, damit man den nächsten</p>
+<p begin="00:07:23.759" end="00:07:25.449" style="s2">Himmel betreten kann.</p>
+<p begin="00:07:25.449" end="00:07:30.840" style="s2">So geht es bis zum Licht hinauf und von dort<br />ist man dann frei von allen negativen Dingen.</p>
+<p begin="00:07:30.840" end="00:07:41.029" style="s2">Dann ist das eine richtige Befreiung und vor<br />allem ist dort oben in dem Licht eine Flora</p>
+<p begin="00:07:41.029" end="00:07:44.320" style="s2">– diese Welt hier ist nur ein Abglanz von<br />dort oben.</p>
+<p begin="00:07:44.320" end="00:07:47.660" style="s2">Dort oben sind Seelen, die glänzen wie Silber.</p>
+<p begin="00:07:47.660" end="00:07:50.650" style="s2">Die Pflanzenwelt ist wunderbar schön.</p>
+<p begin="00:07:50.650" end="00:07:55.440" style="s2">Blumen, eine Farbenpracht, die ich hier noch<br />gar nie habe feststellen können.</p>
+<p begin="00:07:55.440" end="00:07:57.690" style="s2">Das ist herrlich schön zum ansehen.</p>
+<p begin="00:07:57.690" end="00:08:06.970" style="s2">Dann habe ich weiter oben auch ein riesiges<br />Licht gesehen.</p>
+<p begin="00:08:06.970" end="00:08:12.310" style="s2">Der Lehrengel sagte, „du bestaunst immer<br />das Licht, du willst doch gerne wissen, was</p>
+<p begin="00:08:12.310" end="00:08:18.080" style="s2">das ist.“ Dann sagte ich „ja.“ Und er<br />sagte, das ist die Urzentralsonne.</p>
+<p begin="00:08:18.080" end="00:08:23.909" style="s2">Dort kommen die Strahlen nicht geradlinig<br />heraus, nur wellenförmig.</p>
+<p begin="00:08:23.909" end="00:08:29.939" style="s2">Dann sagte er mir, das sei die Urzentralsonne<br />und der Sitz von Gott selbst.</p>
+<p begin="00:08:29.939" end="00:08:34.300" style="s2">Von dort werden sämtliche Planeten mit Energie<br />und Licht versorgt.</p>
+<p begin="00:08:34.300" end="00:08:40.289" style="s2">Das ist etwas herrlich Schönes, dieses Licht.</p>
+<p begin="00:08:40.289" end="00:08:49.650" style="s2">Und dann sagte er mir, „du darfst jetzt<br />auch einmal einen Blick nach unten werfen,</p>
+<p begin="00:08:49.650" end="00:08:55.940" style="s2">auf die Erde.“ Die Erde von oben zu sehen<br />war nur etwas in dieser Größe, eine blaue</p>
+<p begin="00:08:55.940" end="00:08:56.940" style="s2">Kugel.</p>
+<p begin="00:08:56.940" end="00:09:02.940" style="s2">Wenn du Menschen siehst, du um Verstorbene<br />weinen, dann sag ihnen: Sie sollen beten für</p>
+<p begin="00:09:02.940" end="00:09:05.810" style="s2">die Seelen, die gestorben sind, nicht weinen.</p>
+<p begin="00:09:05.810" end="00:09:10.010" style="s2">Das sei nur egoistisches Mitleid mit sich<br />selbst, wenn man weint.</p>
+<p begin="00:09:10.010" end="00:09:12.050" style="s2">Sie sollen das nicht machen.</p>
+<p begin="00:09:12.050" end="00:09:17.540" style="s2">Die Seele mache so nämlich dort oben keine<br />Fortschritte, wenn um sie geweint wird.</p>
+<p begin="00:09:17.540" end="00:09:21.620" style="s2">Und ich konnte mich von oben im Spital im<br />Bett liegen sehen.</p>
+<p begin="00:09:21.620" end="00:09:25.020" style="s2">Auf der linken Seite stand die Frau mit der<br />Tochter.</p>
+<p begin="00:09:25.020" end="00:09:28.690" style="s2">Auf der rechten Seite der älteste Sohn mit<br />der Schwiegertochter.</p>
+<p begin="00:09:28.690" end="00:09:31.580" style="s2">Alle machten sie ein trauriges Gesicht.</p>
+<p begin="00:09:31.580" end="00:09:37.260" style="s2">Das ist ein furchtbares Erwachen, wenn man<br />als Seele sieht, dass alle traurig um einen</p>
+<p begin="00:09:37.260" end="00:09:38.260" style="s2">sind.</p>
+<p begin="00:09:38.260" end="00:09:43.269" style="s2">Das soll man ja allen Menschen immer sagen,<br />sie sollen das unbedingt unterlassen.</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,654 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=vDp6E8sgTC4","mytitle":"Hangar18b,Technische UFO Forschung - Gerhard Gr\u00f6schel mit den neusten Entwicklungen ","mylang":"de"}
+hast du etwas unerklärliches gesehen
+gefilmt oder fotografiert melde dich
+über unser Kontaktformular auf unserer
+Homepage www.hanger 188b.com wenn euch
+das Video gefällt gebt uns einen Daumen
+Hoch abonniert unseren Kanal und
+aktiviert die Glocke jetzt geht&#39;s
+los hallo da draußen herzlich willkommen
+bei Hangar 18 es freut uns riesig heute
+wieder Gerhard Gröschel bei uns zu haben
+hallo Gerhard hallo i hallo seimon nett
+euch mal wieder zu sehen ist schon
+weichchen her wenn
+richtigin ja offiziell ist es schon
+länger her als inofiziell
+Jae ger absolut ja ja sehr schön dass
+das klappt heute ja was uns heute extrem
+interessiert ist die neue Technik die Du
+einsetzt du bist ja schon seit Jahren
+unterwegs und filmst da UFOs mit
+vor allem mit Technik also du du filmst
+nicht einfach den Himmel sondern du
+setzt Sensoren ein etc
+und ja du oder ihr habt etwas Neues
+erzähl doch mal
+darüber also grundsätzlich äh ist es
+vermutlich schon so dass nachts mehr
+UFOs fliegen als am Tag aber nachts hat
+wir natürlich das große Problem das ist
+in Regel Lichter sind weil was hinter
+den Lichtern ist ist meistens kaum zu
+erkennen weil es vom Licht überstrahlt
+wird wenn man so ein Licht überhaupt mal
+sieht dass sich merkwürdig bewegt und
+jetzt bei tagaufnahmen ist die Chance
+dass man nicht nur Licht sieht sondern
+auch den Körper dahinter wesentlich
+größer allerdings gibt es dann ein
+kiesengroßes Manko nämlich
+man müsste dann praktisch eine Kamera
+aufstellen durchlaufen lassen man müsste
+die ganzes die ganze Videos dann jeden
+Tag prüfen macht kein Mensch das das
+kann ja auch nicht da wä mental gar
+nicht dazu in der Lage und sind
+wahrscheinlich die wenigsten jetzt haben
+wir da eine Technik entwickelt und zwar
+eine trcking Technik also die
+entwicklungsstandm von Wolfgang stellt
+sich die Technik und die ist ein
+Teilprodukt von dem Endprodukt wie es
+mal sein soll dass
+es eine übersichtskamera gibt eine
+traging Kamera und dann eine
+nachgeführte hochauflösende Kamera die
+dem Objekt folgt ja und gute Bilder
+macht
+äh für die Zwecke wo ich das einsetzen
+will weil ich eigentlich immer nur äh
+mobile Geräte einsetzt weil ich der
+Meinung bin äh jede stationäre Anlage
+ist nach kürzester Zeit verbrannt äh
+setze ich das Mobil ein äh weil ich da
+die Standorte und die Zeiten und so
+weiter ändern kann unvorher gesehen auch
+für mich je nach Bedarf äh und dann
+nicht kalkulierbar ist wo ich meine
+Anlage habe aber wenn ich eine mobile
+Anlage habe dann wird die viel zu groß
+viel zu teuer und viel zu fehleranfällig
+wenn man da also dann noch ein
+Nachführsystem hat und ich habe die
+Lösung etwas anders angedacht ich sag
+okay das Trackingsystem vom wolfg
+übersichtskamera was den Flug in der
+Luft trägt und dann wird zusätzlich
+werden in dem bei mir sind es zwei
+Kameras also das sind Fotoapparate mit
+verschiedener Brennweite die ungefähr
+denselben Bildausschnitt haben oder das
+ein der eine fot Apparat hat denselben
+Bildausschnitt wie die übersichtskamera
+und der andere hat ein kleineren
+Bildausschnitt aber mit einer großen
+Vergrößerung ja immer in der Hoffnung
+dass das Objekt sich vielleicht
+irgendwie mal durch die Bildmitte bewegt
+und das hat jetzt den Vorteil äh dass
+ich ein relativ kleines System habe äh
+wo ich mit
+äh powerbanks betreiben kann und was ich
+auch geneigt bin in die Gegend zu
+stellen weil der Wert nicht so hoch ist
+wie bei einem was mechanisch nachgeführt
+wird wenn man da eine Hochauflösung
+Kamera hat
+ich habe euch ein Foto geschickt von dem
+System wie ich es jetzt das ist ein ist
+ein System wo ich momentan als
+Testsystem habe wie ich das gerade im
+Betrieb habe es besteht also aus der
+Raspberry Kamera im
+rasberry und zwei
+hx60v das sind die sind von Sony 20
+Megapixel Kameras nichts Besonderes ob
+sie heute noch zu kaufen gibt weiß ich
+nicht ich habe die schon seit vielen
+Jahren hab damals Stück 250 € gekostet
+äh und das da hat zwei die zwei Kameras
+werden immer im Wechsel
+alle 5 Sekunden etwa eingeschaltet und
+machen ein Bild immer in der Hoffnung
+wenn ich ein
+Tracking erkenn Erkenntnis habe also ein
+trcking Signal mit mit einer kleinen
+Vergrößerung dass ich dann über die Zeit
+auch die Bilder
+der Fotoapparate überprüf die
+automatisch ausgelöst werden im Rhythmus
+dann eventuell das Projekt das das
+Objekt
+vergrößert und klarer dar gestellt habe
+und dann vielleicht auch besser
+über Bildbearbeitung vergröß erungen
+mehr Aussagen machen kann als wenn ich
+nur diese übersichtsreching Kamera hab
+das ist so der Hintergrund der ganzen
+Entwicklung ja und die Bilder die du uns
+geschickt hast sind jetzt schon mit
+diesem System aufgenommen weil ist ja
+sehr spannend also genau ja ja das
+das ist zufällige Aufnahme wie alles
+zufällig ist wenn man versuche macht äh
+da habe ich die einfach bei mir aufs
+Hausdach gelegt äh eigentlich mache ich
+das jetzt fast jeden Tag und dann
+schauen wir das halt an äh da nicht so
+viel Tracking Aufnahmen sind kann ich so
+ein Tag so eine halben Stunde prüfen ob
+was interessantes dabei ist mhm und das
+ist natürlich äh ein echter Gewinn an
+der Sache weil dann muss ich nicht die
+ganze Zeit anschauen wo die Kamera
+tatsächlich
+aufnehmen ja das habe ich mit dem mit
+dem System gemacht D ich euch gezeigt
+habe äh weil was was ich hier
+die Technik als Bild euch geschickt hat
+das ist also ziemlich aktuell wie mus ja
+das ist interessant weil das überhaupt
+nicht zuordentbar ist also ich habe
+keine Ahnung was es ist am Anfang habe
+ich gedacht okay das ist vielleicht eine
+mülltöte oder irgendwas aber das ist es
+auch nicht das Ding scheint selbstleucht
+zu sein und ich habe mal die
+Wetterabfrage gemacht vom Wind zu der
+Zeit war Windgeschwindigkeit 2 km das
+ist also
+spaziergangstempo die Windrichtung würde
+stimmen von links nach rechts auf dem
+Bild das wä also von Nord nach Süd aber
+2 km ist extrem langsam also dazu war
+das Ding viel zu schnell äh das ist
+sicher nicht Wind getrieben was immer
+das ist ich kann es nicht sagen dazu
+sind auch hat die übersichtskamera zu
+kleine Bilder und die der Fotoapparat da
+hat nur einer der beiden hat es im
+Visier gehabt nämlich der mit der
+geringeren Auflösung aber man konnte
+schon einiges rausvergrößern wie ich
+dann gezeigt habe da sieht man dass es
+halt extrem verrückt
+aussieht und weder ein Flugzeug noch ein
+Hubschrauber noch eine Drohne noch
+irgendwas bekanntes ist und eine mtüte
+ist es ganz sicher auch nicht
+mhm ja das auf der einen Serie da haben
+wir zwei Bilder gefunden das stehen
+eigentlich wie drei Lichter
+senkrecht übereinander also ja ja ja ja
+und und das Bild dan auch ist wieder
+anders also ja also für mich sieht es so
+aus als wäre es ein Körper der sich
+dreht ja irgendwie so also das ist kein
+Körper der so fliegt sondern ein Körper
+der eine Eigenbewegung hat mhm wie mus
+ja z.B auch wenn man sagt okay das ist
+irgendein Heliumballon oder sowas du
+kann es sein dass er sich auch so dreht
+aber das was man dann in der
+Vergrößerung sieht äh es deckt sich
+jetzt mit gar nichts bekanntem auch
+nicht mit irgendwelche Heliumballons die
+man irgendwie so kaufen kann wo irgend
+welche Figuren darstellen ja ja ja und
+auch wenn die Löcher jetzt eine Art
+Antrieb wären
+muss ja ziemlich feinchustiert sein wenn
+das so sich langsam irgendwie dreht und
+eben ist eine Spekulation oder also ne
+das sieht wirklich sehr spannend aus ja
+das Objekt ja also ich
+ich habe keine Ahnung was es ist es ist
+extrem seltsam und weil ich das
+überhaupt nicht zuordnen kann weil ich
+auch überhaupt keinen erklärungsanssatz
+habe bei allen Dingen die mir so bekannt
+sind wo ich sagen könnte das könnte es
+sein das ist hier nicht der Fall deshalb
+habe gedacht okay ich schicke euch das
+mal als Muster damit man auch ein
+interessanten Ansatz hab ich habe
+natürlich auch Helikopter und Flugzeuge
+die ich mit drauf habe aber das ist ja
+witzlos das ist uness neben der
+Gegeneffekt von verbrannt sein du hast
+ja von verbrannt vielleicht alle wo
+jetzt denken der Koffer brennt nein das
+ist einfach wenn man immer am gleichen
+Ort ist dass die irgendwie das
+mitbekommen und dann keine Aktivität
+mehr stattfindet und das
+spontane okay gut das ist
+polizeich bei dir auf dem Haus das
+kennen Sie eigentlich schon auch also
+die zeigen sich extra bei Dir ja gut ja
+gut ja natürlich ja klar aber ich habe
+das auch nicht je ich ma das spontan aus
+dem bauchhaus auch wie die Technik ist
+meistens ist so ich habe das Ding außen
+dann sehe ich stimmt was nicht kommt
+rein dann tue ich mit dem Laserpointer
+hier stundenlang
+rumprieren die Einstellung zu ändern
+dann kommt&#39;s wieder raus und dann bin
+ich mit den Ergebnissen immer noch nicht
+zufrieden dann kommt wieder rein für ein
+paar Tage und also da gibt&#39;s kein keine
+Beständigkeit und auch keine
+Kalkulierbarkeit vielleicht noch zum
+treckings System also du kannst ja
+glaube ich wenn ich das richtig
+verstanden habe eigich jben Flugzeug und
+solche Dinge schon aussortieren oder
+kannst du da was erzähen dar nicht
+aussortieren tue ich er trgt er erkennt
+Flugbewegungen zeigt die flugspur auf
+dieses die
+verfolgt und das
+Objekt
+und macht aber keine Bewertung ist ja
+keine K dahinter also er bewertet nicht
+das ist ein Flugzeug ein Ballon das ist
+hubschra
+weil da das ist ein kleiner raspberry da
+ist keine K das ist nur ein
+intelligentes Trackingsystem und wenn
+man da die Parameter richtig gut
+einstellt dann ist es für diese
+Anwendungsfall sehr effektiv ja an
+dieser Stelle vielleicht mal an die
+Zuschauer da draußen geht auch mal auf
+den YouTube-Kanal von Gerhard also du
+machst ja da regelmäßig Videos etwa
+einmal im Monat oder so und ähm
+das ist dann nicht nur ein Video wo man
+irgendwas sieht sondern hoch spannend
+und du hast da auch sehr viel in
+neuester Zeit meiner Meinung nach
+gezeigt das spannend ist also ich denke
+gerade an diese Wolke die du irgendwie
+gesehen hast und die habe ich nicht
+geseh die hat die hat System gesehen
+natürlich aber du musst ja nachher noch
+sichten und als spannend bewerten und
+ich habe mir das angeschaut und ich muss
+sagen ja ich äh das war echt
+faszinierend was war das also ja was war
+das also für mich für mich auch
+unerklärlich äh aber das passt so
+richtig in das Bild was man von Zeugen
+aussagen und so weiter sieht das ist
+klassisches wolkenufo
+äh wo irgendein Körper drin ist der sich
+dann
+äh verabschiedet äh
+wahrscheinlich erzeugter wennz ein Ufer
+war äh diese
+wolkentarnung vielleicht durch das dass
+er kälter ist als die Umgebungsluft und
+sich dann kondensiert Kondensat bildet
+sprich Wolke oder auf irgendeine andere
+Art ich weiß es
+nicht aber was erklärbares hätte ich da
+bei dem wolgenufo auch nicht gefunden
+also sehr
+komisch ne aber unbedingt geht auch auf
+uferforschung.de ist auch deine deine
+Homepage wo du hast auch in den Videos
+du erklärst das ja super welche Lichter
+eventuell noch im Flugzeug sein können
+wegen der Belichtungszeit etc mir
+aufgefallen sind die drei roten Lichter
+in deinem Urlaub das sieht auch sehr
+spannend aus ja ja das war übrigens auch
+so ein tragingsystem nur die ab die
+erste Version äh das da hatte ich noch
+keine mitgeführten Kameras dabei schade
+eigentlich äh W im Urlaub ich habe das
+einfach durchlaufen lassen vom ersten
+bis zum letzten Tag Tag und nach äh und
+habe dann nachher mir die dreckingbilder
+angeschaut und war echt erstaunt
+äh über diese dreieckigen Lichter die
+echt Zusammenhang sind und den Eindruck
+machen als wären dreieckig beleuchteter
+Körper drüber gflogen ja also das finde
+ich auch interessant obwohl es nur drei
+kleine Lichtpunkte sind die koordiniert
+fliegen aber trotzdem
+äh
+der unkonventionell habe ich sonst ich
+kann nur auf die Vermutung kommen dass
+das dreieckiges UFO ist alles andere
+dafür gibt&#39;s keine Erklärung ja ja ich
+meine wir wir versuchen das ja auch
+möglichst seriös und und noch
+Ausschlussverfahren zu machen aber du
+mit der einer Technik ist wirklich
+genial du MST ja auch Magnetfelder und
+ich habe gesehen einem Video da fliegt
+ihr ja mit der Drohne dann eil ich
+versucht ihr das die Flugbewegung des
+UFOs nachzu fliegen und und könnt das
+mit verschiedenen Parametern und glaube
+ich wenn es beschleunigt oder das
+Magnetfeld aus schlägt und also das ist
+wirklichtisch von dem grünen UFO
+überhalb R vermutlichm ja das war eine
+Aufnahme wo ich gesagt
+habe es hätte auch ein UFO sein können
+aber es hätte auch eine Drohne sein
+können aber äh
+die als das Ding sehr schnell
+weggeflogen ist hat sich die
+Blinkfrequenz erhöht und das ist etwas
+völlig untypisches das machen drohen
+nicht ja ja und äh äh dann sind wir auf
+zwei Monate später oder sowas wenn es
+mal wieder windstill war mit David also
+und und Wolfgang sind wir dann nach
+halbron auf dem Berg unterhalb der
+Kamera dass man ungefähr die gleiches
+Sicht hab und der david hat eine Drohne
+die hat er extra präpariert mit grünen
+Blinklichtern weil das haben drohen
+normalerweise n ja und dann hat sie
+Fliegel lasse und ich habe die
+äh mit mit mehreren Kameras aufgenommen
+aber auch mit mit einer vergleichbaren
+Kamera wie damals die oberhalb unserer
+Position war und hab dann die Bilder
+verglichen um einzuschätzen wie ist es
+wenn damals eine Drohne oberhalb der
+Kamera reingeflogen wäre und bin halt zu
+dem Schluss gekommen
+lässt sich nicht direkt
+vergleichen zal
+die Drohne vom David die hat natürlich
+die normalen Positionslichter haben die
+drohen rotgün gr so wie Flugzeug auch
+weil wenn du die Drohne nachts fliegen
+lässt da würde ich ja gern wissen fliegt
+die weg oder kommt die auf dich zu du
+musst ja irgendwie manuell steuern wenn
+sie nicht automatisch über GPS V
+zurückfliegt und diese Beleuchtung die
+konnt nicht ausschalten die ist also
+standardmäßig drin und also sie hat
+fliegen lassen von uns weg da war das
+erst hat man nur die grün Blinklichter
+gesehen wie bei dem bei der aufnah mit
+ich hatte aber als es sie dann wieder
+her uns her dann hat er sie natürlich
+gedreht damit sie wieder nach vorne
+fliegt und dann war halt auch das rote
+Licht zu erkennen klar dann habe ich
+gesagt D ohne rotes Licht dann hat er
+sie also extra rückwärts wieder
+herelassen damit kein kein rotes Licht
+ist
+dasleich hat auch das äh
+äh ich wüsste nicht äh warum
+einer wenn er nachts so eine Drohne
+fliegen lässt warum er dann wieder
+rückwärts fliegt warum dreht er s nicht
+und fliegt ganz normal das ist ja viel
+einfacher als wenn er so rückwärts
+wieder zurücksteuern muss
+und das das das war das mit den Grünen
+ja mit den Grünen
+blinklich eines was mir noch aufgefallen
+ist oder gleich ins Auge gesprungen ist
+du hast eine Aufnahme ich glaube das war
+nur ein oder sechs Frames oder so da
+waren so rote ja Spuren ich denke das
+war im zweit Video genau das das das war
+das wo die Wolke auch dabei war da habe
+ich alles diese sag wir so ja ganz ganz
+komisch extreme Dinge die man nicht
+eindeutig zuordnen kann aber die auch
+aus jedem Rahmen fallen hatte ich da
+drin ja das war wenn ich mich richtig
+erinner war das war das BL eine war BL
+ein Bild und zwar war ja ich denke es
+war ein war ein Bild weil 6 Sekunden
+vorher al die rasby Kamera belichtet
+immer Sekunden dann kommt nächste Bild 6
+Sekunden dazwischen ist zwar keine Lücke
+aber jedes Bild zeigt den Stand von 6
+Sekunden an 6 Sekunden belichtet ja das
+war komisch wo ich das zuerst gesehen
+habe habe gedacht auf erst Blick gedacht
+da lässt eine Drohne vorbeifliegen mit
+mit drei oder zwei roten Lampen dran
+aber dann habe er gesehen okay das kann
+nicht stimmen die Flugspuren sind nicht
+parallel also müssen zwei bzw D Objekte
+gewesen sein die sind dann auch immer
+zurückgekommen also und sie waren auch
+nicht so weit weg also sie können
+durchaus was weiß ich 500 m weit weg
+gewesen sind aber sie können keine 10 km
+weit weg gewesen sein weil sie waren
+unterhalb äh des Horizonts vom
+nächstchen
+Hügel und da da weiß ich der ist
+ungefähr Luftlinie 3 bis 4 km weg ja und
+da waren die drunter also war sie auf
+jeden Fall äh zwischen ganz nah und ja
+ja 3 km
+und der Flug war natürlich auch so
+netern ne kann ich überhaupt nicht
+zuordnen und es war relativ früh am Tag
+also war es natürlich schon dunkel ich
+glaube das war im März oder April war es
+noch dunkel aber es war nicht nachts um
+1 oder sowas sondern das war um 20 oder
+21 Uhr also noch eine vertretbare Zeit
+wo man denken kann okay da kann einer
+mit seiner Drohne irgendwio auf Berg
+gehen und die ein bisschen fliegen
+lassen aber so Lichteffekt erzeugt Hal
+eine Drohne nicht ja was es war weiß ich
+auch nicht mir kommen einfach unser
+Video seltsame Lichter am Himmel also
+vor ich weiß nicht ein paar Monaten hat
+sich jemand bei uns gemeldet mit Fotos
+die ja nicht das Gleiche aber aber
+einfach so ja komische Spuren am Himmel
+gezeigt haben und deswegen habe mich das
+gleich
+ja in meinen Band gezogen als ich das
+gesehen habe hoch
+interessant Drone wenn du hab das wenn
+du sagst wie Entschuldigung ja ja wir
+haben es veröffentlicht ja wir haben es
+veröffentlicht ja ja
+eine Drohne wenn du sagst 6 Sekunden pro
+Bild also sind das 12 Sekunden
+vom ersten zum dritten Bild
+ja die müsste er dann sehr nahe also
+wirklich sehr nahe geflogen sein also ja
+entweder sehr nahe oder sehr schnell ja
+und das kann man K man nicht sagen weil
+wir die Distanz nicht kennen genau
+außer das kann ich mehr als 3 km werd
+weg sein das könnte wir sagen aber
+zwischen 0 und 3 wä alles möglich
+gewesen aber was fliegt eine moderne
+Drohne die so tief fliegt also
+vielleicht
+80 Stunden Kilometer oder so oder 100
+oder na ja gut W wenn die nah genug dran
+ist eben dann würde schon gehen genau ja
+aber aber aber die flugspur deutet halt
+nicht auf eine Drohne sondern auf drei
+Objekte ja äh und ja
+äh und äh ich kann jetzt nicht auch
+nicht sagen ob die von rechts nach links
+oder von links nach rechts geflogen ist
+also wenn sie von rechts nach links
+geflogen wäre dann wäre das rote Licht
+können wir sagen ist die
+positionslampe wenn Sie jetzt von links
+nach rechts geflogen wäre würde ich ein
+grünes Licht erwarten ja
+aber das können wir können wir auch
+nicht sagen weil an eine vi kannst nicht
+sagen fliegt sie von da oder da die
+dritte Spur die ist ja interessant die
+geht wie weg dann also nach hinten und
+verschwindet im im Schwarz also das ist
+kaum ein Objekt also ja ja nee ein
+Objekt war es
+nicht ich sag nur das war wo ich das
+Bild erste Mal gesehen hab Dach da
+fliegt einer mit der droh vorbei aber da
+habe ich noch nicht auf die Details
+geachtet aber nachdem ich auf Details
+geachtet habe wusste ich es ist
+unmöglich Ken keine Drohne es müssen
+bestenfalls drei drohen gewesen sein
+wenn es drohen war
+ja was ich auch noch spannend fand ich
+glaube im letzten Video hast du das
+erwähnt flight Radar 24 oder einfach
+diese diese überwachungsseiten wo man
+alle Flugzeuge sehen kann du hast da
+erwähnt dass auch die Militärflugzeuge
+dort gekennzeichnet sind stimmt das ja
+das stimmt schon das das das ist nicht
+vielleicht Radar 24 das ist
+scheißprogramm GG ja ehrlich über das
+habe ich mich nur aufgeregt weil das da
+war mal was verzeichnet dann wieder n
+also was vor allem Polizeihubschrauber
+und so weiter die Waren in badenwürtberg
+nicht verzeichnet ich hatte Aufnahmen
+von Berlin da da wurden die jetzt wieder
+verzeichnet die Polizeihubschrauber es
+war für mich all echte Belastung des
+Radar 24 nee das ist äh das adssystem
+oder wie das heißt mhm das ist echt geil
+da ist alles da hat ich habe Ballons
+drin ich habe
+ich habe Hubschrauber also sowohl
+Polizei wie auch Rettungsdienste und
+Militärflugzeuge Militärflugzeuge wenn
+die hier rumkreisen Schalen dieen
+transponderter auch ein die wollen ja
+keine Kollision hier höchens wen wir
+spannungsgebiet sind dann werden die
+natürlich ohne sch fliegen aber aktuell
+sind wir das ja Gott sei Dank nicht und
+dann flieg
+im Normalfall also
+wenn ich habe manchmal Sachen äh wo ich
+ohne Radar hab ohne radarsignal
+da weiß jetzt auch nicht wie soll ich
+damit umgehen auch von dem neuen System
+wo wo wirklich alles anzeigt aber ich
+habe Flugspuren undon Objekten die sind
+ja nicht verzeichnet die Fliegen jetzt
+aber auch nicht so dass ich nicht sagen
+kann es könnte nicht ein flugzeug oder
+ein Hubschrauber sein und deshalb äh
+nehme ich das ins Archiv und sag okay
+vielleicht er gibt sich mal irgendwas um
+auf die Schliche zu kommen um was ich da
+handeln
+könnte D mit jeder neuer neuen Antwort
+kommt eine neue Frage irgendwie also
+wenn du was entwickelst kommen die
+nächsten Fragen also ja ja aber wirklich
+seit ich äh als ich dann die neue die
+adsseite da hatte die konnten wir sogar
+rückwend glaub fast zi Jahre ich konnte
+so viele Sachen wegschmeißen danach die
+ich einfach in meinem Ordner nicht
+zuordenbar hatte die konnte alle
+rausfliegen weil der mir die
+transponterdaten geliefert hat ja was
+Radar 24 nicht gemacht hat und äh das
+das andere hieß äh da gab&#39;s noch ein
+zweites Programm das hieß nicht Radar 24
+das
+hieß hab Name vergessen war aber auch
+nicht viel besser war war ist beides
+Mist für unsere Anwendung
+m ja nee also du bist die absolute
+Nummer ein was die Himmelsbeobachtung
+anbelangt unserer Meinung nach also
+Pioniere Pionier genau und es super zu
+hören dass es Fortschritte gibt auch
+wenn dann wieder halt fragen kommen neue
+ja klar also wir wir arbeiten laufend an
+neuer Technik und Geräten vieles
+verwerfen wir dann auch äh bevor
+überhaupt zum Einsatz kommt wil wir
+sehen okay falscher Weg lohnt sich nicht
+weg damit aber aber wenn wir dann
+irgendwas verfolgen wo wir uns Erfolg
+davon versprechen so wie jetzt hier
+dieses trkingsystem dieses neue
+äh dann zeigen wir das auch ja und
+das was ich hier zeige ist ja erst der
+Anfang da kommt ja noch viel mehr also
+ein Technik das ist ja wirklich wir sind
+im Experimentalstadium damit ja außerdem
+gibt&#39;s noch den Jan
+wsensberg der auch bei uns in der Gruppe
+ist aber gleichzeitig noch bei GEP äh
+der entwickelt vergleichbares er hat er
+macht sich mit raspberry er hat ein
+Laptop
+aber sein auserdeprogramm ist auch ein
+ein pitenprogramm so wie bei uns nicht
+dasselbe aber er geht ungefähr
+prinzipiellen ähnlichen
+Weg das das ist schon
+interessant ja ist auch cool wenn das
+irgendwie zusammenspielt und ihr euch
+miteinander unterhaltet und K uns alle
+freuen darauf ja vielleicht auch helfen
+kann mit Tipps oder so also ist ja cool
+wenn zwei Systeme
+entwickelt werden die vielleicht beide
+Erfolg haben können also ja ja klar klar
+ich meine warum nicht es gibt
+Dieselmotor es gibt Benzinmotor jeder
+hat seine Vor Nachteile man kann jetzt
+sagen das einz ist B das andere sondern
+es kommt auf die Anwendung an und die
+Umstände und so ist es da
+auch ja nochmals also geht auf die
+Homepage und auf den YouTube-Kanal wir
+verlinken die unten von Gerhard also ja
+macht dort ein Abo hinterlassen groß von
+uns ja und ab immer wieder hoch
+interessant und vielen Dank dass du dir
+wieder Zeit für uns genommen hast
+wir hoffen wir sehen uns bald wieder mal
+in Angesicht zu Angesicht nicht nur
+übers Internet ja ja hat es ja nicht
+geklappt wir wollten ja immer mal
+watching machen bei euch in der Schweiz
+hat leider nicht geklappt ihr wart
+beschäftigt ich war beschäftigt und dann
+hat wir oft aus Wetter nicht gestimmt
+wenn es gerade nicht gestimmt hat ja es
+ist nicht so einfach ja es ist aber aber
+wir kriegen das hin
+irgendwanningt ja ja nächsten Frühling
+ja spätestens spätestens wenn wir dann
+nach Salzburg fahren genau
+genau super vielen Dank und wir freuen
+uns aufs nächste Mal okay immer wieder
+gern sag euch schönen Abend und Tschüss
+gleichfalls tschüss
+tschüss

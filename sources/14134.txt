@@ -1,0 +1,943 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=CuwkC9MpoUM","mytitle":"Exo Politik, Exo Magazin, ExoMagazinTV, Robert Fleischer,Das Thermodynamische Kleinkraftwerk - Klaus Rauber ","mylang":"de"}
+wir sind dabei die Maschine zu bauen wir
+haben eine erste Phase hinter uns die
+hat schon einiges Geld verschlungen ich
+werde die Ergebnisse dann auch im Lauf
+des Vortrages hier präsentieren es geht
+dann auch warum die zweite Stufe zu
+machen so nach dem Motto wir brauchen es
+noch ein paar Millionen dann können wir
+auch noch zeigen dass es funktioniert so
+wird sicher nicht der Fall sein also
+sind ein paar tausend oder paar
+Hunderter die für uns notwendig sind um
+einfach den nächsten maschineenbaulichen
+Schritt zu tun aber sie werden selber im
+Verlauf des Vortrages dann mitbekommen
+aus welchen Gründe das ist Verein für
+implusionsforschung wieso beschäftigt
+sich so ein Verein jetzt plötzlich mit
+der Thermodynamik als Elektrotechniker
+bin ich natürlich jetzt auf einer ganz
+anderen Schiene zu unterwegs in meinem
+Haupt Beruf und der Verein hat sich ja
+überwiegend mit dem Thema Wasser Wiktor
+Schauberger und seinen
+Hinterlassenschaften auseinandergesetzt
+und warum jetzt plötzlich ausflü in die
+Thermodynamik vielleicht kan wir an den
+Anomalie annüpfe Anomalie hat das Wasser
+ja bekannterweise über 40 und viele
+können zwe D aufzählen aber die die
+weiteren Anomalie sind dann sicherlich
+zunächst mal nur nur den Physikern
+bekannt und ähnlich glauben wir jetzt
+oder sind der Überzeugung dass auch CO2
+seine hat an denen wir uns hier ein
+bisschen ü können darf ich mal fragen
+versteht man das hinten gut ganz
+schlecht ganz schlecht eben ja also
+ich la ja ich werde ein bisschen Versuch
+Versuche bisschen lauter zu sprechen ja
+wir hatten natürlich eine Motivation für
+dieses Projekt die Motivation liegt etwa
+3 Jahre zurück
+inzwischen da wurde uns der Jürgen
+schmeiduch bekannt aus unserem
+Vereinsumfeld wurde uns eben der Name
+herangetragen und wir sollten uns doch
+mal mit seiner Thematik hier
+auseinandersetzen schmeiduch hat damals
+schon von einem erfolgreichen Aufbau
+eines zyklischen oder azyklischen
+Kreislaufes
+berichtet er hat das Arbeitsvermögen von
+CO2
+genutzt
+um also CO2 unter hohen Druck dass es
+bei der Umgebungstemperatur einnimmt um
+da Leistung auszukoppeln Leistung über
+ein
+mechanischen Arbeitsmaschine das kann
+Turbine sein oder eine Kolbenmaschine
+und auf den Generator auszugeben und er
+hat wenn man die ganzen verbrauche
+abzieht die im System vorhanden sind
+angeblich etwa 200 Watt im Mittel
+verfügbar
+gemacht er sprach insbesondere von einem
+konventionellen Maschinenbau also nichts
+Geheimnisvolles keine neue
+raumenergietechnik sondern im Grunde
+Effekte die schon seit Jahrzehnten
+eigentlich bekannt sind ähm die
+vielleicht in der Vergangenheit noch
+nicht so nutzbar waren aus technischen
+Gründen aber mittlerweile wäre es über
+den ganz normalen konventionellen
+maschinebau mit all seinen Komponente
+möglich hier diese Anlage aufzubauen
+über die Bedeutung der Nutzung der
+Umgebungswärme zur Stromerzeugung wurde
+vorher schon viel angerissen braucht man
+die Tragweite jetzt glaube ich nicht
+noch mal äh wieder holen Fukushima
+Atomausstieg wir sind alle aufgefordert
+hier jede Idee aufzugreifen und
+auszutesten und es war für uns eben dann
+der Grund vor 3 Jahren schon zu sagen
+dieser Sache müssen wir auf den Grund
+gehen Thema dezentrale Energiegewinnung
+eine Anlage zu bauen in der
+Größenordnung von 500 Watt bis 2 kW das
+ist das übliche was man so im
+elektrischen braucht für ein kleines
+Einfamilienhaus für eine kleine
+Familie sicherlich wird man auch über
+Speichermöglichkeiten drüber nachdenken
+müsse aber in erster Linie ging es da
+uns darum eine kleine aber trotzdem
+ausreichend große Anlage zu konzipieren
+die es erlaubt vernünftig mit kleinen
+Maschine die Teile herzustellen die
+trotz allem groß genug sind dass man
+nicht an Messfehlern herum diskutieren
+muss und so kamen wir eben auf dieses
+thermodynamische Kraftwerk 1 Kilowatt
+als
+zielusgangsleistung es gibt mit
+Sicherheit mehrere Schlüssel zur
+dieser Anlage zum erfolgreichen Gelingen
+insbesondere einer der wesentlichen
+Schlüssel das Verhalten realer Gase
+nämlich sich bei Entspannung abzukühlen
+was ganz triviales was man häufig hört
+man bekommt z.B auch zu spüren wenn man
+eine normale butanflasche entlehrt an
+seinem Grill dass die sich vereit Luft
+und insbesondere CO2 tun diese Abkühlung
+sehr ausgeprägt CO2 die liegt zwischen
+0,6 und 4 Kelvin pro Bar im Mittel etwa
+1,7 Kelvin pro Bar insbesondere bei
+tiefeneraturen kühlt sich CO2 bei
+Entspannung noch sehr viel weiter
+ab
+ferner geht&#39;s um das Thema
+Phasenumwandlungen wir wissen in jedem
+Kraftwerk wird
+Arbeitsgas Dampf hoher Dampfdruck ähm
+ausgekuppelt die Energie wird
+ausgekuppelt und dabei wird das Ganze
+verflüssigt um dann einen geschlossenen
+Kreislauf aufbauen zu können das heißt
+hier sind wesentlich Phasenumwandlungen
+im Spiel bei uns geht&#39;s eben auch um die
+Umwandlung gasförmig zu flüssig
+eventuell auch noch über den Umweg eines
+festen schneeartigen eisartigen
+Zustandes das heißt klassisch bewegen
+wir uns eigentlich in Prozessen auch mit
+den Unterlagen in Prozessen die bei der
+Wärmepumpe oder bei der Kältemaschine
+oder bei Klimaanlagen schon ständig im
+Einsatz sind und gerade CO2 macht ma do
+in letzten Jahren eine kleine forore z.B
+bei
+Erdsonden ein weiterer Schlüssel wird
+der Massentransport
+sein Flüssigkeit lässt sich mittels
+einer Kondensatpumpe wesentlich leichter
+auf die Hochdruckseite transportieren
+als Gas mittels eines Kompressors das
+ist eine sehr triviale Aussage die
+bestätigt sich in jedem Kraftwerk und
+hat eben auch hier ein ganz zentralen
+Aspekt das verleichtungsverhältnis
+zwischen Gas und Flüssigkeit liegt
+sicher über 4 Z ein das heißt ich
+brauche für ein Kompressor viermal so
+viel Energie als für eine
+Kondensatpumpe und so hat man im Grunde
+schon eine erste
+Idee wie die Verhältnisse in der Anlage
+sein werde wir wollen eine
+Arbeitsmaschine bauen die 2 kwatt
+erzeugt damit genügend Strom für interne
+Verbraucher da sind da ist und wir haben
+einen Hauptverbraucher die K saadpumpe
+die etwa 500 Watt benötigen
+soll schauen wir uns mal diesen
+hydraulischen Kreislauf etwas im Detail
+an wir haben hier eine
+einen Druckbehälter in dem befindet sich
+CO2 in einem flüssigen Zustand z.B
+Beiter
+50 bar Druck bei 15° CS CO2 würde in
+diesem Druckbehälter so lange verdampfen
+bis ein ausgleichszustand erreicht ist
+und diese werdepaare werden letztenendes
+durch die
+Dampfdruckkurve uns
+vorgegeben wie ich die Wärme hier
+reinbring das ist eine einfache Aufgabe
+das kann z.B durch einen Autokühler sein
+oder durch eine Solarpanel oder
+irgendwelche Leitungen die man im Freien
+verlegt da lässt sich sehr einfach
+Umgebungswärme über eine umweltspumpe in
+dieses System einbringen das ist nicht
+das Problem das findet sich da finden
+sich genügend Komponenten dieses Gas
+unter hohem Druck 50 bar wie gesagt in
+dem Beispiel wird nun durch eine
+Arbeitsmaschine durchgeschickt die
+Arbeitsmaschine ist mit einem Generator
+gekoppelt und hier kann sich nun Gas und
+Kondensat ansammeln Gas wird sich mit
+Sicherheit ansammeln das ist überhaupt
+kein Problem aber und jetzt kommen eben
+diese Anomalien ins Spiel diese dieser
+Chul Thomson Effekt mit dem das CO2 sich
+hier auf dem Weg abkühlt durch die
+Entspannung soll dazu führen dass ich
+hier Kondensat
+bildet ja so hat man dann mit einer
+Kondensatpumpe den Kreislauf relativ
+einfach zu schließen das Arbeitsvermögen
+des
+Gases liegt wesentlich höher als das
+Leistungs der Leistungsbedarf dieser
+Kondensatpumpe im Grunde hat man hier
+die gleichen Verhältnisse wie in jeder
+in jeder Orc Anlage heute die im Bereich
+der Thermo
+thermokraftwerke Geothermie oder
+solarthermi Kraftwerke verwendet
+wird um das ganze jetzt ein bisschen ja
+nachvollziehen zu können wollen wir ein
+klein wenig in die Diagramme von CO2
+hineinschauen wir haben hier
+ähnlich wie bei Wasser mit drei
+Bereichen zu operieren
+flüssig gasförmig und
+fest es gibt zwei wichtige Punkte der
+kritische Punkt bei CO2 liegt bei 31°
+csus und bei etwa 74 Bar oberhalb dieser
+dieses kritischen
+Punktes haben wir nur noch gasförmigen
+Zustand des CO2 keine Flüssigkeit mehr
+das nennen man den überkritischen
+Zustand wir haben Ferne noch den
+trippelpunkt bei etwa -506 50° und 5,1
+Bar also immer noch deutlich Überdruck
+an diesem Punkt sind alle drei
+phasenzustände
+anwesend es gibt dann eine ganze Reihe
+von Übergängen in diesen zwischen diesen
+drei Phasen die kennt man aus der
+Schulphysik das wäre hier flüssig nach
+gasförmig das Sieden oder das
+Kondensieren wenn es zurückgeht hier
+wird Verdampfungswärme eingetragen wir
+haben den Übergang von Fest zu flüssig
+in Form von schmelzen oder gefrieren
+wir haben unterhalb dieser F Bar den
+sogenannten sublimations oder
+resublimationsvorgang und es gibt hier
+noch diese Dampfdruckkurve die ich
+bereits erwähnt habe die uns eben die
+verschiedenen ja Gleichgewichtszustände
+zwischen flüssig und gasförmig
+nennt wenn man das ganze etwas genauer
+betrachtet möchte nimmt man sich die
+entsprechenden Kennlinien aus der
+Thermodynamik hier eine logarithmische
+Darstellung für
+CO2 wir können mindestens zwei Punkte
+hier ganz klar eintragen und zwar Punkte
+die sich im stationären Zustand
+einstellen der Wärmetauscher hat als
+Beispiel 10° 45 Bar oder 15° 50 bar
+25° 65 Bar also da gibt&#39;s paar ganz
+interessante Bereiche das heißt je höher
+der Druck dann wäre umso weiter würde
+man hier bisschen nach rechts laufen
+maximal bis zum kritischen Punkt Ferne
+haben wir als zweiten Fixpunkt des
+kondensatgefäß dort wollen wir hin
+nämlich Flüssigkeit im kondensatgefäß
+bei tiefen Temperaturen z.B -50°
+-40° und hier irgendwo bei 7 bis 10 bar
+das ist das Ziel fürs kondensatgefäß
+dann können wir Flüssigkeit zurückpumpe
+und der Kreislauf
+funktioniert
+insofern wie gesagt klassische
+Kraftwerkstechnik C Kreisläufe für
+solartermiekraftwerke der einzige
+Unterschied liegt jetzt eben
+darin wie wir diesen keltepol erzeugen
+und ich denke auch das ist das einzig
+innovative bei diesem ganzen Projekt
+schaffen wir es den Thomson Effekt dazu
+zu nutzen dass die Maschine ihr eigenes
+kältereservoir erzeugt und aufrecht
+erhält schaffen wir es ohne kühlum auszu
+kommen ohne Erdreich ohne Wasser Fluss
+was auch immer das hat uns eigentlich an
+dieser Angelegenheit herausgefordert das
+war der Punkt wo wir gesagt habe okay
+die Theorie liefert
+kaum Erklärung dafür also gilt es die
+Maschine zu
+bauen wir sehen also hier noch mal ein
+Prinzip des
+Energieflusses hier kommt der Begriff
+Enthalpie der Luft ins Spiel den werde
+ich nachher noch etwas kären die Wärme
+die in der Luft steckt die latente
+Umgebungswärme wird in dieser in diesem
+geschlossenen Kreislauf
+eingespeist und letztenendes als
+teilweise als elektrische Leistung
+verfügbar
+gemacht es gibt eine Art interne
+rückkpplung der Energie für die
+Verbraucher wie jetzt die Kondensatpumpe
+oder sonstige Verbraucher die Steuerung
+die
+umweltspumpen die Ventile brauchen
+Strom und es gibt auch innere
+leistungsflüsse z.B die Abwärme aber
+möglicherweise auch andere Effekte die
+eben wieder mit dieser Enthalpie
+Zusammenhänge da werden wir nachher noch
+eine fohle dazu sehen
+können Enthalpie was bedeutet dieser
+Begriff es ist natürlich jetzt für ein
+Elektrotechniker schwierig sich hier ein
+klares Bild zu verschaffen man kann
+dieses Fach studieren kann acht Semester
+Thermodynamik sich antun um vielleicht
+ein bisschen konkreteren eine konkretere
+Vorstellung zu haben was Enthalpie heißt
+Wikipedia klärt uns hier insofern auf
+als es eine Zustandsgröße
+ist die sich zusammensetzt aus der
+inneren Energie u und dem
+Arbeitsvermögen P mal
+V sie hat eine die Dimension einer
+Energie Joule oder wattsekunden und die
+Absolutwert kann nicht bestimmt werden
+aber interessant sind die Änderungen
+dieser Enthalpie
+Änderungen in Form von
+Änderung der inneren und des
+Arbeitsvermögens und das sitzt
+eigentlich
+unser Thema an wir wollen
+dieses ja
+arbeitsvermögenentschuldigung das
+Arbeitsvermögen P mal V an das wollen
+wir
+ran müssen uns aber auch mit den inneren
+Vorgängen auseinandersetzen weil die ins
+maßgeblich ja das physikalische
+Verhalten dieses Mediums
+beinflussen wenn man dann noch ein
+bisschen tiefer absteigt in die ja für
+Wasser heißt es molier Diagramm für CO2
+gibt&#39;s nur den allgemeinen Begriff
+druckenthalpie Diagramm hier kann man in
+etwa ja 1000 Abende verbringen sich dar
+drüber klar zu werde sich die Köpfe heiß
+zu diskutieren was genau passiert hier
+kann man sich im Wesentlichen natürlich
+mal die Arbeitspunkte eintragen wir
+haben als Arbeitspunkt unsere
+hohe
+Temperatur 20° und hohen Druck das wäre
+im Grunde der
+Wärmetauscher wir haben den
+Wärmetauscher Eingang oder den Ausgang
+der Kondensatpumpe im
+flüssigen bereits auch bei hohem Druck
+oder im flüssigen bei niedrigem Druck
+hier dieser Prozess ist also die Arbeit
+der Kondensatpumpe die wir reinstecken
+müssen in diesem Bereich spannen wir vom
+Punkt 1 nach Punkt 2
+entlang einer entropielinie das heißt
+wir tauschen keine Wärmeenergie mit der
+Umgebung aus in der Arbeitsmaschine
+fließt das Gas sozusag Ruckzug durch und
+gibt sein Arbeitsvermögen ab es nimmt
+aber keine weitere Wärmeenergie aus der
+Umgebung auf das macht er schließlich
+der
+Wärmetauscher und hier besteht nun jetzt
+die Kunst möglichst tief zu entspannen
+dieses Diagramm hört bedauerlicher Weise
+am trippelpunkt der sich hier als
+trippellinie darstellt auf das heißt die
+Entspannung wird in der klassischen
+Physik nur beschrieben bis zu einem
+Restdruck von etwa 5 bar aber nicht
+darunter darunter befinden wir uns in
+der sogenannten Terra Inkognita das ist
+genau der Bereich der uns hier
+interessiert der Bereich den wir mit
+dieser experimentiermaschine untersuchen
+wollen und da sehen wir im Grunde auch
+einen weiteren Schlüssel wieder für uns
+für dieses erfolgreiche arbeiten die
+möglichst Tiefe möglichst vollständige
+Entspannung unter den 5 bar und Druck
+herunter führt uns in ein Gebiet dass
+man mit ja nebelschnee Eis oder was auch
+immer beschreiben muss weil wir liegen
+hier definitiv im festen Bereich aber wo
+wir entlang welcher Kennlinie hier
+reinrutschen um dann auf dem Punkt 3 zu
+landen das ist zu untersuchen das ist
+genau unser unsere Herausforderung die
+wir hier in der klassischen Physik
+sehen wenn man noch mal ein kleines
+bisschen genauer reinguckt in diese
+Kennlinie und z.B diese diesen
+Ausgangspunkt von 20° 45 Bar und die
+mögliche enthalpiffenz entlang dieser
+theoretischen Linie berechnet so kommt
+man auf eine Größenordnung von
+verfügbarer Enthalpie die selbst wenn
+man nur bis zwe Bar
+Umgebungsdruck also etwa bis zu diesem
+Punkt hier entspannt als Rechenbeispiel
+folgendes ergibt wir haben ein Joule
+eine
+wattsekunde wir erhalten hier in etwa
+100 kJ pro pro
+kilogram und wir wollen mit einem
+Volumenstrom von etwa 0,1 l pro sekund
+oder 0,1 kogam pro Sekunde arbeiten so
+ergeben sich ca 10 kW thermische
+Leistung die hier verfügbar gemacht
+werde wenn man d mit einem nicht ganz
+untypischen Wirkungsgrad von 20%
+operiert kommt man auf etwa 2 kW
+elektrisch also die der
+Erwartungshorizont lässt sich an diesem
+Diagramm recht gut
+ablesen mit dieser ganzen Thematik
+verknüpft ist natürlich auch das Thema
+Entropie hier spricht man von Ordnung im
+System Entropie besagt je größer die
+Entropie desto mehr Unordnung herrscht
+im System das bedeutet letzten Endes
+dass wir dass der gesamte Kosmos den
+Entropie Tod sterben soll
+Entropie ist so mit eigentlich auch ein
+Qualitätsmerkmal für die
+Energie die Natur macht uns da im Grunde
+aber immer wieder einen Strich durch die
+Rechnung weil sie erzeugt immer höhere
+Ordnung über die Jahre Millionen und
+insofern
+wird dieser Begriff Entropie eigentlich
+eher aus dem technischen Bereich heraus
+sehr eingeschränkt aber natürliche
+Prozesse erlauben da durchaus andere
+Ansätze auch sie ist wie die Enthalpie
+eine Zustandsgröße sie hat eine
+Dimension von Energie pro Kelvin und eng
+verknüpft mit ihr ist der zweite
+Hauptsatz der Thermodynamik der z.B
+besagt in realen Systemen nimmt die
+irreversibel erzeugte Entropie immer
+zu oder anders ausgedrückt es gibt da
+sehr viele Formulierungen
+es gibt keine periodisch arbeitende
+Maschine die nichts weiter bewirkt als
+Abkühlung eines wärmereservoirs und
+Leistung mechanische
+Arbeit na jetzt sind wir an der
+kritischen Stelle ist dieses
+thermodynamische Kraftwerk als Blackbox
+betrachtet latente umgebungsfärme geht
+rein elektrische Leistung geht raus
+bereits äh eine macht macht dieses Gerät
+bereits eine Entropie Erniedrigung oder
+versuchen wir dadurch quasi schon den
+Haupt den zweiten Hauptsatz der
+Thermodynamik zu
+verletzen Gott bewahre ich glaube wir
+können hier
+einfach nicht gegen die hohe
+Wissenschaft freveln wollen das auch
+nicht auch wenn Sie heute schon in
+Zweifel gezogen
+wurde mit jedem Wirbelsturm beweist die
+Natur dass der zweite Hauptsatz nicht
+stimmt sie führt in AD aber die Physiker
+interessiert es in der Regel nicht wir
+selber bleiben auch zur Zeit noch und
+der vorerst bei der klassischen
+Physik sie hatte zum Glück ihre
+Anomalien und eine dieser Anomalie ist
+hier auch noch mal D gestellt das Thema
+Phasenumwandlungen es gibt hier in einem
+Diagramm das darlegt die Wärmezufuhr
+oder
+Wärmeabfuhr und die tempatur des
+Mediums gibt es hier zwei Haltepunkte
+die sogenannte
+Siedetemperatur und die
+Schmelztemperatur das bedeutet wenn man
+vom flüssigen oder vom gasförmigen ins
+flüssige geht muss man lange Zeit Wärme
+entziehen bevor man die Temperatur dann
+weiter absinken kann das passiert
+nämlich erst dann wenn alles vom
+gasförmigen ins flüssige übergegangen
+ist hier hat man also einen ein
+Reservoir an Energie das nach außen
+durch Temperaturmessung nicht in
+Erscheinung tritt das gleiche passiert
+hier unten noch mal vom flüssigen in den
+festen
+Zustand stichw heizen mit Eis ist
+bestimmt jedem bekannt dort wird genau
+dieser dieser Übergang hier auch genutzt
+um
+die scheinbare das scheinbare Volumen
+des des Wasser oder des wärmereservoirs
+zu
+vergrößern das heißt wir haben hier die
+Situation
+dass
+wir diese Übergänge natürlich in unserer
+Maschine berücksichtigen müssen und am
+besten
+auch quantitativ erfassen müssen wir
+haben das vorhin bei dem moleddiagramm
+gesehen dort ist der der nasdampfbereich
+zwischen gasförmig und flüssig klar
+aufgegliedert da kann man die
+entalpiedifferenz also spricht die
+Energiedifferenz ablesen die man
+herausziehen muss um zu verflüssigen
+oder die man hineinstecken muss um zu
+verdampfen aber dieses moletdiagramm
+gibt uns keine Auskunft über den
+Übergang von gasförmig zu fest dort
+haben wir die trippellinie und darunter
+die Terra Inkognita genau D was uns
+interessiert haben wir keine Daten mit
+den mit denen wir unsere Anlage auslegen
+könne deswegen glaube ich dass auch hier
+wieder ein einer der Schlüssel liegt die
+untersucht werden müsse um zu beweisen
+dass diese Anlage funktioniert dass
+schmeiduch tatsächlich recht hatte in
+seinen beobacht auch wenn er sie nicht
+erklären
+konnte ja jetzt haben wir eigentlich
+genug Theorie gemacht genug spekuliert
+jetzt wollen wir noch ein paar Punkte
+zur Arbeitsmaschine selber
+durchsprechen es war uns ein großes
+Anliegen hier
+eine gut nachvollziehbare Entspannung
+einstelle zu können das ist glaube ich
+einer der ganz wesentlichen Aspekte in
+dieser Anlage deswegen haben wir gesagt
+wir bauen eine Kolbenmaschine ine und
+sind auch der Überzeugung dass nur die
+kulbenmaschine funktionieren kann in
+diesem Prozess mit einem relativ großen
+Hubraum wir haben 200 kubikzm gewählt
+mit einer niedrigen Hubzahl um Zeit zu
+haben zu steuern Zeit zum beobachten wir
+haben uns auch 150 Umdrehungen pro
+Minute
+festgelegt und der Volumenstrom sollte
+natürlich die Leistung erbringen er
+sollte aber auch händelbar sein deswegen
+haben wir einen gasförmigen Volumenstrom
+von ein Liter pro Sekunde und einen
+flüssigen von einem zehel bis einem
+fünft Liter pro Sekunde
+vorgesehen natürlich muss man dann um
+ordentlich auskoppeln zu können mit
+klassischen Komponente wie Getriebe auf
+eine vernünftige arbeitstdrehzah
+hochsetzen um dann mit einem
+Synchrongenerator die mechanische in
+elektrische Leistung
+auszukoppeln die Arbeitsmaschine selbst
+ist eine sehr gelungene Konstruktion
+unseres begnadeten Künstlers und
+Maschinenbauers und Konstrukteurs er hat
+hier eine symmetrische pleu Anordnung
+gewählt die mechanisch gesehen und auch
+von den Belastungen her große Vorteile
+hat weil die knickkräfte auf die
+Kolbenstange dadurch entfallen das ganze
+macht also eine Bewegung wie ein
+Brustschwimmer die ist immer sehr
+synchron und zur Mitte eben
+von den Kräfteverhältnissen
+synchronisiert s dass das Ganze zurück
+auf die Kolbenmaschine nur ganz wenig
+schräg Kräfte
+knickkräfte
+einbringt hier sindind Sie einige der
+Komponente die hier verbaut sind wir
+hatten
+hier eine gute startspende aus dem
+Bereich der
+Geothermie zusammen mit einigen
+kleinspende war es uns möglich einige
+der kritischen Bauelemente insbesond der
+Hochdruck und hochpräzisionsbauelemente
+zu vergeben wir hatten aber auch nette
+Zulieferer der gesagt die gesagt habe
+bekommt es für ein um also gerade im
+Bereich der Kolbenmaschine war das eine
+sehr gute Kooperation mit externen
+Firmen
+möglich hier sieht man dass die
+Arbeitsmaschine das Kernstück der Anlage
+nach dem ersten
+zusammenbauen ein ganz wesentliches
+Element oder eine ganz wesentliche Frage
+war natürlich auch wie sieht&#39;s aus mit
+der Kondensatpumpe weil irgendwo möchte
+man in tiefen Temperaturen mit hohen
+Drücke
+arbeiten und da hat glücklicherweise die
+Firma spekriplex seit wenigen Jahren
+eine
+wasserhochdruckpumpe umgebaut für CO2
+flüssig und die konnten wir so gut wie
+unverändert verwenden die Eckpunkte der
+Kondensatpumpe sie liegen bei etwa 20
+kubikzm wobei die Hubzahl wesentlich
+größer ist mit 2000 Umdrehung pro Minute
+wird diese Pumpe angefahren und liefert
+etwa 0,6 l pro Sekunde Flüssigkeit das
+heißt unser Bedarf liegt ja bei ein bei
+ein zehel bis ein fünft Liter pro
+Sekunde s dass we s hier eine gute
+Überdimensionierung der Pumpe habe da
+ist noch Reserve drin unser Motor mit
+dem unser Synchronmotor mit dem wir die
+Pumpe antreibe der erlaubt natürlich
+auch eine sehr exakte
+Drehzahleinstellung eine sehr genaue
+Messung der
+Leistungsaufnahme der kann mit bis zu
+3000 Umdrehungen fahren und die
+Leistungsaufnahme nach Herstellerangaben
+zu dieser Pumpe bei den von uns
+gewähltem Differenzdruck 40 bar und dem
+Volumenstrom liegt also tatsächlich bei
+diesen 500 Watt was dann zu beweisen
+wäre wenn Kondensat da
+ist so kommen wir also zu einer
+Leistungsbilanz wir haben eine
+generatorische Leistung von etwa 2 kW
+die Kondensatpumpe zwackt da 500 Watt
+von ab Steuerung und Regelung ist im
+Moment großzügig dimensioniert mit
+standardkomben die man sicherlich noch
+etwas zusammen komprimieren kann und
+verkleinern kann fällt mit 150 Watt zu
+Buche die Magnetventile sind im Moment
+elektrisch vorgesteuert
+druckluftbetriebene Magnetventile haben
+wir auch mal mit 100 Watt angesetzt ist
+sicherlich gut bemessen und um den
+primärseitigen Wärmekreislauf zu
+speeisen wird man noch mit einer Pumpe
+eventuell mit einem Ventilator arbeiten
+müssen so dass war insgesamt im Moment
+auf eine Abgabeleistung von etwa 1,2
+kwatt kommen wollen mit dieser
+Dimensionierung die hier
+vorliegt in meinem Hauptberuf
+beschäftige ich mich ja sehr intensiv
+mit dem Thema
+servversteuerungen frei programmierbare
+Servoregler vom Typ compax bei der Firma
+parer waren für uns natürlich ein
+gefundenes Fressen um hier eine sehr
+transparente Antriebseinheit und
+Steuerungseinheit aufzubauen insbes ere
+ist ja ein ganz wesentlicher Punkt oder
+wesentliches Augenmerk auf die
+Ventilsteuerung zu legen wir wollen ja
+in der
+Kolbenmaschine Gas unter hohem Druck
+kurzzeitig einschieße und dann
+entspannen lassen das heißt hier spielen
+schaltzeite der Ventile eine ganz
+wesentliche
+Rolle und Vorteil dieser Steuerung ist
+dass sie ein elektronisch todzeit
+kompensiertes nuckenschaltwerk bereits
+softwmäßig beinhaltet die Quelle für
+dieses nuckenschaltwerk kann man an
+beliebige Prozessgrößen anbinde wir
+haben dann einen Zyklus definiert
+von 360° das wären im Grunde eine Kolben
+hin und herbewegung und dort können wir
+dann die Positionen die schaltpositionen
+für die Magnetventile an beliebige
+Stellen setzen es sind ja insgesamt vier
+Ventile im Einsatz zwei Einlass und zwei
+Auslassventile und es ist
+weil todzeit kompensiert natürlich auch
+geschwindigkeitskompensiert das heißt
+man hat eine interne elektronische
+Verstellung die abhängt von der
+Geschwindigkeit mit dem der Kolbe sich
+bewegt um immer an der richtigen
+Position das schaltspiel dann auszulösen
+wir wollen natürlich auch
+diese schließpositionen schließ und
+öffnungspositionen oder Schließwinkel in
+dem Entspannungsprozess sehr stark
+variieren können um zu untersuchen wie
+die Auswirkungen aufst dann
+sind hier hat man mal ungefähr eine
+größeordnung der age also ein größerer
+Kühlschrank oder gefirtruhe ca 300 kg
+schwer das ist momentan so unser
+großzügiger Aufbau oben die
+Arbeitsmaschine unten die Kondensatpumpe
+die Steuerung im Hintergrund sitzt der
+primärwärmetauscher hier sitzt die
+Kondensat der Kondensatbehälter
+Reserveflasche und Zubehör Verrohrung
+Druck
+überdruckleitungen das ist alles hier
+zunächst mal schon im System und
+komplett funktionsfähig funktionsfähig
+heißt in dem Sinne der Kreislauf ist
+stiicht die Komponente funktionierere
+aber der verfahrenstechnische Prozess
+muss jetzt untersucht werden wir hatten
+erste
+Testläufe sie sehen
+hier die Kolbenmaschine die schon
+deutlich vereist wir haben auch hier
+jetzt die Ausgangsseite die Rohre die
+stark vereist
+sind wir hatten das
+Problem zunächst ist alles warm das
+heißt das Gas was durch die
+Arbeitsmaschine durchströmt und
+entspannt wird kühlt sie natürlich ab
+aber es erwärmt sich auch sehr schnell
+wieder durch die warmen Rohre durch die
+warme Wandung des
+kondensatgefäßes und insofern mussten
+wir um den Differenzdruck lange zu lang
+längere Zeit aufrecht zualte das CO2
+immer wieder abblasen aber so eine CO2
+Flasche hat natürlich auch nur 10 15 kg
+CO2 drin insofern waren die bisherigen
+laufzeite der Anlage auf etwa eine
+Viertelstunde begrenzt
+da haben wir so 20- 20- 25°
+Außentemperatur an den am kondensatgefäß
+bekommen was innen war wissen wir noch
+nicht so richtig die Sensorik ist noch
+im Aufbau aber so die ersten Zeichen
+dass wir hier auf dem richtigen Weg sind
+die war natürlich da aber aber auch eine
+Reihe von na ja Hinweise wo was sich
+verbessern
+lässt wir hatten festgestellt dass an
+der Arbeitsmaschine eingangseitig
+drusseleffekte stattfinden durch die
+kleinen Einlassventile wir dachten uns
+na ja so ein bisschen CO2 ganz kurz
+eingeschossen da kann man mit einer
+Nennweite von 1 mm arbeiten während wir
+am Ausgang des entspannte Gas natürlich
+mit wesentlich größeren Querschnitte
+abblasen müssen dort haben wir die die
+Nennweite 10 gewählt also im Grunde ein
+hundertfacher Querschnitt und es hat
+sich gezeigt dass eingangsseitig schon
+sehr starke Leistungsverluste da sind
+durch drosseleffekte in den
+Einlassventil die sind mittlerweile
+erneuert durch die großen durch die
+gleiche type wie am Ausgang wir haben
+eben kurz angedeutet den den Kältepol
+dadurch nicht erreicht weil die
+Isolation des der Anlage natürlich noch
+gar nicht vorhanden ist und die ausl die
+Anlaufzeit vor allem nicht ausreichend
+ist also es gibt bei dieser Anlage mit
+Sicherheit einen eine anlauffhase in der
+man noch nicht Energie auskupeln kann
+sondern in dieser Phase muss erstmal die
+Anlage auf ihren arbeitsbetriebs
+Temperatur gebracht
+werde während dieser anlauffphase müssen
+wir im Moment CO2 ablasen wir haben
+keine Alternative dazu um die
+Druckdifferenz lange aufrecht zu halten
+und ein weiteres
+Problem waren die Kraftspitzen die in
+der in der Arbeitsmaschine entstehen
+weil man muss sich mal vorstellen wenn
+man sich die Trigonometrie etwas anguckt
+man hat ja hier
+diesen diesen diesen pleu ich zeichne
+jetzt hier mal nur die eine Hälfte
+dieser Pleul hat totpunkte da kann er
+überhaupt kein Drehmoment an die an das
+rotatorische System übergeben und er hat
+auf der anderen Seite maximalstellungen
+wie z.B hier oder wahrscheinlich bei bei
+60° irgendwo oder bei 70° dort wird
+maximale Kraft an das Rad
+übertragen wenn man das Ganze dann
+noch kombiniert mit einem mit einer
+Ventilsteuerung die uns den Druck im
+System nur kurzzeitig auf maximal lässt
+und dann das Ventil wieder zumcht und
+bei der Bewegung des Kolbens entspannt
+sich das Gas dann haben wir auch noch
+eine Variablen kolbendruck und beide
+Kombinationen also trigonometrisch
+ungleichförmige Kräfte mit kolbendruck
+kombiniert ergeben natürlich dann
+Kraftspitzen oder drehmomentpitzen die
+der Generator abfangen muss wenn er
+keine Schwungmasse hat und da haben wir
+uns einfach verschätzt weil der
+Generator kann die Spitzenkräfte die
+hier entstehen nicht dagegen halalte das
+heißt der wird kurzzeitig einfach
+überfahren und die Drehzahl geht damit
+kurzzeitig schnell hoch die Anlage läuft
+unrund ungleichmäßig und das ist uns
+natürlich wieder unlieb weil wir ja sehr
+kontinuierliche Prozesse haben wollen
+und das ist im Grunde dann auch der
+letzte Status gewesen der
+uns
+für ja der uns genötigt hat zu überlegen
+wie geht&#39;s jetzt weiter wir haben den
+ursprünglichen Effekt den Schmeil hat
+noch nicht zweifelsfrei nachweisen
+können haben aber auf der anderen Seite
+gesehen dass unsere Anlage noch ein
+Stück weit weitergebaut werden muss um
+eben diesen Beweis zu erbringen wir
+haben eigentlich für uns drei
+Projektphasen festgelegt die erste liegt
+hinter uns das ist der Gruppe
+maschinebau die zweite Phase wäre jetzt
+Umbau
+und ja die diesen Effekt
+herauszuarbeiten und den Effekt zu
+beweisen Effekt heißt es findet K ation
+in dem selbsterzeugten keltepol
+statt auf dieser Basis könnten wir dann
+wiederum entscheiden gibt&#39;s eine dritte
+Phase die bei uns im vor rein läuft mit
+niedrigem Budget oder gibt&#39;s eine Phase
+wo man das Ganze an die Öffentlichkeit
+bringt oder macht man eine Kooperation
+mit Industrieunternehmen wir wussten es
+bis dato noch nicht so richtig aber
+haben uns jetzt im Moment für eine Open
+Source Lösung
+entschlossen das heißt größere
+einbauventile sind bereits im Einsatz
+Schwungmasse über Winkelgetriebe
+Schwungmasse ist da das Winkelgetriebe
+ist Angeboten ruckzugsind halt wiederum
+ein paar Tausender für die verschiedenen
+Komponente verbraten CO2 Kompressor ist
+ganz wichtig für den Anlauf der kann
+dann später abgeschaltet bleiben aber er
+muss einem durch die anlauffhase die
+vielleicht 3 vi Stunden dauert
+hindurchhelfen man würde auch gerne
+Schaugläser im System anbringen
+insbesondere dort wo man kontrollieren
+kann ob CO2 in flüssiger Form
+ausgangseitig entsteht Schwimmerschalter
+haben wir schon eingebaut Schaugläser
+wollen wir noch
+reinpacken ja und dann die nächsten
+Schritte Testlauf mit diesen großen
+Einlassventile mit der Schwungmasse und
+mit dem
+Kompressor wir werden dann das ganze
+Projekt ausführlich dokumentieren wobei
+wir uns insbesondere auch auf die
+Bereiche diee Terra inognita intensiver
+stürzen wolle dort zumindest ein paar
+Arbeitspunkte herausmessen wolle wo die
+liegen ob die tatsächlich bei
+diesen 2 D Bar ob die tatsächlich
+erreichbar sind auf Dauer ob wir dort
+mit einem Schneeschieber arbeiten müsste
+oder tatsächlich mit einer
+Kondensatpumpe arbeiten könne ob man
+zwischenurch wie schmeiduch berichtet
+hat dieses diesen Schnee sogar wieder
+aufschmilzen müssen mit externer Wärme
+was durchaus kein Problem W kann die
+kann man jederzeit eintragen das sind
+alles so offene Frage die mit dieser
+Anlage untersucht werden sollen
+natürlich weil wir selber jetzt zwar ein
+Team habe fünfköpfig antriebstechniker
+thermodynamiker Programmierer
+Konstrukteur wir haben viele Talente
+zusammen in dem Team aber wir würde
+gerne noch die Kooperation mit
+Hochschule Mitte zu bringe weil ich
+denke da kann man durchaus mal eine
+Diplomarbeit oder eine Praktikumsarbeit
+anknüpf an diesen Kreislauf und ich bin
+überzeugt dass CO2 in vielen hochschulle
+ein recht interessantes Thema
+darstellt
+ja wir sind zurzeit und auch aus W man
+sag leidvollle Erfahrung in diesem
+Projekt der Überzeugung dass wir nur
+durch eine Open Source Gedanke vorwärts
+kommen dass wir die ganzen Dinge
+veröffentlichen werden das macht uns die
+Geldbeschaffung tatsächlich auch
+schwierig weil ich hatte jetzt neulich
+ein Gespräch mit einem Unternehmen in
+gäebach die üblicherweise solche
+innovativen Projekte fördern auch oder
+die Kontakte zu geldge oder auch zu
+Zuschüssen oder zinsgünstigen Darlehen
+vermitteln die haben gesagt ja auf dem
+Weg können wir euch nicht helfen weil
+ihr könnt es machen mit Kooperation und
+mit Geheimhaltungsvertrag und habt ein
+Patent schon angemeldet wenn dann ja
+aber nur so mit Open Source und mit
+veröffentlichen nee das ist nicht ja und
+deswegen kann ich nur sagen an dem Punkt
+gebt uns nicht zu viel sch wir das
+Problem das Inge vorhin angedeutet hat
+aber gibt uns ein bisschen was dazu und
+dann können wir die Sache weiter
+vielen Dank für Ihre
+Aufmerksamkeit

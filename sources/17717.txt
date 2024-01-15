@@ -1,0 +1,816 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=lfreDn_Co04","mytitle":"WissensWerteWelt,K\u00fcnstliche Intelligenz \u2013 jenseits von \u201eTerminator-Phantasien\uff02 \uff5c Ute Schmid im Gespr\u00e4ch ","mylang":"de"}
+frau schmidt sie sind psychologin
+informatikerin und jetzt auch
+professorin für angewandte informatik
+speziell kognitive systeme der begriff
+der künstlichen intelligenz ist in aller
+munde aber man hat den eindruck dass
+nicht immer ganz klar ist was damit
+eigentlich gemeint ist daher zu beginn
+die frage was ist künstliche intelligenz
+aus ihrer sicht ja ursprünglich wurde
+der begriff ja in den usa geprägt unter
+dem der bezeichnung archiv fischl
+intelligence von john mccarthy und
+kollegen 1956 das waren informatik
+professoren keine frau dabei in der zeit
+die gemeinsam das ziel hatten
+denkprozesse und handlungs prozesse des
+menschen durch computer algorithmen zu
+simulieren und haben dafür einen begriff
+gesucht und da haben sie artificial
+intelligence genommen das wurde ins
+deutsche dann bald darauf als künstliche
+intelligenz übersetzt
+es gibt viele definitionen diejenigen
+die diesen begriff intelligenz
+beinhalten sind meistens ein bisschen
+schwergängig weil der begriff
+intelligenz selber ja etwas schillernd
+ist und zum beispiel der psychologie
+einerseits sehr operational definiert
+wird indem man sagt intelligenz ist was
+der intelligenztest misst also alle
+diese kognitiven grundfertigkeiten wie
+räumliches schließen induktives
+schließen mit zahlen analogien
+sprachverstehen und so weiter wird man
+dann als zentrale bausteine der
+intelligenz auffassen
+es gibt also generell natürlich auch
+weitere begriffe von intelligenz
+heutzutage würde man immer auch
+emotionale intelligenz mit dazurechnen
+es ist denke ich aber meistens leichter
+wenn man definitionen der künstlichen
+intelligenz gibt die das wort
+intelligenz vermeiden
+da gibt es etwa eine von language die so
+ungefähr heißt künstliche intelligenz
+löst probleme die menschen im pop im
+moment noch besser lösen können
+ja das ist die forschung und ich finde
+dass es recht eingängig
+zum beispiel können menschen immer noch
+besser witze verstehen apfelsaftschorle
+mission turm türme bauen aus bauklötzen
+verschiedener größe wo computer doch
+schon wirklich super erfolgreich sind
+sind natürlich spiele
+ach ja bereits seit ende der 90er jahre
+oder auch andere etwas formalisierter
+bereiche wo es um logisches schließen
+etwa geht und dann natürlich die letzten
+jahre ganz aktuell klassifikation von
+inhalten aus bildern
+sie haben es ja beschrieben den begriff
+der künstlichen intelligenz gibt es
+jetzt seit etwa 70 jahren im zwanzigsten
+jahrhundert waren schachspielen de
+computer die den schachweltmeister
+besiegen das non plus ultra
+was waren denn aus ihrer sicht in den
+jahrzehnten die wichtigsten
+technologischen entwicklungen und wo
+stehen wir heute also künstliche
+intelligenz ist jetzt eine disziplin die
+sehr stark geprägt ist von phasen des
+hypes der sehr überzogenen erwartungen
+im moment stecken wir meiner meinung
+nach wieder genau in so einer phase
+gefolgt von sogenannten winter wenn man
+sich das geschichtlich anschaut
+sollten wir vielleicht einiges aktuell
+bedenken dass der winter nicht schneller
+wieder kommt als uns lieb ist
+als die ki losging war der fokus eben
+wirklich darauf allgemeine algorithmen
+oder algorithmen für allgemeines
+menschliches verhalten denken zu
+entwickeln in bereichen wie spielen
+lernen schlussfolgern problem lösen
+planen und das gab sehr schnell
+klich beeindruckende erfolge was dann
+herbert säumen einen andere als ein
+weiterer gründungsvater der ki dazu
+bewogen hat doch recht vollmundige
+versprechungen abzugeben so etwa in zehn
+jahren würde ein ki system den
+menschlichen schachweltmeister besiegen
+das war hat dann doch 30 jahre länger
+gedauert fast als erst vorhergesagt hat
+aber auch dinge wie ein computer wird
+ein musikstück von hohem ästhetischen
+wert komponieren ein computer wird
+theoreme ein mathematisches theorien
+beweisen was noch nicht bewiesen ist und
+so weiter
+diese vollmundigen versprechungen haben
+dann natürlich dazu geführt dass man
+sehr kritisch hinguckt auch viele
+philosophen in der zeit viele erkenntnis
+philosophen das passiert da und dann gab
+es halt relativ schnell dann doch ein
+paar rückfälle als die algorithmen von
+kleinen spielzeug problemen dann doch in
+die echte welt losgelassen wurden so ein
+ganz eklatanter fall war früher
+maschinelle übersetzung englisch nach
+russisch und zurück der geist ist willig
+aber das fleisch ist schwach kam dann
+zurück als der wodka ist gut aber das
+fleisch ist verfault und das war dann
+natürlich eine große lachnummer und kurz
+danach kam auch schon der erste winter
+eingeläutet durch den leiter report etwa
+in england wo eben gesagt wurde das sind
+nur spielereien fürs labor in für echt
+weltprobleme nicht tauglich
+die ki hat sich dann wieder
+hochgerappelt die nächste große phase
+und hoffnung war dann der bereich der
+experten systeme es wurden
+hocheffiziente und sehr ausdrucksstarke
+ansätze zur wissens repräsentation und
+zum automatischen schlussfolgern
+entwickelt die wissenschaftler in der
+zeit sagten sich dann ja wir haben jetzt
+die harte arbeit gemacht wir haben die
+schönen repräsentations formalismen die
+sind mächtig diesen ausdrucksstarke
+jetzt müssen wir ja nur noch knowledge
+engineers finden die uns das wissen der
+menschlichen experten eben
+digitalisieren ja und das war natürlich
+ein großer trugschluss die schwierige
+arbeit waren gar nicht die formalismen
+zu entwickeln sondern es ist praktisch
+unmöglich menschliches expertenwissen in
+seiner fülle in seiner kontext
+abhängigkeit und mit seinen vielen
+impliziten anteilen so zu motivieren
+dass man dann experten systeme für alles
+hat parallel dazu ist in der zeit des
+sogenannten generation projekt
+gescheitert das war vor allem
+deutschland und japan
+die wollten spezielle ki sprachen
+entwickeln und so weiter und dann kam
+der zweite winter danach ging es mal
+wieder mit dem bereich maschinelles
+lernen er los das gab es früher auch
+schon mal das wurde 90er jahren ging es
+dann wieder los
+auch neuronale netze aber auch andere
+verfahren
+wir haben vorher schon gehört es gab das
+erste mal ein gewinn eines computers die
+blue damals gegen kasparow
+aber so ein richtiger hype es kam keine
+wirkliche erholung mehr man spricht von
+dem winter ohne ende oder dakar unter
+anderem namen
+ich selber habe noch an einem lehrstuhl
+für methoden der künstlichen intelligenz
+an der tu berlin habilitiert aber ab so
+etwa 2000 wurde in deutschland und ich
+vermute auch in österreich und anderen
+europäischen ländern kein lehrstuhl mehr
+unter der bezeichnung besetzt zum
+beispiel heißt meine professor ja
+kognitive systeme
+das war eine beliebte bezeichnung so ab
+2000 oder alternativ auch intelligentes
+systeme und ich muss wirklich zu geben
+hätten sie mich vor vier jahren gefragt
+ob der begriff künstliche intelligenz
+jemals wieder verwendet werden kann um
+etwa drittmittel zu kriegen hätte ich
+gesagt nie
+der begriff ist verbrannt wo stehen wir
+in dieser gesamtentwicklung im moment
+und was steht uns aus ihrer sicht
+technisch bevor also da müsste ich jetzt
+natürlich weiter erzählen da
+der winter ohne ende dann doch wieder zu
+ende ging verdanken wir vor allem dem
+sogenannten big bang auf die planung der
+es so etwa auf 2015 festgesetzt wird
+es gab sehr große erfolge in der zeit
+und erstaunlicherweise erstmals nicht
+mehr von universitäten sondern von
+firmen von den großen playern in der ki
+in diesem fall war es erstmal google im
+bereich bild klassifikation das heißt
+das ein ansatz von google hat bei einem
+schon über jahre laufenden wettbewerb
+zur bild klassifikation einfach sehr
+beeindruckende leistungen gezeigt so
+dass sich ganz viele leute dann auf das
+thema die burning gestürzt haben diese
+idee des tiefen lernens mache neuronale
+netze mit viel viel mehr schichten auch
+mit anderen architektonischen
+besonderheiten als es früher der fall
+war
+hat da dann auch in andere bereiche
+einzug gehalten etwa go kam dann das
+tatsächlich ich glaube 2017 war es das
+erste mal der menschliche meister ingo
+von einem computer besiegt wurde das war
+dann google die blind und auch im
+bereich maschinelle übersetzung ja die
+pal eine deutsche firma kann man hier
+sagen es ist nicht alles nur auf aus usa
+was erfolg hat ist ja eine der besten
+anwendungen zur zeit für automatisches
+übersetzen
+das wären so die bereiche die alle mit
+maschinen zu tun haben und alle mit
+diesen tiefen netzen die zu diesen
+aktuellen hype geführt haben
+haben sie den eindruck dass auch die
+folgen dieser entwicklung ausreichend
+bedacht werden
+auch das mögliche missbrauchspotenzial
+dominiert nicht einfach vielleicht das
+prinzip wir machen das weil wir es
+machen können also
+glücklicherweise gibt es durchaus
+kritische stimmen
+es gibt auch in deutschland auch auf
+europäischer ebene entsprechende
+kommissionen etwa auch der ethikrat in
+deutschland die sich durchaus mit themen
+folgen folgeabschätzung von künstlichen
+intelligenz beschäftigen ich glaube aber
+dass da tatsächlich relativ viel noch
+einer grauzone ist wo man wirklich viele
+dinge klären müsste und und es sich klar
+machen müsste wo die gefahren liegen
+erstaunlicherweise ist es so dass der
+bürger die bürgerin die wenig jetzt
+hintergrund im bereich künstliche
+intelligenz haben am meisten angst haben
+vor einer super human intelligence
+terminator artig die dann die macht
+übernimmt entscheidet vielleicht die
+menschheit ausrottet und so weiter wenn
+sie sich mal youtube auf youtube etwa
+filme angucken was aktuelle roboter
+seriös können ist das sicher ein weiter
+weg da würde ich sagen es sind andere
+ängste viel begründete und waren
+vielleicht zu wenig diskutiert
+beispielsweise wird relativ naiv
+vor allem der bereich end to end
+learning angegangen das heißt man
+sammelt ganz viele daten zum beispiel
+bilddaten oder auch im bereich internet
+of things verschiedenes sensordaten
+navigationsdaten und so weiter hat also
+riesige datenmengen die man ohne
+vorverarbeitung was man früher machen
+musste bei maschinen learning musste man
+sich vorher überlegen welche merkmale
+sind wichtig und ähnliches ohne
+vorverarbeitung in 1 1 die learnings
+system gibt und dann lernt man einen
+sogenannten class i fire und der kann
+dann für ungesehene daten entscheidungen
+treffen
+problem dabei ist dass
+wir nicht wissen ob die daten die wir
+hatten zum lernen repräsentativ sind für
+das was in der welt der fall sein kann
+ja das heißt wenn wir dann in einer
+nische gelernt haben kommen so phänomene
+zustande wie over fitting dass sich eben
+nur von einem bestimmten bereich die
+dinge erkennen und dann eben für andere
+nicht und es kann dann in der anwendung
+zu großen spektakulären scheitern für ja
+spektakulären scheitern führen
+ein anderes problem ist dass bei dem
+lernen aus daten ich ja nicht nur die
+daten selber habt sondern ihr habt für
+das training die klassifikation mit dazu
+geben muss da redet man sehr gang von
+sogenannter ground truth stellen sie
+sich vor sie haben ein bild da ist eine
+katze drauf und dann wäre die ground
+tust dafür katze ja das mag ja gehen ich
+glaube da haben wir jetzt kein problem
+was ist aber wenn sie personalakten
+haben und sie labeln das durch menschen
+mit guter mitarbeiter für die firma
+schlechter mitarbeiter für die firma das
+ist nicht wirklich eine grand crus auf
+der ich ein classic feier lernen kann
+das ist ja nicht validiert ja das ist
+die meinung vielleicht eines personalers
+in einer firma der jetzt sagt das wird
+ein guter mitarbeiter nach meiner
+einschätzung hier müsste man viel mehr
+zeit und damit auch geld investieren um
+zum beispiel erst mal zu definieren
+wie definieren wir in diesem unternehmen
+was ein guter mitarbeiter ist was sind
+die kriterien nach wie viel jahren
+können wir das überhaupt feststellen und
+so weiter und dann ist die sache halt
+nicht mehr so einfach das heißt dieses
+versprechen des end to end learnings
+hirn aus datenreihen wenn es nicht
+klappen im noch mehr daten wird nicht
+tragen gibt es in irgendeinem bereich
+der chaos ihrer sicht ein besonderes
+gefahrenpotenzial
+ja ich denke dass es tatsächlich gerade
+in den bereichen problematisch ist wo es
+darum geht menschen zu klassifizieren
+sei es
+eine einstellung was ich gerade als
+beispiel genannt habe sei es bezüglich
+gefahrenpotenzial ist jemand ein
+terrorist oder nicht sei es bezüglich
+sender bei es vielleicht einen anderen
+weiteren kontexten nicht vielleicht
+nicht mehr nur bei einstellungen also
+ich glaube überall der versicherungen
+wäre ein weiterer fall überall da wo wir
+menschen klassifizieren aufgrund von
+gepressten classy feiern weil wir weder
+garantiert haben dass das sample was wir
+hatten repräsentativ ist noch wer wir
+garantieren können dass die vor
+klassifikation mit der wir lange gültig
+ist dann haben ein großes problem
+traditionell wird ja zwischen schwacher
+und starker ki unterschieden letztere
+ist ein liebkind von science fiction
+autoren im buchbereich und filmbereich
+man spricht wie selbstverständlich von
+maschinen die ein eigenes bewusstsein
+entwickeln man spricht davon dass
+menschliches bewusstsein auf maschinen
+übertragbar ist es scheint sich ein weg
+zur unsterblichkeit zu eröffnen wo
+liegen aus ihrer sicht die grenzen des
+machbaren gibt es irgendeinen bereich wo
+sie sagen das wird ganz sicher nie
+geschehen
+man soll nie nie und nimmer sagen es
+gibt ja einige wissenschaftler die davon
+ausgehen dass sich das menschliche
+bewusstsein entwickelt hat auch ab einer
+gewissen komplexität unserer neurath
+neuronalen verschaltungen unseres
+großhirns das heißt manche forscher
+leiten daraus ab wenn ich diese
+neuronalen netze nur groß genug machen
+wird bewusstsein als zeiten effekt am
+agieren
+ich persönlich glaube das nicht aber das
+ist eine persönliche meinung ich denke
+das kann man weder positiv noch negativ
+belegen
+das ist in beiden fällen spekulation ich
+glaube das ja zum bewusstsein jedenfalls
+aus meiner sicht vor allem der bereich
+intentional i tät gehört also sozusagen
+willen haft etwas zu tun zu wissen was
+man will und das zu verfolgen und ich
+glaube da fallen wir menschen häufig
+einfach auf bestimmte phänomene rein ich
+glaube dass das evolutionär so gemacht
+ist dass wir darauf reinfallen damit wir
+überhaupt soziale wesen sind und
+interagieren können mit anderen menschen
+nicht machen beispiel was wir haben erst
+mal zu uns selber zu gewissen teilen
+introspektive zugang zu unserem mentalen
+zustand wir haben ein ich bewusst sein
+wir haben in zugriff auf unser aktuelles
+wollen und so weiter wir vermuten dass
+es anderen menschen ähnlich geht wir
+sehen aber andere menschen nur von außen
+das heißt was wir machen wir schreiben
+anderen menschen intentional i tät zu
+wir wissen es nicht
+das machen wir gerne auch bei unseren
+haustieren vielleicht sogar bei uns am
+auto bei uns am computer und natürlich
+sind wir noch viel mehr versucht einem
+roboter und wenn er dann auch noch
+humanoide es aussehen hat besonders
+intentional ead zuzuschreiben
+wenn sie aber schauen was heutzutage ki
+system ist seien sie auf einem rechner
+oder im roboter wirklich können dann ist
+das immer schwache ki
+das sind immer systeme die eine
+einzelleistung hoch perfekt beherrschen
+und wenn man dann so schnell von super
+jungen intelligence spricht könnte man
+sagen der taschenrechner ist auch super
+jungen intelligent weil der kann auf
+jeden fall mit großen zahlen besser
+komplexe rechenoperationen durchführen
+als dass wir menschen können
+das würde aber niemand sagen warum sagen
+wir es dann einen
+bildverarbeitungssystem das kissen
+erkennen kann
+aber es sonst gar nichts ja also es kann
+erkennen aber das kann nicht spielen ja
+das sind immer insel begabungen
+sozusagen die ich dann natürlich auch
+super junge auf ein super jungen level
+an performance kriege aber dieses system
+ist sind zombies wenn man so will
+die haben kein bewusstsein was sie tun
+ja die freuen sich wenn sie ingo
+gewinnen ja und so weiter ich möchte
+jetzt auf ein paar aspekte der
+vergleichbarkeit zwischen der biologie
+des menschen oder den menschen überhaupt
+und künstlicher intelligenz zu sprechen
+kommen
+die lernfähigkeit ist ja ein sehr
+wichtiges thema auch für karry systeme
+der mensch auf der anderen seite lernt
+wie die gehirnforschung zeigt dann am
+leichtesten wenn er von einer sache
+begeistert ist
+begeisterung ist für maschinen aber wohl
+kein relevantes kriterium gibt es aus
+ihrer sicht überhaupt parallelen im
+lernvermögen zwischen mensch und
+maschine
+also man muss denke ich unterscheiden ob
+man von funktionaler äquivalenz spricht
+oder von struktureller äquivalenz wenn
+ich erstmal nur die performance
+anschauen und sagen na gut
+hier habe ich ein programm das kann sehr
+gut verschiedene objekte sei es tiere
+oder möbel erkennen auf bildern so wie
+es menschen auch können dann würde man
+sagen funktional ist das äquivalent
+strukturell ist es vermutlich wenn ich
+so ein conversion network nehme nur
+bedingt äquivalent das stecken schon ein
+paar dinge drin wo man sagen würde
+jahren bis zu allen cortex gibt es
+ähnliche arten beispielsweise von
+filtern wie es in den conversions zu
+finden wäre weil es zu spezifischen
+netzen aber es ist doch eher eine etwas
+größere ähnlichkeit wenn ich mir
+anschaue die flexibilität und vielfalt
+des menschlichen lernen sie haben
+genannt die motivation die intrinsische
+motivation etwas lernen zu wollen es
+natürlich die schönste es geht auch
+extrinsische es wird bei den prüfungen
+geben du musst lernen das kennen wir
+alle aus der schule dann sehen wir viele
+arten das
+wenn sie sich das menschliche konzept
+lernen angucken was ja bei kleinkindern
+stattfindet in höchst in großem maße
+natürlich lernen wir über unser ganzes
+leben immer neue konzept der ja primzahl
+oder zylinderkopfdichtung wird jetzt
+nicht ein zweijähriges kind lernen aber
+wenn es diesen kind beobachten und sehen
+wie ein kind etwa in dem bilderbuch
+eine katze sieht dann sieht es eine
+trickfilm katze dann zieht es vielleicht
+ein foto von rapsöl gemälde von ra katze
+und dann zieht es zum ersten mal eine
+wirkliche katze die vielleicht auch eine
+andere fellfarbe hat und das kind sagt
+katz ja das ist hochgradig beeindruckend
+wie wir menschen es schaffen sozusagen
+die relevante informationen aus einer
+ganz großen variabilität zu ziehen
+besonders beeindruckend finde ich dass
+beim erwerb der muttersprache wenn sie
+sich angucken wie grammatik erworben
+wird die meisten menschen wenn wir die
+fragen würden was ist jetzt hier keine
+ahnung verbal phrase oder wo ist das
+adverb würden sie sagen
+keine ahnung ich habe keine ahnung von
+grammatik was die menschen aber
+natürlich alle in ihrer muttersprache
+machen sie können grammatisch korrektes
+sätze sprechen auch wenn es manchmal in
+der performance daneben geht aber sie
+können das im prinzip als kompetenz und
+sie können sie auch erkennen sie
+erkennen wenn jemand einen fehler macht
+und das lernen kinder aus einer völlig
+verrauschten sprachlichen umgebung wo
+verschiedene sprecher auch nicht immer
+korrekt setzte äußern und sie
+extrahieren relativ schnell komplexe
+grammatiken etwa auch auf wm ebene heißt
+es glaube ich wenn ich etwa
+vergangenheitsform bildung bei werben
+angucke dann sehen sie auch dass die
+kinder am anfang über generalisieren
+etwa gegangen sagen und die ausnahme
+erst später lernen was finde ich ein
+ganz schöner beleg dafür ist dass unser
+mentale apparat eine generalisierung
+maschine ist eine erkennung von regula
+riten in wirklich einer hochkomplexen
+verrauschten welt um aus der zu
+verallgemeinern also hoch beeindrucken
+kann man diese erkenntnisse technisch ab
+blieben zu teilen würde ich sagen ja man
+muss in der künstlichen intelligenz und
+so auch in der sub disziplin
+maschinelles lernen denke ich immer
+unterscheiden aus welchen mit welchem
+ziel vorstellungen man seine forschung
+betreibt man kann einerseits rein
+ingenieurwissenschaftlich ran gehen und
+sagen ich möchte ein hochperformantes
+effizientes system bauen
+das ist sehr spannend sehr
+herausfordernd man kann aber auch sagen
+ich baue solches system weil ich mehr
+über menschliche kognition erfahren will
+und weil ich sozusagen kognitive modelle
+bauen will oder kognitive systeme und
+dann gehe ich natürlich hin und sage was
+sich hier bei menschlichen lernen wie
+kann jemand aus so wenigen beispielen
+regeln extrahieren und dann kann ich
+entsprechende lang algorithmen
+entwickeln und gucken ob dieses auch
+können so etwas mache ich beispielsweise
+in meiner gruppe im bereich induktive
+programmierung speziell im bereich
+induktive logische programmierung
+gelingt es uns aus 45 beispielen regula
+riten als wirklich komplexe regula riten
+im sinne seiner grammatiken etwa zu
+lernen
+ein anderes thema um parallelen zu
+ziehen zwischen menschen und maschine
+ist gedächtnisspeicher datenspeicher der
+datenspeicher in computern ist eine
+relativ einfache technisch gut
+überschaubare angelegenheit das
+gedächtnis des menschen dagegen ist
+überhaupt nicht überschaubar es konnte
+ja nie ein gedächtnis bereich im gehirn
+lokalisiert werden
+auch das abrufen von gedächtnisinhalten
+aus der erinnerung scheint nach ganz
+anderen prinzipien zu funktionieren als
+das maschinelle
+auslesen eines datenspeichers wiederum
+also die frage gibt es in diesem bereich
+überhaupt parallelen zwischen mensch und
+maschine im bereich der kognitiven
+systeme auf jeden fall ich fange aber
+mal mit der technischen seite an da
+brauche ich erstmal gar keine künstliche
+intelligenz sondern die effiziente
+speicherung von großen datenmengen folgt
+über datenbanktechnologie ja klar
+und das ist sicher ganz anders angelegt
+als menschliches gedächtnis funktioniert
+wenn ich dann gucken wie es menschliches
+gedächtnis wie sieht es die kognitive
+psychologie organisiert dann
+unterscheide ich ja einmal zwischen
+dekorativen gedächtnis und prozedurale
+oder nicht dekorativen gedächtnis und
+dem dekorativen gedächtnis da hätten wir
+jetzt faktenwissen paris ist die
+hauptstadt von frankreich zweimal 36
+ähnliche dinge die sind eben wiederum
+explizit gespeichert symbolisch die kann
+ich etwa über hier über semantische
+netze modellieren und dann mit aktiver
+zions ausbreitung mechanismen etwa kann
+ich betriebes simulieren was ähnlich
+funktioniert wie beim menschen
+es gibt dann natürlich den bereich
+ebenfalls dekorativ unser episodische
+gedächtnis also unsere eigenen
+erinnerungen die er beispielsweise auch
+durch gerüche aktiviert werden da weiß
+man schon ein bisschen was aber ich
+glaube da ist auch noch viel offen
+auf jeden fall weiß man dass dass dieser
+teil des gedächtnisses wohl als
+zeitstrahl organisiert ist und da wüsste
+ich jetzt nicht das ki system das im
+moment explizit an irgendeiner stelle
+nutzen würden es sei denn sie sind
+dezidiert kognitive modelle dann gibt es
+natürlich den großen bereich des nicht
+deklarieren wissens und das ist
+implizites wissen und das ist das wo man
+probieren kann über machine learning
+indirekt ranzukommen so haben wir alle
+für objekterkennung viel implizites
+wissen wenn ich ihnen genau beschreiben
+soll was ein bestimmtes tier
+etwa ausmacht da vergesse ich sicher
+dinge das krieg ich explizit nicht hin
+wenn es mir nicht um die merkmale des
+hundes geht dekorativ sind wirklich um
+die erkennung auf einem bild ja und da
+setzt eben dann machine learning an weil
+ich dann sagen kann gibt doch dem
+experten einfach immer bilder und der
+sagt eben entweder hund oder katze und
+dann lernen wir selber die
+klassifikations entscheidung ohne dass
+sie uns der mensch explizit formulieren
+muss und da gibt es eben viele bereiche
+das kennen wir auch im ganzen bereich
+fertigkeiten ist es schwierig jemand zu
+erklären wie man fahrrad fährt etwa naja
+das ist auch ein implizites wissen
+ich möchte noch mal den aktuellen ki
+hype ansprechen es werden auch jetzt
+wieder prognosen veröffentlicht ich habe
+etwas gefunden aus der yale und oxford
+university
+demnach wird künstliche intelligenz
+schon 2024 fremdsprachen besser
+übersetzen als ein mensch 2027 werden
+lkw gesteuert werden 2049 wird
+künstliche intelligenz in der lage sein
+bestseller zu verfassen
+2052 wird ein chirurg durch k ersetzbar
+sein und für den bereich in etwa 100
+jahren wird angekündigt dass praktisch
+alle berufe durch künstliche intelligenz
+ersetzt werden können
+solche prognosen setzen doch entweder
+voraus dass intelligenz ohne das
+phänomen des bewusstseins definiert wird
+oder dass man eben bewusstsein nur als
+nebenprodukt körperlicher vorgänger
+versteht was aber durchaus umstritten
+ist
+beinhalten solche prognosen eigentlich
+nicht sehr große unsicherheitsfaktoren
+ich glaube dass man für all diese
+tätigkeiten nicht unbedingt bewusst sein
+braucht also nehme jetzt mal den
+chirurgen ich glaube das problem bei der
+chirurgie wohne ich bin da jetzt
+wirklich lang also die chirurgen
+wir verzeihen ist sozusagen der
+standardfall hoch präzise schnitte zu
+machen und eingriffe möglicherweise auf
+sehr kleinen flächen und so weiter mit
+sehr feinen instrumenten
+das glaube ich kriegte präzisions
+roboter hin
+das problem dass ein roboter wirklich in
+chirurgische eingriff selber macht ist
+da wo der mensch so wunderbar
+kontextabhängig funktioniert wenn jetzt
+halt der blinddarm ein bisschen anders
+liegt als normalerweise
+wenn jetzt irgendwo auf einmal eine
+starke blutung entsteht und so weiter
+haben menschen erfahrene chirurgen
+natürlich und nicht unerfahrene alle
+möglichen strategien um blitzschnell
+implizit zu reagieren und ich glaube
+wenn man sagen will ich möchte da in
+dieser ganzen flexibilität von dingen
+die vorkommen können so gut werden wie
+ein experten als menschlicher experte
+braucht man kein bewusstsein aber man
+braucht ja noch sehr sehr viel mehr an
+die technologie er jetzt im ingenieurs
+sinne und auch an maschinenbau robotik
+technologie als das im moment noch haben
+auch die anderen bereiche würde ich
+denken die funktionieren immer auch ohne
+bewusstsein
+die frage ist in was für einer welt wir
+dann leben wenn tatsächlich berufe ist
+komplett durch kaka ersetzt werden
+ich mache das immer gerne am beispiel
+der pflege klar natürlich wir haben
+pflegenotstand und es gibt viele
+tätigkeiten die sehr anstrengend sind
+schwere menschen heben ähnliche dinge
+es gibt auch dinge die die den alten
+menschen vielleicht unangenehm sind
+immer wieder sagen vor allem frauen das
+gerade für körperhygiene sie einen
+roboter bevorzugen würden gegenüber
+einem männlichen pfleger etwa ja aber
+wenn ich tatsächlich so weit entwickeln
+kann
+in den nächsten zehn jahren oder darüber
+hinaus dass solche pflegetätigkeiten von
+robotern über
+werden darf das nie nie nie die
+konsequenz haben dass wir pflegekräfte
+unnötig machen
+meiner meinung nach wäre dann mehr zeit
+für menschlichkeit ja dass eben der
+menschliche pfleger pflegerin vorliest
+zuhört die hand hält auch füttern
+natürlich kann den roboter füttern
+das ist denke ich schon machbar
+würde man aber nicht wollen also ich
+glaube wir müssen uns vielmehr überlegen
+welche bereiche wollen wir nicht durch
+kers setzen und was ist der wert des
+einzelnen menschen wenn arbeit zunehmend
+von robotern oder ki übernommen wird
+ich glaube dann braucht man ganz andere
+gesellschaftsmodelle ganz anderes
+steuermodelle ganz andere wertigkeit
+modelle
+ich weiß nicht ob sie den volley von
+pixar kennen wo es drauf raus läuft das
+körperlich völlig und tüchtige menschen
+sich nur noch von robotern bedienen
+lassen und von denen am leben erhalten
+werden
+wir würden ja auch verdummen wir würden
+an wert verlieren wir würden verdummen
+und ich glaube diese punkte sind mir
+jedenfalls viel wichtiger und die
+scheinen mir viel gefährlicher als das
+ein bewusstsein entsteht und vielleicht
+ein terminator am ende rauskommt ich
+weiß eine schwierige frage aber wie
+würden sie persönlich bewusstsein
+definieren dass es überhaupt nicht mein
+bereich ich würde tatsächlich sagen
+internationalität ist ein ganz großer
+teil
+es ist das wissen also so eine art meta
+kognition das wissen dass hier ich ein
+ich als person ist mit wünschen und mit
+kognitiven und emotionalen
+prozessen also selbstreflektion
+internationalität was wäre ihr fazit wie
+sehen sie die künstliche intelligenz in
+der näheren und ferneren zukunft als
+große gefahr oder als segen
+ja ich glaube dass wir sehr stark darauf
+achten müssen dass wir nicht zu sehr in
+den fokus nehmen autonome systeme zu
+entwickeln wo ki tatsächlich den
+menschen ersetzen soll
+viel wichtiger scheint es mir zum wohle
+der menschheit als wohltätige ki zu
+nutzen so dass ki und mensch
+partnerschaftlich sich unterstützen
+können das k etwa da hilft wo arbeiten
+wirklich sehr monoton sehr gefährlich
+sind
+das ki hilft die zunehmende komplexität
+etwa im bereich katastrophen management
+finanzwesen medizinische diagnose
+vielleicht auch in teilen in bildung den
+menschen zu unterstützen aber eher im
+sinne eines partners so dass der mensch
+immer in der luft gehalten wird statt
+ich würde sogar so weit gehen dass in
+bereichen wo die ki autonom dinge tun
+könnte man den menschen trotzdem weiter
+in der luft lässt und die ki dann
+vielleicht als trainer mit nutzen zum
+beispiel ein junger arzt würde dann
+vielleicht eine fehldiagnose treffen wo
+des ki system vielleicht tatsächlich um
+eine bessere entscheidung treffen würde
+dann müsste das qs system das den
+menschen mitteilen können und sehr
+wichtig erklären können
+denn kein mensch also gerade in der
+medizin und in vielen anderen bereichen
+wo es wirklich zentral kritisch ist zum
+wohle der menschen hier sichere
+entscheidungen zu treffen können wir
+nicht bei black boxen bleiben wir
+brauchen transparentes systeme die ihre
+entscheidungen begründen können also
+eine partnerschaftliche zusammenarbeit
+frau professor schmidt herzlichen dank
+für die einblicke in ihre interessante
+arbeit vielen herzlichen dank für das
+gespräch

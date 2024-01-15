@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.975" end="00:00:07.500" style="s2">Willkommen zu diesem Video. Dieses Mal geht es <br />wieder um 3 außergewöhnliche Nahtoderfahrungen,  </p>
+<p begin="00:00:07.500" end="00:00:11.970" style="s2">bei denen die betreffenden Menschen irdische <br />Dinge wahrgenommen haben, die sie mit höchster  </p>
+<p begin="00:00:11.970" end="00:00:18.150" style="s2">Wahrscheinlichkeit nicht mit ihren körperlichen <br />Sinnen wahr. Damit erbringen diese Arten von  </p>
+<p begin="00:00:18.150" end="00:00:23.130" style="s2">Erfahrungen stärkere Belege dafür, dass sich <br />der Mensch bei seinem Tod vom Körper ablöst  </p>
+<p begin="00:00:23.130" end="00:00:28.560" style="s2">und weiter existiert, auch wenn der endgültige <br />Tod noch nicht eingetreten war. Zu diesem Aspekt  </p>
+<p begin="00:00:28.560" end="00:00:33.570" style="s2">werden nach der Schilderung des ersten Falles <br />ein paar neurologische Hintergründe und gewisse  </p>
+<p begin="00:00:33.570" end="00:00:41.310" style="s2">Behauptungen sogenannter Skeptiker erläutert.<br />Der erste Fall stammt aus Seattle, einer  </p>
+<p begin="00:00:41.310" end="00:00:48.570" style="s2">Metropole im Bundesstaat Washington, an der <br />Westküste der USA. Er passierte im Jahr 1977,  </p>
+<p begin="00:00:48.570" end="00:00:53.700" style="s2">in einem der großen medizinischen Zentren <br />dieser Region, im Harborview Medical Center,  </p>
+<p begin="00:00:53.700" end="00:00:59.610" style="s2">zu dem auch ein Traumazentrum gehört. Bezeugt <br />wurde der Fall hauptsächlich von Kimberly Clark  </p>
+<p begin="00:00:59.610" end="00:01:05.880" style="s2">Sharp, die damals als Sozialarbeiterin in diesem <br />Krankenhaus tätig war. Sie war unter anderem für  </p>
+<p begin="00:01:05.880" end="00:01:11.640" style="s2">Patienten mit Traumata und lebensbedrohlichen <br />Verletzungen zuständig. Eines Nachts wurde  </p>
+<p begin="00:01:11.640" end="00:01:17.910" style="s2">eine Patientin Namens Maria bewusstlos ins <br />Traumazentrum eingeliefert. 3 Tage später hatte  </p>
+<p begin="00:01:17.910" end="00:01:25.140" style="s2">sie einen Herzstillstand. Kimberly beobachtete <br />die Reanimation, die erfolgreich war. Maria  </p>
+<p begin="00:01:25.140" end="00:01:30.060" style="s2">blieb vorerst noch bewusstlos, kam aber dann <br />kurze Zeit später am selben Tag zu Bewusstsein. </p>
+<p begin="00:01:30.060" end="00:01:35.430" style="s2">Sie war dann aufgeregt und wollte dringend <br />etwas mitteilen, daher wurde Kimberly sofort  </p>
+<p begin="00:01:35.430" end="00:01:41.190" style="s2">wieder zu ihr gerufen. Maria konnte zwar wenig <br />Englisch, weil sie erst einige Zeit vorher in die  </p>
+<p begin="00:01:41.190" end="00:01:46.620" style="s2">USA einwanderte, konnte aber Kimberly schließlich <br />klarmachen, sie sei während ihres Herzstillstandes  </p>
+<p begin="00:01:46.620" end="00:01:52.980" style="s2">außerhalb ihres Körpers gewesen. Sie behauptete, <br />sie sah ihre eigene Reanimation zuerst aus der  </p>
+<p begin="00:01:52.980" end="00:01:59.430" style="s2">Höhe der Zimmerdecke. Sie beschrieb völlig korrekt <br />alle Details, welche Personen anwesend waren,  </p>
+<p begin="00:01:59.430" end="00:02:06.690" style="s2">wer was gemacht und gesagt hat, und welche Geräte <br />zum Einsatz kamen. Nachdem Kimberly selbst bei der  </p>
+<p begin="00:02:06.690" end="00:02:13.210" style="s2">Reanimation anwesend war, wusste sie, dass Marias <br />Schilderungen korrekt waren. Dann meinte Maria  </p>
+<p begin="00:02:13.210" end="00:02:18.940" style="s2">weiter, sie sei außerhalb des Krankenhausgebäudes <br />geschwebt. Tatsächlich konnte sie detailliert das  </p>
+<p begin="00:02:18.940" end="00:02:24.430" style="s2">Außenareal beschreiben, obwohl sie dieses zuvor <br />nicht sehen konnte, denn sie wurde zum ersten Mal  </p>
+<p begin="00:02:24.430" end="00:02:31.750" style="s2">und bewusstlos in dieses Krankenhaus eingeliefert, <br />außerdem war sie die ganze Zeit bettlägerig. Sie  </p>
+<p begin="00:02:31.750" end="00:02:37.000" style="s2">war auch sonst vorher noch nie in der Nähe dieses <br />Krankenhauses. Schließlich beschrieb sie einen  </p>
+<p begin="00:02:37.000" end="00:02:42.250" style="s2">blauen Nike-Sportschuh mit weißen Schnürbändern, <br />den sie außen, bei einem anderen Teil des  </p>
+<p begin="00:02:42.250" end="00:02:47.800" style="s2">Gebäudes, wo sie körperlich niemals anwesend <br />war, auf dem Gesims bei einem Fenster, in der  </p>
+<p begin="00:02:47.800" end="00:02:53.020" style="s2">Höhe des dritten Stockes gesehen haben will.<br />Maria wollte dann, dass Kimberly diesen  </p>
+<p begin="00:02:53.020" end="00:02:56.200" style="s2">Schuh sucht, nicht weil sie ihn <br />selbst als Beweis gebraucht hätte,  </p>
+<p begin="00:02:56.200" end="00:03:01.510" style="s2">sondern als Beweis für Kimberly und die anderen. <br />Kimberly konnte sich zwar nicht vorstellen,  </p>
+<p begin="00:03:01.510" end="00:03:06.460" style="s2">dass die Geschichte mit dem Schuh real sei, <br />aber sie machte sich auf die Suche, um die Sache  </p>
+<p begin="00:03:06.460" end="00:03:12.430" style="s2">restlos zu klären. Es schien ihr am einfachsten, <br />nach draußen zu gehen und vom Boden aus nach dem  </p>
+<p begin="00:03:12.430" end="00:03:18.130" style="s2">Schuh zu suchen. Von außen war jedoch kein Schuh <br />zu sehen, also versuchte sie es von innen, wo  </p>
+<p begin="00:03:18.130" end="00:03:23.560" style="s2">sie den Schuh schließlich fand. Er war aber unter <br />normalen Umständen auch von innen kaum zu sehen,  </p>
+<p begin="00:03:23.560" end="00:03:30.010" style="s2">weil das Gesims etwas niedriger lag als die untere <br />Seite des Fensters. Kimberly musste sich direkt  </p>
+<p begin="00:03:30.010" end="00:03:34.450" style="s2">am Fenster fest nach oben strecken, damit sie <br />den Schuh schließlich unten am Sims erblicken  </p>
+<p begin="00:03:34.450" end="00:03:40.240" style="s2">konnte. Wäre dieser Schuh leicht sichtbar gewesen, <br />dann hätte ihn das Personal schon längst bemerken  </p>
+<p begin="00:03:40.240" end="00:03:46.690" style="s2">müssen und dann wäre er sicher entfernt worden. <br />Für bettlägerige Patienten wie Maria war der  </p>
+<p begin="00:03:46.690" end="00:03:52.270" style="s2">Schuh rein körperlich auf keinen Fall sichtbar.<br />Abgesehen davon, dass dieser Schuh auch von innen  </p>
+<p begin="00:03:52.270" end="00:03:56.500" style="s2">her kaum sichtbar war, befand sich Marias <br />Körper sowieso niemals in diesem Teil des  </p>
+<p begin="00:03:56.500" end="00:04:01.510" style="s2">Gebäudes. Sie war wo anders stationiert <br />und wurde auch wo anders reanimiert,  </p>
+<p begin="00:04:01.510" end="00:04:07.180" style="s2">und zwar im zweiten Stock im nördlichen Teil. <br />Der Schuh war hingegen in einem weiter entfernten  </p>
+<p begin="00:04:07.180" end="00:04:11.890" style="s2">Teil des Gebäudes auf der Westseite, und <br />er lag auf der Höhe des 3. Stockwerks. </p>
+<p begin="00:04:11.890" end="00:04:17.880" style="s2">Maria lebte auch nicht in Seattle. Dieses <br />Traumazentrum war damals eines der größten  </p>
+<p begin="00:04:17.880" end="00:04:22.800" style="s2">in den USA und Patienten wurden oft aus <br />umliegenden Bundesstaaten eingeliefert.  </p>
+<p begin="00:04:22.800" end="00:04:28.710" style="s2">Es ist extrem unwahrscheinlich, dass sie diesen <br />Schuh jemals zuvor mit ihren körperlichen Augen  </p>
+<p begin="00:04:28.710" end="00:04:34.290" style="s2">sah oder dass ihr jemand davon erzählte. <br />Wer würde einer schwerverletzten Patientin,  </p>
+<p begin="00:04:34.290" end="00:04:38.370" style="s2">die um ihr Leben kämpft, ausgerechnet <br />von einem blauen Schuh erzählen,  </p>
+<p begin="00:04:38.370" end="00:04:43.770" style="s2">der irgendwo außen am Gebäude herumliegt?<br />Maria konnte diesen Schuh aber perfekt  </p>
+<p begin="00:04:43.770" end="00:04:49.920" style="s2">beschreiben. Er war blau und groß. Er hatte ein <br />Nike-Logo. An einer Stelle war er von der Zehe  </p>
+<p begin="00:04:49.920" end="00:04:54.960" style="s2">ausgefranst. Und die Schnürbänder waren weiß <br />und befanden sich teilweise unter dem Absatz,  </p>
+<p begin="00:04:54.960" end="00:05:00.720" style="s2">als der Schuh noch auf dem Sims lag.<br />Kimberly konnte das Ganze selbst nicht glauben,  </p>
+<p begin="00:05:00.720" end="00:05:05.730" style="s2">daher ging sie mit dem Schuh zu Maria ins <br />Krankenzimmer und hielt ihn zuerst noch hinter  </p>
+<p begin="00:05:05.730" end="00:05:11.370" style="s2">ihrem Rücken. Sie ließ sich den Schuh noch einmal <br />von Maria beschreiben, bevor sie ihn ihr zeigte. </p>
+<p begin="00:05:11.370" end="00:05:16.590" style="s2">Dieser Fall ist einer der bekanntesten dieser <br />Art, und wie so oft hatten manche sogenannte  </p>
+<p begin="00:05:16.590" end="00:05:21.450" style="s2">Skeptiker nichts besseres zu tun, als sich <br />darüber lustig zu machen oder Lügen darüber  </p>
+<p begin="00:05:21.450" end="00:05:26.550" style="s2">zu verbreiten. Natürlich ist dieser Fall nicht <br />unter wissenschaftlichen Bedingungen passiert,  </p>
+<p begin="00:05:26.550" end="00:05:32.820" style="s2">aber er ist bei weitem nicht der einzige dieser <br />Art, und allein die Tatsache, dass diese enorm  </p>
+<p begin="00:05:32.820" end="00:05:37.680" style="s2">erweiterten und veränderten Bewusstseinszustände, <br />wie sie für Nahtoderfahrungen typisch sind,  </p>
+<p begin="00:05:37.680" end="00:05:43.320" style="s2">ausgerechnet meistens beim Herzstillstand und oft <br />sogar bei gleichzeitiger Vollnarkose eintreten,  </p>
+<p begin="00:05:43.320" end="00:05:48.060" style="s2">beweist eigentlich schon, dass sie nicht im <br />Gehirn entstehen können. Denn laut heutiger  </p>
+<p begin="00:05:48.060" end="00:05:52.830" style="s2">Medizin kann das Gehirn schon allein während <br />des Herzstillstandes kein Bewusstsein erzeugen,  </p>
+<p begin="00:05:52.830" end="00:05:58.500" style="s2">weil Organe generell sofort ihre Funktion <br />einstellen, sobald das Herz aufhört zu schlagen.  </p>
+<p begin="00:05:58.500" end="00:06:04.950" style="s2">Daher zeigt das EEG nach dem Herzstillstand <br />eine Null-Linie, eine Flatline, wie man im  </p>
+<p begin="00:06:04.950" end="00:06:11.670" style="s2">Englischen sagt. Blutdruck, Sauerstoffversorgung <br />und bioelektrische Aktivität sind laut heutiger  </p>
+<p begin="00:06:11.670" end="00:06:15.870" style="s2">Wissenschaft die Grundvoraussetzungen, <br />damit das Gehirn überhaupt irgendein  </p>
+<p begin="00:06:15.870" end="00:06:20.520" style="s2">geistiges Vermögen erzeugen kann, ansonsten <br />haben auch Endorphine und sonstige Stoffe,  </p>
+<p begin="00:06:20.520" end="00:06:26.940" style="s2">die von Skeptikern oft für Nahtoderfahrungen <br />verantwortlich gemacht werden, keine Wirkung. Das  </p>
+<p begin="00:06:26.940" end="00:06:31.440" style="s2">ist heute im Grunde Allgemeinwissen in der Medizin <br />und kann man leicht im Internet nachforschen. </p>
+<p begin="00:06:31.440" end="00:06:36.810" style="s2">Sogenannte Skeptiker hingegen wehren sich <br />mit Händen und Füßen gegen die Tatsache,  </p>
+<p begin="00:06:36.810" end="00:06:41.970" style="s2">dass Nahtoderfahrungen meistens bei ausgefallenem <br />Gehirn erfolgen, und dabei werden sie recht  </p>
+<p begin="00:06:41.970" end="00:06:47.670" style="s2">kreativ. So behaupten die einen Skeptiker <br />zum Beispiel einfach, Nahtoderfahrungen  </p>
+<p begin="00:06:47.670" end="00:06:54.000" style="s2">würden noch vor dem Herzstillstand im Gehirn <br />ablaufen. Auf solche Falschbehauptungen kann  </p>
+<p begin="00:06:54.000" end="00:06:58.740" style="s2">man nur dann kommen, wenn man sich noch nie <br />näher mit diesen Phänomenen befasst hat oder  </p>
+<p begin="00:06:58.740" end="00:07:03.690" style="s2">wenn man sie gründlich falsch versteht. Es <br />gibt zwar auch außerkörperliche Erfahrungen,  </p>
+<p begin="00:07:03.690" end="00:07:08.340" style="s2">die den Nahtoderfahrungen ähnlich sind und auch <br />bei völliger Kreislaufstabilität eintreten,  </p>
+<p begin="00:07:08.340" end="00:07:13.830" style="s2">aber klassische Nahtoderfahrungen haben gewisse <br />Eigenheiten und sie passieren definitiv meistens  </p>
+<p begin="00:07:13.830" end="00:07:17.820" style="s2">mit dem körperlichen Zusammenbruch, was in <br />den meisten Fällen auch den Herzstillstand  </p>
+<p begin="00:07:17.820" end="00:07:23.820" style="s2">bedeutet. Das haben Nahtodforscher schon <br />vor Jahrzehnten festgestellt und das wird  </p>
+<p begin="00:07:23.820" end="00:07:28.560" style="s2">jeder Mensch selbst erkennen, sobald er sich <br />unvoreingenommen mit mehreren Fällen befasst. </p>
+<p begin="00:07:28.560" end="00:07:33.390" style="s2">Andere Skeptiker wissen zwar immerhin, <br />dass Nahtoderfahrungen meistens während  </p>
+<p begin="00:07:33.390" end="00:07:37.740" style="s2">des Herzstillstandes passieren, aber <br />sie haben dafür die nächste Idee parat,  </p>
+<p begin="00:07:37.740" end="00:07:43.440" style="s2">indem sie einfach behaupten, das Gehirn würde <br />nach dem Herzstillstand noch leben. Erstens  </p>
+<p begin="00:07:43.440" end="00:07:47.910" style="s2">erzeugt aber das Gehirn nicht automatisch eine <br />Wahrnehmung, nur weil es irgendwelche messbaren  </p>
+<p begin="00:07:47.910" end="00:07:53.730" style="s2">Vitalzeichen aufweist. Wenn schon, dann müsste <br />das Gehirn in ganz bestimmten Arealen Aktivität  </p>
+<p begin="00:07:53.730" end="00:07:56.730" style="s2">aufweisen, und das noch dazu in einer gewissen <br />Intensität und Art. Und zweitens wurde bisher  </p>
+<p begin="00:07:56.730" end="00:08:02.340" style="s2">nach dem Herzstillstand nur eine teilweise <br />Hirnstromaktivität und auch nur bei endgültig  </p>
+<p begin="00:08:02.340" end="00:08:07.170" style="s2">verstorbenen Menschen und Tieren, direkt <br />vor ihrem endgültigen Tod, nachgewiesen.  </p>
+<p begin="00:08:07.170" end="00:08:13.950" style="s2">Diese sehr kurze bioelektrische Entladung führt <br />unmittelbar in den irreversiblen Tod, daher ist  </p>
+<p begin="00:08:13.950" end="00:08:18.510" style="s2">es äußerst unwahrscheinlich, dass diese Entladung <br />bei überlebenden Menschen überhaupt aktiv wurde.  </p>
+<p begin="00:08:18.510" end="00:08:24.420" style="s2">Ungenaue Skeptiker hingegen stellen es gerne <br />so dar, als sei es eine erwiesene Tatsache,  </p>
+<p begin="00:08:24.420" end="00:08:30.840" style="s2">dass diese kurze bioelektrische Aktivität die <br />Grundlage für Nahtoderfahrungen sei. Aber auch  </p>
+<p begin="00:08:30.840" end="00:08:36.000" style="s2">dann, wenn diese Entladung bei Überlebenden aktiv <br />wird, so gäbe es keinen zeitlichen Zusammenhang  </p>
+<p begin="00:08:36.000" end="00:08:41.320" style="s2">zur Nahtoderfahrung, weil diese meistens sofort <br />mit dem Herzstillstand einsetzt und oft viele  </p>
+<p begin="00:08:41.320" end="00:08:47.740" style="s2">Minuten dauert, während die Entladung nur 10-30 <br />Sekunden dauert und – wenn überhaupt – erst  </p>
+<p begin="00:08:47.740" end="00:08:52.420" style="s2">später aktiv wird, nämlich erst kurz <br />vor der sogenannten Nekrose bzw. Lyse,  </p>
+<p begin="00:08:52.420" end="00:08:59.110" style="s2">also vor dem endgültigen, irreversiblen Zelltod.<br />Daher ist es eines der billigsten Argumente,  </p>
+<p begin="00:08:59.110" end="00:09:04.270" style="s2">Nahtoderfahrungen würden nichts aussagen, weil <br />der endgültige Tod noch nicht eingetreten war.  </p>
+<p begin="00:09:04.270" end="00:09:10.090" style="s2">Gerade deswegen, WEIL diese Menschen nicht <br />endgültig verstorben sind, kann man gemäß  </p>
+<p begin="00:09:10.090" end="00:09:14.650" style="s2">dem aktuellen Stand der Wissenschaft davon <br />ausgehen, dass diese letzte Entladungswelle  </p>
+<p begin="00:09:14.650" end="00:09:19.750" style="s2">bei ihnen gar nicht aktiv wurde und ihr Gehirn <br />während der Zeit ihrer Nahtoderfahrung keine  </p>
+<p begin="00:09:19.750" end="00:09:26.170" style="s2">ausreichende neuronale Aktivität hatte. Somit <br />erbringen Nahtoderfahrungen, die während des  </p>
+<p begin="00:09:26.170" end="00:09:31.240" style="s2">Herzstillstandes eintreten – und das sind die <br />häufigsten Arten von Nahtoderfahrungen – einen  </p>
+<p begin="00:09:31.240" end="00:09:35.860" style="s2">von mehreren theoretischen Beweisen dafür, <br />dass das eigentliche Wesen des Menschen nicht  </p>
+<p begin="00:09:35.860" end="00:09:41.140" style="s2">der Körper ist, sondern dass der Mensch als <br />nicht-körperliches Wesen nur in gewisser Weise  </p>
+<p begin="00:09:41.140" end="00:09:47.170" style="s2">an den Körper gebunden ist, sich diese Bindung <br />aber beim Zusammenbruch des Körpers auflöst und  </p>
+<p begin="00:09:47.170" end="00:09:52.420" style="s2">das eigentliche Wesen weiter existiert. Das <br />haben viele Menschen immer schon begriffen,  </p>
+<p begin="00:09:52.420" end="00:09:57.460" style="s2">nur diejenigen, die solche Erfahrungen selbst <br />noch nicht hatten und es nicht wahrhaben wollen,  </p>
+<p begin="00:09:57.460" end="00:10:01.900" style="s2">wollen es auch nicht gelten lassen.<br />Oft haben Menschen während ihrer  </p>
+<p begin="00:10:01.900" end="00:10:06.520" style="s2">außerkörperlichen Zustände nicht nur einen <br />Herzstillstand, sondern sogar gleichzeitig  </p>
+<p begin="00:10:06.520" end="00:10:12.100" style="s2">eine Vollnarkose. Würden diese Zustände nur im <br />Gehirn entstehen, dann würden sie durch eine  </p>
+<p begin="00:10:12.100" end="00:10:17.620" style="s2">Vollnarkose völlig verhindert oder zumindest so <br />stark unterdrückt werden, dass sie nicht mehr als  </p>
+<p begin="00:10:17.620" end="00:10:24.250" style="s2">besonders erlebt werden. Tatsache ist aber, dass <br />diese Zustände immer auf dieselbe Art intensiv und  </p>
+<p begin="00:10:24.250" end="00:10:30.310" style="s2">lebhaft sind und nicht einmal durch Vollnarkose <br />in irgendeiner Weise beeinflusst werden. Allein  </p>
+<p begin="00:10:30.310" end="00:10:35.020" style="s2">dadurch zeigt sich eigentlich schon, dass sie <br />nicht im Gehirn entstehen können, sondern vom  </p>
+<p begin="00:10:35.020" end="00:10:40.840" style="s2">Körper völlig unabhängige Ereignisse sind. Und <br />wenn sie während einer Vollnarkose passieren,  </p>
+<p begin="00:10:40.840" end="00:10:46.530" style="s2">dann meistens genau dann, wenn ein Herzstillstand <br />eintritt. Aber von all diesen Fakten wissen die  </p>
+<p begin="00:10:46.530" end="00:10:51.150" style="s2">meisten Skeptiker nichts, weil sie sich kaum <br />ernsthaft mit diesen Phänomenen befassen,  </p>
+<p begin="00:10:51.150" end="00:10:56.430" style="s2">sondern nur soweit, um scheinbar wissenschaftlich <br />mitreden zu können und sie scheinbar nur als  </p>
+<p begin="00:10:56.430" end="00:11:01.890" style="s2">biologische Ereignisse erledigen zu können.<br />Völlig lebensfremd ist auch die typische  </p>
+<p begin="00:11:01.890" end="00:11:06.960" style="s2">Behauptung von Skeptikern, Menschen könnten all <br />diese lokalen Dinge nach ihrem Herzstillstand  </p>
+<p begin="00:11:06.960" end="00:11:12.450" style="s2">nur deshalb beschreiben, nicht weil sie sie <br />gesehen, sondern noch gehört hätten. Erstens  </p>
+<p begin="00:11:12.450" end="00:11:15.960" style="s2">ist aber auch der körperliche Gehörsinn <br />mit höchster Wahrscheinlichkeit während des  </p>
+<p begin="00:11:15.960" end="00:11:21.720" style="s2">Herzstillstandes ausgeschaltet. Und zweitens ist <br />bei weitem nicht alles hörbar, was Menschen nach  </p>
+<p begin="00:11:21.720" end="00:11:27.600" style="s2">Nahtoderfahrungen oft beschreiben, wie etwa stille <br />Handlungen, konkrete Formen und Farben von Dingen,  </p>
+<p begin="00:11:27.600" end="00:11:31.830" style="s2">die keine Töne und Geräusche erzeugen, oder <br />Dinge, die viel zu weit vom Körper entfernt  </p>
+<p begin="00:11:31.830" end="00:11:37.620" style="s2">waren. Der Mensch braucht nicht umsonst <br />mehrere Sinne, um die Realität vollständig  </p>
+<p begin="00:11:37.620" end="00:11:42.420" style="s2">wahrnehmen zu können. Über die vielen <br />spekulativen und pseudowissenschaftlichen  </p>
+<p begin="00:11:42.420" end="00:11:46.950" style="s2">Behauptungen der sogenannten Skeptiker <br />werden demnächst detaillierte, aufklärende  </p>
+<p begin="00:11:46.950" end="00:11:54.390" style="s2">Videos auf diesem Kanal veröffentlicht.<br />Der zweite Fall stammt von Barbara Bartolome  </p>
+<p begin="00:11:54.390" end="00:12:02.280" style="s2">aus Kalifornien, USA. Sie zog sich im Jahr 1987 <br />im Alter von 31 Jahren eine schwere Verletzung  </p>
+<p begin="00:12:02.280" end="00:12:08.550" style="s2">der Wirbelsäule beim Heben zu. Einer der Ärzte, <br />die sie deswegen aufsuchte, ein Neurochirurg,  </p>
+<p begin="00:12:08.550" end="00:12:14.430" style="s2">hat ihr geraten, sich operieren zu lassen. <br />Zur Vorbereitung auf diese OP musste am  </p>
+<p begin="00:12:14.430" end="00:12:19.560" style="s2">Vortag eine sogenannte Myelographie gemacht <br />werden. Das ist ein bildgebendes Verfahren,  </p>
+<p begin="00:12:19.560" end="00:12:25.950" style="s2">um eine genauere Diagnose erstellen zu können. <br />Dazu wird ein Kontrastmittel in den Wirbelkanal  </p>
+<p begin="00:12:25.950" end="00:12:32.640" style="s2">ins Rückenmark eingeführt, damit man das Problem <br />am Röntgenbild besser erkennen kann. Dies geschah  </p>
+<p begin="00:12:32.640" end="00:12:39.060" style="s2">im Falle von Barbara am Tag vor der OP und im <br />Bereich der Halswirbelsäule. Bei diesem Vorgang  </p>
+<p begin="00:12:39.060" end="00:12:44.070" style="s2">lag sie flach auf einer elektronischen <br />Röntgenliege. Nachdem das Kontrastmittel  </p>
+<p begin="00:12:44.070" end="00:12:48.570" style="s2">eingeführt wurde, sollte diese Liege langsam <br />in die aufrechte Stellung bewegt werden,  </p>
+<p begin="00:12:48.570" end="00:12:54.740" style="s2">damit sich das Kontrastmittel in der Wirbelsäule <br />nach untern verteilt. Aber es passierte genau das,  </p>
+<p begin="00:12:54.740" end="00:13:00.470" style="s2">was nicht passieren sollte: Der zuständige <br />Assistent wählte versehentlich den falschen Knopf,  </p>
+<p begin="00:13:00.470" end="00:13:06.830" style="s2">daher bewegte sich die Liege in die gegenteilige <br />Richtung. Die Patientin wurde liegend mit dem  </p>
+<p begin="00:13:06.830" end="00:13:12.650" style="s2">Kopf Richtung Boden verlagert, wodurch ihr <br />das Kontrastmittel in das Gehirn floss. Das  </p>
+<p begin="00:13:12.650" end="00:13:17.300" style="s2">Personal bemerkte dies aber zuerst nicht, weil <br />sie bereits alle auf einen Monitor fixiert waren  </p>
+<p begin="00:13:17.300" end="00:13:23.300" style="s2">und die Patientin daher nicht mehr im Blickfeld <br />hatten. Barbara war zwar zuerst noch wach, konnte  </p>
+<p begin="00:13:23.300" end="00:13:29.090" style="s2">sich aber nicht mehr mitteilen. Erst, als sie zu <br />hyperventilieren begann, bemerkte der Assistent  </p>
+<p begin="00:13:29.090" end="00:13:35.840" style="s2">den Fehler. In diesem Moment hatte die Patientin <br />einen Herzstillstand. Körperlich gesehen war sie  </p>
+<p begin="00:13:35.840" end="00:13:40.880" style="s2">zwar völlig bewusstlos, aber – wie es meistens <br />der Fall ist – begann genau in diesem Moment  </p>
+<p begin="00:13:40.880" end="00:13:47.000" style="s2">ihr außerkörperlicher Zustand. Zusammenfassend <br />aus mehreren Interviews sagt sie dazu selbst: </p>
+<p begin="00:13:47.000" end="00:13:53.720" style="s2">»Kaum sind mir die Augen zugefallen, war ich <br />oben an der Decke und sah alles von dort. Ich  </p>
+<p begin="00:13:53.720" end="00:13:59.660" style="s2">war völlig klar und hellwach. Mein Körper war wie <br />eine leblose Hülle und ich fühlte mich überhaupt  </p>
+<p begin="00:13:59.660" end="00:14:05.420" style="s2">nicht mehr damit verbunden. Als ich alles von <br />oben sah, war ich weder verwundert, erschrocken,  </p>
+<p begin="00:14:05.420" end="00:14:11.810" style="s2">hektisch oder panisch. Es war sehr ruhig und ich <br />fühlte mich wie in Liebe eingehüllt, wie in einer  </p>
+<p begin="00:14:11.810" end="00:14:17.300" style="s2">warmen Decke und für mich war alles in Ordnung. <br />Dann hörte ich den technischen Assistenten,  </p>
+<p begin="00:14:17.300" end="00:14:23.450" style="s2">als er Code blue ausrief. Ich wusste nicht, was <br />das bedeutet, aber ich dachte, wenn ich hier oben  </p>
+<p begin="00:14:23.450" end="00:14:29.630" style="s2">bin und jemand ruft panisch Code blue, dann bin <br />ich wohl gerade gestorben. Ich selbst hatte aber  </p>
+<p begin="00:14:29.630" end="00:14:36.680" style="s2">keine Panik. Ich fühlte mich sehr gut. Ich sah <br />dann, wie die anderen alle hektisch wurden. Auf  </p>
+<p begin="00:14:36.680" end="00:14:43.400" style="s2">mich wirkte das sehr befremdlich. Sie schrien <br />und bewegten sich so schnell. Auf einmal war da  </p>
+<p begin="00:14:43.400" end="00:14:49.640" style="s2">eine Präsenz neben mir, die mich enorm liebte und <br />akzeptierte. Da war auch ein Gefühl von Ewigkeit.  </p>
+<p begin="00:14:49.640" end="00:14:56.690" style="s2">Es fühlte sich an, als wäre ich immer schon ein <br />Teil dieser Präsenz und sie ein Teil von mir. Ich  </p>
+<p begin="00:14:56.690" end="00:15:02.010" style="s2">kannte sie besser als alle Menschen in meinem <br />irdischen Leben. Diese Gefühle von Liebe und  </p>
+<p begin="00:15:02.010" end="00:15:08.190" style="s2">Akzeptanz und diese Intensität sind unvorstellbar. <br />Ich wollte eigentlich nicht zurück in den Körper,  </p>
+<p begin="00:15:08.190" end="00:15:14.580" style="s2">aber ich erkannte in dieser Situation den Plan und <br />Sinn meines irdischen Lebens. Daher sagte ich zu  </p>
+<p begin="00:15:14.580" end="00:15:19.830" style="s2">dieser Präsenz, ich möchte zurück und meinen <br />irdischen Lebenszweck erfüllen. Ich wollte  </p>
+<p begin="00:15:19.830" end="00:15:26.430" style="s2">besonders wegen meiner 5 Monate alten Tochter und <br />meinem 8 -jährigen Sohn zurück. Ich argumentierte,  </p>
+<p begin="00:15:26.430" end="00:15:30.690" style="s2">dass das Leben der beiden Kinder sonst nicht <br />so verlaufen würde, wie es sein sollte. </p>
+<p begin="00:15:30.690" end="00:15:37.920" style="s2">Unten sah ich, dass sie mit der Reanimation <br />anfingen. Sie setzten mir eine Sauerstoffmaske auf  </p>
+<p begin="00:15:37.920" end="00:15:42.450" style="s2">und jemand forderte telefonisch andere Personen <br />vom Krankenhaus an, die für die Reanimation  </p>
+<p begin="00:15:42.450" end="00:15:48.840" style="s2">zuständig waren. So kam dann kurz darauf jemand <br />mit einer Box herein. Ich wusste zuerst ich nicht,  </p>
+<p begin="00:15:48.840" end="00:15:55.140" style="s2">was das ist, befand mich dann aber direkt davor <br />und sah, wie der Mann diese Box öffnete, das Gerät  </p>
+<p begin="00:15:55.140" end="00:16:01.410" style="s2">darin einschaltete und damit ein grünes Licht <br />mit einem monotonen Ton aktivierte. Das Gerät  </p>
+<p begin="00:16:01.410" end="00:16:07.500" style="s2">zeigte eine gerade Linie an. Als ich erkannte, <br />dass dies ein Herzmonitor war, war ich plötzlich  </p>
+<p begin="00:16:07.500" end="00:16:14.880" style="s2">wieder oben an der Decke und sah alles Weitere von <br />oben, inklusive der Null-Linie am Herzmonitor. Ich  </p>
+<p begin="00:16:14.880" end="00:16:20.130" style="s2">wurde 8 bis 10 Minuten reanimiert und jemand <br />meinte dann, das ganze würde zu lange dauern.  </p>
+<p begin="00:16:20.130" end="00:16:26.790" style="s2">Sie waren etwas ratlos und diskutierten. <br />Dann sagte der orthopädische Chirurg,  </p>
+<p begin="00:16:26.790" end="00:16:33.510" style="s2">alle um den Tisch herum müssten zurückweichen. Er <br />ballte seine rechte Faust, holte aus und schlug  </p>
+<p begin="00:16:33.510" end="00:16:39.180" style="s2">mit voller Wucht auf meinen Brustkorb. Heute <br />weiß ich, dass dies ein sogenannter präkordialer  </p>
+<p begin="00:16:39.180" end="00:16:44.730" style="s2">Faustschlag ist. Ich sah die Erschütterung meines <br />Körpers, spürte aber nichts von diesem Schlag. </p>
+<p begin="00:16:44.730" end="00:16:51.270" style="s2">Dann machte mich die Präsenz darauf aufmerksam, <br />dass ich, wenn ich zurückgehe, wieder in meiner  </p>
+<p begin="00:16:51.270" end="00:16:57.480" style="s2">sehr belastenden Beziehungssituation mit meinem <br />damaligen Mann sein würde. Dann wurden mir Szenen  </p>
+<p begin="00:16:57.480" end="00:17:02.370" style="s2">aus meiner irdischen Vergangenheit gezeigt und <br />es wurde mir klar, dass ich mich von diesem Mann  </p>
+<p begin="00:17:02.370" end="00:17:06.870" style="s2">unbedingt trennen muss, weil er sich nicht, <br />wie ich es mir immer wieder eingeredet hatte,  </p>
+<p begin="00:17:06.870" end="00:17:13.160" style="s2">ändern würde. Ich versprach dann der Präsenz, dass <br />ich mich trennen werde, wenn ich zurückgehen darf.  </p>
+<p begin="00:17:13.160" end="00:17:18.590" style="s2">Dann sah ich, wie der Arzt wieder ausholte <br />und noch einmal auf meinen Brustkorb schlug.  </p>
+<p begin="00:17:18.590" end="00:17:25.010" style="s2">Eigentlich hat er das sofort nach dem ersten <br />Schlag getan. Aber in diesem Zustand außerhalb  </p>
+<p begin="00:17:25.010" end="00:17:30.890" style="s2">des Körpers fühlte es sich an, als wäre die Zeit <br />stark ausgedehnt. Ich hatte alle Zeit der Welt,  </p>
+<p begin="00:17:30.890" end="00:17:36.800" style="s2">meine Zukunft zu überdenken und die Entscheidung <br />bezüglich meiner Ehe zur treffen. Kaum war der  </p>
+<p begin="00:17:36.800" end="00:17:42.470" style="s2">zweite Faustschlag getätigt, fing mein Herz <br />wieder an zu schlagen. Meine Wahrnehmung oben,  </p>
+<p begin="00:17:42.470" end="00:17:47.090" style="s2">außerhalb meines Körpers, hat sich sofort <br />geschlossen, und gleichzeitig öffneten sich  </p>
+<p begin="00:17:47.090" end="00:17:52.160" style="s2">die Augen meines Körpers. Ich war wieder <br />im Körper und sah dem Orthopäden direkt  </p>
+<p begin="00:17:52.160" end="00:17:57.440" style="s2">ins Gesicht. Er wich zurück und die anderen <br />arbeiteten weiter an meiner Stabilisierung. </p>
+<p begin="00:17:57.440" end="00:18:03.620" style="s2">Ich wollte dem Personal dann sofort berichten, <br />was ich alles wahrgenommen hatte, musste aber  </p>
+<p begin="00:18:03.620" end="00:18:09.500" style="s2">vorerst noch ruhig bleiben. Die Sauerstoffmaske <br />wurde mir nach 20 Minuten abgenommen und dann  </p>
+<p begin="00:18:09.500" end="00:18:15.860" style="s2">konnte ich endlich berichten. Ich zählte ihnen <br />alles auf, jede einzelne Handlung, die Geräte,  </p>
+<p begin="00:18:15.860" end="00:18:22.760" style="s2">den Herzmonitor, die Defibrillation, wer <br />genau was gemacht hat – jedes Detail. Sie  </p>
+<p begin="00:18:22.760" end="00:18:27.170" style="s2">hörten mir zu und waren offenbar verblüfft, <br />aber der leitende Arzt, der Neurochirurg,  </p>
+<p begin="00:18:27.170" end="00:18:34.430" style="s2">rollte mit den Augen und äußerte sich nur <br />sarkastisch mit den Worten »Jaja, schon gut!«. Er  </p>
+<p begin="00:18:34.430" end="00:18:39.980" style="s2">glaubte mir nicht und verließ empört den Raum.«<br />Barbara berichtet weiter, dass die Stimmung für  </p>
+<p begin="00:18:39.980" end="00:18:44.870" style="s2">sie im Krankenhaus dann etwas eigenartig <br />war, auch am nächsten Tag vor und nach der  </p>
+<p begin="00:18:44.870" end="00:18:52.070" style="s2">Operation. Man sah, es »lag etwas in der Luft«. <br />Das Personal war mit diesem Vorfall überwiegend  </p>
+<p begin="00:18:52.070" end="00:18:58.550" style="s2">unbeholfen oder überfordert. Nur teilweise <br />wurde diese Sache thematisiert, insgesamt eher  </p>
+<p begin="00:18:58.550" end="00:19:04.430" style="s2">kleingeredet oder tabuisiert. Wenn man sogar <br />in einem wissenschafts-orientierten Betrieb,  </p>
+<p begin="00:19:04.430" end="00:19:09.800" style="s2">wie es moderne Krankenhäuser sind, ein so großes <br />Problem mit solchen außergewöhnlichen Phänomenen  </p>
+<p begin="00:19:09.800" end="00:19:14.330" style="s2">hat, dann ist die sogenannte Aufklärung <br />wohl noch eher Wunschdenken als Realität. </p>
+<p begin="00:19:17.050" end="00:19:23.410" style="s2">Der dritte und letzte Fallstammt von Seyran Ates, <br />einer deutschen Juristin mit türkischen Wurzeln.  </p>
+<p begin="00:19:23.410" end="00:19:32.440" style="s2">Es passierte im Jahr 1984 in Berlin Kreuzberg <br />bei einem Attentat. Frau Ates war 21, befand sich  </p>
+<p begin="00:19:32.440" end="00:19:38.530" style="s2">mitten in ihrem Jurastudium und finanzierte sich <br />dieses, indem sie für die Beratungsstelle TIO in  </p>
+<p begin="00:19:38.530" end="00:19:43.990" style="s2">Kreuzberg arbeitete. Dort wurde Frauen aus <br />der Türkei geholfen, die von häuslicher Gewalt  </p>
+<p begin="00:19:43.990" end="00:19:52.720" style="s2">betroffen waren. Am 24. September 1984 kam ein <br />Mann in die Beratungsstelle, als Frau Ates gerade  </p>
+<p begin="00:19:52.720" end="00:19:58.810" style="s2">mit einer Klientin im Gespräch war. Die beiden <br />anderen Frauen der Beratungsstelle baten den Mann,  </p>
+<p begin="00:19:58.810" end="00:20:04.930" style="s2">den Raum zu verlassen. Nachdem er das nicht <br />tat, stand Frau Ates auf und bat ihn ebenfalls,  </p>
+<p begin="00:20:04.930" end="00:20:12.460" style="s2">den Raum zu verlassen. Dann zog er eine Pistole <br />und schoss auf Frau Ates und ihre Klientin. Es war  </p>
+<p begin="00:20:12.460" end="00:20:17.740" style="s2">keine Beziehungstat, sondern ein genereller <br />Anschlag auf die Einrichtung. Die Klientin  </p>
+<p begin="00:20:17.740" end="00:20:23.320" style="s2">starb und Frau Ates wurde lebensgefährlich <br />verletzt. Sie wurde von der Kugel an einer  </p>
+<p begin="00:20:23.320" end="00:20:29.860" style="s2">Arterie am Hals getroffen und ist fast verblutet.<br />Genau in dem Moment, als ihr Körper auf den Boden  </p>
+<p begin="00:20:29.860" end="00:20:36.490" style="s2">sackte, spürte sie, wie sie aus ihrem Körper <br />herausschwebte. Dann sah sie die Situation klar  </p>
+<p begin="00:20:36.490" end="00:20:43.840" style="s2">von oben. Sie hatte keine Schmerzen, fühlte sich <br />sehr leicht und hatte klare, wache Gedanken. Sie  </p>
+<p begin="00:20:43.840" end="00:20:49.930" style="s2">dachte darüber nach, ob sie nun stirbt oder nicht. <br />Außerdem dachte sie an ihren Kater, den sie seit  </p>
+<p begin="00:20:49.930" end="00:20:56.620" style="s2">einigen Tagen vermisste. Sie bedauerte, dass sie <br />ihn noch immer nicht gefunden hatte. Dann sorgte  </p>
+<p begin="00:20:56.620" end="00:21:01.090" style="s2">sie sich um ihre Eltern, dass es ihnen schlecht <br />gehen würde, wenn sie in so jungen Jahren stirbt,  </p>
+<p begin="00:21:01.090" end="00:21:08.860" style="s2">denn sie war erst 21. Auch an ihren Freund dachte <br />sie noch. Dann wartete sie laut ihren eigenen  </p>
+<p begin="00:21:08.860" end="00:21:14.740" style="s2">Aussagen auf den berühmten Lebensfilm, von dem <br />sie früher schön hörte, sie wunderte sich aber,  </p>
+<p begin="00:21:14.740" end="00:21:19.720" style="s2">dass dieser bei ihr nicht erschien.<br />Wie es auch manchmal berichtet wird,  </p>
+<p begin="00:21:19.720" end="00:21:25.060" style="s2">war sie immer wieder im Körper drinnen und dann <br />wieder außerhalb. Sie konnte von oben sehen,  </p>
+<p begin="00:21:25.060" end="00:21:31.040" style="s2">dass eine ihrer beiden Kolleginnen ins Krankenhaus <br />in der Nähe lief, während die andere Kollegin mit  </p>
+<p begin="00:21:31.040" end="00:21:37.340" style="s2">dem Festnetztelefon den Notruf wählte. Ates konnte <br />sehen, dass diese Kollegin zuerst die falsche  </p>
+<p begin="00:21:37.340" end="00:21:42.860" style="s2">Nummer wählte, daher wollte sie ihr die richtige <br />Nummer mitteilen, aber die Kollegin konnte sie  </p>
+<p begin="00:21:42.860" end="00:21:48.980" style="s2">nicht hören. Auch Derartiges wird immer wieder <br />im Zuge von Nahtoderfahrungen berichtet. Die  </p>
+<p begin="00:21:48.980" end="00:21:54.200" style="s2">Betreffenden wollen sich den anderen anwesenden <br />Menschen mitteilen, werden aber nicht gehört.  </p>
+<p begin="00:21:54.200" end="00:21:59.840" style="s2">Später sagte Ates ihrer Kollegin, sie hätte <br />gesehen, dass sie zuerst die falsche Nummer  </p>
+<p begin="00:21:59.840" end="00:22:05.780" style="s2">wählte. Die Kollegin war dann verblüfft und meinte <br />zu Ates, sie hätte dies gar nicht sehen können,  </p>
+<p begin="00:22:05.780" end="00:22:10.790" style="s2">weil ihr Gesicht in die andere Richtung <br />gelagert war, als sie bewusstlos am Boden lag. </p>
+<p begin="00:22:10.790" end="00:22:16.730" style="s2">Seyran Ates beobachtet dann noch den <br />weiteren Verlauf der Situation, so etwa,  </p>
+<p begin="00:22:16.730" end="00:22:22.550" style="s2">dass sie medizinisch versorgt wurde. Auch dabei <br />habe sie sich, wie sie selbst sagt, amüsiert,  </p>
+<p begin="00:22:22.550" end="00:22:27.860" style="s2">weil sie sah, dass die Sanitäter ihre Hose nicht <br />entfernen konnten, weil diese den Reißverschluss  </p>
+<p begin="00:22:27.860" end="00:22:34.160" style="s2">nicht ordentlich öffneten. Auch hier wollte sie <br />sich wieder mitteilen. Sie wollte den Sanitätern  </p>
+<p begin="00:22:34.160" end="00:22:40.280" style="s2">sagen, sie sollten den Reißverschluss ganz öffnen. <br />Die Sanitäter öffneten ihn aber nur zur Hälfte und  </p>
+<p begin="00:22:40.280" end="00:22:46.370" style="s2">sie dachte sich, die seien zu dumm, um diese Hose <br />zu entfernen. Wie es ebenfalls oft berichtet wird,  </p>
+<p begin="00:22:46.370" end="00:22:50.900" style="s2">erkannte sie die Gedanken der anderen <br />beteiligten Menschen, so etwa die Ursache dafür,  </p>
+<p begin="00:22:50.900" end="00:22:56.570" style="s2">warum die Sanitäter die Hose entfernen wollten. <br />Tatsächlich ist es üblich, bei bestimmten  </p>
+<p begin="00:22:56.570" end="00:23:01.640" style="s2">Notfällen die Kleidungsstücke der Betroffenen zu <br />entfernen, damit mögliche Verletzungen unter der  </p>
+<p begin="00:23:01.640" end="00:23:07.070" style="s2">Kleidung erkannt und versorgt werden können.<br />Frau Ates berichtet auch über weitere Dinge,  </p>
+<p begin="00:23:07.070" end="00:23:12.230" style="s2">die im Zuge von außerkörperlichen Erfahrungen <br />immer wieder geschildert werden. Sie fühlte  </p>
+<p begin="00:23:12.230" end="00:23:17.390" style="s2">sich in diesem Zustand ohne Zeit, war geistig <br />völlig klar und hatte das Gefühl, sie könne  </p>
+<p begin="00:23:17.390" end="00:23:23.360" style="s2">sehr lange über die Dinge nachdenken. Außerdem <br />erlebte sie die überwältigende Glückseligkeit  </p>
+<p begin="00:23:23.360" end="00:23:29.750" style="s2">im nicht-physischen Licht und eine telepathische <br />Kommunikation mit diesem Licht. Sie wurde gefragt,  </p>
+<p begin="00:23:29.750" end="00:23:35.780" style="s2">ob sie sterben oder zurückgehen will. Auch sie <br />argumentierte – ähnlich wie Barbara Bartolome  </p>
+<p begin="00:23:35.780" end="00:23:41.510" style="s2">vom zweiten Fall dieses Videos – sie sei noch zu <br />jung zum Sterben, sie hätte noch Aufgaben vor sich  </p>
+<p begin="00:23:41.510" end="00:23:48.020" style="s2">und müsse daher noch im irdischen Leben bleiben.<br />In Anbetracht dessen, dass jedes Jahr Tausende von  </p>
+<p begin="00:23:48.020" end="00:23:52.310" style="s2">Menschen über solche Erfahrungen berichten <br />und diese auch sehr lebensverändernd sind,  </p>
+<p begin="00:23:52.310" end="00:23:58.100" style="s2">ist es äußerst unwahrscheinlich, dass sie nur <br />im Gehirn entstehen oder ausgedacht sind. All  </p>
+<p begin="00:23:58.100" end="00:24:02.330" style="s2">diese scheinbaren körperlichen Erklärungen <br />von wegen Sauerstoffmangel oder Endorphinen,  </p>
+<p begin="00:24:02.330" end="00:24:07.700" style="s2">sind nur spekulative, stümperische und <br />schein-wissenschaftliche Ideen, mit denen  </p>
+<p begin="00:24:07.700" end="00:24:12.710" style="s2">nur um den heißen Brei herumgeredet wird. Denn <br />viel entscheidender sind bei außerkörperlichen  </p>
+<p begin="00:24:12.710" end="00:24:18.620" style="s2">Erfahrungen andere Fakten, zum Beispiel die klare <br />Sicht auf Dinge, die definitiv außerhalb des  </p>
+<p begin="00:24:18.620" end="00:24:23.630" style="s2">Blickfeldes der körperlichen Augen oder überhaupt <br />viel zu weit vom jeweiligen Körper entfernt waren,  </p>
+<p begin="00:24:23.630" end="00:24:29.600" style="s2">oder die Tatsache, dass sich das Denken und <br />Empfinden bei der Ablösung vom Körper nicht nur  </p>
+<p begin="00:24:29.600" end="00:24:35.480" style="s2">um ein Vielfaches erweitert, sondern eine gänzlich <br />andere Qualität aufweist, wie es der Mensch sonst  </p>
+<p begin="00:24:35.480" end="00:24:40.940" style="s2">niemals haben kann, auch nicht durch die stärksten <br />psychoaktiven Drogen. Und das alles noch dazu  </p>
+<p begin="00:24:40.940" end="00:24:45.590" style="s2">ausgerechnet dann, wenn das Herz stillsteht <br />oder der Körper sogar in Vollnarkose ist. </p>
+<p begin="00:24:45.590" end="00:24:52.190" style="s2">Viele Skeptiker scheinen sich heute auch zu stolz <br />zu sein, zuzugeben, dass Religionen doch in ihrer  </p>
+<p begin="00:24:52.190" end="00:24:58.220" style="s2">grundsätzlichen Anschauung, der Mensch würde nach <br />dem Tod weiterexistieren, richtig liegen. Die  </p>
+<p begin="00:24:58.220" end="00:25:02.870" style="s2">Wissenschaft wird seit eh und je von einem Teil <br />der Menschheit mit Materialismus gleichgesetzt und  </p>
+<p begin="00:25:02.870" end="00:25:07.790" style="s2">missbraucht, um materialistische Weltanschauungen <br />scheinbar als die einzig realistischen und  </p>
+<p begin="00:25:07.790" end="00:25:12.350" style="s2">vernünftigen durchzusetzen, und das Übersinnliche <br />scheinbar nur als biologische Erzeugnisse  </p>
+<p begin="00:25:12.350" end="00:25:19.280" style="s2">des Gehirns, als Wunschdenken oder als Lügen <br />bloßzustellen. Im Rahmen einer solchen Mentalität  </p>
+<p begin="00:25:19.280" end="00:25:24.320" style="s2">ist Wissenschaft einseitig, unvollständig, <br />willkürlich und dogmatisch, und auch eine  </p>
+<p begin="00:25:24.320" end="00:25:30.530" style="s2">Verschwörungsbewegung. Extremere Skeptiker sind <br />nicht in der Lage, übersinnliche Phänomene als  </p>
+<p begin="00:25:30.530" end="00:25:35.270" style="s2">reale Dinge der Natur von menschengemachter <br />Religion zu unterscheiden, daher können sie  </p>
+<p begin="00:25:35.270" end="00:25:41.390" style="s2">auch keine neutrale wissenschaftliche Sicht auf <br />diese Phänomene einnehmen. Seriöse Wissenschaftler  </p>
+<p begin="00:25:41.390" end="00:25:46.400" style="s2">hingegen erkennt man unter anderem daran, dass <br />sie nicht irgendwie auf einen Kampf gegen oder  </p>
+<p begin="00:25:46.400" end="00:25:51.900" style="s2">für bestimmte Weltanschauungen eingeschworen sind.<br />Diese typischen Elemente außerkörperlicher  </p>
+<p begin="00:25:51.900" end="00:25:57.780" style="s2">Erfahrungen werden seit eh und je berichtet. <br />Einer der ersten Wissenschaftler, der sich  </p>
+<p begin="00:25:57.780" end="00:26:04.380" style="s2">systematisch damit befasst hat, war der Schweizer <br />Geologieprofessor und Bergsteiger Albert Heim. Er  </p>
+<p begin="00:26:04.380" end="00:26:10.350" style="s2">hatte selbst eine außerkörperliche Erfahrung, als <br />er im Jahr 1871 von einem Berg in der Ostschweiz,  </p>
+<p begin="00:26:10.350" end="00:26:18.480" style="s2">dem Säntis, abstürzte. Dabei flog er laut seinen <br />Aussagen ca. 20 Meter frei durch die Luft. Über  </p>
+<p begin="00:26:18.480" end="00:26:22.980" style="s2">die außerkörperliche Erfahrung von Albert <br />Heim und seine anderen dokumentieren Fälle  </p>
+<p begin="00:26:22.980" end="00:26:30.000" style="s2">wird später ein eigenes Video veröffentlicht. <br />Damit vielen Dank für Ihr Interesse und bis bald.</p>
+</div>
+</body>
+</tt>

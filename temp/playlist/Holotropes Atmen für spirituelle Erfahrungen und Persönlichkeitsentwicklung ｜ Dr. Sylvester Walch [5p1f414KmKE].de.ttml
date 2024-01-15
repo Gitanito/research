@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.359" end="00:00:06.319" style="s2">da die Zeit und Raumgrenzen aufgehoben</p>
+<p begin="00:00:03.419" end="00:00:09.120" style="s2">sind kann es vorkommen dass ich jemanden</p>
+<p begin="00:00:06.319" end="00:00:11.960" style="s2">möglicherweise plötzlich außerhalb</p>
+<p begin="00:00:09.120" end="00:00:14.820" style="s2">seines Körpers erlebt</p>
+<p begin="00:00:11.960" end="00:00:18.859" style="s2">verstorbenen Angehörigen begegnet oder</p>
+<p begin="00:00:14.820" end="00:00:18.859" style="s2">in fremde Kulturen eintaucht</p>
+<p begin="00:00:22.280" end="00:00:26.960" style="s2">[Musik]</p>
+<p begin="00:00:28.580" end="00:00:33.899" style="s2">willkommen zu einem neuen Video dieses</p>
+<p begin="00:00:31.260" end="00:00:36.360" style="s2">Mal spreche ich mit dr Silvester Walch</p>
+<p begin="00:00:33.899" end="00:00:39.059" style="s2">Psychologischer Psychotherapeut über</p>
+<p begin="00:00:36.360" end="00:00:41.520" style="s2">holotropes atmen</p>
+<p begin="00:00:39.059" end="00:00:43.379" style="s2">Herr Dr Walch herzlich willkommen und</p>
+<p begin="00:00:41.520" end="00:00:46.040" style="s2">danke dass Sie sich Zeit nehmen für</p>
+<p begin="00:00:43.379" end="00:00:46.040" style="s2">dieses Gespräch</p>
+<p begin="00:00:50.100" end="00:00:55.620" style="s2">dieses Thema zu sprechen und begrüße</p>
+<p begin="00:00:52.200" end="00:00:57.840" style="s2">auch alle Zuseher und Zuhörer</p>
+<p begin="00:00:55.620" end="00:01:01.320" style="s2">Herr Dr Walch beschreiben Sie uns doch</p>
+<p begin="00:00:57.840" end="00:01:03.899" style="s2">bitte was ist holotropes atmen worum</p>
+<p begin="00:01:01.320" end="00:01:07.619" style="s2">geht es dabei ja genau vielleicht</p>
+<p begin="00:01:03.899" end="00:01:10.500" style="s2">beschreibe aber kurz was mit holodropen</p>
+<p begin="00:01:07.619" end="00:01:13.080" style="s2">atmen gemeint ist oder ob es Atmen ist</p>
+<p begin="00:01:10.500" end="00:01:15.240" style="s2">eine intensive Form von selbst</p>
+<p begin="00:01:13.080" end="00:01:19.020" style="s2">Erforschung und innerer Prozessarbeit</p>
+<p begin="00:01:15.240" end="00:01:21.600" style="s2">mit veränderten Bewusstseinszuständen in</p>
+<p begin="00:01:19.020" end="00:01:23.700" style="s2">dieser Arbeit können wir mehr über uns</p>
+<p begin="00:01:21.600" end="00:01:26.700" style="s2">selbst und dem was Leben bedeutet</p>
+<p begin="00:01:23.700" end="00:01:30.299" style="s2">erfahren seelische Probleme und</p>
+<p begin="00:01:26.700" end="00:01:31.700" style="s2">Konflikte lösen Antworten auf Sinnfragen</p>
+<p begin="00:01:30.299" end="00:01:35.280" style="s2">finden</p>
+<p begin="00:01:31.700" end="00:01:38.340" style="s2">brachliegende Potenziale auch vielleicht</p>
+<p begin="00:01:35.280" end="00:01:40.920" style="s2">verwirklichen oder wach rufen und den</p>
+<p begin="00:01:38.340" end="00:01:42.619" style="s2">spirituelle Welten eintauchen wie darin</p>
+<p begin="00:01:40.920" end="00:01:45.960" style="s2">schon</p>
+<p begin="00:01:42.619" end="00:01:49.259" style="s2">sichtbar ist ist das holotropheatmen</p>
+<p begin="00:01:45.960" end="00:01:52.680" style="s2">eine sehr umfassende Methode das viele</p>
+<p begin="00:01:49.259" end="00:01:55.640" style="s2">Bereiche des Lebens mit einbezieht im</p>
+<p begin="00:01:52.680" end="00:01:57.920" style="s2">Körper die Seele den Geist die</p>
+<p begin="00:01:55.640" end="00:02:01.340" style="s2">gilt auch die</p>
+<p begin="00:01:57.920" end="00:02:04.640" style="s2">kollektive menschliche Situation die</p>
+<p begin="00:02:01.340" end="00:02:08.599" style="s2">Evolution die Lebensgeschichte also</p>
+<p begin="00:02:04.640" end="00:02:12.360" style="s2">vieles was Mensch sein ausmacht darauf</p>
+<p begin="00:02:08.599" end="00:02:14.760" style="s2">bezieht sich auch das holodropia Atmen</p>
+<p begin="00:02:12.360" end="00:02:16.860" style="s2">man muss ja so vorstellen wenn wir eine</p>
+<p begin="00:02:14.760" end="00:02:19.800" style="s2">Atemsitzung durchführen sondern ungefähr</p>
+<p begin="00:02:16.860" end="00:02:23.360" style="s2">vielleicht 30 Leute im Raum da gehen</p>
+<p begin="00:02:19.800" end="00:02:26.160" style="s2">immer paarweise zusammen und bilden so</p>
+<p begin="00:02:23.360" end="00:02:29.520" style="s2">Arbeits- oder bauen zur Arbeitsinseln im</p>
+<p begin="00:02:26.160" end="00:02:32.239" style="s2">Raum auf einer ist als erfahrener und</p>
+<p begin="00:02:29.520" end="00:02:33.959" style="s2">der andere ist als Beisitzer der</p>
+<p begin="00:02:32.239" end="00:02:36.360" style="s2">Mithilfe niemand was braucht</p>
+<p begin="00:02:33.959" end="00:02:39.120" style="s2">beispielsweise mehr Wasser also zur</p>
+<p begin="00:02:36.360" end="00:02:40.620" style="s2">Toilette muss den Halt unterstützt in</p>
+<p begin="00:02:39.120" end="00:02:42.180" style="s2">den nächsten Sitzung werden die Rollen</p>
+<p begin="00:02:40.620" end="00:02:44.519" style="s2">gewechselt</p>
+<p begin="00:02:42.180" end="00:02:46.500" style="s2">und die werden am Anfang der fahrende</p>
+<p begin="00:02:44.519" end="00:02:50.400" style="s2">liegt am Rücken der Raum ist etwas</p>
+<p begin="00:02:46.500" end="00:02:52.980" style="s2">abgedunkelt wie gesagt viele Matten und</p>
+<p begin="00:02:50.400" end="00:02:54.180" style="s2">so Arbeitsinseln sind vorbereitet und</p>
+<p begin="00:02:52.980" end="00:02:57.000" style="s2">dann führe ich so eine Art</p>
+<p begin="00:02:54.180" end="00:02:59.099" style="s2">Entspannungsübung durch so dass die</p>
+<p begin="00:02:57.000" end="00:03:01.620" style="s2">Leute sich innerlich leichter öffnen</p>
+<p begin="00:02:59.099" end="00:03:02.519" style="s2">können weil oft doch auch Aufregung da</p>
+<p begin="00:03:01.620" end="00:03:05.400" style="s2">ist oder vielleicht ein bisschen</p>
+<p begin="00:03:02.519" end="00:03:09.239" style="s2">Nervosität sich öffnen können für ein</p>
+<p begin="00:03:05.400" end="00:03:11.640" style="s2">Prozess und am Ende der ein der</p>
+<p begin="00:03:09.239" end="00:03:13.800" style="s2">Entspannungsübung leite ich die Leute an</p>
+<p begin="00:03:11.640" end="00:03:16.319" style="s2">einfach schneller und intensiver zu</p>
+<p begin="00:03:13.800" end="00:03:18.659" style="s2">atmen wobei es hier nicht wie bei</p>
+<p begin="00:03:16.319" end="00:03:21.360" style="s2">anderen Methoden jetzt auf ankommt ob</p>
+<p begin="00:03:18.659" end="00:03:23.700" style="s2">man durch die Nase atmet oder bestimmten</p>
+<p begin="00:03:21.360" end="00:03:27.060" style="s2">Arten Rhythmus hat sondern die Idee ist</p>
+<p begin="00:03:23.700" end="00:03:29.640" style="s2">einfach schneller intensiver</p>
+<p begin="00:03:27.060" end="00:03:33.260" style="s2">wir wissen dass durch dieses schnellere</p>
+<p begin="00:03:29.640" end="00:03:36.599" style="s2">atmen die Kontrollmechanismen und die</p>
+<p begin="00:03:33.260" end="00:03:38.459" style="s2">Abwehrmechanismen und die Widerstände</p>
+<p begin="00:03:36.599" end="00:03:40.519" style="s2">etwas gesenkt werden es hat schon</p>
+<p begin="00:03:38.459" end="00:03:42.739" style="s2">Wilhelm Reich ein Bekannter</p>
+<p begin="00:03:40.519" end="00:03:45.500" style="s2">körperpsychotherapeut</p>
+<p begin="00:03:42.739" end="00:03:47.159" style="s2">aus vergangenen Zeiten der die</p>
+<p begin="00:03:45.500" end="00:03:50.280" style="s2">Körperpsychotherapie mehr oder weniger</p>
+<p begin="00:03:47.159" end="00:03:52.440" style="s2">begründet hat auch herausgefunden</p>
+<p begin="00:03:50.280" end="00:03:54.420" style="s2">und dass ich Widerstände gegen</p>
+<p begin="00:03:52.440" end="00:03:57.000" style="s2">psychisches erleben oft durch die</p>
+<p begin="00:03:54.420" end="00:03:58.620" style="s2">Blockierung des Atems aufbauen und wenn</p>
+<p begin="00:03:57.000" end="00:04:01.200" style="s2">wir jetzt schneller atmet intensiver</p>
+<p begin="00:03:58.620" end="00:04:02.780" style="s2">atmet dann haben wir einerseits die</p>
+<p begin="00:04:01.200" end="00:04:05.840" style="s2">Möglichkeit dass die</p>
+<p begin="00:04:02.780" end="00:04:09.060" style="s2">Kontrollmechanismen abgebaut werden und</p>
+<p begin="00:04:05.840" end="00:04:11.099" style="s2">andererseits ist der große Vorteil dass</p>
+<p begin="00:04:09.060" end="00:04:13.019" style="s2">ich Selbstheilungskräfte innerlich</p>
+<p begin="00:04:11.099" end="00:04:17.180" style="s2">aktiviert werden</p>
+<p begin="00:04:13.019" end="00:04:20.940" style="s2">und das auch die gesamte hirnsituation</p>
+<p begin="00:04:17.180" end="00:04:23.840" style="s2">so vorbereitet ist das ganzheitliches</p>
+<p begin="00:04:20.940" end="00:04:27.600" style="s2">erleben dass das Wahrnehmen von Bildern</p>
+<p begin="00:04:23.840" end="00:04:31.280" style="s2">leichter von starken gegen kann das auch</p>
+<p begin="00:04:27.600" end="00:04:34.080" style="s2">die Menschen praktisch in so ein</p>
+<p begin="00:04:31.280" end="00:04:37.919" style="s2">traumähnlichen Zustand eintreten können</p>
+<p begin="00:04:34.080" end="00:04:39.740" style="s2">und auch um hier sozusagen existenzielle</p>
+<p begin="00:04:37.919" end="00:04:42.600" style="s2">Erfahrungen zu machen und wenn man dann</p>
+<p begin="00:04:39.740" end="00:04:46.440" style="s2">wenn ich die Leute angeleitet und der</p>
+<p begin="00:04:42.600" end="00:04:48.960" style="s2">eine atmet schneller lauter bewegt sich</p>
+<p begin="00:04:46.440" end="00:04:52.860" style="s2">im Raum schreit vielleicht rückt seine</p>
+<p begin="00:04:48.960" end="00:04:55.919" style="s2">Wut aus der andere ist traurig weint</p>
+<p begin="00:04:52.860" end="00:04:58.440" style="s2">dritte ist vielleicht ganz weit weg mit</p>
+<p begin="00:04:55.919" end="00:05:00.840" style="s2">dem anderen Thema in Kontakt und der</p>
+<p begin="00:04:58.440" end="00:05:04.740" style="s2">Prozess wird noch und unterstützt durch</p>
+<p begin="00:05:00.840" end="00:05:07.940" style="s2">eine benennen ist evokative Musik das</p>
+<p begin="00:05:04.740" end="00:05:07.940" style="s2">manche raus</p>
+<p begin="00:05:08.180" end="00:05:13.800" style="s2">herausführende Musik die uns hilft dass</p>
+<p begin="00:05:11.580" end="00:05:15.780" style="s2">die Art mir Erfahrungen prägnant der</p>
+<p begin="00:05:13.800" end="00:05:17.940" style="s2">deutlicher werden die beeinflusst nicht</p>
+<p begin="00:05:15.780" end="00:05:20.580" style="s2">die Inhalte aber unterstützt den</p>
+<p begin="00:05:17.940" end="00:05:24.419" style="s2">atmenden und es dauert dann ungefähr so</p>
+<p begin="00:05:20.580" end="00:05:27.539" style="s2">zwei drei vier Stunden je nachdem wir</p>
+<p begin="00:05:24.419" end="00:05:31.380" style="s2">haben keine festgelegtes Ende sondern</p>
+<p begin="00:05:27.539" end="00:05:34.680" style="s2">jeder soll seinen Prozess organisch zu</p>
+<p begin="00:05:31.380" end="00:05:37.740" style="s2">Ende führen können und dann und am Ende</p>
+<p begin="00:05:34.680" end="00:05:39.060" style="s2">wenn jemand fertig wird dann checken wir</p>
+<p begin="00:05:37.740" end="00:05:40.500" style="s2">ihn auch nochmal was sich in Ordnung</p>
+<p begin="00:05:39.060" end="00:05:42.840" style="s2">fühlen falls nicht irgendwelche</p>
+<p begin="00:05:40.500" end="00:05:44.759" style="s2">Spannungen da sind helfen wir durch</p>
+<p begin="00:05:42.840" end="00:05:47.520" style="s2">Körperarbeit prozessorientierter</p>
+<p begin="00:05:44.759" end="00:05:50.340" style="s2">Körperarbeit hier diese Spannungen noch</p>
+<p begin="00:05:47.520" end="00:05:52.620" style="s2">zu lösen dann auch sein dass sie während</p>
+<p begin="00:05:50.340" end="00:05:54.419" style="s2">des Prozesses mal jemand Unterstützung</p>
+<p begin="00:05:52.620" end="00:05:56.880" style="s2">von unseres Leiter braucht wir gehen</p>
+<p begin="00:05:54.419" end="00:05:58.860" style="s2">immer doch im Raum und achten auf die</p>
+<p begin="00:05:56.880" end="00:06:00.360" style="s2">Leute und helfen dort mit wo was</p>
+<p begin="00:05:58.860" end="00:06:02.520" style="s2">gebraucht wird</p>
+<p begin="00:06:00.360" end="00:06:05.100" style="s2">und so wenn die Atemsitzung noch ein</p>
+<p begin="00:06:02.520" end="00:06:08.360" style="s2">paar Stunden zu Ende ist und jemand sich</p>
+<p begin="00:06:05.100" end="00:06:10.500" style="s2">ganz fertig fühlt dann legt er auch noch</p>
+<p begin="00:06:08.360" end="00:06:12.180" style="s2">Blatt Papier vor sich hin mit</p>
+<p begin="00:06:10.500" end="00:06:15.360" style="s2">Wachsmalstiften und beginnt noch</p>
+<p begin="00:06:12.180" end="00:06:17.940" style="s2">intuitiv zu malen um sozusagen das</p>
+<p begin="00:06:15.360" end="00:06:20.240" style="s2">Erlebte noch in ein symbolischen Art und</p>
+<p begin="00:06:17.940" end="00:06:23.160" style="s2">Weise auch noch</p>
+<p begin="00:06:20.240" end="00:06:26.280" style="s2">darzustellen das hilft uns später bei</p>
+<p begin="00:06:23.160" end="00:06:28.319" style="s2">der Aufarbeitung die dann wenn die</p>
+<p begin="00:06:26.280" end="00:06:30.120" style="s2">atmositzung fertig ist am nächsten Tag</p>
+<p begin="00:06:28.319" end="00:06:32.400" style="s2">erfolgt wo wir uns in kleinen Gruppen</p>
+<p begin="00:06:30.120" end="00:06:34.500" style="s2">dann in der großen Gruppe zusammensetzen</p>
+<p begin="00:06:32.400" end="00:06:36.780" style="s2">und die Leute sprechen dann über ihre</p>
+<p begin="00:06:34.500" end="00:06:40.139" style="s2">Erfahrungen und versuchen durch</p>
+<p begin="00:06:36.780" end="00:06:42.660" style="s2">verstehende Resonanz Ihnen was diese</p>
+<p begin="00:06:40.139" end="00:06:45.060" style="s2">Erfahrung für sie bedeutet und was sie</p>
+<p begin="00:06:42.660" end="00:06:47.539" style="s2">in was sie sie unterstützen kann im</p>
+<p begin="00:06:45.060" end="00:06:51.780" style="s2">Leben und wie gesagt dass</p>
+<p begin="00:06:47.539" end="00:06:53.759" style="s2">was wir bisher gesehen haben ist das die</p>
+<p begin="00:06:51.780" end="00:06:55.740" style="s2">Menschen sehr viel und sehr gut davon</p>
+<p begin="00:06:53.759" end="00:06:58.080" style="s2">profitieren können in jeder Hinsicht</p>
+<p begin="00:06:55.740" end="00:07:00.419" style="s2">nicht nur in der Aufarbeitung von</p>
+<p begin="00:06:58.080" end="00:07:02.360" style="s2">seelischen Konflikten sondern auch</p>
+<p begin="00:07:00.419" end="00:07:06.539" style="s2">überhaupt zu erkennen was Menschen</p>
+<p begin="00:07:02.360" end="00:07:08.780" style="s2">ausmacht wie tief wir eigentlich von</p>
+<p begin="00:07:06.539" end="00:07:08.780" style="s2">einer</p>
+<p begin="00:07:09.500" end="00:07:15.240" style="s2">sticht eine inneren Schicht die uns für</p>
+<p begin="00:07:13.139" end="00:07:19.680" style="s2">die uns unterstützt die uns begleitet</p>
+<p begin="00:07:15.240" end="00:07:22.380" style="s2">wir nennen diese auch innere Weisheit</p>
+<p begin="00:07:19.680" end="00:07:25.500" style="s2">auch unterstützt wird und das und auch</p>
+<p begin="00:07:22.380" end="00:07:26.599" style="s2">gefördert wird und es ist oft für die</p>
+<p begin="00:07:25.500" end="00:07:29.400" style="s2">Leute</p>
+<p begin="00:07:26.599" end="00:07:31.380" style="s2">das erste Mal dass sie sich dann trauen</p>
+<p begin="00:07:29.400" end="00:07:34.080" style="s2">ihrem Inneren</p>
+<p begin="00:07:31.380" end="00:07:36.720" style="s2">Vertrauen zu schenken oder sich auf ihr</p>
+<p begin="00:07:34.080" end="00:07:39.960" style="s2">Inneres zu verlassen gelassen im Leben</p>
+<p begin="00:07:36.720" end="00:07:42.120" style="s2">zu werden offen im Leben zu werden</p>
+<p begin="00:07:39.960" end="00:07:44.400" style="s2">das Leben für Sicherheit auch als</p>
+<p begin="00:07:42.120" end="00:07:49.160" style="s2">Geschenk zu sehen also es gibt viele</p>
+<p begin="00:07:44.400" end="00:07:51.419" style="s2">Dinge die Leute dann am Ende für sich</p>
+<p begin="00:07:49.160" end="00:07:52.280" style="s2">profitieren können oder wahrnehmen</p>
+<p begin="00:07:51.419" end="00:07:55.199" style="s2">können</p>
+<p begin="00:07:52.280" end="00:07:58.319" style="s2">Sie uns ein paar konkrete Beispiele</p>
+<p begin="00:07:55.199" end="00:08:02.400" style="s2">erläutern was Teilnehmer beim holotropen</p>
+<p begin="00:07:58.319" end="00:08:05.400" style="s2">Atmen erlebt haben bzw erleben können</p>
+<p begin="00:08:02.400" end="00:08:08.099" style="s2">ja vielleicht sage ich vielleicht ein</p>
+<p begin="00:08:05.400" end="00:08:11.479" style="s2">paar Sätze dazu über Trans personale</p>
+<p begin="00:08:08.099" end="00:08:14.699" style="s2">Erfahrungen da die Zeit und Raumgrenzen</p>
+<p begin="00:08:11.479" end="00:08:17.220" style="s2">aufgehoben sind kann es vorkommen dass</p>
+<p begin="00:08:14.699" end="00:08:21.199" style="s2">ich jemanden möglicherweise plötzlich</p>
+<p begin="00:08:17.220" end="00:08:24.000" style="s2">außerhalb seines Körpers erlebt</p>
+<p begin="00:08:21.199" end="00:08:27.720" style="s2">verstorbenen Angehörigen begegnet oder</p>
+<p begin="00:08:24.000" end="00:08:30.139" style="s2">in fremde Kulturen eintaucht eine Frau</p>
+<p begin="00:08:27.720" end="00:08:32.820" style="s2">erlebte sich beispielsweise als</p>
+<p begin="00:08:30.139" end="00:08:34.380" style="s2">Teilnehmerin eines fruchtbarkeitsritos</p>
+<p begin="00:08:32.820" end="00:08:37.740" style="s2">in Afrika</p>
+<p begin="00:08:34.380" end="00:08:40.440" style="s2">ein anderer wiederum hat die Division in</p>
+<p begin="00:08:37.740" end="00:08:44.099" style="s2">Peru schamanisch initiiert worden zu</p>
+<p begin="00:08:40.440" end="00:08:45.800" style="s2">sein ein junger Mann berichtete auch wie</p>
+<p begin="00:08:44.099" end="00:08:48.360" style="s2">er sich in einem mittelalterlichen</p>
+<p begin="00:08:45.800" end="00:08:51.899" style="s2">nasskalten Folterkeller unendlichen</p>
+<p begin="00:08:48.360" end="00:08:52.880" style="s2">Qualen ausgesetzt zu haben aber auch so</p>
+<p begin="00:08:51.899" end="00:08:54.720" style="s2">genannte</p>
+<p begin="00:08:52.880" end="00:08:57.600" style="s2">parapsychologische Phänomene wie</p>
+<p begin="00:08:54.720" end="00:09:00.360" style="s2">Hellsehen oder präkognitionen können</p>
+<p begin="00:08:57.600" end="00:09:03.140" style="s2">auftreten einmal hat jemand während</p>
+<p begin="00:09:00.360" end="00:09:05.839" style="s2">einer Atemsitzung seinem Vater in der</p>
+<p begin="00:09:03.140" end="00:09:08.640" style="s2">Computertomographie würde liegen gesehen</p>
+<p begin="00:09:05.839" end="00:09:11.880" style="s2">und als er heimkam stellte sich heraus</p>
+<p begin="00:09:08.640" end="00:09:15.180" style="s2">dass der Vater genau zu diesem Zeitpunkt</p>
+<p begin="00:09:11.880" end="00:09:17.220" style="s2">einen Hirnschlag erlitten hatte</p>
+<p begin="00:09:15.180" end="00:09:19.279" style="s2">eine befreiende Wirkung können</p>
+<p begin="00:09:17.220" end="00:09:23.959" style="s2">beispielsweise auch so</p>
+<p begin="00:09:19.279" end="00:09:26.040" style="s2">Todes Erlebnisse vermitteln eine</p>
+<p begin="00:09:23.959" end="00:09:29.459" style="s2">seminarteilnehmerin berichtete etwa</p>
+<p begin="00:09:26.040" end="00:09:31.800" style="s2">folgendes und das darf ich kurz zitieren</p>
+<p begin="00:09:29.459" end="00:09:34.440" style="s2">sie hat mir dann im Nachhinein</p>
+<p begin="00:09:31.800" end="00:09:38.100" style="s2">geschrieben ich werde auf einem Brett</p>
+<p begin="00:09:34.440" end="00:09:41.540" style="s2">und die betischen Mönchen getragen mein</p>
+<p begin="00:09:38.100" end="00:09:45.180" style="s2">Körper ist ganz leicht die Mönche singen</p>
+<p begin="00:09:41.540" end="00:09:48.120" style="s2">es ist eine Verabschiedung ich sehe eine</p>
+<p begin="00:09:45.180" end="00:09:50.700" style="s2">Frau die sehr weint und mich selbst als</p>
+<p begin="00:09:48.120" end="00:09:54.360" style="s2">Toter tibetischer Mönch auf dem Brett</p>
+<p begin="00:09:50.700" end="00:09:56.459" style="s2">liegen dann werde ich verbrannt ich</p>
+<p begin="00:09:54.360" end="00:09:59.580" style="s2">spüre das Feuer in meinem Rücken es ist</p>
+<p begin="00:09:56.459" end="00:10:01.560" style="s2">und es ist nicht unangenehm ich spüre</p>
+<p begin="00:09:59.580" end="00:10:04.880" style="s2">auch wenn meine Knochen sich während des</p>
+<p begin="00:10:01.560" end="00:10:07.700" style="s2">Verbrennens biegen alles weitet sich</p>
+<p begin="00:10:04.880" end="00:10:10.680" style="s2">mein Körper fühlt sich noch leichter an</p>
+<p begin="00:10:07.700" end="00:10:13.380" style="s2">ich komme ins Licht</p>
+<p begin="00:10:10.680" end="00:10:15.660" style="s2">ist ein ganz tolles und behagliches</p>
+<p begin="00:10:13.380" end="00:10:18.060" style="s2">Gefühl</p>
+<p begin="00:10:15.660" end="00:10:19.820" style="s2">vielleicht ich unterscheide ja manchmal</p>
+<p begin="00:10:18.060" end="00:10:22.019" style="s2">auch zwischen</p>
+<p begin="00:10:19.820" end="00:10:24.300" style="s2">transpersonalen Erfahrungen und</p>
+<p begin="00:10:22.019" end="00:10:26.940" style="s2">spirituellen erfahren weil spirituelle</p>
+<p begin="00:10:24.300" end="00:10:29.880" style="s2">Erfahrungen zu besonderen Merkmale auch</p>
+<p begin="00:10:26.940" end="00:10:31.500" style="s2">haben sie sind eingebettet in die</p>
+<p begin="00:10:29.880" end="00:10:32.940" style="s2">transpersonalen Erfahrung aber</p>
+<p begin="00:10:31.500" end="00:10:34.860" style="s2">vielleicht darf ich da noch ein paar</p>
+<p begin="00:10:32.940" end="00:10:37.580" style="s2">Sätze dazu sagen</p>
+<p begin="00:10:34.860" end="00:10:40.500" style="s2">so im spirituellen Erwachen</p>
+<p begin="00:10:37.580" end="00:10:43.100" style="s2">findet der Suchende nichts viel mehr</p>
+<p begin="00:10:40.500" end="00:10:45.839" style="s2">wird er gefunden von einer</p>
+<p begin="00:10:43.100" end="00:10:48.420" style="s2">offenbarungserfahrung den mystischen</p>
+<p begin="00:10:45.839" end="00:10:51.720" style="s2">Traditionen als Präsenz des Göttlichen</p>
+<p begin="00:10:48.420" end="00:10:54.620" style="s2">verstanden wird der erfahren die fühlt</p>
+<p begin="00:10:51.720" end="00:10:57.959" style="s2">sich von etwas unfassbar großen getragen</p>
+<p begin="00:10:54.620" end="00:11:00.000" style="s2">und mit allem verbunden wie es</p>
+<p begin="00:10:57.959" end="00:11:02.220" style="s2">beispielsweise folgende Schilderung</p>
+<p begin="00:11:00.000" end="00:11:04.560" style="s2">ausdrückt hier werde ich auch wieder</p>
+<p begin="00:11:02.220" end="00:11:08.720" style="s2">eine Erfahrung einer seminarteilnehmerin</p>
+<p begin="00:11:04.560" end="00:11:08.720" style="s2">auch kurz zitieren</p>
+<p begin="00:11:08.899" end="00:11:14.880" style="s2">Armbänder auf denen ich liege auch</p>
+<p begin="00:11:12.300" end="00:11:17.339" style="s2">treten gelbe schlichtstrahlen senkrecht</p>
+<p begin="00:11:14.880" end="00:11:20.000" style="s2">in meinen Rumpf ein</p>
+<p begin="00:11:17.339" end="00:11:23.100" style="s2">ich fühle mich von Ihnen getragen</p>
+<p begin="00:11:20.000" end="00:11:26.459" style="s2">zusammengehörig immer mehr verschmelt</p>
+<p begin="00:11:23.100" end="00:11:28.220" style="s2">sich mit meiner Umgebung dem Raum und</p>
+<p begin="00:11:26.459" end="00:11:34.320" style="s2">dem Geschehen im Raum</p>
+<p begin="00:11:28.220" end="00:11:38.880" style="s2">spüre alles ist eins egal ob Menschen ob</p>
+<p begin="00:11:34.320" end="00:11:41.720" style="s2">Gegenstände ob Musik ob mein erleben</p>
+<p begin="00:11:38.880" end="00:11:44.760" style="s2">häufig wird auch von Licht Erscheinungen</p>
+<p begin="00:11:41.720" end="00:11:47.940" style="s2">energiephänomenen und dannen Zuständen</p>
+<p begin="00:11:44.760" end="00:11:49.100" style="s2">des Glücks der Hingabe und der Demut</p>
+<p begin="00:11:47.940" end="00:11:51.720" style="s2">berichtet</p>
+<p begin="00:11:49.100" end="00:11:55.880" style="s2">begleitet oftmals auf und tiefster</p>
+<p begin="00:11:51.720" end="00:11:58.140" style="s2">Ergriffenheit in einem finden so einer</p>
+<p begin="00:11:55.880" end="00:11:59.940" style="s2">unerschütterlichen Gelassenheit oft</p>
+<p begin="00:11:58.140" end="00:12:03.959" style="s2">übergeht</p>
+<p begin="00:11:59.940" end="00:12:05.480" style="s2">es ist vielleicht um es darzulegen es</p>
+<p begin="00:12:03.959" end="00:12:09.180" style="s2">ist manchmal so eine</p>
+<p begin="00:12:05.480" end="00:12:11.700" style="s2">Präsenz von einer unheimlichen Liebe und</p>
+<p begin="00:12:09.180" end="00:12:14.399" style="s2">Schönheit die sich in diesen Erfahrungen</p>
+<p begin="00:12:11.700" end="00:12:16.920" style="s2">auch offenbaren kann so schreibt jemand</p>
+<p begin="00:12:14.399" end="00:12:20.480" style="s2">beispielsweise mir im Nachhinein über</p>
+<p begin="00:12:16.920" end="00:12:23.160" style="s2">ihre Erfahrung es ist so viel Licht da</p>
+<p begin="00:12:20.480" end="00:12:25.800" style="s2">göttliches strahlendes Licht seine</p>
+<p begin="00:12:23.160" end="00:12:27.959" style="s2">Gegenwart ist überwältigend die Arme</p>
+<p begin="00:12:25.800" end="00:12:30.180" style="s2">heben sich und beide Hände legen sich</p>
+<p begin="00:12:27.959" end="00:12:33.060" style="s2">mit den Handrücken über die Stirn und</p>
+<p begin="00:12:30.180" end="00:12:35.339" style="s2">über das dritte Auge die Hände schützen</p>
+<p begin="00:12:33.060" end="00:12:38.579" style="s2">mich noch vor der überwältigenden machen</p>
+<p begin="00:12:35.339" end="00:12:41.220" style="s2">und Schönheit seines Lichts es ist so</p>
+<p begin="00:12:38.579" end="00:12:44.579" style="s2">viel für mich und Tränen der Seligkeit</p>
+<p begin="00:12:41.220" end="00:12:47.700" style="s2">ist überwältigt Seins brechen aus das</p>
+<p begin="00:12:44.579" end="00:12:50.000" style="s2">ganze sein ist ausgebreitet Frieden</p>
+<p begin="00:12:47.700" end="00:12:51.740" style="s2">Seligkeit Glück Liebe</p>
+<p begin="00:12:50.000" end="00:12:54.139" style="s2">Schönheit</p>
+<p begin="00:12:51.740" end="00:12:56.760" style="s2">eingetaucht in das eine</p>
+<p begin="00:12:54.139" end="00:12:59.880" style="s2">Tränen Strömen und entwickelt tiefes</p>
+<p begin="00:12:56.760" end="00:13:02.639" style="s2">Weinen trinkt aus dem Innersten es ist</p>
+<p begin="00:12:59.880" end="00:13:05.820" style="s2">nicht Schmerz über irdisches ist die</p>
+<p begin="00:13:02.639" end="00:13:07.459" style="s2">Erschütterung und Erlösung die wir</p>
+<p begin="00:13:05.820" end="00:13:10.440" style="s2">Bewältigung durch seine Schönheit</p>
+<p begin="00:13:07.459" end="00:13:13.760" style="s2">unglaublich unglaublich dass so viel</p>
+<p begin="00:13:10.440" end="00:13:16.920" style="s2">Schönes und er haben es existiert</p>
+<p begin="00:13:13.760" end="00:13:18.600" style="s2">und auslöschbar</p>
+<p begin="00:13:16.920" end="00:13:21.240" style="s2">wenn die Teilnehmer all diese</p>
+<p begin="00:13:18.600" end="00:13:23.459" style="s2">verschiedenen Dinge erleben kommt es da</p>
+<p begin="00:13:21.240" end="00:13:26.779" style="s2">manchmal vor dass sie in der Reflexion</p>
+<p begin="00:13:23.459" end="00:13:28.800" style="s2">danach sagen sie wissen nicht ob sie da</p>
+<p begin="00:13:26.779" end="00:13:31.079" style="s2">Fantasieprodukte des Gehirns erlebt</p>
+<p begin="00:13:28.800" end="00:13:34.260" style="s2">haben oder ob sie da wirklich etwas</p>
+<p begin="00:13:31.079" end="00:13:37.139" style="s2">Reales erlebt haben kommt das vor dass</p>
+<p begin="00:13:34.260" end="00:13:40.940" style="s2">sie sich da unsicher sind ja es kommt</p>
+<p begin="00:13:37.139" end="00:13:44.040" style="s2">schon vor und es ist ja auch so und ich</p>
+<p begin="00:13:40.940" end="00:13:46.200" style="s2">versuche die Leute dann eine zu</p>
+<p begin="00:13:44.040" end="00:13:48.839" style="s2">überreden das ist so das so sondern</p>
+<p begin="00:13:46.200" end="00:13:51.959" style="s2">greife des auf was macht mich daran</p>
+<p begin="00:13:48.839" end="00:13:54.540" style="s2">unsicher er kann es jemand sagen</p>
+<p begin="00:13:51.959" end="00:13:57.060" style="s2">beispielsweise ja weil das noch nie</p>
+<p begin="00:13:54.540" end="00:14:00.000" style="s2">erlebt habe ich habe noch nie so viele</p>
+<p begin="00:13:57.060" end="00:14:02.220" style="s2">tiefe Liebe erlebt ihr mir noch nie so</p>
+<p begin="00:14:00.000" end="00:14:03.600" style="s2">offen erlebt hat dann sage ich</p>
+<p begin="00:14:02.220" end="00:14:06.480" style="s2">vielleicht</p>
+<p begin="00:14:03.600" end="00:14:09.959" style="s2">okay es ist erstmal alles ganz klar wenn</p>
+<p begin="00:14:06.480" end="00:14:12.360" style="s2">jemand was erste Mal etwas erlebt dass</p>
+<p begin="00:14:09.959" end="00:14:15.480" style="s2">ich saß ja verständlich dass das auch</p>
+<p begin="00:14:12.360" end="00:14:17.899" style="s2">einmal die inneren bisherigen Grundsätze</p>
+<p begin="00:14:15.480" end="00:14:20.519" style="s2">ein bisschen ins Wanken bringt und es</p>
+<p begin="00:14:17.899" end="00:14:22.500" style="s2">ist schaffen natürlich auch Unsicherheit</p>
+<p begin="00:14:20.519" end="00:14:24.899" style="s2">und dann so Schritt für Schritt</p>
+<p begin="00:14:22.500" end="00:14:27.600" style="s2">entwickelt sich dann auch eine gute</p>
+<p begin="00:14:24.899" end="00:14:28.980" style="s2">Beziehung zu dieser Erfahrung und die</p>
+<p begin="00:14:27.600" end="00:14:30.600" style="s2">Leute werden dann mit der Zeit auch</p>
+<p begin="00:14:28.980" end="00:14:33.779" style="s2">sicher da können das auch besser</p>
+<p begin="00:14:30.600" end="00:14:37.920" style="s2">annehmen aber wie gesagt der versuche</p>
+<p begin="00:14:33.779" end="00:14:39.720" style="s2">ich sehr geduldig und achtsam vorzugehen</p>
+<p begin="00:14:37.920" end="00:14:42.180" style="s2">so dass niemand es gibt wenn ihr uns</p>
+<p begin="00:14:39.720" end="00:14:44.519" style="s2">jemand beispielsweise zu mir sagt könnte</p>
+<p begin="00:14:42.180" end="00:14:48.139" style="s2">das auch Fantasie erleben sein das kann</p>
+<p begin="00:14:44.519" end="00:14:48.139" style="s2">ist auch sein aber was spürst du</p>
+<p begin="00:14:49.380" end="00:14:53.760" style="s2">und und versuche immer wieder</p>
+<p begin="00:14:51.440" end="00:14:55.500" style="s2">zurückzukehren zu dem Menschen das</p>
+<p begin="00:14:53.760" end="00:14:59.040" style="s2">erlebt</p>
+<p begin="00:14:55.500" end="00:15:02.160" style="s2">und wenn der Mensch die Freiheit hat für</p>
+<p begin="00:14:59.040" end="00:15:03.800" style="s2">sich selbst des wahrzunehmen und zu</p>
+<p begin="00:15:02.160" end="00:15:08.820" style="s2">spüren</p>
+<p begin="00:15:03.800" end="00:15:10.399" style="s2">dann dann wird er den Weg gehen der für</p>
+<p begin="00:15:08.820" end="00:15:13.740" style="s2">ihn richtig ist und der Film gut ist</p>
+<p begin="00:15:10.399" end="00:15:16.560" style="s2">also ich versuche da ich habe zwar meine</p>
+<p begin="00:15:13.740" end="00:15:19.500" style="s2">Ansichten auch ich komme auch aus der</p>
+<p begin="00:15:16.560" end="00:15:22.199" style="s2">transpersonalen Psychologie aber auch</p>
+<p begin="00:15:19.500" end="00:15:24.860" style="s2">Bürger dazu geschrieben und viele</p>
+<p begin="00:15:22.199" end="00:15:28.139" style="s2">Vorträge dazu gehalten natürlich</p>
+<p begin="00:15:24.860" end="00:15:33.500" style="s2">aber ich halte das alles für möglich</p>
+<p begin="00:15:28.139" end="00:15:33.500" style="s2">ohne jemanden zu sagen das ist so</p>
+<p begin="00:15:33.860" end="00:15:39.240" style="s2">jemand immer wir nennen das</p>
+<p begin="00:15:37.220" end="00:15:40.399" style="s2">phänomenologisch zu begleiten das</p>
+<p begin="00:15:39.240" end="00:15:43.860" style="s2">bedeutet</p>
+<p begin="00:15:40.399" end="00:15:46.820" style="s2">entlang seiner Erfahrung</p>
+<p begin="00:15:43.860" end="00:15:50.579" style="s2">die für ihn möglichen</p>
+<p begin="00:15:46.820" end="00:15:53.720" style="s2">Sinnhorizonte und Sicherheiten und</p>
+<p begin="00:15:50.579" end="00:15:57.800" style="s2">Unsicherheiten zu besprechen und</p>
+<p begin="00:15:53.720" end="00:16:01.199" style="s2">herauszuarbeiten so dass sein Inneres</p>
+<p begin="00:15:57.800" end="00:16:02.820" style="s2">diesen Weg dann am Ende weiß was fehlen</p>
+<p begin="00:16:01.199" end="00:16:04.800" style="s2">stimmt oder was wir nicht stimmt und</p>
+<p begin="00:16:02.820" end="00:16:06.600" style="s2">eine Frage die ich auch in anderen</p>
+<p begin="00:16:04.800" end="00:16:08.639" style="s2">Videos immer wieder Stelle weil sie auch</p>
+<p begin="00:16:06.600" end="00:16:11.639" style="s2">von zusichern im Kommentarbereich immer</p>
+<p begin="00:16:08.639" end="00:16:14.220" style="s2">wieder erscheint betrifft diese Frage</p>
+<p begin="00:16:11.639" end="00:16:16.800" style="s2">nach dem warum also sie haben auch</p>
+<p begin="00:16:14.220" end="00:16:19.019" style="s2">selbst diese positive Quelle erwähnt von</p>
+<p begin="00:16:16.800" end="00:16:22.019" style="s2">der man getragen wird diese liebe dieses</p>
+<p begin="00:16:19.019" end="00:16:24.000" style="s2">Licht und so weiter warum entfernt sich</p>
+<p begin="00:16:22.019" end="00:16:26.279" style="s2">der Mensch davon so sehr dass sie sich</p>
+<p begin="00:16:24.000" end="00:16:28.980" style="s2">gar nicht mehr daran erinnert und dass</p>
+<p begin="00:16:26.279" end="00:16:31.500" style="s2">er sozusagen diese wenn man es religiös</p>
+<p begin="00:16:28.980" end="00:16:34.560" style="s2">ausdrücken will diese Gottes Ferne</p>
+<p begin="00:16:31.500" end="00:16:36.420" style="s2">erlebt oder erleben muss warum tauchen</p>
+<p begin="00:16:34.560" end="00:16:39.060" style="s2">viele Menschen ein in diese Negativität</p>
+<p begin="00:16:36.420" end="00:16:41.339" style="s2">ins leiden in die Unbewusstheit in die</p>
+<p begin="00:16:39.060" end="00:16:43.800" style="s2">Gewalt und so weiter also warum diese</p>
+<p begin="00:16:41.339" end="00:16:46.019" style="s2">mühsame Reise wenn man es als Reise</p>
+<p begin="00:16:43.800" end="00:16:48.240" style="s2">bezeichnen will weg von diesem Ursprung</p>
+<p begin="00:16:46.019" end="00:16:49.980" style="s2">und wieder zurück da stellt sich für</p>
+<p begin="00:16:48.240" end="00:16:52.380" style="s2">viele Menschen die große Frage nach dem</p>
+<p begin="00:16:49.980" end="00:16:54.060" style="s2">Warum haben sie eine mögliche Antwort</p>
+<p begin="00:16:52.380" end="00:16:56.940" style="s2">darauf</p>
+<p begin="00:16:54.060" end="00:17:00.740" style="s2">ja ich werde auch immer bei Vorträgen</p>
+<p begin="00:16:56.940" end="00:17:00.740" style="s2">gefragt warum gibt es das Böse</p>
+<p begin="00:17:00.899" end="00:17:06.380" style="s2">warum sind gehen Menschen so miteinander</p>
+<p begin="00:17:04.020" end="00:17:06.380" style="s2">um</p>
+<p begin="00:17:07.260" end="00:17:12.319" style="s2">ich sage immer</p>
+<p begin="00:17:09.240" end="00:17:15.000" style="s2">ich kann auf diese</p>
+<p begin="00:17:12.319" end="00:17:17.480" style="s2">weitläufigen kosmologischen Fragen keine</p>
+<p begin="00:17:15.000" end="00:17:17.480" style="s2">Antwort geben</p>
+<p begin="00:17:18.419" end="00:17:25.799" style="s2">was ich aber sehen kann ist wenn jemand</p>
+<p begin="00:17:22.380" end="00:17:28.460" style="s2">an sich arbeitet wenn sich jemand auf</p>
+<p begin="00:17:25.799" end="00:17:32.540" style="s2">diese Prozesse einlässt</p>
+<p begin="00:17:28.460" end="00:17:34.620" style="s2">wird der Schritt für Schritt achtsamer</p>
+<p begin="00:17:32.540" end="00:17:36.299" style="s2">liebevoller mit sich selbst und mit</p>
+<p begin="00:17:34.620" end="00:17:39.660" style="s2">anderen</p>
+<p begin="00:17:36.299" end="00:17:41.760" style="s2">hat mir Freude am Leben und versteht</p>
+<p begin="00:17:39.660" end="00:17:44.280" style="s2">mehr vom Leben</p>
+<p begin="00:17:41.760" end="00:17:47.760" style="s2">und das kann ich mit Sicherheit sagen</p>
+<p begin="00:17:44.280" end="00:17:50.220" style="s2">weil ich das oft und oft tausende Male</p>
+<p begin="00:17:47.760" end="00:17:52.640" style="s2">erlebt habe in meinen Seminaren oder</p>
+<p begin="00:17:50.220" end="00:17:54.780" style="s2">auch in der in meiner Tätigkeit des</p>
+<p begin="00:17:52.640" end="00:17:57.240" style="s2">krankenhausleiter in meiner Tätigkeit in</p>
+<p begin="00:17:54.780" end="00:18:00.720" style="s2">der Psychiatrie</p>
+<p begin="00:17:57.240" end="00:18:02.460" style="s2">der Mensch wenn er sich selbst ins</p>
+<p begin="00:18:00.720" end="00:18:04.020" style="s2">Gespräch kommt wenn er sich selbst</p>
+<p begin="00:18:02.460" end="00:18:08.280" style="s2">erforscht</p>
+<p begin="00:18:04.020" end="00:18:12.000" style="s2">wenn er sich seiner selbstbewusst wird</p>
+<p begin="00:18:08.280" end="00:18:14.220" style="s2">wird einen Weg gehen der ihn zu diesen</p>
+<p begin="00:18:12.000" end="00:18:16.559" style="s2">Aspekten führt</p>
+<p begin="00:18:14.220" end="00:18:19.860" style="s2">und das kann ich sagen weil warum wir</p>
+<p begin="00:18:16.559" end="00:18:23.780" style="s2">diesen Weg zu gehen haben</p>
+<p begin="00:18:19.860" end="00:18:23.780" style="s2">weshalb es mühsam ist</p>
+<p begin="00:18:24.299" end="00:18:30.900" style="s2">ich kann vielleicht sagen okay es gibt</p>
+<p begin="00:18:26.700" end="00:18:33.299" style="s2">viele tief liegende evolutionäre oder</p>
+<p begin="00:18:30.900" end="00:18:37.620" style="s2">auch lebensgeschichtliche Hürden und</p>
+<p begin="00:18:33.299" end="00:18:40.500" style="s2">Hindernisse die es zu überwinden gilt</p>
+<p begin="00:18:37.620" end="00:18:42.900" style="s2">ganz klar wenn man nur an diesen das</p>
+<p begin="00:18:40.500" end="00:18:45.419" style="s2">Thema Liebe denken</p>
+<p begin="00:18:42.900" end="00:18:48.000" style="s2">natürlich ist es klar wenn jemand seine</p>
+<p begin="00:18:45.419" end="00:18:51.200" style="s2">nächsten Angehörigen mag seine Kinder</p>
+<p begin="00:18:48.000" end="00:18:52.880" style="s2">liebt das gehört auch mit so zum</p>
+<p begin="00:18:51.200" end="00:18:55.500" style="s2">evolutionär</p>
+<p begin="00:18:52.880" end="00:18:58.020" style="s2">entwickelten brutpflegeinstinkt und wenn</p>
+<p begin="00:18:55.500" end="00:18:59.940" style="s2">jetzt aber jemand diese Art von</p>
+<p begin="00:18:58.020" end="00:19:03.360" style="s2">spirituelle Liebe dass ich plötzlich</p>
+<p begin="00:18:59.940" end="00:19:05.700" style="s2">meine Liebe nicht nur in diesen</p>
+<p begin="00:19:03.360" end="00:19:09.000" style="s2">personalen oder persönlichen Nahbereich</p>
+<p begin="00:19:05.700" end="00:19:10.919" style="s2">empfinde sondern den Menschen gegenüber</p>
+<p begin="00:19:09.000" end="00:19:12.299" style="s2">Freude haben an der Befreiung der</p>
+<p begin="00:19:10.919" end="00:19:15.539" style="s2">Menschen</p>
+<p begin="00:19:12.299" end="00:19:17.580" style="s2">nächstes auch ungeheure innere Schritt</p>
+<p begin="00:19:15.539" end="00:19:20.580" style="s2">diesen Schritt zu machen und der</p>
+<p begin="00:19:17.580" end="00:19:22.679" style="s2">erfordert sehr viel an Ausdauer sehr</p>
+<p begin="00:19:20.580" end="00:19:24.419" style="s2">viel an innerer Arbeit sehr viel</p>
+<p begin="00:19:22.679" end="00:19:28.220" style="s2">vielleicht am Meditation oder</p>
+<p begin="00:19:24.419" end="00:19:30.840" style="s2">spiritueller Bewusstseinsarbeit um diese</p>
+<p begin="00:19:28.220" end="00:19:31.980" style="s2">eingesteckte evolutionäre Grenze zu</p>
+<p begin="00:19:30.840" end="00:19:34.740" style="s2">überwinden</p>
+<p begin="00:19:31.980" end="00:19:37.500" style="s2">und ich sage immer aber wenn wir daran</p>
+<p begin="00:19:34.740" end="00:19:41.039" style="s2">arbeiten wenn wir dann ist es nicht nur</p>
+<p begin="00:19:37.500" end="00:19:44.160" style="s2">etwas was uns selbst gut tut sondern tut</p>
+<p begin="00:19:41.039" end="00:19:47.039" style="s2">es unsere Umgebung gut dann tut es den</p>
+<p begin="00:19:44.160" end="00:19:49.980" style="s2">Menschen gut und das der Menschheit gut</p>
+<p begin="00:19:47.039" end="00:19:52.679" style="s2">und der Gesamtentwicklung gut und das</p>
+<p begin="00:19:49.980" end="00:19:55.500" style="s2">kann ich mit Sicherheit sagen also das</p>
+<p begin="00:19:52.679" end="00:19:59.640" style="s2">ist Wege</p>
+<p begin="00:19:55.500" end="00:20:02.280" style="s2">die in kleinen Schritten vorangehen zu</p>
+<p begin="00:19:59.640" end="00:20:04.500" style="s2">nachhaltige Bewusstheit</p>
+<p begin="00:20:02.280" end="00:20:06.720" style="s2">zu nachhaltiger Offenheit und</p>
+<p begin="00:20:04.500" end="00:20:09.440" style="s2">nachhaltiger Liebe</p>
+<p begin="00:20:06.720" end="00:20:12.419" style="s2">zu nachhaltigen inneren</p>
+<p begin="00:20:09.440" end="00:20:15.260" style="s2">Sinnverständnis auch führt und ich sage</p>
+<p begin="00:20:12.419" end="00:20:18.840" style="s2">immer meinen Leuten man muss sich auch</p>
+<p begin="00:20:15.260" end="00:20:20.760" style="s2">Zeit lassen können damit es gibt ja so</p>
+<p begin="00:20:18.840" end="00:20:22.160" style="s2">ein schönes Zitat</p>
+<p begin="00:20:20.760" end="00:20:24.620" style="s2">von</p>
+<p begin="00:20:22.160" end="00:20:28.500" style="s2">hier kurz</p>
+<p begin="00:20:24.620" end="00:20:30.179" style="s2">anführen darf sie sagt jeder möchte in</p>
+<p begin="00:20:28.500" end="00:20:31.679" style="s2">seiner Entwicklung immer große Sprünge</p>
+<p begin="00:20:30.179" end="00:20:33.780" style="s2">machen</p>
+<p begin="00:20:31.679" end="00:20:37.200" style="s2">doch bedenke</p>
+<p begin="00:20:33.780" end="00:20:38.000" style="s2">jeder kleine Schritt hat seinen inneren</p>
+<p begin="00:20:37.200" end="00:20:41.840" style="s2">Plan</p>
+<p begin="00:20:38.000" end="00:20:41.840" style="s2">möchtest du nicht kennenlernen</p>
+<p begin="00:20:42.179" end="00:20:46.679" style="s2">wenn du Schritt für Schritt in deine</p>
+<p begin="00:20:43.980" end="00:20:51.120" style="s2">Entwicklung entlang gehst</p>
+<p begin="00:20:46.679" end="00:20:54.900" style="s2">wirst am Ende spüren und merken was das</p>
+<p begin="00:20:51.120" end="00:20:57.059" style="s2">was du für das ganze getan hast</p>
+<p begin="00:20:54.900" end="00:20:58.679" style="s2">und ich glaube das ist es dran zu</p>
+<p begin="00:20:57.059" end="00:21:00.720" style="s2">bleiben</p>
+<p begin="00:20:58.679" end="00:21:04.440" style="s2">auch sich von Rückschlägen und</p>
+<p begin="00:21:00.720" end="00:21:06.860" style="s2">Rückfällen und Umwegen nicht entmutigen</p>
+<p begin="00:21:04.440" end="00:21:06.860" style="s2">zu lassen</p>
+<p begin="00:21:07.559" end="00:21:12.720" style="s2">und ausdauernd zu sein</p>
+<p begin="00:21:10.440" end="00:21:15.240" style="s2">auf diesem inneren Weg ist ist er Arbeit</p>
+<p begin="00:21:12.720" end="00:21:18.480" style="s2">der bewusstseinsweg ist eine Arbeit und</p>
+<p begin="00:21:15.240" end="00:21:20.280" style="s2">wir werden am Ende weiter Öffnung und</p>
+<p begin="00:21:18.480" end="00:21:22.860" style="s2">mehr Liebe erleben und es ist das schöne</p>
+<p begin="00:21:20.280" end="00:21:25.320" style="s2">dabei und es kann immer wieder auch</p>
+<p begin="00:21:22.860" end="00:21:27.780" style="s2">selbst empfinden und ich bin ja selber</p>
+<p begin="00:21:25.320" end="00:21:30.059" style="s2">ein Mensch der im Leben verwurzelt ist</p>
+<p begin="00:21:27.780" end="00:21:32.159" style="s2">ich habe zwei erwachsene Kinder die hat</p>
+<p begin="00:21:30.059" end="00:21:35.100" style="s2">eine Familie ich habe alle die Probleme</p>
+<p begin="00:21:32.159" end="00:21:36.720" style="s2">die meine Seminarteilnehmer vielleicht</p>
+<p begin="00:21:35.100" end="00:21:39.320" style="s2">mitbringen die habe ich auch selber</p>
+<p begin="00:21:36.720" end="00:21:42.919" style="s2">gehabt ja ich ich</p>
+<p begin="00:21:39.320" end="00:21:45.120" style="s2">versuche nicht von sozusagen von diesem</p>
+<p begin="00:21:42.919" end="00:21:48.299" style="s2">lehrerstandpunkt aus das da zulegen</p>
+<p begin="00:21:45.120" end="00:21:51.539" style="s2">sondern auch es mitgefährte auch als</p>
+<p begin="00:21:48.299" end="00:21:54.299" style="s2">mitsuchende des Lebens natürlich habe</p>
+<p begin="00:21:51.539" end="00:21:57.240" style="s2">ich meine Rolle als jemand der in dem</p>
+<p begin="00:21:54.299" end="00:22:00.120" style="s2">Bereich Kompetenzen erworben hat der die</p>
+<p begin="00:21:57.240" end="00:22:01.460" style="s2">viel Erfahrung hat in dem Bereich</p>
+<p begin="00:22:00.120" end="00:22:03.659" style="s2">aber</p>
+<p begin="00:22:01.460" end="00:22:06.480" style="s2">ich versuche immer wieder die Menschen</p>
+<p begin="00:22:03.659" end="00:22:09.659" style="s2">aus auf dieser Ebene auch auf zu</p>
+<p begin="00:22:06.480" end="00:22:12.780" style="s2">begegnen und anzusprechen und</p>
+<p begin="00:22:09.659" end="00:22:13.880" style="s2">ich glaube damit ist Entwicklung möglich</p>
+<p begin="00:22:12.780" end="00:22:18.900" style="s2">und</p>
+<p begin="00:22:13.880" end="00:22:20.760" style="s2">was warum alles genauso ist wie gesagt</p>
+<p begin="00:22:18.900" end="00:22:23.539" style="s2">traue ich mir</p>
+<p begin="00:22:20.760" end="00:22:28.220" style="s2">vielleicht mal in späten Diskussionen</p>
+<p begin="00:22:23.539" end="00:22:31.679" style="s2">eine Annahme zu aber keine</p>
+<p begin="00:22:28.220" end="00:22:33.780" style="s2">öffentlichen Antworten und wie kam es</p>
+<p begin="00:22:31.679" end="00:22:35.520" style="s2">eigentlich dass sie als durch und durch</p>
+<p begin="00:22:33.780" end="00:22:37.799" style="s2">akademischer wissenschaftlicher</p>
+<p begin="00:22:35.520" end="00:22:39.740" style="s2">Psychologe und Therapeut sich so</p>
+<p begin="00:22:37.799" end="00:22:41.840" style="s2">spirituell aufgeschlossen haben</p>
+<p begin="00:22:39.740" end="00:22:45.679" style="s2">ich habe sehr viel mit Menschen</p>
+<p begin="00:22:41.840" end="00:22:48.539" style="s2">gearbeitet die in</p>
+<p begin="00:22:45.679" end="00:22:51.179" style="s2">Grenzbereichen ihres Lebens waren sehr</p>
+<p begin="00:22:48.539" end="00:22:53.580" style="s2">schwere Probleme hatten sehr schwere</p>
+<p begin="00:22:51.179" end="00:22:55.200" style="s2">Konflikte hatten aber auch eine in der</p>
+<p begin="00:22:53.580" end="00:22:57.900" style="s2">Psychiatrie gearbeitet habe ein</p>
+<p begin="00:22:55.200" end="00:23:00.120" style="s2">Krankenhaus geleitet und für mich war</p>
+<p begin="00:22:57.900" end="00:23:03.539" style="s2">immer die Frage</p>
+<p begin="00:23:00.120" end="00:23:05.580" style="s2">wie kann ich neben dieser akademischen</p>
+<p begin="00:23:03.539" end="00:23:08.900" style="s2">Psychologie und Psychotherapie die ich</p>
+<p begin="00:23:05.580" end="00:23:12.179" style="s2">gelernt habe auch das mit einbeziehen</p>
+<p begin="00:23:08.900" end="00:23:15.140" style="s2">was alte Weisheitslehren uns beibringen</p>
+<p begin="00:23:12.179" end="00:23:19.700" style="s2">beigebracht haben was wir aus</p>
+<p begin="00:23:15.140" end="00:23:21.780" style="s2">verschiedenen Bereichen auch der</p>
+<p begin="00:23:19.700" end="00:23:24.419" style="s2">fahrerwissenschaften an Erkenntnissen</p>
+<p begin="00:23:21.780" end="00:23:26.340" style="s2">gefunden haben weil ich meine das ist</p>
+<p begin="00:23:24.419" end="00:23:29.460" style="s2">sehr wichtig ist</p>
+<p begin="00:23:26.340" end="00:23:31.740" style="s2">das ganze Spektrum mit zur Verfügung zu</p>
+<p begin="00:23:29.460" end="00:23:33.240" style="s2">haben also habe ich Ausschau gehalten</p>
+<p begin="00:23:31.740" end="00:23:37.559" style="s2">nach einer Methode oder einer</p>
+<p begin="00:23:33.240" end="00:23:40.260" style="s2">Möglichkeit hier das mit einbeziehen zu</p>
+<p begin="00:23:37.559" end="00:23:43.380" style="s2">können und es war wie ein glücklicher</p>
+<p begin="00:23:40.260" end="00:23:45.600" style="s2">Zufall und wenn es schildere durch</p>
+<p begin="00:23:43.380" end="00:23:50.580" style="s2">rieselt mich gerade im Moment auch noch</p>
+<p begin="00:23:45.600" end="00:23:53.220" style="s2">mal so im Anfang der 80er Jahre 1984</p>
+<p begin="00:23:50.580" end="00:23:55.320" style="s2">genau gesagt da war ich schon als</p>
+<p begin="00:23:53.220" end="00:23:57.380" style="s2">Ausbilder für Psychotherapie tätig und</p>
+<p begin="00:23:55.320" end="00:23:59.940" style="s2">ich leitete eine aus ein</p>
+<p begin="00:23:57.380" end="00:24:02.640" style="s2">Ausbildungswochenende gleich in der</p>
+<p begin="00:23:59.940" end="00:24:05.280" style="s2">Anfangsrunde äußerte ein Teilnehmer den</p>
+<p begin="00:24:02.640" end="00:24:08.100" style="s2">Wunsch die Abendsitzung ausfallen zu</p>
+<p begin="00:24:05.280" end="00:24:10.919" style="s2">lassen um unweit von unserem Seminarort</p>
+<p begin="00:24:08.100" end="00:24:13.799" style="s2">einen interessanten Vortrag von einem</p>
+<p begin="00:24:10.919" end="00:24:16.140" style="s2">gewissen Stand ist auf groß über eine</p>
+<p begin="00:24:13.799" end="00:24:17.179" style="s2">neue Art von Psychotherapie die mit</p>
+<p begin="00:24:16.140" end="00:24:19.620" style="s2">veränderten</p>
+<p begin="00:24:17.179" end="00:24:20.900" style="s2">Bewusstseinszuständen arbeitet besuchen</p>
+<p begin="00:24:19.620" end="00:24:22.980" style="s2">zu können</p>
+<p begin="00:24:20.900" end="00:24:25.380" style="s2">zunächst sträubte ich mich weil es</p>
+<p begin="00:24:22.980" end="00:24:28.140" style="s2">junger Ausbilder ist es ja nicht gerade</p>
+<p begin="00:24:25.380" end="00:24:31.700" style="s2">angenehm wenn jemand sagt ja machen wir</p>
+<p begin="00:24:28.140" end="00:24:35.120" style="s2">nicht hier weiter sondern woanders und</p>
+<p begin="00:24:31.700" end="00:24:37.980" style="s2">hier zu seine Anregung als Widerstand</p>
+<p begin="00:24:35.120" end="00:24:41.039" style="s2">gegen seinen inneren Prozess oder meine</p>
+<p begin="00:24:37.980" end="00:24:44.100" style="s2">Arbeit gedeutet wir werden Dich versucht</p>
+<p begin="00:24:41.039" end="00:24:45.320" style="s2">in seine unbewussten Motive klar zu</p>
+<p begin="00:24:44.100" end="00:24:48.179" style="s2">machen</p>
+<p begin="00:24:45.320" end="00:24:50.580" style="s2">spürtig plötzlich seine enge im</p>
+<p begin="00:24:48.179" end="00:24:53.039" style="s2">Brustraum und immer gedacht vielleicht</p>
+<p begin="00:24:50.580" end="00:24:55.559" style="s2">hängt es sogar mit der Enge meiner</p>
+<p begin="00:24:53.039" end="00:24:57.539" style="s2">Vorstellungen zusammen dass ich das</p>
+<p begin="00:24:55.559" end="00:25:00.600" style="s2">jetzt als Widerstand heute und nicht als</p>
+<p begin="00:24:57.539" end="00:25:04.860" style="s2">Anregung und als mir das klar geworden</p>
+<p begin="00:25:00.600" end="00:25:08.000" style="s2">ist hat mich so ein Flow durchströmt das</p>
+<p begin="00:25:04.860" end="00:25:12.000" style="s2">ist wie sein rieselndes ganzen Körper</p>
+<p begin="00:25:08.000" end="00:25:14.039" style="s2">ging und ich wusste dass es das ist</p>
+<p begin="00:25:12.000" end="00:25:16.440" style="s2">wichtig war diese Anregung aufzugreifen</p>
+<p begin="00:25:14.039" end="00:25:18.020" style="s2">und ich habe dann eingewilligt und wir</p>
+<p begin="00:25:16.440" end="00:25:22.380" style="s2">sind gemeinsam</p>
+<p begin="00:25:18.020" end="00:25:26.279" style="s2">zu diesen Vortrag damals nach Salzburg</p>
+<p begin="00:25:22.380" end="00:25:29.340" style="s2">gefahren dort angekommen war mir von der</p>
+<p begin="00:25:26.279" end="00:25:32.520" style="s2">ersten Minute an klar dass ich für mich</p>
+<p begin="00:25:29.340" end="00:25:35.279" style="s2">was bahnbrechendes ereignete ist</p>
+<p begin="00:25:32.520" end="00:25:37.020" style="s2">erfasste mich plötzlich eine Energie die</p>
+<p begin="00:25:35.279" end="00:25:39.960" style="s2">mich bis heute nicht mehr losgelassen</p>
+<p begin="00:25:37.020" end="00:25:43.460" style="s2">hat den auf einmal fügte sich zusammen</p>
+<p begin="00:25:39.960" end="00:25:45.980" style="s2">was bisher für mich getrennt Schein</p>
+<p begin="00:25:43.460" end="00:25:48.860" style="s2">moderne Psychologie</p>
+<p begin="00:25:45.980" end="00:25:52.460" style="s2">klassische Psychotherapie traditionelle</p>
+<p begin="00:25:48.860" end="00:25:55.080" style="s2">Therapie altes Wissen und neue</p>
+<p begin="00:25:52.460" end="00:25:57.779" style="s2">Bewusstseinsforschung und es hat mich</p>
+<p begin="00:25:55.080" end="00:26:00.000" style="s2">natürlich dann sehr mitgenommen gerade</p>
+<p begin="00:25:57.779" end="00:26:03.059" style="s2">im Hinblick auch auf das Thema wie kann</p>
+<p begin="00:26:00.000" end="00:26:06.059" style="s2">man Psychotherapie und Spiritualität in</p>
+<p begin="00:26:03.059" end="00:26:08.700" style="s2">einer guten Weise auch integrieren damit</p>
+<p begin="00:26:06.059" end="00:26:12.240" style="s2">begann für mich ein Weg der sowohl</p>
+<p begin="00:26:08.700" end="00:26:14.520" style="s2">privat als als beruflich umwälzende</p>
+<p begin="00:26:12.240" end="00:26:17.900" style="s2">Veränderungen zur Folge hatte</p>
+<p begin="00:26:14.520" end="00:26:20.460" style="s2">ich kündigte wenig später meine</p>
+<p begin="00:26:17.900" end="00:26:23.700" style="s2">leiterposition in dem Krankenhaus dass</p>
+<p begin="00:26:20.460" end="00:26:26.039" style="s2">ich geleitet habe und habe inzwischen</p>
+<p begin="00:26:23.700" end="00:26:30.600" style="s2">viele viele</p>
+<p begin="00:26:26.039" end="00:26:32.900" style="s2">ja fast tausende Leute in diesen Bereich</p>
+<p begin="00:26:30.600" end="00:26:35.460" style="s2">auch begleitet durch veränderte</p>
+<p begin="00:26:32.900" end="00:26:37.919" style="s2">Bewusstseinszustände habe viele hundert</p>
+<p begin="00:26:35.460" end="00:26:41.840" style="s2">Leute auch in dieser Weise ausgebildet</p>
+<p begin="00:26:37.919" end="00:26:45.179" style="s2">Gott sei Dank habe ich damals ja gesagt</p>
+<p begin="00:26:41.840" end="00:26:48.200" style="s2">und interessanterweise war so derjenige</p>
+<p begin="00:26:45.179" end="00:26:51.260" style="s2">der diese Anregung in dieser an diesem</p>
+<p begin="00:26:48.200" end="00:26:53.880" style="s2">Ausbildungswochenende uns gegeben hat</p>
+<p begin="00:26:51.260" end="00:26:56.159" style="s2">der hat den Vortrag äußerst langweilig</p>
+<p begin="00:26:53.880" end="00:26:58.860" style="s2">gefunden hat nie mehr etwas mit dieser</p>
+<p begin="00:26:56.159" end="00:27:02.100" style="s2">Sache zu tun gehabt er war wie sozusagen</p>
+<p begin="00:26:58.860" end="00:27:05.039" style="s2">ein Botschafter für mich der sozusagen</p>
+<p begin="00:27:02.100" end="00:27:07.320" style="s2">was neues ins Leben gebracht hat und ich</p>
+<p begin="00:27:05.039" end="00:27:09.539" style="s2">habe bis heute viele hundert Seminare</p>
+<p begin="00:27:07.320" end="00:27:11.940" style="s2">auch in dieser Weise durchgeführt wie</p>
+<p begin="00:27:09.539" end="00:27:14.580" style="s2">die Ausbildungen an und es ist sozusagen</p>
+<p begin="00:27:11.940" end="00:27:16.520" style="s2">das Herzstück meiner Arbeit geworden</p>
+<p begin="00:27:14.580" end="00:27:18.659" style="s2">auch wenn ich noch nebenbei</p>
+<p begin="00:27:16.520" end="00:27:21.120" style="s2">Krankenhäuser so positioniere ich</p>
+<p begin="00:27:18.659" end="00:27:22.679" style="s2">betreut habe oder auch in der</p>
+<p begin="00:27:21.120" end="00:27:25.260" style="s2">traditionellen Psychotherapie als</p>
+<p begin="00:27:22.679" end="00:27:27.919" style="s2">Ausbilder tätig war ist es immer mehr</p>
+<p begin="00:27:25.260" end="00:27:31.679" style="s2">ins Zentrum verrückt und Gott sei Dank</p>
+<p begin="00:27:27.919" end="00:27:34.260" style="s2">durch diese Anregung von damals und es</p>
+<p begin="00:27:31.679" end="00:27:37.520" style="s2">war sozusagen diese Schlüsselpunkt der</p>
+<p begin="00:27:34.260" end="00:27:39.419" style="s2">mich damals bewegt hat und mich auch</p>
+<p begin="00:27:37.520" end="00:27:41.900" style="s2">unterstützt hat diese Arbeit zu machen</p>
+<p begin="00:27:39.419" end="00:27:44.460" style="s2">und es gibt ja den Begriff der</p>
+<p begin="00:27:41.900" end="00:27:46.919" style="s2">transpersonalen Psychologie zu der man</p>
+<p begin="00:27:44.460" end="00:27:49.020" style="s2">das holotrophe Atmen zählen kann was</p>
+<p begin="00:27:46.919" end="00:27:53.039" style="s2">verstehen sie unter der transpersonal</p>
+<p begin="00:27:49.020" end="00:27:56.159" style="s2">und Psychologie ja das holo-gruppe Atmen</p>
+<p begin="00:27:53.039" end="00:27:58.880" style="s2">ist eingebettet in die transpersonale</p>
+<p begin="00:27:56.159" end="00:27:58.880" style="s2">Psychologie</p>
+<p begin="00:27:59.059" end="00:28:04.919" style="s2">möchte uns auch zeigen und vermitteln</p>
+<p begin="00:28:02.460" end="00:28:07.500" style="s2">dass eben wie gesagt alte Weisheit</p>
+<p begin="00:28:04.919" end="00:28:08.840" style="s2">lernen moderne Bewusstseinsforschung</p>
+<p begin="00:28:07.500" end="00:28:10.980" style="s2">auch</p>
+<p begin="00:28:08.840" end="00:28:12.960" style="s2">neurophysiologische Forschung etc das</p>
+<p begin="00:28:10.980" end="00:28:15.779" style="s2">ist alles zusammenpassen kann und</p>
+<p begin="00:28:12.960" end="00:28:17.940" style="s2">zusammenkommen kann dass die Einsichten</p>
+<p begin="00:28:15.779" end="00:28:19.679" style="s2">von spirituellen Lehrern genauso wichtig</p>
+<p begin="00:28:17.940" end="00:28:21.600" style="s2">sind wie die Einsichten von großen</p>
+<p begin="00:28:19.679" end="00:28:25.500" style="s2">Psychotherapeuten</p>
+<p begin="00:28:21.600" end="00:28:28.380" style="s2">und uns führt das holotrope Atmen genau</p>
+<p begin="00:28:25.500" end="00:28:30.299" style="s2">dorthin in diesem Bereich hinein unser</p>
+<p begin="00:28:28.380" end="00:28:33.120" style="s2">Bewusstsein erweitert ist wir müssen uns</p>
+<p begin="00:28:30.299" end="00:28:36.059" style="s2">vorstellen durch das schnellere atmen</p>
+<p begin="00:28:33.120" end="00:28:40.140" style="s2">durch die unterstützende Musik durch die</p>
+<p begin="00:28:36.059" end="00:28:42.179" style="s2">Körperarbeit durch auch die Einstellung</p>
+<p begin="00:28:40.140" end="00:28:45.840" style="s2">die wir hineinbringen in diese Arbeit</p>
+<p begin="00:28:42.179" end="00:28:48.779" style="s2">eine offene Einstellung eine mitfühlende</p>
+<p begin="00:28:45.840" end="00:28:52.320" style="s2">Einstellung dass wir dass wir dadurch</p>
+<p begin="00:28:48.779" end="00:28:54.539" style="s2">auch in einem Bereich der Seele</p>
+<p begin="00:28:52.320" end="00:28:57.299" style="s2">vordringen die haben sonst vorenthalten</p>
+<p begin="00:28:54.539" end="00:29:00.299" style="s2">bleibt wenn wir nur über Gespräche</p>
+<p begin="00:28:57.299" end="00:29:02.460" style="s2">versuchen zu ergründen was die Motive</p>
+<p begin="00:29:00.299" end="00:29:05.179" style="s2">eines Menschen sind und dadurch lassen</p>
+<p begin="00:29:02.460" end="00:29:08.779" style="s2">sich auch tief liegende</p>
+<p begin="00:29:05.179" end="00:29:11.460" style="s2">Problemstrukturen Konflikte in einer</p>
+<p begin="00:29:08.779" end="00:29:13.740" style="s2">nachhaltigen Art und Weise auch lösen</p>
+<p begin="00:29:11.460" end="00:29:16.919" style="s2">aber nicht nur das es ist auch möglich</p>
+<p begin="00:29:13.740" end="00:29:19.200" style="s2">hier im Bereiche vorzudringen wo wir</p>
+<p begin="00:29:16.919" end="00:29:21.659" style="s2">heute sagen würden dass vielleicht unser</p>
+<p begin="00:29:19.200" end="00:29:23.520" style="s2">Gedächtnis da gar nicht hinreicht also</p>
+<p begin="00:29:21.659" end="00:29:24.620" style="s2">die Gedächtnisforschung geht davon aus</p>
+<p begin="00:29:23.520" end="00:29:27.480" style="s2">dass</p>
+<p begin="00:29:24.620" end="00:29:29.720" style="s2">vielleicht das biografische Gedächtnis</p>
+<p begin="00:29:27.480" end="00:29:33.620" style="s2">bis zum zweiten Lebensjahr dritten</p>
+<p begin="00:29:29.720" end="00:29:35.880" style="s2">Lebensjahr zurückreicht aber wir haben</p>
+<p begin="00:29:33.620" end="00:29:38.159" style="s2">atmen Erfahrungen gemacht das ist</p>
+<p begin="00:29:35.880" end="00:29:40.380" style="s2">darüber hinausgeht in den geburtsbereich</p>
+<p begin="00:29:38.159" end="00:29:43.260" style="s2">hinein das vielleicht sogar einen</p>
+<p begin="00:29:40.380" end="00:29:45.720" style="s2">brennertalen Bereich in Erfahrungen</p>
+<p begin="00:29:43.260" end="00:29:47.700" style="s2">möglich sind aber auch darüber hinaus</p>
+<p begin="00:29:45.720" end="00:29:51.600" style="s2">wir können durch das holodrope Atmen</p>
+<p begin="00:29:47.700" end="00:29:53.880" style="s2">auch die Grenzen von Raum und Zeit in</p>
+<p begin="00:29:51.600" end="00:29:56.820" style="s2">einer Weise öffnen dass wir plötzlich</p>
+<p begin="00:29:53.880" end="00:30:00.419" style="s2">vielleicht den Kontakt kommen auch mit</p>
+<p begin="00:29:56.820" end="00:30:03.840" style="s2">der Erfahrungen die möglicherweise auch</p>
+<p begin="00:30:00.419" end="00:30:06.840" style="s2">zu tun haben könnten mit etwaigen</p>
+<p begin="00:30:03.840" end="00:30:08.279" style="s2">früheren Existenzen das wenn jemand sich</p>
+<p begin="00:30:06.840" end="00:30:12.960" style="s2">plötzlich</p>
+<p begin="00:30:08.279" end="00:30:14.460" style="s2">in einem in einer in einem anderen Zeit</p>
+<p begin="00:30:12.960" end="00:30:18.779" style="s2">zu einem anderen Zeitpunkt im</p>
+<p begin="00:30:14.460" end="00:30:22.440" style="s2">Mittelalter irgendwo sich wiederfindet</p>
+<p begin="00:30:18.779" end="00:30:25.860" style="s2">und ihr vielleicht auch Einsichten über</p>
+<p begin="00:30:22.440" end="00:30:28.559" style="s2">die Art und Weise wie dort das Leben</p>
+<p begin="00:30:25.860" end="00:30:31.380" style="s2">sich vollzogen hat auch nach der</p>
+<p begin="00:30:28.559" end="00:30:33.419" style="s2">artssitzung schildern kann und ich ihm</p>
+<p begin="00:30:31.380" end="00:30:35.460" style="s2">die Frage stelle hast das Gefühl das ist</p>
+<p begin="00:30:33.419" end="00:30:37.679" style="s2">etwas mit dir zu tun hat wir wollen ja</p>
+<p begin="00:30:35.460" end="00:30:40.080" style="s2">nicht von vornherein schon einmal von</p>
+<p begin="00:30:37.679" end="00:30:43.159" style="s2">diesem Konzept ausgehen und jemand sagt</p>
+<p begin="00:30:40.080" end="00:30:47.340" style="s2">dann möglicherweise ja es fühlt sich so</p>
+<p begin="00:30:43.159" end="00:30:49.080" style="s2">als würde das ganz zu mir gehören ja und</p>
+<p begin="00:30:47.340" end="00:30:51.120" style="s2">dann müssen wir natürlich unsere</p>
+<p begin="00:30:49.080" end="00:30:52.980" style="s2">Perspektive erweitern dann müssen wir</p>
+<p begin="00:30:51.120" end="00:30:55.740" style="s2">natürlich sagen okay vielleicht gibt es</p>
+<p begin="00:30:52.980" end="00:30:58.559" style="s2">etwas wo wir Erfahrungen aus diesen</p>
+<p begin="00:30:55.740" end="00:31:01.380" style="s2">Bereichen auch gewinnen können ich werde</p>
+<p begin="00:30:58.559" end="00:31:04.440" style="s2">niemals jemanden irgendein Modell oder</p>
+<p begin="00:31:01.380" end="00:31:05.600" style="s2">eine Theorie aufdrücken sondern</p>
+<p begin="00:31:04.440" end="00:31:09.240" style="s2">ich</p>
+<p begin="00:31:05.600" end="00:31:11.779" style="s2">versuche immer das was der erfahren dem</p>
+<p begin="00:31:09.240" end="00:31:13.399" style="s2">mir mitteilt dass einfach</p>
+<p begin="00:31:11.779" end="00:31:17.039" style="s2">anzunehmen</p>
+<p begin="00:31:13.399" end="00:31:19.260" style="s2">ernst zu nehmen und seine innere</p>
+<p begin="00:31:17.039" end="00:31:21.720" style="s2">Wahrheit anzuerkennen und es ist für</p>
+<p begin="00:31:19.260" end="00:31:23.120" style="s2">mich das allerwichtigste sage mal am</p>
+<p begin="00:31:21.720" end="00:31:27.299" style="s2">Anfang von</p>
+<p begin="00:31:23.120" end="00:31:29.580" style="s2">holotropen Artengruppen deine Erfahrung</p>
+<p begin="00:31:27.299" end="00:31:30.380" style="s2">ist meine Autorität und ich versuche es</p>
+<p begin="00:31:29.580" end="00:31:32.399" style="s2">nicht</p>
+<p begin="00:31:30.380" end="00:31:34.559" style="s2">irgendjemanden von irgendwas zu</p>
+<p begin="00:31:32.399" end="00:31:37.679" style="s2">überzeugen sondern immer das</p>
+<p begin="00:31:34.559" end="00:31:40.200" style="s2">aufzugreifen was jemand in der</p>
+<p begin="00:31:37.679" end="00:31:42.480" style="s2">artssitzung erfahren hat aber wenn es</p>
+<p begin="00:31:40.200" end="00:31:43.980" style="s2">manchmal Leute anrufen und zu mir sagen</p>
+<p begin="00:31:42.480" end="00:31:46.520" style="s2">vielleicht</p>
+<p begin="00:31:43.980" end="00:31:49.080" style="s2">ich möchte DAX oder jenes erleben in der</p>
+<p begin="00:31:46.520" end="00:31:50.460" style="s2">Arten sozusagen ich kann das nicht</p>
+<p begin="00:31:49.080" end="00:31:53.760" style="s2">versprechen ich kann keine Erfahrung</p>
+<p begin="00:31:50.460" end="00:31:56.279" style="s2">versprechen was ich versprechen kann ist</p>
+<p begin="00:31:53.760" end="00:31:59.700" style="s2">dass wir einen Rahmen schaffen dass wir</p>
+<p begin="00:31:56.279" end="00:32:01.279" style="s2">ein Feld schaffen in dem sie sich selbst</p>
+<p begin="00:31:59.700" end="00:32:04.799" style="s2">begegnen können</p>
+<p begin="00:32:01.279" end="00:32:07.080" style="s2">indem sie tiefere Erlebnisse haben</p>
+<p begin="00:32:04.799" end="00:32:09.120" style="s2">können als gewöhnlich indem sie</p>
+<p begin="00:32:07.080" end="00:32:11.039" style="s2">vielleicht mehr Informationen gewinnen</p>
+<p begin="00:32:09.120" end="00:32:13.559" style="s2">können als sie normalerweise im</p>
+<p begin="00:32:11.039" end="00:32:16.380" style="s2">Alltagsbewusstsein haben und es ist die</p>
+<p begin="00:32:13.559" end="00:32:18.419" style="s2">entscheidende Faktor für mich ja und es</p>
+<p begin="00:32:16.380" end="00:32:20.520" style="s2">gibt auch den Begriff des reporting der</p>
+<p begin="00:32:18.419" end="00:32:24.919" style="s2">relativ bekannt ist wie würden Sie</p>
+<p begin="00:32:20.520" end="00:32:24.919" style="s2">diesen zum holotropen Atmen abgrenzen</p>
+<p begin="00:32:26.539" end="00:32:33.380" style="s2">Sitzung mitgemacht und ich spreche aus</p>
+<p begin="00:32:29.580" end="00:32:35.880" style="s2">der Erfahrung davon ich würde sagen das</p>
+<p begin="00:32:33.380" end="00:32:38.700" style="s2">Methode ja</p>
+<p begin="00:32:35.880" end="00:32:40.740" style="s2">aber es gibt schon Unterschiede der</p>
+<p begin="00:32:38.700" end="00:32:43.760" style="s2">Unterschied zum holodropen Atmen ist das</p>
+<p begin="00:32:40.740" end="00:32:45.840" style="s2">vielleicht beim börsing manchmal</p>
+<p begin="00:32:43.760" end="00:32:49.520" style="s2">Seminarleiter bestimmte Form von</p>
+<p begin="00:32:45.840" end="00:32:51.960" style="s2">Atemtechnik auch mitgeben</p>
+<p begin="00:32:49.520" end="00:32:55.440" style="s2">wie zum Beispiel dass man mehr durch die</p>
+<p begin="00:32:51.960" end="00:32:57.799" style="s2">Nase einatmen soll etc</p>
+<p begin="00:32:55.440" end="00:33:00.840" style="s2">und bei uns geht es darum einfach</p>
+<p begin="00:32:57.799" end="00:33:04.679" style="s2">dynamische schneller intensiver zu atmen</p>
+<p begin="00:33:00.840" end="00:33:06.679" style="s2">auch der Einsatz von Musik</p>
+<p begin="00:33:04.679" end="00:33:09.960" style="s2">ist bei uns vielleicht</p>
+<p begin="00:33:06.679" end="00:33:12.720" style="s2">viele größere Beachtung genauso wie die</p>
+<p begin="00:33:09.960" end="00:33:13.940" style="s2">Körperarbeit bei gerade wenn wir jetzt</p>
+<p begin="00:33:12.720" end="00:33:15.960" style="s2">beispielsweise</p>
+<p begin="00:33:13.940" end="00:33:18.250" style="s2">geburtssituationen miterleben da</p>
+<p begin="00:33:15.960" end="00:33:19.399" style="s2">brauchen die Leute auch jetzt</p>
+<p begin="00:33:18.250" end="00:33:22.200" style="s2">[Musik]</p>
+<p begin="00:33:19.399" end="00:33:24.059" style="s2">in Form von Körperarbeit dass wir</p>
+<p begin="00:33:22.200" end="00:33:27.779" style="s2">jemanden halten oder dass man jemand</p>
+<p begin="00:33:24.059" end="00:33:30.840" style="s2">auch die Möglichkeit geben das hautnah</p>
+<p begin="00:33:27.779" end="00:33:33.620" style="s2">zu erleben oder auch bei schwerwiegenden</p>
+<p begin="00:33:30.840" end="00:33:37.500" style="s2">Trauma da dass man jemand den Arm halten</p>
+<p begin="00:33:33.620" end="00:33:39.899" style="s2">und einfach mal so liebevoll für eine</p>
+<p begin="00:33:37.500" end="00:33:42.360" style="s2">halbe Stunde in einer Geborgenheit auch</p>
+<p begin="00:33:39.899" end="00:33:44.640" style="s2">geben und Wärme geben und Unterstützung</p>
+<p begin="00:33:42.360" end="00:33:47.600" style="s2">geben oder ein Widerstand geben wenn</p>
+<p begin="00:33:44.640" end="00:33:48.960" style="s2">jemand jetzt wurde ausdrücken muss</p>
+<p begin="00:33:47.600" end="00:33:51.960" style="s2">[Musik]</p>
+<p begin="00:33:48.960" end="00:33:55.080" style="s2">gleich gegen den Vater oder eine andere</p>
+<p begin="00:33:51.960" end="00:33:58.820" style="s2">Person und da liegen schon auch die</p>
+<p begin="00:33:55.080" end="00:34:00.899" style="s2">Unterschiede dass wir da aktiv auch</p>
+<p begin="00:33:58.820" end="00:34:03.240" style="s2">prozessorientierte Körper in der</p>
+<p begin="00:34:00.899" end="00:34:05.640" style="s2">Interventionen mit einbringen das</p>
+<p begin="00:34:03.240" end="00:34:07.320" style="s2">vielleicht auch die Zeit Begrenzung</p>
+<p begin="00:34:05.640" end="00:34:11.119" style="s2">nicht vorgegeben ist sondern dass wir</p>
+<p begin="00:34:07.320" end="00:34:13.280" style="s2">wirklich bis der letzte fertig ist auch</p>
+<p begin="00:34:11.119" end="00:34:16.560" style="s2">beratensitzungen durchführen</p>
+<p begin="00:34:13.280" end="00:34:18.780" style="s2">dass wir am Ende auch intuitiv malen das</p>
+<p begin="00:34:16.560" end="00:34:22.679" style="s2">kann man natürlich auch im Börse</p>
+<p begin="00:34:18.780" end="00:34:26.280" style="s2">natürlich einsetzen dass die</p>
+<p begin="00:34:22.679" end="00:34:28.520" style="s2">das vielleicht auch die Kartografie der</p>
+<p begin="00:34:26.280" end="00:34:31.500" style="s2">Psyche ein bisschen erweitert ist</p>
+<p begin="00:34:28.520" end="00:34:34.139" style="s2">transpersonale spirituelle</p>
+<p begin="00:34:31.500" end="00:34:38.940" style="s2">biografische</p>
+<p begin="00:34:34.139" end="00:34:38.940" style="s2">und auch vielleicht trainertale</p>
+<p begin="00:34:39.960" end="00:34:45.139" style="s2">dass man da vielleicht ein bisschen</p>
+<p begin="00:34:42.300" end="00:34:46.879" style="s2">weiter</p>
+<p begin="00:34:45.139" end="00:34:50.899" style="s2">es</p>
+<p begin="00:34:46.879" end="00:34:55.200" style="s2">Spektrum auch haben an möglichen</p>
+<p begin="00:34:50.899" end="00:34:58.380" style="s2">Modellen hier vielleicht aber ich habe</p>
+<p begin="00:34:55.200" end="00:35:02.460" style="s2">die Leute immer sehr gern gehabt und</p>
+<p begin="00:34:58.380" end="00:35:04.320" style="s2">habe sie sehr geschätzt und die machen</p>
+<p begin="00:35:02.460" end="00:35:06.540" style="s2">sicher sehr sehr gut die Arbeit aber es</p>
+<p begin="00:35:04.320" end="00:35:08.640" style="s2">werden wenn man mich so fragt was sie</p>
+<p begin="00:35:06.540" end="00:35:10.500" style="s2">jetzt sagen kann vielleicht für die</p>
+<p begin="00:35:08.640" end="00:35:12.780" style="s2">Unterschiede ja und wer sind die</p>
+<p begin="00:35:10.500" end="00:35:15.660" style="s2">Gründerväter vom Holo Tropen atmen und</p>
+<p begin="00:35:12.780" end="00:35:17.359" style="s2">vom reporting falls es da welche gibt ja</p>
+<p begin="00:35:15.660" end="00:35:21.200" style="s2">das ist</p>
+<p begin="00:35:17.359" end="00:35:25.520" style="s2">Stanislav groß und bin jetzt nicht so</p>
+<p begin="00:35:21.200" end="00:35:29.160" style="s2">aber aber wie gesagt bei beim beim</p>
+<p begin="00:35:25.520" end="00:35:32.040" style="s2">Holo Truppen Atmen ist es vor allem ist</p>
+<p begin="00:35:29.160" end="00:35:33.060" style="s2">ein Dorf auch mein wertgeschätzter</p>
+<p begin="00:35:32.040" end="00:35:35.640" style="s2">Lehrer</p>
+<p begin="00:35:33.060" end="00:35:41.099" style="s2">bisher geschätzter Lehrer der jetzt</p>
+<p begin="00:35:35.640" end="00:35:43.440" style="s2">gerade 91 geworden ist noch lebt und der</p>
+<p begin="00:35:41.099" end="00:35:45.020" style="s2">hat mir da sehr viel beigebracht und ich</p>
+<p begin="00:35:43.440" end="00:35:47.579" style="s2">habe lange Jahre bei ihm lernen dürfen</p>
+<p begin="00:35:45.020" end="00:35:49.380" style="s2">Herr Dr Walch vielen Dank für dieses</p>
+<p begin="00:35:47.579" end="00:35:52.260" style="s2">interessante Gespräch zu diesen</p>
+<p begin="00:35:49.380" end="00:35:55.619" style="s2">Themenfeld und alles Gute für Sie und</p>
+<p begin="00:35:52.260" end="00:35:57.480" style="s2">Ihre Praxis ja vielen Dank und ihnen</p>
+<p begin="00:35:55.619" end="00:36:01.200" style="s2">auch alles Gute ich finde sie machen</p>
+<p begin="00:35:57.480" end="00:36:03.599" style="s2">einen wunderbaren Job und es ist ganz</p>
+<p begin="00:36:01.200" end="00:36:06.119" style="s2">toll dass es so Menschen gibt die dieses</p>
+<p begin="00:36:03.599" end="00:36:09.660" style="s2">Wissen in die Welt tragen herzlichen</p>
+<p begin="00:36:06.119" end="00:36:11.359" style="s2">Dank dafür und alles alles Gute ihren</p>
+<p begin="00:36:09.660" end="00:36:14.520" style="s2">Zuhörern und</p>
+<p begin="00:36:11.359" end="00:36:16.680" style="s2">all denen die das Video auch sehen</p>
+<p begin="00:36:14.520" end="00:36:18.359" style="s2">wenn auch sie über ihre Erfahrungen mit</p>
+<p begin="00:36:16.680" end="00:36:22.280" style="s2">der geistigen Welt auf diesem Kanal</p>
+<p begin="00:36:18.359" end="00:36:25.140" style="s2">berichten wollen schreiben Sie bitte an</p>
+<p begin="00:36:22.280" end="00:36:27.000" style="s2">jenseits@outlook.at oder nutzen Sie den</p>
+<p begin="00:36:25.140" end="00:36:28.920" style="s2">Kommentarbereich um ihre Erfahrungen</p>
+<p begin="00:36:27.000" end="00:36:30.839" style="s2">mitzuteilen</p>
+<p begin="00:36:28.920" end="00:36:33.359" style="s2">durch ihre finanzielle Unterstützung</p>
+<p begin="00:36:30.839" end="00:36:35.040" style="s2">können der weitere Betrieb dieses Kanals</p>
+<p begin="00:36:33.359" end="00:36:38.040" style="s2">gewährleistet und Werbeschaltungen</p>
+<p begin="00:36:35.040" end="00:36:39.839" style="s2">eventuell reduziert werden unter jedem</p>
+<p begin="00:36:38.040" end="00:36:42.000" style="s2">Video befindet sich eine Schaltfläche</p>
+<p begin="00:36:39.839" end="00:36:44.160" style="s2">mit der Sie eine kanalmitgliedschaft</p>
+<p begin="00:36:42.000" end="00:36:46.140" style="s2">eingehen können außerdem sind</p>
+<p begin="00:36:44.160" end="00:36:48.180" style="s2">Möglichkeiten zum Spenden bei jedem</p>
+<p begin="00:36:46.140" end="00:36:51.020" style="s2">Video in der Beschreibung und im ersten</p>
+<p begin="00:36:48.180" end="00:37:06.550" style="s2">Kommentar angeführt vielen Dank</p>
+<p begin="00:36:51.020" end="00:37:06.550" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

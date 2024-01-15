@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.439" end="00:00:02.899" style="s2">Willkommen zu diesem Video.</p>
+<p begin="00:00:02.899" end="00:00:08.109" style="s2">Hier möchte ich Ihnen die aus meiner Sicht<br />besten Experten-Bücher über Nahtoderfahrungen</p>
+<p begin="00:00:08.109" end="00:00:10.720" style="s2">vorstellen, die derzeit auf Deutsch erhätlich<br />sind.</p>
+<p begin="00:00:10.720" end="00:00:15.389" style="s2">Dieser Kanal verdient nichts mit dem Verkauf<br />dieser Bücher.</p>
+<p begin="00:00:15.389" end="00:00:20.140" style="s2">Es geht einzig und allein um Empfehlungen<br />für Menschen, die am Thema interessiert sind.</p>
+<p begin="00:00:20.140" end="00:00:26.869" style="s2">Mit Experten sind hier Personen gemeint, die<br />eine Wissenschafts-basierte Ausbildung haben.</p>
+<p begin="00:00:26.869" end="00:00:32.309" style="s2">Hauptsächlich handelt es sich um Mediziner<br />und sie alle bringen gute Argumente, warum</p>
+<p begin="00:00:32.309" end="00:00:37.410" style="s2">Nahtoderfahrungen keine bloßen Hirnprodukte<br />sind, sondern von einer nicht-körperlichen</p>
+<p begin="00:00:37.410" end="00:00:38.410" style="s2">Existenz zeugen.</p>
+<p begin="00:00:38.410" end="00:00:41.500" style="s2">Nummer 1: Nahtod.</p>
+<p begin="00:00:41.500" end="00:00:47.360" style="s2">Grenzerfahrungen zwischen den Welten: Bahnbrechende<br />Erkenntnisse eines Arztes über das Leben</p>
+<p begin="00:00:47.360" end="00:00:48.379" style="s2">nach dem Tod.</p>
+<p begin="00:00:48.379" end="00:00:53.950" style="s2">Von Dr. Bruce Greyson, Psychiater und Neurowissenschaftler<br />aus den USA.</p>
+<p begin="00:00:53.950" end="00:01:00.531" style="s2">Er ist einer der renommiertersten Experten<br />auf dem Gebiet der NTE. Aufgwachsen ist er</p>
+<p begin="00:01:00.531" end="00:01:05.820" style="s2">streng atheistisch, bis er eines Tages als<br />junger Arzt eine Patientin hatte, die ihm</p>
+<p begin="00:01:05.820" end="00:01:11.390" style="s2">aus der Zeit ihrer Bewusstlosigkeit detailliert<br />beschreiben konnte, was außerhalb ihres Patientenzimmes</p>
+<p begin="00:01:11.390" end="00:01:16.820" style="s2">in einem anderen Raum vor sich ging, wo Dr.<br />Greyson selbst anwesend war.</p>
+<p begin="00:01:16.820" end="00:01:21.700" style="s2">Dadurch bekam Dr. Greyson zum ersten Mal den<br />Verdacht, dass das Bewusstsein unabhängig</p>
+<p begin="00:01:21.700" end="00:01:25.430" style="s2">vom Körper existieren kann.</p>
+<p begin="00:01:25.430" end="00:01:28.560" style="s2">Nummer 2: Beweise für ein Leben nach dem<br />Tod.</p>
+<p begin="00:01:28.560" end="00:01:33.600" style="s2">Von Dr. Jeffrey Long, Radiologe, ebenfalls<br />aus den USA.</p>
+<p begin="00:01:33.600" end="00:01:39.290" style="s2">Als Radiologe ist Dr. Long ein Experte wenn<br />es darum geht, Vorgänge im Körper sichtbar</p>
+<p begin="00:01:39.290" end="00:01:41.770" style="s2">zu machen, wie etwa auch Hirnaktivität.</p>
+<p begin="00:01:41.770" end="00:01:48.409" style="s2">Er wurde auf NTE aufmerksam, weil ihm die<br />Frau eines Freundes Wahrnehmungen beschrieb,</p>
+<p begin="00:01:48.409" end="00:01:53.259" style="s2">während sie nicht nur unter Vollnarkose war,<br />sondern auch einen Herzstillstand hatte.</p>
+<p begin="00:01:53.259" end="00:01:59.390" style="s2">Als Arzt wusste Dr. Long, dass das Gehirn<br />in solchen Zuständen eigentlich keine Wahrnehmungen</p>
+<p begin="00:01:59.390" end="00:02:00.390" style="s2">erzeugen kann.</p>
+<p begin="00:02:00.390" end="00:02:05.560" style="s2">Daher ist er seither am Thema interessiert<br />und auch er gilt als einer der bekanntesten</p>
+<p begin="00:02:05.560" end="00:02:09.840" style="s2">Forscher weltweit auf diesem Gebiet.</p>
+<p begin="00:02:09.840" end="00:02:16.930" style="s2">Nummer 3: Endloses Bewusstsein - Neue medizinische<br />Fakten zur Nahtoderfahrung, von Dr. Pim van</p>
+<p begin="00:02:16.930" end="00:02:22.980" style="s2">Lommel, ein niederländischer Kardiologe,<br />der mit einer der größen Studien über NTE</p>
+<p begin="00:02:22.980" end="00:02:23.980" style="s2">bekannt wurde.</p>
+<p begin="00:02:23.980" end="00:02:30.390" style="s2">Seine Studie wurde im Jahr 2001 im Lancet<br />veröffentlicht, einer der weltweit renommiertesten,</p>
+<p begin="00:02:30.390" end="00:02:35.860" style="s2">wissenschaftlich basierten medizinischen Fachzeitschriften.</p>
+<p begin="00:02:35.860" end="00:02:42.379" style="s2">Nummer 4: Blick in die Ewigkeit – die faszinierende<br />Nahtoderfahrung eines Neurochirurgen, von</p>
+<p begin="00:02:42.379" end="00:02:48.230" style="s2">Dr. Alexander Eben aus den USA, der selbst<br />Neurochirurg war und Nahtoderfahrungen vor</p>
+<p begin="00:02:48.230" end="00:02:50.550" style="s2">seiner eigenen Erfahrung nicht ernst nahm.</p>
+<p begin="00:02:50.550" end="00:02:57.660" style="s2">Als Neuro-Experte geht er besonders auf neurologische<br />Aspekte ein und er hatte seine NTE in einem</p>
+<p begin="00:02:57.660" end="00:03:03.350" style="s2">Zustand, in dem das Gehirn aus neurowissenschaftlicher<br />Sicht nicht in der Lage sein kann, solche</p>
+<p begin="00:03:03.350" end="00:03:05.489" style="s2">klaren Erlebnisse zu erzeugen.</p>
+<p begin="00:03:05.489" end="00:03:10.739" style="s2">Außerdem hatte er bei dieser Erfahrung eine<br />Begegnung mit einer verstorbenen verwandten</p>
+<p begin="00:03:10.739" end="00:03:15.610" style="s2">Person, die er vorher nicht kannte und deren<br />Existenz sich später bestätigte.</p>
+<p begin="00:03:15.610" end="00:03:22.879" style="s2">Nummer 5: Die Kunst des Sterbens – Warum<br />die Seele offenbar weiterlebt und wie man</p>
+<p begin="00:03:22.879" end="00:03:26.209" style="s2">sich schrittweise auf das Sterben vorbereitet.</p>
+<p begin="00:03:26.209" end="00:03:30.910" style="s2">Von Peter Fenwick, Neuropsychiater und Neurophysiologe<br />aus Großbritannien.</p>
+<p begin="00:03:30.910" end="00:03:37.081" style="s2">Auch er war Nahtoderfahrungen gegenüber sehr<br />skeptisch und ablehnend, bis er Anfang der</p>
+<p begin="00:03:37.081" end="00:03:42.580" style="s2">80er-Jahre selbst einen Patienten hatte, der<br />ihm lebhafte Erinnerungen aus einer Zeitphase</p>
+<p begin="00:03:42.580" end="00:03:47.750" style="s2">beschrieb, in der sein Gehirn nicht aktiv<br />war, womit auch für Fenwick der Verdacht</p>
+<p begin="00:03:47.750" end="00:03:51.959" style="s2">aufkam, dass solche Erlebnisse nicht im Gehirn<br />entstehen können.</p>
+<p begin="00:03:51.959" end="00:03:59.490" style="s2">Nummer 6: Der Klassiker von Raymond Moody:<br />Leben nach dem Tod – Die Erforschung einer</p>
+<p begin="00:03:59.490" end="00:04:01.100" style="s2">unerklärlichen Erfahrung.</p>
+<p begin="00:04:01.100" end="00:04:08.099" style="s2">Dr. Raymond Moody ist Psychiater aus den USA<br />und dieses, sein erstes Buch wurde in den</p>
+<p begin="00:04:08.099" end="00:04:13.570" style="s2">70er-Jahren zuerst in den USA und dann auch<br />in vielen anderen Ländern Millionen-fach</p>
+<p begin="00:04:13.570" end="00:04:14.570" style="s2">verkauft.</p>
+<p begin="00:04:14.570" end="00:04:24.710" style="s2">Nummer 7: Erwachen im Licht – Die lebensverändernde<br />Nahtoderfahrung eines Arztes.</p>
+<p begin="00:04:24.710" end="00:04:28.500" style="s2">Von Dr. Rajiv Parti, früherer Chef-Anästhesist<br />aus den USA.</p>
+<p begin="00:04:28.500" end="00:04:34.910" style="s2">Er landete aufgrund einer schweren Erkrankung<br />selbst am OP-Tisch und hatte bei seiner Operation</p>
+<p begin="00:04:34.910" end="00:04:41.139" style="s2">selbst eine NTE, bei der er Anfangs seinen<br />Körper von oben sah, und als Anästhesist</p>
+<p begin="00:04:41.139" end="00:04:46.300" style="s2">wusste er, dass sein Körper in diesem Zustand<br />in Vollnarkose war und er deswegen eigentlich</p>
+<p begin="00:04:46.300" end="00:04:47.800" style="s2">nichts wahrnehmen dürfte.</p>
+<p begin="00:04:47.800" end="00:04:53.970" style="s2">Dieses Buch ist genau genommen kein typisches<br />Experten-Buch, sondern auch ein Buch über</p>
+<p begin="00:04:53.970" end="00:04:56.229" style="s2">eine persönliche NTE.</p>
+<p begin="00:04:56.229" end="00:05:01.400" style="s2">Nachdem Dr. Parti aber selbst Mediziner war<br />und auch auf medizinische Aspekte eingeht,</p>
+<p begin="00:05:01.400" end="00:05:05.520" style="s2">wurde es in diese Liste aufgenommen.</p>
+<p begin="00:05:05.520" end="00:05:11.950" style="s2">Nummer 8: Der Tod muss nicht das Ende sein,<br />von Dr. Sam Parnia, Kardiologe, auch aus den</p>
+<p begin="00:05:11.950" end="00:05:12.950" style="s2">USA.</p>
+<p begin="00:05:12.950" end="00:05:19.380" style="s2">Auch er hat gute Argumente, warum NTE mit<br />hoher Wahrscheinlichkeit nicht im Gehirn entstehen</p>
+<p begin="00:05:19.380" end="00:05:24.320" style="s2">können, sondern auf einer übergeordneten,<br />nicht-körperlichen Natur beruhen dürften.</p>
+<p begin="00:05:24.320" end="00:05:31.889" style="s2">Nummer 9: Nahtoderfahrungen – Neue Wege<br />zu einem tieferen Verständnis.</p>
+<p begin="00:05:31.889" end="00:05:38.690" style="s2">Von Dr. Wilfried Kuhn, Neurologe und Spezialist<br />für Halluzination, und Dr. Joachim Nicolai,</p>
+<p begin="00:05:38.690" end="00:05:44.190" style="s2">Psychologe und Theologe, beide aus Deutschland.</p>
+<p begin="00:05:44.190" end="00:05:49.590" style="s2">Nummer 10: Nahtoderfahrungen – Blick in<br />eine andere Welt – Aktuelle Antworten der</p>
+<p begin="00:05:49.590" end="00:05:55.410" style="s2">Wissenschaft, von Dr. Wolfgang Knüll, Arzt<br />für Allgemeinmedizin aus Deutschland.</p>
+<p begin="00:05:55.410" end="00:06:02.550" style="s2">Mit ihm wurde auf diesem Kanal schon einmal<br />ein Videogespräch zum Thema veröffentlicht.</p>
+<p begin="00:06:02.550" end="00:06:10.080" style="s2">Nummer 11: Geborgen in der Ewigkeit: Wie Nahtod-Erfahrungen<br />das Bewusstsein verändern | Eine außergewöhnliche</p>
+<p begin="00:06:10.080" end="00:06:15.770" style="s2">Studie und Dokumentation zu Nahtod-Erfahrungen<br />und deren einschneidender Kraft und ihren</p>
+<p begin="00:06:15.770" end="00:06:16.770" style="s2">Auswirkungen.</p>
+<p begin="00:06:16.770" end="00:06:22.550" style="s2">Von Penny Sartori, akademische Intensiv-Krankenpflegerin<br />aus Großbritannien.</p>
+<p begin="00:06:22.550" end="00:06:30.729" style="s2">Und Nummer 12 ist das zweite Buch von Dr.<br />Jeffrey Long mit dem Titel: Neue Beweise für</p>
+<p begin="00:06:30.729" end="00:06:32.290" style="s2">ein Leben nach dem Tod.</p>
+<p begin="00:06:32.290" end="00:06:39.130" style="s2">Es gibt noch einige andere, wirkliche Experten<br />auf diesem Gebiet, deren Bücher jedoch nur</p>
+<p begin="00:06:39.130" end="00:06:44.380" style="s2">in anderen Sprachen erhältlich oder momentan<br />vergriffen sind.</p>
+<p begin="00:06:44.380" end="00:06:49.289" style="s2">Sollten Sie liebe Zuseher weitere Experten-Bücher<br />in deutscher Sprache kennen, die hier nicht</p>
+<p begin="00:06:49.289" end="00:06:53.910" style="s2">aufgelistet sind, schreiben Sie bitte den<br />Titel und Autor im Kommentarbereich.</p>
+<p begin="00:06:53.910" end="00:06:59.790" style="s2">Und wenn Sie eines oder mehrere der hier vorgestellten<br />Bücher schon gelesen haben, schreiben Sie</p>
+<p begin="00:06:59.790" end="00:07:02.669" style="s2">auch gerne im Kommentarbereich Ihre Meinung<br />darüber.</p>
+<p begin="00:07:02.669" end="00:07:10.110" style="s2">In einem späteren Video werden die aus meiner<br />Sicht besten Bücher über persönliche Nahtoderfahrungen</p>
+<p begin="00:07:10.110" end="00:07:11.110" style="s2">vorgestellt.</p>
+<p begin="00:07:11.110" end="00:07:15.260" style="s2">Auch darüber können Sie bereits in diesem<br />Video im Kommentarbereich ihre Empfehlungen</p>
+<p begin="00:07:15.260" end="00:07:16.260" style="s2">abgeben.</p>
+<p begin="00:07:16.260" end="00:07:20.350" style="s2">Damit vielen Dank für Ihr Interesse und bis<br />bald.</p>
+</div>
+</body>
+</tt>

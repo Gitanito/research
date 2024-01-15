@@ -1,0 +1,381 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=G1IA4EVUXkE","mytitle":"WissensWerteWelt,Ger\u00e4te mit Gedanken steuern \uff5c Prof. Gernot M\u00fcller-Putz im Gespr\u00e4ch ","mylang":"de"}
+herr professor müller putzarbeiten hier
+am institut für semantische datenanalyse
+an der technischen universität graz an
+möglichkeiten nur mit hilfe von gedanken
+gedankenkraft computer und geräte zu
+steuern was geschieht dabei haben sie
+die möglichkeit gefunden gedanken zu
+lesen
+also wir haben nicht den schlüssel
+entdeckt um gedanken zu lesen wir
+verwenden aber wohl das denken um
+verschiedene geräte und anwendungen auf
+einem computer zu steuern indem wir
+verschiedene er denkmuster herausfinden
+das funktioniert im wesentlichen so dass
+patienten oder benutzer durch durch
+verschiedene bestimmte gedanken gehirn
+muster erzeugen die wir dann messen und
+dann versuchen zu erkennen welches
+muster das war das kann man sich
+ungefähr so vorstellen
+und es ist ja denken etwas dazu
+spezifizieren
+das denken zum beispiel eine
+handbewegung oder das denken eine
+fußbewegung unter wenn man weiß dass der
+benutzer entweder eine handbewegung
+denkt oder an eine fußbewegung denkt
+dann kann ich daraus ein steuersignal
+erzeugen und mit diesem steuersignal
+kann ich dann ganz einfach eine computer
+anwendung zb ein schreibprogramm steuern
+und so einem patienten mit schweren
+motorischen beeinträchtigungen dazu
+verhelfen dazu zu verhelfen
+zum beispiel zu kommunizieren zu
+schreiben im internet zu surfen
+seine umwelt zu steuern ein wesentliches
+ziel dieser technologie ist es menschen
+mit behinderungen zu helfen
+hochgradig querschnittsgelähmte
+patienten bringen immer wieder in
+befragungen zum ausdruck dass es am
+allerwichtigsten für sie wäre greifen zu
+können ist eine solche technologie in
+aussicht reifen ist ganz wichtig was
+auch sie gerade mit den händen gemacht
+haben oder was man macht so viele dinge
+und
+mit den händen und wenn es plötzlich
+alles wegfällt dann bricht praktisch
+eine welt zusammen
+und wenn man für patienten mit sehr
+hohen querschnittslähmungen nur ganz
+einfach ein ganz einfaches greifen
+wieder erzeugen kann wieder herstellen
+kann
+dann würden diese menschen einfach einen
+großen schritt in ihre eigenständigkeit
+zurückbekommen
+das kann man sich wie kann man das
+machen das kann man sich so vorstellen
+dass man mit hilfe der funktionellen
+elektrostimulation das heißt mit
+muskelstimulation den gelähmten arm
+ansteuern kann man kann muskelgruppen
+ansteuern und dann kann man ganz
+einfaches greifen überzeugen dass man
+kann zum beispiel die hand öffnen und
+die kann die finger wieder schließen
+und wenn ich das gezielt mache dann kann
+ich heraus angreifen
+das ist die sogenannte neuroprothetik
+die das macht von dieser endoprothetik
+muss irgendwie angesteuert werden das
+kann man zum beispiel mit einem schalter
+machen oder mit einem joystick ja
+irgendwie am körper angebracht ist in
+unserem falle interessieren uns der
+sommer den ganzen arm zu steuern den
+personen die eine so hohe
+querschnittslähmung haben die diese
+beweglichkeit
+da der schulter und des ellbogens nicht
+mehr haben da gibt es immer recht für
+möglichkeiten wie man so ein
+steuersignal erzeugen kann
+und da kommt unsere arbeitsgruppe ins
+spiel in dem wir zb durch das denken an
+die verschiedenen bewegungen in zukunft
+auch diese bewegungen dann mit dem
+echten mit dem gelähmten arm umsetzen
+wollen ihr team arbeitet auch an
+mehreren eu forschungsprojekten mit
+eines davon hat den titel brain apple
+welche ziele sind damit verbunden
+unsere eu projekte an denen wir arbeiten
+die haben alle medizinische sieg
+zielsetzungen die verschiedenen
+patienten gruppierungen im wesentlichen
+abdecken das einvernehmlich
+vorgesprochen haupt des feldes
+eu-projekt adobe tools for brain
+computer interaction das eu-projekt
+brainpool
+da geht es darum praktischer
+beeinträchtigten menschen mit einer mit
+einer steuerung für ihre umwelt
+auszustatten
+das heißt dass diese patienten eine
+ihrer umwelt eine wieder kontrolle über
+umwelt bekommen
+das heißt dass diese patienten zum
+beispiel das internet benutzen können
+im generellen techniken benutzten kann
+also e mails schreiben internet surfen
+twittern aber auch die steuerung ihrer
+ihrer umgebung hat man diese patienten
+können ja nicht zum beispiel einfach
+hingehen und das licht aufdrehen
+aber man kann es über so existiert das
+ist die reine technologien machen die
+dann zum beispiel auch von diesem brain
+computer interface angesteuert werden
+das heißt ich wähle den befehl aus licht
+einschalten oder jalousie herunterfahren
+oder ich möchte jetzt da gerne mir einen
+film anschauen ich will den film aus und
+und so in diese richtung geht es bringe
+projekt es gibt patienten die keinerlei
+kontakt mehr zur außenwelt haben
+stichwort wachkomapatienten und man hört
+hier immer wieder von fehldiagnosen dass
+man also menschen die eigentlich noch
+dinge mitbekommen so einschätzt als
+wären sie praktisch nicht mehr in der
+lage in welche bewusstseins leistungen
+zu erbringen
+gibt es eine möglichkeit aus ihrer sicht
+mit hilfe spezieller diagnosemethoden
+solche fehldiagnosen künftig zu
+vermeiden
+sie sprechen da ein ein weiteres projekt
+an das sogenannte decoder
+da geht es darum einerseits ein diagnose
+tool zu schaffen um festzustellen ob
+patienten noch bewusstsein haben oder
+rest bewusstsein habe oder manchmal
+bewusstsein haben oder um wirklich klar
+festzustellen dass patienten kein
+bewusstsein mehr haben sich in einem
+vegetativen zustand befinden da gibt es
+sehr viele fehldiagnosen weil es da noch
+keine diagnose tool gibt sondern meist
+man kann also bestimmt bestimmte
+gehirnfunktionen mit ganz einfachen
+experimenten überprüfen
+zum beispiel man kann feststellen ob ein
+patient verschiedene pieptöne
+unterscheiden kann nur durch zuhören
+wenn man weiß dass das hier das hirn im
+wesentlichen kann dann kann man den
+schwierigkeitsgrad etwas erhöhen dass
+man zum beispiel setzte vorgibt und
+diese sätze haben einen haben wir sind
+semantisch richtig oder semantisch
+falsch und nur durch das zuhören und
+wenn man gesprochen hat bevor man in
+diesen situationen kommen ist dann hört
+das hirn so zu sagen dass dieser satz
+sitzt richtig war vom semantischen
+zusammenhang her oder ob der fall
+gewesen ist
+da gibt es wieder eine bestimmte
+hirnwellen die der auskunft darüber gibt
+und so gibt&#39;s weitere paradigmen man
+nennt es so grundsätzlich startet man
+mit mit passiven paradigmen also der der
+patient zum zuhören eingeladen wird und
+dann gibt es die aktiven paradigmen wo
+man zum beispiel sagt bitte zerbib töne
+die abweichen von den normalen pieptöne
+da muss der patient aktiv noch dinge
+mitmachen und man kann mit hilfe dieser
+experimente feststellen ob der patient
+diese anweisungen mitmacht oder auch
+nicht und wenn man dann so weit ist dass
+man sieht dieser patient zu dem man so
+keinen offensichtlichen zugang aber da
+hört ja meine anweisungen und er macht
+diese anweisungen mit dann kann man
+feststellen dass der eigentlich in
+diesem moment bewusstsein gehabt hat der
+hat es wird nicht nach außen
+transportieren können auch mithilfe der
+analyse der der gehirnströme kann man
+das dann irgendwie sichtbar machen und
+die idee ist dann ein ganz einfaches
+brain computer interface anzudocken das
+praktisch der patient pieptöne aktiver
+hört und auch mental dann die antworten
+verändert und dann kann man es zum
+beispiel dazu verwenden dass ein patient
+dann einen tastendruck praktisch einen
+simulierten tastendruck erzeugt
+und dann zum beispiel ja sagen kann oder
+nein sagen kann also eine ganz einfache
+und ihre kommunikation mit solchen
+patienten dass sein ziel in diesem
+decoder projekt man hat schon gezeigt
+das waren die kollegen und loris die
+mithilfe der funktionellen
+magnetresonanztomographie
+die haben so gezeigt dass man dass es
+patienten können aber diese anweisungen
+zu befolgen hat gibt es das berühmte
+tennis paradigma wo sich der patient
+vorstellt er spielt an der kronen ling
+an der grundlinie tennis also mit viel
+mit hin- und herlaufen und umschlagen
+und und das kontrast dazu wäre zum
+beispiel sich vorzustellen in der
+eigenen wohnung herum zu spazieren
+das findet an verschiedenen orten im
+gehirn statt und diesen unterschied kann
+man mit hilfe der des scanners dass er
+eine sehr große paradies feststellen
+die idee in dem projekt ist diese
+erkenntnisse aus der funktionellen
+magnetresonanztomographie überzuleiten
+in die elektroenzephalografie und wenn
+das aufzeichnen der gehirnströme den dsk
+man mitnehmen sollen kasten und kann das
+ja ganz einfach vor ort auch zu hause
+durchführen und die idee sehen dann
+daraus für patienten die bewusstsein
+haben dass man das kommunikationstool
+praktisch schafft welche medizinischen
+einsatzmöglichkeiten für diese
+technologie stände noch in aussicht gibt
+es weitere projekte an denen sie
+arbeiten
+wir haben noch weitere projekte die
+beschäftigen sich unter anderem mit der
+mit der schlaganfall rehabilitation zum
+einen an der oberen extremität der hand
+und das alles aber auch an der unteren
+extremität hier ist die idee nach
+zuschauen wenn ein patient in der
+therapie seine betroffenen extremitäten
+bewegen soll sie auch nicht bewegen kann
+weil dir gelingt sein können dass man
+anhand analyse der gehirn musste
+praktisch fest stellt jetzt hat der
+patient versucht den arm zu bewegen oder
+die hand zu bewegen
+und dass man das dann auch stück meldet
+an den therapeuten und an den patienten
+so dem motto ja das war gut diese
+bewegen auch wenn es tatsächlich nicht
+stattgefunden hat und dass man dann zum
+beispiel ein romantisches gerät oder
+funktionelle elektrostimulation
+zu verwenden um auch dann den arm
+entsprechend zu bewegen
+durch die bewegung selber würden ja
+signale von der extremität ans gehirn
+geliefert und durch die plastizität des
+gehirns wird dann oder versucht das
+gehirn ja dann irgendwas mit diesen
+signalen zu machen und so ist eine eine
+die der ansatz geht darin dass er durch
+die rückmeldung die das brain computer
+interface in dieser situation macht und
+durch das rückmelden der bewegung das so
+praktisch des gehirns schneller lernt
+oder überhaupt wieder lernt dass man
+hier vielleicht über die extremität
+bewegen kann das ist die hoffnung die
+man diese richtung setzte wo liegen denn
+nach der heutigen einschätzung die
+technischen grenzen für die
+möglichkeiten gedanken tätigkeit von
+außen zu analysieren und für technische
+nutzer anwendungen zu gebrauchen gibt es
+solche grenzen da gibt es klarerweise
+grenzen die kann man ganz einfach
+feststellen es ist so das signal das vom
+gehirn kommt das kann man am gehirn sehr
+gut messen
+aber wie zum beispiel wie sie hier sehen
+doch ob man verschiedene schichten
+ergibt gehirn heute dann gibt&#39;s knochen
+gibt es die haut deshalb dämpfte signal
+sehr stark und das signal dass wir hier
+am kopf herum messen
+das hat nur noch millionstel wollt also
+das ist sehr sehr sehr geil und bis zu
+messen da bedarf es bestimmter
+apparaturen sogenannte messverstärker
+die diese spannungen die man hier messen
+kann soweit verstärkt das was überhaupt
+nur ein computer verarbeiten kann und
+was dann doch ein punkt ist die örtliche
+auflösung die wir hier messen können wir
+um elektroden die haben einen
+durchmesser vielleicht von 8 mm
+die kann man hier platzieren am schädel
+und darüber ist ja diese sind diese
+millionen von nervenzellen und die haben
+alle ihre aktivität und wir müssen hier
+am schädel jahr die summe dieser
+nervenaktivität und diese in japan
+aktivierte die breitet sich kugelförmige
+aus und über diesen abstand von dem von
+cortex hier von der oberen schicht des
+gehirns bis zur elektrode da hat sich
+die so ausgebreitet wenn ich jetzt hier
+diesen punkt anschauen diesen
+dass sich das hier heroben vermischt das
+heißt ich auch grenzen ist ich kann nur
+bestimmte techniken anwenden um das
+etwas schärfer zu machen wie man das
+eine bildverarbeitung macht aber so ganz
+klar geht das tor nicht
+das heißt es sind bestimmte grenzen
+gesetzt von der messe analyse her
+jetzt ist es so jetzt haben wir hier zum
+beispiel dieser rot angemalt wurde schon
+mal ungefähr des hand areal am primär
+motorischen kortex am primären
+sensorische texas wenn ich jetzt eine
+handbewegung mache dann findet das prima
+hier statt und inkludiert andere zentren
+aber das ist so ein wichtiges zentrum
+wenn ich jetzt eine ellbogen
+marktbewegung machen würde dann findet
+es hier gleich daneben statt ich kann
+aber mit meinen elektroden hier erhoben
+nur ganz grob vielleicht diktieren das
+war eine handbewegung das war ganz
+kleine ellbogen bewegung
+so was kann ich für gedanken lesen jetzt
+bin ich nur bei einer einfachen bewegung
+gewesen fingerbewegungen nur den finger
+oder nur den kleinen finger
+es wird mir nicht möglich sein hier
+erhoben das zu messen und es weiter zu
+spinnen wenn sie sich zum beispiel
+vorstellen
+sie denken an eine katze oder an ein
+auto dann verbindet man damit natürlich
+bestimmte erlebnisse erinnerungen
+das findet nicht nur da gibt es kein
+auto zentrum und auch kennen kennen oder
+oder katzen neuron so was gibt es nicht
+das findet überall statt der im gehirn
+und ich müsste tausende von autos mir
+vorstellen und tausende von von katzen
+mir vorstellen nun ermächtigt diese zwei
+musste watt unterscheiden kann und dann
+weiß ich auch nur das war dass katzen
+mussten das auto musste wenn sie sich
+aber gemeinerweise ein flugzeug
+vorstellen
+dann weiß ich nicht was sich dann kann
+ich trotzdem nicht lesen ob das jetzt
+ein auto oder eine katze natürlich dass
+entweder der katze oder im auto zu
+weisen und sich sagen wir noch alles war
+ein flugzeug das wirklich ordnung
+wir können es nicht lassen also was in
+die grenzen geht also gedanken lesen wie
+man das allgemein gerne mal mit dieser
+technologie befürchtet bei sehe ich in
+sehr sehr weiter ferne die nicht
+abzuschätzen ist herr professor müller
+plötzlich ein dank für dieses gespräch
+und weiterhin viel erfolg für ihre
+projekte

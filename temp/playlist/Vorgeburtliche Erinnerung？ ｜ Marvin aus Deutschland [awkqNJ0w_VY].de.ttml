@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:11.780" end="00:00:18.640" style="s2">Im Jahr 2022 veränderte sich mein Leben auf<br />eine Weise, wie ich es nie erwartet hätte.</p>
+<p begin="00:00:18.640" end="00:00:22.340" style="s2">Es begann mit einem Gefallen, den ich einer<br />anderen Person erwies.</p>
+<p begin="00:00:22.340" end="00:00:27.260" style="s2">Was das für ein Gefallen war, ist für den<br />folgenden Bericht nur nebensächlich, daher</p>
+<p begin="00:00:27.260" end="00:00:29.500" style="s2">soll darauf nicht näher eingegangen werden.</p>
+<p begin="00:00:29.500" end="00:00:36.040" style="s2">Als ich diesen Gefallen erledigt hatte, bekam<br />ich das wohl größte Kompliment, denn diese</p>
+<p begin="00:00:36.040" end="00:00:38.550" style="s2">Person sagte zu mir: &quot;Du bist ein Engel&quot;.</p>
+<p begin="00:00:38.550" end="00:00:43.322" style="s2">Ich weiß, dass das nur so eine Redewendung<br />ist, aber in diesem Moment hatte ich das Gefühl,</p>
+<p begin="00:00:43.322" end="00:00:47.530" style="s2">dass mit diesem einen Satz hunderte meiner<br />Fragen beantwortet wurden.</p>
+<p begin="00:00:47.530" end="00:00:53.210" style="s2">Dieser Satz schien mir nicht zufällig gewählt,<br />sondern fast akribisch geplant.</p>
+<p begin="00:00:53.210" end="00:00:56.180" style="s2">Um das zu verstehen, muss ich auf meine Kindheit<br />eingehen.</p>
+<p begin="00:00:56.180" end="00:01:02.309" style="s2">Ich hatte eine sehr schöne Kindheit, wuchs<br />liebevoll auf und es fehlte mir im an Nichts.</p>
+<p begin="00:01:02.309" end="00:01:03.680" style="s2">Aber etwas war anders.</p>
+<p begin="00:01:03.680" end="00:01:07.610" style="s2">Ich bin aufgrund gewisser Dinge oft aufgefallen.</p>
+<p begin="00:01:07.610" end="00:01:11.540" style="s2">Manche Fähigkeiten zeigten sich bei mir früher<br />oder ausgeprägter.</p>
+<p begin="00:01:11.540" end="00:01:16.400" style="s2">Ich konnte schon frühzeitig kurze Abfolgen<br />von Buchstaben lesen.</p>
+<p begin="00:01:16.400" end="00:01:21.860" style="s2">Ich konnte die Zeit ziemlich genau angeben,<br />obwohl ich die Uhr noch nicht ablesen konnte.</p>
+<p begin="00:01:21.860" end="00:01:25.780" style="s2">Ich konnte mir schnell zusammenhängende Texte<br />wortgetreu merken.</p>
+<p begin="00:01:25.780" end="00:01:28.270" style="s2">Und ein paar andere Dinge.</p>
+<p begin="00:01:28.270" end="00:01:34.290" style="s2">Das erstaunlichste Detail war, dass sich unruhige<br />Kinder in meiner Gegenwart schnell veränderten.</p>
+<p begin="00:01:34.290" end="00:01:39.860" style="s2">Das war mir selbst damals gar nicht so stark<br />aufgefallen, erinnern kann ich mich aber noch,</p>
+<p begin="00:01:39.860" end="00:01:40.860" style="s2">auch durch Erzählungen.</p>
+<p begin="00:01:40.860" end="00:01:47.000" style="s2">Im Kindergarten hatten wir einen Jungen in<br />unserer Gruppe, vor dem hatten alle Angst,</p>
+<p begin="00:01:47.000" end="00:01:49.829" style="s2">weil er ständig andere schlug, schrie und<br />biss.</p>
+<p begin="00:01:49.829" end="00:01:53.840" style="s2">War ich in seiner Nähe, waren diese Verhaltensweisen<br />verschwunden.</p>
+<p begin="00:01:53.840" end="00:01:57.860" style="s2">Das zog sich auch durch die darauffolgende<br />Schulzeit.</p>
+<p begin="00:01:57.860" end="00:02:03.430" style="s2">Lehrkräfte setzten störende Mitschüler<br />sogar absichtlich neben mich, weil sie erkannten,</p>
+<p begin="00:02:03.430" end="00:02:05.899" style="s2">dass diese dann ruhig und aufmerksam sein<br />würden.</p>
+<p begin="00:02:05.899" end="00:02:11.680" style="s2">Auch dazu gab es einen bestimmten Vorfall,<br />der mir bis heute im Gedächtnis blieb.</p>
+<p begin="00:02:11.680" end="00:02:16.450" style="s2">Ein Junge kam neu in unsere Klasse und fiel<br />durch starkes Fehlverhalten auf.</p>
+<p begin="00:02:16.450" end="00:02:22.470" style="s2">Er bekam Wutausbrüche, schrie, schlug Mitschüler<br />und Lehrer, auch biss er sie.</p>
+<p begin="00:02:22.470" end="00:02:26.660" style="s2">Dann wurde er neben mich gesetzt und schon<br />war er ruhig und aufmerksam.</p>
+<p begin="00:02:26.660" end="00:02:31.680" style="s2">Als ich einmal den Raum kurz für einen Gang<br />zur Toilette verließ und wieder zurückkam,</p>
+<p begin="00:02:31.680" end="00:02:34.860" style="s2">stand der Junge wütend vor dem Klassenzimmer.</p>
+<p begin="00:02:34.860" end="00:02:39.909" style="s2">Er hatte in meiner Abwesenheit wieder einen<br />Wutausbruch, griff unsere Lehrerin mit seinem</p>
+<p begin="00:02:39.909" end="00:02:41.830" style="s2">Lineal an und verletzte sie.</p>
+<p begin="00:02:41.830" end="00:02:47.890" style="s2">Eigentlich trat ich anderen Menschen immer<br />unvoreingenommenen gegenüber, war immer bemüht,</p>
+<p begin="00:02:47.890" end="00:02:50.050" style="s2">jeden gleich und gerecht zu behandeln.</p>
+<p begin="00:02:50.050" end="00:02:55.250" style="s2">Aber nachdem er die Lehrerin verletzt hatte,<br />wollte ich ihm nicht mehr unvoreingenommen</p>
+<p begin="00:02:55.250" end="00:02:56.250" style="s2">helfen.</p>
+<p begin="00:02:56.250" end="00:03:01.500" style="s2">Mir war klar es gibt Gut und Böse und war<br />der Meinung, dass er seine Strafe irgendwann</p>
+<p begin="00:03:01.500" end="00:03:02.500" style="s2">bekommen wird.</p>
+<p begin="00:03:02.500" end="00:03:06.940" style="s2">Ich glaubte auch damals wie heute an ein Leben<br />nach dem Tod.</p>
+<p begin="00:03:06.940" end="00:03:11.170" style="s2">Offenbar hatte ich schon immer eine Verbindung<br />zur spirituellen Welt.</p>
+<p begin="00:03:11.170" end="00:03:13.549" style="s2">Warum konnte ich mehr als andere?</p>
+<p begin="00:03:13.549" end="00:03:17.200" style="s2">Warum änderten sich Menschen in meiner Gegenwart<br />zum Guten?</p>
+<p begin="00:03:17.200" end="00:03:21.549" style="s2">Warum war mein Sinn für Gerechtigkeit immer<br />schon so stark ausgeprägt?</p>
+<p begin="00:03:21.549" end="00:03:24.720" style="s2">Und warum war mir das Leben nach dem Tod so<br />seltsam vertraut?</p>
+<p begin="00:03:24.720" end="00:03:31.110" style="s2">All diese Fragen schienen mit dem Satz &quot;Du<br />bist ein Engel&quot; beantwortet.</p>
+<p begin="00:03:31.110" end="00:03:35.110" style="s2">Anfang 2023 begann ich, mich mit Engeln zu<br />beschäftigen.</p>
+<p begin="00:03:35.110" end="00:03:39.910" style="s2">Ich erkannte mich in den Informationen wieder<br />und fühlte mich bestätigt.</p>
+<p begin="00:03:39.910" end="00:03:43.199" style="s2">Dann, eines Abends lag ich im Bett.</p>
+<p begin="00:03:43.199" end="00:03:48.000" style="s2">Plötzlich schoss mir blitzschnell dieser<br />Satz durch den Kopf: &quot;Wenn du dein Leben genossen</p>
+<p begin="00:03:48.000" end="00:03:49.890" style="s2">hast, kannst du zu uns zurück&quot;.</p>
+<p begin="00:03:49.890" end="00:03:55.860" style="s2">Danach, noch innerhalb dieser Sekunde, überschwemmte<br />mich ein Gefühl von Glück und Liebe.</p>
+<p begin="00:03:55.860" end="00:04:01.090" style="s2">Ich war mir sicher, dass dies eine Botschaft<br />der Engel war, weil dieser Gedanke überhaupt</p>
+<p begin="00:04:01.090" end="00:04:04.110" style="s2">nicht zu meinen anderen Gedanken an diesem<br />Abend passte.</p>
+<p begin="00:04:04.110" end="00:04:08.670" style="s2">Im Anschluss kontaktierte ich die Engel öfter.</p>
+<p begin="00:04:08.670" end="00:04:13.610" style="s2">Sie gaben mir zu verstehen, dass ich der einzige<br />Engel in meiner irdischen Familie bin und</p>
+<p begin="00:04:13.610" end="00:04:16.509" style="s2">von Gott gesegnet wurde, um auf die Erde zu<br />kommen.</p>
+<p begin="00:04:16.509" end="00:04:22.930" style="s2">Meine Aufgabe sei es, hier auf der Erde Wahrheit<br />und Gerechtigkeit zu fördern, da es viele</p>
+<p begin="00:04:22.930" end="00:04:25.169" style="s2">Menschen nicht mehr ausreichend tun würden.</p>
+<p begin="00:04:25.169" end="00:04:31.669" style="s2">Ich sei ein Engel Gottes, der mit Worten arbeiten<br />müsse, womit sich erklärt, dass ich so früh</p>
+<p begin="00:04:31.669" end="00:04:34.750" style="s2">lesen konnte und mir Texte schnell und lange<br />merkte.</p>
+<p begin="00:04:34.750" end="00:04:39.870" style="s2">Nun kommt erst der Höhepunkt meiner bisherigen<br />Erfahrungen.</p>
+<p begin="00:04:39.870" end="00:04:45.610" style="s2">Bis jetzt spielte sich alles in der irdischen<br />Dimension ab, doch das änderte sich mit diesem</p>
+<p begin="00:04:45.610" end="00:04:46.610" style="s2">Ereignis.</p>
+<p begin="00:04:46.610" end="00:04:49.940" style="s2">Es war in diesem Sommer 2023.</p>
+<p begin="00:04:49.940" end="00:04:52.970" style="s2">Das Wetter war schön und es war warm.</p>
+<p begin="00:04:52.970" end="00:04:56.639" style="s2">Ich legte mich auf die Bank im Garten, um<br />das Wetter zu genießen.</p>
+<p begin="00:04:56.639" end="00:05:00.250" style="s2">Ich machte die Augen zu, schlief aber nicht.</p>
+<p begin="00:05:00.250" end="00:05:05.210" style="s2">Ich war mir zu jeder Zeit vollständig bewusst,<br />dass ich im Garten döste.</p>
+<p begin="00:05:05.210" end="00:05:08.419" style="s2">Plötzlich sah ich vor meinem Inneren eine<br />Blumenwiese.</p>
+<p begin="00:05:08.419" end="00:05:13.620" style="s2">Sie war nicht sehr breit, vielleicht 100 Meter,<br />dafür erstreckte sie sich in der Länge bis</p>
+<p begin="00:05:13.620" end="00:05:15.360" style="s2">zum Horizont.</p>
+<p begin="00:05:15.360" end="00:05:18.530" style="s2">Es sah aus wie eine Landebahn aus Gras und<br />Blumen.</p>
+<p begin="00:05:18.530" end="00:05:24.820" style="s2">Links und rechts standen dunkle Nadelbäume<br />und bildeten einen Wald auf beiden Seiten.</p>
+<p begin="00:05:24.820" end="00:05:27.509" style="s2">Ich konnte in das Geschehen nicht eingreifen.</p>
+<p begin="00:05:27.509" end="00:05:33.380" style="s2">Ich war als Person nur Zuschauer und schaute<br />durch die Augen meines geistigen Ichs.</p>
+<p begin="00:05:33.380" end="00:05:38.509" style="s2">Dann sah ich, wie Lichtwesen links und rechts<br />der Wiese aus dem Wald kamen.</p>
+<p begin="00:05:38.509" end="00:05:42.050" style="s2">Instinktiv wusste ich, dass es Engel waren.</p>
+<p begin="00:05:42.050" end="00:05:46.550" style="s2">Sie waren nicht größer als durchschnittliche<br />Menschen, strahlten ganz weiß und hatten</p>
+<p begin="00:05:46.550" end="00:05:49.080" style="s2">weder Flügel noch einen erkennbaren Körper.</p>
+<p begin="00:05:49.080" end="00:05:55.830" style="s2">Ob ich einen Körper hatte, weiß ich nicht,<br />gesehen habe ich ihn jedenfalls nicht.</p>
+<p begin="00:05:55.830" end="00:05:58.440" style="s2">Die Engel stellten sich abwechselnd zwischen<br />die Bäume.</p>
+<p begin="00:05:58.440" end="00:06:02.400" style="s2">Engel, Baum, Engel, Baum, und so weiter.</p>
+<p begin="00:06:02.400" end="00:06:04.570" style="s2">Es sah aus, als würden sie Spalier stehen.</p>
+<p begin="00:06:04.570" end="00:06:09.849" style="s2">Von vorn kam auf einmal ein riesiger Engel<br />auf mich zu.</p>
+<p begin="00:06:09.849" end="00:06:14.740" style="s2">Er konnte fliegen, seine Flügel sah ich zwar<br />nicht, aber ich spürte seinen Flügelschlag.</p>
+<p begin="00:06:14.740" end="00:06:16.509" style="s2">Dann stand er vor mir.</p>
+<p begin="00:06:16.509" end="00:06:21.259" style="s2">Er war so groß, dass ich nicht einmal seine<br />untere Hälfte einsehen konnte, ich wollte</p>
+<p begin="00:06:21.259" end="00:06:22.810" style="s2">es auch gar nicht.</p>
+<p begin="00:06:22.810" end="00:06:25.720" style="s2">Er war so erhaben und majestätisch.</p>
+<p begin="00:06:25.720" end="00:06:27.330" style="s2">Dann kommunizierten wir.</p>
+<p begin="00:06:27.330" end="00:06:32.630" style="s2">Er sprach mit meiner heutigen Stimme, aber<br />eher in Form einer Gedankenübertragung.</p>
+<p begin="00:06:32.630" end="00:06:38.389" style="s2">Er sagte: &quot;Mein großer Freund, deine Dienste<br />werden gebraucht, daher schicke ich dich nun</p>
+<p begin="00:06:38.389" end="00:06:39.420" style="s2">auf die Erde.&quot;</p>
+<p begin="00:06:39.420" end="00:06:42.849" style="s2">Interessant war, wie er mich nannte.</p>
+<p begin="00:06:42.849" end="00:06:46.680" style="s2">Denn mein jetziger Vorname bedeutet: &quot;Der<br />große Freund&quot;.</p>
+<p begin="00:06:46.680" end="00:06:51.750" style="s2">Ich trage also hier im irdischen Leben einen<br />entsprechenden Namen.</p>
+<p begin="00:06:51.750" end="00:06:55.760" style="s2">Dann drehte ich mich zum ersten Mal um und<br />sah die andere Seite der Wiese.</p>
+<p begin="00:06:55.760" end="00:06:59.789" style="s2">Sie war genau so breit und erstreckte sich<br />auch bis zum Horizont.</p>
+<p begin="00:06:59.789" end="00:07:02.220" style="s2">Es sah identisch aus.</p>
+<p begin="00:07:02.220" end="00:07:06.650" style="s2">Doch die gesamte Umgebung wurde von einem<br />riesigen Bauwerk überspannt.</p>
+<p begin="00:07:06.650" end="00:07:10.110" style="s2">Vergleichbar ist es vielleicht mit dem Brandenburger<br />Tor in Berlin.</p>
+<p begin="00:07:10.110" end="00:07:16.039" style="s2">An der Spitze des Bauwerks war ein goldener<br />Stab, der wie ein Blitzableiter in die Höhe</p>
+<p begin="00:07:16.039" end="00:07:17.550" style="s2">ragte.</p>
+<p begin="00:07:17.550" end="00:07:22.580" style="s2">Er zeigte auf ein gelb-rotes Licht, welches<br />wie eine Lichtblase dort oben schwebte.</p>
+<p begin="00:07:22.580" end="00:07:28.479" style="s2">Der große Engel hinter mir sagte wieder mit<br />meiner Stimme: &quot;Geh!&quot;</p>
+<p begin="00:07:28.479" end="00:07:31.759" style="s2">Es klang bestimmend, aber auf keinen Fall<br />böse.</p>
+<p begin="00:07:31.759" end="00:07:32.940" style="s2">Eher motivierend.</p>
+<p begin="00:07:32.940" end="00:07:37.310" style="s2">Ich flog zu dem Licht hinauf und hörte meine<br />Flügel schlagen.</p>
+<p begin="00:07:37.310" end="00:07:40.670" style="s2">Die Wiese unter mir wurde immer kleiner.</p>
+<p begin="00:07:40.670" end="00:07:43.940" style="s2">Dann flog ich in die Blase aus Licht.</p>
+<p begin="00:07:43.940" end="00:07:47.280" style="s2">Sie hatte sich geöffnet und verschloss sich<br />wieder.</p>
+<p begin="00:07:47.280" end="00:07:50.740" style="s2">Dann verging Zeit, keine Ahnung wie viel.</p>
+<p begin="00:07:50.740" end="00:07:54.860" style="s2">Die Blase öffnete sich wieder, diesmal oberhalb<br />von mir.</p>
+<p begin="00:07:54.860" end="00:08:00.090" style="s2">Ein kaltes weißes Licht kam mir entgegen<br />und ich wusste, das ist die Geburtsstation.</p>
+<p begin="00:08:00.090" end="00:08:02.099" style="s2">So begann mein irdisches Leben.</p>
+<p begin="00:08:02.099" end="00:08:05.530" style="s2">Danach war dieser Film zu Ende.</p>
+<p begin="00:08:05.530" end="00:08:08.560" style="s2">Ich öffnete die Augen und lag auf der Gartenbank.</p>
+<p begin="00:08:08.560" end="00:08:10.600" style="s2">Alles war ganz normal.</p>
+<p begin="00:08:10.600" end="00:08:16.330" style="s2">Aber jetzt, nachdem ich das alles sehen durfte,<br />gibt es für mich keine Zweifel mehr, dass</p>
+<p begin="00:08:16.330" end="00:08:20.139" style="s2">ich in meiner Natur das bin, was wir auf der<br />Erde Engel nennen.</p>
+<p begin="00:08:20.139" end="00:08:23.289" style="s2">Und ich bin sicher nicht der Einzige, das<br />ist mir auch klar.</p>
+<p begin="00:08:23.289" end="00:08:29.889" style="s2">Meine Aufgabe ist es, Wahrheit und Gerechtigkeit<br />zu stärken und das mache ich auch.</p>
+<p begin="00:08:29.889" end="00:08:35.380" style="s2">Ich teile hier meine Wahrheit, weil alle Menschen,<br />die dafür offen sind, Trost darin finden,</p>
+<p begin="00:08:35.380" end="00:08:37.990" style="s2">dass Engel auf der Erde sind.</p>
+<p begin="00:08:37.990" end="00:08:40.430" style="s2">Trotzdem möchte ich vorerst anonym bleiben.</p>
+<p begin="00:08:40.430" end="00:08:45.680" style="s2">Aber das ändert sich vielleicht, wenn die<br />Welt etwas offener für das große Ganze wird.</p>
+</div>
+</body>
+</tt>

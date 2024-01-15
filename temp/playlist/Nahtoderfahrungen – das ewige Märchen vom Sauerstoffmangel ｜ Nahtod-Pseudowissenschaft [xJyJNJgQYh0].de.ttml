@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.010" end="00:00:06.060" style="s2">willkommen zu einem neuen video dieses</p>
+<p begin="00:00:03.929" end="00:00:07.849" style="s2">mal geht es um die häufig anzutreffende</p>
+<p begin="00:00:06.060" end="00:00:10.019" style="s2">und unbewiesene behauptung</p>
+<p begin="00:00:07.849" end="00:00:12.120" style="s2">nahtoderfahrungen und insbesondere die</p>
+<p begin="00:00:10.019" end="00:00:13.320" style="s2">berühmte erfahrungen mit den tunnel und</p>
+<p begin="00:00:12.120" end="00:00:15.710" style="s2">licht werden durch einen</p>
+<p begin="00:00:13.320" end="00:00:18.390" style="s2">sauerstoffmangel im gehirn entstehen</p>
+<p begin="00:00:15.710" end="00:00:20.340" style="s2">dieses video zeigt anhand von fünf</p>
+<p begin="00:00:18.390" end="00:00:23.390" style="s2">fakten warum diese sauerstoffmangel</p>
+<p begin="00:00:20.340" end="00:00:26.180" style="s2">theorie weitgehend unrealistisch ist</p>
+<p begin="00:00:23.390" end="00:00:27.960" style="s2">seltener aber auch immer wieder heißt es</p>
+<p begin="00:00:26.180" end="00:00:29.490" style="s2">nahtoderfahrungen würden durch einen</p>
+<p begin="00:00:27.960" end="00:00:31.610" style="s2">kontrolliert herbeigeführten</p>
+<p begin="00:00:29.490" end="00:00:34.469" style="s2">sauerstoffmangel im gehirn entstehen</p>
+<p begin="00:00:31.610" end="00:00:36.149" style="s2">warum auch diese behauptung fragwürdig</p>
+<p begin="00:00:34.469" end="00:00:37.460" style="s2">ist wird ebenfalls in diesem video</p>
+<p begin="00:00:36.149" end="00:00:40.590" style="s2">gezeigt</p>
+<p begin="00:00:37.460" end="00:00:42.809" style="s2">zuerst also zu den fünf aspekten warum</p>
+<p begin="00:00:40.590" end="00:00:44.780" style="s2">der sauerstoffmangel keine ursache der</p>
+<p begin="00:00:42.809" end="00:00:47.160" style="s2">nahtoderfahrung sein kann</p>
+<p begin="00:00:44.780" end="00:00:49.050" style="s2">erstens haben nur relativ wenige</p>
+<p begin="00:00:47.160" end="00:00:52.379" style="s2">menschen überhaupt solche erfahrungen</p>
+<p begin="00:00:49.050" end="00:00:55.010" style="s2">oder erinnerungen daran nahtlos forscher</p>
+<p begin="00:00:52.379" end="00:00:58.079" style="s2">sprachen schon öfter von etwa 5 prozent</p>
+<p begin="00:00:55.010" end="00:00:59.489" style="s2">und es sind nur 10 bis 20 prozent der</p>
+<p begin="00:00:58.079" end="00:01:02.850" style="s2">menschen die nach einem herzstillstand</p>
+<p begin="00:00:59.489" end="00:01:04.559" style="s2">über eine nahtod erfahrung berichten so</p>
+<p begin="00:01:02.850" end="00:01:06.590" style="s2">sagt etwa auch der österreichische</p>
+<p begin="00:01:04.559" end="00:01:08.520" style="s2">forschungs neurologe und</p>
+<p begin="00:01:06.590" end="00:01:09.930" style="s2">universitätsprofessoren und bei steiner</p>
+<p begin="00:01:08.520" end="00:01:11.549" style="s2">in einem gespräch mit der</p>
+<p begin="00:01:09.930" end="00:01:13.860" style="s2">österreichischen tageszeitung der</p>
+<p begin="00:01:11.549" end="00:01:15.630" style="s2">standard auf die frage ob dieses licht</p>
+<p begin="00:01:13.860" end="00:01:18.210" style="s2">durch einen sauerstoffmangel erzeugt</p>
+<p begin="00:01:15.630" end="00:01:20.549" style="s2">werden könnte zitat ein atemstillstand</p>
+<p begin="00:01:18.210" end="00:01:22.799" style="s2">führt zu verminderter sauerstoff und</p>
+<p begin="00:01:20.549" end="00:01:25.439" style="s2">erhöhter kohlendioxid konzentration im</p>
+<p begin="00:01:22.799" end="00:01:27.060" style="s2">blut das passiert aber im klinischen</p>
+<p begin="00:01:25.439" end="00:01:29.909" style="s2">alltag häufig ohne dass</p>
+<p begin="00:01:27.060" end="00:01:32.369" style="s2">nahtoderfahrungen auftreten zitat ende</p>
+<p begin="00:01:29.909" end="00:01:34.470" style="s2">allein aus diesem grund scheint er diese</p>
+<p begin="00:01:32.369" end="00:01:37.140" style="s2">idee vom sauerstoffmangel schon nicht</p>
+<p begin="00:01:34.470" end="00:01:38.670" style="s2">besonders ernst zu nehmen diejenigen</p>
+<p begin="00:01:37.140" end="00:01:40.680" style="s2">aber die diese begründung vom</p>
+<p begin="00:01:38.670" end="00:01:42.750" style="s2">sauerstoffmangel so sehr verteidigend</p>
+<p begin="00:01:40.680" end="00:01:44.490" style="s2">tun meistens so als handele es sich</p>
+<p begin="00:01:42.750" end="00:01:46.590" style="s2">dabei um eine wissenschaftliche</p>
+<p begin="00:01:44.490" end="00:01:48.229" style="s2">erkenntnis obwohl es keine wirklichen</p>
+<p begin="00:01:46.590" end="00:01:50.850" style="s2">beweise dafür gibt</p>
+<p begin="00:01:48.229" end="00:01:52.020" style="s2">außerdem begründen sie kaum warum die</p>
+<p begin="00:01:50.850" end="00:01:54.060" style="s2">meisten menschen während</p>
+<p begin="00:01:52.020" end="00:01:55.590" style="s2">sauerstoffmangel oder herzstillstand gar</p>
+<p begin="00:01:54.060" end="00:01:58.170" style="s2">keine solchen erlebnisse oder</p>
+<p begin="00:01:55.590" end="00:01:59.969" style="s2">erinnerungen daran haben diese frage</p>
+<p begin="00:01:58.170" end="00:02:01.740" style="s2">müsste man sich jedoch stellen wenn man</p>
+<p begin="00:01:59.969" end="00:02:04.350" style="s2">meint man würde sich wissenschaftlich</p>
+<p begin="00:02:01.740" end="00:02:05.969" style="s2">mit dem thema befassen denn wenn es so</p>
+<p begin="00:02:04.350" end="00:02:07.920" style="s2">biologisch wirksame immer der</p>
+<p begin="00:02:05.969" end="00:02:09.690" style="s2">sauerstoffmangel wäre so könnte man</p>
+<p begin="00:02:07.920" end="00:02:11.600" style="s2">vielleicht davon ausgehen dass weitaus</p>
+<p begin="00:02:09.690" end="00:02:13.400" style="s2">mehr menschen dieses tun und liegt</p>
+<p begin="00:02:11.600" end="00:02:14.980" style="s2">erlebnis haben und sich daran erinnern</p>
+<p begin="00:02:13.400" end="00:02:17.810" style="s2">müssten</p>
+<p begin="00:02:14.980" end="00:02:19.730" style="s2">diese erlebnisse sind immerhin nicht nur</p>
+<p begin="00:02:17.810" end="00:02:21.920" style="s2">realer als träume sondern werden</p>
+<p begin="00:02:19.730" end="00:02:24.140" style="s2">meistens sogar klarer und authentischer</p>
+<p begin="00:02:21.920" end="00:02:25.930" style="s2">als die existenz mit den körperlichen</p>
+<p begin="00:02:24.140" end="00:02:28.580" style="s2">sinnen erlebt</p>
+<p begin="00:02:25.930" end="00:02:30.800" style="s2">zweitens kommen viele nahtoderfahrungen</p>
+<p begin="00:02:28.580" end="00:02:33.620" style="s2">völlig ohne tunnel und licht erfahrung</p>
+<p begin="00:02:30.800" end="00:02:35.990" style="s2">aus lautet der berühmten nato studie von</p>
+<p begin="00:02:33.620" end="00:02:38.540" style="s2">pim van lommel waren es sogar nur 31</p>
+<p begin="00:02:35.990" end="00:02:41.360" style="s2">prozent der erfahrenen die vom tunnel</p>
+<p begin="00:02:38.540" end="00:02:43.670" style="s2">erlebnis sprachen oft ist zum beispiel</p>
+<p begin="00:02:41.360" end="00:02:46.160" style="s2">die rede von einer angenehmen dunkelheit</p>
+<p begin="00:02:43.670" end="00:02:48.530" style="s2">oder lehre oder es wird lediglich davon</p>
+<p begin="00:02:46.160" end="00:02:50.410" style="s2">berichtet man habe den eigenen leblosen</p>
+<p begin="00:02:48.530" end="00:02:53.209" style="s2">körper von oben gesehen und beobachtet</p>
+<p begin="00:02:50.410" end="00:02:55.520" style="s2">was andere menschen am selben oder an</p>
+<p begin="00:02:53.209" end="00:02:57.130" style="s2">entfernten orten gedacht gefühlt und</p>
+<p begin="00:02:55.520" end="00:02:59.720" style="s2">getan haben</p>
+<p begin="00:02:57.130" end="00:03:01.340" style="s2">außerdem gibt es auch nahtod erfahrungen</p>
+<p begin="00:02:59.720" end="00:03:02.959" style="s2">die nicht nur ohne licht sondern</p>
+<p begin="00:03:01.340" end="00:03:04.850" style="s2">teilweise oder überwiegend auch</p>
+<p begin="00:03:02.959" end="00:03:08.090" style="s2">beängstigend oder sogar schrecklich</p>
+<p begin="00:03:04.850" end="00:03:10.190" style="s2">erlebt werden von negativen und licht</p>
+<p begin="00:03:08.090" end="00:03:12.350" style="s2">los erlebten nahtoderfahrungen wissen</p>
+<p begin="00:03:10.190" end="00:03:14.060" style="s2">manche vermeintlichen nato experten die</p>
+<p begin="00:03:12.350" end="00:03:16.690" style="s2">so gerne mit dieser sauerstoffmangel</p>
+<p begin="00:03:14.060" end="00:03:18.830" style="s2">spekulation argumentieren oft kaum etwas</p>
+<p begin="00:03:16.690" end="00:03:20.750" style="s2">so behauptet etwa auch der</p>
+<p begin="00:03:18.830" end="00:03:22.160" style="s2">österreichische physiker werner gruber</p>
+<p begin="00:03:20.750" end="00:03:24.500" style="s2">in einer höher sendung des schweizer</p>
+<p begin="00:03:22.160" end="00:03:27.019" style="s2">fernsehens fälschlicherweise pauschal</p>
+<p begin="00:03:24.500" end="00:03:29.570" style="s2">ich hab da nämlich witzigerweise genau</p>
+<p begin="00:03:27.019" end="00:03:32.000" style="s2">eine woche vorher meinen studentinnen</p>
+<p begin="00:03:29.570" end="00:03:34.130" style="s2">studenten erklärt was passiert wenn das</p>
+<p begin="00:03:32.000" end="00:03:35.840" style="s2">gehirn seine tätigkeit einstellt oder</p>
+<p begin="00:03:34.130" end="00:03:39.050" style="s2">eines dieser typischen symptome besteht</p>
+<p begin="00:03:35.840" end="00:03:41.540" style="s2">darin alles wird heller hier zeigen sich</p>
+<p begin="00:03:39.050" end="00:03:43.550" style="s2">einige fehler so wird diese licht</p>
+<p begin="00:03:41.540" end="00:03:45.620" style="s2">erfahrung wie der typischerweise falsch</p>
+<p begin="00:03:43.550" end="00:03:47.900" style="s2">als rein visuelle erscheinung oder gar</p>
+<p begin="00:03:45.620" end="00:03:50.630" style="s2">nur als eine art helligkeits veränderung</p>
+<p begin="00:03:47.900" end="00:03:52.340" style="s2">verstanden außerdem wird das licht gar</p>
+<p begin="00:03:50.630" end="00:03:54.080" style="s2">nicht immer erlebt und oft auch bei</p>
+<p begin="00:03:52.340" end="00:03:57.050" style="s2">weitem nicht gleich am anfang einer</p>
+<p begin="00:03:54.080" end="00:03:58.610" style="s2">nahtoderfahrung und vor oder zusammen</p>
+<p begin="00:03:57.050" end="00:04:00.650" style="s2">mit dem licht wird auch meistens der</p>
+<p begin="00:03:58.610" end="00:04:03.290" style="s2">tunnel erlebt von dem gruber sogar</p>
+<p begin="00:04:00.650" end="00:04:04.970" style="s2">einmal meinte diese von so vielen</p>
+<p begin="00:04:03.290" end="00:04:08.330" style="s2">anderen menschen berichtete tunnel</p>
+<p begin="00:04:04.970" end="00:04:10.310" style="s2">erfahrung sei unsinn allein an solchen</p>
+<p begin="00:04:08.330" end="00:04:12.650" style="s2">worten zeigt sich oft weit gehende</p>
+<p begin="00:04:10.310" end="00:04:14.330" style="s2">ahnungslosigkeit dennoch werden solche</p>
+<p begin="00:04:12.650" end="00:04:16.250" style="s2">personen immer wieder von manchen</p>
+<p begin="00:04:14.330" end="00:04:18.130" style="s2">journalisten als angebliche nato</p>
+<p begin="00:04:16.250" end="00:04:20.690" style="s2">experten präsentiert</p>
+<p begin="00:04:18.130" end="00:04:23.090" style="s2">drittens werden licht erfahrungen und</p>
+<p begin="00:04:20.690" end="00:04:25.520" style="s2">andere nato typische elemente seit eh</p>
+<p begin="00:04:23.090" end="00:04:27.470" style="s2">und je auch ohne sauerstoffmangel oder</p>
+<p begin="00:04:25.520" end="00:04:30.260" style="s2">sonstige körperliche beeinträchtigung</p>
+<p begin="00:04:27.470" end="00:04:32.240" style="s2">erlebt zum beispiel bei meditation bei</p>
+<p begin="00:04:30.260" end="00:04:34.310" style="s2">bewusst herbeigeführten oder spontan</p>
+<p begin="00:04:32.240" end="00:04:37.400" style="s2">erlebten außerkörperliche erfahrungen</p>
+<p begin="00:04:34.310" end="00:04:39.620" style="s2">oder auch sonst völlig spontan ein</p>
+<p begin="00:04:37.400" end="00:04:42.229" style="s2">bekanntes historisches ereignis dieser</p>
+<p begin="00:04:39.620" end="00:04:45.620" style="s2">art ist das damaskus erlebnis des paulus</p>
+<p begin="00:04:42.229" end="00:04:47.450" style="s2">von tarsus vor fast 2000 jahren dass es</p>
+<p begin="00:04:45.620" end="00:04:49.039" style="s2">sich bei solchen erfahrungen um dasselbe</p>
+<p begin="00:04:47.450" end="00:04:51.140" style="s2">mystische licht wie bei den</p>
+<p begin="00:04:49.039" end="00:04:53.870" style="s2">nahtoderfahrungen handelt ergibt sich</p>
+<p begin="00:04:51.140" end="00:04:55.970" style="s2">aus den zahlreichen berichten es geht</p>
+<p begin="00:04:53.870" end="00:04:58.130" style="s2">eine unbeschreibliche glückseligkeit und</p>
+<p begin="00:04:55.970" end="00:04:59.930" style="s2">geborgenheit damit einher die man nie</p>
+<p begin="00:04:58.130" end="00:05:01.970" style="s2">wieder verlassen möchte und für die man</p>
+<p begin="00:04:59.930" end="00:05:04.340" style="s2">augenblicklich das irdische leben hinter</p>
+<p begin="00:05:01.970" end="00:05:06.560" style="s2">sich lassen würde auch das zeitliche</p>
+<p begin="00:05:04.340" end="00:05:08.419" style="s2">empfinden ist erloschen und verwandelt</p>
+<p begin="00:05:06.560" end="00:05:11.330" style="s2">in ein empfinden von ewigkeit und</p>
+<p begin="00:05:08.419" end="00:05:13.930" style="s2">erlösung und es hat eine unverkennbare</p>
+<p begin="00:05:11.330" end="00:05:16.099" style="s2">nicht irdische er lebensqualität</p>
+<p begin="00:05:13.930" end="00:05:18.349" style="s2">wenn der sauerstoffmangel die</p>
+<p begin="00:05:16.099" end="00:05:20.960" style="s2">hauptursache für diese tunnel und oder</p>
+<p begin="00:05:18.349" end="00:05:22.610" style="s2">licht erfahrung beim nato wäre dann</p>
+<p begin="00:05:20.960" end="00:05:25.430" style="s2">könnte man auch sagen er wäre die</p>
+<p begin="00:05:22.610" end="00:05:27.470" style="s2">bedingung für solche erfahrungen wenn er</p>
+<p begin="00:05:25.430" end="00:05:28.970" style="s2">aber die bedingung wäre dann dürfte man</p>
+<p begin="00:05:27.470" end="00:05:31.300" style="s2">diese erfahrungen nicht auch bei</p>
+<p begin="00:05:28.970" end="00:05:34.099" style="s2">normaler sauerstoffsättigung haben</p>
+<p begin="00:05:31.300" end="00:05:35.810" style="s2">manchmal heißt es auch sei sogar während</p>
+<p begin="00:05:34.099" end="00:05:37.760" style="s2">nahtoderfahrungen ein sauerstoff</p>
+<p begin="00:05:35.810" end="00:05:39.860" style="s2">überschuss gemessen worden für diese</p>
+<p begin="00:05:37.760" end="00:05:41.720" style="s2">behauptung wurden im zuge der recherchen</p>
+<p begin="00:05:39.860" end="00:05:43.300" style="s2">für dieses video jedoch keine belege</p>
+<p begin="00:05:41.720" end="00:05:45.650" style="s2">gefunden</p>
+<p begin="00:05:43.300" end="00:05:47.419" style="s2">viertens wenn menschen während eines</p>
+<p begin="00:05:45.650" end="00:05:49.490" style="s2">erheblichen sauerstoff man dass ihr</p>
+<p begin="00:05:47.419" end="00:05:51.050" style="s2">körperliches bewusstsein nicht völlig</p>
+<p begin="00:05:49.490" end="00:05:53.289" style="s2">verlieren und nicht aus ihrem körper</p>
+<p begin="00:05:51.050" end="00:05:55.430" style="s2">austreten dann erleben sie eher</p>
+<p begin="00:05:53.289" end="00:05:57.710" style="s2">eingeschränkte unangenehme oder</p>
+<p begin="00:05:55.430" end="00:05:59.840" style="s2">leidvolle zustände die nichts mit</p>
+<p begin="00:05:57.710" end="00:06:01.760" style="s2">nahtoderfahrungen zu tun haben die</p>
+<p begin="00:05:59.840" end="00:06:05.210" style="s2">wahrnehmung und geistige leistung sind</p>
+<p begin="00:06:01.760" end="00:06:07.250" style="s2">reduziert gedanken sind konfus bei außer</p>
+<p begin="00:06:05.210" end="00:06:10.130" style="s2">körperlichen zuständen ist das meistens</p>
+<p begin="00:06:07.250" end="00:06:12.560" style="s2">komplett umgekehrt die wahrnehmung und</p>
+<p begin="00:06:10.130" end="00:06:14.539" style="s2">das empfinden sind stark erweitert alles</p>
+<p begin="00:06:12.560" end="00:06:16.729" style="s2">wird weitaus realer und authentischer</p>
+<p begin="00:06:14.539" end="00:06:19.250" style="s2">erlebt als die körperliche welt mit den</p>
+<p begin="00:06:16.729" end="00:06:21.530" style="s2">körperlichen sinne das bewusstsein ist</p>
+<p begin="00:06:19.250" end="00:06:23.500" style="s2">um ein vielfaches erweitert und klarer</p>
+<p begin="00:06:21.530" end="00:06:25.600" style="s2">als sonst</p>
+<p begin="00:06:23.500" end="00:06:27.400" style="s2">und fünftens werden außer körperliche</p>
+<p begin="00:06:25.600" end="00:06:30.070" style="s2">zustände mit tunnel und licht</p>
+<p begin="00:06:27.400" end="00:06:32.230" style="s2">erfahrungen auch dann erlebt während der</p>
+<p begin="00:06:30.070" end="00:06:35.680" style="s2">herzstillstand mehrere minuten dauert</p>
+<p begin="00:06:32.230" end="00:06:37.660" style="s2">auch ohne reanimation in solchen fällen</p>
+<p begin="00:06:35.680" end="00:06:39.760" style="s2">ist es unpassend nur von einem</p>
+<p begin="00:06:37.660" end="00:06:41.590" style="s2">sauerstoffmangel zu sprechen denn hier</p>
+<p begin="00:06:39.760" end="00:06:43.690" style="s2">ist ein weitgehender ausfall der</p>
+<p begin="00:06:41.590" end="00:06:46.240" style="s2">sauerstoffversorgung und auch der</p>
+<p begin="00:06:43.690" end="00:06:48.010" style="s2">messbaren gehirnaktivität gegeben was</p>
+<p begin="00:06:46.240" end="00:06:50.770" style="s2">aber jenseits gegnern nicht gelten</p>
+<p begin="00:06:48.010" end="00:06:52.630" style="s2">lassen wollen sie sprechen von einem</p>
+<p begin="00:06:50.770" end="00:06:54.760" style="s2">sauerstoffmangel und den eindruck zu</p>
+<p begin="00:06:52.630" end="00:06:56.890" style="s2">erwecken der körper seien nicht völlig</p>
+<p begin="00:06:54.760" end="00:06:58.840" style="s2">ausgefallen sondern lediglich in einem</p>
+<p begin="00:06:56.890" end="00:07:00.580" style="s2">mangel zustand in dem das gehirn</p>
+<p begin="00:06:58.840" end="00:07:03.220" style="s2">scheinbar noch wahrnehmungen erzeugen</p>
+<p begin="00:07:00.580" end="00:07:05.230" style="s2">könne in der medizin ist es jedoch</p>
+<p begin="00:07:03.220" end="00:07:07.150" style="s2">grundlagen wissen dass im gehirn schon</p>
+<p begin="00:07:05.230" end="00:07:09.850" style="s2">dann ein blackout entsteht wenn der</p>
+<p begin="00:07:07.150" end="00:07:13.330" style="s2">systolische blutdruckwert auf unter 70</p>
+<p begin="00:07:09.850" end="00:07:15.010" style="s2">mm quecksilbersäule sinkt damit bricht</p>
+<p begin="00:07:13.330" end="00:07:17.650" style="s2">auch der körper zusammen und bleibt</p>
+<p begin="00:07:15.010" end="00:07:19.600" style="s2">regungslos liegen daher muss es nicht</p>
+<p begin="00:07:17.650" end="00:07:21.310" style="s2">einmal zu einem völligen herzstillstand</p>
+<p begin="00:07:19.600" end="00:07:23.650" style="s2">kommen um mit hoher wahrscheinlichkeit</p>
+<p begin="00:07:21.310" end="00:07:25.690" style="s2">sagen zu können dass das gehirn in</p>
+<p begin="00:07:23.650" end="00:07:27.960" style="s2">gewissen körperlichen zuständen keine</p>
+<p begin="00:07:25.690" end="00:07:30.100" style="s2">nahtoderfahrung erzeugen kann</p>
+<p begin="00:07:27.960" end="00:07:32.470" style="s2">viele laien die sich gut mit</p>
+<p begin="00:07:30.100" end="00:07:33.970" style="s2">nahtoderfahrungen auskennen können diese</p>
+<p begin="00:07:32.470" end="00:07:36.310" style="s2">längst überholte idee vom</p>
+<p begin="00:07:33.970" end="00:07:38.410" style="s2">sauerstoffmangel nur noch als kleinlich</p>
+<p begin="00:07:36.310" end="00:07:40.210" style="s2">wahrnehmen während sie von manchen</p>
+<p begin="00:07:38.410" end="00:07:41.860" style="s2">journalisten und wissenschaftlichen</p>
+<p begin="00:07:40.210" end="00:07:44.530" style="s2">angestellten immer wieder leichtfertig</p>
+<p begin="00:07:41.860" end="00:07:47.770" style="s2">und ohne beweise als wissenschaftliche</p>
+<p begin="00:07:44.530" end="00:07:49.810" style="s2">erkenntnis präsentiert wird das erreicht</p>
+<p begin="00:07:47.770" end="00:07:52.450" style="s2">in manchen medialen darstellungen ihre</p>
+<p begin="00:07:49.810" end="00:07:53.890" style="s2">witzige ausmaße so etwa in der bereits</p>
+<p begin="00:07:52.450" end="00:07:56.740" style="s2">erwähnten höher sendung des schweizer</p>
+<p begin="00:07:53.890" end="00:07:58.750" style="s2">fernsehens vom juni 2021</p>
+<p begin="00:07:56.740" end="00:08:00.760" style="s2">auch hier stellt werner gruber den</p>
+<p begin="00:07:58.750" end="00:08:02.830" style="s2">sauerstoffmangel und die ändere viele</p>
+<p begin="00:08:00.760" end="00:08:05.500" style="s2">als hauptursachen für nahtoderfahrungen</p>
+<p begin="00:08:02.830" end="00:08:07.690" style="s2">da es ist tatsächlich um einiges heller</p>
+<p begin="00:08:05.500" end="00:08:09.580" style="s2">geworden wie wenn die sonne aufgegangen</p>
+<p begin="00:08:07.690" end="00:08:11.050" style="s2">wäre die allerdings nicht aufgegangen</p>
+<p begin="00:08:09.580" end="00:08:12.610" style="s2">ist und habe gesehen dass sie die</p>
+<p begin="00:08:11.050" end="00:08:15.580" style="s2">kontraste verändert haben und dass aus</p>
+<p begin="00:08:12.610" end="00:08:18.010" style="s2">diesem eher grau ist er das ganze</p>
+<p begin="00:08:15.580" end="00:08:20.110" style="s2">strahlend hell geworden ich habe mich</p>
+<p begin="00:08:18.010" end="00:08:21.060" style="s2">angenehm wohlgefühlt binnen sekunden</p>
+<p begin="00:08:20.110" end="00:08:24.390" style="s2">wusste</p>
+<p begin="00:08:21.060" end="00:08:26.979" style="s2">endorphine jetzt reagiert das system</p>
+<p begin="00:08:24.390" end="00:08:29.440" style="s2">jetzt sie befinden wir uns in den</p>
+<p begin="00:08:26.979" end="00:08:30.010" style="s2">zustand der körper kämpft um das nackte</p>
+<p begin="00:08:29.440" end="00:08:32.530" style="s2">überleben</p>
+<p begin="00:08:30.010" end="00:08:35.279" style="s2">und er habe dann auch das gefühl gehabt</p>
+<p begin="00:08:32.530" end="00:08:36.690" style="s2">etwas zu schweben das der den</p>
+<p begin="00:08:35.279" end="00:08:38.729" style="s2">sauerstoffmangel in den seitlichen</p>
+<p begin="00:08:36.690" end="00:08:40.919" style="s2">schläfenlappen und der österreichische</p>
+<p begin="00:08:38.729" end="00:08:43.140" style="s2">journalist günter kaindlstorfer feld</p>
+<p begin="00:08:40.919" end="00:08:45.330" style="s2">blind darauf herein und nennt noch dazu</p>
+<p begin="00:08:43.140" end="00:08:48.420" style="s2">falsche angaben über die ausbildung und</p>
+<p begin="00:08:45.330" end="00:08:51.390" style="s2">kompetenzen werner grubers gruber vom</p>
+<p begin="00:08:48.420" end="00:08:53.970" style="s2">seiner ausbildung her neurophysiker also</p>
+<p begin="00:08:51.390" end="00:08:56.220" style="s2">gehirnforscher werner gruber ist weder</p>
+<p begin="00:08:53.970" end="00:08:58.589" style="s2">ein spezialisierter neurophysiker noch</p>
+<p begin="00:08:56.220" end="00:09:00.440" style="s2">hirnforscher er ist vor allem als</p>
+<p begin="00:08:58.589" end="00:09:03.540" style="s2">physiker mit spezialisierung auf</p>
+<p begin="00:09:00.440" end="00:09:05.700" style="s2">astrophysik bekannt in seinem lebenslauf</p>
+<p begin="00:09:03.540" end="00:09:08.220" style="s2">ist auch nichts davon erwähnt dass ihre</p>
+<p begin="00:09:05.700" end="00:09:09.720" style="s2">neurophysiker und hirnforscher sei er</p>
+<p begin="00:09:08.220" end="00:09:12.180" style="s2">befasste sich bisher nur oberflächlich</p>
+<p begin="00:09:09.720" end="00:09:13.920" style="s2">mit nahtoderfahrungen und auch sonst</p>
+<p begin="00:09:12.180" end="00:09:16.620" style="s2">wahrscheinlich nur am rande mit gehirn</p>
+<p begin="00:09:13.920" end="00:09:19.140" style="s2">und bewusstseins themen an einer anderen</p>
+<p begin="00:09:16.620" end="00:09:20.790" style="s2">stelle sagt kaindlstorfer als</p>
+<p begin="00:09:19.140" end="00:09:24.450" style="s2">gehirnforscher kann der gebürtige</p>
+<p begin="00:09:20.790" end="00:09:27.029" style="s2">oberösterreicher im detail erklären was</p>
+<p begin="00:09:24.450" end="00:09:28.370" style="s2">bei einer nahtoderfahrung wie er sie</p>
+<p begin="00:09:27.029" end="00:09:30.210" style="s2">erlebt hat</p>
+<p begin="00:09:28.370" end="00:09:33.000" style="s2">neurophysiologische vor sich geht</p>
+<p begin="00:09:30.210" end="00:09:34.560" style="s2">erstens auch ein hirnforscher ist nicht</p>
+<p begin="00:09:33.000" end="00:09:37.190" style="s2">automatisch ein spezialist für</p>
+<p begin="00:09:34.560" end="00:09:39.540" style="s2">nahtoderfahrungen weil an den unis nicht</p>
+<p begin="00:09:37.190" end="00:09:40.220" style="s2">standardmäßig über dieses gebiet gelehrt</p>
+<p begin="00:09:39.540" end="00:09:42.270" style="s2">wird</p>
+<p begin="00:09:40.220" end="00:09:43.470" style="s2">zweitens hat die grube mit hoher</p>
+<p begin="00:09:42.270" end="00:09:45.029" style="s2">wahrscheinlichkeit gar keine</p>
+<p begin="00:09:43.470" end="00:09:47.580" style="s2">nahtoderfahrung auch wenn er es</p>
+<p begin="00:09:45.029" end="00:09:49.800" style="s2">behauptet er dürfte zwar einen</p>
+<p begin="00:09:47.580" end="00:09:52.500" style="s2">veränderten bewusstseinszustand direkt</p>
+<p begin="00:09:49.800" end="00:09:55.320" style="s2">vor seinem herzstillstand im jahr 2005</p>
+<p begin="00:09:52.500" end="00:09:57.270" style="s2">gehabt haben aber er verwechselt diesen</p>
+<p begin="00:09:55.320" end="00:09:59.459" style="s2">mit einer nahtoderfahrung oder</p>
+<p begin="00:09:57.270" end="00:10:01.350" style="s2">instrumentalisiert ihn mehr oder weniger</p>
+<p begin="00:09:59.459" end="00:10:03.620" style="s2">bewusst um sich scheinbar als nato</p>
+<p begin="00:10:01.350" end="00:10:06.660" style="s2">selbst erfahrener präsentieren zu können</p>
+<p begin="00:10:03.620" end="00:10:09.450" style="s2">und drittens sind die meisten generellen</p>
+<p begin="00:10:06.660" end="00:10:11.550" style="s2">erklärungen groves über dieses thema wie</p>
+<p begin="00:10:09.450" end="00:10:13.500" style="s2">etwa auch im falle von gerhard roth und</p>
+<p begin="00:10:11.550" end="00:10:16.350" style="s2">susan blackmore weitgehend falsch</p>
+<p begin="00:10:13.500" end="00:10:18.060" style="s2">unbewiesen und spekulativ aber sie</p>
+<p begin="00:10:16.350" end="00:10:20.730" style="s2">stellen sie so da als seien sie</p>
+<p begin="00:10:18.060" end="00:10:22.230" style="s2">wissenschaftlich gesichert dass</p>
+<p begin="00:10:20.730" end="00:10:24.660" style="s2">journalisten immer wieder auf solche</p>
+<p begin="00:10:22.230" end="00:10:26.940" style="s2">gaukeleien hereinfallen kommt zustande</p>
+<p begin="00:10:24.660" end="00:10:29.850" style="s2">weil sie selbst keine ahnung vom thema</p>
+<p begin="00:10:26.940" end="00:10:31.890" style="s2">haben oder voreingenommen sind und dann</p>
+<p begin="00:10:29.850" end="00:10:33.900" style="s2">wundern sich diese personen warum sie</p>
+<p begin="00:10:31.890" end="00:10:34.929" style="s2">von vielen menschen nicht ernst genommen</p>
+<p begin="00:10:33.900" end="00:10:37.399" style="s2">werden</p>
+<p begin="00:10:34.929" end="00:10:38.769" style="s2">andererseits scheint heute der naive</p>
+<p begin="00:10:37.399" end="00:10:40.579" style="s2">glaube verbreitet zu sein</p>
+<p begin="00:10:38.769" end="00:10:42.529" style="s2">wissenschaftliche angestellte würden</p>
+<p begin="00:10:40.579" end="00:10:45.350" style="s2">immer den höchstmöglichen stand des</p>
+<p begin="00:10:42.529" end="00:10:47.389" style="s2">wissens vertreten über die vermeintliche</p>
+<p begin="00:10:45.350" end="00:10:49.429" style="s2">nahtoderfahrung werner gross und seine</p>
+<p begin="00:10:47.389" end="00:10:51.439" style="s2">allgemeinen falschaussagen zum thema</p>
+<p begin="00:10:49.429" end="00:10:54.399" style="s2">wird in einiger zeit ein eigenes video</p>
+<p begin="00:10:51.439" end="00:10:56.059" style="s2">veröffentlicht dieser übliche</p>
+<p begin="00:10:54.399" end="00:10:57.739" style="s2">pseudowissenschaftliche umgang mit</p>
+<p begin="00:10:56.059" end="00:10:59.929" style="s2">diesem thema zeigt sich auch bei der</p>
+<p begin="00:10:57.739" end="00:11:01.729" style="s2">voreiligen behauptung nahtoderfahrungen</p>
+<p begin="00:10:59.929" end="00:11:03.709" style="s2">könnten durch einen kontrollierten bei</p>
+<p begin="00:11:01.729" end="00:11:05.899" style="s2">geführten sauerstoffmangel im gehirn</p>
+<p begin="00:11:03.709" end="00:11:07.789" style="s2">erzeugt werden beispielsweise</p>
+<p begin="00:11:05.899" end="00:11:09.939" style="s2">untersuchte der deutsche neurologe</p>
+<p begin="00:11:07.789" end="00:11:12.889" style="s2">thomas lampert in den 90er jahren</p>
+<p begin="00:11:09.939" end="00:11:15.439" style="s2">experimentell was bei einem kontrolliert</p>
+<p begin="00:11:12.889" end="00:11:18.019" style="s2">erzeugten sauerstoffmangel passiert wir</p>
+<p begin="00:11:15.439" end="00:11:21.819" style="s2">haben daher an jungen gesunden probanden</p>
+<p begin="00:11:18.019" end="00:11:23.899" style="s2">ohnmacht ausgelöst auf eine harmlose art</p>
+<p begin="00:11:21.819" end="00:11:26.259" style="s2">hyperventilieren das heißt tief atmen in</p>
+<p begin="00:11:23.899" end="00:11:26.259" style="s2">der hocke</p>
+<p begin="00:11:34.910" end="00:11:41.440" style="s2">dann rasch aufstehen und kräftig pressen</p>
+<p begin="00:11:38.120" end="00:11:41.440" style="s2">gegen die verschlossene kehle</p>
+<p begin="00:11:53.459" end="00:11:58.889" style="s2">das reicht um einen gesunden menschen</p>
+<p begin="00:11:56.610" end="00:11:59.930" style="s2">kurzzeitig ohnmächtig zu machen zehn</p>
+<p begin="00:11:58.889" end="00:12:04.309" style="s2">sekunden vielleicht</p>
+<p begin="00:11:59.930" end="00:12:04.309" style="s2">[Musik]</p>
+<p begin="00:12:05.300" end="00:12:11.339" style="s2">einer wachte auf riss die augen auf und</p>
+<p begin="00:12:08.850" end="00:12:14.129" style="s2">sagte das ist ja unglaublich und hat uns</p>
+<p begin="00:12:11.339" end="00:12:17.970" style="s2">dann erzählt wie er eine flut von</p>
+<p begin="00:12:14.129" end="00:12:21.029" style="s2">bildern nacheinander gesehen hat alle</p>
+<p begin="00:12:17.970" end="00:12:23.639" style="s2">mit dem gefühl leicht zu sein schweben</p>
+<p begin="00:12:21.029" end="00:12:25.619" style="s2">zu sein unter freunden zu sein und dann</p>
+<p begin="00:12:23.639" end="00:12:28.290" style="s2">nicht gar nicht mehr raus zu wollen eine</p>
+<p begin="00:12:25.619" end="00:12:30.779" style="s2">andere probanden hat uns gesagt es wäre</p>
+<p begin="00:12:28.290" end="00:12:32.970" style="s2">so schön gewesen es war so schön gewesen</p>
+<p begin="00:12:30.779" end="00:12:35.220" style="s2">sie sei nur widerwillig zurückgekehrt</p>
+<p begin="00:12:32.970" end="00:12:37.829" style="s2">und sie hatte schoss der gedanke durch</p>
+<p begin="00:12:35.220" end="00:12:39.929" style="s2">den kopf wenn ich jetzt sterbe wer alles</p>
+<p begin="00:12:37.829" end="00:12:42.389" style="s2">gut bei oberflächlicher betrachtung</p>
+<p begin="00:12:39.929" end="00:12:44.240" style="s2">könnte der verdacht aufkommen diese</p>
+<p begin="00:12:42.389" end="00:12:46.949" style="s2">erlebnisse seien mit nahtoderfahrungen</p>
+<p begin="00:12:44.240" end="00:12:48.629" style="s2">vergleichbar was lempert aber hier</p>
+<p begin="00:12:46.949" end="00:12:50.490" style="s2">schild als hat nicht eindeutig die</p>
+<p begin="00:12:48.629" end="00:12:53.550" style="s2">qualität und ausprägung wirklich ein</p>
+<p begin="00:12:50.490" end="00:12:55.410" style="s2">nahtod erfahrungen beispielsweise ist</p>
+<p begin="00:12:53.550" end="00:12:57.269" style="s2">eine flut von bildern nicht der</p>
+<p begin="00:12:55.410" end="00:12:59.429" style="s2">lebenswillen wir bei nahtoderfahrungen</p>
+<p begin="00:12:57.269" end="00:13:01.529" style="s2">erlebt wird denn da werden nicht nur</p>
+<p begin="00:12:59.429" end="00:13:03.869" style="s2">innere bilder erlebt wie es oft falsch</p>
+<p begin="00:13:01.529" end="00:13:06.540" style="s2">dargestellt wird sondern meistens das</p>
+<p begin="00:13:03.869" end="00:13:08.339" style="s2">ganze bisherige leben oft heißt es man</p>
+<p begin="00:13:06.540" end="00:13:10.970" style="s2">habe jede einzelne sekunde des</p>
+<p begin="00:13:08.339" end="00:13:13.019" style="s2">bisherigen lebens noch einmal durchlebt</p>
+<p begin="00:13:10.970" end="00:13:15.509" style="s2">gleichzeitig ging damit eine tiefe</p>
+<p begin="00:13:13.019" end="00:13:18.269" style="s2">mentale und seelische lebens reflexion</p>
+<p begin="00:13:15.509" end="00:13:20.549" style="s2">einher das hat wohl eine deutlich andere</p>
+<p begin="00:13:18.269" end="00:13:22.160" style="s2">qualität und ausprägung als das was</p>
+<p begin="00:13:20.549" end="00:13:24.839" style="s2">lempert hier aus sagt</p>
+<p begin="00:13:22.160" end="00:13:27.059" style="s2">auch kennt man es etwa von gewissen</p>
+<p begin="00:13:24.839" end="00:13:29.009" style="s2">situationen wenn man zum beispiel keinen</p>
+<p begin="00:13:27.059" end="00:13:30.990" style="s2">arbeitsstress hat unter geliebten</p>
+<p begin="00:13:29.009" end="00:13:33.240" style="s2">menschen ist und richtig loslassen kann</p>
+<p begin="00:13:30.990" end="00:13:36.240" style="s2">dass man sich sehr wohl fühlt und solche</p>
+<p begin="00:13:33.240" end="00:13:37.679" style="s2">situationen ungern verlässt es wäre</p>
+<p begin="00:13:36.240" end="00:13:39.509" style="s2">weitaus schöner in einer solchen</p>
+<p begin="00:13:37.679" end="00:13:41.879" style="s2">situation zu sterben als bei einem</p>
+<p begin="00:13:39.509" end="00:13:43.559" style="s2">schrecklichen unfall oder einsam und</p>
+<p begin="00:13:41.879" end="00:13:44.339" style="s2">leidend in einem krankenhaus oder</p>
+<p begin="00:13:43.559" end="00:13:47.009" style="s2">pflegeheim</p>
+<p begin="00:13:44.339" end="00:13:48.720" style="s2">es sind kein alkohol drogen über</p>
+<p begin="00:13:47.009" end="00:13:51.690" style="s2">ventilation oder eine nahtoderfahrung</p>
+<p begin="00:13:48.720" end="00:13:54.490" style="s2">nötig um so etwas erleben zu können</p>
+<p begin="00:13:51.690" end="00:13:56.200" style="s2">selbst diese elemente also die noch am</p>
+<p begin="00:13:54.490" end="00:13:58.570" style="s2">ehesten den verdacht auf eine</p>
+<p begin="00:13:56.200" end="00:14:00.670" style="s2">nahtoderfahrung aufkommen lassen könnten</p>
+<p begin="00:13:58.570" end="00:14:02.769" style="s2">entsprechen in ihrer qualität und</p>
+<p begin="00:14:00.670" end="00:14:05.769" style="s2">ausprägung nicht den meisten berichten</p>
+<p begin="00:14:02.769" end="00:14:07.450" style="s2">über echte nahtoderfahrungen war es bei</p>
+<p begin="00:14:05.769" end="00:14:09.279" style="s2">solchen darstellungen meistens auch</p>
+<p begin="00:14:07.450" end="00:14:11.050" style="s2">nicht erwähnt wird ist das im zuge</p>
+<p begin="00:14:09.279" end="00:14:12.640" style="s2">wirklicher nahtoderfahrungen und</p>
+<p begin="00:14:11.050" end="00:14:15.519" style="s2">außerkörperliche erfahrungen noch</p>
+<p begin="00:14:12.640" end="00:14:17.440" style="s2">weitaus mehr dinge sichtbar werden zum</p>
+<p begin="00:14:15.519" end="00:14:19.720" style="s2">beispiel wäre der neurologe lempert</p>
+<p begin="00:14:17.440" end="00:14:22.269" style="s2">vielleicht eher überrascht gewesen wenn</p>
+<p begin="00:14:19.720" end="00:14:23.980" style="s2">ein proband etwas gesagt hätte was nach</p>
+<p begin="00:14:22.269" end="00:14:26.920" style="s2">echten nahtoderfahrungen viel typischer</p>
+<p begin="00:14:23.980" end="00:14:29.260" style="s2">ist zb dass er menschen in anderen</p>
+<p begin="00:14:26.920" end="00:14:32.680" style="s2">räumen klar von oben wahrgenommen hat</p>
+<p begin="00:14:29.260" end="00:14:34.540" style="s2">oder wenn ein proband gesagt hätte er</p>
+<p begin="00:14:32.680" end="00:14:37.390" style="s2">habe die rückkehr in den körper deutlich</p>
+<p begin="00:14:34.540" end="00:14:39.100" style="s2">gespürt als wäre er wie durch einen</p>
+<p begin="00:14:37.390" end="00:14:41.410" style="s2">starken schock oder ein starkes</p>
+<p begin="00:14:39.100" end="00:14:43.899" style="s2">gummiband in den körper zurückgezogen</p>
+<p begin="00:14:41.410" end="00:14:46.329" style="s2">worden und er sei mit einem knall wieder</p>
+<p begin="00:14:43.899" end="00:14:48.250" style="s2">im körper gewesen oder er sei wie in</p>
+<p begin="00:14:46.329" end="00:14:49.589" style="s2">eine enge hülle in den körper hinein</p>
+<p begin="00:14:48.250" end="00:14:52.750" style="s2">gestopft worden</p>
+<p begin="00:14:49.589" end="00:14:54.820" style="s2">der neurologe lempert behauptet zwar in</p>
+<p begin="00:14:52.750" end="00:14:56.829" style="s2">der sendung nicht ausdrücklich seine</p>
+<p begin="00:14:54.820" end="00:14:59.079" style="s2">probanden hätten dasselbe wie bei einer</p>
+<p begin="00:14:56.829" end="00:15:02.230" style="s2">nahtoderfahrung erlebt aber der</p>
+<p begin="00:14:59.079" end="00:15:03.990" style="s2">moderator sagt voreilig die eindrücke</p>
+<p begin="00:15:02.230" end="00:15:07.300" style="s2">der testpersonen gleichen</p>
+<p begin="00:15:03.990" end="00:15:10.149" style="s2">erstaunlicherweise der nahtod erlebnisse</p>
+<p begin="00:15:07.300" end="00:15:12.220" style="s2">das ist die typische undifferenzierte</p>
+<p begin="00:15:10.149" end="00:15:14.290" style="s2">und einseitige art und weise in der</p>
+<p begin="00:15:12.220" end="00:15:17.560" style="s2">dieses thema immer wieder behandelt wird</p>
+<p begin="00:15:14.290" end="00:15:19.750" style="s2">auch bei der im juni 2022</p>
+<p begin="00:15:17.560" end="00:15:21.790" style="s2">veröffentlichten sehr einseitigen doku</p>
+<p begin="00:15:19.750" end="00:15:24.640" style="s2">von arte wurde wieder derselbe fehler</p>
+<p begin="00:15:21.790" end="00:15:26.470" style="s2">gemacht da wurde zum beispiel erwähnt</p>
+<p begin="00:15:24.640" end="00:15:29.320" style="s2">dass auch militärpiloten manchmal</p>
+<p begin="00:15:26.470" end="00:15:31.149" style="s2">gewisse erlebnisse haben und dann wurden</p>
+<p begin="00:15:29.320" end="00:15:33.579" style="s2">die zwei typischen voreiligen und</p>
+<p begin="00:15:31.149" end="00:15:35.079" style="s2">falschen schlüsse daraus gezogen dass</p>
+<p begin="00:15:33.579" end="00:15:36.910" style="s2">diese erlebnisse erstens mit</p>
+<p begin="00:15:35.079" end="00:15:39.820" style="s2">nahtoderfahrungen vergleichbar sind und</p>
+<p begin="00:15:36.910" end="00:15:41.790" style="s2">zweitens dass nahtoderfahrungen deshalb</p>
+<p begin="00:15:39.820" end="00:15:44.260" style="s2">im gehirn entstehen würden</p>
+<p begin="00:15:41.790" end="00:15:45.699" style="s2">selbst dann aber wenn wirklich in</p>
+<p begin="00:15:44.260" end="00:15:47.260" style="s2">nahtoderfahrungen durch einen</p>
+<p begin="00:15:45.699" end="00:15:49.480" style="s2">kontrolliert herbeigeführten</p>
+<p begin="00:15:47.260" end="00:15:52.180" style="s2">sauerstoffmangel oder andere körperliche</p>
+<p begin="00:15:49.480" end="00:15:54.459" style="s2">faktoren entstehen würden wäre das</p>
+<p begin="00:15:52.180" end="00:15:56.769" style="s2">längst kein beweis dafür dass sie nur im</p>
+<p begin="00:15:54.459" end="00:15:58.510" style="s2">gehirn erzeugt werden denn diese</p>
+<p begin="00:15:56.769" end="00:16:00.459" style="s2">faktoren könnten auch eine tatsächliche</p>
+<p begin="00:15:58.510" end="00:16:03.769" style="s2">ablösung des bewusstseins vom</p>
+<p begin="00:16:00.459" end="00:16:05.629" style="s2">nervensystem ledig ich auslösen so</p>
+<p begin="00:16:03.769" end="00:16:08.269" style="s2">resümiert etwa auch der deutsche</p>
+<p begin="00:16:05.629" end="00:16:10.310" style="s2">neurologe professor dr wilfried kuhn in</p>
+<p begin="00:16:08.269" end="00:16:13.519" style="s2">seinem buch über nahtod erfahrungen die</p>
+<p begin="00:16:10.310" end="00:16:15.850" style="s2">tat die bisherigen beobachtungen und</p>
+<p begin="00:16:13.519" end="00:16:18.170" style="s2">erkenntnisse lassen vermuten dass</p>
+<p begin="00:16:15.850" end="00:16:20.120" style="s2">nahtoderfahrungen zwar durch vielfältige</p>
+<p begin="00:16:18.170" end="00:16:23.269" style="s2">physiologische mechanismen angestoßen</p>
+<p begin="00:16:20.120" end="00:16:25.339" style="s2">werden können der inhalt der erfahrungen</p>
+<p begin="00:16:23.269" end="00:16:27.410" style="s2">jedoch trotz der eventuell vorhandenen</p>
+<p begin="00:16:25.339" end="00:16:29.420" style="s2">neuronalen correlated physiologisch</p>
+<p begin="00:16:27.410" end="00:16:33.110" style="s2">nicht ausreichend begründet werden kann</p>
+<p begin="00:16:29.420" end="00:16:35.089" style="s2">zitat ende zu ergänzen wäre noch dass es</p>
+<p begin="00:16:33.110" end="00:16:36.009" style="s2">nicht nur die erlebnis inhalte sind</p>
+<p begin="00:16:35.089" end="00:16:38.000" style="s2">sondern auch gewisse</p>
+<p begin="00:16:36.009" end="00:16:40.279" style="s2">begleiterscheinungen wie etwa</p>
+<p begin="00:16:38.000" end="00:16:42.110" style="s2">außergewöhnliche und medizinisch nicht</p>
+<p begin="00:16:40.279" end="00:16:44.480" style="s2">erklärbare heilung von schweren</p>
+<p begin="00:16:42.110" end="00:16:46.220" style="s2">erkrankungen und schäden wie sie im zuge</p>
+<p begin="00:16:44.480" end="00:16:47.410" style="s2">von nahtoderfahrungen immer wieder</p>
+<p begin="00:16:46.220" end="00:16:49.939" style="s2">sichtbar werden</p>
+<p begin="00:16:47.410" end="00:16:52.490" style="s2">diese begründung vom sauerstoffmangel</p>
+<p begin="00:16:49.939" end="00:16:55.759" style="s2">ist eine alte spekulation und sie kommt</p>
+<p begin="00:16:52.490" end="00:16:57.800" style="s2">daher weil nahtoderfahrungen in den 1970</p>
+<p begin="00:16:55.759" end="00:16:59.870" style="s2">er und 80 er jahren besonders als</p>
+<p begin="00:16:57.800" end="00:17:02.389" style="s2">erfahrung des tunnels mit dem licht</p>
+<p begin="00:16:59.870" end="00:17:03.949" style="s2">bekannt wurden so kamen dann manche</p>
+<p begin="00:17:02.389" end="00:17:06.319" style="s2">personen die sich mit diesen erfahrungen</p>
+<p begin="00:17:03.949" end="00:17:08.659" style="s2">gar nicht näher befassten schnell auf</p>
+<p begin="00:17:06.319" end="00:17:10.459" style="s2">die idee der sauerstoffmangel würde</p>
+<p begin="00:17:08.659" end="00:17:12.579" style="s2">innerlich die illusion von einem tunnel</p>
+<p begin="00:17:10.459" end="00:17:15.079" style="s2">und größer werdenden licht erzeugen</p>
+<p begin="00:17:12.579" end="00:17:16.789" style="s2">seite wird sie immer wieder unkritisch</p>
+<p begin="00:17:15.079" end="00:17:18.380" style="s2">nachgesprochen auch von manchen</p>
+<p begin="00:17:16.789" end="00:17:20.839" style="s2">wissenschaftlichen angestellten</p>
+<p begin="00:17:18.380" end="00:17:22.850" style="s2">sie wundern sich zwar über spirituelle</p>
+<p begin="00:17:20.839" end="00:17:24.949" style="s2">anschauungen bemerkte aber nicht dass</p>
+<p begin="00:17:22.850" end="00:17:27.319" style="s2">sie auch selbst an gewissen geschichten</p>
+<p begin="00:17:24.949" end="00:17:30.200" style="s2">festhalten und damit nicht wissenschaft</p>
+<p begin="00:17:27.319" end="00:17:32.799" style="s2">sondern einen dogmatismus betreiben den</p>
+<p begin="00:17:30.200" end="00:17:35.270" style="s2">sie an den religionen kritisieren</p>
+<p begin="00:17:32.799" end="00:17:37.520" style="s2">besonders problematisch ist dass gewisse</p>
+<p begin="00:17:35.270" end="00:17:39.500" style="s2">behauptungen von manchen personen immer</p>
+<p begin="00:17:37.520" end="00:17:41.929" style="s2">wieder leichtfertig als wissenschaftlich</p>
+<p begin="00:17:39.500" end="00:17:44.840" style="s2">fundiert angepriesen werden so heißt es</p>
+<p begin="00:17:41.929" end="00:17:47.120" style="s2">etwa der sauerstoffmangel bewirkt in den</p>
+<p begin="00:17:44.840" end="00:17:50.570" style="s2">seitlichen temporallappen im großhirn</p>
+<p begin="00:17:47.120" end="00:17:52.909" style="s2">eine illusion von ton und licht oder bei</p>
+<p begin="00:17:50.570" end="00:17:55.460" style="s2">hyperventilation entsteht einerseits ein</p>
+<p begin="00:17:52.909" end="00:17:57.320" style="s2">sauerstoff überschuss im blut aber durch</p>
+<p begin="00:17:55.460" end="00:17:59.299" style="s2">die verengung der blutgefäße eine</p>
+<p begin="00:17:57.320" end="00:18:01.100" style="s2">verminderte sauerstoffsättigung die</p>
+<p begin="00:17:59.299" end="00:18:02.400" style="s2">wiederum die tunnel licht erfahrung</p>
+<p begin="00:18:01.100" end="00:18:04.990" style="s2">bewirkt</p>
+<p begin="00:18:02.400" end="00:18:07.090" style="s2">derartige satz formulierungen können für</p>
+<p begin="00:18:04.990" end="00:18:09.430" style="s2">unkundige zu sehr akademisch und</p>
+<p begin="00:18:07.090" end="00:18:12.059" style="s2">wissenschaftlich klingen in wirklichkeit</p>
+<p begin="00:18:09.430" end="00:18:15.040" style="s2">aber völlig an der realität vorbeigehen</p>
+<p begin="00:18:12.059" end="00:18:17.410" style="s2">zum abschluss noch ein passendes zitat</p>
+<p begin="00:18:15.040" end="00:18:20.920" style="s2">des berühmten pioniers der hirnforschung</p>
+<p begin="00:18:17.410" end="00:18:23.020" style="s2">und mystikers emanuel sweden burg viele</p>
+<p begin="00:18:20.920" end="00:18:25.720" style="s2">gebildete zeigen in geistigen dingen</p>
+<p begin="00:18:23.020" end="00:18:27.850" style="s2">mehr und verstand als die einfachen weil</p>
+<p begin="00:18:25.720" end="00:18:29.920" style="s2">sie stets nur verneinen und dies durch</p>
+<p begin="00:18:27.850" end="00:18:32.320" style="s2">wissenschaftlich ist das ihnen</p>
+<p begin="00:18:29.920" end="00:18:35.830" style="s2">fortwährend und in großer menge vor den</p>
+<p begin="00:18:32.320" end="00:18:39.600" style="s2">augen steht begründen damit vielen dank</p>
+<p begin="00:18:35.830" end="00:18:39.600" style="s2">für ihr interesse und bis bald</p>
+</div>
+</body>
+</tt>

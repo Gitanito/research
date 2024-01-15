@@ -1,0 +1,371 @@
+{"type":"video","mylink":"https:\/\/www.youtube.com\/watch?v=oqUtg6oPJBU","mytitle":"Exo Politik, Exo Magazin, ExoMagazinTV, Robert Fleischer,Wie ist die Lage auf den Intensivstationen wirklich\uff1f Die fragw\u00fcrdigen Zahlen des Intensivregisters ","mylang":"de"}
+die bundes notbremse wird begründet mit
+der besorgniserregenden situation auf
+den intensivstationen
+die sei so gefährlich dass sogar von
+triage wurde schon geredet und man
+müsste den intensivmediziner da genau
+zuhören
+wir haben uns mal genau angeguckt auf
+welchen zahlen beruht dass eigentlich
+alles und wie stichhaltig sind diese
+zahlen und ist es gerechtfertigt auf
+dieser grundlage derart viele
+grundrechte einzuschränken bitteschön
+die dritte welle der pandemie hat und
+saarland fest im griff
+das sagen die täglichen infektionszahlen
+des robert koch instituts das sagt die
+entwicklung des erwerbs und das sagen
+vor allem die zahlen der belegten
+intensivbetten wir müssen genau zuhören
+was die intensivmediziner und
+medizinerinnen und sagen was die
+dortigen pflegekräfte und sagen es ist
+fünf nach zwölf
+und nur aufgrund der nicht fünf vor 12 5
+nach 12 und nur aufgrund der extremen
+einsatzbereitschaft der mediziner und
+pflegenden personals und aufgrund der
+extremen flexibilität unseres berufes
+können wir solche krisen immer wieder
+einigermaßen hinbekommen
+rund 5000 cupid 19 patienten werden
+derzeit in deutschlands
+intensivstationen betreut
+ein jahr nach beginn der pandemie
+scheint das deutsche gesundheitssystem
+doch noch an seine belastungsgrenze zu
+kommen wie konnte es dazu kommen
+der informatiker tom larsen aus
+niedersachsen ist kopf eines
+unabhängigen recherche teams zusammen
+mit rund einem dutzend anderen
+informatikern ingenieuren notärzten und
+anwälten analysiert er die situation in
+den krankenhäusern auf grundlage
+offizieller daten seit beginn der
+pandemie werden freie bettenkapazitäten
+täglich anders die wie intensiv register
+gemeldet
+die grafiken auf der webseite zeigen
+steigende kursen an
+die situation scheint bedrohlich der
+informatiker lassen wollte es genauer
+wissen
+jeden tag besorgt er sich die aktuellen
+rohdaten die von den krankenhäusern
+gemeldet werden und wertet diese mit
+hilfe eines eigens geschriebenen
+programm es aus mit überraschendem
+ergebnis
+wie verlässlich sind die zahlen die wir
+intensiv ist da überhaupt nicht wieso
+fall dass die wie überhaupt gar nicht
+weiß aufgrund der eingaben der
+krankenhäuser wie viele patienten
+überhaupt jemals mitglied in den
+intensivstationen gelegen haben das
+wissen wir gar nicht ich gebe ihnen mal
+ein beispiel wenn ein patient in einer
+intensivstation liegt dann zählt er als
+ein fall
+und wenn er verlegt werden sollte gilt
+er als ein weiterer fall somit wird ein
+patient zu zwei fällen es kann auch zu
+drei fällen werden wenn er weiter
+verlegt wird und somit sind die zahlen
+die hier vom baby genannt werden also
+aktuell 90 1743 mit dem heutigen tag das
+ist alles falsch
+tatsächlich weiß dass intensiv register
+in seinem tages berichten selbst
+daraufhin aufgrund von verlegungen von
+patienten von einer intensivstation auf
+die andere kann pro patient mehr als
+eine behandlung gemeldet werden mehrfach
+zählungen möglich doch wie oft kommt das
+vor
+dazu gibt es nur schätzungen eine im
+deutschen ärzteblatt erschienene studie
+kam zu dem schluss dass etwa elf prozent
+aller stationären cupid 19 fälle
+mindestens einmal verlegt wurden bei
+beatmeten patienten waren es knapp 32
+prozent
+diese patienten gingen also mehrfach in
+die statistik ein
+das heißt es liegen wohl weniger
+patienten auf den intensivstationen als
+gemeldet wird
+doch wie viel es tatsächlich sind weiß
+dass intensiv register nicht auf welche
+weise melden denn die krankenhäuser
+diese zahlen anders intensiv gewesen ich
+habe beim die wie nachgefragt das hat
+mich auch interessiert und ich wollte
+natürlich genau wissen wie geben die
+krankenhäuser die daten ein die haben
+eine eingabemaske die habe ich hier mal
+vorliegen
+und dort wird der kogit 19 status eines
+krankenhauses eingegeben
+hier werden zahlen eingegeben der
+aktuell intensiv medizinisch behandelten
+kubik 19 patienten davon die beatmeten
+und hier diejenigen die verstorben sind
+als zahl und hier die gesamtzeit die
+abgegangen sind von der intensivstation
+sei es dass sie zurück auf die station
+gekommen sind oder ein anderes
+krankenhaus aber es werden immer nur
+zahlen eingegeben ja wo ist denn das
+feld wo man sehen carlos ist schwerer
+verlauf ist oder ob jemand
+asymptomatisch positiv getestet ist ja
+das habe ich auch gesucht es gibt es
+fällt nicht ich habe nachgefragt weil
+ich das natürlich wissen wollte ob man
+aufgrund dieser maske identifizieren
+kann ob ein schwerer verlauf vorliegt
+und daraufhin habe ich die beantwort
+bekommen ein sie würden nur betten
+zählen sie würden niemals die schweren
+verläufe wissen wollen von den patienten
+sondern sie möchten nur die betten
+zählen
+und der klassische fall dabei ist
+möglicherweise dass eine ältere dame
+oder ein älterer herr in pflegeheimen
+beim sturz sich den oberschenkelhals
+bricht was ein sehr häufiger vorfall ist
+in die intensivstation nach der
+operation kommt um noch beobachtet zu
+werden und natürlich ab gestrichen wird
+und zunächst einmal als verdachtsfall
+auf kobe 19 gilt und wenn der pcr test
+positives aber es ist eigentlich ein
+oberschenkelhalsbruch dann ist das für
+die eimco wie patient doch wie stark
+bestimmen cobit 19 patienten das
+geschehen auf den intensivstationen ein
+blick auf die statistik zeigt sie machen
+nur einen relativ kleinen anteil aus
+der grüne bereich zeigt die anzahl der
+verfügbaren intensivbetten an der blaue
+bereich den anteil der betten die belegt
+sind und hier sind die kurven 19
+patienten dargestellt hellblau zeigt
+alle patienten auf der intensivstation
+der hellere bereich diejenigen die
+beatmet werden müssen
+interessanterweise blieb die gesamtzahl
+belegter intensivbetten seit anfang der
+pandemie mehr oder weniger konstant
+obwohl die anzahl positiv getesteter
+intensivpatienten zuweilen deutlich
+zunahmen
+zum vergleich so würde die kurve
+aussehen wenn corona virus patienten die
+intensivstationen zusätzlich belasten
+würden
+doch das ist nicht der fall naja wenn
+man sich das bundesweit anguckt das
+gesamte intensiv geschehen dann stellt
+man fest dass sich die auslastung der
+intensivstation insgesamt nicht
+verändern
+und dass es einen anteil an
+privatpatienten gibt aber dieser
+überhaupt keine bedeutung auf die
+gesamtauslastung der intensivstation hat
+deutlich verändert hat sich hingegen die
+gesamtzahl der verfügbaren
+intensivbetten hier in grün dargestellt
+seit november 2020 hat sie sich fast
+halbiert obwohl die auslastung der
+intensivstationen fast gleich geblieben
+ist
+ein umstand der inzwischen auch
+politikern auf fällt dramatisch
+verändert hat sind die freien
+kapazitäten nennt die intensivbetten
+aber nicht weil es mehr intensiv
+patienten gibt sondern weil die betten
+immer mehr reduziert wurden also im
+zweiten halbjahr 2020 sind irgendwie
+6000 intensivbetten aus der statistik
+verschwunden keiner weiß warum
+rückblick im frühjahr 2020 bereitet sich
+deutschland auf die herannahende
+epidemie vor ende märz beschließt die
+regierung das kogit 19 krankenhaus
+entlastungsgesetz für jedes intensiv
+bett dass sie zusätzlich schaffen
+erhalten die krankenhäuser einen bonus
+von 50.000 euro zudem bekommen sie
+prämien für jedes bett das für corona
+virus patienten freigehalten wird
+folglich rüsten krankenhäuser betten der
+normalstation zu intensivbetten aufsagen
+gewöhnliche behandlungen ab denn jedes
+freie bett bedeutet mehr geld
+außerdem setzt die regierung die von
+pflegekräften kritisierten personal
+untergrenzen außer kraft das heißt
+weniger personal darf sich nun um mehr
+betten gleichzeitig kümmern
+somit stehen 10.000 bis 12.000 betten
+für intensivpatienten bereit
+doch im august 2020 setzt die regierung
+die personal untergrenzen wieder in
+kraft nun sind pro pfleger tagsüber nur
+noch maximal zweieinhalb intensivbetten
+erlaubt die folge die krankenhäuser
+lassen mehrere tausend intensivbetten in
+der sogenannten notfall reservekapazität
+verschwinden betten die eigentlich zur
+verfügung ständen wenn es jens sparens
+personal untergrenzen nicht gäbe es gilt
+wieder die losung wer zu wenige
+pflegekräfte für zu viele patienten hat
+muss betten abbauen
+am 30 september beendet die regierung
+auch die frei halte pauschale da leere
+intensivbetten nun kein geld mehr
+bringen wandeln viele kliniken sie
+wieder in betten der normalstation um
+die folge noch weniger freie intensiv
+plätze 18 november 2020 zehntausende
+menschen versammeln sich vor dem
+bundestag um gegen die novelle des
+infektionsschutzgesetzes zu
+demonstrieren
+bereits damals ahnen sie dass ihre
+grundrechte dadurch noch weiter
+eingeschränkt werden
+die polizei vertreibt sie mit
+wasserwerfern vom bundestag
+doch am selben tag ändert das parlament
+auch das so genannte krankenhaus
+finanzierungsgesetz es soll
+krankenhäuser für ausfälle entschädigen
+die ihnen wegen der pandemie entstanden
+sind
+tom larsen und sein team glauben dass
+die regierung damit einen weiteren
+fehlanreiz geschaffen hat der zum abbau
+von bettenkapazitäten führte ein
+krankenhaus bekommt nur noch durch das
+krankenhausfinanzierungsreformgesetz die
+wenige auslassung haben gibt es kein
+geld und schlägt sich das tatsächlich
+auch irgendwie den zahlen nieder
+dieses neue gesetz naja es schlecht sich
+auf jeden fall in der optik niedermann
+kann das hier ganz gut sehen das ist
+jetzt hier mal das beispiel lübeck ich
+weiß nicht ob die das so machen aber es
+ist auffällig hier die orange linie ist
+der 19 11
+und es ist auffällig dass die kurz
+vorher ihre betten abgebaut haben und
+dann auf einmal die auslastung die hier
+im hintergrund ist immer über 75 prozent
+halten vorher war die nicht so man kann
+sie gar nicht sehen würde
+hier hinter verlaufen weil wir so viele
+betten frei haben ist das jetzt ein
+einzelfall oder ist es bei mehreren oder
+vielen krankenhäusern so das ist bei
+sehr vielen krankenhäusern so wurden die
+intensivbetten kapazitäten künstlich
+verknappt in großen städten wie berlin
+oder köln war die auslastung auch schon
+vor dem neuen gesetz hoch hier ist kein
+effekt zu erkennen
+doch in vielen kreisen und gemeinden
+sieht es anders aus in bottrop in
+nordrhein westfalen wurden ab november
+betten abgebaut
+genau wie in goslar in niedersachsen
+auch in leipzig in sachsen wurden die
+betten knapp und im thüringischen
+eisenach schrumpfte ebenfalls die
+bettenkapazität nach inkrafttreten des
+gesetzes gibt es hinweise darauf dass
+die krankenhäuser in der lage sind ihre
+bettenkapazitäten auch wieder hochfahren
+wenn sie ihn ja eindeutig also ich habe
+hier mal ein beispiel der kreis
+pinneberg der hat hier zwei
+krankenhäuser und hier kann man das
+wunderbar sehen krankenhaus
+finanzierungsgesetz kommt wetten weg
+auslastung hoch und die betten so weit
+weg immer so wie es gerade benötigt wird
+also man sieht ja hier an dieser kurve
+ja das ist ja beeindruckend was die da
+machen
+es hat nicht unbedingt hier alles mit
+profit geschehen zu tun dann wenn man
+hier sieht das hier wenig profit
+geschehen ist und trotzdem ist hier viel
+los oder hier ist viel los das blaue
+sind ja die belegten betten also die
+machen nach belieben ihre wetten auf und
+zu und erreichen auf diese weise nahezu
+immer die 75 prozent hier diese
+orangefarbene linie die überschreiten
+sie dadurch gibt es geld immer wieder
+fanden lausen und sein team orte an
+denen die bettenkapazität flexibel an
+den bedarf angepasst wurde
+wie hier im stark betroffenen
+erzgebirgskreis in sachsen aber auch im
+bayerischen starnberg folgt die
+gemeldete bettenkapazität sichtbar der
+anzahl belegte betten auf der
+intensivstation
+haben sie sich mit dem intensiv register
+selbst in verbindung gesetzt mal gefragt
+was die zu den zahlen sagen zu ihren
+auswertungen
+ja ich habe den allem eine auswertung
+geschickt komplett und wir sind das
+zusammen am telefon durchgegangen zwei
+stunden lang und die pressesprecherin
+des baby war hoch verblüfft
+über das was sie auf einmal visualisiert
+präsentiert bekommen hat und ich kann
+ganz ehrlich sagen wenn das die wie
+verblüfft ist von dem was visuell
+möglich ist und was ihnen das
+tatsächlich dann auch sagt dann kann ich
+ehrlich gesagt sagen dass diese sachen
+nicht zu einer bevölkerungsweiten
+maßnahmen steuerung eingesetzt werden
+dürfen diese zahlen sind nicht valide
+die fragwürdige aussagekraft der zahlen
+dürfte bald auch justitia interessieren
+immer wieder kam es vor dass richter in
+ihren urteilen die zahlen des intensiv
+registers nutzten um entscheidungen zu
+treffen das könnte sich bald ändern
+offensichtlich ist es für die
+krankenhäuser wichtig ganz bestimmte
+melde höhen zu erreichen offensichtlich
+ist es für die krankenhäuser wichtig die
+kurve anzupassen an die kurve patienten
+oder an die in den patienten die auf
+intensiv liegen und entsprechend passt
+sich die kurve der freien betten an
+es hat also offensichtlich überhaupt
+nichts mit der tatsächlich vorhandenen
+freien becken zahl zu tun und wenn die
+zahlen derart gegriffen sind dann kann
+man als gericht nach meinem dafürhalten
+nicht sagen es genügt ein einfacher
+blick auf stevie register und damit
+begründe ich jedes urteil
+das geht aus meiner sicht nicht mehr

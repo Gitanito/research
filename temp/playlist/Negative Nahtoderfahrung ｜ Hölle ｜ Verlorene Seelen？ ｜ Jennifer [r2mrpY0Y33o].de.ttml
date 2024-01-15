@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.322" end="00:00:11.511" style="s2">Der folgende Bericht stammt aus der Sammlung der IANDS, einer renommierten</p>
+<p begin="00:00:11.511" end="00:00:16.098" style="s2">US-amerikanischen Institution zur Erforschung von Nahtoderfahrungen.</p>
+<p begin="00:00:16.098" end="00:00:21.720" style="s2">Der Bericht ist potenziell beängstigend und möglicherweise nicht für alle Zuseher geeignet.</p>
+<p begin="00:00:21.720" end="00:00:27.079" style="s2">Konsumation unterliegt der eigenen Verantwortung.</p>
+<p begin="00:00:27.079" end="00:00:28.119" style="s2">Jennifer berichtet:</p>
+<p begin="00:00:28.119" end="00:00:34.719" style="s2">Im September 2013 musste ich wegen einer akuten<br />Entzündung meiner Bauchspeicheldrüse ins</p>
+<p begin="00:00:34.719" end="00:00:40.210" style="s2">Krankenhaus. Dort lag ich allein in einem<br />Krankenzimmer und wunderte mich, ob das meine</p>
+<p begin="00:00:40.210" end="00:00:45.879" style="s2">letzte Station in diesem Leben sein würde.<br />Ich war allein und hatte keine vertrauten</p>
+<p begin="00:00:45.879" end="00:00:51.409" style="s2">Menschen in der Nähe. Meine engeren Verwandten<br />waren weit weg in Philadelphia in einer anderen</p>
+<p begin="00:00:51.409" end="00:00:58.359" style="s2">Zeitzone. Der behandelnde Arzt warnte mich,<br />dass meine Schmerzen sehr extrem werden könnten.</p>
+<p begin="00:00:58.359" end="00:01:02.690" style="s2">Was in den letzten Stunden dieser Nacht im<br />September schließlich passierte, erschütterte</p>
+<p begin="00:01:02.690" end="00:01:04.030" style="s2">mein Leben.</p>
+<p begin="00:01:04.030" end="00:01:09.170" style="s2">Ich war überzeugt, ich würde sterben, hatte<br />aber das Gefühl, dass ich dafür noch gar</p>
+<p begin="00:01:09.170" end="00:01:14.289" style="s2">nicht bereit bin. Stunde für Stunde lag ich<br />da mit fürchterlichen Schmerzen, die ich</p>
+<p begin="00:01:14.289" end="00:01:21.180" style="s2">niemals für möglich hielt. Meine Bauchspeicheldrüse<br />war dabei, sich aufzulösen. Es fühlte sich</p>
+<p begin="00:01:21.180" end="00:01:26.710" style="s2">an, wie wenn ich von innen her aufgefressen<br />werde. Ich konnte es nicht mehr länger ertragen,</p>
+<p begin="00:01:26.710" end="00:01:31.350" style="s2">plötzlich fühlte ich eine Veränderung in<br />meinem Inneren. Ich schloss die Augen und</p>
+<p begin="00:01:31.350" end="00:01:32.350" style="s2">zuckte zusammen.</p>
+<p begin="00:01:32.350" end="00:01:38.320" style="s2">Als ich die Augen wieder öffnete, konnte<br />ich nichts mehr erkennen. Alles war trüb</p>
+<p begin="00:01:38.320" end="00:01:43.740" style="s2">und verschwommen. Es war, als hätte ich mehrere<br />dicke Schichten Wachs auf meinen Augen und</p>
+<p begin="00:01:43.740" end="00:01:48.659" style="s2">ich versuchte, diese Schichten zuerst von<br />meinem linken Auge zu entfernen, wie bei einer</p>
+<p begin="00:01:48.659" end="00:01:54.340" style="s2">Zwiebel eine Schicht nach der anderen. Es<br />fühlte sich an, als hätte ich diese Schichten</p>
+<p begin="00:01:54.340" end="00:01:59.600" style="s2">entfernen können, aber ich konnte noch immer<br />nichts erkennen. Dann hörte ich Schritte</p>
+<p begin="00:01:59.600" end="00:02:05.130" style="s2">überall um mich herum. Ich versuchte ruhig<br />zu bleiben, beeilte mich aber, diese Schichten</p>
+<p begin="00:02:05.130" end="00:02:09.909" style="s2">auch von meinem rechten Auge zu entfernen.<br />In der ganzen Zeit wunderte ich mich, was</p>
+<p begin="00:02:09.909" end="00:02:15.430" style="s2">hier vor sich geht und ich hatte das Gefühl,<br />dass etwas überhaupt nicht in Ordnung war.</p>
+<p begin="00:02:15.430" end="00:02:20.250" style="s2">Dann erstarrte ich aus Angst, als meine Sicht<br />klarer wurde und ich sehen konnte, wo ich</p>
+<p begin="00:02:20.250" end="00:02:26.440" style="s2">mich befand. Ich war am Rande einer riesigen<br />Menge von Personen, die wie wild umherrannten</p>
+<p begin="00:02:26.440" end="00:02:32.209" style="s2">und gegenseitig mit verschiedenen Gegenständen<br />aufeinander losgingen. Jeder von ihnen hatte</p>
+<p begin="00:02:32.209" end="00:02:38.920" style="s2">weiße, gierige Augen, deren Anblick ich nie<br />vergessen werde. Es waren Gestalten ohne Seele.</p>
+<p begin="00:02:38.920" end="00:02:42.950" style="s2">Sie sahen aus wie Menschen, aber da fehlte<br />etwas.</p>
+<p begin="00:02:42.950" end="00:02:49.040" style="s2">Als ich an diesem dunklen Ort ankam und versuchte,<br />mich zu orientieren, kamen mir Fragen in den</p>
+<p begin="00:02:49.040" end="00:02:53.401" style="s2">Sinn, die ich zwar nicht laut aussprach, die<br />aber offensichtlich dennoch von den anderen</p>
+<p begin="00:02:53.401" end="00:02:58.460" style="s2">wahrgenommen wurden. Verschiedene Personen<br />dieser Menge antworteten schreiend auf meine</p>
+<p begin="00:02:58.460" end="00:02:59.460" style="s2">Fragen.</p>
+<p begin="00:02:59.460" end="00:03:04.750" style="s2">Meine erste Frage lautete natürlich: „Was<br />ist das für ein Ort?“ „Das ist die Hölle!</p>
+<p begin="00:03:04.750" end="00:03:10.159" style="s2">Was glaubst du, was das hier sonst sein soll?“,<br />schrie eine männliche Person von der Ferne.</p>
+<p begin="00:03:10.159" end="00:03:15.189" style="s2">Tief schockiert und ungläubig dachte ich,<br />das muss ein Traum sein, das kann nicht wahr</p>
+<p begin="00:03:15.189" end="00:03:21.489" style="s2">sein. Dann brach die Menge in Gelächter aus.<br />Ich wollte keine Antworten von diesen Wesen,</p>
+<p begin="00:03:21.489" end="00:03:26.240" style="s2">aber ich konnte meine Fragen ihnen gegenüber<br />nicht verbergen. „Nicht ich!“, war ein</p>
+<p begin="00:03:26.240" end="00:03:30.870" style="s2">weiterer Gedanke von mir, als die Last dieser<br />Situation immer mehr auf meinen Schultern</p>
+<p begin="00:03:30.870" end="00:03:32.209" style="s2">spürbar wurde.</p>
+<p begin="00:03:32.209" end="00:03:37.720" style="s2">„Was glaubst du wohl, wo frustierte Säufer<br />hinkommen, wenn sie sterben, du Schwachkopf?“,</p>
+<p begin="00:03:37.720" end="00:03:44.329" style="s2">sagte ein gebrechlicher Mann, der etwa 3 Meter<br />vor mir stand. Er war herablassend und resolut.</p>
+<p begin="00:03:44.329" end="00:03:49.829" style="s2">Ich war erstarrt und schockiert wie nie zuvor.<br />In diesem Moment wurde mir klar, dass hier</p>
+<p begin="00:03:49.829" end="00:03:55.080" style="s2">nie jemand etwas mit dem Mund sprach, sondern<br />die ganze Kommunikation innerlich und telepathisch</p>
+<p begin="00:03:55.080" end="00:03:56.080" style="s2">war.</p>
+<p begin="00:03:56.080" end="00:04:01.549" style="s2">Ich zitterte und versuchte, von diesem Chaos<br />wegzukommen. Da war dieser Gedanke, „Ich</p>
+<p begin="00:04:01.549" end="00:04:06.739" style="s2">gehöre nicht hier her.“ Aber ich konnte<br />keine andere Möglichkeit für mich erkennen.</p>
+<p begin="00:04:06.739" end="00:04:11.780" style="s2">Es schien, als gäbe es eine Grenze in Form<br />einer pechschwarzen Dunkelheit. Dunkler und</p>
+<p begin="00:04:11.780" end="00:04:17.109" style="s2">dichter als die Nacht. Je mehr ich mich dieser<br />Grenze näherte, umso eher wurde ich davon</p>
+<p begin="00:04:17.109" end="00:04:23.419" style="s2">wegbewegt, wie ein Magnet, der von einem anderen<br />abgestoßen wird. Es war unmöglich, diese</p>
+<p begin="00:04:23.419" end="00:04:28.780" style="s2">Grenze zu überschreiten. Ich war wie gefangen.<br />Bei meinem Fluchtversuch hatte ich so ein</p>
+<p begin="00:04:28.780" end="00:04:33.580" style="s2">Gefühl, als sei ich bei etwas erwischt worden,<br />von dem ich schon wusste, dass es falsch war.</p>
+<p begin="00:04:33.580" end="00:04:39.030" style="s2">Und es fühlte sich so an, als würde das<br />generell mein ganzes Leben betreffen. Als</p>
+<p begin="00:04:39.030" end="00:04:44.600" style="s2">würde ich hier etwas ernten, was ich schon<br />mein ganzes Leben lang gesät habe. Ich fühlte</p>
+<p begin="00:04:44.600" end="00:04:51.650" style="s2">mich entblößt, leer, verängstigt und ausgeliefert.<br />Es gibt keine Worte, um diesen fürchterlichen</p>
+<p begin="00:04:51.650" end="00:04:56.600" style="s2">Zustand zu beschreiben. „Das wars“, dachte<br />ich mir. Selbst jetzt, wenn ich nach Langem</p>
+<p begin="00:04:56.600" end="00:04:58.740" style="s2">darüber spreche, wird mir speihübel.</p>
+<p begin="00:04:58.740" end="00:05:05.280" style="s2">Nicht nur, dass ich meine geliebten Menschen<br />nie wieder sehen würde, auch der Gott, auf</p>
+<p begin="00:05:05.280" end="00:05:10.389" style="s2">den ich mein ganzes Leben lang hoffte, hat<br />mich offenbar verstoßen, so dachte ich. Schon</p>
+<p begin="00:05:10.389" end="00:05:15.590" style="s2">immer hatte ich das Gefühl, dass ich wertlos<br />bin, und dies schien sich nun zu bestätigen.</p>
+<p begin="00:05:15.590" end="00:05:21.449" style="s2">Und als ich dachte, schlimmer könnte es nicht<br />werden, wurde es noch schlimmer. Plötzlich</p>
+<p begin="00:05:21.449" end="00:05:25.840" style="s2">waren die weißen Augen dieser Gestalten alle<br />auf mich gerichtet und alle gingen sie auf</p>
+<p begin="00:05:25.840" end="00:05:32.310" style="s2">mich los. Sie attackierten mich mit verschiedenen<br />Gegenständen wie Schuhen und anderen Kleidungsstücken.</p>
+<p begin="00:05:32.310" end="00:05:36.651" style="s2">Jemand peitschte mit einem nassen Tuch auf<br />mich, während ich ihn anflehte: „Nein,</p>
+<p begin="00:05:36.651" end="00:05:42.080" style="s2">bitte nicht ich. Das habe ich nicht verdient.“<br />Ihr hinterhältiges Grinsen und Lachen machte</p>
+<p begin="00:05:42.080" end="00:05:47.520" style="s2">alles schlimmer. Es schien, als würden sie<br />sich an meinem Leiden amüsieren. Und das</p>
+<p begin="00:05:47.520" end="00:05:50.830" style="s2">war erst der Anfang, als würden sie sich<br />erst einmal aufwärmen.</p>
+<p begin="00:05:50.830" end="00:05:57.000" style="s2">Ich war umzingelt von Gestalten, so weit ich<br />nur sehen konnte. Ich duckte mich und wich</p>
+<p begin="00:05:57.000" end="00:06:02.060" style="s2">aus, während ich versuchte, in der Menge<br />davon zu laufen, aber es wurde nur schlimmer.</p>
+<p begin="00:06:02.060" end="00:06:07.530" style="s2">Ich fühlte mich wie das Opfer in einem Videospiel,<br />bei dem jeder Level schwieriger und schwieriger</p>
+<p begin="00:06:07.530" end="00:06:08.530" style="s2">wird.</p>
+<p begin="00:06:08.530" end="00:06:13.300" style="s2">Die Schuhe und Kleider, mit denen sie mich<br />schlugen, fühlten sich an wie Stöcke, Schläger</p>
+<p begin="00:06:13.300" end="00:06:18.750" style="s2">und Eisenstangen. Die Schmerzen schienen sich<br />zu steigern, erreichten aber nicht annähernd</p>
+<p begin="00:06:18.750" end="00:06:23.780" style="s2">das Ausmaß, wie man es in einem physischen<br />Körper haben würde. Ich vermute das muss</p>
+<p begin="00:06:23.780" end="00:06:28.560" style="s2">so sein an diesem Ort, weil es offenbar ein<br />Spiel sein soll, das sich ständig fortsetzt.</p>
+<p begin="00:06:28.560" end="00:06:35.460" style="s2">Das einzige, was mir einfiel, war, Gegenstände<br />aufzuschnappen und damit zurückzuschlagen.</p>
+<p begin="00:06:35.460" end="00:06:39.990" style="s2">Diese Wesen bewegten sich alle sehr schnell<br />und es schien, als würde ihnen diese Gewalt</p>
+<p begin="00:06:39.990" end="00:06:45.340" style="s2">eine Art Befriedigung bereiten. Als wären<br />sie süchtig nach Gewalt. Was hätte ich sonst</p>
+<p begin="00:06:45.340" end="00:06:50.560" style="s2">tun können, als zu versuchen, mich zu verteigiden?<br />Aber da waren so viele von ihnen und ich war</p>
+<p begin="00:06:50.560" end="00:06:54.960" style="s2">das Frischfleisch. Es war ein sehr unbarmherziger<br />Zustand.</p>
+<p begin="00:06:54.960" end="00:07:01.180" style="s2">Dann war da plötzlich dieses kleine Mädchen,<br />3 oder 4 Jahre jung. Ich weiß nicht, ob ich</p>
+<p begin="00:07:01.180" end="00:07:07.090" style="s2">diese Erfahrung jemals hätte berichten können,<br />wenn ich diesem Mädchen nicht begegnet wäre.</p>
+<p begin="00:07:07.090" end="00:07:11.780" style="s2">Inmitten dieses Chaos – und ich war wirklich<br />mittendrin – wurde ich auf eine ruhige,</p>
+<p begin="00:07:11.780" end="00:07:17.690" style="s2">kleine Simme aufmerksam. „Hey“, sagte<br />sie nur, aber das war genug, um mich zu stoppen.</p>
+<p begin="00:07:17.690" end="00:07:22.550" style="s2">Es faszinierte mich, dass sie die einzige<br />unter Millionen war, die ein wunderschönes,</p>
+<p begin="00:07:22.550" end="00:07:27.800" style="s2">Baby-blaues Auge hatte, nur das andere Auge<br />ware weiß wie bei den anderen, als würde</p>
+<p begin="00:07:27.800" end="00:07:30.280" style="s2">sie sich in zwei Welten gleichzeitig befinden.</p>
+<p begin="00:07:30.280" end="00:07:36.970" style="s2">Hinter ihr war eine große männliche Gestalt,<br />etwa 4 Meter groß, den sie als „den König“</p>
+<p begin="00:07:36.970" end="00:07:42.720" style="s2">bezeichnete, der mich scheinbar in keiner<br />Weise wahrgenommen hat. Die Angriffe schienen</p>
+<p begin="00:07:42.720" end="00:07:47.060" style="s2">aufzuhören, je mehr meine Aufmerksamkeit<br />auf dieses kleine Mädchen gerichtet war.</p>
+<p begin="00:07:47.060" end="00:07:55.180" style="s2">Sie sagte zu mir: „Ich weiß, wer du bist.“<br />Ich war verdutzt. Was? Du bist Jennifer W.</p>
+<p begin="00:07:55.180" end="00:08:01.770" style="s2">C. Woher weiß du das, fragte ich sie. Die<br />ganze Kommunikation war telepathisch. Ihre</p>
+<p begin="00:08:01.770" end="00:08:07.060" style="s2">ruhige Art tröstete mich. Sie sagte: Du bist<br />noch nicht zu lange hier, du kannst immer</p>
+<p begin="00:08:07.060" end="00:08:08.060" style="s2">noch zurück.</p>
+<p begin="00:08:08.060" end="00:08:15.340" style="s2">Dann kam ein Gefühl zurück, das ich scheinbar<br />schon verloren hatte. Hoffnung. Wie? Fragte</p>
+<p begin="00:08:15.340" end="00:08:22.599" style="s2">ich. Dann sagte sie, ich muss es spüren.<br />Spüre es, wie es vorher war. Ich erinnerte</p>
+<p begin="00:08:22.599" end="00:08:28.340" style="s2">mich exakt, wo ich vorher war, denn mein jetziger<br />Körper hatte offenbar immer noch eine ähnliche</p>
+<p begin="00:08:28.340" end="00:08:33.430" style="s2">Gestalt wie vorher, mit dem Patientenkleid,<br />und ich konnte diese Bauchschmerzen abrufen.</p>
+<p begin="00:08:33.430" end="00:08:38.760" style="s2">„Geh!“, forderte sich mich eindringlich<br />auf, als würde die Zeit knapp werden. Das</p>
+<p begin="00:08:38.760" end="00:08:43.460" style="s2">war ihr letztes Wort an mich und dieser kurze,<br />tröstende Moment verwandelte sich wieder</p>
+<p begin="00:08:43.460" end="00:08:45.160" style="s2">in das Chaos von vorher.</p>
+<p begin="00:08:45.160" end="00:08:50.470" style="s2">Ich lief und wehrte mich so gut ich konnte.<br />Ich boxte mich durch die Menge und versuchte</p>
+<p begin="00:08:50.470" end="00:08:56.070" style="s2">sehnsüchtig, diese dunkle Grenze zu erreichen,<br />die ich bereits sehen konnte. Niemand und</p>
+<p begin="00:08:56.070" end="00:09:01.820" style="s2">nichts konnte mich aufhalten, egal, wie sehr<br />sie es versuchten, und dieser Mob hat es wirklich</p>
+<p begin="00:09:01.820" end="00:09:03.370" style="s2">mit all seiner Kraft versucht.</p>
+<p begin="00:09:03.370" end="00:09:09.750" style="s2">Ich fühlte wieder die Kraft dieser Dunkelheit,<br />wie sie mich zurückstieß, je näher ich</p>
+<p begin="00:09:09.750" end="00:09:16.420" style="s2">ihr kam. Ich fiel auf meine Knie. Ich kämpfte<br />gegen eine Kraft, die ich nicht sah. Ich drückte</p>
+<p begin="00:09:16.420" end="00:09:20.880" style="s2">und kroch dagegen, immer wieder, während<br />mein ganzer Körper gefühlt von mehreren</p>
+<p begin="00:09:20.880" end="00:09:25.990" style="s2">Hunderten Händen zurückgezogen wurde. Ich<br />war schon fast völlig erschöpft und steckte</p>
+<p begin="00:09:25.990" end="00:09:31.760" style="s2">meine ganze Energie in einen letzten Sprung.<br />Ich schloss meine Augen und versuchte gleichzeitig,</p>
+<p begin="00:09:31.760" end="00:09:36.649" style="s2">mich so gut wie möglich in die Situation<br />im Krankenhausbett hinein zu versetzen. Dann</p>
+<p begin="00:09:36.649" end="00:09:41.970" style="s2">öffne ich die Augen, aber wieder war ich<br />in der Dunkelheit. Es hat nicht funktioniert!</p>
+<p begin="00:09:41.970" end="00:09:47.190" style="s2">Gelächter und Geschrei der anderen durchdrangen<br />mich. Ich lag auf dem Boden und versetzte</p>
+<p begin="00:09:47.190" end="00:09:50.269" style="s2">mich mental wieder ins Krankenhaus.</p>
+<p begin="00:09:50.269" end="00:09:55.380" style="s2">Es vergingen gefühlte 10 Sekunden, bevor<br />ich mich traute, meine Augen zu öffnen, um</p>
+<p begin="00:09:55.380" end="00:10:01.020" style="s2">zu sehen, ob es funktionierte, und zu meinem<br />absoluten Erstaunen öffneten sich meine Augen</p>
+<p begin="00:10:01.020" end="00:10:06.700" style="s2">unterhalb der Bettdecke im Krankenhauszimmer.<br />Ich fühlte mein Herz, wie es anfing zu schlagen</p>
+<p begin="00:10:06.700" end="00:10:12.360" style="s2">und ich setzte mich schlagartig auf, schnappte<br />nach Luft und schrie. Schwestern und Ärzte</p>
+<p begin="00:10:12.360" end="00:10:17.270" style="s2">kamen in mein Zimmer hereingerannt, ich selbst<br />sprang aus dem Bett, riss mir die Infusion</p>
+<p begin="00:10:17.270" end="00:10:23.620" style="s2">aus dem Arm und taumelte in die medizinischen<br />Geräte. Ich versuchte dem Personal zu erklären,</p>
+<p begin="00:10:23.620" end="00:10:27.709" style="s2">was ich soeben erlebte, aber das traf nur<br />auf taube Ohren.</p>
+<p begin="00:10:27.709" end="00:10:32.880" style="s2">Während der nächsten zwei Wochen waren einige<br />Krankenschwestern an meiner Erfahrung interessiert</p>
+<p begin="00:10:32.880" end="00:10:37.899" style="s2">und sie umsorgten mich so gut sie konnten.<br />Die Stimme dieses kleinen Mädchens kann ich</p>
+<p begin="00:10:37.899" end="00:10:43.410" style="s2">immer noch abrufen, wenn ich mich an diese<br />Situation zurückerinnere. Mein bisheriges</p>
+<p begin="00:10:43.410" end="00:10:47.620" style="s2">irdisches Leben war schon peinvoll und ich<br />frage mich manchmal, welchen Sinn es hat,</p>
+<p begin="00:10:47.620" end="00:10:52.160" style="s2">so ein Leben zu haben, nur um dann irgendwann<br />zu sterben und in einer Welt mit noch mehr</p>
+<p begin="00:10:52.160" end="00:10:58.019" style="s2">Pein zu existieren. Dieses kleine Mädchen<br />wusste meinen Namen. Ich frage mich: Ist das</p>
+<p begin="00:10:58.019" end="00:11:03.019" style="s2">etwa alles vorherbestimmt? Ich glaube ich<br />werde irgendwann die Antworten auf meine Fragen</p>
+<p begin="00:11:03.019" end="00:11:08.560" style="s2">erhalten. Wenn ich an diese verlorenen Seelen<br />mit ihren gierigen weißen Augen zurückdenke,</p>
+<p begin="00:11:08.560" end="00:11:14.070" style="s2">dann empfinde ich einfach nur Traurigkeit.<br />Ich glaube sie haben nicht nur ihre Menschlichkeit</p>
+<p begin="00:11:14.070" end="00:11:16.480" style="s2">verloren, sondern auch ihr Bewusstsein.</p>
+<p begin="00:11:16.480" end="00:11:22.410" style="s2">Ich erlebte diesen Zustand genauso real wie<br />Sie Ihr Leben jetzt als real empfinden, während</p>
+<p begin="00:11:22.410" end="00:11:27.340" style="s2">Sie von diesem Bericht erfahren. Würden Sie<br />ernsthaft in Erwägung ziehen, dass Sie jetzt</p>
+<p begin="00:11:27.340" end="00:11:32.190" style="s2">nur träumen? Nein? Ich denke ich würde es<br />auch nicht.</p>
+<p begin="00:11:32.190" end="00:11:38.960" style="s2">Noch ein paar Anmerkungen zu den Erfahrungsberichten<br />dieser Art: Sie werden auf diesem Kanal nicht</p>
+<p begin="00:11:38.960" end="00:11:43.529" style="s2">veröffentlicht, nur um Ängste zu schüren<br />oder um religiöse Höllenvorstellungen scheinbar</p>
+<p begin="00:11:43.529" end="00:11:48.920" style="s2">zu bestätigen, sondern im Gegenteil. Erstens<br />können diese Berichte helfen, Ängste vor</p>
+<p begin="00:11:48.920" end="00:11:54.339" style="s2">der Ungewissheit nach dem Tod abzubauen, indem<br />man versteht, warum Menschen so etwas erleben.</p>
+<p begin="00:11:54.339" end="00:11:59.420" style="s2">Und zweitens betonen es die Erfahrenen immer<br />wieder, dass diese Erfahrungen nichts mit</p>
+<p begin="00:11:59.420" end="00:12:04.670" style="s2">einer Strafe Gottes zu tun haben, sondern<br />mit dem Zustand des eigenen Bewusstseins,</p>
+<p begin="00:12:04.670" end="00:12:10.600" style="s2">des Gewissens, des Charakters, wie sie zum<br />Todeszeitpunkt überwiegend gegeben waren.</p>
+<p begin="00:12:10.600" end="00:12:15.670" style="s2">Andere Informationsquellen über die geistige<br />Welt legen auch nahe, dass eine persönliche</p>
+<p begin="00:12:15.670" end="00:12:20.880" style="s2">Bewusstseinsveränderung auch im außerkörperlichen<br />Zustand nach dem endgültigen Tod möglich</p>
+<p begin="00:12:20.880" end="00:12:26.390" style="s2">ist und zu einer Veränderung der persönlichen<br />Situation im Jenseits führen kann. Daher</p>
+<p begin="00:12:26.390" end="00:12:32.170" style="s2">kann aus negativen NTE keine Existenz einer<br />ewigen Hölle abgeleitet werden, wie sie in</p>
+<p begin="00:12:32.170" end="00:12:35.190" style="s2">manchen religiösen Kreisen propagiert wird.</p>
+<p begin="00:12:35.190" end="00:12:40.940" style="s2">Laut der meisten Nahtodforscher beträgt der<br />Anteil der NTE, die zu wesentlichen Teilen</p>
+<p begin="00:12:40.940" end="00:12:47.490" style="s2">oder überwiegend negativ erlebt werden, 4-15<br />%. Diese Erfahrungen werden seit eh und je</p>
+<p begin="00:12:47.490" end="00:12:52.420" style="s2">beschrieben und bildnerisch dargestellt, und<br />sie werden sowohl von Atheisten als auch von</p>
+<p begin="00:12:52.420" end="00:12:59.040" style="s2">religiösen Menschen erlebt. Die meisten davon<br />verwandeln sich in positive, erlösende Erfahrungen,</p>
+<p begin="00:12:59.040" end="00:13:02.509" style="s2">oder sie enden plötzlich mit der Rückkehr<br />in den Körper.</p>
+<p begin="00:13:02.509" end="00:13:07.380" style="s2">Der Bericht von Jennifer enthält ein paar<br />Dinge, die für solche Erfahrungen typisch</p>
+<p begin="00:13:07.380" end="00:13:13.040" style="s2">sind. Dazu gehört erstens, dass die Betroffenen<br />ihre irdische, körperliche Form mehr oder</p>
+<p begin="00:13:13.040" end="00:13:19.360" style="s2">weniger beibehalten und die Situation auch<br />sonst auf eine irdisch-ähnliche Weise wahrnehmen.</p>
+<p begin="00:13:19.360" end="00:13:25.370" style="s2">Das gibt es zwar auch bei positiven NTE, dort<br />ist jedoch die Ähnlichkeit zu irdischen Formen</p>
+<p begin="00:13:25.370" end="00:13:30.779" style="s2">nicht so häufig. So wird etwa öfter berichtet,<br />man habe sich selbst und andere Wesen als</p>
+<p begin="00:13:30.779" end="00:13:34.540" style="s2">körperlose, hellstrahlende Energie wahrgenommen.</p>
+<p begin="00:13:34.540" end="00:13:40.550" style="s2">Zweitens: Diese typischen Versuche der aggressiven<br />Wesenheiten, den Opfern einzureden, sie hätten</p>
+<p begin="00:13:40.550" end="00:13:46.519" style="s2">diesen Zustand verdient und es gäbe kein<br />Zurück. So wird den Opfern zum Beispiel eingeredet,</p>
+<p begin="00:13:46.519" end="00:13:51.680" style="s2">es gäbe generell keinen Himmel, oder es gäbe<br />zwar einen Himmel, aber dieser sei für das</p>
+<p begin="00:13:51.680" end="00:13:53.090" style="s2">Opfer für immer unerreichbar.</p>
+<p begin="00:13:53.090" end="00:13:59.240" style="s2">Drittens: Die Attacken und die ständigen<br />Wiederholungen. Es wird oft beschrieben, kaum</p>
+<p begin="00:13:59.240" end="00:14:03.480" style="s2">sei der Körper zerstört gewesen, habe er<br />sich neu zusammengesetzt und alles habe von</p>
+<p begin="00:14:03.480" end="00:14:06.089" style="s2">vorne begonnen wie in einer Endlosschleife.</p>
+<p begin="00:14:06.089" end="00:14:11.560" style="s2">Und viertens: Wenn die Betroffenen ihr Bewusstsein<br />und ihr Empfinden verändern, dann verändert</p>
+<p begin="00:14:11.560" end="00:14:17.160" style="s2">sich ihre Situation. Manchmal wird etwa berichtet,<br />diese Veränderung sei eingetreten, weil man</p>
+<p begin="00:14:17.160" end="00:14:24.160" style="s2">einsichtig war über eigene negative Charaktereigenschaften<br />oder weil man Gebete gesprochen hat. Entscheidend</p>
+<p begin="00:14:24.160" end="00:14:29.720" style="s2">dürfte dabei meistens eine Art Gemütsveränderung<br />bzw. eine gefühlte Gewissensveränderung</p>
+<p begin="00:14:29.720" end="00:14:36.070" style="s2">sein. Die Folge ist dann häufig die Errettung<br />aus der Situation durch vertraute Verwandte</p>
+<p begin="00:14:36.070" end="00:14:42.070" style="s2">oder durch ein Lichtwesen. Nicht immer, aber<br />oft wird dieses Lichtwesen als Jesus identifiziert,</p>
+<p begin="00:14:42.070" end="00:14:45.760" style="s2">auch von Atheisten und Gläubigen nicht-christlicher<br />Religionen.</p>
+<p begin="00:14:45.760" end="00:14:52.310" style="s2">Diese negativen Erfahrungen sind in fast jeder<br />Hinsicht gegenteilig zu den positiven, schönen</p>
+<p begin="00:14:52.310" end="00:14:58.480" style="s2">und lichtvollen Erfahrungen. Bei den schönen<br />NTE fühlt man sich frei, leicht, geborgen</p>
+<p begin="00:14:58.480" end="00:15:05.081" style="s2">und bedingungslos akzeptiert. Bei höllischen<br />NTE ist man verängstigt oder in Panik, fühlt</p>
+<p begin="00:15:05.081" end="00:15:08.940" style="s2">sich gefangen, isoliert, hilflos und bedroht.</p>
+<p begin="00:15:08.940" end="00:15:15.470" style="s2">Gemeinsam haben es diese Zustände, dass es<br />kein Zeitgefühl gibt. Bei den positiven zeitlosen</p>
+<p begin="00:15:15.470" end="00:15:20.250" style="s2">Zuständen hat man zum Beispiel nicht das<br />Gefühl, Dinge erledigen zu müssen, stattdessen</p>
+<p begin="00:15:20.250" end="00:15:26.440" style="s2">empfindet man Freiheit und absolute Sorglosigkeit.<br />Umgekehrt fühlen sich die negativen Zustände</p>
+<p begin="00:15:26.440" end="00:15:31.829" style="s2">gerade wegen der Zeitlosigkeit so an, als<br />würden sie sich nie wieder ändern, daher</p>
+<p begin="00:15:31.829" end="00:15:36.500" style="s2">wird von den Erfahrenen immer wieder gesagt,<br />sie hätten in diesem Zustand keine Hoffnung</p>
+<p begin="00:15:36.500" end="00:15:41.410" style="s2">mehr gehabt und seien überzeugt gewesen,<br />dass er sich nie wieder ändern wird, auch</p>
+<p begin="00:15:41.410" end="00:15:45.889" style="s2">wenn er sich schließlich doch noch zum Positiven<br />verändert hat.</p>
+<p begin="00:15:45.889" end="00:15:48.980" style="s2">Damit vielen Dank für Ihr Interesse und bis<br />bald.</p>
+</div>
+</body>
+</tt>

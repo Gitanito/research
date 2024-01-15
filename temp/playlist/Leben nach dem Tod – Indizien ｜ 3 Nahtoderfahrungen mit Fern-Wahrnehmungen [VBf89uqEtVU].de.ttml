@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.891" end="00:00:06.210" style="s2">Willkommen zu diesem Video. Dieses Mal geht es <br />um bestimmte Arten außerkörperlicher Erfahrungen,  </p>
+<p begin="00:00:06.210" end="00:00:10.920" style="s2">die die stärksten Hinweise dafür liefern, dass <br />sie nicht im Gehirn produziert werden können. Mit  </p>
+<p begin="00:00:10.920" end="00:00:16.080" style="s2">anderen Worten: Dass das Bewusstsein des Menschen <br />unabhängig vom Gehirn existieren kann. Dazu bringe  </p>
+<p begin="00:00:16.080" end="00:00:20.220" style="s2">ich in diesem Video drei Beispiele. Es handelt <br />sich um Menschen, die laut eigenen Aussagen,  </p>
+<p begin="00:00:20.220" end="00:00:25.320" style="s2">während ihrer körperlichen Bewusstlosigkeit <br />irdische, lokale Dinge wahrgenommen haben,  </p>
+<p begin="00:00:25.320" end="00:00:28.800" style="s2">die außerhalb ihrer potenziellen <br />körperlichen Sinnesreichweite lagen,  </p>
+<p begin="00:00:28.800" end="00:00:32.670" style="s2">das heißt, sie hätten diese Dinge auch dann <br />nicht wahrnehmen können, wenn sie körperlich  </p>
+<p begin="00:00:32.670" end="00:00:36.630" style="s2">bei vollem Bewusstsein gewesen wären.<br />Der erste Fall dieser Art, den ich heute  </p>
+<p begin="00:00:36.630" end="00:00:42.090" style="s2">präsentiere, stammt von einer früheren Patientin <br />des Psychiaters und Neurowissenschaftlers Prof.  </p>
+<p begin="00:00:42.090" end="00:00:47.400" style="s2">Dr. Bruce Greyson, einer der heute weltweit <br />bekanntesten Nahtodforscher aus den USA. Es  </p>
+<p begin="00:00:47.400" end="00:00:52.770" style="s2">war vor fast 50 Jahren an einem heißen Sommertag <br />in Virginia, als Dr. Greyson als junger Psychiater  </p>
+<p begin="00:00:52.770" end="00:00:58.230" style="s2">im Dienst war. Er sitzt gerade beim Essen, als <br />sein Pager einen Notfall meldet. Es geht um eine  </p>
+<p begin="00:00:58.230" end="00:01:02.670" style="s2">Patientin namens Holly, die einen Suizid versuchte <br />und wegen einer Überdosis ins Krankenhaus  </p>
+<p begin="00:01:02.670" end="00:01:07.740" style="s2">eingeliefert wurde. Dr. Greyson kommt in den <br />Notfallraum, wo Holly bereits versorgt wird.  </p>
+<p begin="00:01:07.740" end="00:01:13.770" style="s2">Sie ist bewusstlos und ihr Kreislauf instabil. <br />Außerhalb wartet ihre Mitbewohnerin Susan. Sie  </p>
+<p begin="00:01:13.770" end="00:01:18.090" style="s2">fand Holly am Nachmittag regungslos auf der <br />Couch, woraufhin sie Alarm schlug und dann  </p>
+<p begin="00:01:18.090" end="00:01:23.130" style="s2">mit der Rettung ins Krankenhaus mitfuhr. Sie weiß <br />nicht, was Holly schluckte, aber sie erzählt Dr.  </p>
+<p begin="00:01:23.130" end="00:01:28.410" style="s2">Greyson über die Belastungen, unter denen Holly <br />in letzter Zeit litt. Dr. Greyson bedankt sich bei  </p>
+<p begin="00:01:28.410" end="00:01:32.940" style="s2">Susan und schickt sie nach Hause. Dann schaut <br />er noch einmal kurz nach Holly. Sie ist nicht  </p>
+<p begin="00:01:32.940" end="00:01:37.110" style="s2">ansprechbar und kommt auf die Intensivstation, <br />weil ihr Herzschlag unregelmäßig ist. </p>
+<p begin="00:01:37.110" end="00:01:42.210" style="s2">Am nächsten Tag besucht Dr. Greyson die <br />Patientin wieder. Er kommt zu ihr ans Bett,  </p>
+<p begin="00:01:42.210" end="00:01:46.050" style="s2">während sie die Augen geschlossen hat. <br />Er berührt sie am Arm und sagt: »Holly,  </p>
+<p begin="00:01:46.050" end="00:01:51.240" style="s2">ich bin Dr. Greyson.« Holly hat die Augen immer <br />noch geschlossen und sagt zu ihm: »Ich weiß,  </p>
+<p begin="00:01:51.240" end="00:01:55.920" style="s2">wer Sie sind. Ich kenne sie von gestern Abend.« <br />Dr. Greyson ist verblüfft und meint zu ihr:  </p>
+<p begin="00:01:55.920" end="00:02:01.320" style="s2">»Ich dachte Sie waren bewusstlos, als ich gestern <br />hier war.« Dann sagt Holly: »Ich sah Sie nicht bei  </p>
+<p begin="00:02:01.320" end="00:02:05.990" style="s2">mir im Raum, sondern draußen bei Susan auf der <br />Couch mit ihr sprechen.« Dr. Greyson ist wieder  </p>
+<p begin="00:02:05.990" end="00:02:10.400" style="s2">erstaunt und meint zu Holly: »Wahrscheinlich <br />hat Ihnen das Personal gesagt, dass ich mit  </p>
+<p begin="00:02:10.400" end="00:02:15.350" style="s2">Susan sprach.« Dann öffnet sie beide Augen und <br />sagt vehement: »Nein, ich habe Sie gesehen.« </p>
+<p begin="00:02:15.350" end="00:02:20.720" style="s2">Sie bemerkt, dass Dr. Greyson perplex ist und ihr <br />nicht glauben kann. Dann sagt sie zu ihm: »Sie  </p>
+<p begin="00:02:20.720" end="00:02:25.310" style="s2">trugen eine gestreifte Krawatte mit einem roten <br />Fleck darauf.« Aber das ist nicht das einzige,  </p>
+<p begin="00:02:25.310" end="00:02:30.890" style="s2">woran sich Holly erinnert. Sie kann alle Details <br />darüber wiedergeben, als Dr. Greyson außerhalb des  </p>
+<p begin="00:02:30.890" end="00:02:35.450" style="s2">Notfallraumes mit ihrer Zimmerkollegin Susan <br />sprach. Sie erinnert sich an alles, was sie  </p>
+<p begin="00:02:35.450" end="00:02:40.400" style="s2">sprachen und auch an andere Details, zum Beispiel <br />dass Dr. Greyson einen Ventilator auf die Couch  </p>
+<p begin="00:02:40.400" end="00:02:44.930" style="s2">richtete, wo sie sich unterhielten, weil es sehr <br />heiß war und das Krankenhaus damals noch nicht  </p>
+<p begin="00:02:44.930" end="00:02:49.730" style="s2">klimatisiert war, und dass Dr. Greyson seinen <br />Arztkittel im Bereich der Brust öffnete, weshalb  </p>
+<p begin="00:02:49.730" end="00:02:54.890" style="s2">der rote Fleck auf der Krawatte sichtbar wurde.<br />Dieser Fleck entstand am Vortag, als Dr. Greyson  </p>
+<p begin="00:02:54.890" end="00:02:58.820" style="s2">beim Essen wegen Holly vom Pager alarmiert <br />wurde. Durch den Pager ist er erschrocken  </p>
+<p begin="00:02:58.820" end="00:03:03.200" style="s2">und dabei fiel ihm die Gabel hinunter auf <br />den Teller, weshalb die Spaghettisoße sein  </p>
+<p begin="00:03:03.200" end="00:03:08.420" style="s2">auf dem Tisch liegendes Buch und seine Krawatte <br />beschmutzte. Da ihm dies peinlich war, knöpfte er  </p>
+<p begin="00:03:08.420" end="00:03:13.370" style="s2">seinen Arztkittel bis ganz nach oben zu, sodass <br />der Fleck nicht mehr sichtbar war. Selbst dann,  </p>
+<p begin="00:03:13.370" end="00:03:17.810" style="s2">wenn Holly körperlich wach gewesen wäre, hätte sie <br />diesen Fleck mir ihren Augen nicht sehen können,  </p>
+<p begin="00:03:17.810" end="00:03:22.340" style="s2">weil er vom weißen Kittel überdeckt war. <br />Draußen aber, als Dr. Greyson mit Susan sprach,  </p>
+<p begin="00:03:22.340" end="00:03:27.350" style="s2">öffnete er den Kittel im Bereich der Brust für ein <br />paar Minuten, weil es so heiß war. Als Susan ging,  </p>
+<p begin="00:03:27.350" end="00:03:31.550" style="s2">knöpfte er den Kittel wieder zu, bevor <br />er noch einmal nach Holly schaute. Es war  </p>
+<p begin="00:03:31.550" end="00:03:36.110" style="s2">völlig ausgeschlossen, dass Holly diesen Fleck am <br />Vortag mit ihren körperlichen Augen sehen konnte,  </p>
+<p begin="00:03:36.110" end="00:03:40.550" style="s2">und überhaupt, dass sie die ganze Situation <br />so detailliert einzig und allein mit ihren  </p>
+<p begin="00:03:40.550" end="00:03:44.990" style="s2">körperlichen Sinnen hätte wahrnehmen können, <br />oder dass ihr das jemand so genau erzählt hätte. </p>
+<p begin="00:03:44.990" end="00:03:50.750" style="s2">Dr. Greyson verdrängte das Ganze vorerst, weil er <br />es sich nicht erklären konnte. Er hatte dieselbe  </p>
+<p begin="00:03:50.750" end="00:03:55.190" style="s2">Weltanschauung wie sein Vater, der Naturalist <br />und Skeptiker war und das Übersinnliche für  </p>
+<p begin="00:03:55.190" end="00:04:00.020" style="s2">reinen Glauben hielt. Für ihn bestand das <br />Leben nur aus Chemie und sonst nichts. Aber  </p>
+<p begin="00:04:00.020" end="00:04:04.370" style="s2">durch diesen Vorfall mit Holly wurde klar, dass <br />Hollys Bewusstsein von ihrem Körper abgelöst  </p>
+<p begin="00:04:04.370" end="00:04:08.930" style="s2">gewesen sein muss. Dies war der Grundstein, <br />weshalb sich Dr. Greyson später immer mehr für  </p>
+<p begin="00:04:08.930" end="00:04:13.700" style="s2">Nahtoderfahrungen interessierte und zu einem der <br />renommiertesten Forscher auf diesem Gebiet wurde. </p>
+<p begin="00:04:13.700" end="00:04:18.430" style="s2">Dieser Fall zeigt beispielhaft, wie es auch <br />mit den meisten anderen Nahtodforschern  </p>
+<p begin="00:04:18.430" end="00:04:23.290" style="s2">begann. Diese sind nicht – wie Skeptiker es <br />oft falsch und diffamierend behaupten – alle  </p>
+<p begin="00:04:23.290" end="00:04:28.300" style="s2">religiös voreingenommen. Nein, sie erlebten im <br />Rahmen ihrer ärztlichen Praxis solche Fälle,  </p>
+<p begin="00:04:28.300" end="00:04:32.980" style="s2">wie eben diesen mit Holly, aus denen unmittelbar <br />klar wurde, dass sich das Bewusstsein des Menschen  </p>
+<p begin="00:04:32.980" end="00:04:37.240" style="s2">vom Körper ablösen kann. Sogar Raymond <br />Moody, der Vater der Nahtoderfahrung,  </p>
+<p begin="00:04:37.240" end="00:04:42.580" style="s2">wie er oft bezeichnet wird, ist naturalistisch, <br />ohne religiöse Überzeugungen aufgewachsen. </p>
+<p begin="00:04:42.580" end="00:04:46.870" style="s2">Eines der Bücher von Dr. Bruce Greyson <br />kam übrigens heuer auf Deutsch heraus.  </p>
+<p begin="00:04:46.870" end="00:04:51.790" style="s2">Der Link und die Daten dazu befinden sich in <br />der Videobeschreibung und im ersten Kommentar. </p>
+<p begin="00:04:51.790" end="00:04:57.640" style="s2">Auch der zweite Fall stammt aus den USA. <br />Ingrid Honkala hatte ihr Nahtoderfahrung  </p>
+<p begin="00:04:57.640" end="00:05:02.770" style="s2">als kleines Kind, als sie fast 3 Jahre alt <br />war. Sie lebte damals in Columbien mit ihren  </p>
+<p begin="00:05:02.770" end="00:05:07.390" style="s2">beiden Schwestern und ihren Eltern in einem <br />Einfamilienhaus. Tagsüber wurden die Kinder  </p>
+<p begin="00:05:07.390" end="00:05:12.700" style="s2">oft von einem Kindermädchen betreut, weil beide <br />Eltern arbeiteten, so auch an diesem Tag. Während  </p>
+<p begin="00:05:12.700" end="00:05:17.080" style="s2">das Kindermädchen am Morgen in das Haus kam und <br />die Mutter sich noch vorbereitete für die Arbeit,  </p>
+<p begin="00:05:17.080" end="00:05:21.700" style="s2">spielte Ingrid mit ihrer älteren, 4 Jahre <br />alten Schwester, im Garten des Hauses mit  </p>
+<p begin="00:05:21.700" end="00:05:26.680" style="s2">dem Ball. Nachdem die Mutter aus dem Haus war, <br />fiel der Ball in eine große Wassertonne und als  </p>
+<p begin="00:05:26.680" end="00:05:31.120" style="s2">Ingrid ihn herausfischen wollte, fiel sie ins <br />Wasser. Ihre Schwester konnte ihr nicht helfen  </p>
+<p begin="00:05:31.120" end="00:05:36.010" style="s2">und Ingrid sich selbst auch nicht. Als sie keine <br />Luft mehr bekam, begann ihre außerkörperliche  </p>
+<p begin="00:05:36.010" end="00:05:42.430" style="s2">Erfahrung. Ingrid sagt dazu selbst:<br />»Ich fiel in dieses extrem kalte Wasser. Es fühlte  </p>
+<p begin="00:05:42.430" end="00:05:47.200" style="s2">sich an, als würde mein Brustkorb implodieren und <br />ich konnte nicht mehr atmen. Ich hörte noch meine  </p>
+<p begin="00:05:47.200" end="00:05:51.700" style="s2">Schwester schreien, aber sie konnte mir nicht <br />helfen. Zuletzt hörte ich noch sehr laut meinen  </p>
+<p begin="00:05:51.700" end="00:05:56.620" style="s2">Herzschlag. Plötzlich verwandelte sich dieser <br />fürchterliche Zustand in ein Gefühl von absolutem  </p>
+<p begin="00:05:56.620" end="00:06:02.350" style="s2">Frieden. Ich fühlte mich extrem wohl. Ich musste <br />um nichts mehr kämpfen, alles war völlig friedlich  </p>
+<p begin="00:06:02.350" end="00:06:07.540" style="s2">und ruhig. Ich würde es als die Ruhe hinter der <br />Ruhe bezeichnen. Zuerst war alles sehr dunkel,  </p>
+<p begin="00:06:07.540" end="00:06:12.790" style="s2">dann kam von unten ein helles Licht, welches das <br />Wasser um mich herum wunderschön erleuchtete. Dann  </p>
+<p begin="00:06:12.790" end="00:06:17.590" style="s2">sah ich meinen eigenen Körper. Ich dachte mir, <br />ich will nicht mehr in den Körper zurückgehen,  </p>
+<p begin="00:06:17.590" end="00:06:21.520" style="s2">wozu sollte ich das auch wollen? Ich <br />wollte diesen Körper zurücklassen. </p>
+<p begin="00:06:21.520" end="00:06:26.530" style="s2">Plötzlich war ich in unserem Haus, im Raum <br />unseres Kindermädchens. Ich sah sie auf ihrem  </p>
+<p begin="00:06:26.530" end="00:06:31.010" style="s2">Bett liegen und ich erinnere mich noch so klar <br />an diese Situation, dass ich sogar noch weiß,  </p>
+<p begin="00:06:31.010" end="00:06:36.440" style="s2">was sie im Radio hörte. Im nächsten Moment sah <br />ich meine Mutter von oben, als sie noch zu Fuß  </p>
+<p begin="00:06:36.440" end="00:06:41.750" style="s2">auf dem Weg zur Arbeit war. Ich dachte »Oh! Da <br />ist Mutti!«. Sie war bereits ca. 10 Gehminuten  </p>
+<p begin="00:06:41.750" end="00:06:46.700" style="s2">vom Haus entfernt. Exakt in diesem Moment <br />konnte ich wahrnehmen, was in ihr vorging,  </p>
+<p begin="00:06:46.700" end="00:06:52.100" style="s2">was sie dachte und fühlte. Sie blieb stehen und <br />fühlte, dass zuhause etwas nicht in Ordnung ist,  </p>
+<p begin="00:06:52.100" end="00:06:57.590" style="s2">dass mit einem ihrer Kinder etwas passierte. Ich <br />sah, wie sie sich umdrehte und zu unserem Haus  </p>
+<p begin="00:06:57.590" end="00:07:01.730" style="s2">zurücklief. In diesem Moment realisierte <br />ich, dass ich sofort an jedem beliebigen  </p>
+<p begin="00:07:01.730" end="00:07:07.190" style="s2">Ort erscheinen kann, wenn ich es nur will und <br />daran denke. Es gab weder Zeit noch Raum, und  </p>
+<p begin="00:07:07.190" end="00:07:12.620" style="s2">ich konnte jederzeit überall sein wo ich wollte.<br />Es gab scheinbar keine Begrenzungen. Ich konnte  </p>
+<p begin="00:07:12.620" end="00:07:17.030" style="s2">fühlen und wissen, was mit jedem einzelnen <br />Menschen der Welt los war. Auf einmal war  </p>
+<p begin="00:07:17.030" end="00:07:20.840" style="s2">ich im Licht und das war der erste Moment <br />in diesem Leben, in dem ich mich wirklich  </p>
+<p begin="00:07:20.840" end="00:07:26.150" style="s2">zuhause fühlte. Es war ein unglaublich schönes <br />Gefühl der Erleichterung mit dem Gedanken: »Ja,  </p>
+<p begin="00:07:26.150" end="00:07:31.100" style="s2">endlich bin ich zu Hause.« Das Ganze war <br />viel realer als das irdische Leben und ich  </p>
+<p begin="00:07:31.100" end="00:07:36.710" style="s2">fühlte mich sehr willkommen. Mein Gefühl von Ich <br />löste sich auf. Ich fühlte mich eins mit Allem. </p>
+<p begin="00:07:36.710" end="00:07:41.690" style="s2">Dann sah ich wieder meine Mutter. Sie wusste <br />intuitiv, wo sie hin musste und sie lief direkt  </p>
+<p begin="00:07:41.690" end="00:07:46.640" style="s2">in den Garten hinter das Haus. Ich sah, wie sie <br />meinen Körper aus der Tonne riss. Er hatte blaue  </p>
+<p begin="00:07:46.640" end="00:07:51.800" style="s2">Lippen und war wie eine steife Puppe. Aber mich <br />hat das alles überhaupt nicht berührt. Für mich  </p>
+<p begin="00:07:51.800" end="00:07:57.020" style="s2">war das bereits alles hinter mir. Aber jedes Leben <br />auf der Erde hat einen Sinn und die Aufgabe meiner  </p>
+<p begin="00:07:57.020" end="00:08:01.700" style="s2">Mutter war in diesem Moment, bei meinem Körper <br />eine Wiederbelebung zu machen. Auf das war sie  </p>
+<p begin="00:08:01.700" end="00:08:06.020" style="s2">auch geschult, weil sie Kinderbetreuerin war. <br />Ich wurde dann ganz plötzlich und sehr kräftig  </p>
+<p begin="00:08:06.020" end="00:08:10.640" style="s2">wie durch ein Vakuum zurückgezogen in meinen <br />Körper. Ich hätte überhaupt nichts dagegen tun  </p>
+<p begin="00:08:10.640" end="00:08:15.500" style="s2">können. Ich war zurück in diesem Körper. <br />Dieser wunderschöne Zustand von davor war  </p>
+<p begin="00:08:15.500" end="00:08:20.330" style="s2">verschwunden und darüber war ich überhaupt nicht <br />glücklich. Ich fühlte mich kalt und unangenehm,  </p>
+<p begin="00:08:20.330" end="00:08:24.470" style="s2">und ich hatte diese Freiheit von vorher nicht <br />mehr. Damit hat sich mein Leben völlig verändert  </p>
+<p begin="00:08:24.470" end="00:08:28.280" style="s2">und es wurde teilweise sehr schwierig.<br />Da gab es zum Beispiel Situationen,  </p>
+<p begin="00:08:28.280" end="00:08:32.840" style="s2">dass ich nichts mehr essen wollte, oder dass <br />ich vor dem Spiegel stehe und ich mich sehr  </p>
+<p begin="00:08:32.840" end="00:08:37.220" style="s2">fremd fühle in diesem Körper, und ich dann zu <br />meiner Mutter sage, dass ich eigentlich nicht  </p>
+<p begin="00:08:37.220" end="00:08:41.030" style="s2">dieser Körper und dieses Kind bin, dass <br />das nicht mein eigentliches Wesen ist.« </p>
+<p begin="00:08:41.030" end="00:08:45.200" style="s2">Zum dritten Fall.<br />Eines der bekanntesten Beispiele für  </p>
+<p begin="00:08:45.200" end="00:08:50.840" style="s2">außerkörperliche Wahrnehmungen stammt von Anita <br />Moorjani. Anita ist indischer Abstammung und wuchs  </p>
+<p begin="00:08:50.840" end="00:08:57.410" style="s2">in Hongkong auf. Heute lebt sie in den USA. Im <br />Jahr 2002 wurde bei ihr im Alter von 43 Jahren der  </p>
+<p begin="00:08:57.410" end="00:09:02.870" style="s2">Lymphknotenkrebs Morbus Hodgkin diagnostiziert. <br />Fast 4 Jahre lang kämpfte sie gegen den Krebs.  </p>
+<p begin="00:09:02.870" end="00:09:08.900" style="s2">Ihr Zustand wurde immer schlechter, ehe sie am <br />Morgen des 2. Februar 2006 mit zitronengroßen  </p>
+<p begin="00:09:08.900" end="00:09:13.670" style="s2">Metastasen und viel Flüssigkeit im Oberkörper <br />als Notfall ins Krankenhaus eingeliefert wurde  </p>
+<p begin="00:09:13.670" end="00:09:18.530" style="s2">und ins Koma fiel. Die Ärzte waren sich sicher, <br />Anita würde die kommende Nacht nicht überleben.  </p>
+<p begin="00:09:18.530" end="00:09:23.300" style="s2">Als ihr Körper aber bewusstlos wurde, war sie <br />außerhalb ihres Körpers, außerhalb von Zeit  </p>
+<p begin="00:09:23.300" end="00:09:28.280" style="s2">und Raum, und ihre Wahrnehmung erweiterte sich <br />extrem, wie es für diese Zustände typisch ist. </p>
+<p begin="00:09:28.280" end="00:09:33.020" style="s2">Ihre Schmerzen und ihre Atemnot waren plötzlich <br />verschwunden und sie fühlte sich so gut,  </p>
+<p begin="00:09:33.020" end="00:09:39.680" style="s2">frei und klar wie nie zuvor. Sie hatte auch diese <br />typische 360-Grad-Rundumsicht, das heißt, sie sah  </p>
+<p begin="00:09:39.680" end="00:09:45.440" style="s2">alles gleichzeitig aus allen Richtungen. Insgesamt <br />war sie für ca. 30 Stunden körperlich bewusstlos,  </p>
+<p begin="00:09:45.440" end="00:09:50.120" style="s2">also bis zum nächsten Tag am Nachmittag, aber <br />sie konnte vieles wahrnehmen, was in dieser Zeit  </p>
+<p begin="00:09:50.120" end="00:09:54.950" style="s2">passierte und sowohl innerhalb, als auch außerhalb <br />ihrer körperlich-sinnlichen Reichweite lag. </p>
+<p begin="00:09:54.950" end="00:09:59.360" style="s2">Und sie sah die Menschen und deren Handlungen <br />nicht nur äußerlich, sondern konnte auch  </p>
+<p begin="00:09:59.360" end="00:10:04.670" style="s2">wahrnehmen, was sie dachten und fühlten. Später, <br />als sie körperlich wieder zu Bewusstsein kam, hat  </p>
+<p begin="00:10:04.670" end="00:10:09.260" style="s2">sie die jeweiligen Menschen darauf angesprochen <br />und diese bestätigten ihr, dass ihre Wahrnehmungen  </p>
+<p begin="00:10:09.260" end="00:10:13.730" style="s2">korrekt waren. Diese Menschen waren auch sehr <br />überrascht, dass Anita dies alles wusste. </p>
+<p begin="00:10:13.730" end="00:10:18.530" style="s2">Eines der ersten Dinge, die sie laut eigenen <br />Aussagen in körperlicher Ferne wahrnahm, war  </p>
+<p begin="00:10:18.530" end="00:10:24.620" style="s2">ihr Bruder Anoop, der damals Tausende Kilometer <br />entfernt in Indien lebte. Obwohl Anoop noch nichts  </p>
+<p begin="00:10:24.620" end="00:10:29.630" style="s2">von Anitas Zustand erfuhr, spürte er dennoch – <br />ähnlich wie die Mutter von Ingrid Honkala –, dass  </p>
+<p begin="00:10:29.630" end="00:10:33.620" style="s2">etwas nicht in Ordnung war. Er hatte einen <br />so starken Drang, nach Hongkong zu fliegen,  </p>
+<p begin="00:10:33.620" end="00:10:39.350" style="s2">dass er tatsächlich einen Flug buchte. Erst nach <br />diesem Entschluss versuchte Anitas Ehemann Danny,  </p>
+<p begin="00:10:39.350" end="00:10:44.210" style="s2">bei Anoop anzurufen. Er erreichte aber nur <br />noch Anoops Frau Mona und sie sagte zu Danny,  </p>
+<p begin="00:10:44.210" end="00:10:48.920" style="s2">Anoop sei bereits auf dem Weg nach Hongkong.<br />Anita sah dann auch, dass Anoop im Flugzeug  </p>
+<p begin="00:10:48.920" end="00:10:52.670" style="s2">saß und Angst hatte, er würde seine <br />Schwester nicht mehr lebend vorfinden,  </p>
+<p begin="00:10:52.670" end="00:10:56.510" style="s2">wenn er im Krankenhaus ankommt. Sie <br />wollte ihn trösten und ihm versichern,  </p>
+<p begin="00:10:56.510" end="00:10:59.600" style="s2">dass er es schaffen wird, aber <br />er war für sie nicht zugänglich. </p>
+<p begin="00:10:59.600" end="00:11:04.400" style="s2">Anita sah auch viele andere Dinge außerhalb <br />ihres Körpers, wie etwa Gespräche zwischen dem  </p>
+<p begin="00:11:04.400" end="00:11:08.720" style="s2">klinischen Personal und ihren Verwandten, <br />oder dass ihre Schwägerin Mona in Indien,  </p>
+<p begin="00:11:08.720" end="00:11:12.320" style="s2">und Linda, eine enge Freundin der <br />Familie in Hongkong, Gebetsgruppen  </p>
+<p begin="00:11:12.320" end="00:11:17.360" style="s2">für Anita initiierten. Sie sah und fühlte ihre <br />Mutter am Krankenhausflur ängstlich umhergehen,  </p>
+<p begin="00:11:17.360" end="00:11:21.860" style="s2">während ihr eigener Körper bewusstlos und an <br />lebensherhaltende Maßnahmen angeschlossen war. </p>
+<p begin="00:11:21.860" end="00:11:26.690" style="s2">Um vier Uhr früh sah sie, wie ihr Körper <br />Atemnot bekam und ihr Ehemann Danny,  </p>
+<p begin="00:11:26.690" end="00:11:31.160" style="s2">der ständig bei ihr am Bett saß, per Notruf <br />eine Krankenschwester holte. Sie sah,  </p>
+<p begin="00:11:31.160" end="00:11:36.110" style="s2">wie ihr Bruder Anoop am Nachmittag in Hongkong <br />ankam und vom Flughafen aus ihren Ehemann Danny  </p>
+<p begin="00:11:36.110" end="00:11:41.090" style="s2">anrief. Danny sagte zu Anoop, er solle nicht ins <br />Hotel, sondern direkt ins Krankenhaus kommen,  </p>
+<p begin="00:11:41.090" end="00:11:45.830" style="s2">weil es jederzeit zu spät sein könne.<br />Am Nachmittag um ca. 4 Uhr, wachte Anita  </p>
+<p begin="00:11:45.830" end="00:11:50.600" style="s2">wieder in ihrem Körper auf. Ihre Verwandten <br />standen um ihr Bett herum und sie rief zu Anoop:  </p>
+<p begin="00:11:50.600" end="00:11:54.680" style="s2">»Du hast es geschafft. Ich wusste, dass <br />du hier sein würdest. Ich habe gesehen,  </p>
+<p begin="00:11:54.680" end="00:11:58.820" style="s2">wie du mit dem Flugzeug hergekommen <br />bist.« Anoop war verblüfft und sprachlos. </p>
+<p begin="00:11:58.820" end="00:12:03.050" style="s2">Es kam dann auch der Arzt herein, der in der <br />Nacht zuvor die Flüssigkeit von Anitas Lungen  </p>
+<p begin="00:12:03.050" end="00:12:08.900" style="s2">entfernte. Anita sagte zu ihm: »Guten Abend, <br />es ist schön, Sie wieder zu sehen.« Auch er  </p>
+<p begin="00:12:08.900" end="00:12:14.150" style="s2">war verblüfft und sprachlos, weil er Anita zuvor <br />nie sah, als sie körperlich bei Bewusstsein war. </p>
+<p begin="00:12:14.150" end="00:12:19.820" style="s2">Später erzählte Anita ihrem Mann zum Beispiel, was <br />er mit diesem Arzt am Flur gesprochen hatte. Ihr  </p>
+<p begin="00:12:19.820" end="00:12:23.930" style="s2">Mann meinte dann, sie hätte dies gar nicht <br />wahrnehmen können, aber er bestätigte ihr,  </p>
+<p begin="00:12:23.930" end="00:12:28.970" style="s2">dass ihre Erinnerungen völlig korrekt waren. Auch <br />die anderen Verwandten und Freunde bestätigten  </p>
+<p begin="00:12:28.970" end="00:12:33.200" style="s2">ihr später, dass ihre Schilderungen richtig <br />waren und auch sie konnten das kaum glauben. </p>
+<p begin="00:12:33.200" end="00:12:37.790" style="s2">Der Fall von Anita Moorjani ist nicht nur <br />aufgrund dieser Fernwahrnehmungen besonders,  </p>
+<p begin="00:12:37.790" end="00:12:41.450" style="s2">sondern auch aufgrund einiger anderer Dinge, <br />die sie in ihrem Buch näher beschreibt,  </p>
+<p begin="00:12:41.450" end="00:12:46.490" style="s2">so etwa auch wegen ihrer unerwartet schnellen <br />Heilung. Die Zuständigen im Krankenhaus hatten  </p>
+<p begin="00:12:46.490" end="00:12:51.560" style="s2">eigentlich ihren baldigen Tod erwartet, aber ihr <br />Krebs verschwand innerhalb von 5 Wochen, was die  </p>
+<p begin="00:12:51.560" end="00:12:56.480" style="s2">Ärzte kaum glauben konnten. Derartige Heilungen <br />sind im Zuge von Nahtoderfahrungen allerdings  </p>
+<p begin="00:12:56.480" end="00:13:01.040" style="s2">keine Seltenheit. Während Anita außerhalb <br />ihres Körpers war, kommunizierte sie auch mit  </p>
+<p begin="00:13:01.040" end="00:13:07.250" style="s2">ihrem Vater, dessen Körper 7 Jahre zuvor starb.<br />Solche Berichte kann man nun glauben oder nicht  </p>
+<p begin="00:13:07.250" end="00:13:12.080" style="s2">glauben, wenn sie nicht im Rahmen wissenschaftlich <br />kontrollierter Bedingungen passiert sind. Jeder  </p>
+<p begin="00:13:12.080" end="00:13:16.220" style="s2">Mensch kann selbst entscheiden, ob er die <br />Menschen, die Derartiges berichten, glaubwürdig  </p>
+<p begin="00:13:16.220" end="00:13:20.570" style="s2">findet oder nicht. Unter wissenschaftlichen <br />Bedingungen wurden solche Fälle bisher kaum  </p>
+<p begin="00:13:20.570" end="00:13:25.220" style="s2">festgestellt, was jedoch daran liegen dürfte, <br />dass solche Studien sehr aufwändig sind und  </p>
+<p begin="00:13:25.220" end="00:13:29.660" style="s2">noch nicht genug davon durchgeführt wurden.<br />Sogenannte Skeptiker berufen sich zum Beispiel  </p>
+<p begin="00:13:29.660" end="00:13:35.240" style="s2">gerne auf die AWARE-Studie 1 von Dr. Sam Parnia, <br />diese hätte zu wenige Ergebnisse gebracht,  </p>
+<p begin="00:13:35.240" end="00:13:39.920" style="s2">es wäre jedoch völlig unrealistisch und <br />unwissenschaftlich, das Thema Nahtoderfahrungen  </p>
+<p begin="00:13:39.920" end="00:13:44.420" style="s2">aufgrund des Befundes einer einzelnen solchen <br />Studie als abschließend zu bezeichnen und  </p>
+<p begin="00:13:44.420" end="00:13:49.040" style="s2">zu meinen, es sei keine Forschung mehr nötig. <br />Es wäre vielleicht auch angemessener, hierbei  </p>
+<p begin="00:13:49.040" end="00:13:53.630" style="s2">nicht von einer Studie, sondern nur von einem <br />Studienversuch zu sprechen. Es wurden zwar knapp  </p>
+<p begin="00:13:53.630" end="00:13:59.690" style="s2">über 2000 Menschen mit Herzstillstand untersucht, <br />aber nur 330 davon überlebten und nur 140 davon  </p>
+<p begin="00:13:59.690" end="00:14:04.550" style="s2">hatten eine Art von Wahrnehmung. Nur wenige davon <br />hatten letztlich eine wirkliche Nahtoderfahrung. </p>
+<p begin="00:14:04.550" end="00:14:08.960" style="s2">Die Sicht von oben auf den eigenen Körper <br />und die lokalen Gegebenheiten kommt zwar bei  </p>
+<p begin="00:14:08.960" end="00:14:13.100" style="s2">Nahtoderfahrungen häufiger vor, die vom <br />Körper entfernten lokalen Wahrnehmungen  </p>
+<p begin="00:14:13.100" end="00:14:17.870" style="s2">jedoch seltener. Daher müssten wesentlich mehr <br />solche aufwendigen Studien durchgeführt werden,  </p>
+<p begin="00:14:17.870" end="00:14:22.250" style="s2">um in Bezug auf diese Fernwahrnehmungen zu <br />abschließenden Ergebnissen kommen zu können. </p>
+<p begin="00:14:22.250" end="00:14:26.930" style="s2">Ansonsten wäre es lebensfremd, diese vielen <br />Berichte über Wahrnehmungen außerhalb der  </p>
+<p begin="00:14:26.930" end="00:14:31.280" style="s2">körperlichen Reichweite, wie sie hier anhand <br />von 3 Beispielen geschildert wurden, nur als  </p>
+<p begin="00:14:31.280" end="00:14:36.290" style="s2">unglaubwürdige Anekdoten abzutun, denn insgesamt <br />gibt es wesentlich mehr davon, teilweise auch  </p>
+<p begin="00:14:36.290" end="00:14:41.390" style="s2">bezeugt von renommierten Ärzten. Der geringste <br />Verdacht darauf, dass diese Berichte realistisch  </p>
+<p begin="00:14:41.390" end="00:14:45.230" style="s2">sind, wird einen Menschen, der an der Wahrheit <br />interessiert ist, zum Nachforschen bewegen,  </p>
+<p begin="00:14:45.230" end="00:14:50.270" style="s2">anstatt nur dazu, das Ganze billig zu verneinen, <br />sich darüber lustig zu machen oder nur von anderen  </p>
+<p begin="00:14:50.270" end="00:14:55.310" style="s2">Beweise einzufordern, wie es viele Skeptiker tun.<br />Weitere Fälle dieser Art werden in späteren  </p>
+<p begin="00:14:55.310" end="00:14:59.546" style="s2">Videos gezeigt. Damit vielen Dank <br />für Ihr Interesse und bis bald.</p>
+</div>
+</body>
+</tt>

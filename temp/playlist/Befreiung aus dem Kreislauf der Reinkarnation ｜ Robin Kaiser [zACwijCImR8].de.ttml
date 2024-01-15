@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:10.040" end="00:00:14.880" style="s2">willkommen zu einem neuen Video dieses</p>
+<p begin="00:00:12.780" end="00:00:15.920" style="s2">Mal spreche ich mit Robin Kaiser über</p>
+<p begin="00:00:14.880" end="00:00:18.359" style="s2">die</p>
+<p begin="00:00:15.920" end="00:00:20.100" style="s2">reinkarnationsthematik lieber Robin</p>
+<p begin="00:00:18.359" end="00:00:21.779" style="s2">danke dass du dir Zeit nimmst für dieses</p>
+<p begin="00:00:20.100" end="00:00:25.080" style="s2">Gespräch</p>
+<p begin="00:00:21.779" end="00:00:27.180" style="s2">danke dir für die Einladung</p>
+<p begin="00:00:25.080" end="00:00:29.699" style="s2">bevor wir zum eigentlichen Thema kommen</p>
+<p begin="00:00:27.180" end="00:00:31.859" style="s2">kannst du uns kurz beschreiben warum du</p>
+<p begin="00:00:29.699" end="00:00:34.980" style="s2">auf diesen spirituellen Weg gekommen</p>
+<p begin="00:00:31.859" end="00:00:37.920" style="s2">bist und warum Du uns etwas über die</p>
+<p begin="00:00:34.980" end="00:00:41.100" style="s2">Jenseitswelt sagen kannst</p>
+<p begin="00:00:37.920" end="00:00:44.820" style="s2">ja mich hat des spirituelle Weg gerufen</p>
+<p begin="00:00:41.100" end="00:00:47.700" style="s2">und es sind immer mehr Erinnerungen in</p>
+<p begin="00:00:44.820" end="00:00:49.800" style="s2">mir aufgebrochen wo ich mich erfahren</p>
+<p begin="00:00:47.700" end="00:00:52.500" style="s2">habe nicht nur in diesem physischen</p>
+<p begin="00:00:49.800" end="00:00:55.620" style="s2">Körper und dieser Inkarnation sondern</p>
+<p begin="00:00:52.500" end="00:00:57.539" style="s2">auch in dem was davor gewesen ist das</p>
+<p begin="00:00:55.620" end="00:01:00.420" style="s2">waren wie blitzlichtartige</p>
+<p begin="00:00:57.539" end="00:01:03.120" style="s2">Rückerinnerungen wo ich meine gesamte</p>
+<p begin="00:01:00.420" end="00:01:06.420" style="s2">Identität in Raum und Zeit die dieser</p>
+<p begin="00:01:03.120" end="00:01:10.680" style="s2">Inkarnation verloren habe und auf einmal</p>
+<p begin="00:01:06.420" end="00:01:14.460" style="s2">gedacht habe ich wäre jemand anders zum</p>
+<p begin="00:01:10.680" end="00:01:17.880" style="s2">Beispiel einmal ein Mönch irgendwie im</p>
+<p begin="00:01:14.460" end="00:01:21.180" style="s2">17 Jahrhundert in der Nähe von Italien</p>
+<p begin="00:01:17.880" end="00:01:22.340" style="s2">und dann wieder andere Bilder und es hat</p>
+<p begin="00:01:21.180" end="00:01:24.799" style="s2">sich immer</p>
+<p begin="00:01:22.340" end="00:01:27.840" style="s2">wiederholt dass</p>
+<p begin="00:01:24.799" end="00:01:31.220" style="s2">blitzlichtartig Erinnerungs Downloads</p>
+<p begin="00:01:27.840" end="00:01:34.920" style="s2">gekommen sind aus anderen Raum Zeit</p>
+<p begin="00:01:31.220" end="00:01:36.780" style="s2">Inkarnationen und dadurch hat sich meine</p>
+<p begin="00:01:34.920" end="00:01:38.880" style="s2">Sicht auf das Leben fundamental</p>
+<p begin="00:01:36.780" end="00:01:41.119" style="s2">verändert und das ist etwas was ich</p>
+<p begin="00:01:38.880" end="00:01:44.040" style="s2">gerne weitergeben möchte</p>
+<p begin="00:01:41.119" end="00:01:45.860" style="s2">wie alt warst du also diese Bilder</p>
+<p begin="00:01:44.040" end="00:01:48.780" style="s2">erhalten hast</p>
+<p begin="00:01:45.860" end="00:01:50.939" style="s2">es geht bis zum heutigen Tage immer</p>
+<p begin="00:01:48.780" end="00:01:52.740" style="s2">wieder wenn das getrennte Bewusstsein</p>
+<p begin="00:01:50.939" end="00:01:54.960" style="s2">sich auflöst beispielsweise in</p>
+<p begin="00:01:52.740" end="00:01:58.320" style="s2">Meditationen dass solche Wahrnehmungen</p>
+<p begin="00:01:54.960" end="00:02:01.920" style="s2">auftreten begonnen hat das Ganze etwa</p>
+<p begin="00:01:58.320" end="00:02:04.079" style="s2">mit 19/20 Jahren da wurde es dann sehr</p>
+<p begin="00:02:01.920" end="00:02:07.799" style="s2">intensiv und da habe ich mich dann auch</p>
+<p begin="00:02:04.079" end="00:02:10.319" style="s2">Rück erinnert was ich mir vorgenommen</p>
+<p begin="00:02:07.799" end="00:02:13.020" style="s2">habe für diese Inkarnation und mit</p>
+<p begin="00:02:10.319" end="00:02:15.000" style="s2">welcher Absicht ich hier bin</p>
+<p begin="00:02:13.020" end="00:02:16.920" style="s2">kommen wir dann zum eigentlichen Thema</p>
+<p begin="00:02:15.000" end="00:02:19.620" style="s2">nämlich die Inkarnation bzw</p>
+<p begin="00:02:16.920" end="00:02:22.140" style="s2">Reinkarnation</p>
+<p begin="00:02:19.620" end="00:02:24.420" style="s2">bevor man an ihre Inkarnation denkt kann</p>
+<p begin="00:02:22.140" end="00:02:26.640" style="s2">man sich ja auch fragen wie oder warum</p>
+<p begin="00:02:24.420" end="00:02:29.459" style="s2">kommt es überhaupt zur ersten</p>
+<p begin="00:02:26.640" end="00:02:32.520" style="s2">Inkarnation eines Menschen wenn man also</p>
+<p begin="00:02:29.459" end="00:02:35.280" style="s2">sagt ein eine Menschenseele existiert</p>
+<p begin="00:02:32.520" end="00:02:38.160" style="s2">zuerst einmal als ein geistiges</p>
+<p begin="00:02:35.280" end="00:02:41.459" style="s2">Individuum warum begibt sich eine</p>
+<p begin="00:02:38.160" end="00:02:42.900" style="s2">Menschenseele aus deiner Sicht in einen</p>
+<p begin="00:02:41.459" end="00:02:46.200" style="s2">Körper</p>
+<p begin="00:02:42.900" end="00:02:48.660" style="s2">ja das ist eine sehr gute Frage</p>
+<p begin="00:02:46.200" end="00:02:50.700" style="s2">es gibt auf diesem Planeten Erfahrungen</p>
+<p begin="00:02:48.660" end="00:02:54.120" style="s2">die wir sonst nirgendwo anders machen</p>
+<p begin="00:02:50.700" end="00:02:57.180" style="s2">können und die Körperform Erfahrung in</p>
+<p begin="00:02:54.120" end="00:03:00.959" style="s2">der Materie ist für Seelen etwas ganz</p>
+<p begin="00:02:57.180" end="00:03:03.840" style="s2">Besonderes etwas was sie nirgendwo</p>
+<p begin="00:03:00.959" end="00:03:07.080" style="s2">anders im Kosmos bekommen nur in dieser</p>
+<p begin="00:03:03.840" end="00:03:10.680" style="s2">dichten dichte was dieses erdenfeld</p>
+<p begin="00:03:07.080" end="00:03:13.319" style="s2">einfach anbietet und im Grunde genommen</p>
+<p begin="00:03:10.680" end="00:03:15.360" style="s2">hat es damit zu tun dass die Seele</p>
+<p begin="00:03:13.319" end="00:03:18.560" style="s2">Erfahrung machen möchte die sie bisher</p>
+<p begin="00:03:15.360" end="00:03:21.840" style="s2">noch nicht gemacht hat die Seele</p>
+<p begin="00:03:18.560" end="00:03:24.840" style="s2">ist ursprünglich aus der Liebe gekommen</p>
+<p begin="00:03:21.840" end="00:03:27.720" style="s2">ist im verbundenheitsbewusstsein im</p>
+<p begin="00:03:24.840" end="00:03:30.840" style="s2">Einheitsbewusstsein dort kommen wir alle</p>
+<p begin="00:03:27.720" end="00:03:33.480" style="s2">Herrn und jetzt kennt aber die Seelen</p>
+<p begin="00:03:30.840" end="00:03:35.580" style="s2">nichts anderes als genau das als</p>
+<p begin="00:03:33.480" end="00:03:39.540" style="s2">liebevolle Verbindung mit allem was</p>
+<p begin="00:03:35.580" end="00:03:42.720" style="s2">existiert und die Seele wollte auch mal</p>
+<p begin="00:03:39.540" end="00:03:46.200" style="s2">Erfahrungen sammeln über etwas was sie</p>
+<p begin="00:03:42.720" end="00:03:47.159" style="s2">noch nicht kennt noch nicht erfahren hat</p>
+<p begin="00:03:46.200" end="00:03:51.420" style="s2">sie wollte über sich selbst</p>
+<p begin="00:03:47.159" end="00:03:55.440" style="s2">hinauswachsen und da gab es ganz viele</p>
+<p begin="00:03:51.420" end="00:03:58.019" style="s2">Versuche auf seelischer Ebene dass die</p>
+<p begin="00:03:55.440" end="00:03:59.580" style="s2">Seele eine Erfahrung machen wollte die</p>
+<p begin="00:03:58.019" end="00:04:01.920" style="s2">sie noch nicht kannte und das war ganz</p>
+<p begin="00:03:59.580" end="00:04:04.440" style="s2">schwierig weil die Seele noch nicht den</p>
+<p begin="00:04:01.920" end="00:04:06.659" style="s2">Weg gefunden hatte so etwas überhaupt</p>
+<p begin="00:04:04.440" end="00:04:08.760" style="s2">erleben zu können</p>
+<p begin="00:04:06.659" end="00:04:12.060" style="s2">man kann ja nur das erleben was man</p>
+<p begin="00:04:08.760" end="00:04:15.239" style="s2">selber ist und wenn man weiß wer man ist</p>
+<p begin="00:04:12.060" end="00:04:18.000" style="s2">dann kann man quasi nichts Neues über</p>
+<p begin="00:04:15.239" end="00:04:20.400" style="s2">sich selbst erfahren und die Seele hat</p>
+<p begin="00:04:18.000" end="00:04:23.280" style="s2">dann den Trick der selbstverschleierung</p>
+<p begin="00:04:20.400" end="00:04:26.280" style="s2">angewendet indem wir hier in der</p>
+<p begin="00:04:23.280" end="00:04:28.199" style="s2">Inkarnation hineingefallen sind also wir</p>
+<p begin="00:04:26.280" end="00:04:32.360" style="s2">haben quasi einen Schleier über unsere</p>
+<p begin="00:04:28.199" end="00:04:36.240" style="s2">wahre Identität gelegt um dann</p>
+<p begin="00:04:32.360" end="00:04:39.000" style="s2">experimentell zu spielen wie es wäre</p>
+<p begin="00:04:36.240" end="00:04:40.500" style="s2">etwas anderes zu sein als die Liebe die</p>
+<p begin="00:04:39.000" end="00:04:43.440" style="s2">wir sind</p>
+<p begin="00:04:40.500" end="00:04:46.160" style="s2">vielleicht könnte man es so ausdrücken</p>
+<p begin="00:04:43.440" end="00:04:49.940" style="s2">also du würdest nicht sagen das hat</p>
+<p begin="00:04:46.160" end="00:04:53.580" style="s2">einfach ein ein Gott entschieden für uns</p>
+<p begin="00:04:49.940" end="00:04:55.560" style="s2">der der uns sozusagen in diese Erfahrung</p>
+<p begin="00:04:53.580" end="00:04:57.479" style="s2">hineingestoßen hat sondern wir haben das</p>
+<p begin="00:04:55.560" end="00:04:59.120" style="s2">selber haben wir das selber entschieden</p>
+<p begin="00:04:57.479" end="00:05:02.400" style="s2">bewusst</p>
+<p begin="00:04:59.120" end="00:05:05.340" style="s2">das Göttliche hat nicht die Trennung</p>
+<p begin="00:05:02.400" end="00:05:08.400" style="s2">vollzogen in der wir glauben zu sein</p>
+<p begin="00:05:05.340" end="00:05:11.100" style="s2">sondern wir haben in uns durch unsere</p>
+<p begin="00:05:08.400" end="00:05:13.560" style="s2">Gedanken gefühlschöpfung eine getrennte</p>
+<p begin="00:05:11.100" end="00:05:15.720" style="s2">Realität aufgebaut aus der heraus wir</p>
+<p begin="00:05:13.560" end="00:05:19.020" style="s2">glauben vom göttlichen getrennt zu sein</p>
+<p begin="00:05:15.720" end="00:05:21.540" style="s2">wenn wir glauben Gott oder das Göttliche</p>
+<p begin="00:05:19.020" end="00:05:23.699" style="s2">hätte uns aus einem paradiesischen eins</p>
+<p begin="00:05:21.540" end="00:05:26.039" style="s2">Seinszustand herausgeworfen dann</p>
+<p begin="00:05:23.699" end="00:05:28.979" style="s2">projizieren wir auf ihn letztlich das</p>
+<p begin="00:05:26.039" end="00:05:31.380" style="s2">was wir selbst getan haben also nach</p>
+<p begin="00:05:28.979" end="00:05:33.479" style="s2">meiner Wahrnehmung ist es ganz klar dass</p>
+<p begin="00:05:31.380" end="00:05:37.580" style="s2">wir uns aus unserem eigenen</p>
+<p begin="00:05:33.479" end="00:05:39.720" style="s2">schöpferischen Willen heraus in diese</p>
+<p begin="00:05:37.580" end="00:05:42.120" style="s2">inkarnationssituation manövriert haben</p>
+<p begin="00:05:39.720" end="00:05:43.919" style="s2">in der wir heute sind mit all dem was</p>
+<p begin="00:05:42.120" end="00:05:47.100" style="s2">dazu gehört</p>
+<p begin="00:05:43.919" end="00:05:50.820" style="s2">also so soweit ich dich verstehe meinst</p>
+<p begin="00:05:47.100" end="00:05:53.880" style="s2">du dass wir ohne Körper bereits versucht</p>
+<p begin="00:05:50.820" end="00:05:55.340" style="s2">haben als geistige Wesen er gewisse</p>
+<p begin="00:05:53.880" end="00:05:58.500" style="s2">Erfahrungen zu machen</p>
+<p begin="00:05:55.340" end="00:06:02.280" style="s2">und dann kam aber die Idee der</p>
+<p begin="00:05:58.500" end="00:06:04.160" style="s2">Inkarnation weil das damit noch besser</p>
+<p begin="00:06:02.280" end="00:06:08.460" style="s2">möglich ist</p>
+<p begin="00:06:04.160" end="00:06:11.039" style="s2">es wurde immer versucht noch konkretere</p>
+<p begin="00:06:08.460" end="00:06:13.620" style="s2">Erfahrung über sich selbst zusammen und</p>
+<p begin="00:06:11.039" end="00:06:15.620" style="s2">diese konkreten dichten Erfahrungen</p>
+<p begin="00:06:13.620" end="00:06:17.699" style="s2">wurde über</p>
+<p begin="00:06:15.620" end="00:06:20.340" style="s2">Kristallisationen des Bewusstseins</p>
+<p begin="00:06:17.699" end="00:06:23.000" style="s2">möglich das heißt die Seelen haben</p>
+<p begin="00:06:20.340" end="00:06:25.919" style="s2">gelernt in immer</p>
+<p begin="00:06:23.000" end="00:06:29.100" style="s2">dichtere fraktalschichten ihrer selbst</p>
+<p begin="00:06:25.919" end="00:06:32.280" style="s2">einzudringen also letztlich ist ja auch</p>
+<p begin="00:06:29.100" end="00:06:34.319" style="s2">Materie kristalliner Geist kristallines</p>
+<p begin="00:06:32.280" end="00:06:37.319" style="s2">Bewusstsein einfach nur in einer</p>
+<p begin="00:06:34.319" end="00:06:40.680" style="s2">verdichteten Form und die Seelen haben</p>
+<p begin="00:06:37.319" end="00:06:43.500" style="s2">das so vertieft</p>
+<p begin="00:06:40.680" end="00:06:46.020" style="s2">dass wir in die Erfahrung eintauchen</p>
+<p begin="00:06:43.500" end="00:06:48.060" style="s2">können dass es nichts anderes gäbe als</p>
+<p begin="00:06:46.020" end="00:06:50.759" style="s2">nur die materielle Erfahrung in der wir</p>
+<p begin="00:06:48.060" end="00:06:53.100" style="s2">sind und dadurch kann das Bewusstsein</p>
+<p begin="00:06:50.759" end="00:06:55.940" style="s2">einfach bestimmte Dinge lernen die sonst</p>
+<p begin="00:06:53.100" end="00:06:59.100" style="s2">nicht möglich wären</p>
+<p begin="00:06:55.940" end="00:07:00.860" style="s2">also du sagst das ist vergessen das ist</p>
+<p begin="00:06:59.100" end="00:07:04.919" style="s2">ganz bewusst</p>
+<p begin="00:07:00.860" end="00:07:08.660" style="s2">herbeigeführt worden oder jedenfalls</p>
+<p begin="00:07:04.919" end="00:07:08.660" style="s2">beabsichtigt ja</p>
+<p begin="00:07:09.500" end="00:07:15.180" style="s2">wir haben uns danach ein wenig in diesem</p>
+<p begin="00:07:12.539" end="00:07:16.759" style="s2">Spiel verloren um es freundlich zu</p>
+<p begin="00:07:15.180" end="00:07:21.680" style="s2">formulieren</p>
+<p begin="00:07:16.759" end="00:07:24.660" style="s2">weil obwohl das beabsichtigt ist</p>
+<p begin="00:07:21.680" end="00:07:28.280" style="s2">kann man ja sagen dass</p>
+<p begin="00:07:24.660" end="00:07:31.319" style="s2">schon seit zumindest wissen wir seit</p>
+<p begin="00:07:28.280" end="00:07:33.919" style="s2">mehreren tausend Jahren gibt es ja</p>
+<p begin="00:07:31.319" end="00:07:36.539" style="s2">Schriften verschiedene Schriften</p>
+<p begin="00:07:33.919" end="00:07:39.240" style="s2">die das belegen dass Menschen immer</p>
+<p begin="00:07:36.539" end="00:07:41.300" style="s2">schon oder ein Teil ein kleinerer Teil</p>
+<p begin="00:07:39.240" end="00:07:44.039" style="s2">der Menschheit immer schon so gewisse</p>
+<p begin="00:07:41.300" end="00:07:45.380" style="s2">Einblicke in die geistige Welt bekommen</p>
+<p begin="00:07:44.039" end="00:07:48.240" style="s2">haben</p>
+<p begin="00:07:45.380" end="00:07:50.479" style="s2">wie würdest du dir das dann erklären</p>
+<p begin="00:07:48.240" end="00:07:52.740" style="s2">dass einerseits soll man vergessen</p>
+<p begin="00:07:50.479" end="00:07:55.860" style="s2">andererseits gibt es doch diese</p>
+<p begin="00:07:52.740" end="00:07:59.099" style="s2">Einblicke also das scheint manchen</p>
+<p begin="00:07:55.860" end="00:08:02.460" style="s2">Menschen widersprüchlich zu sein</p>
+<p begin="00:07:59.099" end="00:08:05.220" style="s2">es gibt bestimmte Zeitalter wo die</p>
+<p begin="00:08:02.460" end="00:08:07.500" style="s2">Menschheit als Spezies sich vornimmt</p>
+<p begin="00:08:05.220" end="00:08:10.199" style="s2">bestimmte Erfahrungen zu sammeln und das</p>
+<p begin="00:08:07.500" end="00:08:13.940" style="s2">letzte Zeitalter des Kali Yoga war dafür</p>
+<p begin="00:08:10.199" end="00:08:17.280" style="s2">bestimmt um getrennte Individualität</p>
+<p begin="00:08:13.940" end="00:08:20.580" style="s2">egonalität auszubilden und die Erfahrung</p>
+<p begin="00:08:17.280" end="00:08:22.940" style="s2">darin auszukosten die Zeitalter davor</p>
+<p begin="00:08:20.580" end="00:08:24.479" style="s2">waren viel stärker im</p>
+<p begin="00:08:22.940" end="00:08:27.960" style="s2">verbundenheitsbewusstsein und auch das</p>
+<p begin="00:08:24.479" end="00:08:29.639" style="s2">was kommt wird wieder die höheren Welten</p>
+<p begin="00:08:27.960" end="00:08:32.039" style="s2">und Wesen höherer Welten wieder</p>
+<p begin="00:08:29.639" end="00:08:34.740" style="s2">integrieren da werden wir uns nicht mehr</p>
+<p begin="00:08:32.039" end="00:08:36.740" style="s2">rein materiell erfahren sondern da</p>
+<p begin="00:08:34.740" end="00:08:38.520" style="s2">werden wir mitbekommen alle</p>
+<p begin="00:08:36.740" end="00:08:42.060" style="s2">schöpfungsebenen sind gleichzeitig</p>
+<p begin="00:08:38.520" end="00:08:44.880" style="s2">präsent und ineinander gelagert das</p>
+<p begin="00:08:42.060" end="00:08:47.160" style="s2">heißt dass wir dort einfach einen</p>
+<p begin="00:08:44.880" end="00:08:49.760" style="s2">anderen erfahrungsschwerpunkt gewählt</p>
+<p begin="00:08:47.160" end="00:08:54.320" style="s2">haben als Seele auf unserer eigenen</p>
+<p begin="00:08:49.760" end="00:08:57.740" style="s2">Seelenreise aber auch auf der Ebene der</p>
+<p begin="00:08:54.320" end="00:08:57.740" style="s2">kollektivspezies als Mensch</p>
+<p begin="00:08:57.779" end="00:09:02.459" style="s2">das heißt</p>
+<p begin="00:08:59.660" end="00:09:04.700" style="s2">die Menschheit hatte früher schon immer</p>
+<p begin="00:09:02.459" end="00:09:07.860" style="s2">eher dieses dieses Wissen</p>
+<p begin="00:09:04.700" end="00:09:10.620" style="s2">über die die geistige Welt</p>
+<p begin="00:09:07.860" end="00:09:14.160" style="s2">und dann eben durch diese Zeitalter dass</p>
+<p begin="00:09:10.620" end="00:09:16.200" style="s2">du erwähnt hast weniger und das soll in</p>
+<p begin="00:09:14.160" end="00:09:19.339" style="s2">Zukunft wieder mehr kommen</p>
+<p begin="00:09:16.200" end="00:09:23.160" style="s2">wichtig hältst du es für möglich</p>
+<p begin="00:09:19.339" end="00:09:26.100" style="s2">dass eine Seele unbewusst oder ungewollt</p>
+<p begin="00:09:23.160" end="00:09:29.279" style="s2">inkarniert also ohne dass sie</p>
+<p begin="00:09:26.100" end="00:09:30.899" style="s2">diese Inkarnation bewusst beabsichtigt</p>
+<p begin="00:09:29.279" end="00:09:33.620" style="s2">zum Beispiel weil sie von anderen</p>
+<p begin="00:09:30.899" end="00:09:37.640" style="s2">Mächten irgendwie dazu gezwungen wird</p>
+<p begin="00:09:33.620" end="00:09:37.640" style="s2">kann das sein aus deiner Sicht</p>
+<p begin="00:09:38.100" end="00:09:42.660" style="s2">letztendlich auf den höheren</p>
+<p begin="00:09:40.399" end="00:09:45.720" style="s2">seelenebenen nicht weil auch die</p>
+<p begin="00:09:42.660" end="00:09:50.399" style="s2">Erfahrung des gezwungen werdens Teil</p>
+<p begin="00:09:45.720" end="00:09:53.820" style="s2">eines seelischen Planes ist jedoch aus</p>
+<p begin="00:09:50.399" end="00:09:56.519" style="s2">der inkarnierten Perspektive kann es uns</p>
+<p begin="00:09:53.820" end="00:10:01.320" style="s2">so erscheinen das andere Kräfte oder</p>
+<p begin="00:09:56.519" end="00:10:03.200" style="s2">Mächte uns irgendwie einfangen und wir</p>
+<p begin="00:10:01.320" end="00:10:04.800" style="s2">dadurch in ein</p>
+<p begin="00:10:03.200" end="00:10:07.320" style="s2">reinkarnationszyklus immer wieder</p>
+<p begin="00:10:04.800" end="00:10:10.200" style="s2">gebracht werden je nachdem von welcher</p>
+<p begin="00:10:07.320" end="00:10:12.240" style="s2">Perspektive wir das Anschauen aus der</p>
+<p begin="00:10:10.200" end="00:10:14.519" style="s2">inkarnierten Perspektive kann es sein</p>
+<p begin="00:10:12.240" end="00:10:16.740" style="s2">dass wir uns dort als</p>
+<p begin="00:10:14.519" end="00:10:18.800" style="s2">Opfer von bestimmten Kräften erfahren</p>
+<p begin="00:10:16.740" end="00:10:21.060" style="s2">die dieses</p>
+<p begin="00:10:18.800" end="00:10:22.860" style="s2">reinkarnationsspiel so dicht und so</p>
+<p begin="00:10:21.060" end="00:10:24.120" style="s2">getrennt aufgebaut haben dass wir</p>
+<p begin="00:10:22.860" end="00:10:28.339" style="s2">überhaupt nicht mehr wissen wo der</p>
+<p begin="00:10:24.120" end="00:10:31.580" style="s2">Ausweg ist auf seelischer Ebene ist das</p>
+<p begin="00:10:28.339" end="00:10:33.720" style="s2">letztendlich alles in dem gesamten</p>
+<p begin="00:10:31.580" end="00:10:36.120" style="s2">Erfahrungsraum den wir durchschreiten</p>
+<p begin="00:10:33.720" end="00:10:40.320" style="s2">mit einem berechnet</p>
+<p begin="00:10:36.120" end="00:10:44.160" style="s2">und ja natürlich gibt es so etwas aus</p>
+<p begin="00:10:40.320" end="00:10:46.680" style="s2">der Individualität heraus wie eine wie</p>
+<p begin="00:10:44.160" end="00:10:49.920" style="s2">ein unbewussten Zwang der immer wieder</p>
+<p begin="00:10:46.680" end="00:10:52.680" style="s2">neu Verkörperung das heißt wenn wir uns</p>
+<p begin="00:10:49.920" end="00:10:54.000" style="s2">an das erdenfeld Binden und glauben wir</p>
+<p begin="00:10:52.680" end="00:10:58.620" style="s2">können nur in einem physischen Körper</p>
+<p begin="00:10:54.000" end="00:11:01.440" style="s2">existieren und Süchte und Zwänge im</p>
+<p begin="00:10:58.620" end="00:11:03.600" style="s2">irdischen Bereich aus aufbauen und diese</p>
+<p begin="00:11:01.440" end="00:11:06.360" style="s2">nicht ablegen bevor wir den Körper</p>
+<p begin="00:11:03.600" end="00:11:08.519" style="s2">ablegen dann bestehen diese Süchte und</p>
+<p begin="00:11:06.360" end="00:11:10.019" style="s2">Zwänge auch über den irdischen Bereich</p>
+<p begin="00:11:08.519" end="00:11:12.600" style="s2">hinaus</p>
+<p begin="00:11:10.019" end="00:11:15.300" style="s2">und sorgen dafür dass wir immer wieder</p>
+<p begin="00:11:12.600" end="00:11:18.180" style="s2">im Bewusstsein eine Form bilden uns</p>
+<p begin="00:11:15.300" end="00:11:22.500" style="s2">immer wieder unbewusst reden kann Nieren</p>
+<p begin="00:11:18.180" end="00:11:25.760" style="s2">müssen um bestimmte irdische Zwänge oder</p>
+<p begin="00:11:22.500" end="00:11:25.760" style="s2">Süchte abzulegen</p>
+<p begin="00:11:26.700" end="00:11:32.040" style="s2">und kannst du das ein bisschen mehr</p>
+<p begin="00:11:29.760" end="00:11:35.399" style="s2">beschreiben warum eine Seele inkarnieren</p>
+<p begin="00:11:32.040" end="00:11:38.040" style="s2">will also was sind das für Erfahrungen</p>
+<p begin="00:11:35.399" end="00:11:41.339" style="s2">die sie dann konkret machen will dass</p>
+<p begin="00:11:38.040" end="00:11:42.410" style="s2">man das so gefühlt besser nachvollziehen</p>
+<p begin="00:11:41.339" end="00:11:44.040" style="s2">kann</p>
+<p begin="00:11:42.410" end="00:11:46.560" style="s2">[Musik]</p>
+<p begin="00:11:44.040" end="00:11:48.600" style="s2">letztlich sind es all die Erfahrungen</p>
+<p begin="00:11:46.560" end="00:11:51.300" style="s2">mit denen wir tagtäglich hier in dieser</p>
+<p begin="00:11:48.600" end="00:11:54.540" style="s2">Welt konfrontiert sind vor allem die</p>
+<p begin="00:11:51.300" end="00:11:58.200" style="s2">Erfahrung von Begrenztheit von enge von</p>
+<p begin="00:11:54.540" end="00:12:00.899" style="s2">Ohnmacht von Hilflosigkeit von Angst von</p>
+<p begin="00:11:58.200" end="00:12:04.860" style="s2">Depressionen das sind Erfahrungen die</p>
+<p begin="00:12:00.899" end="00:12:06.300" style="s2">gehen im Urfeld des 11 nicht diese</p>
+<p begin="00:12:04.860" end="00:12:10.019" style="s2">Erfahrung werden nur durch die</p>
+<p begin="00:12:06.300" end="00:12:14.040" style="s2">Getrenntheit möglich und das Besondere</p>
+<p begin="00:12:10.019" end="00:12:16.260" style="s2">ist dass eine Seele in jeder Erfahrung</p>
+<p begin="00:12:14.040" end="00:12:19.380" style="s2">eine Kostbarkeit findet wir haben ja</p>
+<p begin="00:12:16.260" end="00:12:22.079" style="s2">hier auf dieser Welt im dualen Geist</p>
+<p begin="00:12:19.380" end="00:12:23.760" style="s2">diese Aufteilung in das ein guter</p>
+<p begin="00:12:22.079" end="00:12:25.200" style="s2">Erfahrung die möchte ich haben und das</p>
+<p begin="00:12:23.760" end="00:12:26.579" style="s2">sind schlechte Erfahrungen davon möchte</p>
+<p begin="00:12:25.200" end="00:12:28.980" style="s2">ich weg</p>
+<p begin="00:12:26.579" end="00:12:31.740" style="s2">das hat die Seele nicht für die Seele</p>
+<p begin="00:12:28.980" end="00:12:33.980" style="s2">ist jeder Erfahrung kostbar und wenn wir</p>
+<p begin="00:12:31.740" end="00:12:37.980" style="s2">hier in der Inkarnation</p>
+<p begin="00:12:33.980" end="00:12:41.640" style="s2">Leid erfahren Schmerz erfahren dann kann</p>
+<p begin="00:12:37.980" end="00:12:42.620" style="s2">die Seele durch diese Erfahrung etwas in</p>
+<p begin="00:12:41.640" end="00:12:46.040" style="s2">sich</p>
+<p begin="00:12:42.620" end="00:12:49.200" style="s2">reinigen etwas in sich</p>
+<p begin="00:12:46.040" end="00:12:52.120" style="s2">Raffinieren das heißt die Essenz aus</p>
+<p begin="00:12:49.200" end="00:12:53.940" style="s2">einer Erfahrung herausholen und</p>
+<p begin="00:12:52.120" end="00:12:55.740" style="s2">[Musik]</p>
+<p begin="00:12:53.940" end="00:12:58.579" style="s2">das gibt es noch hier auf dieser Erde</p>
+<p begin="00:12:55.740" end="00:13:01.680" style="s2">also alleine schon dieses dieses</p>
+<p begin="00:12:58.579" end="00:13:04.680" style="s2">Ohnmachtsgefühl sich ausgeliefert fühlen</p>
+<p begin="00:13:01.680" end="00:13:06.720" style="s2">von einer außerhalb von uns liegenden</p>
+<p begin="00:13:04.680" end="00:13:09.660" style="s2">Realität die irgendwie Macht über uns</p>
+<p begin="00:13:06.720" end="00:13:11.639" style="s2">hat und einen weiteren Punkt wo ich</p>
+<p begin="00:13:09.660" end="00:13:14.639" style="s2">immer wieder darauf hingewiesen werde</p>
+<p begin="00:13:11.639" end="00:13:17.060" style="s2">von der geistigen Welt ist dass wir auf</p>
+<p begin="00:13:14.639" end="00:13:19.860" style="s2">der Erde</p>
+<p begin="00:13:17.060" end="00:13:22.079" style="s2">unfassbar stark den Willen ausbilden</p>
+<p begin="00:13:19.860" end="00:13:24.300" style="s2">können in den höheren Dimensionen ist</p>
+<p begin="00:13:22.079" end="00:13:26.399" style="s2">alles flexibel und dynamisch und</p>
+<p begin="00:13:24.300" end="00:13:28.920" style="s2">durchlässig da können wir keine</p>
+<p begin="00:13:26.399" end="00:13:31.560" style="s2">Willenskraft aufbauen im Bewusstsein</p>
+<p begin="00:13:28.920" end="00:13:34.800" style="s2">weil sowieso immer das passiert was wir</p>
+<p begin="00:13:31.560" end="00:13:37.139" style="s2">wollen hier ist es so dass es Widerstand</p>
+<p begin="00:13:34.800" end="00:13:39.480" style="s2">gibt und wir haben uns entschieden durch</p>
+<p begin="00:13:37.139" end="00:13:41.399" style="s2">Widerstand und am Widerstand zu lernen</p>
+<p begin="00:13:39.480" end="00:13:43.560" style="s2">und zu wachsen</p>
+<p begin="00:13:41.399" end="00:13:45.200" style="s2">und dadurch dass wir hier in so einer</p>
+<p begin="00:13:43.560" end="00:13:47.519" style="s2">festen harten</p>
+<p begin="00:13:45.200" end="00:13:51.000" style="s2">Widerstands geprägten Realität sind</p>
+<p begin="00:13:47.519" end="00:13:53.040" style="s2">können wir entsprechend den Willen im</p>
+<p begin="00:13:51.000" end="00:13:55.320" style="s2">Bewusstsein ausbilden also es ist</p>
+<p begin="00:13:53.040" end="00:13:57.959" style="s2">tatsächlich das wurde mir immer wieder</p>
+<p begin="00:13:55.320" end="00:14:02.480" style="s2">aus der geistigen Welt mitgeteilt Erde</p>
+<p begin="00:13:57.959" end="00:14:04.440" style="s2">ein Planet zu Willens Schulung</p>
+<p begin="00:14:02.480" end="00:14:06.180" style="s2">gemäß dem was du vorhin gesagt hast</p>
+<p begin="00:14:04.440" end="00:14:09.180" style="s2">könnte man auch sagen das ist auch ein</p>
+<p begin="00:14:06.180" end="00:14:11.839" style="s2">leidensplanet um um Leiden zu erfahren</p>
+<p begin="00:14:09.180" end="00:14:15.139" style="s2">Angst und Leiden Depression</p>
+<p begin="00:14:11.839" end="00:14:17.279" style="s2">kann es sein also das</p>
+<p begin="00:14:15.139" end="00:14:21.620" style="s2">behaupten jedenfalls manche auch das</p>
+<p begin="00:14:17.279" end="00:14:25.279" style="s2">Seelen auch sozusagen nur zum Spaß</p>
+<p begin="00:14:21.620" end="00:14:25.279" style="s2">inkarnieren zum Vergnügen</p>
+<p begin="00:14:26.279" end="00:14:33.240" style="s2">das klingt so</p>
+<p begin="00:14:28.940" end="00:14:36.240" style="s2">als ob das wenig wäre aber letztlich tut</p>
+<p begin="00:14:33.240" end="00:14:40.620" style="s2">der Kosmos alles aus Freude an dem was</p>
+<p begin="00:14:36.240" end="00:14:43.380" style="s2">ist letztlich passiert alles aus Freude</p>
+<p begin="00:14:40.620" end="00:14:45.079" style="s2">darüber dass das möglich ist also die</p>
+<p begin="00:14:43.380" end="00:14:48.120" style="s2">selbst Erfahrung des göttlichen</p>
+<p begin="00:14:45.079" end="00:14:50.279" style="s2">Bewusstseins geschieht nur dadurch weil</p>
+<p begin="00:14:48.120" end="00:14:53.279" style="s2">das Göttliche Freude in seiner</p>
+<p begin="00:14:50.279" end="00:14:57.720" style="s2">Selbsterfahrung erfährt also das ist</p>
+<p begin="00:14:53.279" end="00:14:59.760" style="s2">nicht sozusagen etwas Motiv</p>
+<p begin="00:14:57.720" end="00:15:02.639" style="s2">sondern es ist wenn wir dahinter schauen</p>
+<p begin="00:14:59.760" end="00:15:04.740" style="s2">dann ist jeder Wachstumsprozess jeder</p>
+<p begin="00:15:02.639" end="00:15:07.279" style="s2">entfaltungsprozess</p>
+<p begin="00:15:04.740" end="00:15:09.959" style="s2">ist begleitet von</p>
+<p begin="00:15:07.279" end="00:15:11.000" style="s2">innerer Glückseligkeit Erfülltheit</p>
+<p begin="00:15:09.959" end="00:15:13.260" style="s2">Freude</p>
+<p begin="00:15:11.000" end="00:15:15.199" style="s2">kannst du das dann ein bisschen</p>
+<p begin="00:15:13.260" end="00:15:19.639" style="s2">konkreter erklären</p>
+<p begin="00:15:15.199" end="00:15:22.920" style="s2">warum zum Beispiel eine Depression oder</p>
+<p begin="00:15:19.639" end="00:15:24.320" style="s2">eine eine schwere Gewalterfahrung in der</p>
+<p begin="00:15:22.920" end="00:15:27.920" style="s2">Kindheit</p>
+<p begin="00:15:24.320" end="00:15:29.660" style="s2">wie das dazu führen soll dass man sich</p>
+<p begin="00:15:27.920" end="00:15:33.380" style="s2">entwickelt</p>
+<p begin="00:15:29.660" end="00:15:35.760" style="s2">ich verstehe die Frage es ist ganz ganz</p>
+<p begin="00:15:33.380" end="00:15:39.000" style="s2">nachvollziehbar aus der inkarnierten</p>
+<p begin="00:15:35.760" end="00:15:42.560" style="s2">Perspektive wenn wir frühkindliche</p>
+<p begin="00:15:39.000" end="00:15:45.240" style="s2">Gewalt erfahren haben dann stellt sich</p>
+<p begin="00:15:42.560" end="00:15:47.579" style="s2">natürlicherweise aus unserer Perspektive</p>
+<p begin="00:15:45.240" end="00:15:50.220" style="s2">die Frage wie kann ich mir sowas</p>
+<p begin="00:15:47.579" end="00:15:52.079" style="s2">ausgesucht haben wie kann sich eine</p>
+<p begin="00:15:50.220" end="00:15:54.899" style="s2">Seele dafür entscheiden so etwas</p>
+<p begin="00:15:52.079" end="00:15:57.420" style="s2">erfahren zu wollen und wie um alles in</p>
+<p begin="00:15:54.899" end="00:16:00.779" style="s2">der Welt kann durch so große Zerstörung</p>
+<p begin="00:15:57.420" end="00:16:02.579" style="s2">Lernen stattfinden ganz ganz natürliche</p>
+<p begin="00:16:00.779" end="00:16:04.980" style="s2">fragen</p>
+<p begin="00:16:02.579" end="00:16:07.440" style="s2">gleichzeitig dürfen wir lernen die</p>
+<p begin="00:16:04.980" end="00:16:11.100" style="s2">menschliche Konditionierung hinter uns</p>
+<p begin="00:16:07.440" end="00:16:13.680" style="s2">zu lassen für uns aus dem physischen</p>
+<p begin="00:16:11.100" end="00:16:16.500" style="s2">Körper ist es schmerzvoll ist es</p>
+<p begin="00:16:13.680" end="00:16:20.339" style="s2">leidvoll für die Seele aus der höheren</p>
+<p begin="00:16:16.500" end="00:16:22.040" style="s2">Ebene ist es rein Weg eine Erfahrung und</p>
+<p begin="00:16:20.339" end="00:16:25.320" style="s2">man kennt es vielleicht</p>
+<p begin="00:16:22.040" end="00:16:28.019" style="s2">in bestimmten Situationen ich kenne das</p>
+<p begin="00:16:25.320" end="00:16:30.720" style="s2">aus der Meditation zum Beispiel ich habe</p>
+<p begin="00:16:28.019" end="00:16:34.079" style="s2">lange meditiert und meine Knie haben</p>
+<p begin="00:16:30.720" end="00:16:36.720" style="s2">unglaublich angefangen weh zu tun und</p>
+<p begin="00:16:34.079" end="00:16:40.199" style="s2">irgendwann habe ich mich auf diesen</p>
+<p begin="00:16:36.720" end="00:16:43.399" style="s2">Schmerz so konzentriert dass der Schmerz</p>
+<p begin="00:16:40.199" end="00:16:46.380" style="s2">sich gewandelt hat und</p>
+<p begin="00:16:43.399" end="00:16:48.019" style="s2">Glückseligkeit aus dem Schmerz geboren</p>
+<p begin="00:16:46.380" end="00:16:53.160" style="s2">wurde ich habe den Schmerz nicht mehr</p>
+<p begin="00:16:48.019" end="00:16:56.160" style="s2">gespürt sondern nur noch Energie</p>
+<p begin="00:16:53.160" end="00:17:00.420" style="s2">wie eine Feuer Energie ein Brennen und</p>
+<p begin="00:16:56.160" end="00:17:02.459" style="s2">eine Vertiefung von Freude</p>
+<p begin="00:17:00.420" end="00:17:04.980" style="s2">es funktioniert aber nur wenn das</p>
+<p begin="00:17:02.459" end="00:17:06.959" style="s2">Bewusstsein konzentriert ist das heißt</p>
+<p begin="00:17:04.980" end="00:17:10.860" style="s2">wenn wir uns auf den Schmerz</p>
+<p begin="00:17:06.959" end="00:17:12.720" style="s2">konzentrieren den Schmerz nicht ablehnen</p>
+<p begin="00:17:10.860" end="00:17:13.300" style="s2">nicht in den Widerstand gehen sondern in</p>
+<p begin="00:17:12.720" end="00:17:14.339" style="s2">annehmen</p>
+<p begin="00:17:13.300" end="00:17:17.040" style="s2">[Musik]</p>
+<p begin="00:17:14.339" end="00:17:23.040" style="s2">dann können wir</p>
+<p begin="00:17:17.040" end="00:17:25.020" style="s2">hinter dem Schmerz etwas finden was was</p>
+<p begin="00:17:23.040" end="00:17:29.780" style="s2">uns irgendwie erhebt was uns irgendwie</p>
+<p begin="00:17:25.020" end="00:17:29.780" style="s2">weiterbringt um es mal so zu formulieren</p>
+<p begin="00:17:30.059" end="00:17:34.280" style="s2">manche sagen ja vereinfacht auch wir</p>
+<p begin="00:17:32.700" end="00:17:38.160" style="s2">ikarnieren hier</p>
+<p begin="00:17:34.280" end="00:17:40.559" style="s2">um zu lernen</p>
+<p begin="00:17:38.160" end="00:17:42.960" style="s2">gut und oder richtig und falsch zu</p>
+<p begin="00:17:40.559" end="00:17:45.660" style="s2">unterscheiden und Gut und Böse</p>
+<p begin="00:17:42.960" end="00:17:48.780" style="s2">würdest du das auch bei Jahren dass man</p>
+<p begin="00:17:45.660" end="00:17:51.440" style="s2">das vorher einfach nicht weiß sondern</p>
+<p begin="00:17:48.780" end="00:17:55.080" style="s2">dass man das eben erst durch</p>
+<p begin="00:17:51.440" end="00:17:57.600" style="s2">Leidenserfahrungen wirklich lernen und</p>
+<p begin="00:17:55.080" end="00:17:59.940" style="s2">verstehen kann und</p>
+<p begin="00:17:57.600" end="00:18:02.280" style="s2">dadurch auch den Willen ausbilden kann</p>
+<p begin="00:17:59.940" end="00:18:03.559" style="s2">was was man will ob man schlechtes will</p>
+<p begin="00:18:02.280" end="00:18:07.220" style="s2">oder ob man</p>
+<p begin="00:18:03.559" end="00:18:07.220" style="s2">gutes und richtiges will</p>
+<p begin="00:18:07.340" end="00:18:12.539" style="s2">einheitsfeld da wo wir herkommen da gibt</p>
+<p begin="00:18:09.780" end="00:18:15.240" style="s2">es nichts zu unterscheiden da können wir</p>
+<p begin="00:18:12.539" end="00:18:18.299" style="s2">das nicht lernen unterscheiden wird erst</p>
+<p begin="00:18:15.240" end="00:18:22.620" style="s2">in der Dualität erst notwendig das heißt</p>
+<p begin="00:18:18.299" end="00:18:26.940" style="s2">natürlich lernen wir hier kraft des</p>
+<p begin="00:18:22.620" end="00:18:29.120" style="s2">Verstandes auch zu unterscheiden und wir</p>
+<p begin="00:18:26.940" end="00:18:31.860" style="s2">müssen bis zu einem gewissen Grad</p>
+<p begin="00:18:29.120" end="00:18:34.080" style="s2">zwischen bestimmten Illusionen</p>
+<p begin="00:18:31.860" end="00:18:37.140" style="s2">unterscheiden letztlich ist alles was in</p>
+<p begin="00:18:34.080" end="00:18:40.200" style="s2">der Trennung existiert nicht real</p>
+<p begin="00:18:37.140" end="00:18:43.679" style="s2">aber wird wir haben uns so tief rein</p>
+<p begin="00:18:40.200" end="00:18:46.620" style="s2">manövriert in eine falsche Identität</p>
+<p begin="00:18:43.679" end="00:18:49.380" style="s2">eine illusionäre dass wir lernen müssen</p>
+<p begin="00:18:46.620" end="00:18:52.200" style="s2">dass eine vom anderen erst einmal zu</p>
+<p begin="00:18:49.380" end="00:18:54.720" style="s2">unterscheiden um überhaupt wieder den</p>
+<p begin="00:18:52.200" end="00:18:56.640" style="s2">Ausweg zu finden aus dem ganzen Dualität</p>
+<p begin="00:18:54.720" end="00:18:58.679" style="s2">Spiel</p>
+<p begin="00:18:56.640" end="00:19:02.539" style="s2">würdest Du tatsächlich sagen dass das</p>
+<p begin="00:18:58.679" end="00:19:02.539" style="s2">war so sozusagen nicht geplant</p>
+<p begin="00:19:02.940" end="00:19:08.059" style="s2">ich weiß dass einige Wesen diese These</p>
+<p begin="00:19:05.460" end="00:19:10.080" style="s2">vertreten dass das</p>
+<p begin="00:19:08.059" end="00:19:12.000" style="s2">inkarnationsspiel auf der Erde so ein</p>
+<p begin="00:19:10.080" end="00:19:13.460" style="s2">bisschen eskaliert ist in eine Richtung</p>
+<p begin="00:19:12.000" end="00:19:17.100" style="s2">die vorher nicht</p>
+<p begin="00:19:13.460" end="00:19:19.820" style="s2">vorhergesehen wurde dass das in wahren</p>
+<p begin="00:19:17.100" end="00:19:24.120" style="s2">gelaufen ist die</p>
+<p begin="00:19:19.820" end="00:19:26.720" style="s2">ja einfach so aus der göttlichen Ordnung</p>
+<p begin="00:19:24.120" end="00:19:29.580" style="s2">gefallen sind das</p>
+<p begin="00:19:26.720" end="00:19:33.799" style="s2">einige Wesen da sehr ratlos sind was da</p>
+<p begin="00:19:29.580" end="00:19:33.799" style="s2">eigentlich wie das geschehen konnte</p>
+<p begin="00:19:34.080" end="00:19:39.660" style="s2">auch hier würde ich wieder dieses</p>
+<p begin="00:19:36.980" end="00:19:42.480" style="s2">hochhausmodell von welcher Etage</p>
+<p begin="00:19:39.660" end="00:19:45.000" style="s2">betrachten wir das Anlegen von der</p>
+<p begin="00:19:42.480" end="00:19:48.179" style="s2">höchsten Ebene der der göttlichen</p>
+<p begin="00:19:45.000" end="00:19:51.059" style="s2">Schöpfung war mit Sicherheit dieses</p>
+<p begin="00:19:48.179" end="00:19:54.059" style="s2">gesamte trennungsspiel Teil eines</p>
+<p begin="00:19:51.059" end="00:19:58.260" style="s2">höheren Planes aus der höchsten Ebene</p>
+<p begin="00:19:54.059" end="00:20:00.240" style="s2">aus den darunter liegenden Ebenen würde</p>
+<p begin="00:19:58.260" end="00:20:02.100" style="s2">ich mal meinen dass wir es hier auf der</p>
+<p begin="00:20:00.240" end="00:20:06.120" style="s2">Erde schon ziemlich weit haben kommen</p>
+<p begin="00:20:02.100" end="00:20:09.320" style="s2">lassen mit dem das bestimmte destruktive</p>
+<p begin="00:20:06.120" end="00:20:09.320" style="s2">Kräfte einfach</p>
+<p begin="00:20:09.600" end="00:20:14.240" style="s2">macht</p>
+<p begin="00:20:11.179" end="00:20:17.280" style="s2">akkumuliert haben und</p>
+<p begin="00:20:14.240" end="00:20:21.480" style="s2">dadurch dieses täteropferspiel einfach</p>
+<p begin="00:20:17.280" end="00:20:23.640" style="s2">es wurde bis ins Unendliche in allen</p>
+<p begin="00:20:21.480" end="00:20:26.340" style="s2">Variationen seit tausenden Jahren auf</p>
+<p begin="00:20:23.640" end="00:20:29.900" style="s2">diesem Planeten ausgekostet und die</p>
+<p begin="00:20:26.340" end="00:20:29.900" style="s2">meisten von uns haben genug davon</p>
+<p begin="00:20:30.000" end="00:20:34.559" style="s2">und von dir gibt es ja viele Videos</p>
+<p begin="00:20:32.400" end="00:20:36.600" style="s2">inzwischen im Internet und also wenn man</p>
+<p begin="00:20:34.559" end="00:20:38.580" style="s2">deinen Namen eingibt dann wird man</p>
+<p begin="00:20:36.600" end="00:20:40.580" style="s2">schnell mal auf so Videos stoßen wo es</p>
+<p begin="00:20:38.580" end="00:20:44.100" style="s2">um dunkle Mächte geht</p>
+<p begin="00:20:40.580" end="00:20:46.340" style="s2">die sehr schlechte Absichten hat da ist</p>
+<p begin="00:20:44.100" end="00:20:50.160" style="s2">zum Beispiel die Rede von einer Agenda</p>
+<p begin="00:20:46.340" end="00:20:52.340" style="s2">um also die soweit geht um die</p>
+<p begin="00:20:50.160" end="00:20:56.940" style="s2">Menschheit abzuschaffen sozusagen</p>
+<p begin="00:20:52.340" end="00:20:59.039" style="s2">würdest du sagen das sind was sind das</p>
+<p begin="00:20:56.940" end="00:21:01.380" style="s2">für für Wesenheiten was sind das sind</p>
+<p begin="00:20:59.039" end="00:21:04.160" style="s2">das konkrete Entitäten in der geistigen</p>
+<p begin="00:21:01.380" end="00:21:07.980" style="s2">Welt die das die das wollen</p>
+<p begin="00:21:04.160" end="00:21:09.600" style="s2">es wird ganz viel über die Astral Ebene</p>
+<p begin="00:21:07.980" end="00:21:12.660" style="s2">gesteuert und gelenkt was diesen</p>
+<p begin="00:21:09.600" end="00:21:15.900" style="s2">Planeten angibt es ist ganz viel nicht</p>
+<p begin="00:21:12.660" end="00:21:18.059" style="s2">menschlicher Natur aber diese Kräfte</p>
+<p begin="00:21:15.900" end="00:21:20.600" style="s2">könnten nie irgendwas auf der Erde</p>
+<p begin="00:21:18.059" end="00:21:23.820" style="s2">bewirken wenn sie nicht Menschen als</p>
+<p begin="00:21:20.600" end="00:21:26.760" style="s2">Helfer und Helfers Helfer haben das</p>
+<p begin="00:21:23.820" end="00:21:29.940" style="s2">heißt wir als Menschen haben unseren</p>
+<p begin="00:21:26.760" end="00:21:32.760" style="s2">freien Willen abgegeben an bestimmte</p>
+<p begin="00:21:29.940" end="00:21:35.460" style="s2">möchte weil wir eingestiegen sind in</p>
+<p begin="00:21:32.760" end="00:21:38.520" style="s2">ihre Realität Programmierung das heißt</p>
+<p begin="00:21:35.460" end="00:21:41.760" style="s2">andere Wesen haben Wahrnehmungen und</p>
+<p begin="00:21:38.520" end="00:21:44.760" style="s2">Realitäten programmiert und dann haben</p>
+<p begin="00:21:41.760" end="00:21:47.340" style="s2">wir uns unbewusst meist dafür</p>
+<p begin="00:21:44.760" end="00:21:50.159" style="s2">entschieden Teil dieser künstlichen</p>
+<p begin="00:21:47.340" end="00:21:53.039" style="s2">Realität zu sein und in dem Moment haben</p>
+<p begin="00:21:50.159" end="00:21:55.260" style="s2">wir unsere offene Wahrnehmung und</p>
+<p begin="00:21:53.039" end="00:21:58.380" style="s2">unseren freien Willen an diesen Kräfte</p>
+<p begin="00:21:55.260" end="00:22:02.000" style="s2">abgegeben die diesen dazu aufbauen</p>
+<p begin="00:21:58.380" end="00:22:03.860" style="s2">einfach ein Unterdrückungssystem weiter</p>
+<p begin="00:22:02.000" end="00:22:06.600" style="s2">voranschreiten zu lassen</p>
+<p begin="00:22:03.860" end="00:22:09.559" style="s2">würdest du sagen das sind Wesen die auch</p>
+<p begin="00:22:06.600" end="00:22:11.880" style="s2">ursprünglich aus diesem friedlichen</p>
+<p begin="00:22:09.559" end="00:22:15.120" style="s2">liebevollen göttlichen Ursprung kommen</p>
+<p begin="00:22:11.880" end="00:22:17.640" style="s2">oder kommen die von irgendwo anders her</p>
+<p begin="00:22:15.120" end="00:22:20.600" style="s2">letztlich kommt alles Leben aus einer</p>
+<p begin="00:22:17.640" end="00:22:24.840" style="s2">einzigen Quelle es gibt kein Lebewesen</p>
+<p begin="00:22:20.600" end="00:22:27.240" style="s2">welches aus einer anderen Urquelle</p>
+<p begin="00:22:24.840" end="00:22:30.480" style="s2">stammt jedoch gibt es innerhalb der</p>
+<p begin="00:22:27.240" end="00:22:33.000" style="s2">Schöpfung sekundär und tertiäre</p>
+<p begin="00:22:30.480" end="00:22:35.640" style="s2">Schöpfungen also es gibt eine primäre</p>
+<p begin="00:22:33.000" end="00:22:38.100" style="s2">göttliche Schöpfung aus der alles</p>
+<p begin="00:22:35.640" end="00:22:40.919" style="s2">geboren wurde und innerhalb dieser</p>
+<p begin="00:22:38.100" end="00:22:43.860" style="s2">Schöpfung gab es dann eine zweit- und</p>
+<p begin="00:22:40.919" end="00:22:46.320" style="s2">drittschöpfung die zweitschöpfung ist</p>
+<p begin="00:22:43.860" end="00:22:49.260" style="s2">das was wir im luciferischen Feld kennen</p>
+<p begin="00:22:46.320" end="00:22:52.440" style="s2">und aus der zweitschöpfung ist dann im</p>
+<p begin="00:22:49.260" end="00:22:54.659" style="s2">luziferischen die dritte von dieser</p>
+<p begin="00:22:52.440" end="00:22:57.419" style="s2">thermische Schöpfung entstanden und</p>
+<p begin="00:22:54.659" end="00:23:01.159" style="s2">große Teile dieser Welt in der wir uns</p>
+<p begin="00:22:57.419" end="00:23:03.840" style="s2">bewegen ist aus dem Energiefeld der</p>
+<p begin="00:23:01.159" end="00:23:06.600" style="s2">drittschöpfung und das ist natürlich</p>
+<p begin="00:23:03.840" end="00:23:10.520" style="s2">sehr weit getrennt obwohl es sich</p>
+<p begin="00:23:06.600" end="00:23:13.860" style="s2">letztlich aus der gleichen Quelle speist</p>
+<p begin="00:23:10.520" end="00:23:17.299" style="s2">und worauf würdest du sagen kommt dann</p>
+<p begin="00:23:13.860" end="00:23:19.380" style="s2">darauf an dass man aus dieser</p>
+<p begin="00:23:17.299" end="00:23:22.799" style="s2">regenkarnationssache wieder herauskommt</p>
+<p begin="00:23:19.380" end="00:23:22.799" style="s2">aus diesem ständigen</p>
+<p begin="00:23:23.700" end="00:23:29.220" style="s2">das ist eine wirklich gute Frage da kann</p>
+<p begin="00:23:26.159" end="00:23:32.400" style="s2">man sehr viel zu sagen es geht letztlich</p>
+<p begin="00:23:29.220" end="00:23:35.340" style="s2">darum dass wir zu uns zurückkehren zu</p>
+<p begin="00:23:32.400" end="00:23:38.539" style="s2">unserer wahren Identität zu dem was wir</p>
+<p begin="00:23:35.340" end="00:23:42.179" style="s2">wirklich im Innersten des innersten sind</p>
+<p begin="00:23:38.539" end="00:23:44.039" style="s2">das heißt wir dürfen lernen all die</p>
+<p begin="00:23:42.179" end="00:23:46.740" style="s2">menschlichen Konzepte und Vorstellungen</p>
+<p begin="00:23:44.039" end="00:23:48.840" style="s2">über das was wir sind zu transformieren</p>
+<p begin="00:23:46.740" end="00:23:50.720" style="s2">zu überschreiten</p>
+<p begin="00:23:48.840" end="00:23:52.919" style="s2">wir dürfen lernen die</p>
+<p begin="00:23:50.720" end="00:23:55.500" style="s2">körperformidentität das Ego zu</p>
+<p begin="00:23:52.919" end="00:23:58.620" style="s2">überschreiten wir dürfen lernen wieder</p>
+<p begin="00:23:55.500" end="00:24:00.659" style="s2">unser Bewusstsein so aus zu denen dass</p>
+<p begin="00:23:58.620" end="00:24:04.500" style="s2">wir uns in allem erfahren was wir</p>
+<p begin="00:24:00.659" end="00:24:07.440" style="s2">wahrnehmen wir dürfen so in uns</p>
+<p begin="00:24:04.500" end="00:24:09.659" style="s2">zurückkehren dass keine Trennung mehr in</p>
+<p begin="00:24:07.440" end="00:24:11.400" style="s2">unserem Bewusstsein ist also die</p>
+<p begin="00:24:09.659" end="00:24:12.980" style="s2">Rückkehr</p>
+<p begin="00:24:11.400" end="00:24:16.380" style="s2">in das</p>
+<p begin="00:24:12.980" end="00:24:18.200" style="s2">einheitsfeld ist natürlich der Ausstieg</p>
+<p begin="00:24:16.380" end="00:24:20.820" style="s2">aus der Dualität und dem</p>
+<p begin="00:24:18.200" end="00:24:23.520" style="s2">redenkarnationskreislauf und das hat</p>
+<p begin="00:24:20.820" end="00:24:26.820" style="s2">damit was zu tun dass wir alle</p>
+<p begin="00:24:23.520" end="00:24:28.919" style="s2">Identitäten und alle Schöpfungen die wir</p>
+<p begin="00:24:26.820" end="00:24:31.679" style="s2">innerhalb der Getrenntheit aufgebaut</p>
+<p begin="00:24:28.919" end="00:24:35.220" style="s2">haben loslassen</p>
+<p begin="00:24:31.679" end="00:24:38.820" style="s2">das heißt wir dürfen nicht nur dieses</p>
+<p begin="00:24:35.220" end="00:24:41.039" style="s2">Leben transformieren sondern all das was</p>
+<p begin="00:24:38.820" end="00:24:43.740" style="s2">wir erschaffen haben in früheren Leben</p>
+<p begin="00:24:41.039" end="00:24:47.400" style="s2">was vielleicht als karmisches Gepäck</p>
+<p begin="00:24:43.740" end="00:24:50.280" style="s2">immer noch bei uns dran ist was wir mit</p>
+<p begin="00:24:47.400" end="00:24:53.580" style="s2">uns tragen wir dürfen lernen uns das</p>
+<p begin="00:24:50.280" end="00:24:57.240" style="s2">ganz genau anzuschauen wie schöpfe ich</p>
+<p begin="00:24:53.580" end="00:24:58.940" style="s2">noch eine getrennte Welt eine Welt in</p>
+<p begin="00:24:57.240" end="00:25:03.179" style="s2">der</p>
+<p begin="00:24:58.940" end="00:25:06.539" style="s2">leid da ist in der Ohnmacht da ist in</p>
+<p begin="00:25:03.179" end="00:25:08.280" style="s2">der Opfer Identität da ist durch was in</p>
+<p begin="00:25:06.539" end="00:25:10.440" style="s2">meinen Gedanken und Gefühlen ganz</p>
+<p begin="00:25:08.280" end="00:25:13.380" style="s2">konkret erschaffe ich mir so eine</p>
+<p begin="00:25:10.440" end="00:25:15.240" style="s2">Realität und möchte ich da weiterhin</p>
+<p begin="00:25:13.380" end="00:25:17.880" style="s2">drin bleiben oder möchte ich lernen</p>
+<p begin="00:25:15.240" end="00:25:20.100" style="s2">auszusteigen also das heißt ganz</p>
+<p begin="00:25:17.880" end="00:25:22.980" style="s2">grundsätzlich ganz einfach mal runter</p>
+<p begin="00:25:20.100" end="00:25:25.740" style="s2">gebrochen die Arbeit mit Gedanken und</p>
+<p begin="00:25:22.980" end="00:25:28.559" style="s2">Gefühlen wie wir Gedanken und Gefühle</p>
+<p begin="00:25:25.740" end="00:25:30.480" style="s2">schöpferisch einsetzen nicht aus dem</p>
+<p begin="00:25:28.559" end="00:25:32.940" style="s2">getrennten Bewusstsein sondern aus einem</p>
+<p begin="00:25:30.480" end="00:25:35.419" style="s2">höheren Bewusstsein sein das ist das was</p>
+<p begin="00:25:32.940" end="00:25:37.799" style="s2">uns letztlich aus diesem</p>
+<p begin="00:25:35.419" end="00:25:40.400" style="s2">zwanghaften wiederholungskreislauf</p>
+<p begin="00:25:37.799" end="00:25:40.400" style="s2">rausbringt</p>
+<p begin="00:25:41.059" end="00:25:48.500" style="s2">und würdest du sagen dass es dazu</p>
+<p begin="00:25:43.679" end="00:25:52.260" style="s2">notwendig ist so als Mensch bewusst</p>
+<p begin="00:25:48.500" end="00:25:54.120" style="s2">darüber Bescheid zu wissen dass es eine</p>
+<p begin="00:25:52.260" end="00:25:55.740" style="s2">geistige Welt gibt weil also ich stelle</p>
+<p begin="00:25:54.120" end="00:25:58.140" style="s2">diese Frage deswegen weil also ich</p>
+<p begin="00:25:55.740" end="00:26:00.360" style="s2">persönlich kennt zum Beispiel einige</p>
+<p begin="00:25:58.140" end="00:26:02.640" style="s2">Artisten</p>
+<p begin="00:26:00.360" end="00:26:05.700" style="s2">die vom Jenseits nichts hören und wissen</p>
+<p begin="00:26:02.640" end="00:26:08.100" style="s2">wollen die das für Unfug und für</p>
+<p begin="00:26:05.700" end="00:26:10.679" style="s2">Wunschdenken halten irgendein Wunsch</p>
+<p begin="00:26:08.100" end="00:26:11.900" style="s2">Denken von früher das früher mal</p>
+<p begin="00:26:10.679" end="00:26:15.779" style="s2">entstanden ist</p>
+<p begin="00:26:11.900" end="00:26:17.179" style="s2">die aber so von ihrer Lebensrealität her</p>
+<p begin="00:26:15.779" end="00:26:20.760" style="s2">sehr</p>
+<p begin="00:26:17.179" end="00:26:21.919" style="s2">friedvoll und liebevoll sind vernünftig</p>
+<p begin="00:26:20.760" end="00:26:24.659" style="s2">ja</p>
+<p begin="00:26:21.919" end="00:26:25.580" style="s2">wo ich mir manchmal denke das ist</p>
+<p begin="00:26:24.659" end="00:26:27.840" style="s2">eigentlich sehr</p>
+<p begin="00:26:25.580" end="00:26:30.840" style="s2">spirituell ja also das ist etwas</p>
+<p begin="00:26:27.840" end="00:26:32.700" style="s2">eigentlich etwas was vielen die sich für</p>
+<p begin="00:26:30.840" end="00:26:34.860" style="s2">besonders spirituell oder religiös oder</p>
+<p begin="00:26:32.700" end="00:26:37.140" style="s2">christlich halten fehlt ja die haben</p>
+<p begin="00:26:34.860" end="00:26:40.620" style="s2">oder um es kurz anders zu sagen die</p>
+<p begin="00:26:37.140" end="00:26:43.320" style="s2">haben einen sehr guten Charakter wie ich</p>
+<p begin="00:26:40.620" end="00:26:46.740" style="s2">ihn eigentlich häufiger sehen möchte ja</p>
+<p begin="00:26:43.320" end="00:26:49.140" style="s2">also haben die es wirklich nötig dass</p>
+<p begin="00:26:46.740" end="00:26:52.020" style="s2">Sie das so ganz bewusst wissen dass es</p>
+<p begin="00:26:49.140" end="00:26:53.400" style="s2">eine geistige Welt gibt</p>
+<p begin="00:26:52.020" end="00:26:55.380" style="s2">das gleiche ist mir auch schon</p>
+<p begin="00:26:53.400" end="00:26:58.279" style="s2">aufgefallen und die gleiche Frage habe</p>
+<p begin="00:26:55.380" end="00:27:00.960" style="s2">ich mir auch schon gestellt nach meiner</p>
+<p begin="00:26:58.279" end="00:27:04.380" style="s2">wissen und mach meinem Gefühl brauche</p>
+<p begin="00:27:00.960" end="00:27:07.200" style="s2">ist das nicht das heißt dass wir auch</p>
+<p begin="00:27:04.380" end="00:27:10.799" style="s2">den leuteungsweg den befreiungsweg gehen</p>
+<p begin="00:27:07.200" end="00:27:13.620" style="s2">können wenn wir all die Metaphysik nicht</p>
+<p begin="00:27:10.799" end="00:27:15.679" style="s2">für Realität halten wenn wir all das was</p>
+<p begin="00:27:13.620" end="00:27:18.480" style="s2">über den physischen Bereich hinaus</p>
+<p begin="00:27:15.679" end="00:27:21.380" style="s2">irgendwas ist da gibt wenn wir das für</p>
+<p begin="00:27:18.480" end="00:27:23.820" style="s2">Spinnerei halten wenn wir dennoch ein</p>
+<p begin="00:27:21.380" end="00:27:27.299" style="s2">ich sage nennt man altes Wort</p>
+<p begin="00:27:23.820" end="00:27:30.779" style="s2">tugendsames Leben führen und uns mit den</p>
+<p begin="00:27:27.299" end="00:27:34.200" style="s2">Guten und Wahren Qualitäten anfreunden</p>
+<p begin="00:27:30.779" end="00:27:36.140" style="s2">und im Liebe und Frieden leben dann</p>
+<p begin="00:27:34.200" end="00:27:39.960" style="s2">können wir auch vollkommen ohne</p>
+<p begin="00:27:36.140" end="00:27:42.179" style="s2">Metaphysik ein befreiungsweg gehen also</p>
+<p begin="00:27:39.960" end="00:27:45.480" style="s2">das ist durchaus möglich allerdings ist</p>
+<p begin="00:27:42.179" end="00:27:48.840" style="s2">es natürlich so dass es maßgeblich hilft</p>
+<p begin="00:27:45.480" end="00:27:52.260" style="s2">über das Jenseits und das was dort</p>
+<p begin="00:27:48.840" end="00:27:54.240" style="s2">geschieht Bescheid zu wissen</p>
+<p begin="00:27:52.260" end="00:27:58.940" style="s2">also das ist ja auch in religiösen</p>
+<p begin="00:27:54.240" end="00:28:01.679" style="s2">Kreisen ein altes Thema eigentlich dass</p>
+<p begin="00:27:58.940" end="00:28:05.299" style="s2">zum Beispiel der bekannte müsste der</p>
+<p begin="00:28:01.679" end="00:28:09.600" style="s2">Manuels hat das auch thematisiert</p>
+<p begin="00:28:05.299" end="00:28:11.460" style="s2">das Christen zwar dieses Jenseits</p>
+<p begin="00:28:09.600" end="00:28:14.159" style="s2">Bewusstsein oder in einem Jenseits</p>
+<p begin="00:28:11.460" end="00:28:16.500" style="s2">Glauben haben und dass sie dann meinen</p>
+<p begin="00:28:14.159" end="00:28:19.320" style="s2">sie sind Christen weil sie in eine</p>
+<p begin="00:28:16.500" end="00:28:22.020" style="s2">Kirche gehen weil sie regelmäßig in die</p>
+<p begin="00:28:19.320" end="00:28:24.059" style="s2">Kirche gehen aber der Jenseits Glaube</p>
+<p begin="00:28:22.020" end="00:28:27.059" style="s2">allein oder weil man sagt ja da ist ein</p>
+<p begin="00:28:24.059" end="00:28:29.100" style="s2">Gott da ist Jesus da ist Christus das</p>
+<p begin="00:28:27.059" end="00:28:32.340" style="s2">führt er nicht automatisch dazu dass man</p>
+<p begin="00:28:29.100" end="00:28:35.360" style="s2">den Charakter den z.B Jesus vorgelebt</p>
+<p begin="00:28:32.340" end="00:28:37.799" style="s2">hat auch tatsächlich selber verwirklicht</p>
+<p begin="00:28:35.360" end="00:28:41.360" style="s2">und deswegen wurde immer wieder gesagt</p>
+<p begin="00:28:37.799" end="00:28:45.059" style="s2">folge mir nach es geht darum dass</p>
+<p begin="00:28:41.360" end="00:28:47.039" style="s2">nachzuvollziehen was Jesus zum Christus</p>
+<p begin="00:28:45.059" end="00:28:51.380" style="s2">hat werden lassen also diese</p>
+<p begin="00:28:47.039" end="00:28:54.900" style="s2">Transformation Jesus als der Mensch die</p>
+<p begin="00:28:51.380" end="00:28:57.299" style="s2">körperformidentität Christus als die</p>
+<p begin="00:28:54.900" end="00:28:59.520" style="s2">göttlich verwirklichte</p>
+<p begin="00:28:57.299" end="00:29:02.340" style="s2">Version seiner selbst möchte ich sagen</p>
+<p begin="00:28:59.520" end="00:29:04.679" style="s2">und das wurde vorgelebt diese</p>
+<p begin="00:29:02.340" end="00:29:06.840" style="s2">Transformation vom Menschen ins</p>
+<p begin="00:29:04.679" end="00:29:10.820" style="s2">göttliche Bewusstsein von Jesus in den</p>
+<p begin="00:29:06.840" end="00:29:13.500" style="s2">Christus und der Christus ist ein ein</p>
+<p begin="00:29:10.820" end="00:29:16.260" style="s2">Bewusstseinsfeld an welches wir alle</p>
+<p begin="00:29:13.500" end="00:29:18.659" style="s2">andocken können aus uns heraus und das</p>
+<p begin="00:29:16.260" end="00:29:21.779" style="s2">ist etwas zutiefst transformiert ist</p>
+<p begin="00:29:18.659" end="00:29:26.000" style="s2">also da kann nichts von der alten</p>
+<p begin="00:29:21.779" end="00:29:29.520" style="s2">Identität bestehen bleiben wenn wir in</p>
+<p begin="00:29:26.000" end="00:29:31.880" style="s2">so etwas Großes und erhabenes und</p>
+<p begin="00:29:29.520" end="00:29:35.340" style="s2">schönes wie diesen</p>
+<p begin="00:29:31.880" end="00:29:37.679" style="s2">christlichen Feld mit unserem eigenen</p>
+<p begin="00:29:35.340" end="00:29:39.419" style="s2">Bewusstsein eintauchen</p>
+<p begin="00:29:37.679" end="00:29:43.279" style="s2">könntest du dann noch kurz darauf</p>
+<p begin="00:29:39.419" end="00:29:46.260" style="s2">eingehen gibt es da ein paar so Dinge</p>
+<p begin="00:29:43.279" end="00:29:48.299" style="s2">die dir besonders wichtig erscheinen</p>
+<p begin="00:29:46.260" end="00:29:51.059" style="s2">beim beim Lebenswandel eines Menschen</p>
+<p begin="00:29:48.299" end="00:29:54.059" style="s2">damit der aus dieser Negativität</p>
+<p begin="00:29:51.059" end="00:29:54.059" style="s2">herauskommt</p>
+<p begin="00:29:55.200" end="00:30:02.279" style="s2">das ist nach meiner Wahrnehmung der</p>
+<p begin="00:29:59.220" end="00:30:06.960" style="s2">herzkompass und die Intuition des</p>
+<p begin="00:30:02.279" end="00:30:10.919" style="s2">Herzens also wir haben in uns verbaut in</p>
+<p begin="00:30:06.960" end="00:30:14.580" style="s2">dem Wahrnehmungsorgan des Herzens ein</p>
+<p begin="00:30:10.919" end="00:30:17.340" style="s2">ganz feinen Gradmesser für das was war</p>
+<p begin="00:30:14.580" end="00:30:19.980" style="s2">ist das heißt wir haben uns ja mit dem</p>
+<p begin="00:30:17.340" end="00:30:22.440" style="s2">Verstand in der Dualität völlig verwandt</p>
+<p begin="00:30:19.980" end="00:30:24.659" style="s2">wir wissen ja gar nicht mehr wo oben wo</p>
+<p begin="00:30:22.440" end="00:30:26.220" style="s2">unten ist was zu tun und was zu lassen</p>
+<p begin="00:30:24.659" end="00:30:29.279" style="s2">ist</p>
+<p begin="00:30:26.220" end="00:30:32.580" style="s2">da ist ja ganz viel Verlorenheit in</p>
+<p begin="00:30:29.279" end="00:30:34.919" style="s2">dieser Welt Orientierungslosigkeit</p>
+<p begin="00:30:32.580" end="00:30:37.740" style="s2">wenn wir in das Herz Bewusstsein</p>
+<p begin="00:30:34.919" end="00:30:40.559" style="s2">zurückkehren und die herzintuition</p>
+<p begin="00:30:37.740" end="00:30:42.419" style="s2">Schulen denn wissen wir ganz genau wo</p>
+<p begin="00:30:40.559" end="00:30:46.020" style="s2">der nächste Schritt auf unserem Weg ist</p>
+<p begin="00:30:42.419" end="00:30:48.720" style="s2">und das Herz ist natürlicherweise mit</p>
+<p begin="00:30:46.020" end="00:30:51.000" style="s2">einem höheren Bewusstsein verbunden und</p>
+<p begin="00:30:48.720" end="00:30:54.179" style="s2">führt auch uns auch Schritt für Schritt</p>
+<p begin="00:30:51.000" end="00:30:57.600" style="s2">raus aus der getrenntheitserfahrung und</p>
+<p begin="00:30:54.179" end="00:31:00.960" style="s2">aus dem ganzen Reinkarnation spielen das</p>
+<p begin="00:30:57.600" end="00:31:03.620" style="s2">heißt der die Reden die zwanghafte</p>
+<p begin="00:31:00.960" end="00:31:06.000" style="s2">redenkarnation ist daran gebunden</p>
+<p begin="00:31:03.620" end="00:31:08.580" style="s2">notwendigerweise dass wir einen dualen</p>
+<p begin="00:31:06.000" end="00:31:11.640" style="s2">Verstand haben der die ganze Zeit die</p>
+<p begin="00:31:08.580" end="00:31:13.559" style="s2">Welt Gut und Böse teilt wenn wir den</p>
+<p begin="00:31:11.640" end="00:31:16.440" style="s2">Verstand überwinden durch die</p>
+<p begin="00:31:13.559" end="00:31:20.820" style="s2">Kultivierung des herzbewusstseins dann</p>
+<p begin="00:31:16.440" end="00:31:23.880" style="s2">schaffen wir dort aussteigen</p>
+<p begin="00:31:20.820" end="00:31:26.399" style="s2">und du hast auch erwähnt dass so ein</p>
+<p begin="00:31:23.880" end="00:31:28.980" style="s2">Zeitalter wiederkommen wird wo dieses</p>
+<p begin="00:31:26.399" end="00:31:30.200" style="s2">höhere Bewusstsein dominiert oder sich</p>
+<p begin="00:31:28.980" end="00:31:32.399" style="s2">wieder</p>
+<p begin="00:31:30.200" end="00:31:33.260" style="s2">vordergründig entwickelt im Vergleich zu</p>
+<p begin="00:31:32.399" end="00:31:37.039" style="s2">diesen</p>
+<p begin="00:31:33.260" end="00:31:37.039" style="s2">schlamasseln indem wir jetzt sind</p>
+<p begin="00:31:37.700" end="00:31:44.039" style="s2">es gibt auch sehr viele Videos</p>
+<p begin="00:31:41.299" end="00:31:45.659" style="s2">die auftauchen wenn man zum Beispiel auf</p>
+<p begin="00:31:44.039" end="00:31:48.120" style="s2">Youtube sich mit dieser ganzen Thematik</p>
+<p begin="00:31:45.659" end="00:31:50.100" style="s2">befasst da ist jetzt sind verschiedene</p>
+<p begin="00:31:48.120" end="00:31:52.559" style="s2">Persönlichkeiten die das auch immer</p>
+<p begin="00:31:50.100" end="00:31:54.380" style="s2">wieder erwähnen das ganz besonders jetzt</p>
+<p begin="00:31:52.559" end="00:31:58.320" style="s2">ist</p>
+<p begin="00:31:54.380" end="00:32:01.159" style="s2">Möglichkeit da oder die Chance sozusagen</p>
+<p begin="00:31:58.320" end="00:32:01.159" style="s2">aufzusteigen</p>
+<p begin="00:32:01.580" end="00:32:08.100" style="s2">wird es zu sagen kann man das überhaupt</p>
+<p begin="00:32:04.140" end="00:32:10.760" style="s2">in einer Zeit benennen wie lange das</p>
+<p begin="00:32:08.100" end="00:32:14.039" style="s2">jetzt noch ungefähr dauert</p>
+<p begin="00:32:10.760" end="00:32:16.559" style="s2">du meinst jetzt das Zeitfenster wo die</p>
+<p begin="00:32:14.039" end="00:32:19.440" style="s2">Offenheit für den Bewusstseinswandel</p>
+<p begin="00:32:16.559" end="00:32:22.440" style="s2">besteht oder ja wenn man das überhaupt</p>
+<p begin="00:32:19.440" end="00:32:24.600" style="s2">so sagen möchte ja kann gibt es da</p>
+<p begin="00:32:22.440" end="00:32:27.539" style="s2">überhaupt in verschiedenen Aspekten</p>
+<p begin="00:32:24.600" end="00:32:29.279" style="s2">irgendwelche konkreten Zeitangaben die</p>
+<p begin="00:32:27.539" end="00:32:31.559" style="s2">man realistischerweise machen kann aus</p>
+<p begin="00:32:29.279" end="00:32:33.840" style="s2">deiner Sicht</p>
+<p begin="00:32:31.559" end="00:32:36.659" style="s2">bin immer vorsichtig mit Zeitangaben ich</p>
+<p begin="00:32:33.840" end="00:32:38.520" style="s2">möchte vielleicht betonen dass wir in</p>
+<p begin="00:32:36.659" end="00:32:41.520" style="s2">jedem Moment die Möglichkeit haben</p>
+<p begin="00:32:38.520" end="00:32:43.980" style="s2">auszusteigen egal was im Außen passiert</p>
+<p begin="00:32:41.520" end="00:32:47.580" style="s2">egal in welcher Zeit Qualität wir sind</p>
+<p begin="00:32:43.980" end="00:32:51.020" style="s2">auch vor 3000 oder 4000 Jahren im</p>
+<p begin="00:32:47.580" end="00:32:54.539" style="s2">tiefsten Kaliber war es möglich</p>
+<p begin="00:32:51.020" end="00:32:57.059" style="s2">auszusteigen es brauchte bloß eine große</p>
+<p begin="00:32:54.539" end="00:32:59.820" style="s2">Kraftanstrengung</p>
+<p begin="00:32:57.059" end="00:33:02.640" style="s2">jetzt ist es so dass die Tore die</p>
+<p begin="00:32:59.820" end="00:33:05.640" style="s2">Sternen Tore zu hören Energien oder</p>
+<p begin="00:33:02.640" end="00:33:06.740" style="s2">Welten offen stehen für uns</p>
+<p begin="00:33:05.640" end="00:33:10.380" style="s2">und</p>
+<p begin="00:33:06.740" end="00:33:13.880" style="s2">wenn wir noch mal Zeit in in das</p>
+<p begin="00:33:10.380" end="00:33:13.880" style="s2">Zeitphänomen kurz reingehen</p>
+<p begin="00:33:14.640" end="00:33:19.799" style="s2">es wundert mich eigentlich sehr dass es</p>
+<p begin="00:33:18.000" end="00:33:22.679" style="s2">für viele Menschen immer noch diese</p>
+<p begin="00:33:19.799" end="00:33:26.460" style="s2">dichte Realität hat in der sie nur</p>
+<p begin="00:33:22.679" end="00:33:30.000" style="s2">Materie sehen und sich als materieller</p>
+<p begin="00:33:26.460" end="00:33:31.940" style="s2">Körper erfahren im Grunde genommen ist</p>
+<p begin="00:33:30.000" end="00:33:35.399" style="s2">das Zeitalter mit den</p>
+<p begin="00:33:31.940" end="00:33:37.860" style="s2">erfahrungsqualitäten bereits abgelaufen</p>
+<p begin="00:33:35.399" end="00:33:40.140" style="s2">nur die Strukturen die wir währenddessen</p>
+<p begin="00:33:37.860" end="00:33:42.480" style="s2">aufgebaut haben sind so starre und so</p>
+<p begin="00:33:40.140" end="00:33:46.679" style="s2">rigide dass sie sich darüber hinaus auch</p>
+<p begin="00:33:42.480" end="00:33:50.279" style="s2">aufrecht erhalten durch unsere ständige</p>
+<p begin="00:33:46.679" end="00:33:52.380" style="s2">mitschöpfung daran also wir durch unsere</p>
+<p begin="00:33:50.279" end="00:33:55.080" style="s2">Gedanken und Gefühle und durch unser</p>
+<p begin="00:33:52.380" end="00:33:57.260" style="s2">Opfer Bewusstsein stärken und fördern</p>
+<p begin="00:33:55.080" end="00:34:01.679" style="s2">wir ständig in dieser Welt die Kräfte</p>
+<p begin="00:33:57.260" end="00:34:05.940" style="s2">die Macht akumulieren und entsprechend</p>
+<p begin="00:34:01.679" end="00:34:09.419" style="s2">in dem Unterdrücker Bewusstsein sind und</p>
+<p begin="00:34:05.940" end="00:34:11.879" style="s2">das ist etwas was uns gewahr werden darf</p>
+<p begin="00:34:09.419" end="00:34:15.899" style="s2">nach meiner Information aus der</p>
+<p begin="00:34:11.879" end="00:34:20.580" style="s2">geistigen Welt ist es so dass wenn etwas</p>
+<p begin="00:34:15.899" end="00:34:25.200" style="s2">passiert also wir sind wie zulaufend auf</p>
+<p begin="00:34:20.580" end="00:34:27.480" style="s2">einem Punkt wo es dann wirklich explosiv</p>
+<p begin="00:34:25.200" end="00:34:29.580" style="s2">zu etwas neuen kommt so wird es mir</p>
+<p begin="00:34:27.480" end="00:34:32.339" style="s2">immer wieder mitgeteilt also wir haben</p>
+<p begin="00:34:29.580" end="00:34:34.919" style="s2">die Spitze der Pyramide noch nicht ganz</p>
+<p begin="00:34:32.339" end="00:34:37.159" style="s2">erreicht also es spitzt sich immer</p>
+<p begin="00:34:34.919" end="00:34:41.359" style="s2">weiter zu</p>
+<p begin="00:34:37.159" end="00:34:44.599" style="s2">anscheinbaren äußeren Chaos an</p>
+<p begin="00:34:41.359" end="00:34:48.359" style="s2">Feldern die aufgewühlt werden an</p>
+<p begin="00:34:44.599" end="00:34:51.000" style="s2">Unsicherheit und irgendwann gibt es dort</p>
+<p begin="00:34:48.359" end="00:34:53.159" style="s2">ein Kipppunkt und viele Seelen werden</p>
+<p begin="00:34:51.000" end="00:34:55.500" style="s2">erst danach erkennen wofür sie hier</p>
+<p begin="00:34:53.159" end="00:34:58.740" style="s2">inkarniert sind</p>
+<p begin="00:34:55.500" end="00:35:01.859" style="s2">und das ist etwas für einige Menschen</p>
+<p begin="00:34:58.740" end="00:35:04.440" style="s2">wird das aussehen wie die größte</p>
+<p begin="00:35:01.859" end="00:35:07.619" style="s2">Katastrophe für andere Menschen wird das</p>
+<p begin="00:35:04.440" end="00:35:11.520" style="s2">sich erfahren wie die Rückkehr in das</p>
+<p begin="00:35:07.619" end="00:35:13.800" style="s2">eins seinsfeld also das heißt je nachdem</p>
+<p begin="00:35:11.520" end="00:35:16.320" style="s2">wo wir innerlich stehen und je nachdem</p>
+<p begin="00:35:13.800" end="00:35:19.320" style="s2">wir offen wir sind höhere Schwingungen</p>
+<p begin="00:35:16.320" end="00:35:22.260" style="s2">zu empfangen geraten wir ins eine oder</p>
+<p begin="00:35:19.320" end="00:35:24.660" style="s2">andere Extrem das sehen wir bereits</p>
+<p begin="00:35:22.260" end="00:35:26.400" style="s2">jetzt schon bei Menschen die mit höheren</p>
+<p begin="00:35:24.660" end="00:35:28.859" style="s2">Schwingungen konfrontiert werden</p>
+<p begin="00:35:26.400" end="00:35:32.280" style="s2">entweder gleiten sie ab in den Wahnsinn</p>
+<p begin="00:35:28.859" end="00:35:34.920" style="s2">weil die wahnsinnige Tendenz in der</p>
+<p begin="00:35:32.280" end="00:35:36.540" style="s2">Psyche bereits besteht oder sie sind</p>
+<p begin="00:35:34.920" end="00:35:38.960" style="s2">offen für die höheren Schwingungen</p>
+<p begin="00:35:36.540" end="00:35:41.820" style="s2">können das integrieren und werden so</p>
+<p begin="00:35:38.960" end="00:35:44.040" style="s2">wirklich schnell in ein höheres</p>
+<p begin="00:35:41.820" end="00:35:48.079" style="s2">Bewusstsein geführt</p>
+<p begin="00:35:44.040" end="00:35:52.140" style="s2">also ich sehe dass dort die Schwingung</p>
+<p begin="00:35:48.079" end="00:35:53.579" style="s2">so steigt dass sie das Bewusstsein siebt</p>
+<p begin="00:35:52.140" end="00:35:55.680" style="s2">und die Seelen sich dann entscheiden</p>
+<p begin="00:35:53.579" end="00:35:58.020" style="s2">müssen wollen wir weiter in einem</p>
+<p begin="00:35:55.680" end="00:36:02.000" style="s2">dreidimensionalen Plan fällt Dualität</p>
+<p begin="00:35:58.020" end="00:36:05.660" style="s2">spielen oder wollen wir in ein</p>
+<p begin="00:36:02.000" end="00:36:08.300" style="s2">verbundenes Erfahrungsfeld eintauchen</p>
+<p begin="00:36:05.660" end="00:36:12.560" style="s2">also du hast jetzt auch selber keine</p>
+<p begin="00:36:08.300" end="00:36:14.119" style="s2">Zeitangabe gemacht</p>
+<p begin="00:36:12.560" end="00:36:16.920" style="s2">also</p>
+<p begin="00:36:14.119" end="00:36:19.140" style="s2">weißt du es wurden immer wieder</p>
+<p begin="00:36:16.920" end="00:36:20.880" style="s2">Zeitangaben gemacht und nach meinen</p>
+<p begin="00:36:19.140" end="00:36:23.820" style="s2">Informationen ist es so dass es</p>
+<p begin="00:36:20.880" end="00:36:25.859" style="s2">eigentlich 2012 schon hätte passieren</p>
+<p begin="00:36:23.820" end="00:36:27.720" style="s2">sollen es wurde immer wieder</p>
+<p begin="00:36:25.859" end="00:36:30.359" style="s2">aufgeschoben</p>
+<p begin="00:36:27.720" end="00:36:32.760" style="s2">größere kosmische Events die mit der</p>
+<p begin="00:36:30.359" end="00:36:34.220" style="s2">Sonne verbunden sind ich habe dazu einen</p>
+<p begin="00:36:32.760" end="00:36:37.440" style="s2">anderen Kontexten auch was</p>
+<p begin="00:36:34.220" end="00:36:40.040" style="s2">veröffentlicht zum Thema Sonnensturm und</p>
+<p begin="00:36:37.440" end="00:36:42.780" style="s2">solche Sachen sie sind schwer</p>
+<p begin="00:36:40.040" end="00:36:45.359" style="s2">vorauszusehen weil sie abhängig sind von</p>
+<p begin="00:36:42.780" end="00:36:47.220" style="s2">den menschlichen Entscheidungen das</p>
+<p begin="00:36:45.359" end="00:36:49.740" style="s2">heißt wenn wir als Menschheit in den</p>
+<p begin="00:36:47.220" end="00:36:51.660" style="s2">Widerstand gehen dann sagt der Kosmos</p>
+<p begin="00:36:49.740" end="00:36:53.720" style="s2">okay wir brauchen noch ein bisschen weil</p>
+<p begin="00:36:51.660" end="00:36:56.160" style="s2">wir möglichst viele mitnehmen wollen</p>
+<p begin="00:36:53.720" end="00:36:59.099" style="s2">wenn die Menschheit aber sagen würde</p>
+<p begin="00:36:56.160" end="00:37:01.200" style="s2">okay wir sind bereit für den Wandel dann</p>
+<p begin="00:36:59.099" end="00:37:04.020" style="s2">wäre das von heute auf morgen geschehen</p>
+<p begin="00:37:01.200" end="00:37:07.859" style="s2">weil alles bereit steht damit das</p>
+<p begin="00:37:04.020" end="00:37:10.760" style="s2">Geschehen kann der einzige Widerstand in</p>
+<p begin="00:37:07.859" end="00:37:13.380" style="s2">dem gesamten Konglomerat von</p>
+<p begin="00:37:10.760" end="00:37:15.480" style="s2">kosmischen und irdischen Faktoren ist</p>
+<p begin="00:37:13.380" end="00:37:16.980" style="s2">der Mensch und der freie Wille des</p>
+<p begin="00:37:15.480" end="00:37:19.380" style="s2">Menschen</p>
+<p begin="00:37:16.980" end="00:37:21.660" style="s2">und wenn wir uns dafür entscheiden</p>
+<p begin="00:37:19.380" end="00:37:23.960" style="s2">diesen Weg zu gehen dann öffnet sich für</p>
+<p begin="00:37:21.660" end="00:37:27.180" style="s2">uns Tür und Tor</p>
+<p begin="00:37:23.960" end="00:37:29.760" style="s2">und wenn man jetzt an diesen Höhepunkt</p>
+<p begin="00:37:27.180" end="00:37:31.800" style="s2">denkt ist es kommt dieser wandlungspunkt</p>
+<p begin="00:37:29.760" end="00:37:33.720" style="s2">den du diese entscheidende den du</p>
+<p begin="00:37:31.800" end="00:37:37.260" style="s2">angesprochen hast</p>
+<p begin="00:37:33.720" end="00:37:38.240" style="s2">du hast da extreme erwähnt wo sich das</p>
+<p begin="00:37:37.260" end="00:37:40.800" style="s2">entscheidet</p>
+<p begin="00:37:38.240" end="00:37:44.400" style="s2">würdest du sagen dass diese extreme dann</p>
+<p begin="00:37:40.800" end="00:37:47.060" style="s2">nach dieser nach diesem Punkt weiter</p>
+<p begin="00:37:44.400" end="00:37:47.060" style="s2">existieren</p>
+<p begin="00:37:47.160" end="00:37:52.980" style="s2">danach reguliert es sich wieder danach</p>
+<p begin="00:37:49.440" end="00:37:56.579" style="s2">wird es wieder harmonischer das heißt im</p>
+<p begin="00:37:52.980" end="00:37:59.820" style="s2">Grunde genommen ist das explosive Chaos</p>
+<p begin="00:37:56.579" end="00:38:02.760" style="s2">was ansteigt und auch die die</p>
+<p begin="00:37:59.820" end="00:38:03.920" style="s2">Krankheiten als Chaos im physischen</p>
+<p begin="00:38:02.760" end="00:38:07.380" style="s2">Körper</p>
+<p begin="00:38:03.920" end="00:38:11.359" style="s2">ein erster Schritt zur Neuordnung des</p>
+<p begin="00:38:07.380" end="00:38:15.119" style="s2">gesamten Systems und nach diesem</p>
+<p begin="00:38:11.359" end="00:38:17.520" style="s2">explosiven Ausbruch von Energie</p>
+<p begin="00:38:15.119" end="00:38:20.160" style="s2">letztendlich also alles ist eine Form</p>
+<p begin="00:38:17.520" end="00:38:23.720" style="s2">von Energie und was dort ausbricht ist</p>
+<p begin="00:38:20.160" end="00:38:26.339" style="s2">angestaute Energie aus dem abgespaltenen</p>
+<p begin="00:38:23.720" end="00:38:28.380" style="s2">Emotionalkörper der Menschheit</p>
+<p begin="00:38:26.339" end="00:38:31.920" style="s2">wahrscheinlich ausgedrückt tatsächlich</p>
+<p begin="00:38:28.380" end="00:38:33.960" style="s2">von der Sonne selbst das würde</p>
+<p begin="00:38:31.920" end="00:38:36.960" style="s2">vielleicht zu tief führen dass zu</p>
+<p begin="00:38:33.960" end="00:38:39.240" style="s2">erklären aber da gibt es ein Verhältnis</p>
+<p begin="00:38:36.960" end="00:38:42.240" style="s2">zwischen dem menschlichen emotionalen</p>
+<p begin="00:38:39.240" end="00:38:45.060" style="s2">Körper und den klimatischen Bedingungen</p>
+<p begin="00:38:42.240" end="00:38:47.359" style="s2">der Erde und sogar dem was auf der Sonne</p>
+<p begin="00:38:45.060" end="00:38:47.359" style="s2">geschieht</p>
+<p begin="00:38:47.400" end="00:38:52.880" style="s2">also ich spreche das auch deswegen an</p>
+<p begin="00:38:49.380" end="00:38:54.540" style="s2">weil also ich kenne mehrere Berichte von</p>
+<p begin="00:38:52.880" end="00:38:58.040" style="s2">außerkörperlichen Erfahrungen wo</p>
+<p begin="00:38:54.540" end="00:39:00.660" style="s2">Menschen zum Beispiel sagen sie haben</p>
+<p begin="00:38:58.040" end="00:39:03.180" style="s2">erlebt dass es keine Vergangenheit und</p>
+<p begin="00:39:00.660" end="00:39:07.040" style="s2">keine Zukunft gibt sondern das alles in</p>
+<p begin="00:39:03.180" end="00:39:09.900" style="s2">Wirklichkeit gleichzeitig existiert</p>
+<p begin="00:39:07.040" end="00:39:12.599" style="s2">dennoch haben Sie davon berichtet dass</p>
+<p begin="00:39:09.900" end="00:39:15.240" style="s2">zum Beispiel dass sie diesen Wendepunkt</p>
+<p begin="00:39:12.599" end="00:39:18.000" style="s2">erlebt haben manche bezeichnen das zum</p>
+<p begin="00:39:15.240" end="00:39:20.400" style="s2">Beispiel auch als Entrückung dass da</p>
+<p begin="00:39:18.000" end="00:39:25.560" style="s2">diese Entrückung kommt gibt verschiedene</p>
+<p begin="00:39:20.400" end="00:39:28.020" style="s2">Begriffe aber manche sagen eben dann die</p>
+<p begin="00:39:25.560" end="00:39:31.260" style="s2">haben gesehen zu diesem Zeitpunkt dass</p>
+<p begin="00:39:28.020" end="00:39:34.079" style="s2">der manche Seelen oder ein Teil der</p>
+<p begin="00:39:31.260" end="00:39:37.140" style="s2">ganzen Menschen sind dass viele steigen</p>
+<p begin="00:39:34.079" end="00:39:39.720" style="s2">sozusagen auf und andere die schaffen es</p>
+<p begin="00:39:37.140" end="00:39:42.180" style="s2">nicht ja die die bleiben sozusagen</p>
+<p begin="00:39:39.720" end="00:39:45.980" style="s2">im Unbewussten</p>
+<p begin="00:39:42.180" end="00:39:50.240" style="s2">in einem unbewussten Zustand</p>
+<p begin="00:39:45.980" end="00:39:50.240" style="s2">was hältst du von solchen Aussagen</p>
+<p begin="00:39:50.880" end="00:39:55.320" style="s2">ich kann solche Aussagen nachvollziehen</p>
+<p begin="00:39:52.920" end="00:39:58.680" style="s2">und gleichzeitig verbirgt sich darin</p>
+<p begin="00:39:55.320" end="00:40:01.980" style="s2">eine implizite Wertigkeit die ich nach</p>
+<p begin="00:39:58.680" end="00:40:04.700" style="s2">meiner Wahrnehmung nicht sehe das heißt</p>
+<p begin="00:40:01.980" end="00:40:07.040" style="s2">aus der seelischen Perspektive ist es</p>
+<p begin="00:40:04.700" end="00:40:09.480" style="s2">gleichwertig ob ich mich als</p>
+<p begin="00:40:07.040" end="00:40:13.579" style="s2">dreidimensional oder fünf dimensionaler</p>
+<p begin="00:40:09.480" end="00:40:16.079" style="s2">fahre das Problem liegt daran dass wir</p>
+<p begin="00:40:13.579" end="00:40:19.140" style="s2">dreidimensional ins Vergessen gestürzt</p>
+<p begin="00:40:16.079" end="00:40:22.099" style="s2">sind dadurch wird das so leidvoll aber</p>
+<p begin="00:40:19.140" end="00:40:24.180" style="s2">im Grunde genommen ist die</p>
+<p begin="00:40:22.099" end="00:40:26.480" style="s2">dreidimensionale Erfahrung in der</p>
+<p begin="00:40:24.180" end="00:40:28.920" style="s2">Körperform genauso</p>
+<p begin="00:40:26.480" end="00:40:30.980" style="s2">erfahrungsreich und wundervoll wie die</p>
+<p begin="00:40:28.920" end="00:40:34.440" style="s2">Erfahrung auf anderen Dimensionen auch</p>
+<p begin="00:40:30.980" end="00:40:37.740" style="s2">also aus der höheren Perspektive gibt es</p>
+<p begin="00:40:34.440" end="00:40:39.440" style="s2">dort keinen besser oder schlechter keine</p>
+<p begin="00:40:37.740" end="00:40:42.180" style="s2">Wertigkeit von</p>
+<p begin="00:40:39.440" end="00:40:44.700" style="s2">das ist da wo wir hin müssen und das</p>
+<p begin="00:40:42.180" end="00:40:46.859" style="s2">müssen wir verlassen das ist nur die</p>
+<p begin="00:40:44.700" end="00:40:49.859" style="s2">Perspektive aus unserer getrennten</p>
+<p begin="00:40:46.859" end="00:40:52.020" style="s2">Identität die wir unser Leid überwinden</p>
+<p begin="00:40:49.859" end="00:40:54.480" style="s2">wollen aber das können wir genauso hier</p>
+<p begin="00:40:52.020" end="00:40:56.700" style="s2">und jetzt im eigenen Bewusstsein da</p>
+<p begin="00:40:54.480" end="00:40:58.700" style="s2">müssen wir nicht auf kollektive Events</p>
+<p begin="00:40:56.700" end="00:41:01.140" style="s2">warten nicht auf irgendwelche</p>
+<p begin="00:40:58.700" end="00:41:03.079" style="s2">aufstiegsprozesse wir können hier und</p>
+<p begin="00:41:01.140" end="00:41:05.760" style="s2">jetzt damit beginnen in unserer</p>
+<p begin="00:41:03.079" end="00:41:08.220" style="s2">Bewusstseinsarbeit die Trennung zu</p>
+<p begin="00:41:05.760" end="00:41:10.500" style="s2">überwinden und in uns zum Göttlichen</p>
+<p begin="00:41:08.220" end="00:41:13.020" style="s2">zurückzukehren und damit hat sich die</p>
+<p begin="00:41:10.500" end="00:41:15.900" style="s2">ganze Sache und dann spielt es wenn ich</p>
+<p begin="00:41:13.020" end="00:41:19.200" style="s2">in mir zurückgekehrt bin in den Allgeist</p>
+<p begin="00:41:15.900" end="00:41:20.520" style="s2">das göttlichen eins Seins dann spielt es</p>
+<p begin="00:41:19.200" end="00:41:22.980" style="s2">keine Rolle mehr ob ich mich als</p>
+<p begin="00:41:20.520" end="00:41:24.480" style="s2">physischer erfahre oder in einem</p>
+<p begin="00:41:22.980" end="00:41:26.460" style="s2">feinstofflichen Körper in der</p>
+<p begin="00:41:24.480" end="00:41:28.740" style="s2">transzendenten Dimension es spielt keine</p>
+<p begin="00:41:26.460" end="00:41:30.500" style="s2">Rolle mehr ich kann mich überall</p>
+<p begin="00:41:28.740" end="00:41:33.060" style="s2">erfahren</p>
+<p begin="00:41:30.500" end="00:41:34.820" style="s2">also würde ich zu sagen auch wenn dieser</p>
+<p begin="00:41:33.060" end="00:41:36.619" style="s2">dieser Wendepunkt</p>
+<p begin="00:41:34.820" end="00:41:40.740" style="s2">überschritten ist</p>
+<p begin="00:41:36.619" end="00:41:43.859" style="s2">dass Menschen oder Menschen oder Seelen</p>
+<p begin="00:41:40.740" end="00:41:47.420" style="s2">dass diese Möglichkeit sozusagen diese</p>
+<p begin="00:41:43.859" end="00:41:51.000" style="s2">Heimkehr in Religionen ist zum Beispiel</p>
+<p begin="00:41:47.420" end="00:41:52.859" style="s2">der Begriff Heimkehr verbreitet in ins</p>
+<p begin="00:41:51.000" end="00:41:55.020" style="s2">göttliche dass das immer möglich ist</p>
+<p begin="00:41:52.859" end="00:41:56.460" style="s2">also dass das sozusagen nie verschlossen</p>
+<p begin="00:41:55.020" end="00:41:58.140" style="s2">ist</p>
+<p begin="00:41:56.460" end="00:42:01.500" style="s2">sondern dass dass man die Möglichkeit</p>
+<p begin="00:41:58.140" end="00:42:05.160" style="s2">dazu grundsätzlich immer hat ja das ist</p>
+<p begin="00:42:01.500" end="00:42:07.619" style="s2">doch das was auch im Urchristentum</p>
+<p begin="00:42:05.160" end="00:42:10.440" style="s2">gelehrt und aufgezeigt wurde das ist</p>
+<p begin="00:42:07.619" end="00:42:13.440" style="s2">letztlich</p>
+<p begin="00:42:10.440" end="00:42:16.740" style="s2">nicht einmal so ist das wir das</p>
+<p begin="00:42:13.440" end="00:42:18.540" style="s2">Göttliche verlassen haben die letzte</p>
+<p begin="00:42:16.740" end="00:42:21.300" style="s2">Illusion die wir als Mensch haben ist</p>
+<p begin="00:42:18.540" end="00:42:24.359" style="s2">die der Rückkehr in das Göttliche</p>
+<p begin="00:42:21.300" end="00:42:27.119" style="s2">Bewusstsein weil wir in Wirklichkeit nie</p>
+<p begin="00:42:24.359" end="00:42:29.220" style="s2">davon getrennt gewesen sind</p>
+<p begin="00:42:27.119" end="00:42:31.940" style="s2">das ist eines der letzten großen</p>
+<p begin="00:42:29.220" end="00:42:33.660" style="s2">Illusionen das wir glauben aus einem</p>
+<p begin="00:42:31.940" end="00:42:35.579" style="s2">getrenntheitsbewusstsein einen Rückweg</p>
+<p begin="00:42:33.660" end="00:42:38.820" style="s2">zu gehen in etwas was wir eigentlich nie</p>
+<p begin="00:42:35.579" end="00:42:41.220" style="s2">verlassen haben aber auch diese letzte</p>
+<p begin="00:42:38.820" end="00:42:44.099" style="s2">Illusion will überwunden werden bis wir</p>
+<p begin="00:42:41.220" end="00:42:45.839" style="s2">irgendwann erkennen in dem Moment der</p>
+<p begin="00:42:44.099" end="00:42:47.460" style="s2">Rückkehr wissen wir wir waren schon</p>
+<p begin="00:42:45.839" end="00:42:50.700" style="s2">immer dort</p>
+<p begin="00:42:47.460" end="00:42:52.920" style="s2">und das ist eine Erfahrung</p>
+<p begin="00:42:50.700" end="00:42:55.800" style="s2">die ist unumgänglich wir werden immer</p>
+<p begin="00:42:52.920" end="00:42:57.900" style="s2">wieder dorthin zurückkehren in</p>
+<p begin="00:42:55.800" end="00:43:00.599" style="s2">Anführungszeichen wo wir hergekommen</p>
+<p begin="00:42:57.900" end="00:43:02.579" style="s2">sind und in dem Moment ist es klar okay</p>
+<p begin="00:43:00.599" end="00:43:06.079" style="s2">wir haben die Quelle nie wirklich</p>
+<p begin="00:43:02.579" end="00:43:08.579" style="s2">verlassen alles was wir gedacht haben</p>
+<p begin="00:43:06.079" end="00:43:12.140" style="s2">dass wir getrennt von der einen</p>
+<p begin="00:43:08.579" end="00:43:14.220" style="s2">Schöpfung erfahren haben war ein Traum</p>
+<p begin="00:43:12.140" end="00:43:15.859" style="s2">das ist das was uns immer wieder</p>
+<p begin="00:43:14.220" end="00:43:18.839" style="s2">mitgeteilt wird</p>
+<p begin="00:43:15.859" end="00:43:21.480" style="s2">sowohl in dieser Welt in dieser Realität</p>
+<p begin="00:43:18.839" end="00:43:24.480" style="s2">als auch in den jenseitigen Realitäten</p>
+<p begin="00:43:21.480" end="00:43:27.599" style="s2">erfahren wie immer nur das was wir in</p>
+<p begin="00:43:24.480" end="00:43:29.819" style="s2">uns tragen haben wir ungeklärte Schatten</p>
+<p begin="00:43:27.599" end="00:43:32.280" style="s2">Aspekte in uns die wir entweder</p>
+<p begin="00:43:29.819" end="00:43:34.920" style="s2">weggedrückt haben abgespalten haben die</p>
+<p begin="00:43:32.280" end="00:43:37.560" style="s2">wir nicht sehen wollen dann erfahren wir</p>
+<p begin="00:43:34.920" end="00:43:41.099" style="s2">in dieser und in allen anderen Welten in</p>
+<p begin="00:43:37.560" end="00:43:43.500" style="s2">die wir eintreten ein Aspekt von dem was</p>
+<p begin="00:43:41.099" end="00:43:45.599" style="s2">in uns liegt und natürlich je größer der</p>
+<p begin="00:43:43.500" end="00:43:47.760" style="s2">schattenanteil desto wahrscheinlicher</p>
+<p begin="00:43:45.599" end="00:43:50.700" style="s2">ist dass wir in dieser oder in einer</p>
+<p begin="00:43:47.760" end="00:43:53.400" style="s2">anderen Welt entsprechend unangenehmer</p>
+<p begin="00:43:50.700" end="00:43:56.880" style="s2">Erfahrung machen wenn wir den aufgelöst</p>
+<p begin="00:43:53.400" end="00:43:59.220" style="s2">haben wenn wir voll bewusst sind wer wir</p>
+<p begin="00:43:56.880" end="00:44:01.760" style="s2">wirklich sind dann können wir in alle</p>
+<p begin="00:43:59.220" end="00:44:05.640" style="s2">Realitäten rein und wir werden keine</p>
+<p begin="00:44:01.760" end="00:44:07.800" style="s2">unangenehme Erfahrung darin sammeln</p>
+<p begin="00:44:05.640" end="00:44:11.760" style="s2">lieber Robin vielen Dank für diese</p>
+<p begin="00:44:07.800" end="00:44:15.020" style="s2">Ausführungen und alles Gute dir</p>
+<p begin="00:44:11.760" end="00:44:15.020" style="s2">danke dir für deine Fragen</p>
+<p begin="00:44:29.080" end="00:44:35.749" style="s2">[Musik]</p>
+<p begin="00:44:49.400" end="00:44:52.610" style="s2">[Musik]</p>
+<p begin="00:45:00.000" end="00:45:03.070" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

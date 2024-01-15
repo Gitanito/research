@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:23.950" style="s2">[Musik]</p>
+<p begin="00:00:19.740" end="00:00:27.030" style="s2">japanische die sie hatten im jahr 1990</p>
+<p begin="00:00:23.950" end="00:00:29.260" style="s2">im alter von 29 jahren einen</p>
+<p begin="00:00:27.030" end="00:00:31.620" style="s2">motorradunfall der zu einer</p>
+<p begin="00:00:29.260" end="00:00:36.700" style="s2">nahtoderfahrung führte</p>
+<p begin="00:00:31.620" end="00:00:42.180" style="s2">was haben sie damals erlebt also die</p>
+<p begin="00:00:36.700" end="00:00:47.170" style="s2">geschichte fängt am 28 mai 1990</p>
+<p begin="00:00:42.180" end="00:00:50.290" style="s2">es war genial 1535 von mir als gesehen</p>
+<p begin="00:00:47.170" end="00:00:54.400" style="s2">eine linkskurve die aber nicht</p>
+<p begin="00:00:50.290" end="00:00:58.410" style="s2">einsichtig war weder vom bund noch von</p>
+<p begin="00:00:54.400" end="00:01:00.610" style="s2">meiner seite und das gegenüber ein</p>
+<p begin="00:00:58.410" end="00:01:05.310" style="s2">landwirtschaftliches fahrzeug ein</p>
+<p begin="00:01:00.610" end="00:01:09.210" style="s2">highlight der bevor die sicherheitslinie</p>
+<p begin="00:01:05.310" end="00:01:13.080" style="s2">kaum auf meiner seite entgegen</p>
+<p begin="00:01:09.210" end="00:01:18.310" style="s2">ich leite eine notbremsung ein und</p>
+<p begin="00:01:13.080" end="00:01:20.080" style="s2">kollision war um als reichlich kurzen</p>
+<p begin="00:01:18.310" end="00:01:23.320" style="s2">moment war ich weg als ich wieder</p>
+<p begin="00:01:20.080" end="00:01:27.580" style="s2">antwortet sage ich mein rechtes bein war</p>
+<p begin="00:01:23.320" end="00:01:32.370" style="s2">weg das buch sofort abgetrennt durch den</p>
+<p begin="00:01:27.580" end="00:01:36.870" style="s2">aufprall das linke bein war fast opfer</p>
+<p begin="00:01:32.370" end="00:01:40.560" style="s2">beinbruch kollege der linken nach der</p>
+<p begin="00:01:36.870" end="00:01:41.770" style="s2">machte erste maßnahmen auch abgedrückt</p>
+<p begin="00:01:40.560" end="00:01:44.860" style="s2">etc</p>
+<p begin="00:01:41.770" end="00:01:47.650" style="s2">dann ging es relativ schnell dann kommt</p>
+<p begin="00:01:44.860" end="00:01:51.070" style="s2">die rega dass sich die schweizerische</p>
+<p begin="00:01:47.650" end="00:01:53.140" style="s2">rettungsflugwacht mit medicopter holte</p>
+<p begin="00:01:51.070" end="00:01:54.610" style="s2">mich ab und brauchte mich ins</p>
+<p begin="00:01:53.140" end="00:01:58.420" style="s2">kantonsspital aarau</p>
+<p begin="00:01:54.610" end="00:02:02.340" style="s2">weil das regionalspital und diese gegend</p>
+<p begin="00:01:58.420" end="00:02:09.310" style="s2">warf ich zu klein für so wenige unfälle</p>
+<p begin="00:02:02.340" end="00:02:15.000" style="s2">dort wurde ich notversorgt und noch zwei</p>
+<p begin="00:02:09.310" end="00:02:18.340" style="s2">drei augen fing ich probleme ich bildete</p>
+<p begin="00:02:15.000" end="00:02:23.580" style="s2">unterschenkel rechts und so ein beinahe</p>
+<p begin="00:02:18.340" end="00:02:26.670" style="s2">gleichen gift noch nicht bemerkt und</p>
+<p begin="00:02:23.580" end="00:02:30.099" style="s2">mein zustand schlecht dass sich sein</p>
+<p begin="00:02:26.670" end="00:02:35.629" style="s2">von stunde zu stunde</p>
+<p begin="00:02:30.099" end="00:02:37.069" style="s2">man legte mich fiel ins koma und von</p>
+<p begin="00:02:35.629" end="00:02:40.670" style="s2">diesem moment an</p>
+<p begin="00:02:37.069" end="00:02:42.200" style="s2">ich weiß jetzt nicht gleich von anfang</p>
+<p begin="00:02:40.670" end="00:02:45.349" style="s2">an war auf jeden fall</p>
+<p begin="00:02:42.200" end="00:02:52.430" style="s2">ich war drei wochen wurde mir nachher</p>
+<p begin="00:02:45.349" end="00:02:54.739" style="s2">gesagt im koma und ich erlebte ich kann</p>
+<p begin="00:02:52.430" end="00:02:58.099" style="s2">jetzt nicht sagen dass ich tot war</p>
+<p begin="00:02:54.739" end="00:03:02.120" style="s2">ich glaube ich habe nicht von oben appel</p>
+<p begin="00:02:58.099" end="00:03:07.129" style="s2">ich gehe mit einer sehr hohen</p>
+<p begin="00:03:02.120" end="00:03:09.530" style="s2">geschwindigkeit auf ein licht zu für</p>
+<p begin="00:03:07.129" end="00:03:13.280" style="s2">mich absolut neue was passiert mit</p>
+<p begin="00:03:09.530" end="00:03:19.780" style="s2">mehreren begriff das nicht als ich dort</p>
+<p begin="00:03:13.280" end="00:03:24.849" style="s2">war das war wie ein raum</p>
+<p begin="00:03:19.780" end="00:03:28.090" style="s2">aber ich fühlte mich wie gebrochen wie</p>
+<p begin="00:03:24.849" end="00:03:35.239" style="s2">nach hause zurückgekehrt nach langem</p>
+<p begin="00:03:28.090" end="00:03:40.970" style="s2">nach langer abwesenheit und ich möchte</p>
+<p begin="00:03:35.239" end="00:03:44.510" style="s2">auch eine anwesenheit an jemand der dort</p>
+<p begin="00:03:40.970" end="00:03:48.230" style="s2">wache das stört mich ob ich konnte ihn</p>
+<p begin="00:03:44.510" end="00:03:52.489" style="s2">nicht sehen ob ich wusste dass sie ist</p>
+<p begin="00:03:48.230" end="00:03:56.180" style="s2">es jemand dort das sagen hat</p>
+<p begin="00:03:52.489" end="00:03:57.019" style="s2">so sagte ich ihm ich möchte gerne</p>
+<p begin="00:03:56.180" end="00:04:00.349" style="s2">bleiben</p>
+<p begin="00:03:57.019" end="00:04:05.109" style="s2">das ist ziemlich gerade in ordnung weil</p>
+<p begin="00:04:00.349" end="00:04:08.660" style="s2">ich wusste ja mist aufdrehte mit mir</p>
+<p begin="00:04:05.109" end="00:04:13.069" style="s2">aussehen würde und ich fühlte mich dort</p>
+<p begin="00:04:08.660" end="00:04:17.359" style="s2">richtig geborgen wie mutlos immer</p>
+<p begin="00:04:13.069" end="00:04:20.150" style="s2">versand sagt und das gegenüber sagte mir</p>
+<p begin="00:04:17.359" end="00:04:24.740" style="s2">ich gerade nicht hier bleiben ich messe</p>
+<p begin="00:04:20.150" end="00:04:27.229" style="s2">zurück und ich hätte noch eine</p>
+<p begin="00:04:24.740" end="00:04:32.630" style="s2">aufenthalte noch diverse aufgaben zu</p>
+<p begin="00:04:27.229" end="00:04:35.690" style="s2">erledigen und ich war dieser antwort</p>
+<p begin="00:04:32.630" end="00:04:37.580" style="s2">nicht so einverstanden und insistierte</p>
+<p begin="00:04:35.690" end="00:04:40.099" style="s2">nochmal jahr</p>
+<p begin="00:04:37.580" end="00:04:42.259" style="s2">hätte doch die möglichkeit wie hier</p>
+<p begin="00:04:40.099" end="00:04:44.620" style="s2">sterben zu lassen und dann könnte hier</p>
+<p begin="00:04:42.259" end="00:04:48.199" style="s2">bleiben und alles wäre gut</p>
+<p begin="00:04:44.620" end="00:04:49.219" style="s2">und dann kommt der moment wo er sich zu</p>
+<p begin="00:04:48.199" end="00:04:51.889" style="s2">erkennen gab</p>
+<p begin="00:04:49.219" end="00:04:55.939" style="s2">er sagte mir nicht ich bin jesus</p>
+<p begin="00:04:51.889" end="00:05:04.610" style="s2">christus sondern ich wusste es sofort</p>
+<p begin="00:04:55.939" end="00:05:06.919" style="s2">weil er das sagte mein vater hat er die</p>
+<p begin="00:05:04.610" end="00:05:09.530" style="s2">auszahlung nicht gesagt so zu viele</p>
+<p begin="00:05:06.919" end="00:05:13.280" style="s2">jahre leben gegeben</p>
+<p begin="00:05:09.530" end="00:05:18.199" style="s2">die kann ich dir nicht wegnehmen du</p>
+<p begin="00:05:13.280" end="00:05:21.169" style="s2">musst sie ableben also erleben die jahre</p>
+<p begin="00:05:18.199" end="00:05:23.810" style="s2">und du hast noch aufgaben zu tun und</p>
+<p begin="00:05:21.169" end="00:05:26.930" style="s2">dann musste ich ohne apple dass er nie</p>
+<p begin="00:05:23.810" end="00:05:30.080" style="s2">das sagte dass das jesus christus ist</p>
+<p begin="00:05:26.930" end="00:05:33.740" style="s2">man niemand kommt zum vater denn durch</p>
+<p begin="00:05:30.080" end="00:05:39.620" style="s2">mich also anlaufstation ist lässt ist</p>
+<p begin="00:05:33.740" end="00:05:45.159" style="s2">dass ich direkt gottvater und und ich</p>
+<p begin="00:05:39.620" end="00:05:49.789" style="s2">wusste noch dass ich zurückkehren muss</p>
+<p begin="00:05:45.159" end="00:05:53.210" style="s2">und dass ich eben diese aufgaben die mir</p>
+<p begin="00:05:49.789" end="00:05:56.650" style="s2">auferlegt worden sind die muss ich noch</p>
+<p begin="00:05:53.210" end="00:06:03.069" style="s2">machen es gibt keine abkürzung für mich</p>
+<p begin="00:05:56.650" end="00:06:03.069" style="s2">und ich soll ich sagen</p>
+<p begin="00:06:04.180" end="00:06:14.779" style="s2">ich wusste auch dass ich wohl behütet</p>
+<p begin="00:06:09.919" end="00:06:17.569" style="s2">nachher wieder zurückkehren ohne ich</p>
+<p begin="00:06:14.779" end="00:06:21.139" style="s2">nachher im spital wurde mir gesagt dass</p>
+<p begin="00:06:17.569" end="00:06:23.569" style="s2">wahrscheinlich als mit dem gehirn</p>
+<p begin="00:06:21.139" end="00:06:26.960" style="s2">schaden einfachen würde wegen</p>
+<p begin="00:06:23.569" end="00:06:28.009" style="s2">sauerstoffmangel erlitten hatte und so</p>
+<p begin="00:06:26.960" end="00:06:30.229" style="s2">weiter und so fort</p>
+<p begin="00:06:28.009" end="00:06:32.089" style="s2">das wusste ich aber nicht weil ja in</p>
+<p begin="00:06:30.229" end="00:06:35.270" style="s2">einem montag</p>
+<p begin="00:06:32.089" end="00:06:40.580" style="s2">aber gott schickte mich ja zurück und</p>
+<p begin="00:06:35.270" end="00:06:42.080" style="s2">machte mich soweit gesund dass ich ja</p>
+<p begin="00:06:40.580" end="00:06:44.089" style="s2">was nützt es wenig wenn ich ihn</p>
+<p begin="00:06:42.080" end="00:06:47.240" style="s2">eingeschlagen hätte dann hätte ich ja</p>
+<p begin="00:06:44.089" end="00:06:48.670" style="s2">gar nichts mehr erreichen können auf der</p>
+<p begin="00:06:47.240" end="00:06:50.860" style="s2">erde</p>
+<p begin="00:06:48.670" end="00:06:54.540" style="s2">und da zeigt er noch diverse andere</p>
+<p begin="00:06:50.860" end="00:06:58.120" style="s2">dinge er zeigte mir</p>
+<p begin="00:06:54.540" end="00:07:01.840" style="s2">er zeigt mir auch einen grund den ich</p>
+<p begin="00:06:58.120" end="00:07:08.490" style="s2">als volksmund sagt hölle</p>
+<p begin="00:07:01.840" end="00:07:11.440" style="s2">ich sage mir zeigte ich habe keinen</p>
+<p begin="00:07:08.490" end="00:07:12.430" style="s2">treffe damit einer mistgabel oder</p>
+<p begin="00:07:11.440" end="00:07:18.700" style="s2">verlieren soll</p>
+<p begin="00:07:12.430" end="00:07:22.690" style="s2">ich sage einfach leere kälte gospos dass</p>
+<p begin="00:07:18.700" end="00:07:25.870" style="s2">das sowie über ein opfer und guckte ich</p>
+<p begin="00:07:22.690" end="00:07:28.810" style="s2">ihn unter und ich wusste es gibt auch</p>
+<p begin="00:07:25.870" end="00:07:33.900" style="s2">das andere nicht nur das göttliche es</p>
+<p begin="00:07:28.810" end="00:07:38.220" style="s2">gibt auch das gegenteilige und so und so</p>
+<p begin="00:07:33.900" end="00:07:41.860" style="s2">bekannte ich jesus christus meine fehler</p>
+<p begin="00:07:38.220" end="00:07:45.430" style="s2">dass ich falsch gelebt habe ich war sehr</p>
+<p begin="00:07:41.860" end="00:07:50.200" style="s2">viele bezogen also das heißt ich guckte</p>
+<p begin="00:07:45.430" end="00:07:56.620" style="s2">immer dass das wasser als meine müde</p>
+<p begin="00:07:50.200" end="00:08:00.220" style="s2">läuft ich war so einig mensch und machte</p>
+<p begin="00:07:56.620" end="00:08:04.300" style="s2">meine sollten ist gleich was ich kann</p>
+<p begin="00:08:00.220" end="00:08:07.750" style="s2">was ich mache einfach unglaubliche</p>
+<p begin="00:08:04.300" end="00:08:10.930" style="s2">sachen oder unredliche dinge und ich</p>
+<p begin="00:08:07.750" end="00:08:14.530" style="s2">dachte dass alles und konnte buße tun</p>
+<p begin="00:08:10.930" end="00:08:18.490" style="s2">das heißt anerkennen ich habe es falsch</p>
+<p begin="00:08:14.530" end="00:08:22.140" style="s2">getan jetzt kriegte seine seine</p>
+<p begin="00:08:18.490" end="00:08:25.080" style="s2">vergebung angenommen und den zeit her</p>
+<p begin="00:08:22.140" end="00:08:28.240" style="s2">ein etikett christ</p>
+<p begin="00:08:25.080" end="00:08:33.700" style="s2">das habe ich dann noch als ich als der</p>
+<p begin="00:08:28.240" end="00:08:36.729" style="s2">erde wieder als worte machte ich das was</p>
+<p begin="00:08:33.700" end="00:08:37.450" style="s2">ich gesehen und getan habe im himmel</p>
+<p begin="00:08:36.729" end="00:08:39.850" style="s2">oben</p>
+<p begin="00:08:37.450" end="00:08:42.520" style="s2">ich war nicht im himmel sondern es war</p>
+<p begin="00:08:39.850" end="00:08:45.340" style="s2">wie eine frau auf ich war nicht in der</p>
+<p begin="00:08:42.520" end="00:08:47.440" style="s2">absoluten ähnlichkeit das könnte das</p>
+<p begin="00:08:45.340" end="00:08:51.190" style="s2">kommen wir erst später dann hinein</p>
+<p begin="00:08:47.440" end="00:08:53.320" style="s2">aber ich war ja in einen vorhof machte</p>
+<p begin="00:08:51.190" end="00:08:54.360" style="s2">ich nach halt auf der erde und macht</p>
+<p begin="00:08:53.320" end="00:08:58.500" style="s2">nicht noch fest</p>
+<p begin="00:08:54.360" end="00:09:01.649" style="s2">jesus ich habe erkennt und bekennt und</p>
+<p begin="00:08:58.500" end="00:09:08.610" style="s2">jetzt gehe ich den lebensweg</p>
+<p begin="00:09:01.649" end="00:09:11.879" style="s2">mit dir und sei seit seit november 1990</p>
+<p begin="00:09:08.610" end="00:09:15.769" style="s2">habe ich habe ihnen eine freie</p>
+<p begin="00:09:11.879" end="00:09:19.309" style="s2">evangelische gemeinde der lese die bibel</p>
+<p begin="00:09:15.769" end="00:09:22.649" style="s2">bäte am morgen beete und am tag</p>
+<p begin="00:09:19.309" end="00:09:25.790" style="s2">verbringe meine zeit mit gott und mit</p>
+<p begin="00:09:22.649" end="00:09:29.929" style="s2">meinen mitmenschen und die mitmenschen</p>
+<p begin="00:09:25.790" end="00:09:35.550" style="s2">betrachte ich auch ganz anders</p>
+<p begin="00:09:29.929" end="00:09:38.399" style="s2">ich helfe gerne weise liebesdienste also</p>
+<p begin="00:09:35.550" end="00:09:42.660" style="s2">gefälligkeits dienste sehr gern meinen</p>
+<p begin="00:09:38.399" end="00:09:44.629" style="s2">mitmenschen versuch immer mit einen</p>
+<p begin="00:09:42.660" end="00:09:48.480" style="s2">menschen frieden zu haben</p>
+<p begin="00:09:44.629" end="00:09:53.929" style="s2">manchmal nicht ganz einfach um eine</p>
+<p begin="00:09:48.480" end="00:09:57.209" style="s2">komplette einstellung wurde geändert und</p>
+<p begin="00:09:53.929" end="00:10:00.300" style="s2">ich muss jetzt und ich will sagen ich</p>
+<p begin="00:09:57.209" end="00:10:04.199" style="s2">mit ich muss ich will sagen dass der</p>
+<p begin="00:10:00.300" end="00:10:12.439" style="s2">unfall so tragisch er ist mir doch zu</p>
+<p begin="00:10:04.199" end="00:10:16.559" style="s2">sägen wurde weil ich so immens im einzel</p>
+<p begin="00:10:12.439" end="00:10:19.220" style="s2">sagen horizont erweiterung bekommen habe</p>
+<p begin="00:10:16.559" end="00:10:24.360" style="s2">die ich sonst nie bekommen hätte</p>
+<p begin="00:10:19.220" end="00:10:27.559" style="s2">ich weiß jetzt warum wir leben was wir</p>
+<p begin="00:10:24.360" end="00:10:30.660" style="s2">leben wie ich mich verhalten soll</p>
+<p begin="00:10:27.559" end="00:10:34.050" style="s2">zentrum freut abstiegsangst und ich</p>
+<p begin="00:10:30.660" end="00:10:36.929" style="s2">dachte immer dass gott existiert</p>
+<p begin="00:10:34.050" end="00:10:42.800" style="s2">vermutlich war dies immer glaubt hin und</p>
+<p begin="00:10:36.929" end="00:10:47.549" style="s2">her und so und was danach war als ich</p>
+<p begin="00:10:42.800" end="00:10:50.100" style="s2">dachte dass alles was ich erlebt habe</p>
+<p begin="00:10:47.549" end="00:10:53.459" style="s2">ich habe ja auch sehr viele dinge erlebt</p>
+<p begin="00:10:50.100" end="00:10:56.009" style="s2">ich habe das buch des lebens gesehen ein</p>
+<p begin="00:10:53.459" end="00:10:58.860" style="s2">leuchten ins buch wir werden alle</p>
+<p begin="00:10:56.009" end="00:11:01.860" style="s2">christen also alle die sich zu jesus</p>
+<p begin="00:10:58.860" end="00:11:04.870" style="s2">christus erkennen und wiedergeboren sind</p>
+<p begin="00:11:01.860" end="00:11:08.980" style="s2">neben eingeschrieben</p>
+<p begin="00:11:04.870" end="00:11:11.800" style="s2">ein inventar oder das buch hab ich</p>
+<p begin="00:11:08.980" end="00:11:16.020" style="s2">gesehen ich habe alles gesehen</p>
+<p begin="00:11:11.800" end="00:11:20.260" style="s2">ich habe die vater-sohn-beziehung ende</p>
+<p begin="00:11:16.020" end="00:11:23.320" style="s2">bekam so viele dinge mit die in der die</p>
+<p begin="00:11:20.260" end="00:11:27.760" style="s2">ich nachher in der schrift nachlesen</p>
+<p begin="00:11:23.320" end="00:11:30.610" style="s2">konnte also dann war für mich das wie</p>
+<p begin="00:11:27.760" end="00:11:33.640" style="s2">ein beweis ich habe das nicht irgendwie</p>
+<p begin="00:11:30.610" end="00:11:35.589" style="s2">gekrönt doch da die schmerzmittel die</p>
+<p begin="00:11:33.640" end="00:11:38.970" style="s2">ich bekommen habe dass moscheen und</p>
+<p begin="00:11:35.589" end="00:11:43.860" style="s2">alles sondern ich habe das erlebt ich</p>
+<p begin="00:11:38.970" end="00:11:47.529" style="s2">gehe ohne bibel wissen in das komma</p>
+<p begin="00:11:43.860" end="00:11:51.910" style="s2">kehrte mit riesigen beetle wissen aus</p>
+<p begin="00:11:47.529" end="00:11:55.240" style="s2">der aus dem koma zurück dass das das ist</p>
+<p begin="00:11:51.910" end="00:12:01.810" style="s2">für mich heute noch phänomenal dass ich</p>
+<p begin="00:11:55.240" end="00:12:03.670" style="s2">da so erleben durfte und ich hatte das</p>
+<p begin="00:12:01.810" end="00:12:08.770" style="s2">natürlich meine verwandtschaft und</p>
+<p begin="00:12:03.670" end="00:12:11.310" style="s2">meinen folgten und viele konnten das</p>
+<p begin="00:12:08.770" end="00:12:14.529" style="s2">seien sehr interessante geschichte</p>
+<p begin="00:12:11.310" end="00:12:17.279" style="s2">sie akzeptiert und das und eindruck</p>
+<p begin="00:12:14.529" end="00:12:19.870" style="s2">haben dass sagte ja wir werden sehen</p>
+<p begin="00:12:17.279" end="00:12:24.910" style="s2">bringt nicht so einverstanden</p>
+<p begin="00:12:19.870" end="00:12:29.080" style="s2">gut ich auf jeden fall bin gott dankbar</p>
+<p begin="00:12:24.910" end="00:12:31.300" style="s2">für dieses erlebnis für diesen unfall</p>
+<p begin="00:12:29.080" end="00:12:34.930" style="s2">und für dieses erlebnis die dass ich</p>
+<p begin="00:12:31.300" end="00:12:38.850" style="s2">nachher hatte weil ich jetzt eine ganz</p>
+<p begin="00:12:34.930" end="00:12:45.400" style="s2">andere gesehen und bekommen habe und</p>
+<p begin="00:12:38.850" end="00:12:48.520" style="s2">konntest du sorgt er seitdem immer noch</p>
+<p begin="00:12:45.400" end="00:12:51.910" style="s2">machen bei antritt dinge wie ich bekomme</p>
+<p begin="00:12:48.520" end="00:12:55.570" style="s2">noch zwei oben also zwei graben</p>
+<p begin="00:12:51.910" end="00:12:56.890" style="s2">ich war ja klar nicht frei rat und der</p>
+<p begin="00:12:55.570" end="00:12:59.260" style="s2">hatte keine familie</p>
+<p begin="00:12:56.890" end="00:13:02.529" style="s2">er zeigte mir aber dass ich zweierlei</p>
+<p begin="00:12:59.260" end="00:13:05.110" style="s2">tun haben werden bekommt auch die größe</p>
+<p begin="00:13:02.529" end="00:13:06.670" style="s2">sei und es stimmt alles das trifft alles</p>
+<p begin="00:13:05.110" end="00:13:09.670" style="s2">ziemlich habe zwei knappen und</p>
+<p begin="00:13:06.670" end="00:13:13.240" style="s2">einheitsgröße kommt ein begleiter und so</p>
+<p begin="00:13:09.670" end="00:13:16.390" style="s2">er zeigte mir auch ein bisschen von der</p>
+<p begin="00:13:13.240" end="00:13:17.379" style="s2">zukunft wie es nach der welt zu und her</p>
+<p begin="00:13:16.390" end="00:13:19.839" style="s2">gehen</p>
+<p begin="00:13:17.379" end="00:13:23.470" style="s2">verena wriedt kommt bevor berichtet</p>
+<p begin="00:13:19.839" end="00:13:26.169" style="s2">kommt das habe ich 25 jahre lang nicht</p>
+<p begin="00:13:23.470" end="00:13:32.739" style="s2">gesehen jetzt die letzten fünf jahre</p>
+<p begin="00:13:26.169" end="00:13:35.979" style="s2">sind enorm was was abläufe jetzt in</p>
+<p begin="00:13:32.739" end="00:13:40.389" style="s2">bewegung gekommen sind um kommen werden</p>
+<p begin="00:13:35.979" end="00:13:42.119" style="s2">ich vorher nicht sauer oder und dass ich</p>
+<p begin="00:13:40.389" end="00:13:45.849" style="s2">dir alleine zu sorgen</p>
+<p begin="00:13:42.119" end="00:13:48.970" style="s2">ich komme wieder und wer die meinigen</p>
+<p begin="00:13:45.849" end="00:13:54.029" style="s2">einholen muss man spricht dann von der</p>
+<p begin="00:13:48.970" end="00:13:59.229" style="s2">entrückung das kann man auch lesen und</p>
+<p begin="00:13:54.029" end="00:14:07.229" style="s2">ich auf jeden fall habe keine angst mehr</p>
+<p begin="00:13:59.229" end="00:14:11.409" style="s2">vorm tod wie sterben könnte das könnte</p>
+<p begin="00:14:07.229" end="00:14:14.409" style="s2">böse sein ja ich könnte eine schwere</p>
+<p begin="00:14:11.409" end="00:14:17.769" style="s2">krankheit krebs weiß nicht was könnte</p>
+<p begin="00:14:14.409" end="00:14:20.289" style="s2">schmerzhaft sein aber vom tod wenn ich</p>
+<p begin="00:14:17.769" end="00:14:21.999" style="s2">dann mal nicht mehr bin ich weiß wo</p>
+<p begin="00:14:20.289" end="00:14:24.639" style="s2">meine seele gut</p>
+<p begin="00:14:21.999" end="00:14:27.939" style="s2">und zwar beim herr jesus christus war</p>
+<p begin="00:14:24.639" end="00:14:32.369" style="s2">gott fordert und das ist für mich auch</p>
+<p begin="00:14:27.939" end="00:14:36.249" style="s2">sehr im herzen eine sehr große</p>
+<p begin="00:14:32.369" end="00:14:41.819" style="s2">erheiterung im spiele ich habe keine</p>
+<p begin="00:14:36.249" end="00:14:45.789" style="s2">angst mehr vorm städten also vom tod der</p>
+<p begin="00:14:41.819" end="00:14:53.519" style="s2">ungezählten menschen kommt es lebt kein</p>
+<p begin="00:14:45.789" end="00:14:59.919" style="s2">keim ja so dass ist das so einmal gold</p>
+<p begin="00:14:53.519" end="00:15:03.039" style="s2">abläufe den ich erlebt habe waren sie</p>
+<p begin="00:14:59.919" end="00:15:06.879" style="s2">sofort nach dem aufwachen aus diesen</p>
+<p begin="00:15:03.039" end="00:15:09.159" style="s2">komma überzeugt davon dass es diese</p>
+<p begin="00:15:06.879" end="00:15:09.819" style="s2">jenseits welt gibt und das leben nach</p>
+<p begin="00:15:09.159" end="00:15:13.209" style="s2">dem tod</p>
+<p begin="00:15:09.819" end="00:15:18.939" style="s2">oder hatten sie vorerst noch zweifel an</p>
+<p begin="00:15:13.209" end="00:15:21.669" style="s2">den ganzen ich warte auf das ging ja von</p>
+<p begin="00:15:18.939" end="00:15:24.849" style="s2">einer sekunde zur ortung also ich</p>
+<p begin="00:15:21.669" end="00:15:27.369" style="s2">palette dass es ebenfalls so weil dort</p>
+<p begin="00:15:24.849" end="00:15:30.140" style="s2">oben gibt es ja keine zeit ich ich</p>
+<p begin="00:15:27.369" end="00:15:32.720" style="s2">wusste dass ich drei wochen dort war</p>
+<p begin="00:15:30.140" end="00:15:36.080" style="s2">und die kommunikation war er geistig</p>
+<p begin="00:15:32.720" end="00:15:38.480" style="s2">also nicht mit worten über die liebe</p>
+<p begin="00:15:36.080" end="00:15:41.000" style="s2">sondern alles mental und ich musste nie</p>
+<p begin="00:15:38.480" end="00:15:44.660" style="s2">fragen ein zweites ich habe ich nicht</p>
+<p begin="00:15:41.000" end="00:15:48.350" style="s2">verstanden wiederholen bitte nur das als</p>
+<p begin="00:15:44.660" end="00:15:50.690" style="s2">einschub also ich wachte auf dem bett</p>
+<p begin="00:15:48.350" end="00:15:52.300" style="s2">alf das ging machte wumms und dann war</p>
+<p begin="00:15:50.690" end="00:15:54.740" style="s2">es wieder und dann hatte ich die</p>
+<p begin="00:15:52.300" end="00:15:57.410" style="s2">schwerkraft gravitation hatte ich wieder</p>
+<p begin="00:15:54.740" end="00:16:00.620" style="s2">ich musste atmen und ich wusste jetzt</p>
+<p begin="00:15:57.410" end="00:16:03.890" style="s2">wieder aufdrehte also mein körper ist</p>
+<p begin="00:16:00.620" end="00:16:05.660" style="s2">mit der seele wieder 1 und ich wusste</p>
+<p begin="00:16:03.890" end="00:16:09.080" style="s2">von dieser sekunde haben</p>
+<p begin="00:16:05.660" end="00:16:10.370" style="s2">von jetzt dann gehe ich den weg mit dem</p>
+<p begin="00:16:09.080" end="00:16:13.580" style="s2">herrn jesus christus</p>
+<p begin="00:16:10.370" end="00:16:18.410" style="s2">das habe ich nicht fiktion abgetan das</p>
+<p begin="00:16:13.580" end="00:16:20.870" style="s2">ist so hell wie ich halte mit ihnen rede</p>
+<p begin="00:16:18.410" end="00:16:24.050" style="s2">ich kann das alles abrufen und mein</p>
+<p begin="00:16:20.870" end="00:16:29.020" style="s2">leben hat keine kommission über diese</p>
+<p begin="00:16:24.050" end="00:16:32.810" style="s2">zeit war mir sondern klar dass ich das</p>
+<p begin="00:16:29.020" end="00:16:34.810" style="s2">erlebt habe und ich machte das im</p>
+<p begin="00:16:32.810" end="00:16:38.900" style="s2">spitalbett noch mal fest</p>
+<p begin="00:16:34.810" end="00:16:42.110" style="s2">ich sagte jesus das was ich oben erlebt</p>
+<p begin="00:16:38.900" end="00:16:45.020" style="s2">habe mich jetzt halt nochmal festmachen</p>
+<p begin="00:16:42.110" end="00:16:48.620" style="s2">es ist ja mein körper wieder eins mit</p>
+<p begin="00:16:45.020" end="00:16:51.110" style="s2">der seele geist ich wähle ich habe mich</p>
+<p begin="00:16:48.620" end="00:16:54.170" style="s2">gekehrt dort oben ich bekenne mich hier</p>
+<p begin="00:16:51.110" end="00:16:55.460" style="s2">unten noch einmal mache diesen dieses</p>
+<p begin="00:16:54.170" end="00:16:59.030" style="s2">bekenntnis fest</p>
+<p begin="00:16:55.460" end="00:17:01.790" style="s2">und ich will mit dir mein rest meines</p>
+<p begin="00:16:59.030" end="00:17:06.020" style="s2">lebens gehen und dann geh ich jetzt</p>
+<p begin="00:17:01.790" end="00:17:08.959" style="s2">schon 1990 bis jetzt ins 31 jahre und</p>
+<p begin="00:17:06.020" end="00:17:12.130" style="s2">ich bereue keine gute dass ich diesen</p>
+<p begin="00:17:08.959" end="00:17:12.130" style="s2">schritt getan habe</p>
+<p begin="00:17:12.510" end="00:17:18.240" style="s2">und sie haben das buch des lebens</p>
+<p begin="00:17:14.370" end="00:17:20.130" style="s2">erwähnt manche meinen ja dass die</p>
+<p begin="00:17:18.240" end="00:17:21.750" style="s2">menschen die da drinnen erwähnt sind die</p>
+<p begin="00:17:20.130" end="00:17:24.240" style="s2">stehen bereits fest aber sie haben</p>
+<p begin="00:17:21.750" end="00:17:27.420" style="s2">gesagt da werden menschen hinein</p>
+<p begin="00:17:24.240" end="00:17:29.700" style="s2">geschrieben die sich bekennen das heißt</p>
+<p begin="00:17:27.420" end="00:17:30.860" style="s2">wer da drinnen steht das kann sich auch</p>
+<p begin="00:17:29.700" end="00:17:35.430" style="s2">verändern</p>
+<p begin="00:17:30.860" end="00:17:39.990" style="s2">das heißt sollen also ich sage ja das</p>
+<p begin="00:17:35.430" end="00:17:44.220" style="s2">buch und dann sagte mir ich sei noch</p>
+<p begin="00:17:39.990" end="00:17:47.880" style="s2">nicht eingeschrieben noch nicht weil ich</p>
+<p begin="00:17:44.220" end="00:17:53.210" style="s2">mich noch nicht geklärt habe noch nicht</p>
+<p begin="00:17:47.880" end="00:17:56.450" style="s2">ja gesagt habe zu jesus und wenn man</p>
+<p begin="00:17:53.210" end="00:18:00.660" style="s2">einmal ja gesagt hat sich wirklich</p>
+<p begin="00:17:56.450" end="00:18:03.930" style="s2">bekehrt hat zu dieser kommt zu dem dann</p>
+<p begin="00:18:00.660" end="00:18:05.790" style="s2">wird man ein geschrieben und gott macht</p>
+<p begin="00:18:03.930" end="00:18:08.580" style="s2">es mit einem zu ende</p>
+<p begin="00:18:05.790" end="00:18:10.950" style="s2">also man muss nicht einmal angeschrieben</p>
+<p begin="00:18:08.580" end="00:18:14.130" style="s2">und damit wieder ein radiergummi</p>
+<p begin="00:18:10.950" end="00:18:17.970" style="s2">genommen und mit mancher gelöscht dann</p>
+<p begin="00:18:14.130" end="00:18:20.910" style="s2">ist man von einem geschöpf gottes zu</p>
+<p begin="00:18:17.970" end="00:18:22.140" style="s2">einem kick gottes geworden geschöpfe</p>
+<p begin="00:18:20.910" end="00:18:25.380" style="s2">gottes sind wir alle</p>
+<p begin="00:18:22.140" end="00:18:28.380" style="s2">nachdem auf der räte aber kind gottes</p>
+<p begin="00:18:25.380" end="00:18:32.820" style="s2">werden mehr durch die bekehrung zu</p>
+<p begin="00:18:28.380" end="00:18:35.790" style="s2">christus und die zusage ist denn wer</p>
+<p begin="00:18:32.820" end="00:18:38.520" style="s2">sich um den vater bekennt er hat das</p>
+<p begin="00:18:35.790" end="00:18:41.420" style="s2">ewige leben und wenn wir diesen schritt</p>
+<p begin="00:18:38.520" end="00:18:44.910" style="s2">einmal von herzen nicht als sieg mehr</p>
+<p begin="00:18:41.420" end="00:18:48.000" style="s2">ideologischen gründen erhalten hätte ein</p>
+<p begin="00:18:44.910" end="00:18:50.220" style="s2">vorteil erwirtschaften sondern es muss</p>
+<p begin="00:18:48.000" end="00:18:52.470" style="s2">von herzen nicht vom kopf sondern vom</p>
+<p begin="00:18:50.220" end="00:18:55.110" style="s2">herzen geschehen dann geht man rein</p>
+<p begin="00:18:52.470" end="00:18:57.810" style="s2">geschrieben und dann ist das dringend</p>
+<p begin="00:18:55.110" end="00:18:59.280" style="s2">das ist wie in stein gemeißelt dass wir</p>
+<p begin="00:18:57.810" end="00:19:04.040" style="s2">bald nicht mehr alles gelöscht</p>
+<p begin="00:18:59.280" end="00:19:08.460" style="s2">in stein gemeißelt ist ist das</p>
+<p begin="00:19:04.040" end="00:19:10.590" style="s2">überlassen ja so ist es so aus ihrer</p>
+<p begin="00:19:08.460" end="00:19:14.250" style="s2">sicht kommt es darauf an dass das eine</p>
+<p begin="00:19:10.590" end="00:19:16.740" style="s2">herzensentscheidung ist heißt das dass</p>
+<p begin="00:19:14.250" end="00:19:19.910" style="s2">ein kirchliches ritual oder eine</p>
+<p begin="00:19:16.740" end="00:19:23.280" style="s2">konfession oder so etwas dazu nicht</p>
+<p begin="00:19:19.910" end="00:19:24.360" style="s2">notwendig ist absolut nicht</p>
+<p begin="00:19:23.280" end="00:19:27.420" style="s2">das ist wirklich eine</p>
+<p begin="00:19:24.360" end="00:19:31.140" style="s2">herzensentscheidung ich habe mich ich</p>
+<p begin="00:19:27.420" end="00:19:34.170" style="s2">bin ja aus kind getauft worden</p>
+<p begin="00:19:31.140" end="00:19:36.870" style="s2">das kennt das geniale nur diese käufe</p>
+<p begin="00:19:34.170" end="00:19:39.780" style="s2">die zählt eigentlich nicht da bin ich ja</p>
+<p begin="00:19:36.870" end="00:19:40.860" style="s2">kleinkind mit 5 8 monaten oder wie</p>
+<p begin="00:19:39.780" end="00:19:42.960" style="s2">albert hemer</p>
+<p begin="00:19:40.860" end="00:19:45.750" style="s2">da kann ich ja nicht sagen ich werde nie</p>
+<p begin="00:19:42.960" end="00:19:49.080" style="s2">weg mit jesus gehen sondern als</p>
+<p begin="00:19:45.750" end="00:19:50.510" style="s2">erwachsener ab kann man das machen und</p>
+<p begin="00:19:49.080" end="00:19:54.690" style="s2">ich habe mich verhört</p>
+<p begin="00:19:50.510" end="00:19:57.210" style="s2">ein jahr nach dem komma ganze geschichte</p>
+<p begin="00:19:54.690" end="00:19:59.850" style="s2">aber ich mich aus erwachsen abhalten</p>
+<p begin="00:19:57.210" end="00:20:02.760" style="s2">lassen da gibt es in halsbek in</p>
+<p begin="00:19:59.850" end="00:20:05.430" style="s2">unterwegs fragen gesegnet und damit man</p>
+<p begin="00:20:02.760" end="00:20:08.040" style="s2">unter gepackt und dann ist habe ich mich</p>
+<p begin="00:20:05.430" end="00:20:09.590" style="s2">nochmal treffen lassen im namen jesu</p>
+<p begin="00:20:08.040" end="00:20:12.570" style="s2">christus</p>
+<p begin="00:20:09.590" end="00:20:14.880" style="s2">das ist aber ein nun ein gehorsam</p>
+<p begin="00:20:12.570" end="00:20:17.580" style="s2">schritt dass ich bin dadurch nicht</p>
+<p begin="00:20:14.880" end="00:20:20.850" style="s2">erwartet ich habe nicht noch mehr</p>
+<p begin="00:20:17.580" end="00:20:25.680" style="s2">vorteile im himmel wegen denke es ist</p>
+<p begin="00:20:20.850" end="00:20:28.890" style="s2">ein 1 1 gehorsam schritt dem thema macht</p>
+<p begin="00:20:25.680" end="00:20:32.550" style="s2">und eben wie gesagt es ist alles ein</p>
+<p begin="00:20:28.890" end="00:20:35.550" style="s2">herzensentscheidung nicht ausrechnen</p>
+<p begin="00:20:32.550" end="00:20:39.720" style="s2">welche vorteile könnte ich da durch</p>
+<p begin="00:20:35.550" end="00:20:43.800" style="s2">wirtschaften und das ist hier nicht kopf</p>
+<p begin="00:20:39.720" end="00:20:46.140" style="s2">wissen ja es ist sogar bei ihnen</p>
+<p begin="00:20:43.800" end="00:20:48.660" style="s2">persönlich diese herzensentscheidung war</p>
+<p begin="00:20:46.140" end="00:20:53.250" style="s2">dass ein bestimmter zeitpunkt oder war</p>
+<p begin="00:20:48.660" end="00:20:56.910" style="s2">das ein prozess über mehrere tage oder</p>
+<p begin="00:20:53.250" end="00:20:59.970" style="s2">wochen bei mir ist ganz speziell gewesen</p>
+<p begin="00:20:56.910" end="00:21:03.900" style="s2">ich habe mich ja im in jener zeit schon</p>
+<p begin="00:20:59.970" end="00:21:06.810" style="s2">entschieden für diesen schritt musste</p>
+<p begin="00:21:03.900" end="00:21:09.960" style="s2">aber als ich im spitalbett alf achte ich</p>
+<p begin="00:21:06.810" end="00:21:13.170" style="s2">muss das noch mal tun also wie vor schon</p>
+<p begin="00:21:09.960" end="00:21:16.500" style="s2">erwähnt habe der körper und begeistert</p>
+<p begin="00:21:13.170" end="00:21:19.440" style="s2">wieder eins und dann tag ist noch einmal</p>
+<p begin="00:21:16.500" end="00:21:22.020" style="s2">also das war aber mehr nicht ein prozess</p>
+<p begin="00:21:19.440" end="00:21:24.960" style="s2">über monate die jahre als ich mich</p>
+<p begin="00:21:22.020" end="00:21:28.410" style="s2">entschieden habe sondern ich habe es das</p>
+<p begin="00:21:24.960" end="00:21:30.990" style="s2">hauptsache kommt und da gesagt wie wenn</p>
+<p begin="00:21:28.410" end="00:21:33.180" style="s2">mich meine frau etwas sagt und die sorge</p>
+<p begin="00:21:30.990" end="00:21:34.950" style="s2">ja oder nein ich muss nicht noch einen</p>
+<p begin="00:21:33.180" end="00:21:37.200" style="s2">hoch hält regen ja soll ich jetzt was</p>
+<p begin="00:21:34.950" end="00:21:38.960" style="s2">soll ich sagen oder sondern das war für</p>
+<p begin="00:21:37.200" end="00:21:42.150" style="s2">mich sonnenklar</p>
+<p begin="00:21:38.960" end="00:21:47.640" style="s2">soso glaube wie mir wie keine andere</p>
+<p begin="00:21:42.150" end="00:21:51.600" style="s2">frage die ich im leben hatte haben sie</p>
+<p begin="00:21:47.640" end="00:21:55.410" style="s2">während dieser zeit oder während diesen</p>
+<p begin="00:21:51.600" end="00:22:02.510" style="s2">zustande im jenseits auch mit anderen</p>
+<p begin="00:21:55.410" end="00:22:07.530" style="s2">zielen kommuniziert mein traum war</p>
+<p begin="00:22:02.510" end="00:22:10.200" style="s2">eindeutig und jesus aber jesus ich sage</p>
+<p begin="00:22:07.530" end="00:22:13.010" style="s2">nicht ich wende mich immer dort wo ich</p>
+<p begin="00:22:10.200" end="00:22:19.350" style="s2">die stimme hört der wende ich mich dazu</p>
+<p begin="00:22:13.010" end="00:22:23.220" style="s2">nicht das einzige was ich dann einmal</p>
+<p begin="00:22:19.350" end="00:22:29.430" style="s2">sagen auch meine konnte sie lebte aber</p>
+<p begin="00:22:23.220" end="00:22:32.220" style="s2">zu dieser zeit aufdrehte ob ich sage das</p>
+<p begin="00:22:29.430" end="00:22:36.390" style="s2">kann ich heute noch nicht genau</p>
+<p begin="00:22:32.220" end="00:22:40.140" style="s2">definieren was wo man sich das so</p>
+<p begin="00:22:36.390" end="00:22:43.110" style="s2">gesehen habe sie war auch eine gläubige</p>
+<p begin="00:22:40.140" end="00:22:45.000" style="s2">frau mittlerweile ist ja auch schon 13</p>
+<p begin="00:22:43.110" end="00:22:48.660" style="s2">jahre gestorben ist jetzt halt in</p>
+<p begin="00:22:45.000" end="00:22:50.190" style="s2">england eine parade mit anderen habe ich</p>
+<p begin="00:22:48.660" end="00:22:53.610" style="s2">nicht kommuniziert was ich gesehen habe</p>
+<p begin="00:22:50.190" end="00:22:56.610" style="s2">war wunderbar fragen die gibt es gar</p>
+<p begin="00:22:53.610" end="00:23:00.110" style="s2">nichts hier unten kann ich nicht</p>
+<p begin="00:22:56.610" end="00:23:02.910" style="s2">erklären und bunt und er so der</p>
+<p begin="00:23:00.110" end="00:23:06.270" style="s2">instrumentalmusik hab ich halte mich</p>
+<p begin="00:23:02.910" end="00:23:10.100" style="s2">gerne dass diese werte und eben diese</p>
+<p begin="00:23:06.270" end="00:23:13.050" style="s2">liebe sie müssen sich vorstellen</p>
+<p begin="00:23:10.100" end="00:23:16.430" style="s2">liebe war so konzentriert das könnte man</p>
+<p begin="00:23:13.050" end="00:23:20.220" style="s2">ein messer im stück rausschneiden messen</p>
+<p begin="00:23:16.430" end="00:23:24.420" style="s2">aber das war nicht und doch war es liebe</p>
+<p begin="00:23:20.220" end="00:23:30.350" style="s2">die akp liebe was liebe ist sex das ist</p>
+<p begin="00:23:24.420" end="00:23:34.200" style="s2">eine liebe die liebe die die die giebel</p>
+<p begin="00:23:30.350" end="00:23:37.860" style="s2">nennt ist die angabe liebe das heißt man</p>
+<p begin="00:23:34.200" end="00:23:41.120" style="s2">opfert sich auf ran.de an hedl standort</p>
+<p begin="00:23:37.860" end="00:23:45.650" style="s2">so dass und jesus hat</p>
+<p begin="00:23:41.120" end="00:23:48.050" style="s2">ihr leben ließen trotzdem macht und so</p>
+<p begin="00:23:45.650" end="00:23:52.850" style="s2">haben sich nur 21 jahren ich geflucht</p>
+<p begin="00:23:48.050" end="00:23:56.750" style="s2">habe und endlich voran rauball</p>
+<p begin="00:23:52.850" end="00:23:59.540" style="s2">das war ein richtiger alkohol und da hat</p>
+<p begin="00:23:56.750" end="00:24:02.210" style="s2">nicht angenommen wo man mich angenommen</p>
+<p begin="00:23:59.540" end="00:24:04.640" style="s2">hat das heißt bis heute nicht wo man</p>
+<p begin="00:24:02.210" end="00:24:10.760" style="s2">sich diese vorziehen vorzugsrecht habe</p>
+<p begin="00:24:04.640" end="00:24:12.980" style="s2">dass er sich mit mir abgegeben hat ich</p>
+<p begin="00:24:10.760" end="00:24:16.040" style="s2">hatte wie eine privataudienz beim papst</p>
+<p begin="00:24:12.980" end="00:24:19.910" style="s2">doppel das ist ja das höchste der</p>
+<p begin="00:24:16.040" end="00:24:22.000" style="s2">gefühle aber die hdtv alliance stellt</p>
+<p begin="00:24:19.910" end="00:24:25.970" style="s2">sich das vor</p>
+<p begin="00:24:22.000" end="00:24:28.929" style="s2">ich war und nichts wissen wollte hat</p>
+<p begin="00:24:25.970" end="00:24:32.950" style="s2">mehr ein um voll zukommen lassen in como</p>
+<p begin="00:24:28.929" end="00:24:35.900" style="s2">sprachen mit mir nahm sich zeit mit mir</p>
+<p begin="00:24:32.950" end="00:24:39.050" style="s2">mit dem benedetto pannen sich die man</p>
+<p begin="00:24:35.900" end="00:24:41.270" style="s2">sich zeit und um um zur echten auf</p>
+<p begin="00:24:39.050" end="00:24:43.670" style="s2">deutsch gesagt oder und schenkte mir</p>
+<p begin="00:24:41.270" end="00:24:46.760" style="s2">noch obendrauf das ewige leben weil ich</p>
+<p begin="00:24:43.670" end="00:24:49.720" style="s2">das erkennen konnte dass ich falsch</p>
+<p begin="00:24:46.760" end="00:24:52.580" style="s2">gelebt habe es zunächst kompost ich</p>
+<p begin="00:24:49.720" end="00:24:53.890" style="s2">könnte eine million mal danke sagen es</p>
+<p begin="00:24:52.580" end="00:24:56.540" style="s2">wird nicht reichen</p>
+<p begin="00:24:53.890" end="00:24:58.520" style="s2">also hatten sie irgendwie das gefühl</p>
+<p begin="00:24:56.540" end="00:25:00.520" style="s2">dass sie das vielleicht gar nicht</p>
+<p begin="00:24:58.520" end="00:25:04.100" style="s2">verdient hätten</p>
+<p begin="00:25:00.520" end="00:25:09.890" style="s2">also wenn ich wenn ich auf mein altes</p>
+<p begin="00:25:04.100" end="00:25:14.900" style="s2">leben zurück wie ich gesagt habe ist</p>
+<p begin="00:25:09.890" end="00:25:17.710" style="s2">gleich wie tekken oder tot sind und</p>
+<p begin="00:25:14.900" end="00:25:20.929" style="s2">nicht so eine gewissensfrage</p>
+<p begin="00:25:17.710" end="00:25:23.870" style="s2">was glauben sie dann ist mit ist mit</p>
+<p begin="00:25:20.929" end="00:25:26.480" style="s2">menschen die ihr ganzes leben lang</p>
+<p begin="00:25:23.870" end="00:25:32.000" style="s2">nichts von jesus und gott hören</p>
+<p begin="00:25:26.480" end="00:25:35.410" style="s2">irgendwo auf der welt das ist eine gute</p>
+<p begin="00:25:32.000" end="00:25:40.160" style="s2">frage die wir brauchen</p>
+<p begin="00:25:35.410" end="00:25:44.290" style="s2">gottvater schon beantworten weil er ist</p>
+<p begin="00:25:40.160" end="00:25:49.190" style="s2">einmal wissen es gibt leute die wirklich</p>
+<p begin="00:25:44.290" end="00:25:52.540" style="s2">sollen die gefüllt und von augen- oder</p>
+<p begin="00:25:49.190" end="00:25:56.419" style="s2">weiß ich wo noch nie etwas über gott</p>
+<p begin="00:25:52.540" end="00:25:59.030" style="s2">habe das entscheidet nach gottes kann</p>
+<p begin="00:25:56.419" end="00:26:04.490" style="s2">ich das kann ich ihnen nicht sagen muss</p>
+<p begin="00:25:59.030" end="00:26:08.660" style="s2">was ist ob er die ganze also ich sage</p>
+<p begin="00:26:04.490" end="00:26:12.110" style="s2">jetzt mal 90 95 prozent erhält auch der</p>
+<p begin="00:26:08.660" end="00:26:15.590" style="s2">islam kennt christus und kennt die bibel</p>
+<p begin="00:26:12.110" end="00:26:17.660" style="s2">sie weiß dass die vorhanden ist und und</p>
+<p begin="00:26:15.590" end="00:26:20.000" style="s2">durch regis nationen durch die</p>
+<p begin="00:26:17.660" end="00:26:23.120" style="s2">missionare in der ganzen welt seit</p>
+<p begin="00:26:20.000" end="00:26:28.030" style="s2">hunderten von jahren ist ist das schon</p>
+<p begin="00:26:23.120" end="00:26:32.240" style="s2">bald bekommt dass es einen gott gibt es</p>
+<p begin="00:26:28.030" end="00:26:33.980" style="s2">gibt dezentral also dass ich da einer</p>
+<p begin="00:26:32.240" end="00:26:38.690" style="s2">kann sagen ich habe noch nie etwas</p>
+<p begin="00:26:33.980" end="00:26:43.840" style="s2">gehört ist schon schwierig heute rollen</p>
+<p begin="00:26:38.690" end="00:26:48.799" style="s2">mit den ganzen kommunikationsmethoden</p>
+<p begin="00:26:43.840" end="00:26:50.660" style="s2">viele menschen sagen ja das also gerade</p>
+<p begin="00:26:48.799" end="00:26:52.520" style="s2">auch aufgrund solcher nahtoderfahrungen</p>
+<p begin="00:26:50.660" end="00:26:54.280" style="s2">wenn sie eigene nato der frauen hatten</p>
+<p begin="00:26:52.520" end="00:26:56.690" style="s2">sagen viele menschen dass sie</p>
+<p begin="00:26:54.280" end="00:26:58.900" style="s2">ursprünglich aus diesem licht sind und</p>
+<p begin="00:26:56.690" end="00:27:02.299" style="s2">schon vor der körperlichen geburt</p>
+<p begin="00:26:58.900" end="00:27:04.549" style="s2">existiert haben als seele und dass sie</p>
+<p begin="00:27:02.299" end="00:27:09.190" style="s2">eben ursprünglich aus diesem licht</p>
+<p begin="00:27:04.549" end="00:27:09.190" style="s2">kommen was denken sie darüber</p>
+<p begin="00:27:09.730" end="00:27:15.770" style="s2">alles was ich jetzt dort über wird</p>
+<p begin="00:27:12.350" end="00:27:18.130" style="s2">erzählen war wäre etwas von mir einen</p>
+<p begin="00:27:15.770" end="00:27:21.080" style="s2">empfindung ich habe das nicht gesehen</p>
+<p begin="00:27:18.130" end="00:27:22.910" style="s2">ich habe ihn jetzt das geld ganz genau</p>
+<p begin="00:27:21.080" end="00:27:28.100" style="s2">gesagt was ich erlebt habe</p>
+<p begin="00:27:22.910" end="00:27:31.760" style="s2">was vor meiner geburt war habe ich noch</p>
+<p begin="00:27:28.100" end="00:27:35.419" style="s2">nicht gesehen und dort in den vorhof das</p>
+<p begin="00:27:31.760" end="00:27:36.320" style="s2">habe ich nicht gesehen ich war vor</p>
+<p begin="00:27:35.419" end="00:27:38.970" style="s2">meiner geburt</p>
+<p begin="00:27:36.320" end="00:27:42.940" style="s2">ich kann es nicht sagen was ich war</p>
+<p begin="00:27:38.970" end="00:27:44.950" style="s2">willkommen bin so aber sie haben glaube</p>
+<p begin="00:27:42.940" end="00:27:48.550" style="s2">ich etwas davon erwähnt dass dieses</p>
+<p begin="00:27:44.950" end="00:27:50.140" style="s2">licht oder dieser zustand generell für</p>
+<p begin="00:27:48.550" end="00:27:56.650" style="s2">sie wie eine heimat war eine</p>
+<p begin="00:27:50.140" end="00:27:57.250" style="s2">geborgenheit etwas vertrautes genau das</p>
+<p begin="00:27:56.650" end="00:27:59.580" style="s2">zu halten</p>
+<p begin="00:27:57.250" end="00:28:02.350" style="s2">da haben sie recht als ich dort war</p>
+<p begin="00:27:59.580" end="00:28:06.820" style="s2">fühlte ich mich wie sie schon einmal</p>
+<p begin="00:28:02.350" end="00:28:09.490" style="s2">dort gewesen ist die zu hause nach</p>
+<p begin="00:28:06.820" end="00:28:12.370" style="s2">langer abwesenheit geborgen</p>
+<p begin="00:28:09.490" end="00:28:16.710" style="s2">dann sagte ich auch ich möchte klar hier</p>
+<p begin="00:28:12.370" end="00:28:21.100" style="s2">bleiben wie ich will nicht zurück also</p>
+<p begin="00:28:16.710" end="00:28:23.320" style="s2">aus dieser erkenntnis heraus kennt man</p>
+<p begin="00:28:21.100" end="00:28:26.830" style="s2">schon ein was man schon mal dort war</p>
+<p begin="00:28:23.320" end="00:28:29.080" style="s2">aber ich kann es nicht sagen weil ich</p>
+<p begin="00:28:26.830" end="00:28:32.320" style="s2">weiß es nicht und wenn ich etwas nicht</p>
+<p begin="00:28:29.080" end="00:28:35.860" style="s2">weißt dann sage ich auch nicht wird es</p>
+<p begin="00:28:32.320" end="00:28:39.030" style="s2">wäre überheblich das was wir also jetzt</p>
+<p begin="00:28:35.860" end="00:28:43.300" style="s2">als abschluss möchte ich doch außerdem</p>
+<p begin="00:28:39.030" end="00:28:49.300" style="s2">dass ich in der schrift wird von der</p>
+<p begin="00:28:43.300" end="00:28:51.280" style="s2">entrückung gebetet und ich vor dem komma</p>
+<p begin="00:28:49.300" end="00:28:57.160" style="s2">wusste ich ja überhaupt nichts von der</p>
+<p begin="00:28:51.280" end="00:29:00.340" style="s2">entrückung 00 ahnung und daher zeigte</p>
+<p begin="00:28:57.160" end="00:29:03.570" style="s2">mir ich sah mich im rollstuhl</p>
+<p begin="00:29:00.340" end="00:29:07.330" style="s2">ich sah mich und ich wusste dass ich</p>
+<p begin="00:29:03.570" end="00:29:09.850" style="s2">dass ich das war ich so habe und mein</p>
+<p begin="00:29:07.330" end="00:29:14.200" style="s2">gesicht nicht so konnte ich denn mein</p>
+<p begin="00:29:09.850" end="00:29:18.130" style="s2">alter nicht nicht einordnen bin ich 50</p>
+<p begin="00:29:14.200" end="00:29:22.600" style="s2">bin ich 80 weiß es nicht um sich solch</p>
+<p begin="00:29:18.130" end="00:29:25.150" style="s2">bahnen gelenkt und es von einer sekunde</p>
+<p begin="00:29:22.600" end="00:29:28.140" style="s2">auf die andere wurde es von horizont zu</p>
+<p begin="00:29:25.150" end="00:29:31.540" style="s2">horizont gleichen teilen das heißt</p>
+<p begin="00:29:28.140" end="00:29:33.460" style="s2">norden osten süden nächsten war überall</p>
+<p begin="00:29:31.540" end="00:29:37.600" style="s2">ein gleißend helles licht</p>
+<p begin="00:29:33.460" end="00:29:41.920" style="s2">ich schloss so meine halten also bleibt</p>
+<p begin="00:29:37.600" end="00:29:47.890" style="s2">designer drogen einem klar sendung und</p>
+<p begin="00:29:41.920" end="00:29:49.860" style="s2">in diesem moment wo ich ab und so sowie</p>
+<p begin="00:29:47.890" end="00:29:53.470" style="s2">wenn man von einem gummiband gezogen</p>
+<p begin="00:29:49.860" end="00:29:55.140" style="s2">wert und ich sage dir hätte wie sie</p>
+<p begin="00:29:53.470" end="00:30:00.570" style="s2">kleine wurde</p>
+<p begin="00:29:55.140" end="00:30:04.590" style="s2">ich konnte das nicht stimmt das nicht</p>
+<p begin="00:30:00.570" end="00:30:10.240" style="s2">und als ich in die decke wolkendecke</p>
+<p begin="00:30:04.590" end="00:30:15.910" style="s2">einteilte von der sekunde an war ich</p>
+<p begin="00:30:10.240" end="00:30:20.140" style="s2">wieder aufdrehte das heißt drüben an der</p>
+<p begin="00:30:15.910" end="00:30:22.060" style="s2">wolkendecke am anderen wartet so wie es</p>
+<p begin="00:30:20.140" end="00:30:24.610" style="s2">geschrieben in der bibel geprallt und</p>
+<p begin="00:30:22.060" end="00:30:27.660" style="s2">die breiteste jesus christus und die</p>
+<p begin="00:30:24.610" end="00:30:33.070" style="s2">entwicklung heißt es wird da kommen alle</p>
+<p begin="00:30:27.660" end="00:30:35.980" style="s2">seine gläubigen leben und vorgängig die</p>
+<p begin="00:30:33.070" end="00:30:39.850" style="s2">gestorben sind in christus werden</p>
+<p begin="00:30:35.980" end="00:30:40.840" style="s2">entrückt das heißt eingeholt die wir</p>
+<p begin="00:30:39.850" end="00:30:43.360" style="s2">nach hause holen</p>
+<p begin="00:30:40.840" end="00:30:47.530" style="s2">und es gibt ja einmal eine generation</p>
+<p begin="00:30:43.360" end="00:30:49.240" style="s2">die noch lebt wie ich jetzt lebe sie</p>
+<p begin="00:30:47.530" end="00:30:53.260" style="s2">müssen nicht alle gestorben sein</p>
+<p begin="00:30:49.240" end="00:30:53.950" style="s2">und ich behaupte jetzt das ist meine</p>
+<p begin="00:30:53.260" end="00:30:57.870" style="s2">meinung</p>
+<p begin="00:30:53.950" end="00:31:01.830" style="s2">ich gehöre zu der generation die</p>
+<p begin="00:30:57.870" end="00:31:07.870" style="s2">entrückt wird während der lebenszeit</p>
+<p begin="00:31:01.830" end="00:31:11.490" style="s2">viele christen die das e10 werden zehn</p>
+<p begin="00:31:07.870" end="00:31:14.770" style="s2">werden mich verstehen was ich meine</p>
+<p begin="00:31:11.490" end="00:31:18.610" style="s2">weil das genauso wie das beschriebenen</p>
+<p begin="00:31:14.770" end="00:31:22.060" style="s2">titel man jesus wieder kommt wird zuerst</p>
+<p begin="00:31:18.610" end="00:31:25.480" style="s2">die toten in christus und dem gleichen</p>
+<p begin="00:31:22.060" end="00:31:31.180" style="s2">nur die noch lebendige generation</p>
+<p begin="00:31:25.480" end="00:31:34.300" style="s2">menschen eingeholt und ich weiß schon</p>
+<p begin="00:31:31.180" end="00:31:37.060" style="s2">was ich in der wolkendecke einfach weil</p>
+<p begin="00:31:34.300" end="00:31:39.460" style="s2">man die wolke decken erwartet gut auf</p>
+<p begin="00:31:37.060" end="00:31:42.780" style="s2">uns und ich kann gott nicht sehen und</p>
+<p begin="00:31:39.460" end="00:31:46.960" style="s2">dort war der schnitt und das war wie ein</p>
+<p begin="00:31:42.780" end="00:31:50.830" style="s2">wie ein ein geschenk an mich dass er mir</p>
+<p begin="00:31:46.960" end="00:31:54.280" style="s2">das noch zeigte was ich in dieser</p>
+<p begin="00:31:50.830" end="00:31:57.970" style="s2">generation von menschen bin die bei</p>
+<p begin="00:31:54.280" end="00:31:59.180" style="s2">lebendigem leibe heimgeholt werden und</p>
+<p begin="00:31:57.970" end="00:32:03.680" style="s2">das ist</p>
+<p begin="00:31:59.180" end="00:32:07.190" style="s2">das sagt sich nicht immer vor allem in</p>
+<p begin="00:32:03.680" end="00:32:10.070" style="s2">den schulklassen bibel unterricht gehe</p>
+<p begin="00:32:07.190" end="00:32:11.810" style="s2">ich ja auch immer wieder mal da erzähle</p>
+<p begin="00:32:10.070" end="00:32:14.330" style="s2">ich das nicht weil die kinder sind dann</p>
+<p begin="00:32:11.810" end="00:32:15.550" style="s2">mit mit diesem thema dann wissen</p>
+<p begin="00:32:14.330" end="00:32:22.370" style="s2">gefordert</p>
+<p begin="00:32:15.550" end="00:32:28.400" style="s2">aber das ist für mich ein viren sollten</p>
+<p begin="00:32:22.370" end="00:32:32.390" style="s2">wie soll ich sagen wie ein eine freude</p>
+<p begin="00:32:28.400" end="00:32:35.570" style="s2">dass er mir das noch gezeigt hat dass</p>
+<p begin="00:32:32.390" end="00:32:37.970" style="s2">das so stattfinden mir dass ich werde</p>
+<p begin="00:32:35.570" end="00:32:41.890" style="s2">nicht eines normalen todes sterben</p>
+<p begin="00:32:37.970" end="00:32:45.410" style="s2">sondern ich werde lebendigkeit geholt</p>
+<p begin="00:32:41.890" end="00:32:51.230" style="s2">und die zeichen der zeit die wir heute</p>
+<p begin="00:32:45.410" end="00:32:54.740" style="s2">verträge habe mit dem ganzen und fange</p>
+<p begin="00:32:51.230" end="00:32:56.710" style="s2">jetzt nicht das niveau wenn jeder mensch</p>
+<p begin="00:32:54.740" end="00:33:01.870" style="s2">weiß was ich meine</p>
+<p begin="00:32:56.710" end="00:33:06.800" style="s2">sind wir wirklich in der zeit war gott</p>
+<p begin="00:33:01.870" end="00:33:08.920" style="s2">einreichen wert japanische sie die</p>
+<p begin="00:33:06.800" end="00:33:13.760" style="s2">vielen dank für dieses gespräch</p>
+<p begin="00:33:08.920" end="00:33:17.940" style="s2">dann gehen dass ich so frei über gott</p>
+<p begin="00:33:13.760" end="00:34:08.430" style="s2">und und die zukunft sprechen durfte</p>
+<p begin="00:33:17.940" end="00:34:08.430" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

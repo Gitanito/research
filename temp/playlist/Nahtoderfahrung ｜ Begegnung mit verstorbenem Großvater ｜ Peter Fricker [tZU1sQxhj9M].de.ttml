@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:12.420" end="00:00:16.040" style="s2">Vor 40 Jahren hatte ich eine Nahtoderfahrung.</p>
+<p begin="00:00:16.040" end="00:00:20.460" style="s2">Diese passierte bei einem Unfall, als ich<br />an mein Haus ein Aquarium anbaute.</p>
+<p begin="00:00:20.460" end="00:00:26.210" style="s2">Das Aquarium mit den Fundamenten hatte ein<br />Gewicht von ca. 17.000 kg.</p>
+<p begin="00:00:26.210" end="00:00:30.520" style="s2">Das Becken enthielt über 3.500 Liter Meerwasser.</p>
+<p begin="00:00:30.520" end="00:00:35.340" style="s2">Am Tag vor dem Unfall montierte ich provisorisch<br />eine Pumpe.</p>
+<p begin="00:00:35.340" end="00:00:41.360" style="s2">Als ich am nächsten Tag nach Hause kam, vibrierte<br />die Pumpe und ich habe sie kurz bewegt.</p>
+<p begin="00:00:41.360" end="00:00:46.760" style="s2">Der Anschluss hatte 3 mal 380 Volt Starkstrom,<br />16 Amper.</p>
+<p begin="00:00:46.760" end="00:00:51.850" style="s2">Die Pumpe löste sich und das Meerwasser strömte<br />über mich und über den provisorischen Anschluss.</p>
+<p begin="00:00:51.850" end="00:00:53.860" style="s2">Dabei bekam ich einen Stromschlag!</p>
+<p begin="00:00:53.860" end="00:00:59.750" style="s2">Ich stand mit dem linken Bein im Salzwasser<br />und an meiner linken Hand entstanden Lichtbögen</p>
+<p begin="00:00:59.750" end="00:01:05.280" style="s2">von 20 cm über Daumen und Zeigefinger bis<br />hin zum Rahmen aus Chromstahl.</p>
+<p begin="00:01:05.280" end="00:01:09.900" style="s2">Man kann sich nicht vorstellen, wie stark<br />die Schmerzen waren.</p>
+<p begin="00:01:09.900" end="00:01:14.510" style="s2">Die Muskeln zogen sich zusammen und es war<br />unmöglich sich zu befreien.</p>
+<p begin="00:01:14.510" end="00:01:17.760" style="s2">Ich wusste in diesem Moment, dass ich sterben<br />werde.</p>
+<p begin="00:01:17.760" end="00:01:20.250" style="s2">Ich wollte jedoch nicht aufgeben.</p>
+<p begin="00:01:20.250" end="00:01:24.910" style="s2">Ich dachte immer, jetzt muss der FI-Schalter<br />reagieren, der damals ein Novum war.</p>
+<p begin="00:01:24.910" end="00:01:25.910" style="s2">Aber nein!</p>
+<p begin="00:01:25.910" end="00:01:28.360" style="s2">Das konnte er nicht, weil er falsch eingebaut<br />war.</p>
+<p begin="00:01:28.360" end="00:01:35.210" style="s2">Auf einmal spürte ich keinen Schmerz mehr<br />und ich, oder meine Seele, verließ meinen</p>
+<p begin="00:01:35.210" end="00:01:38.310" style="s2">zuckenden Körper, der noch mit Wasser überflutet<br />wurde.</p>
+<p begin="00:01:38.310" end="00:01:42.670" style="s2">Ich sah, wie er sich schüttelte, jedoch spürte<br />ich nichts.</p>
+<p begin="00:01:42.670" end="00:01:46.920" style="s2">Man sagt, dass man in diesem Moment die Dualität<br />aufgibt.</p>
+<p begin="00:01:46.920" end="00:01:53.210" style="s2">Von weitem erblickte ich ein helles Licht<br />und wurde, ohne, dass ich es beabsichtigte,</p>
+<p begin="00:01:53.210" end="00:01:54.210" style="s2">hingezogen.</p>
+<p begin="00:01:54.210" end="00:02:00.250" style="s2">Das Licht strahlte Wärme, Geborgenheit, Demut<br />und Glück aus.</p>
+<p begin="00:02:00.250" end="00:02:04.750" style="s2">Es gibt nicht genügend Adjektive, um diese<br />Schönheit zu beschreiben.</p>
+<p begin="00:02:04.750" end="00:02:06.799" style="s2">Es war, als würde ich nach Hause kommen.</p>
+<p begin="00:02:06.799" end="00:02:12.170" style="s2">Auf einer schönen Wiese winkte mir mein Großvater<br />Charles zu.</p>
+<p begin="00:02:12.170" end="00:02:17.080" style="s2">Er lächelte und gab mir mit unmissverständlichen<br />Zeichen zu verstehen, dass ich zurück muss.</p>
+<p begin="00:02:17.080" end="00:02:22.470" style="s2">Von ihm hatte ich übrigens meine zwei rechten<br />Hände geerbt.</p>
+<p begin="00:02:22.470" end="00:02:26.050" style="s2">Mit einem Schlag erwachte ich in meinem zerschundenen<br />Körper.</p>
+<p begin="00:02:26.050" end="00:02:32.220" style="s2">In genau diesem Moment machte meine Frau die<br />Tür auf und half mir beim Aufstehen.</p>
+<p begin="00:02:32.220" end="00:02:36.740" style="s2">Irgendwie bin auf eine Verlängerung gefallen,<br />wodurch der Starkstrom unterbrochen wurde.</p>
+<p begin="00:02:36.740" end="00:02:42.390" style="s2">Mein Arzt kam und kontrollierte mein Herz<br />und den Blutdruck.</p>
+<p begin="00:02:42.390" end="00:02:47.110" style="s2">Er sagte: „Peter, normalerweise stirbt man<br />beim Starkstrom, besonders wenn man dabei</p>
+<p begin="00:02:47.110" end="00:02:49.640" style="s2">mit Salzwasser in Berührung kommt!</p>
+<p begin="00:02:49.640" end="00:02:51.640" style="s2">Du hast ein zweites Leben bekommen.</p>
+<p begin="00:02:51.640" end="00:02:52.640" style="s2">Mach was draus!“</p>
+<p begin="00:02:52.640" end="00:02:56.230" style="s2">Manchmal weine ich, weil ich nicht bleiben<br />durfte.</p>
+<p begin="00:02:56.230" end="00:03:01.990" style="s2">Durch dieses Ereignis wurde ich zu einem emphatischen<br />Menschen und seither kann ich niemandem mehr</p>
+<p begin="00:03:01.990" end="00:03:03.830" style="s2">böse sein.</p>
+<p begin="00:03:03.830" end="00:03:10.890" style="s2">Wenn jeder Mensch diese Erfahrung machen könnte,<br />dann hätten wir keine Kriege, Morde und Habsucht.</p>
+<p begin="00:03:10.890" end="00:03:13.210" style="s2">Das Materielle hat für mich nicht mehr viel<br />Wert.</p>
+<p begin="00:03:13.210" end="00:03:17.810" style="s2">Früher habe ich unter anderem als Ausbildner<br />für Fahrlehrer und Experten garbeitet.</p>
+<p begin="00:03:17.810" end="00:03:23.190" style="s2">Jetzt bin ich 75 Jahre alt und helfe gerne<br />den Menschen, die Probleme beim Fahren haben.</p>
+<p begin="00:03:23.190" end="00:03:28.980" style="s2">Ich schule die Schwächsten der Schwachen<br />für den Führerschein und liebe diese Arbeit.</p>
+<p begin="00:03:28.980" end="00:03:35.550" style="s2">Eine alte Frau in Trauer frage mich einmal:<br />„Peter, hast du Gott gesehen?“ Ich sagte</p>
+<p begin="00:03:35.550" end="00:03:38.830" style="s2">ihr: „Da ist kein Thron, auf dem Gott sitzen<br />würde.</p>
+<p begin="00:03:38.830" end="00:03:43.440" style="s2">Das, was dort im Licht ist, ist eine Seelengemeinschaft.</p>
+<p begin="00:03:43.440" end="00:03:44.870" style="s2">Wir alle sind ein Teil davon“.</p>
+<p begin="00:03:44.870" end="00:03:49.620" style="s2">Ich habe von der Seelengemeinschaft noch einige<br />Aufgaben bekommen.</p>
+<p begin="00:03:49.620" end="00:03:55.090" style="s2">Ich denke, der Hinduistische Glaube kommt<br />dem, was ich da erlebte, am nächsten.</p>
+<p begin="00:03:55.090" end="00:03:58.780" style="s2">Wovor ich Angst habe, ist der Sterbeprozess.</p>
+<p begin="00:03:58.780" end="00:04:02.940" style="s2">Aber ich habe keine Angst vor dem Tod, weil<br />ich weiß, was mich erwartet.</p>
+</div>
+</body>
+</tt>

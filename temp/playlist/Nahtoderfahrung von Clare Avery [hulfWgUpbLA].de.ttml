@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.439" end="00:00:04.620" style="s2">auf einmal wurde mir klar dass ich</p>
+<p begin="00:00:02.879" end="00:00:06.720" style="s2">selbst tatsächlich gar nicht mehr auf</p>
+<p begin="00:00:04.620" end="00:00:08.840" style="s2">dem Bett lag sondern dass ich mich über</p>
+<p begin="00:00:06.720" end="00:00:12.059" style="s2">das Bett hinweg nach oben bewegt hatte</p>
+<p begin="00:00:08.840" end="00:00:15.080" style="s2">ich war oben an der Decke und sah nach</p>
+<p begin="00:00:12.059" end="00:00:15.080" style="s2">unten auf meinen Körper</p>
+<p begin="00:00:16.460" end="00:00:21.720" style="s2">dann bewegte ich mich plötzlich durch</p>
+<p begin="00:00:18.900" end="00:00:24.000" style="s2">einen Tunnel hindurch zuerst war es eher</p>
+<p begin="00:00:21.720" end="00:00:26.220" style="s2">dunkel dann wurde es zum Ende hin golden</p>
+<p begin="00:00:24.000" end="00:00:27.800" style="s2">und ich tauchte ein in diesen absolut</p>
+<p begin="00:00:26.220" end="00:00:30.960" style="s2">wunderschönen Garten</p>
+<p begin="00:00:27.800" end="00:00:34.399" style="s2">und als ich weiter ging stand wieder auf</p>
+<p begin="00:00:30.960" end="00:00:34.399" style="s2">der rechten Seite mein Vater</p>
+<p begin="00:00:34.820" end="00:00:39.859" style="s2">zwei Jahre vorher</p>
+<p begin="00:00:36.530" end="00:00:39.859" style="s2">[Musik]</p>
+<p begin="00:00:40.200" end="00:00:44.700" style="s2">er sah so aus wie in der Zeit bevor er</p>
+<p begin="00:00:42.540" end="00:00:47.280" style="s2">krank wurde er war groß und</p>
+<p begin="00:00:44.700" end="00:00:49.379" style="s2">kontaktfreudig und freundlich nicht so</p>
+<p begin="00:00:47.280" end="00:00:51.660" style="s2">wie ihr später war kurz vor seinem Ende</p>
+<p begin="00:00:49.379" end="00:00:54.440" style="s2">als er Krebs hatte und sehr alt und</p>
+<p begin="00:00:51.660" end="00:00:54.440" style="s2">schwach aussah</p>
+</div>
+</body>
+</tt>
